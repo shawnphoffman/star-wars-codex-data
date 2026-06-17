@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "The Joiner King",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 35,
+    "startYear": 35
+  },
+  "releaseDate": "2005-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-joiner-king",
+  "title": "The Joiner King"
+}

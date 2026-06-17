@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marjory Liu",
+      "role": "writer",
+      "slug": "marjory-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "artist",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Sonia Oback",
+      "role": "artist",
+      "slug": "sonia-oback"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "artist",
+      "slug": "lee-bermejo"
+    }
+  ],
+  "displayTitle": "Han Solo, Part II",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "han-solo-graphic-novel",
+  "releaseDate": "2016-07-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-part-ii",
+  "synopsis": "Han Solo has entered the space race of his dreams—the DRAGON VOID! But he's on an undercover mission—to find a traitor within the Rebellion. Teamed with Wookiee warrior Chewbacca, will they be able to find the mole before trouble finds them?",
+  "title": "Han Solo, Part II"
+}

@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Letterer Clayton Cowles",
+      "role": "artist",
+      "slug": "letterer-clayton-cowles"
+    },
+    {
+      "name": "Colorist Guru Efx",
+      "role": "artist",
+      "slug": "colorist-guru-efx"
+    },
+    {
+      "name": "David Marquez",
+      "role": "artist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "artist",
+      "slug": "matthew-wilson"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #47: Mutiny at Mon Cala, Part IV",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-8",
+  "releaseDate": "2018-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-47-4",
+  "synopsis": "The Rebellion's fight to liberate Mon Cala continues as Han, Luke and Leia undertake a perilous and nigh-impossible rescue",
+  "title": "Star Wars (2015) #47: Mutiny at Mon Cala, Part IV"
+}

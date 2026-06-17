@@ -1,0 +1,62 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "James Gilarte",
+      "role": "writer",
+      "slug": "james-gilarte"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Alain Mauricet",
+      "role": "artist",
+      "slug": "alain-mauricet"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Michele Pasta",
+      "role": "artist",
+      "slug": "michele-pasta"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "artist",
+      "slug": "charlie-kirchoff"
+    },
+    {
+      "name": "Adele Matera",
+      "role": "artist",
+      "slug": "adele-matera"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #15 - An Unlikely Friendship",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 33,
+    "startYear": 33
+  },
+  "parentWorkSlug": "adventures-vol-2",
+  "releaseDate": "2018-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-15",
+  "synopsis": "Poe and BB-8 are on a distant planet in search of allies for the Resistance. But it doesn’t take long for the mission to turn south! Attacked by locals who aren’t exactly welcoming, the pilot and droid duo must use their teamwork and resourcefulness to make it out alive. And that’s not to mention the massive creatures native to the planet! In a tight spot, they’re rescued by a mysterious helping hand. . .",
+  "title": "Star Wars Adventures (2017) #15 - An Unlikely Friendship"
+}

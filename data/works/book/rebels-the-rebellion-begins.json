@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Rebels: The Rebellion Begins",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-the-rebellion-begins",
+  "synopsis": "Every amazing story has a humble beginning, and Star Wars Rebels is no exception. The Rebellion Begins is a retelling of Ezra’s first run-in with the Ghost Crew and the ultimate decision to join their cause. Revisit this first step into one of the greatest stories ever told in a way you’ve never experienced it before: In the form of a novelization written by Michael Kogge.",
+  "title": "Rebels: The Rebellion Begins"
+}

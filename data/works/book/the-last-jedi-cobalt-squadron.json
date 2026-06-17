@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Last Jedi: Cobalt Squadron",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405286784"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405286787"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405286784",
+      "isbn13": "9781405286787",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-cobalt-squadron",
+  "synopsis": "The Resistance fighters that make up Cobalt Squadron all have their reasons for joining the struggle against the First Order. These are their stories.",
+  "title": "The Last Jedi: Cobalt Squadron"
+}

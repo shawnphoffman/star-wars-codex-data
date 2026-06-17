@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #19: Claws of the Dragon, Part 6",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-4",
+  "releaseDate": "2008-02-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-19-claws-of-the-dragon-part-6",
+  "title": "Legacy #19: Claws of the Dragon, Part 6"
+}

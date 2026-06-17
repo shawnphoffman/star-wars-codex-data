@@ -1,0 +1,37 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Andy Mangels",
+      "role": "writer",
+      "slug": "andy-mangels"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": -33
+  },
+  "releaseDate": "2000-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-bounty-hunters",
+  "title": "The Bounty Hunters"
+}

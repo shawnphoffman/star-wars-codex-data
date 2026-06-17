@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Barbara Hambly",
+      "role": "writer",
+      "slug": "barbara-hambly"
+    }
+  ],
+  "displayTitle": "Children of the Jedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 12,
+    "startYear": 12
+  },
+  "releaseDate": "1995-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "children-of-the-jedi",
+  "title": "Children of the Jedi"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steven Barnes",
+      "role": "writer",
+      "slug": "steven-barnes"
+    }
+  ],
+  "displayTitle": "The Hive",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2004-05-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-hive",
+  "title": "The Hive"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #21 Out of the Wilderness 4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-5",
+  "releaseDate": "2012-02-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-21-out-of-the-wilderness-4",
+  "title": "Dark Times #21 Out of the Wilderness 4"
+}

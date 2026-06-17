@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Warriors Of The Deep",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-10-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-warriors-of-the-deep",
+  "title": "The Clone Wars: Warriors Of The Deep"
+}

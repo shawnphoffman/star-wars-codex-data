@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Legends Epic Collection: Tales of the Jedi Vol. 2",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -3998,
+    "startYear": -5000
+  },
+  "releaseDate": "2022-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legends-epic-collection-tales-of-the-jedi-vol-2",
+  "title": "Legends Epic Collection: Tales of the Jedi Vol. 2"
+}

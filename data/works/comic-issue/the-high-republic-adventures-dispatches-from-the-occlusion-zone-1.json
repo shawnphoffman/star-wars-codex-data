@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Paris Alleyne",
+      "role": "artist",
+      "slug": "paris-alleyne"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #1",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-dispatches-from-the-occlusion-zonethe-high-republic-adventures-dispatches-from-the-occlusion-zone-trade-paperback",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone-1",
+  "synopsis": "Issue 1 of 4 from Dark Horse Comics The High Republic Adventures Dispatches from the Occlusion Zone miniseries\nThe marauders known as the Nihil have stranded hundreds of worlds in a part of the galaxy known as the Occlusion Zone. With communications blocked and ships unable to enter, Jedi Knights Keeve Trennis and Elzar Mann have turned to centuries-old technology to send messages of hope into the Zone. The messages they receive in return—from Jedi younglings, Padawans, and Knights, and more—will set the stage for the final battle between the noble Jedi and the nefarious Nihil.",
+  "title": "The High Republic Adventures: Dispatches from the Occlusion Zone #1"
+}

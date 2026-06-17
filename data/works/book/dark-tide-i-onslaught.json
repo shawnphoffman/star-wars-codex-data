@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "Dark Tide I: Onslaught",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "2000-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-tide-i-onslaught",
+  "title": "Dark Tide I: Onslaught"
+}

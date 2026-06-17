@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Walter Jon Williams",
+      "role": "writer",
+      "slug": "walter-jon-williams"
+    }
+  ],
+  "displayTitle": "Destiny's Way",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 28,
+    "startYear": 28
+  },
+  "releaseDate": "2002-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "destinys-way",
+  "title": "Destiny's Way"
+}

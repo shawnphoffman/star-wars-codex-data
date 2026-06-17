@@ -1,0 +1,41 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Various",
+      "role": "artist",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) Hardcover (Hardcover Omnibus)",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2023-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2016-hardcover-omnibus-collection",
+  "synopsis": "Star Wars: Doctor Aphra Omnibus Vol. 1 is a hardcover compilation of the entirety of the entire Marvel Comics Doctor Aphra (2016) Series.",
+  "title": "Doctor Aphra (2016) Hardcover (Hardcover Omnibus)"
+}

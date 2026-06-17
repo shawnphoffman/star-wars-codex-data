@@ -1,0 +1,34 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "C-3PO Does NOT Like Sand!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368043461"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368043465"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368043461",
+      "isbn13": "9781368043465",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "c-3po-does-not-like-sand",
+  "synopsis": "The protocol droid C-3PO struggles to navigate his latest mission through the unbearable sands of Tatooine while his fellow droids, R2-D2 and BB-8, choose fun over focusing on finishing the mission.",
+  "title": "C-3PO Does NOT Like Sand!"
+}

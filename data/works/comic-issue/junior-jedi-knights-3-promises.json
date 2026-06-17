@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Nancy Richardson",
+      "role": "writer",
+      "slug": "nancy-richardson"
+    }
+  ],
+  "displayTitle": "Junior Jedi Knights #3: Promises",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 22,
+    "startYear": 22
+  },
+  "releaseDate": "1996-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "junior-jedi-knights-3-promises",
+  "title": "Junior Jedi Knights #3: Promises"
+}

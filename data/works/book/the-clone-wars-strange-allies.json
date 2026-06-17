@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Strange Allies",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-10-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-strange-allies",
+  "title": "The Clone Wars: Strange Allies"
+}

@@ -1,0 +1,54 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jackson Miller",
+      "role": "writer",
+      "slug": "jackson-miller"
+    },
+    {
+      "name": "Saladin Ahmed",
+      "role": "writer",
+      "slug": "saladin-ahmed"
+    },
+    {
+      "name": "Rae Carson",
+      "role": "writer",
+      "slug": "rae-carson"
+    }
+  ],
+  "displayTitle": "Canto Bight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "152479953X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781524799533"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "152479953X",
+      "isbn13": "9781524799533",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-12-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "canto-bight",
+  "synopsis": "On Canto Bight, anyone can secure a fortune … for a price. Across four separate stories, beings from all over the galaxy filled with high hopes will learn whether or not the risks they took were worth the sacrifices they’ve made.",
+  "title": "Canto Bight"
+}

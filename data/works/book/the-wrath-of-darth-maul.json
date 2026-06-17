@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Wrath of Darth Maul",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -51
+  },
+  "releaseDate": "2012-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-wrath-of-darth-maul",
+  "title": "The Wrath of Darth Maul"
+}

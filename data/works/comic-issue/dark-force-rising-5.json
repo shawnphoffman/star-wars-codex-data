@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    }
+  ],
+  "displayTitle": "Dark Force Rising #5",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "dark-force-rising-graphic-novel",
+  "releaseDate": "1997-09-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-force-rising-5",
+  "title": "Dark Force Rising #5"
+}

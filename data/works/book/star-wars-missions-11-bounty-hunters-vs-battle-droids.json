@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Star Wars Missions 11: Bounty Hunters vs. Battle Droids",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-missions-11-bounty-hunters-vs-battle-droids",
+  "title": "Star Wars Missions 11: Bounty Hunters vs. Battle Droids"
+}

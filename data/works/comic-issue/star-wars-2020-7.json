@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "artist",
+      "slug": "jesus-saiz"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #07",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-vol-1",
+  "releaseDate": "2020-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-7",
+  "synopsis": "Star Wars (2020) #07 is the seventh issue of the canon comic book series Star Wars (2020) in which the Alliance Fleet prepares for battle with Commander Ellian Zahra, as she reflects upon her training from Grand Moff Wilhuff Tarkin.\nSHE WILL HAVE REVENGE! COMMANDER ELLIAN ZAHRA has been tasked by the terrifying DARTH VADER with the job of tracking down the remnants of the REBEL FLEET, scattered since the BATTLE OF HOTH. From the bridge of her flagship the TARKIN'S WILL, she hunts the galaxy, eradicating all resistance, her secret goal to destroy LEIA ORGANA. But why such hate for the PRINCESS OF ALDERAAN? The truth – will be REVEALED!",
+  "title": "Star Wars (2020) #07"
+}

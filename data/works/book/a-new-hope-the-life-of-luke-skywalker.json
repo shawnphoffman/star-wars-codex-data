@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "A New Hope: The Life of Luke Skywalker",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": -15
+  },
+  "releaseDate": "2009-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-hope-the-life-of-luke-skywalker",
+  "title": "A New Hope: The Life of Luke Skywalker"
+}

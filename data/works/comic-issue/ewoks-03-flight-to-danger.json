@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    }
+  ],
+  "displayTitle": "Ewoks #03: Flight to Danger",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "ewoks",
+  "releaseDate": "1985-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-03-flight-to-danger",
+  "title": "Ewoks #03: Flight to Danger"
+}

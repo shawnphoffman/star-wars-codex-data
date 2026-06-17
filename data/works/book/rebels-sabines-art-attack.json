@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Haddle",
+      "role": "writer",
+      "slug": "jennifer-haddle"
+    }
+  ],
+  "displayTitle": "Rebels: Sabine's Art Attack",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2015-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-sabines-art-attack",
+  "synopsis": "Sabine is an artist on a mission! In this level 1 early reader, Sabine takes on an entire team of stormtroopers and adds her colorful mark to an Imperial TIE fighter.",
+  "title": "Rebels: Sabine's Art Attack"
+}

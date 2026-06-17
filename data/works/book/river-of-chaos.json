@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Louise Simonson",
+      "role": "writer",
+      "slug": "louise-simonson"
+    }
+  ],
+  "displayTitle": "River Of Chaos",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1996-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "river-of-chaos",
+  "title": "River Of Chaos"
+}

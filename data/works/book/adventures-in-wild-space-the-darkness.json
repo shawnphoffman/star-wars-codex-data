@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Adventures in Wild Space: The Darkness",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368003079"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368003070"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368003079",
+      "isbn13": "9781368003070",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-darkness",
+  "synopsis": "Milo and Lina Graf find themselves stranded on a doomed starship.",
+  "title": "Adventures in Wild Space: The Darkness"
+}

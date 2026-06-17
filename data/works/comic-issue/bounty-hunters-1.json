@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #01",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2020-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-1",
+  "synopsis": "Bounty Hunters 1 is the first issue of the canon comic book series Star Wars: Bounty Hunters. It was written by Ethan Sacks, illustrated by Paolo Villanelli, and published by Marvel Comics.\nThe issue features the story \"Galaxy's Deadliest Part 1: Ghosts of Corellia,\" in which Nakano Lash, the treacherous mentor of bounty hunter Beilert Valance, resurfaces.\n\"VALANCE'S FIRST APPEARANCES, ALSO AVAILABLE…\" \"NEVER BETRAY A BOUNTY HUNTER – ESPECIALLY IF IT'S BOBA FETT!\"\nYears ago, VALANCE and fellow bounty hunters BOSSK and BOBA FETT took on a mission that went sideways in a bad way after Valance's mentor, NAKANO LASH, violently betrayed them. Valance's team barely escaped with their lives. He never thought he'd face his old mentor ever again…until Lash finally resurfaces under mysterious circumstances. Every bounty hunter in the galaxy wants a piece and Valance is hell-bent on getting to the prize first. He has score to settle—but so does Boba Fett!",
+  "title": "Bounty Hunters #01"
+}

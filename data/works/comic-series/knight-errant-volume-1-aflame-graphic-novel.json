@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant Volume 1: Aflame",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -1032,
+    "startYear": -1032
+  },
+  "releaseDate": "2011-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant-volume-1-aflame-graphic-novel",
+  "title": "Knight Errant Volume 1: Aflame"
+}

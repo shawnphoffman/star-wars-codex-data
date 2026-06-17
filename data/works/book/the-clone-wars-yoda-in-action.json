@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Heather Scott",
+      "role": "writer",
+      "slug": "heather-scott"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Yoda In Action",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-02-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-yoda-in-action",
+  "title": "The Clone Wars: Yoda In Action"
+}

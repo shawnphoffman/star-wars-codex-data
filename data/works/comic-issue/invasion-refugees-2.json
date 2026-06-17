@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Invasion: Refugees #2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "2009-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "invasion-refugees-2",
+  "title": "Invasion: Refugees #2"
+}

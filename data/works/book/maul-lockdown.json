@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "Maul: Lockdown",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345509048"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345509048",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "releaseDate": "2014-01-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "maul-lockdown",
+  "synopsis": "In service of his master Darth Sidious, Maul fights deadly opponents for more than just survival. He’s also after something that could take down the Jedi Order for good.",
+  "title": "Maul: Lockdown"
+}

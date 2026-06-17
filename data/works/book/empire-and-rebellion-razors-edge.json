@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martha Wells",
+      "role": "writer",
+      "slug": "martha-wells"
+    }
+  ],
+  "displayTitle": "Empire and Rebellion: Razor's Edge",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2013-09-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-and-rebellion-razors-edge",
+  "title": "Empire and Rebellion: Razor's Edge"
+}

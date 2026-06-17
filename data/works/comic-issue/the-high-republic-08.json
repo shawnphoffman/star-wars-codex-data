@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #08",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "releaseDate": "2021-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-08",
+  "synopsis": "The High Republic 8 is the eighth issue of the comic book series Star Wars: The High Republic.\nTHE BATTLE AGAINST THE DRENGIR REACHES ITS THRILLING CLIMAX!",
+  "title": "The High Republic (2021) #08"
+}

@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    }
+  ],
+  "displayTitle": "The High Republic: The Fallen Star",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593355398"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593355398",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -230
+  },
+  "releaseDate": "2022-01-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-fallen-star",
+  "synopsis": "Since its grand opening, Starlight Beacon has served as a center of hope for the galaxy. That’s why Marchion Ro, Eye of the Nihil, has his sights set on the station.",
+  "title": "The High Republic: The Fallen Star"
+}

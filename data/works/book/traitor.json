@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Stover",
+      "role": "writer",
+      "slug": "matthew-stover"
+    }
+  ],
+  "displayTitle": "Traitor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 27,
+    "startYear": 27
+  },
+  "releaseDate": "2002-07-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "traitor",
+  "title": "Traitor"
+}

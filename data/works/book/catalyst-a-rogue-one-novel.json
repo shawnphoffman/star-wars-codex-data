@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "Scott Biel",
+      "role": "coverArtist",
+      "slug": "scott-biel"
+    }
+  ],
+  "displayTitle": "Catalyst: A Rogue One Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511492"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 330,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511492",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -17,
+    "startYear": -21
+  },
+  "releaseDate": "2016-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "catalyst-a-rogue-one-novel",
+  "synopsis": "After Saw Gerrera rescues Jyn Erso and takes her under his wing, she slowly begins to learn the lengths he’s willing to go to rebel against the Empire’s reign.",
+  "title": "Catalyst: A Rogue One Novel"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #36: Renegade",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-7",
+  "releaseDate": "2009-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-36-renegade",
+  "title": "Legacy #36: Renegade"
+}

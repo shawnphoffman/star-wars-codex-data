@@ -1,0 +1,17 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "displayTitle": "Omnibus: Shadows of the Empire",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 3
+  },
+  "releaseDate": "2010-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omnibus-sote",
+  "title": "Omnibus: Shadows of the Empire"
+}

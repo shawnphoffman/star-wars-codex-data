@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    }
+  ],
+  "displayTitle": "Tales From The Occlusion Zone: Family Ties",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "tales-from-the-occlusion-zone",
+  "releaseDate": "2024-06-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-the-occlusion-zone-pathogen-de90f",
+  "synopsis": "\"Tales from the Occlusion Zone: Pathogen\" is a High Republic short story by Lydia Kang that was published as part of Tales from the Occlusion Zone in Star Wars Insider #226.",
+  "title": "Tales From The Occlusion Zone: Family Ties"
+}

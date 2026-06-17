@@ -1,0 +1,41 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "other",
+    "imprint": "Del Rey"
+  },
+  "creators": [
+    {
+      "name": "Miles Lane",
+      "role": "writer",
+      "slug": "miles-lane"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode III: Revenge of the Sith",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2016-11-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episodeiii-revenge-of-the-sith-hardcover-graphic-novel",
+  "synopsis": "Matthew Stover’s novelization of Revenge of the Sith dives deep into the rapidly fraying mind of Anakin Skywalker as he seeks answers the Jedi do not want him looking for: How to save the one he loves from death.",
+  "title": "Episode III: Revenge of the Sith"
+}

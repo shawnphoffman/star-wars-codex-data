@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #45: Rite of Passage, Part 4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -30,
+    "startYear": -30
+  },
+  "parentWorkSlug": "omnibus-clone-wars-v3-republic-falls",
+  "releaseDate": "2002-09-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-45-rite-of-passage-part-4",
+  "title": "Republic #45: Rite of Passage, Part 4"
+}

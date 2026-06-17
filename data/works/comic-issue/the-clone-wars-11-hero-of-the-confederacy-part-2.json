@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    }
+  ],
+  "displayTitle": "The Clone Wars #11: Hero of the Confederacy, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "parentWorkSlug": "clone-wars-volume-6",
+  "releaseDate": "2009-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-11-hero-of-the-confederacy-part-2",
+  "title": "The Clone Wars #11: Hero of the Confederacy, Part 2"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    }
+  ],
+  "displayTitle": "The Pandora Effect",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1981-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-pandora-effect",
+  "title": "The Pandora Effect"
+}

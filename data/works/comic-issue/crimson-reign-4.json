@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Marvel",
+    "pageCount": 22
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Crimson Reign #4",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "crimson-reign-trade-paperback",
+  "releaseDate": "2022-04-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-reign-4",
+  "synopsis": "The fourth issue of the Marvel canon comic miniseries Star Wars: Crimson Reign /p>\nTHE KNIGHTS OF REN have their role to play in QI’RA’S grand scheme to destabilize THE EMPIRE, and their task is arguably the most important…\nSomething crucial is locked away in FORTRESS VADER, and the Knights must steal it.\nA heist on the SITH-controlled furnace world of MUSTAFAR…with the Galaxy as the prize!",
+  "title": "Crimson Reign #4"
+}

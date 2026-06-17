@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Barbara Hambly",
+      "role": "writer",
+      "slug": "barbara-hambly"
+    }
+  ],
+  "displayTitle": "Planet of Twilight",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 13,
+    "startYear": 13
+  },
+  "releaseDate": "1997-03-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "planet-of-twilight",
+  "title": "Planet of Twilight"
+}

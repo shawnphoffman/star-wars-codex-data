@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Amanda Deibert",
+      "role": "writer",
+      "slug": "amanda-deibert"
+    },
+    {
+      "name": "Riccardo Facinni",
+      "role": "artist",
+      "slug": "riccardo-facinni"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #05",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents-trade-paperback",
+  "releaseDate": "2023-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-05",
+  "synopsis": "Issue 5 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nFrom the darkest days of the Clone Wars, comes a tale of evil and intrigue.\nDispatched by the nefarious Count Dooku, the Sith assassin Asajj Ventress stalks her prey from the Outer Rim all the way to the tranquil world of Naboo. But just what is her target? And can even the Jedi stand in her way?\nTake a walk on the Dark Side, in Star Wars: Hyperspace Stories #5!\nAppearances",
+  "title": "Hyperspace Stories #05"
+}

@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tessa Gratton",
+      "role": "writer",
+      "slug": "tessa-gratton"
+    }
+  ],
+  "displayTitle": "The High Republic: Quest for Planet X",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368082874"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368082877"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368082874",
+      "isbn13": "9781368082877",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "releaseDate": "2023-04-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-quest-for-planet",
+  "synopsis": "Even with a Jedi on board, one group’s quest to locate a long-lost planet isn’t going to be an easy one.",
+  "title": "The High Republic: Quest for Planet X"
+}

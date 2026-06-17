@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "displayTitle": "The Mandalorian Season 2 (Junior Novel)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368075967"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368075961"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368075967",
+      "isbn13": "9781368075961",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "2022-01-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-season-2-junior-novel",
+  "synopsis": "Relive the events of the second season of Star Wars: The Mandalorian in this compelling novelization for young readers.",
+  "title": "The Mandalorian Season 2 (Junior Novel)"
+}

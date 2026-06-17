@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Star Wars Adventures: Luke Skywalker And The Treasure Of The Dragonsnake",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2010-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "skywalker-and-the-dragonsnakes",
+  "title": "Star Wars Adventures: Luke Skywalker And The Treasure Of The Dragonsnake"
+}

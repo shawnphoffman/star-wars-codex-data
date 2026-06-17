@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #20: Twilight, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -31,
+    "startYear": -31
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "releaseDate": "2000-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-20-twilight-part-2",
+  "title": "Republic #20: Twilight, Part 2"
+}

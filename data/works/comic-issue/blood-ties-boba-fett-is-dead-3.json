@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Blood Ties: Boba Fett is Dead #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2012-06-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "blood-ties-boba-fett-is-dead-3",
+  "title": "Blood Ties: Boba Fett is Dead #3"
+}

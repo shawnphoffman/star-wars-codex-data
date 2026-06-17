@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Watch Out for Jabba the Hutt!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2008-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-watch-out-for-jabba-the-hutt",
+  "title": "The Clone Wars: Watch Out for Jabba the Hutt!"
+}

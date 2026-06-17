@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    }
+  ],
+  "displayTitle": "Young Jedi Adventures Free Comic Book Day 2024",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-free-comic-book-day",
+  "synopsis": "Is a one-shot comic and published as a Free Comic Book Day title on May the 4th 2024\nJourney to a galaxy far, far away with the younglings from the hit Disney+ streaming series Star Wars: Young Jedi Adventures, and guest-starring characters from the hit Dark Horse comic series Star Wars: The High Republic Adventures in \"Sky Parade Rescue!\"\nFeaturing two of Jedi Master Yoda's brightest students, Padawan Qort and Youngling Nubs!",
+  "title": "Young Jedi Adventures Free Comic Book Day 2024"
+}

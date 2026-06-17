@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian #1",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-vol-1-trade-paperback",
+  "releaseDate": "2022-07-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-1",
+  "synopsis": "Issue 1 of 8, of Marvel Comics The Mandalorian Season 1 Adaptation Series.\nFor the first time, The Madnalorian arrives in comics! Marvel Comics adaptation of Season 1 of The Mandalorian\nThe Mandalorian bounty hunter tracks a target for a well-paying, mysterious client. Witness the introduction of Din Djarin and the first meeting between the Mandalorian and the Child!",
+  "title": "The Mandalorian #1"
+}

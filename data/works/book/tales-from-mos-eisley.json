@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bruce Jones",
+      "role": "writer",
+      "slug": "bruce-jones"
+    }
+  ],
+  "displayTitle": "Tales from Mos Eisley",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1996-03-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-mos-eisley",
+  "title": "Tales from Mos Eisley"
+}

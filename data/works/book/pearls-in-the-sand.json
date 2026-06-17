@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Voronica Whitney-Robinson",
+      "role": "writer",
+      "slug": "voronica-whitney-robinson"
+    }
+  ],
+  "displayTitle": "Pearls in the Sand",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2004-02-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "pearls-in-the-sand",
+  "title": "Pearls in the Sand"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kirsten Mayer",
+      "role": "writer",
+      "slug": "kirsten-mayer"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Legacy Of Terror",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-legacy-of-terror",
+  "title": "The Clone Wars: Legacy Of Terror"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    }
+  ],
+  "displayTitle": "Rebellion Volume 1: My Brother, My Enemy",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2007-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-volume-1",
+  "title": "Rebellion Volume 1: My Brother, My Enemy"
+}

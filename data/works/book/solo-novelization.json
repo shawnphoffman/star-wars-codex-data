@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mur Lafferty",
+      "role": "writer",
+      "slug": "mur-lafferty"
+    }
+  ],
+  "displayTitle": "Solo",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2018-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "solo-novelization",
+  "synopsis": "Board the Millennium Falcon and journey to a galaxy far, far away with the most beloved scoundrel in the galaxy in this thrilling novelization of Solo: A Star Wars Story.",
+  "title": "Solo"
+}

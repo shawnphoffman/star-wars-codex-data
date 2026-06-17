@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Gerry Duggan",
+      "role": "writer",
+      "slug": "gerry-duggan"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Han Solo: Imperial Cadet",
+  "era": "reignOfTheEmpire",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -13,
+    "startYear": -13
+  },
+  "releaseDate": "2019-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-imperial-cadet",
+  "synopsis": "YOUNG SOLO’S ADVENTURES CONTINUE!",
+  "title": "Han Solo: Imperial Cadet"
+}

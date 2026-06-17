@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Rebels: Zeb to the Rescue",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-zeb-to-the-rescue",
+  "synopsis": "Zeb to the Rescue is a World of Reading Level 1 young-readers book in the Star Wars Rebels series that was released on August 5, 2014. The story was adapted by Michael Siglain based on the Star Wars Rebels prelude short \"Entanglement,\" written by Henry Gilroy and series executive producer Simon Kinberg.",
+  "title": "Rebels: Zeb to the Rescue"
+}

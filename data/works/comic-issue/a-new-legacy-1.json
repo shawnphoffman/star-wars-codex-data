@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    }
+  ],
+  "displayTitle": "A New Legacy #1",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": -2
+  },
+  "releaseDate": "2025-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-legacy-1",
+  "synopsis": "A one-shot comic featuring three stories from authors Charles Soule, Jason Aaron, and Kieron Gillen.\nA DECADE OF MARVEL STAR WARS COMICS! Celebrate ten years of MARVEL STAR WARS comics with all-new stories by some of the most influential creators of the decade. Thrill as DARTH VADER, GRAND MOFF TARKIN, DARTH MOMIN, DOCTOR APHRA, VALANCE, CHANATH CHA, RIK DUEL, COMMANDER ZAHRA, THE TAGGES and more collide during a grand Imperial event thrown by PALPATINE. Gasp (and laugh) at a perilous game between 0-0-0, BT-1 and KRRSANTAN! And what ever happened to SCAR SQUADRON?",
+  "title": "A New Legacy #1"
+}

@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "BB-8 on the Run",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705084"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705087"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 40,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705084",
+      "isbn13": "9781484705087",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bb-8-on-the-run",
+  "synopsis": "Follow Poe Dameron’s droid, BB-8, on his journey through the Jakku desert to complete his very important mission … alone.",
+  "title": "BB-8 on the Run"
+}

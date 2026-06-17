@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Rebels: Battle to the End",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-battle-to-the-end",
+  "synopsis": "This action-packed chapter book retells the exciting final arc of Star Wars Rebels' first season. As the stakes rise higher than ever before, the Rebels must work together to thwart the Empire. If they fail, the consequences are unthinkable.",
+  "title": "Rebels: Battle to the End"
+}

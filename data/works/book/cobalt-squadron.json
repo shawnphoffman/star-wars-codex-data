@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Wein",
+      "role": "writer",
+      "slug": "elizabeth-wein"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Cobalt Squadron",
+  "editions": [
+    {
+      "imprint": "Disney Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "cobalt-squadron",
+  "synopsis": "New York Times bestselling author Elizabeth Wein (Code Name Verity, Rose Under Fire) journeys to a galaxy far, far away to bring readers the harrowing story of the courageous bomber pilots and technicians of Cobalt Squadron!",
+  "title": "Cobalt Squadron"
+}

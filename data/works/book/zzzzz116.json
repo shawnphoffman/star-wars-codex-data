@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 18: The Threat Within",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139373"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139373",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -40,
+    "startYear": -40
+  },
+  "releaseDate": "2002-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz116",
+  "synopsis": "As he gets closer to becoming a Jedi Knight, Obi-Wan Kenobi’s changing relationship with his master, Qui-Gon Jinn, is about to put them both in even more danger as a mysterious threat approaches.",
+  "title": "Jedi Apprentice 18: The Threat Within"
+}

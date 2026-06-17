@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steele Filipek",
+      "role": "writer",
+      "slug": "steele-filipek"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Operation: Huttlet",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2008-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-operation-huttlet",
+  "title": "The Clone Wars: Operation: Huttlet"
+}

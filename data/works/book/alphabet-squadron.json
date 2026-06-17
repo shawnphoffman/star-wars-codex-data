@@ -1,0 +1,49 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    },
+    {
+      "name": "Jeff Langevin",
+      "role": "coverArtist",
+      "slug": "jeff-langevin"
+    }
+  ],
+  "displayTitle": "Alphabet Squadron",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984821989"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984821980"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1984821989",
+      "isbn13": "9781984821980",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2019-06-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "alphabet-squadron",
+  "synopsis": "The war is not yet over. A mismatched group of pilots must learn to work together in order to help bring down the last of what remains of the Galactic Empire once and for all.",
+  "title": "Alphabet Squadron"
+}

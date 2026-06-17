@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Champions of the Force",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 11
+  },
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "champions-of-the-force",
+  "title": "Champions of the Force"
+}

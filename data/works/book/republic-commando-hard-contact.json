@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "Republic Commando: Hard Contact",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2004-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-commando-hard-contact",
+  "title": "Republic Commando: Hard Contact"
+}

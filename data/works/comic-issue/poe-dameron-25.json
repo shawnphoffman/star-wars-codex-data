@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "artist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #25: Legend Found, Part VI",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-4",
+  "releaseDate": "2018-03-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-25",
+  "synopsis": "It’s the end of an era for Poe Dameron. With the Resistance and the First Order on a collision course and his mission to find Lor San Tekka nearly at an end, the force of Poe’s destiny draws him on toward an awakening…",
+  "title": "Poe Dameron #25: Legend Found, Part VI"
+}

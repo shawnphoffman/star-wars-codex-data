@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 01: The Rising Force",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590519229"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590519229",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -45,
+    "startYear": -45
+  },
+  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-apprentice-1-the-rising-force",
+  "synopsis": "Padawan Obi-Wan Kenobi must learn to control his anger and fear if he’s ever going to train with Qui-Gon Jinn and become a Jedi Knight.",
+  "title": "Jedi Apprentice 01: The Rising Force"
+}

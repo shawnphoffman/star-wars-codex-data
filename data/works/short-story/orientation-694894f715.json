@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Orientation",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2015-04-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "orientation-694894f715",
+  "synopsis": "\"Orientation\" is a short story by John Jackson Miller that was published in Star Wars Insider 157. The story takes place immediately before the novel Lords of the Sith by Paul S. Kemp, and features Darth Sidious and Darth Vader.",
+  "title": "Orientation"
+}

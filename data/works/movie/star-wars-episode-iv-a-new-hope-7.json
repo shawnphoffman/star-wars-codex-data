@@ -1,0 +1,40 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Gary Kurtz",
+      "role": "producer",
+      "slug": "gary-kurtz"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode IV: A New Hope",
+  "era": "ageOfRebellion",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "movie": {
+    "movieType": "theatrical"
+  },
+  "releaseDate": "1977-05-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-iv-a-new-hope-7",
+  "synopsis": "Nineteen years after the formation of the Empire, Luke Skywalker is thrust into the struggle of the Rebel Alliance when he meets Obi-Wan Kenobi, who has lived for years in seclusion on the desert planet of Tatooine. Obi-Wan begins Luke’s Jedi training as Luke joins him on a daring mission to rescue the beautiful Rebel leader Princess Leia from the clutches of the evil Empire. Although Obi-Wan sacrifices himself in a lightsaber duel with Darth Vader, his former apprentice, Luke proves that the Force is with him by destroying the Empire’s dreaded Death Star.",
+  "title": "Episode IV: A New Hope"
+}

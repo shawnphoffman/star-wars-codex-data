@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Heist",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2012-12-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heist",
+  "title": "Heist"
+}

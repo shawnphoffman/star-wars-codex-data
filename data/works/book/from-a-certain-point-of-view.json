@@ -1,0 +1,32 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "From A Certain Point of View",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511478"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 496,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511478",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2017-10-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-a-certain-point-of-view",
+  "synopsis": "The classic events of Star Wars: A New Hope, told through the eyes of the story’s lesser-known characters.",
+  "title": "From A Certain Point of View"
+}

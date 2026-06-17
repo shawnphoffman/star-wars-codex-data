@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Greg Bear",
+      "role": "writer",
+      "slug": "greg-bear"
+    }
+  ],
+  "displayTitle": "Rogue Planet",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593974773"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593974773",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -29,
+    "startYear": -29
+  },
+  "releaseDate": "2000-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-planet",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker find themselves on another treacherous mission that could unintentionally give ultimate power to the wrong person.",
+  "title": "Rogue Planet"
+}

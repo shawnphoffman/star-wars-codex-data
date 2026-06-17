@@ -1,0 +1,44 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Matthew Fillbach",
+      "role": "writer",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "writer",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Ryan Kaufman",
+      "role": "writer",
+      "slug": "ryan-kaufman"
+    },
+    {
+      "name": "Chris Avellone",
+      "role": "writer",
+      "slug": "chris-avellone"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures Volume 7",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2007-01-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-adventures-7",
+  "title": "Clone Wars Adventures Volume 7"
+}

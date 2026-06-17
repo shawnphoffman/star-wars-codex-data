@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "The High Republic: Fear of the Jedi #3",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-fear-of-the-jedi-trade-paperback",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-fear-of-the-jedi-3",
+  "synopsis": "Amid all the emotion and fear is a thrilling space battle with a fantastic cast of characters. The dialogue is fun and quippy, but it doesn’t betray the more serious themes of this story. It’s the perfect mix of consequential and exciting that we’ve come to expect from Scott’s writing. And, as usual, it’s all expertly rendered by Marika Cresta.",
+  "title": "The High Republic: Fear of the Jedi #3"
+}

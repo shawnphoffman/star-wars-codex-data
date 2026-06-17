@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "Republic #03: Prelude to Rebellion, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "releaseDate": "1999-02-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-03-prelude-to-rebellion-part-3",
+  "title": "Republic #03: Prelude to Rebellion, Part 3"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Benjamin Percy",
+      "role": "writer",
+      "slug": "benjamin-percy"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    }
+  ],
+  "displayTitle": "Darth Maul: Black, White & Red #1",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "darth-maul-black-white-red-trade-paperback",
+  "releaseDate": "2024-04-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-black-white-red-1",
+  "synopsis": "Issue 1 of 4 from Marvel Comics Darth Maul: Black, White & Red Mini-Series\nDARTH MAUL STARS IN HIS VERY OWN HORROR BLOCKBUSTER!\nA prison ship – transporting a cult known as the FINAL OCCULTATION – goes offline, and DARTH MAUL is sent by PALPATINE to investigate.\nWhat he finds on board is the stuff of nightmares!!!\nIt's up to him to stop this profoundly dark and unstable force that wishes to bring chaos to the galaxy.",
+  "title": "Darth Maul: Black, White & Red #1"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Greg Keyes",
+      "role": "writer",
+      "slug": "greg-keyes"
+    }
+  ],
+  "displayTitle": "The Final Prophecy",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 29,
+    "startYear": 29
+  },
+  "releaseDate": "2003-09-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-final-prophecy",
+  "title": "The Final Prophecy"
+}

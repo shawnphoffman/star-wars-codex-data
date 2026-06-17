@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #27: Family Ties, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-3",
+  "releaseDate": "1998-02-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-27-family-ties-part-2",
+  "title": "X-Wing Rogue Squadron #27: Family Ties, Part 2"
+}

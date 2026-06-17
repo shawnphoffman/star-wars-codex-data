@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing: Isard's Revenge",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "1999-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-isards-revenge",
+  "title": "X-Wing: Isard's Revenge"
+}

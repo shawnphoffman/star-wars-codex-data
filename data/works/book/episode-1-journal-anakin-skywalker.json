@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Todd Strasser",
+      "role": "writer",
+      "slug": "todd-strasser"
+    }
+  ],
+  "displayTitle": "Episode I Journal: Anakin Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590520935"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590520935",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-1-journal-anakin-skywalker",
+  "synopsis": "Relieve the story of Anakin Skywalker’s life-changing Jedi encounter on Tatooine told by the boy himself.",
+  "title": "Episode I Journal: Anakin Skywalker"
+}

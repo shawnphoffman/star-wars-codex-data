@@ -1,0 +1,25 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "From a Certain Point of View: Return of the Jedi",
+  "editions": [
+    {
+      "extent": 576,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2023-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-a-certain-point-of-view-return-of-the-jedi",
+  "synopsis": "The classic events of Star Wars: Return of the Jedi, told through the eyes of the story’s lesser-known characters.",
+  "title": "From a Certain Point of View: Return of the Jedi"
+}

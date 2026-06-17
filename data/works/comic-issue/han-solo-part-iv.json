@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marjory Liu",
+      "role": "writer",
+      "slug": "marjory-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "artist",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Sonia Oback",
+      "role": "artist",
+      "slug": "sonia-oback"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "artist",
+      "slug": "lee-bermejo"
+    }
+  ],
+  "displayTitle": "Han Solo, Part IV",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "han-solo-graphic-novel",
+  "releaseDate": "2016-10-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-part-iv",
+  "synopsis": "Han has a traitor to the Rebellion on board the Falcon! But can he figure out who it is before they get him killed? And more importantly… can he stay in the Dragon Void race?!?",
+  "title": "Han Solo, Part IV"
+}

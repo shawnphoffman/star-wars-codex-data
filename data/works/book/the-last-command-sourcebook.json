@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "The Last Command Sourcebook",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "1994-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-command-sourcebook",
+  "title": "The Last Command Sourcebook"
+}

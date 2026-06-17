@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Battle of Cadinth",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 6,
+    "startYear": 6
+  },
+  "releaseDate": "1995-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-battle-of-cadinth",
+  "title": "The Battle of Cadinth"
+}

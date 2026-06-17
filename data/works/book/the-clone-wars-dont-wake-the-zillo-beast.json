@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jon Richards",
+      "role": "writer",
+      "slug": "jon-richards"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Don't Wake The Zillo Beast",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2011-04-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-dont-wake-the-zillo-beast",
+  "title": "The Clone Wars: Don't Wake The Zillo Beast"
+}

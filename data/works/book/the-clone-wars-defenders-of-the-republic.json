@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Defenders Of The Republic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2010-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-defenders-of-the-republic",
+  "title": "The Clone Wars: Defenders Of The Republic"
+}

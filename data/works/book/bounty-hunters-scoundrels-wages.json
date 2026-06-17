@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Scoundrel's Wages",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1999-09-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-scoundrels-wages",
+  "title": "The Bounty Hunters: Scoundrel's Wages"
+}

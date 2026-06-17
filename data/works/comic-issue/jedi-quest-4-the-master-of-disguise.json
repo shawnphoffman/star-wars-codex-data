@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #4: The Master of Disguise",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -27,
+    "startYear": -27
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-4-the-master-of-disguise",
+  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi must work together to defeat an unseen enemy.",
+  "title": "Jedi Quest #4: The Master of Disguise"
+}

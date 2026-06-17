@@ -1,0 +1,54 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    },
+    {
+      "name": "Lucy Ruth Cummins",
+      "role": "coverArtist",
+      "slug": "lucy-ruth-cummins"
+    }
+  ],
+  "displayTitle": "Adventures in Wild Space: The Escape (Prelude)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405283068"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405283069"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405283068",
+      "isbn13": "9781405283069",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2016-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-escape-prelude",
+  "synopsis": "Milo and Lina Graf’s parents have gone missing – and they may be the only ones with any hope of finding them alive.",
+  "title": "Adventures in Wild Space: The Escape (Prelude)"
+}

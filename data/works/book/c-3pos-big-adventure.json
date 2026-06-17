@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Liza Baker",
+      "role": "writer",
+      "slug": "liza-baker"
+    }
+  ],
+  "displayTitle": "C-3PO's Big Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "c-3pos-big-adventure",
+  "title": "C-3PO's Big Adventure"
+}

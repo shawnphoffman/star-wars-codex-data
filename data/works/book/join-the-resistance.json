@@ -1,0 +1,49 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    }
+  ],
+  "displayTitle": "Join the Resistance",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484706077"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484706077",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "join-the-resistance",
+  "synopsis": "A squadron of Resistance fighter pilots must learn to work together if they’re going to help defeat the First Order.",
+  "title": "Join the Resistance"
+}

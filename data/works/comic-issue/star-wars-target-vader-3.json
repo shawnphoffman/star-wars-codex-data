@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "artist",
+      "slug": "stefano-landini"
+    }
+  ],
+  "displayTitle": "Target Vader #3",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "target-vader-7",
+  "releaseDate": "2019-09-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-target-vader-3",
+  "synopsis": "THE DOUBLE CROSS!\nVALANCE and his crew of bounty hunters have DARTH VADER on the ropes, surrounding him with enemy ships.\nVader is the greatest pilot in the galaxy, though, and he's about to go head to head with the Imperial Navy's former best pilot... Beilert Valance!\nBut if Valance can survive this aerial duel, will he survive betrayal on land, as a member of the Rebellion lies hidden within his ranks!",
+  "title": "Target Vader #3"
+}

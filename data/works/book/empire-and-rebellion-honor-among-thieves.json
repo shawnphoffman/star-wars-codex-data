@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James S. A. Corey",
+      "role": "writer",
+      "slug": "james-s-a-corey"
+    }
+  ],
+  "displayTitle": "Empire and Rebellion: Honor Among Thieves",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2014-03-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-and-rebellion-honor-among-thieves",
+  "title": "Empire and Rebellion: Honor Among Thieves"
+}

@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "artist",
+      "slug": "andres-mossa"
+    }
+  ],
+  "displayTitle": "Shattered Empire #4",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "journey-to-the-force-awakens-shattered-empire-hardcover-graphic-novel",
+  "releaseDate": "2015-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shattered-empire-4",
+  "synopsis": "Concluding the first new-canon comic tale set between episodes VI and VII! As the Empire Shatters around them, Rebel heroes fight for a better tomorrow! Greg Rucka (Punisher, Cyclops, Wolverine) and Marco Checchetto (Punisher, Avengers World) take us into the more recent long, long time ago!",
+  "title": "Shattered Empire #4"
+}

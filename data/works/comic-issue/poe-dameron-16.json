@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "artist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #16: Legend Lost, Part III",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-3",
+  "releaseDate": "2017-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-16",
+  "synopsis": "Who is Malarus and what does she want? Meanwhile, the Resistance is running dangerously low on supplies. Poe and Black Squadron are on the case!",
+  "title": "Poe Dameron #16: Legend Lost, Part III"
+}

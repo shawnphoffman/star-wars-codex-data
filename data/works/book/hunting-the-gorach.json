@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeff Grubb",
+      "role": "writer",
+      "slug": "jeff-grubb"
+    }
+  ],
+  "displayTitle": "Hunting the Gorach",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 19,
+    "startYear": 19
+  },
+  "releaseDate": "2012-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hunting-the-gorach",
+  "title": "Hunting the Gorach"
+}

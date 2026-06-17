@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Robert Thompson",
+      "role": "writer",
+      "slug": "robert-thompson"
+    },
+    {
+      "name": "Nicole Virella",
+      "role": "artist",
+      "slug": "nicole-virella"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "artist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Dan Mora Chavez",
+      "role": "artist",
+      "slug": "dan-mora-chavez"
+    },
+    {
+      "name": "Matt Milla",
+      "role": "artist",
+      "slug": "matt-milla"
+    }
+  ],
+  "displayTitle": "Poe Dameron Annual #1",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-3",
+  "releaseDate": "2017-06-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-annual-1",
+  "synopsis": "Poe Dameron has never been one to follow the rules. So when he disobeys a direct order from General Leia Organa and gets stranded in First Order space…with no ship and little oxygen…how will he survive?",
+  "title": "Poe Dameron Annual #1"
+}

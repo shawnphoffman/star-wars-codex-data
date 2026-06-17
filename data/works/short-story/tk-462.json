@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sylvain Neuvel",
+      "role": "writer",
+      "slug": "sylvain-neuvel"
+    }
+  ],
+  "displayTitle": "TK-462",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2016-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tk-462",
+  "synopsis": "\"TK-462\" is a short story by Sylvain Neuvel, with art by Drew Baker, that was released on June 7, 2016 as part of Star Wars Insider 166.",
+  "title": "TK-462"
+}

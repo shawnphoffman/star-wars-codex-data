@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Scoundrel's Luck",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1990-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "scoundrel-s-luck",
+  "title": "Scoundrel's Luck"
+}

@@ -1,0 +1,32 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "The High Republic: The Battle of Jedha",
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "releaseDate": "2023-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-battle-of-jedha",
+  "synopsis": "The Festival of Balance is normally a peaceful gathering on Jedha, but one religious cult is about to change that.",
+  "title": "The High Republic: The Battle of Jedha"
+}

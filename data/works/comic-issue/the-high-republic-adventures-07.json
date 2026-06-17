@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2021) #07",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-adventures-vol-1-trade-paperback",
+  "releaseDate": "2021-08-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-07",
+  "synopsis": "The High Republic Adventures 7 is the seventh issue of the canon comic book series Star Wars: The High Republic Adventures. It is by Daniel José Older, illustrated by Harvey Tolibao, and published by IDW Publishing\nAs the galaxy prepares for its Republic Fair, Qort and Farzala are sent on a diplomatic mission to negotiate with the Hutts, who have joined them in the fight against the Drengir. But relations turn sour, and it's going to take all of their training to get them out of the situation!",
+  "title": "The High Republic Adventures (2021) #07"
+}

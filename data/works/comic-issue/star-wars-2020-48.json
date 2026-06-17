@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #48",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-2020-vol-9-the-path-of-light",
+  "releaseDate": "2024-07-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-48",
+  "synopsis": "This is the forty-eight issue from the Marvel Comics Star Wars (2020) Series\nLAST CHANCE FOR SOLO!\nLEIA ORGANA has put the galaxy's freedom before all else, including her lost love, HAN SOLO. With the growing threat of the second DEATH STAR looming over THE REBEL ALLIANCE, should she try to save him…while she still can?",
+  "title": "Star Wars (2020) #48"
+}

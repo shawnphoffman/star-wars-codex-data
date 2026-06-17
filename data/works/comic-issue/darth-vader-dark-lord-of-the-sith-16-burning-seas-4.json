@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 16: Burning Seas Part IV",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-2-graphic-novel",
+  "releaseDate": "2018-05-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-16-burning-seas-4",
+  "synopsis": "Vader and his Inquisitors lead an elite squad of clone troopers to flush out the Jedi traitor beneath the waters of Mon Cala…and the oceans will burn with their fury.",
+  "title": "Darth Vader: Dark Lord of the Sith 16: Burning Seas Part IV"
+}

@@ -1,0 +1,43 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lou Anders",
+      "role": "writer",
+      "slug": "lou-anders"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    }
+  ],
+  "displayTitle": "Pirate's Price",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368043823"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368043823",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2019-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "pirates-price",
+  "synopsis": "Renowned pirate Hondo Ohnaka shares stories of his wild adventures across the galaxy.",
+  "title": "Pirate's Price"
+}

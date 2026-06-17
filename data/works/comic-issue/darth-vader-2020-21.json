@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #21",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-4-trade-paperback",
+  "releaseDate": "2022-03-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-21",
+  "synopsis": "Is the twenty-first issue of the Marvel comic book series Star Wars: Darth Vader (2020)\nTHE RETURN OF THE HANDMAIDEN!\nA figure terrifyingly close to VADER'S dark heart returns – but with a shocking new allegiance that threatens total chaos!\nThe band of heroes who have bound themselves to Vader's cause finally learn the true nature of their new lord.\nAnd how long can OCHI OF BESTOON keep his desperate secret?",
+  "title": "Darth Vader (2020) #21"
+}

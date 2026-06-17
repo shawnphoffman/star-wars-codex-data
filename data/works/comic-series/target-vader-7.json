@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    }
+  ],
+  "displayTitle": "Target Vader",
+  "era": "reignOfTheEmpire",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2020-02-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "target-vader-7",
+  "synopsis": "THE HUNTER!",
+  "title": "Target Vader"
+}

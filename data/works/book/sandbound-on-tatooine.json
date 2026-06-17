@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    }
+  ],
+  "displayTitle": "Sandbound on Tatooine",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sandbound-on-tatooine",
+  "title": "Sandbound on Tatooine"
+}

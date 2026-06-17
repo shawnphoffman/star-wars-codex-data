@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Melissa Scott",
+      "role": "writer",
+      "slug": "melissa-scott"
+    }
+  ],
+  "displayTitle": "Mercy Mission",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -13,
+    "startYear": -13
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2015-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "mercy-mission",
+  "synopsis": "Years before she led the crew of the Ghost, Hera Syndulla was a young pilot looking to make a difference in the galaxy. Hera sets out with Goll — a close ally of her father, Cham Syndulla — on a dangerous mission to help the citizens of her homeworld, Ryloth, now languishing under the might of the Empire.",
+  "title": "Mercy Mission"
+}

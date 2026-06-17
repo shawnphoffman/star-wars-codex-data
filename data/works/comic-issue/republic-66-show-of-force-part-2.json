@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #66: Show of Force, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2004-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-66-show-of-force-part-2",
+  "title": "Republic #66: Show of Force, Part 2"
+}

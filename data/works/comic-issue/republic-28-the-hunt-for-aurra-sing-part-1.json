@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Republic #28: The Hunt for Aurra Sing, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -30,
+    "startYear": -30
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "releaseDate": "2001-03-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-28-the-hunt-for-aurra-sing-part-1",
+  "title": "Republic #28: The Hunt for Aurra Sing, Part 1"
+}

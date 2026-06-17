@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Jedi Council: Acts of War #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "jedi-council-acts-of-war-graphic-novel",
+  "releaseDate": "2000-08-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-council-acts-of-war-3",
+  "title": "Jedi Council: Acts of War #3"
+}

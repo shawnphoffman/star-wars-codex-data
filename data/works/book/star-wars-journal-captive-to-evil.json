@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Star Wars Journal: Captive to Evil",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-journal-captive-to-evil",
+  "title": "Star Wars Journal: Captive to Evil"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #13",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2021-06-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-13",
+  "synopsis": "Bounty Hunters 13 is the thirteenth issue of the canon comic book series Star Wars: Bounty Hunters. It is written by Ethan Sacks, illustrated by Paolo Villanelli, and published by Marvel Comics.\nTHE WOOKIEE ALWAYS WINS!\nHot on the trail of BOBA FETT, VALANCE and DENGAR run into a rather large obstacle—the mighty CHEWBACCA!\nWill T'ONGA escape the trap set by a mysterious organization out to upend the underworld?\nAnd who is the figure in the shadows hunting them all?!",
+  "title": "Bounty Hunters #13"
+}

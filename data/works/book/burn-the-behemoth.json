@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Burn the Behemoth!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2011-02-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "burn-the-behemoth",
+  "title": "Burn the Behemoth!"
+}

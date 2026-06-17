@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Rebels: L'avenir de la Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2011956889"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782011956880"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "isbn10": "2011956889",
+      "isbn13": "9782011956880",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3,
+    "startYear": -3
+  },
+  "releaseDate": "2016-09-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-lavenir-de-la-force",
+  "synopsis": "Ahsoka Tano provides the rebels with another mission, but a run-in with an Imperial Inquisitor puts them in even more danger than they expected.",
+  "title": "Star Wars Rebels: L'avenir de la Force"
+}

@@ -1,0 +1,32 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "The High Republic: Tempest Runner",
+  "editions": [
+    {
+      "extent": 592,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "releaseDate": "2021-08-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-tempest-runner",
+  "synopsis": "Tempest Runner Lourna Dee has long been loyal to the Nihil and their cause. But things are about to change.",
+  "title": "The High Republic: Tempest Runner"
+}

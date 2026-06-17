@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Emily James",
+      "role": "writer",
+      "slug": "emily-james"
+    }
+  ],
+  "displayTitle": "The White Witch: A Droid Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "releaseDate": "1987-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-white-witch-a-droid-adventure",
+  "title": "The White Witch: A Droid Adventure"
+}

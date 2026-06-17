@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #06",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-06-trade-paperback",
+  "releaseDate": "2020-10-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-06",
+  "synopsis": "Darth Vader (2020) #6 is the sixth issue of the canon comic series Star Wars: Darth Vader (2020).\nDARTH VADER failed to turn his son, Luke Skywalker, to the dark side of the Force.\nNo…Luke was too weak to join his father in overthrowing EMPEROR PALPATINE.\nVader sought revenge against those who hid Luke from him for all of these years…\nand in doing so nearly betrayed his master. It did not go unnoticed by Palpatine… time for Vader's next lesson",
+  "title": "Darth Vader (2020) #06"
+}

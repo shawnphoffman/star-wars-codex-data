@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ben Burtt",
+      "role": "writer",
+      "slug": "ben-burtt"
+    }
+  ],
+  "displayTitle": "Galactic Phrase Book & Travel Guide",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "2001-08-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galactic-phrase-book-travel-guide",
+  "title": "Galactic Phrase Book & Travel Guide"
+}

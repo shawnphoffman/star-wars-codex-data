@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bonnie Bogart",
+      "role": "writer",
+      "slug": "bonnie-bogart"
+    }
+  ],
+  "displayTitle": "Escape from the Monster Ship: A Droid Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "releaseDate": "1995-06-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "escape-from-the-monster-ship-a-droid-adventure",
+  "title": "Escape from the Monster Ship: A Droid Adventure"
+}

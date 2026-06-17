@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Cam Smith",
+      "role": "artist",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Olivier Coipel",
+      "role": "artist",
+      "slug": "olivier-coipel"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 03: The Chosen One, Part III",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-2-graphic-novel",
+  "releaseDate": "2017-07-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-3-the-chosen-one-part-iii",
+  "synopsis": "Vader sets his sights on a Jedi who's avoided Order 66…a Jedi Master who's long lived in seclusion…a Jedi more powerful than any Vader has faced before…",
+  "title": "Darth Vader: Dark Lord of the Sith 03: The Chosen One, Part III"
+}

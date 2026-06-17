@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #06: Lockdown, Part III",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-1",
+  "releaseDate": "2016-09-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-6",
+  "synopsis": "Poe and Agent Terex are in a race…to break out of jail! But with Black Squadron surrounded by deadly inmates…their only hope is BB-8?!?",
+  "title": "Poe Dameron #06: Lockdown, Part III"
+}

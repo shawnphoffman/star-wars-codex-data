@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Marjorie Liu",
+      "role": "writer",
+      "slug": "marjorie-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Han Solo",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-graphic-novel",
+  "synopsis": "Everyone’s favorite scoundrel gets his very own series! Han is given a top-secret undercover mission for the Rebellion—rescuing a number of informants and spies. His cover for the assignment? Only the biggest and most infamous starship race in the galaxy! You know—the race Han has dreamt of winning his entire life. Will he keep his mind on the mission? And can he manage to pull it off while keeping the lead? Best-selling author Marjorie Liu (X-MEN) comes to the Galaxy Far, Far Away along with superstar cover artist Mark Brooks (ULTIMATE X-MEN) in his return to interior art! Face it, readers—there aren’t enough scoundrels in your life!",
+  "title": "Han Solo"
+}

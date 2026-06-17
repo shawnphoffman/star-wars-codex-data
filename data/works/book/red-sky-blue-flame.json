@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Elaine Cunningham",
+      "role": "writer",
+      "slug": "elaine-cunningham"
+    }
+  ],
+  "displayTitle": "Red Sky, Blue Flame",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 22,
+    "startYear": 22
+  },
+  "releaseDate": "2001-10-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "red-sky-blue-flame",
+  "title": "Red Sky, Blue Flame"
+}

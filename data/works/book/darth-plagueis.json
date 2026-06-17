@@ -1,0 +1,43 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Darth Plagueis",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1846056780"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781846056789"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 379,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1846056780",
+      "isbn13": "9781846056789",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -67
+  },
+  "releaseDate": "2012-01-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-plagueis",
+  "synopsis": "Darth Plagueis was a Sith legend in the making. When he took on Sidious as his apprentice, he had no idea how his story would really end.",
+  "title": "Darth Plagueis"
+}

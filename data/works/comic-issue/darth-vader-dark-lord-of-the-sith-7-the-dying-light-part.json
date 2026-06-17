@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Daniele Orlandini",
+      "role": "artist",
+      "slug": "daniele-orlandini"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Guiseppe Camuncoli",
+      "role": "artist",
+      "slug": "guiseppe-camuncoli"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 07: The Dying Light, Part I",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-1-graphic-novel",
+  "releaseDate": "2017-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-7-the-dying-light-part",
+  "synopsis": "Legacy's end begins! As Vader takes his place in command of the Emperor's secret Inquisitorius Program, he sets his sights on one of the most dangerous Jedi remaining alive…and it's not who you'd expect.",
+  "title": "Darth Vader: Dark Lord of the Sith 07: The Dying Light, Part I"
+}

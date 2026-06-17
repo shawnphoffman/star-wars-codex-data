@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Jedi Knights #01",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -34,
+    "startYear": -34
+  },
+  "parentWorkSlug": "jedi-knights-vol-1-trade-paperback",
+  "releaseDate": "2025-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-knights-1",
+  "synopsis": "First issue from Marvel Comics Jedi Knights Series\nFIRST ISSUE IN THE PREQUEL ERA!\nIt begins here: first series focusing on the guardians of peace and justice in the galaxy: THE JEDI KNIGHTS! Featuring your favorite JEDI like QUI-GON JINN, OBI-WAN KENOBI, YODA and MACE WINDU alongside BRAND-NEW JEDI sure to become fan favorites! And who is the mysterious new villain targeting Qui-Gon Jinn?",
+  "title": "Jedi Knights #01"
+}

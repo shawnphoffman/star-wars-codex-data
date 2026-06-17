@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Republic #09: Outlander, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-09-outlander-part-3",
+  "title": "Republic #09: Outlander, Part 3"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #05: Lockdown, Part II",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-1",
+  "releaseDate": "2016-08-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-5",
+  "synopsis": "Black Squadron's been locked away in a Republic prison! But they're not locked in there with us, they're locked in with…Terex?! Can Poe and company get the info they need and get free?",
+  "title": "Poe Dameron #05: Lockdown, Part II"
+}

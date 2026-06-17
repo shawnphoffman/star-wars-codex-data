@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Star by Star",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 27,
+    "startYear": 27
+  },
+  "releaseDate": "2001-10-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-by-star",
+  "title": "Star by Star"
+}

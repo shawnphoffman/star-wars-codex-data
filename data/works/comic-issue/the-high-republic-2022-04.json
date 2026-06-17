@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2022) #04",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-2022-v-balance-of-the-force-trade-paperback",
+  "releaseDate": "2023-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2022-04",
+  "synopsis": "The fourth issue of the Marvel comic book series Star Wars: The High Republic (2022) from Phase 2 of The High Republic",
+  "title": "The High Republic (2022) #04"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #16",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2021-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-16-159348341d",
+  "synopsis": "This is the sixteenth issue of the Marvel canon comic series Star Wars: Doctor Aphra (2020).\nA DEADLY GAME!\nDOCTOR APHRA and SANA STARROS have escaped the VERMILLION, but there's no escaping CRIMSON DAWN: their spies are EVERYWHERE!\nAs DOMINA TAGGE contends with moles within TAGGE CORPORATION and Aphra struggles with the damage inflicted on her by a POWERFUL ARTIFACT, they strike one last bargain…\nBut who can Aphra really trust?",
+  "title": "Doctor Aphra (2020) #16"
+}

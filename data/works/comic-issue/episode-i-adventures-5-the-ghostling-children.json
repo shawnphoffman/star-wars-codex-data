@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #5: The Ghostling Children",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "releaseDate": "2000-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-5-the-ghostling-children",
+  "synopsis": "The Ghostling children have been captured and brought to the strange, hostile world of Tatooine. Their only hope of escape is a young slave named Anakin Skywalker.",
+  "title": "Episode I Adventures #5: The Ghostling Children"
+}

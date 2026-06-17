@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Dawn Of The Jedi: Eruption",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -25793,
+    "startYear": -25793
+  },
+  "releaseDate": "2013-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dawn-of-the-jedi-eruption",
+  "title": "Dawn Of The Jedi: Eruption"
+}

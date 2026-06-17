@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I: Qui-Gon Jinn",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-qui-gon-jinn",
+  "title": "Episode I: Qui-Gon Jinn"
+}

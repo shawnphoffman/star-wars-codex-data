@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #69: Death in the City of Bone",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-12-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-69-death-in-the-city-of-bone",
+  "title": "Star Wars (1977) #69: Death in the City of Bone"
+}

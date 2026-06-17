@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Veronica Whitney-Robinson",
+      "role": "writer",
+      "slug": "veronica-whitney-robinson"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "Galaxies: The Ruins of Dantooine",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "releaseDate": "2003-12-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-galaxies-the-ruins-of-dantooine",
+  "title": "Galaxies: The Ruins of Dantooine"
+}

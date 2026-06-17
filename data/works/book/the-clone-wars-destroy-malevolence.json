@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kirsten Mayer",
+      "role": "writer",
+      "slug": "kirsten-mayer"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Destroy Malevolence",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-destroy-malevolence",
+  "title": "The Clone Wars: Destroy Malevolence"
+}

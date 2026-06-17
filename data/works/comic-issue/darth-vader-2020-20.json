@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #20",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-4-trade-paperback",
+  "releaseDate": "2022-02-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-20",
+  "synopsis": "This is the twentieth issue of the Marvel Darth Vader 2020 comic book series\nTHE QUEEN'S SHADOW RETURNS!\nDarth Vader continues his quest to destroy the agents of Crimson Dawn, abetted by an unlikely crew of heroes and assassins.\nBut every twist in the tale gets thrown into question with the shocking return of SABÉ, handmaiden of Padmé Amidala!\nWho's the hero? Who's the villain? And will they choose chaos or order in the age of Crimson Reign?",
+  "title": "Darth Vader (2020) #20"
+}

@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rian Johnson",
+      "role": "writer",
+      "slug": "rian-johnson"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Ram Bergman",
+      "role": "producer",
+      "slug": "ram-bergman"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode VIII: The Last Jedi",
+  "era": "riseOfTheFirstOrder",
+  "format": "movie",
+  "movie": {
+    "movieType": "theatrical",
+    "mpaaRating": "pg13",
+    "runtimeMinutes": 152
+  },
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi",
+  "synopsis": "With the destruction of the Republic, the evil First Order reigns. Now, Supreme Leader Snoke looks to crush what’s left of the Resistance and cement his grip on the galaxy. But hope survives: Rey has found Luke Skywalker, a legendary Jedi Master who can change the tide of war.",
+  "title": "Episode VIII: The Last Jedi"
+}

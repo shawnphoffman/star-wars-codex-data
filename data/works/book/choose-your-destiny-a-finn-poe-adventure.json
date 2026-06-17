@@ -1,0 +1,48 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "artist",
+      "slug": "elsa-charretier"
+    }
+  ],
+  "displayTitle": "Choose Your Destiny: A Finn & Poe Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368043380"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368043380"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368043380",
+      "isbn13": "9781368043380",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "choose-your-destiny-a-finn-poe-adventure",
+  "synopsis": "Choose the outcome of this adventure with the help of Finn and Poe!",
+  "title": "Choose Your Destiny: A Finn & Poe Adventure"
+}

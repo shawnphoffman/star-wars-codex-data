@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) #30: Worst Among Equals Part V",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "doctor-aphra-vol-5",
+  "releaseDate": "2019-03-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-30-worst-among-equals-5",
+  "synopsis": "\"WORST AMONG EQUALS\" PART 5: WHEREIN: PUBLIC RELATIONS DISASTER! DOCTOR APHRA's race across an alien city continues, pursued by innumerable enemies – not least the EMPIRE'S villainous propaganda division. But with the timer ticking down on the bomb in her throat, the truest horror might come from some unscheduled soul-searching. Could it be that her psychotic droid companion TRIPLE-ZERO is the closest thing she has (or deserves) to a true soulmate?",
+  "title": "Doctor Aphra (2016) #30: Worst Among Equals Part V"
+}

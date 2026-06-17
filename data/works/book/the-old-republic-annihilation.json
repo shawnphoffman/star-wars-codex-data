@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "The Old Republic: Annihilation",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345529411"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345529411",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3640,
+    "startYear": -3640
+  },
+  "releaseDate": "2012-11-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-annihilation",
+  "synopsis": "Theron Shan may not be a Jedi like his father. But he may still have what it takes to go up against the brutal forces of the Sith Empire and save the galaxy from its seemingly endless wrath.",
+  "title": "The Old Republic: Annihilation"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Millici",
+      "role": "writer",
+      "slug": "nate-millici"
+    }
+  ],
+  "displayTitle": "Poe and the Missing Ship",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 33,
+    "startYear": 33
+  },
+  "releaseDate": "2017-01-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-and-the-missing-ship",
+  "synopsis": "When Poe Dameron and his faithful droid discover that the First Order has captured a civilian ship, their lives are turned upside down!",
+  "title": "Poe and the Missing Ship"
+}

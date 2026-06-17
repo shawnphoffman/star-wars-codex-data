@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "other"
+  },
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Episode V: The Empire Strikes Back (Hardcover) (Remastered) (1977)",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2015-08-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episodev-the-empires-strikes-back-hardback-graphic-novel",
+  "title": "Episode V: The Empire Strikes Back (Hardcover) (Remastered) (1977)"
+}

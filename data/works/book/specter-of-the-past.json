@@ -1,0 +1,24 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "displayTitle": "Specter of the Past",
+  "editions": [
+    {
+      "extent": 393,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 19
+  },
+  "releaseDate": "1997-11-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "specter-of-the-past",
+  "synopsis": "Nine years after Thrawn's death, the New Republic is fracturing and a shadowy plot threatens to convince the galaxy that the Grand Admiral has returned.",
+  "title": "Specter of the Past"
+}

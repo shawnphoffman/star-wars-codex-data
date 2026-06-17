@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alec Worley",
+      "role": "writer",
+      "slug": "alec-worley"
+    },
+    {
+      "name": "Cosmo White",
+      "role": "artist",
+      "slug": "cosmo-white"
+    }
+  ],
+  "displayTitle": "A Trooper's Worth",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "releaseDate": "2018-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-troopers-worth",
+  "synopsis": "\"A Trooper's Worth\" (German title \"Der Wert eines Kriegers\") is a comic strip written by Alec Worley, drawn by Cosmo White and edited by Gunther Nickel. The story was published in the 1st issue of the German Star Wars Rebels Animation-Magazine, which was released on February 14, 2018. It was first published in English in the September 2019 issue of the Australian magazine K-Zone.",
+  "title": "A Trooper's Worth"
+}

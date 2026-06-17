@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron: Battleground Tatooine",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "xwing-rogue-squadron-battleground-tatooine",
+  "title": "X-Wing Rogue Squadron: Battleground Tatooine"
+}

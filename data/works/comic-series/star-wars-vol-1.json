@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "artist",
+      "slug": "jesus-saiz"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) Vol. 01: The Destiny Path",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2020-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-vol-1",
+  "synopsis": "Marvel’s relaunch of their flagship ongoing Star Wars series takes place in between The Empire Strikes Back and Return of the Jedi. Luke deals with the loss of his hand and the crushing news that Darth Vader is his father. Leia looks for a way to rescue Han. Lando tries to fill Solo’s shoes and navigate the team dynamics of having just betrayed Han to the Empire—while also looking for a way to get even and reclaim Cloud City! A spectacular start to a great series.",
+  "title": "Star Wars (2020) Vol. 01: The Destiny Path"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #18",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-2020-vol-03-trade-paperback",
+  "releaseDate": "2021-11-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-18",
+  "synopsis": "Star Wars (2020) #18 is the upcoming eighteenth issue of the comic series Star Wars (2020), and is part of the War of the Bounty Hunters cross-over event.\nReeling from the events on JEKARA and forced to confront the reality of her own choices and losses, LEIA ORGANA meets QI'RA to discuss the person they both have in common – heroic smuggler HAN SOLO!\nHow has he influenced their lives to that point?\nAnd how will it change their fate moving forward?",
+  "title": "Star Wars (2020) #18"
+}

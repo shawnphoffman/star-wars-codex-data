@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "The High Republic: Out Of The Shadows",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "136806065X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368060653"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 423,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "136806065X",
+      "isbn13": "9781368060653",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "releaseDate": "2021-07-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-out-of-the-shadows",
+  "synopsis": "A disagreement between the Republic’s two most powerful families creates an unwanted conflict on Coruscant.",
+  "title": "The High Republic: Out Of The Shadows"
+}

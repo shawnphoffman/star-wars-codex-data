@@ -1,0 +1,32 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amy Ratcliffe",
+      "role": "writer",
+      "slug": "amy-ratcliffe"
+    }
+  ],
+  "displayTitle": "Elee & Me",
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "2020-11-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "elee-me",
+  "synopsis": "On Black Spire Outpost, adventure is everywhere! But as Salju’s pet Elee grows bigger, their adventuring across the outpost becomes more difficult to navigate.",
+  "title": "Elee & Me"
+}

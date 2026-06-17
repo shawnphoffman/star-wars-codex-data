@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sean Stewart",
+      "role": "writer",
+      "slug": "sean-stewart"
+    }
+  ],
+  "displayTitle": "Yoda: Dark Rendezvous",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2004-11-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-dark-rendezvous",
+  "title": "Yoda: Dark Rendezvous"
+}

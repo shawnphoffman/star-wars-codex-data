@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Labyrinth of Evil",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2005-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "labyrinth-of-evil",
+  "title": "Labyrinth of Evil"
+}

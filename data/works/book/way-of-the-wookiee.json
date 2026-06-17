@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Way of the Wookiee!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1979-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "way-of-the-wookiee",
+  "title": "Way of the Wookiee!"
+}

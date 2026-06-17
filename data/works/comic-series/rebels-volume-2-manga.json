@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Akira Aoki",
+      "role": "writer",
+      "slug": "akira-aoki"
+    }
+  ],
+  "displayTitle": "Rebels, Volume 2 (Manga)",
+  "era": "reignOfTheEmpire",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2021-09-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-volume-2-manga",
+  "synopsis": "Star Wars Rebels, Vol. 2 is a trade paperback compilation of the Star Wars Rebels webcomic, which adapts events of the first season of the TV series Star Wars Rebels. The manga was released in Japan on September 15, 2020 by Line Corporation. It is scheduled for publication in the United States on September 21, 2021 by Yen Press",
+  "title": "Rebels, Volume 2 (Manga)"
+}

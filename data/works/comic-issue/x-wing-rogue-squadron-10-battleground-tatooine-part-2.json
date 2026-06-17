@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #10: Battleground: Tatooine, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-2",
+  "releaseDate": "1996-07-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-10-battleground-tatooine-part-2",
+  "title": "X-Wing Rogue Squadron #10: Battleground: Tatooine, Part 2"
+}

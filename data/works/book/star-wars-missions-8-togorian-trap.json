@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Star Wars Missions 8: Togorian Trap",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-missions-8-togorian-trap",
+  "title": "Star Wars Missions 8: Togorian Trap"
+}

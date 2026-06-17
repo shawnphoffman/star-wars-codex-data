@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cherish Chen",
+      "role": "writer",
+      "slug": "cherish-chen"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2025): Chaos Agent #02",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 6,
+    "startYear": 6
+  },
+  "parentWorkSlug": "doctor-aphra-2025-chaos-agent-trade-paperback",
+  "releaseDate": "2025-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2025-02",
+  "synopsis": "Second issue from Marvel Comics Doctor Aphra (2025) Series\nDOCTOR APHRA AND LUKE SKYWALKER TOGETHER AGAIN! On the distant world of AARGAU, LUKE SKYWALKER and DOCTOR APHRA track down a valuable artifact. An unstable underworld collector has a different plan for them! Will the New Republic's newest agent betray her JEDI friend for a chance at the prize?",
+  "title": "Doctor Aphra (2025): Chaos Agent #02"
+}

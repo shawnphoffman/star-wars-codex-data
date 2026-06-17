@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Early Adventures #2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "classic-star-wars-graphic-novel",
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-early-adventures-2",
+  "title": "Classic Star Wars: The Early Adventures #2"
+}

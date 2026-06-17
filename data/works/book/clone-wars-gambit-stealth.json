@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Miller",
+      "role": "writer",
+      "slug": "karen-miller"
+    }
+  ],
+  "displayTitle": "Clone Wars Gambit: Stealth",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-07-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-gambit-stealth",
+  "title": "Clone Wars Gambit: Stealth"
+}

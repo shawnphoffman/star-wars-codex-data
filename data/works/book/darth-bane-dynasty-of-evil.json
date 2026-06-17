@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "Darth Bane: Dynasty of Evil",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511560"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 296,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511560",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -980,
+    "startYear": -980
+  },
+  "releaseDate": "2010-09-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-bane-dynasty-of-evil",
+  "synopsis": "The more Darth Bane swallows up the galaxy with his power, the more the Jedi – and maybe even his own apprentice – seek to end his dark reign.",
+  "title": "Darth Bane: Dynasty of Evil"
+}

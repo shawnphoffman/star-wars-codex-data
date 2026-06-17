@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    }
+  ],
+  "displayTitle": "The High Republic: Cataclysm",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593500354"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593500354",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "releaseDate": "2023-04-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-cataclysm",
+  "synopsis": "As the Jedi journey to the planet Dalna, they wonder if what awaits their arrival is more dangerous than they fear.",
+  "title": "The High Republic: Cataclysm"
+}

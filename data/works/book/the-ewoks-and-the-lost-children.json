@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Amy Ehrlich",
+      "role": "writer",
+      "slug": "amy-ehrlich"
+    }
+  ],
+  "displayTitle": "The Ewoks and the Lost Children",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1985-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-ewoks-and-the-lost-children",
+  "title": "The Ewoks and the Lost Children"
+}

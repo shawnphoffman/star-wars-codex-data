@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Age Of Resistance: Rose Tico",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 26
+  },
+  "parentWorkSlug": "age-of-resistance",
+  "releaseDate": "2019-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-resistance-rose-tico-2",
+  "synopsis": "This one-and-done issue gives the reader a quick and insightful backstory or Rose & Paige Tico. While we got a few anecdotes in The Last Jedi, this comic clues us into why they chose to join the Resistance and memories from their childhood on the planet Hays. Rose continues to prove she has the same core qualities that we've come to expect in our Resistance and Rebellion heroes: fiercely loyal, brave, and overflowing with hope.",
+  "title": "Age Of Resistance: Rose Tico"
+}

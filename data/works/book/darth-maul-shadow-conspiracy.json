@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Darth Maul: Shadow Conspiracy",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-shadow-conspiracy",
+  "title": "Darth Maul: Shadow Conspiracy"
+}

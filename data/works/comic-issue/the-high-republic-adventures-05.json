@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2021) #05",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "parentWorkSlug": "the-high-republic-adventures-vol-1-trade-paperback",
+  "releaseDate": "2021-06-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-05",
+  "synopsis": "The High Republic Adventures 5 is the fifth issue of the canon comic book series Star Wars: The High Republic Adventures. It is written by Daniel José Older, illustrated by Harvey Tolibao, and published by IDW Publishing.",
+  "title": "The High Republic Adventures (2021) #05"
+}

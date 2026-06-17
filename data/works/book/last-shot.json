@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Scott Biel",
+      "role": "coverArtist",
+      "slug": "scott-biel"
+    }
+  ],
+  "displayTitle": "Last Shot",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780525622130"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780525622130",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 7,
+    "startYear": -13
+  },
+  "releaseDate": "2018-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "last-shot",
+  "synopsis": "Han Solo and Lando Calrissian are back together again – this time, to overthrow a criminal that haunts their shared past.",
+  "title": "Last Shot"
+}

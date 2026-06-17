@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "Too Many Cooks",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2014-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "too-many-cooks",
+  "title": "Too Many Cooks"
+}

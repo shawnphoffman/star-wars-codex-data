@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Deep Spoilers",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -31,
+    "startYear": -31
+  },
+  "releaseDate": "2001-06-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "deep-spoilers",
+  "title": "Deep Spoilers"
+}

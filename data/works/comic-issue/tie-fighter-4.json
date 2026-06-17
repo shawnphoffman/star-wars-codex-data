@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "artist",
+      "slug": "roge-antonio"
+    }
+  ],
+  "displayTitle": "TIE Fighter #4",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "tie-fighter",
+  "releaseDate": "2019-07-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tie-fighter-4",
+  "synopsis": "A betrayal from one of their own.  Is the squadron even ready to fly again after so many losses? And who are these new pilots who think they're good enough to join the ranks of SHADOW WING?",
+  "title": "TIE Fighter #4"
+}

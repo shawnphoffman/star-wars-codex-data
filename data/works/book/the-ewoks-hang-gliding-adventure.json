@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jane Herbstman",
+      "role": "writer",
+      "slug": "jane-herbstman"
+    }
+  ],
+  "displayTitle": "The Ewoks' Hang-Gliding Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1984-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-ewoks-hang-gliding-adventure",
+  "title": "The Ewoks' Hang-Gliding Adventure"
+}

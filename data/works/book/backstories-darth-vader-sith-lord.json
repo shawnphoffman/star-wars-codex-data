@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Backstories: Darth Vader: Sith Lord",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "2017-02-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "backstories-darth-vader-sith-lord",
+  "synopsis": "Who is Darth Vader? How did the once great Jedi become a fearsome villain? Who are the allies and foes Darth Vader has faced? In this biography—complete with black-and-white illustrations, timelines, and character profiles—young readers will delight in learning the complete history of the Sith Lord.",
+  "title": "Backstories: Darth Vader: Sith Lord"
+}

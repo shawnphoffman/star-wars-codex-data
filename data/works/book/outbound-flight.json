@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Outbound Flight",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345456830"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 464,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345456830",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -27,
+    "startYear": -27
+  },
+  "releaseDate": "2006-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "outbound-flight",
+  "synopsis": "The launch of Outbound Flight was always meant to be a dangerous yet rewarding endeavor. But now, a Sith Lord’s evil intentions might send the whole project into deadly chaos.",
+  "title": "Outbound Flight"
+}

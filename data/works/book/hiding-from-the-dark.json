@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Hiding from the Dark",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736447027"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780736447027",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2026-09-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "released",
+  "slug": "hiding-from-the-dark",
+  "synopsis": "Coming soon!",
+  "title": "Hiding from the Dark"
+}

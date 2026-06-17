@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Thomas Andrews",
+      "role": "writer",
+      "slug": "thomas-andrews"
+    }
+  ],
+  "displayTitle": "Empire #34: In the Shadows of Their Fathers, Part 5",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "legends-epic-collection-the-empire-vol-8",
+  "releaseDate": "2005-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-34-in-the-shadows-of-their-fathers-part-5",
+  "title": "Empire #34: In the Shadows of Their Fathers, Part 5"
+}

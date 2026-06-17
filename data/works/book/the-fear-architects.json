@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "The Fear Architects",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2012-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-fear-architects",
+  "title": "The Fear Architects"
+}

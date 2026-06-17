@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Davids",
+      "role": "writer",
+      "slug": "paul-davids"
+    },
+    {
+      "name": "Hollace Davids",
+      "role": "writer",
+      "slug": "hollace-davids"
+    }
+  ],
+  "displayTitle": "Queen of the Empire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1993-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "queen-of-the-empire",
+  "title": "Queen of the Empire"
+}

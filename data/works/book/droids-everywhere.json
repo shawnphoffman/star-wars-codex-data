@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Liza Baker",
+      "role": "writer",
+      "slug": "liza-baker"
+    }
+  ],
+  "displayTitle": "Droids Everywhere!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101691"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101691",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-everywhere",
+  "synopsis": "Watto the junk dealer invites you to his shop on Tatooine to learn about droids from someone who knows the machines better than almost anyone in the galaxy.",
+  "title": "Droids Everywhere!"
+}

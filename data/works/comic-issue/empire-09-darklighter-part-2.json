@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Paul Chadwick",
+      "role": "writer",
+      "slug": "paul-chadwick"
+    }
+  ],
+  "displayTitle": "Empire #09: Darklighter, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "legends-epic-collection-the-empire-vol-8",
+  "releaseDate": "2003-07-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-09-darklighter-part-2",
+  "title": "Empire #09: Darklighter, Part 2"
+}

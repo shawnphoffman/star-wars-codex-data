@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Dark Droids",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2024-03-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-droids-trade-paperback",
+  "synopsis": "“SCOURGE OF THE DROIDS!” A STAR WARS EPIC LIKE YOU’VE NEVER SEEN BEFORE!",
+  "title": "Dark Droids"
+}

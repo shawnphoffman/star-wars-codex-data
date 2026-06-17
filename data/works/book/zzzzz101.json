@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 02: The Dark Rival",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590519250"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590519250",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -45,
+    "startYear": -45
+  },
+  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz101",
+  "synopsis": "Master Qui-Gon Jinn struggles to train his Padawan, Obi-Wan Kenobi, as the master’s past haunts him – and then returns unexpectedly.",
+  "title": "Jedi Apprentice 02: The Dark Rival"
+}

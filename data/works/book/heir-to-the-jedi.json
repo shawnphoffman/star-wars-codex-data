@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Hearne",
+      "role": "writer",
+      "slug": "kevin-hearne"
+    },
+    {
+      "name": "Larry Rostant",
+      "role": "coverArtist",
+      "slug": "larry-rostant"
+    }
+  ],
+  "displayTitle": "Heir to the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780099594277"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780099594277",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2015-03-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heir-to-the-jedi",
+  "synopsis": "Luke Skywalker has been deemed a hero after destroying the Death Star. But he’s much more concerned with something else: Learning more about the Jedi, what it means to be one, and if it’s still the path he wants to go down. His journey toward discovery may end up teaching him more than he ever expected to learn.",
+  "title": "Heir to the Jedi"
+}

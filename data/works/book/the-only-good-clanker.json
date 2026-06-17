@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "The Only Good Clanker",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-only-good-clanker",
+  "title": "The Only Good Clanker"
+}

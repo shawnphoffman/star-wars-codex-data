@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ellen Weiss",
+      "role": "writer",
+      "slug": "ellen-weiss"
+    }
+  ],
+  "displayTitle": "The Lost Prince: A Droid Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "releaseDate": "1985-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-lost-prince-a-droid-adventure",
+  "title": "The Lost Prince: A Droid Adventure"
+}

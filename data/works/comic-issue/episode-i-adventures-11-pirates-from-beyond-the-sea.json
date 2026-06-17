@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #11: Pirates from Beyond the Sea",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "releaseDate": "2000-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-11-pirates-from-beyond-the-sea",
+  "synopsis": "Pirates have invaded the Gungans’ home, and there may only be one way to save the day.",
+  "title": "Episode I Adventures #11: Pirates from Beyond the Sea"
+}

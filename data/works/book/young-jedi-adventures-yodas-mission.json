@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: Yoda's Mission",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093388"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093385"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368093388",
+      "isbn13": "9781368093385",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDate": "2023-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-yodas-mission",
+  "synopsis": "In this early reader storybook, Jedi younglings Kai Brightstar, Lys Solay, and Nubs go on a mission for Master Yoda.",
+  "title": "Young Jedi Adventures: Yoda's Mission"
+}

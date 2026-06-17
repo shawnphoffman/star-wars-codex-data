@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cullen Bunn",
+      "role": "writer",
+      "slug": "cullen-bunn"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    }
+  ],
+  "displayTitle": "Darth Maul (2017) #3",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "darth-maul-2017-trade-paperback",
+  "releaseDate": "2017-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-part-3",
+  "synopsis": "An evil crime syndicate is auctioning off a Jedi Padawan...that Darth Maul plans to take - and kill - for his own. Featuring: a band of bounty hunters including Cad Bane and Aurra Sing!",
+  "title": "Darth Maul (2017) #3"
+}

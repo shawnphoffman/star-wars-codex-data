@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sam Maggs",
+      "role": "writer",
+      "slug": "sam-maggs"
+    }
+  ],
+  "displayTitle": "Jedi: Battle Scars",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593598634"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593598634",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -12,
+    "startYear": -12
+  },
+  "releaseDate": "2023-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-jedi-battle-scars",
+  "synopsis": "Cal Kestis and the crew of the Mantis find themselves following a former imperial stormtrooper into the unknown.",
+  "title": "Jedi: Battle Scars"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Johnston",
+      "role": "writer",
+      "slug": "joe-johnston"
+    }
+  ],
+  "displayTitle": "The Adventures of Teebo: A Tale of Magic and Suspense",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1984-05-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-adventures-of-teebo-a-tale-of-magic-and-suspense",
+  "title": "The Adventures of Teebo: A Tale of Magic and Suspense"
+}

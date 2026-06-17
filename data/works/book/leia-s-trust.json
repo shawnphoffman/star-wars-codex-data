@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "Leia's Trust",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2014-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "leia-s-trust",
+  "title": "Leia's Trust"
+}

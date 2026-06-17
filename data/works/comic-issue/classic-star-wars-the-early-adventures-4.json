@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Steve Gerber",
+      "role": "writer",
+      "slug": "steve-gerber"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Early Adventures #4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "classic-star-wars-graphic-novel",
+  "releaseDate": "1994-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-early-adventures-4",
+  "title": "Classic Star Wars: The Early Adventures #4"
+}

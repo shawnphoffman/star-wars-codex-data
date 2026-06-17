@@ -1,0 +1,17 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "displayTitle": "Omnibus: Tales of the Jedi Volume 1",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -3999,
+    "startYear": -5000
+  },
+  "releaseDate": "2007-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omnius-totj-vol1",
+  "title": "Omnibus: Tales of the Jedi Volume 1"
+}

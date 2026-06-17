@@ -1,0 +1,48 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Spark of the Resistance",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368050816"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368050814"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368050816",
+      "isbn13": "9781368050814",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "spark-of-the-resistance",
+  "synopsis": "Rey insists that she and her fellow Resistance fighters answer a distress call, despite direct orders to return from their previous mission.",
+  "title": "Spark of the Resistance"
+}

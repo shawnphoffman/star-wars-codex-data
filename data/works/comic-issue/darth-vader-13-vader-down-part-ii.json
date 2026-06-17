@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "artist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #13: Vader Down, Part II",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-2-graphic-novel",
+  "releaseDate": "2015-11-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-13-vader-down-part-ii",
+  "synopsis": "The first crossover of Star Wars' new Marvel age continues here! Vader vs. all the Rebels...it's not a fair fight!",
+  "title": "Darth Vader (2015) #13: Vader Down, Part II"
+}

@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Kanan 10: First Blood, Part IV: The Mesas of Mygeeto",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -22
+  },
+  "parentWorkSlug": "kanan-volume-2-first-blood-graphic-novel",
+  "releaseDate": "2016-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kanan-first-blood-part-iv",
+  "synopsis": "Caleb Dume's first days in The Clone Wars continue…Master Billaba brings her Padawan and their clones to the Battle of Mygeeto. Separatist Generals Sear and Grievous lay in wait…",
+  "title": "Kanan 10: First Blood, Part IV: The Mesas of Mygeeto"
+}

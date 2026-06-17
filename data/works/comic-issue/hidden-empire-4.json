@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "Hidden Empire #4",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "hidden-empire-trade-paperback-817ee",
+  "releaseDate": "2023-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hidden-empire-4",
+  "synopsis": "Issue 4 of 5 of the Marvel Comics Hidden Empire Miniseries\nTHE ENDGAME GAMBIT APPROACHES! The final moves of Lady Qi'ra's great game have begun. The Sith have been summoned, and the Fermata Cage will open… For Qi'ra, it's all or nothing.",
+  "title": "Hidden Empire #4"
+}

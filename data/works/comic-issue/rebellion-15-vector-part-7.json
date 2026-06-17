@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    }
+  ],
+  "displayTitle": "Rebellion #15: Vector, Part 7",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "rebellion-volume-3",
+  "releaseDate": "2008-07-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-15-vector-part-7",
+  "title": "Rebellion #15: Vector, Part 7"
+}

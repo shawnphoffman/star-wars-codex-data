@@ -1,0 +1,49 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "E.K. Johnston",
+      "role": "writer",
+      "slug": "e-k-johnston"
+    },
+    {
+      "name": "Wojtek Fus",
+      "role": "coverArtist",
+      "slug": "wojtek-fus"
+    }
+  ],
+  "displayTitle": "Ahsoka",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484782313"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484782316"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 356,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484782313",
+      "isbn13": "9781484782316",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2016-10-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka",
+  "synopsis": "A year after narrowly escaping the Jedi Purge, Ahsoka Tano is still in hiding, doing whatever she can to stay well within the Empire’s shadow. But a former Jedi can only ignore her duty to help those in need for so long.",
+  "title": "Ahsoka"
+}

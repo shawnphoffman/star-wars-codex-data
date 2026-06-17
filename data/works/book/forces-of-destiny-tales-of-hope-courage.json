@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "Forces of Destiny: Tales of Hope & Courage",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": -22
+  },
+  "releaseDate": "2017-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-tales-of-hope-courage",
+  "synopsis": "Rebel leader Princess Leia, rogue fighter Jyn Erso, Jedi apprentice Ahsoka Tano, heroic Rey, warrior artist Sabine Wren, and Senator Padme Amidala...these are the names of six heroes that would change the galaxy. Read along in Maz Kanata’s journal as she describes how each of these heroes found their hope, their courage, and their destinies. With fun musings and tangents from Maz, beautiful sketches, and 8 large gatefolds, this journal shares six of the exciting adventures that helped shape these heroes from the epic Star Wars saga.",
+  "title": "Forces of Destiny: Tales of Hope & Courage"
+}

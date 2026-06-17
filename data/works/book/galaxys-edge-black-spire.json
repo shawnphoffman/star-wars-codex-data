@@ -1,0 +1,43 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "coverArtist",
+      "slug": "darren-tan"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: Black Spire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593128381"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593128381",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2019-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxys-edge-black-spire",
+  "synopsis": "Resistance spy Vi Moradi heads to Black Spire Outpost to rally more support for the fight against the First Order.",
+  "title": "Galaxy's Edge: Black Spire"
+}

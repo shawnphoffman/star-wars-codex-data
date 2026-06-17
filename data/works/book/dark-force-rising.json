@@ -1,0 +1,24 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "displayTitle": "Dark Force Rising",
+  "editions": [
+    {
+      "extent": 376,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "releaseDate": "1992-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-force-rising",
+  "synopsis": "Thrawn searches for the long-lost Katana fleet while Luke Skywalker investigates a mysterious Jedi Master who may not be what he claims.",
+  "title": "Dark Force Rising"
+}

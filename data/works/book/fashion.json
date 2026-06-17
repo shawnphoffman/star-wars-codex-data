@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Fashion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fashion",
+  "title": "Fashion"
+}

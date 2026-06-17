@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Vol. 12: Rebels And Rogues",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-volume-12",
+  "synopsis": "Darth Vader is on the hunt for Luke Skywalker! Thousands of remote probes are sent into the far reaches of space looking for the Rebel Alliance. But the rebels send out desperate, heroic missions to lead them astray. Chewie and C-3PO lure a drone to a planet with an unstable core but learn of a secret droid civilization. With Star Destroyers and Darth Vader approaching, they must now protect these newfound droids. Luke Skywalker undertakes a mission to lead a drone away from a rebel refueling station but runs into theForce-sensitive human Bendoh. With Luke training to be a Jedi, will Bendoh be a valuable teacher or a simple grifter? Then, Han Solo and Princess Leia plan to use a drone to take down a local crime boss, but things get complicated when they run into Leia's ex! What could possibly go wrong?!",
+  "title": "Star Wars (2015) Vol. 12: Rebels And Rogues"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Various",
+      "role": "artist",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Age Of Republic Special",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -34
+  },
+  "parentWorkSlug": "age-of-republic",
+  "releaseDate": "2019-01-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-special",
+  "synopsis": "This is one jam-packed one-shot! Featuring stories about Mace Windu, Asajj Ventress, Jar Jar Binks, and Captain Rex, there’s enough for everyone. Brought to life by a variety of writers and artists, this issue shines in all the right ways.",
+  "title": "Age Of Republic Special"
+}

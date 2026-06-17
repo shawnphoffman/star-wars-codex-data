@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Darth Maul: Death Sentence",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-death-sentence",
+  "title": "Darth Maul: Death Sentence"
+}

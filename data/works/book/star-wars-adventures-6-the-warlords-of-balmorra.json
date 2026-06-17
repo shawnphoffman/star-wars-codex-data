@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 6: The Warlords of Balmorra",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458856"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 126,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458856",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2003-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-6-the-warlords-of-balmorra",
+  "synopsis": "Bounty Hunters Jango Fett and Aurra Sing take on a dangerous assignment from none other than Count Dooku.",
+  "title": "Episode II Adventures 6: The Warlords of Balmorra"
+}

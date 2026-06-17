@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: Jedi Training",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368090982"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368090988"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 40,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368090982",
+      "isbn13": "9781368090988",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDate": "2023-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-jedi-training",
+  "synopsis": "Follow three Jedi younglings as they train hard to one day become skilled Jedi Knights.",
+  "title": "Young Jedi Adventures: Jedi Training"
+}

@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Jango Fett #1",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "jango-fett-graphic-novel",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett-1",
+  "synopsis": "First issue from Marvel Comics Jango Fett miniseries\nJANGO FETT EMBARKS ON A BRAND-NEW MISSION!\nAS SEEN IN STAR WARS: REVELATIONS! ETHAN SACKS (STAR WARS: BOUNTY HUNTERS) & LUKE ROSS (STAR WARS: WAR OF THE BOUNTY HUNTERS, STAR WARS: DARK DROIDS) team up to continue the legacy of one of the greatest bounty hunters: JANGO FETT!\nA bounty to find! A mystery to solve! A treaty at risk!\nAll this with AURRA SING in the mix!!!",
+  "title": "Jango Fett #1"
+}

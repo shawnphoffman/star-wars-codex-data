@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Fool's Bargain",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 21,
+    "startYear": 21
+  },
+  "releaseDate": "2004-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fools-bargain",
+  "title": "Fool's Bargain"
+}

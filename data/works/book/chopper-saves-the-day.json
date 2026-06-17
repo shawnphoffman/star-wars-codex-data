@@ -1,0 +1,39 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "Chopper Saves the Day",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780606352840"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780606352840",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chopper-saves-the-day",
+  "synopsis": "The Ghost is under attack! Only Chopper can keep the ship in one piece as the rebels try to outrun the evil Empire.",
+  "title": "Chopper Saves the Day"
+}

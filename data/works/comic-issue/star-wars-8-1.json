@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "artist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #08: Showdown on the Smuggler's Moon, Part I",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-vol-3",
+  "releaseDate": "2015-08-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-8-1",
+  "synopsis": "Luke continues his quest to learn about the Jedi by heading for the Jedi Temple on Coruscant. But when his lightsaber is stolen, he soon finds himself entrapped and imprisoned! Will his friends come to his aid before he's forced to enter the Arena of Death? Meanwhile, Han and Leia are confronted by an unexpected foe. The Imperials are closing in on them, and they were set on the rebels' trail by a mysterious woman from Han's past – one with a very personal grudge! As Chewbacca is unleashed, Han finds himself dealing with…a ball and chain?! You've got to read it to believe it!",
+  "title": "Star Wars (2015) #08: Showdown on the Smuggler's Moon, Part I"
+}

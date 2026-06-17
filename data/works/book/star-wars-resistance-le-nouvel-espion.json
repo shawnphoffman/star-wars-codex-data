@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Resistance: Le Nouvel Espion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2017072362"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782017072362"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "isbn10": "2017072362",
+      "isbn13": "9782017072362",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-resistance-le-nouvel-espion",
+  "synopsis": "Kazuda Xiono may not have any training as a spy, but his piloting skills may prove useful for the Resistance.",
+  "title": "Star Wars Resistance: Le Nouvel Espion"
+}

@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "A.C. Crispin",
+      "role": "writer",
+      "slug": "a-c-crispin"
+    }
+  ],
+  "displayTitle": "Rebel Dawn",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "releaseDate": "1998-03-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-dawn",
+  "title": "Rebel Dawn"
+}

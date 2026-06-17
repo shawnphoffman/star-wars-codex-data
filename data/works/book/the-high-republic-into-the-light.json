@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    }
+  ],
+  "displayTitle": "The High Republic: Into the Light",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368095186"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368095181"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "1368095186",
+      "isbn13": "9781368095181",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "releaseDate": "2025-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-into-the-light",
+  "synopsis": "Solving the mystery of the Blight has been harder than the Jedi expected. But a mission to Kashyyyk might unlock some of the secrets Reath Silas and Azlin Rell have been wondering about.",
+  "title": "The High Republic: Into the Light"
+}

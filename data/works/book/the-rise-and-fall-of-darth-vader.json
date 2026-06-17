@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Rise and Fall of Darth Vader",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": -38
+  },
+  "releaseDate": "2007-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rise-and-fall-of-darth-vader",
+  "title": "The Rise and Fall of Darth Vader"
+}

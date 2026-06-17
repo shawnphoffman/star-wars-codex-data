@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Melinda Luke",
+      "role": "writer",
+      "slug": "melinda-luke"
+    }
+  ],
+  "displayTitle": "Wicket Finds a Way: An Ewok Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1984-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "wicket-finds-a-way-an-ewok-adventure",
+  "title": "Wicket Finds a Way: An Ewok Adventure"
+}

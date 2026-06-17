@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    }
+  ],
+  "displayTitle": "Droids #2: The Ultimate Weapon",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "parentWorkSlug": "star-wars-2020-vol-7-dark-droids-trade-paperback",
+  "releaseDate": "1986-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-2-the-ultimate-weapon",
+  "title": "Star Wars Droids #2: The Ultimate Weapon"
+}

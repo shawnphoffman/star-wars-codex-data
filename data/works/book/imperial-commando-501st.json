@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "Imperial Commando: 501st",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2009-10-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "imperial-commando-501st",
+  "title": "Imperial Commando: 501st"
+}

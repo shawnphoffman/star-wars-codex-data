@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Terror on Mustafar",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "terror-on-mustafar",
+  "synopsis": "Coming soon!",
+  "title": "Terror on Mustafar"
+}

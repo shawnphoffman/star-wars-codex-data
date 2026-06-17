@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #24: Loyalties, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-4",
+  "releaseDate": "2008-05-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-24-loyalties-part-2",
+  "title": "Legacy #24: Loyalties, Part 2"
+}

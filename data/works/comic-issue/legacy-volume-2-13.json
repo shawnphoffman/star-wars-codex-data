@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    }
+  ],
+  "displayTitle": "Legacy (Volume 2) #13",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 139,
+    "startYear": 139
+  },
+  "releaseDate": "2014-03-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-volume-2-13",
+  "title": "Legacy (Volume 2) #13"
+}

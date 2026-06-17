@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "artist",
+      "slug": "vincenzo-federici"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Echoes of Fear #2",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-echoes-of-fear-2",
+  "synopsis": "Issue 2 of 4 from Dark Horse Comics The High Republic Adventures: Echoes of Fear Mini Series\nJedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo are charged with delving into the Jedi Archives to learn more about the mysterious Echo Stones and their Force-amplifying powers. In their search, they uncover the dark legend of the ancient Sith Lord, Darth Ravi, and his quest to solve an ancient puzzle that could grant him power beyond imagining…or destroy him utterly.",
+  "title": "The High Republic Adventures: Echoes of Fear #2"
+}

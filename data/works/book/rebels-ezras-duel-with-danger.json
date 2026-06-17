@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Rebels: Ezra's Duel with Danger",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-ezras-duel-with-danger",
+  "synopsis": "When Ezra Bridger runs in to an old friend from his past, secrets about Ezra’s missing parents are finally brought to light. Can Ezra unravel the mystery of their disappearance while still helping the rebels fight the Empire? The stakes are higher than ever as Imperial Agent Kallus and the fearsome Inquisitor join forces to stop the rebels. With such dangerous enemies, the team is in for the fight of their lives!",
+  "title": "Rebels: Ezra's Duel with Danger"
+}

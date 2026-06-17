@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #20: Daze of Hate, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3963,
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-4-daze-of-hate-knights-of-graphic-novel",
+  "releaseDate": "2007-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-20-daze-of-hate-part-2",
+  "title": "Knights of the Old Republic #20: Daze of Hate, Part 2"
+}

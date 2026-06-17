@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Nancy Krulik",
+      "role": "writer",
+      "slug": "nancy-krulik"
+    }
+  ],
+  "displayTitle": "Jar Jar's Mistake",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jar-jars-mistake",
+  "title": "Jar Jar's Mistake"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #03",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-1",
+  "releaseDate": "2020-07-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-3",
+  "synopsis": "Darth Vader (2020) #03 is the third issue of the canon comic book series Star Wars: Darth Vader (2020). In this issue Darth Vader's quest brings him to Naboo.\nGHOSTS OF VADER’S PAST! In his quest to destroy everyone who hid the existence of his son, Luke Skywalker, from him, Darth Vader has formed an unlikely partnership with an eerie shadow from his previous life. Now they return to Naboo where a powerful new host of vengeful ghosts awaits them. Delve deeper into Vader’s past than you thought possible with this shocking tale of tragedy and revenge!",
+  "title": "Darth Vader (2020) #03"
+}

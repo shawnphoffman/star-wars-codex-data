@@ -1,0 +1,34 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "Star Wars Insider: The High Republic: Starlight Stories",
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -232
+  },
+  "releaseDate": "2022-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-insider-the-fiction-collection-volume-3",
+  "synopsis": "Featuring stories that explore different aspects of the High Republic era, \"Starlight Stories\" offers readers a diverse and engaging exploration of this new period in Star Wars history. From epic adventures to intimate character-driven stories, this anthology delivers something for every fan of the franchise.",
+  "title": "Star Wars Insider: The High Republic: Starlight Stories"
+}

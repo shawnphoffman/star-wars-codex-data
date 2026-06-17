@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    }
+  ],
+  "displayTitle": "Purge: The Hidden Blade",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2010-04-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "purge-the-hidden-blade",
+  "title": "Purge: The Hidden Blade"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2023) #06",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "releaseDate": "2024-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-06",
+  "synopsis": "This is the sixth issue from Dark Horse Comics The High Republic Adventures (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series\nOn the edge of the Occlusion Zone, the Republic outpost on Eriadu is a safe place for a reunion of allies. After a year of hoping, searching, and daring rescues, Zeen, Lula, and more friends have made their way to this new home. Reunited, it's time to face their destiny and stand together against the fearsome onslaught of the Nihil from beyond the Stormwall.\nWhat new challenges await our heroes on the next leg of their journey?",
+  "title": "The High Republic Adventures (2023) #06"
+}

@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 19: Fortress Vader Part I",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "releaseDate": "2018-08-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-19-fortress-vader-1",
+  "synopsis": "\"FORTRESS VADER\" BEGINS! A JEDI makes a desperate deal. THE INQUISITORS' mission evolves. DARTH VADER discovers a theft.",
+  "title": "Darth Vader: Dark Lord of the Sith 19: Fortress Vader Part I"
+}

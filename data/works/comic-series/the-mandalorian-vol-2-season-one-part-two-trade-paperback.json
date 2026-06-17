@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Season 1 Part 2",
+  "era": "newRepublic",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "2023-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-vol-2-season-one-part-two-trade-paperback",
+  "synopsis": "SEASON 2 OF THE HIT DISNEY+ SERIES IS HERE!",
+  "title": "The Mandalorian: Season 1 Part 2"
+}

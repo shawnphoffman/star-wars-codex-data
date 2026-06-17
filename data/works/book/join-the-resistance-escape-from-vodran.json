@@ -1,0 +1,53 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    }
+  ],
+  "displayTitle": "Join the Resistance: Escape from Vodran",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484704983"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704981"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484704983",
+      "isbn13": "9781484704981",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-10-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "join-the-resistance-escape-from-vodran",
+  "synopsis": "J Squadron find themselves trapped on the planet Vodran, their mission all but over. Their only hope for escape is each other.",
+  "title": "Join the Resistance: Escape from Vodran"
+}

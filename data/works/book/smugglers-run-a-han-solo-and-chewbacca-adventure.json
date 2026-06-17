@@ -1,0 +1,49 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Smuggler's Run: A Han Solo and Chewbacca Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405277858"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405277853"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Disney Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405277858",
+      "isbn13": "9781405277853",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2015-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "smugglers-run-a-han-solo-and-chewbacca-adventure",
+  "synopsis": "Flying through space on a secret mission for the Rebel Alliance, Han Solo and Chewbacca push the Millennium Falcon to its limits to outrun the enemies pursuing them at every turn.",
+  "title": "Smuggler's Run: A Han Solo and Chewbacca Adventure"
+}

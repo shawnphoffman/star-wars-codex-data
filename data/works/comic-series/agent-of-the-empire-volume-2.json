@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Agent of the Empire Volume 2: Hard Targets",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -3,
+    "startYear": -3
+  },
+  "releaseDate": "2013-08-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agent-of-the-empire-volume-2",
+  "title": "Agent of the Empire Volume 2: Hard Targets"
+}

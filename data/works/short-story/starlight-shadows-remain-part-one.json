@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "Starlight: Shadows Remain",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -230
+  },
+  "parentWorkSlug": "starlight",
+  "releaseDate": "2021-12-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starlight-shadows-remain-part-one",
+  "synopsis": "\"Starlight: Shadows Remain\" is a short story written by Justina Ireland as part of the Star Wars: The High Republic publishing initiative. It is the final chapter in Phase 1 of The High Republic. The first part was published in Star Wars Insider 207 on December 14, 2021, while the second will release in Star Wars Insider 208 on January 18, 2022.",
+  "title": "Starlight: Shadows Remain"
+}

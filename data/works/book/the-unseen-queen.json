@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "The Unseen Queen",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 36,
+    "startYear": 36
+  },
+  "releaseDate": "2005-09-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-unseen-queen",
+  "title": "The Unseen Queen"
+}

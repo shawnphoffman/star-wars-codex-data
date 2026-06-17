@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire #4: Confrontation on the Smugglers' Moon",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 10,
+    "startYear": 10
+  },
+  "parentWorkSlug": "empire-volume2-darlighter-graphic-novel",
+  "releaseDate": "1992-06-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-4-confrontation-on-the-smugglers-moon",
+  "title": "Dark Empire #4: Confrontation on the Smugglers' Moon"
+}

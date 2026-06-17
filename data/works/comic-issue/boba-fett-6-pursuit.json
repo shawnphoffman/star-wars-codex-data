@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Elizabeth Hand",
+      "role": "writer",
+      "slug": "elizabeth-hand"
+    }
+  ],
+  "displayTitle": "Boba Fett #6: Pursuit",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "parentWorkSlug": "blood-ties-volume-1",
+  "releaseDate": "2004-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-6-pursuit",
+  "title": "Boba Fett #6: Pursuit"
+}

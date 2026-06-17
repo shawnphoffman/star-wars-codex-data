@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
+  "displayTitle": "The Clone Wars #04",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "parentWorkSlug": "epic-clonewars-vol1",
+  "releaseDate": "2009-02-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-04",
+  "title": "The Clone Wars #04"
+}

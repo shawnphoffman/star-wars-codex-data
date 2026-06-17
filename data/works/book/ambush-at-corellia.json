@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Roger MacBride Allen",
+      "role": "writer",
+      "slug": "roger-macbride-allen"
+    }
+  ],
+  "displayTitle": "Ambush at Corellia",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 18,
+    "startYear": 18
+  },
+  "releaseDate": "1995-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ambush-at-corellia",
+  "title": "Ambush at Corellia"
+}

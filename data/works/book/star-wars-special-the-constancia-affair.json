@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    }
+  ],
+  "displayTitle": "Star Wars Special: The Constancia Affair",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1998-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-special-the-constancia-affair",
+  "title": "Star Wars Special: The Constancia Affair"
+}

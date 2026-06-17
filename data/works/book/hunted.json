@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J. P. Rutter",
+      "role": "writer",
+      "slug": "j-p-rutter"
+    }
+  ],
+  "displayTitle": "Hunted",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2011-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hunted",
+  "title": "Hunted"
+}

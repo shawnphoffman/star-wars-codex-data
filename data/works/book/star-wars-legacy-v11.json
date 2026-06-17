@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy War",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 138,
+    "startYear": 138
+  },
+  "releaseDate": "2012-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-legacy-v11",
+  "title": "Legacy War"
+}

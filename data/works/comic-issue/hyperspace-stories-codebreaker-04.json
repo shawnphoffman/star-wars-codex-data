@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Codebreaker #04",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "hyperspace-stories-codebreaker-trade-paperback",
+  "releaseDate": "2025-11-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-codebreaker-04",
+  "synopsis": "Issue 4 of 4 from the Dark Horse Comics Hyperspace Stories Codebrecker miniseries\nCornered by the Banshe of Bestine, Poe and BB-8 have only one way to escape with the code breaker and their lives. The Resistance pilot must improvise for a last-ditch dog fight against his nemesis. What follows is a feat of flying that will take all of Poe's knowledge, skill, and dumb luck to survive! Don't miss the high-octane conclusion to this miniseries!",
+  "title": "Hyperspace Stories: Codebreaker #04"
+}

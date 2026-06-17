@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 1: Hunt the Sun Runner",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458795"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 90,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458795",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2002-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-1-hunt-the-sun-runner",
+  "synopsis": "The people of the planet Fondor can’t agree on who should get to claim the mysterious ship that recently appeared nearby. This seems like a conflict only the Jedi Order can peacefully resolve.",
+  "title": "Episode II Adventures 1: Hunt the Sun Runner"
+}

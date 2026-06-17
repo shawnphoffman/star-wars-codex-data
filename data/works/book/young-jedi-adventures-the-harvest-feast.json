@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: The Harvest Feast",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368070892"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368070898"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368070892",
+      "isbn13": "9781368070898",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDate": "2024-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-the-harvest-feast",
+  "synopsis": "Jedi younglings Kai, Lys, and Nubs help a faraway town prepare for its traditional festival celebrating gratitude.",
+  "title": "Young Jedi Adventures: The Harvest Feast"
+}

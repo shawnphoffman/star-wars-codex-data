@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    }
+  ],
+  "displayTitle": "Empire Volume 7: The Wrong Side Of The War",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2006-12-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-volume7-the-wrong-side-of-the-war-graphic-novel",
+  "title": "Empire Volume 7: The Wrong Side Of The War"
+}

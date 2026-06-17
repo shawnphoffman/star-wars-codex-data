@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Miller",
+      "role": "writer",
+      "slug": "steve-miller"
+    }
+  ],
+  "displayTitle": "The Starfighter Trap",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "releaseDate": "2000-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-starfighter-trap",
+  "title": "The Starfighter Trap"
+}

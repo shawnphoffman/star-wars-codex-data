@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Last Jedi",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2018-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-novelization",
+  "synopsis": "Written with input from director Rian Johnson, this official adaptation of Star Wars: The Last Jedi expands on the film to include scenes from alternate versions of the script and other additional content.",
+  "title": "The Last Jedi"
+}

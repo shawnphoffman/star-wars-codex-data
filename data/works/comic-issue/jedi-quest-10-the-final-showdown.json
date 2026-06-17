@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #10: The Final Showdown",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -25,
+    "startYear": -25
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "releaseDate": "2004-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-10-the-final-showdown",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker are hunting for Granta Omega before he can unleash terror into the galaxy. But the strengthening presence of the dark side of the Force might make this one of their most dangerous missions yet.",
+  "title": "Jedi Quest #10: The Final Showdown"
+}

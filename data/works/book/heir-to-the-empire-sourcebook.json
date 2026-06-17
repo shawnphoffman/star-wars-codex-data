@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "Heir to the Empire Sourcebook",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "1992-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heir-to-the-empire-sourcebook",
+  "title": "Heir to the Empire Sourcebook"
+}

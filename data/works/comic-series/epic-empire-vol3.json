@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Tim Siedell",
+      "role": "writer",
+      "slug": "tim-siedell"
+    }
+  ],
+  "displayTitle": "Legends Epic Collection: The Empire Vol. 3",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2017-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "epic-empire-vol3",
+  "title": "Legends Epic Collection: The Empire Vol. 3"
+}

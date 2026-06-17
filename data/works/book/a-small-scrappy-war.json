@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "A Small Scrappy War!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2012-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-small-scrappy-war",
+  "title": "A Small Scrappy War!"
+}

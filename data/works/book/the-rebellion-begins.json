@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Rebellion Begins",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484717004"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484717004",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-rebellion-begins",
+  "synopsis": "Ezra Bridger accidentally runs into a group of rebels in the middle of one of their missions … and finds himself caught up in the chaos.",
+  "title": "The Rebellion Begins"
+}

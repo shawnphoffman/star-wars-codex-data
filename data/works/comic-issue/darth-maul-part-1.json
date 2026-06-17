@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cullen Bunn",
+      "role": "writer",
+      "slug": "cullen-bunn"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    }
+  ],
+  "displayTitle": "Darth Maul (2017) #1",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "darth-maul-2017-trade-paperback",
+  "releaseDate": "2017-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-part-1",
+  "synopsis": "Bred on hate, fear, and anger...steeped in the ways of darkness...and trained to kill. Darth Maul's time as apprentice to Darth Sidious has long been cloaked in shadows, but at last we will reveal his tale of revenge. From writer Cullen Bunn (DEADPOOL KILLS THE MARVEL UNIVERSE, WOLVERINE) and artist Luke Ross (STAR WARS: THE FORCE AWAKENS, HERCULES) comes a tale of rage unleashed as Darth Maul prepares for his first encounter with the Jedi.",
+  "title": "Darth Maul (2017) #1"
+}

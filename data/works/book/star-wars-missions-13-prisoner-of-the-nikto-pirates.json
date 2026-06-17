@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Star Wars Missions 13: Prisoner of the Nikto Pirates",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "1998-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-missions-13-prisoner-of-the-nikto-pirates",
+  "title": "Star Wars Missions 13: Prisoner of the Nikto Pirates"
+}

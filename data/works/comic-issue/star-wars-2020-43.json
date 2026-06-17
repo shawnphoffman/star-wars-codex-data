@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #43",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-2020-vol-9-the-path-of-light",
+  "releaseDate": "2024-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-43",
+  "synopsis": "This is the forty-third issue from the Marvel Comics Star Wars (2020) Series\nA SITH IN THE MIND'S EYE!\nLUKE SKYWALKER is trapped deep behind enemy lines, hunted by a rogue SITH who sees the nascent JEDI KNIGHT as his chance at new ascendancy.\nHow will Luke survive…\n…and who will he be if he does?",
+  "title": "Star Wars (2020) #43"
+}

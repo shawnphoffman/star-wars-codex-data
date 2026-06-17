@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    }
+  ],
+  "displayTitle": "Han Solo At Stars' End",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "releaseDate": "1979-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-at-stars-end",
+  "title": "Han Solo At Stars' End"
+}

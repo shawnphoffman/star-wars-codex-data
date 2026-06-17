@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Bob Molesworth",
+      "role": "artist",
+      "slug": "bob-molesworth"
+    }
+  ],
+  "displayTitle": "The Fake Jedi",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2015-03-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-fake-jedi",
+  "synopsis": "\"The fake Jedi\" is a comic story published in Star Wars Rebels Magazine. It was written by Martin Fisher, illustrated by Bob Molesworth, and edited by Gunther Nickel. The comic was originally released in the UK on March 25, 2015, for Star Wars Rebels Magazine 3, and was later reprinted in the US version of Star Wars Rebels Magazine 2 on December 15, 2015, and in the K-Zone Bag of Awesome! issue in July, 2016, of the Australian magazine K-Zone.[1]",
+  "title": "The Fake Jedi"
+}

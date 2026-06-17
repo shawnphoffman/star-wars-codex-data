@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Elaine Cunningham",
+      "role": "writer",
+      "slug": "elaine-cunningham"
+    }
+  ],
+  "displayTitle": "The Crystal",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "releaseDate": "2001-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-crystal",
+  "title": "The Crystal"
+}

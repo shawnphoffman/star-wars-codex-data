@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Kanan 7: First Blood, Part I: The Corridors of Coruscant",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -22
+  },
+  "parentWorkSlug": "kanan-volume-2-first-blood-graphic-novel",
+  "releaseDate": "2015-10-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kanan-first-blood-part",
+  "synopsis": "We've seen Kanan's LAST adventure as a Padawan…now we go back to his FIRST adventure! See Caleb Dume's first steps in the Clone Wars!",
+  "title": "Kanan 7: First Blood, Part I: The Corridors of Coruscant"
+}

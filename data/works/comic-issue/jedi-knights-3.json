@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    }
+  ],
+  "displayTitle": "Jedi Knights #03",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -34,
+    "startYear": -34
+  },
+  "parentWorkSlug": "jedi-knights-vol-1-trade-paperback",
+  "releaseDate": "2025-05-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-knights-3",
+  "synopsis": "Third issue from Marvel Comics Jedi Knights Series\nQUI-GON JINN AND OBI-WAN KENOBI BATTLE GIANT MONSTERS!\nALL SPLASH PAGES! ALL ACTION! The most unusual Jedi Knights tale ever told! QUI-GON and OBI-WAN defy death in an epic attempt to save the life of SENATOR BAIL ORGANA on a planet full of skyscraper-sized monsters!",
+  "title": "Jedi Knights #03"
+}

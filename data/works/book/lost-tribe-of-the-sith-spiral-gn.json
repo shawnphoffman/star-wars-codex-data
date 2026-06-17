@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Spiral",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -2974,
+    "startYear": -2974
+  },
+  "releaseDate": "2013-06-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-spiral-gn",
+  "title": "Lost Tribe of the Sith: Spiral"
+}

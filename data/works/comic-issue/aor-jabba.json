@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Grek Pak",
+      "role": "writer",
+      "slug": "grek-pak"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Age Of Rebellion: Jabba The Hutt",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "parentWorkSlug": "aor-villans",
+  "releaseDate": "2019-05-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-jabba",
+  "synopsis": "Across the galaxy, Imperials, rebels and scoundrels alike speak in hushed tones of JABBA THE HUTT, the greatest gangster in the OUTER RIM.  Discover what makes the name of Jabba so feared, in a crime story that stretches from the casinos of CANTO BIGHT to the deserts of TATOOINE!",
+  "title": "Age Of Rebellion: Jabba The Hutt"
+}

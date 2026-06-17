@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Obi-Wan Kenobi",
+  "era": "reignOfTheEmpire",
+  "format": "tvSeries",
+  "inUniverseDate": {
+    "endYear": -9,
+    "startYear": -9
+  },
+  "releaseDate": "2022-05-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-trade-paperback",
+  "synopsis": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+  "title": "Obi-Wan Kenobi"
+}

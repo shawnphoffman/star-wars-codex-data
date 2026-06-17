@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Kanan 2: The Last Padawan, Part II: Flight",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -19
+  },
+  "parentWorkSlug": "kanan-volume-1-the-last-padwan-graphic-novel",
+  "releaseDate": "2015-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kanan-the-last-padawan-part-ii",
+  "synopsis": "His master betrayed and killed, young Caleb Dume is alone. When being a Jedi makes him a target, what can a Padawan do? Continuing the story of the birth of Star Wars Rebels' Kanan Jarrus!",
+  "title": "Kanan 2: The Last Padawan, Part II: Flight"
+}

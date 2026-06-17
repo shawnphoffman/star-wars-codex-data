@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Luke and the Lost Jedi Temple",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2016-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "luke-and-the-lost-jedi-temple",
+  "synopsis": "When Luke Skywalker has to make an emergency landing on a strange planet, he is destined to discover a faithful friend, a formidable foe, and untold secrets of the Force.",
+  "title": "Luke and the Lost Jedi Temple"
+}

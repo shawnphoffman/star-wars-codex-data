@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "Republic #53: Blast Radius",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "releaseDate": "2003-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-53-blast-radius",
+  "title": "Republic #53: Blast Radius"
+}

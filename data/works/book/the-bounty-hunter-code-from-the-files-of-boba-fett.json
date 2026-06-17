@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "The Bounty Hunter Code: From the Files of Boba Fett",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -39,
+    "startYear": -39
+  },
+  "releaseDate": "2013-10-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-bounty-hunter-code-from-the-files-of-boba-fett",
+  "title": "The Bounty Hunter Code: From the Files of Boba Fett"
+}

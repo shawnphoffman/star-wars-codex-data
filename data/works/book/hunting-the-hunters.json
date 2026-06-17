@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Hunting the Hunters",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1996-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hunting-the-hunters",
+  "title": "Hunting the Hunters"
+}

@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "writer",
+      "slug": "howard-chaykin"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #07: New Planets, New Perils!",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1977-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-07-new-planets-new-perils",
+  "title": "Star Wars (1977) #07: New Planets, New Perils!"
+}

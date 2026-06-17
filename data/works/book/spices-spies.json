@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Spices & Spies",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "spices-spies",
+  "title": "Spices & Spies"
+}

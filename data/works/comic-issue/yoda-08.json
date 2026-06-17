@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "artist",
+      "slug": "alessandro-miracolo"
+    }
+  ],
+  "displayTitle": "Yoda #08",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "parentWorkSlug": "yoda-trade-paperback",
+  "releaseDate": "2023-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-08",
+  "synopsis": "Issue 8 of 10 of the Marvel canon comic miniseries Star Wars: Yoda.",
+  "title": "Yoda #08"
+}

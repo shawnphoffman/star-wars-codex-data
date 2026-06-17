@@ -1,0 +1,49 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    },
+    {
+      "name": "Matt Taylor",
+      "role": "coverArtist",
+      "slug": "matt-taylor"
+    },
+    {
+      "name": "Scott Biel",
+      "role": "coverArtist",
+      "slug": "scott-biel"
+    }
+  ],
+  "displayTitle": "Dark Disciple",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593873298"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593873298",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2015-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-disciple",
+  "synopsis": "The Jedi have a plan to end the Clone Wars once and for all. It’s going to require teaming up with an unlikely ally, however. Quinlan Vos must go undercover to team up with Asajj Ventress to get close to Count Dooku, despite the dangers he faces flirting with the dark side of the Force.",
+  "title": "Dark Disciple"
+}

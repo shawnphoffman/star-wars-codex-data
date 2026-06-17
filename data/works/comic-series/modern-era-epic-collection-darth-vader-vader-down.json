@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    }
+  ],
+  "displayTitle": "Modern Era Epic Collection: Darth Vader: Vader Down",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2025-11-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "modern-era-epic-collection-darth-vader-vader-down",
+  "synopsis": "Trade paperback Omnibus edition collecting #13-25 out of 25 issues from the Marvel Comics Darth Vader (2015) Series\nCollecting\nDarth Vader (2015) #13-25\nVader Down #1\nStar Wars (2015) #13-14",
+  "title": "Modern Era Epic Collection: Darth Vader: Vader Down"
+}

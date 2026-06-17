@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Thomas Andrews",
+      "role": "writer",
+      "slug": "thomas-andrews"
+    }
+  ],
+  "displayTitle": "Empire #32: In the Shadows of Their Fathers, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-legends-empire-omnibus-vol-1",
+  "releaseDate": "2005-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-32-in-the-shadows-of-their-fathers-part-3",
+  "title": "Empire #32: In the Shadows of Their Fathers, Part 3"
+}

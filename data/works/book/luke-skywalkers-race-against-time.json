@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "Luke Skywalker's Race Against Time",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "releaseDate": "1998-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "luke-skywalkers-race-against-time",
+  "title": "Luke Skywalker's Race Against Time"
+}

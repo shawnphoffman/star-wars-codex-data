@@ -1,0 +1,34 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Stories of Jedi and Sith",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368080545"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368080545"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368080545",
+      "isbn13": "9781368080545",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -234
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "stories-of-jedi-and-sith",
+  "synopsis": "An anthology filled with original stories chronicling the epic confrontations between the Jedi and Sith.",
+  "title": "Stories of Jedi and Sith"
+}

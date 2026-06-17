@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Stover",
+      "role": "writer",
+      "slug": "matthew-stover"
+    }
+  ],
+  "displayTitle": "The Tenebrous Way",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -66,
+    "startYear": -66
+  },
+  "releaseDate": "2011-12-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-tenebrous-way",
+  "title": "The Tenebrous Way"
+}

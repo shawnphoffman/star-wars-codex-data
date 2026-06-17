@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "Battle of Jakku: Last Stand #2",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "parentWorkSlug": "battle-of-jakku-last-stand",
+  "releaseDate": "2025-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battle-of-jakku-last-stand-2",
+  "synopsis": "After months of chaos following RETURN OF THE JEDI, the classic trio of heroes is finally reunited, ready to take on Governor Adelhard for good.",
+  "title": "Battle of Jakku: Last Stand #2"
+}

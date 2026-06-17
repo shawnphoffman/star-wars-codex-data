@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    }
+  ],
+  "displayTitle": "Coruscant Nights II: Street of Shadows",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2008-08-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "coruscant-nights-ii-street-of-shadows",
+  "title": "Coruscant Nights II: Street of Shadows"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #09",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "releaseDate": "2021-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-09",
+  "synopsis": "The High Republic #09 is the ninth issue of the comic book series Star Wars: The High Republic.\nA new stories begins in this issue. The Shadow of the Nihil!\nFollowing the terrible events of The Rising Storm, the villainous NIHIL are in retreat, hunted by THE JEDI.\nWAYSEEKER KNIGHT ORLA JARENI is attacked by a lone Nihil Stormship in deep space, a Stormship commanded by one of the Jedi's own.\nWhich of STARLIGHT BEACON'S number have joined the Nihil Horde? And how far will they turn from the Light?",
+  "title": "The High Republic (2021) #09"
+}

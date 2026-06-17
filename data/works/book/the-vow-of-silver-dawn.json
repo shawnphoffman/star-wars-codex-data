@@ -1,0 +1,23 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Vow of Silver Dawn",
+  "editions": [
+    {
+      "extent": 324,
+      "imprint": "China Literature",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -200,
+    "startYear": -200
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-vow-of-silver-dawn",
+  "synopsis": "Without his master, and stranded on a strange and unfamiliar world, Jedi Padawan Sean will face a kind of darkness he has never encountered before.",
+  "title": "The Vow of Silver Dawn"
+}

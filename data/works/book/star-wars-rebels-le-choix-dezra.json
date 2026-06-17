@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Rebels: Le Choix d'Ezra",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "201145672X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782011456724"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette",
+      "isPrimary": true,
+      "isbn10": "201145672X",
+      "isbn13": "9782011456724",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-le-choix-dezra",
+  "synopsis": "Ezra struggles to figure out where he belongs in the rebellion just as danger approaches.",
+  "title": "Star Wars Rebels: Le Choix d'Ezra"
+}

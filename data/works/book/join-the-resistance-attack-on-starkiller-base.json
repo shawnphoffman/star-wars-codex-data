@@ -1,0 +1,48 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    }
+  ],
+  "displayTitle": "Join the Resistance: Attack on Starkiller Base",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368026871"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368026871",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2018-07-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "join-the-resistance-attack-on-starkiller-base",
+  "synopsis": "The members of J Squadron make their way back to the rest of the Resistance to help strike a major blow against the First Order.",
+  "title": "Join the Resistance: Attack on Starkiller Base"
+}

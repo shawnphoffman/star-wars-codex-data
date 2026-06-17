@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Sherman",
+      "role": "writer",
+      "slug": "david-sherman"
+    },
+    {
+      "name": "Dan Cragg",
+      "role": "writer",
+      "slug": "dan-cragg"
+    }
+  ],
+  "displayTitle": "Jedi Trial",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2004-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-trial",
+  "title": "Jedi Trial"
+}

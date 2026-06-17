@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Jaws of Jakku",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-jaws-of-jakku",
+  "synopsis": "Rey and her friends return to Jakku to find what might remain buried there from the Jedi’s past.",
+  "title": "The Jaws of Jakku"
+}

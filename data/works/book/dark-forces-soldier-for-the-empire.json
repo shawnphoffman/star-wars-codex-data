@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "William C. Dietz",
+      "role": "writer",
+      "slug": "william-c-dietz"
+    }
+  ],
+  "displayTitle": "Dark Forces: Soldier for the Empire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1997-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-forces-soldier-for-the-empire",
+  "title": "Dark Forces: Soldier for the Empire"
+}

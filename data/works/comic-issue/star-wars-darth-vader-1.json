@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    }
+  ],
+  "displayTitle": "Star Wars/Darth Vader #1",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-darth-vader-1",
+  "synopsis": "This is a one-shot canon comic and will be published on May the 4th as a Free Comic Book Day title\nAre there REBEL survivors stranded on HOTH? LUKE SKYWALKER, LEIA ORGANA, LANDO CALRISSIAN and CHEWBACCA mount a dangerous rescue mission to ECHO BASE! Lightsabers! Blasters! Snowtroopers! All-out action amongst the wreckage of AT-AT walkers, Rebel airspeeders and frozen weapons of mass destruction!\nDARTH VADER employes a surprise character from the past to help him find LUKE SKYWALKER. But SABE, [sic] former handmaiden of PADME AMADALA [sic] is also on a quest for the son of Vader. Having worked for him as an IMPERIAL COMANDER, Sabe [sic] has enough resources to cause chaos for anyone who stands in her path. How will this affect the DARK LORD'S plans to remove PALPATINE from power?",
+  "title": "Star Wars/Darth Vader #1"
+}

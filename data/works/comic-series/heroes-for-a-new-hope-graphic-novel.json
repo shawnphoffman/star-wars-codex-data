@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Gerry Duggan",
+      "role": "writer",
+      "slug": "gerry-duggan"
+    },
+    {
+      "name": "Mark Waid",
+      "role": "writer",
+      "slug": "mark-waid"
+    }
+  ],
+  "displayTitle": "Heroes For a New Hope (Hardcover Omnibus)",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2016-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heroes-for-a-new-hope-graphic-novel",
+  "synopsis": "Three of the most beloved characters in the entire Star Wars saga, in their own solo adventures! After Star Wars: Episode IV A New Hope, Leia Organa is a princess without a world! But she still feels a duty to her people. Can she save the remaining Alderaanians from the might of the Galactic Empire? Before master of charm Lando Calrissian joined the rebellion, or even ran Cloud City, he and faithful ally Lobot got by with the odd swindle and plenty of swagger. But this time, has Lando bitten off more than he can chew? Speaking of things getting Chewy, everybody's favorite Wookiee warrior also faces some alone time after the battle of Yavin. Stranded on an Imperial occupied planet, far away from Han Solo, will he make a new best friend?",
+  "title": "Heroes For a New Hope (Hardcover Omnibus)"
+}

@@ -1,0 +1,51 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Jason Latour",
+      "role": "writer",
+      "slug": "jason-latour"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "artist",
+      "slug": "michael-walsh"
+    }
+  ],
+  "displayTitle": "Star Wars (2015): Volume 3 (Hardcover Omnibus)",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "releaseDate": "2018-07-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-vol-3-hc",
+  "synopsis": "With one member of the rebel crew captured and imprisoned, we turn once more to the journals of Ben Kenobi and a legendary adventure with Jedi Master Yoda! He's trapped on a world full of vicious, mysteriously powered children. Not easy, will this be. And the ripples of Yoda's struggle in the past will be felt by Luke Skywalker in the present! Plus, Luke finally gets the alone time he's been after with Princess Leia — unfortunately, it comes while they're stranded on a desert island! Meanwhile, Sana and Lando join forces on Coruscant, while Han and Chewie go back to smuggling — for a Hutt?! Plus, Leia takes on a deadly top-secret mission, and Han has a dangerous idea for a new Rebel base. And what are the droids up to? The epic saga continues!",
+  "title": "Star Wars (2015): Volume 3 (Hardcover Omnibus)"
+}

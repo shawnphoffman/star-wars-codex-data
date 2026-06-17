@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tessa Gratton",
+      "role": "writer",
+      "slug": "tessa-gratton"
+    }
+  ],
+  "displayTitle": "The Acolyte: The Crystal Crown",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368070124"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368070126"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 448,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368070124",
+      "isbn13": "9781368070126",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -136,
+    "startYear": -136
+  },
+  "releaseDate": "2025-07-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-acolyte-571c5",
+  "synopsis": "Jedi Padawans Jedi and Yord do not like each other very much. But accompanying their respective masters on an important mission means they’re going to have to tolerate each other. When they become involved in a dangerous competition on a distant world, however, tolerating each other won’t be enough; they’ll have to depend on each other to make it out alive.",
+  "title": "The Acolyte: The Crystal Crown"
+}

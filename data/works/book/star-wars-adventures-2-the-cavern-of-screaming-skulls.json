@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 2: The Cavern of Screaming Skulls",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458801"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 104,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458801",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2-the-cavern-of-screaming-skulls",
+  "synopsis": "A group of stranded Jedi embark on a quest to locate a mysterous artifact.",
+  "title": "Episode II Adventures 2: The Cavern of Screaming Skulls"
+}

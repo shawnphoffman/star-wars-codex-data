@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marjory Liu",
+      "role": "writer",
+      "slug": "marjory-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "artist",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Sonia Oback",
+      "role": "artist",
+      "slug": "sonia-oback"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "artist",
+      "slug": "lee-bermejo"
+    }
+  ],
+  "displayTitle": "Han Solo, Part III",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "han-solo-graphic-novel",
+  "releaseDate": "2016-08-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-part-iii",
+  "synopsis": "As The Dragon Void race gets more intense… Han's rebel mission gets more deadly! Can the Falcon hold up to one of the most intense flights of its career? What's worse for Han… failing Leia? Or losing a race?",
+  "title": "Han Solo, Part III"
+}

@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    },
+    {
+      "name": "Aaron McBride",
+      "role": "coverArtist",
+      "slug": "aaron-mcbride"
+    }
+  ],
+  "displayTitle": "Battlefront: Twilight Company",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511218"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 397,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511218",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": -6
+  },
+  "releaseDate": "2015-11-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battlefront-twilight-company",
+  "synopsis": "The war between the Rebellion and the Empire continues, and the soldiers of the Alliance have important – and dangerous – work to do.",
+  "title": "Battlefront: Twilight Company"
+}

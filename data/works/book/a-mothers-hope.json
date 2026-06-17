@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "A Mother's Hope",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3630,
+    "startYear": -3630
+  },
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-mothers-hope",
+  "title": "A Mother's Hope"
+}

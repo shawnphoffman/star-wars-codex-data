@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #09",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2021-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-09",
+  "synopsis": "Bounty Hunters #09 is the ninth issue of the canon comic book series Star Wars: Bounty Hunters set set between Star Wars: Episode V The Empire Strikes Back and Star Wars: Episode VI Return of the Jedi.\nA DEADLY FAVOR!\nTo pay back a debt, VALANCE undertakes a rescue mission to save the crew of a crippled REBEL transport.\nThat dangerous job will take the bounty hunter deep into the heart of the pirate-infested space in THE OUTER RIM.\nBut lying in wait is both an old enemy...and a new threat!",
+  "title": "Bounty Hunters #09"
+}

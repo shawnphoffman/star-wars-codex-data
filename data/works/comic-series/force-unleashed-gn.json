@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "The Force Unleashed Graphic Novel",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "releaseDate": "2008-08-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "force-unleashed-gn",
+  "title": "The Force Unleashed Graphic Novel"
+}

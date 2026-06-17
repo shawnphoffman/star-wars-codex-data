@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Marc Cerasini",
+      "role": "writer",
+      "slug": "marc-cerasini"
+    }
+  ],
+  "displayTitle": "Anakin's Fate",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "anakins-fate",
+  "title": "Anakin's Fate"
+}

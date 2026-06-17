@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Last Jedi: Expanded Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1524797138"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781524797133"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1524797138",
+      "isbn13": "9781524797133",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-expanded-edition",
+  "synopsis": "Luke Skywalker has been found. But as Rey is about to discover, it’s not going to be easy to convince him to join yet another fight against tyranny.",
+  "title": "The Last Jedi: Expanded Edition"
+}

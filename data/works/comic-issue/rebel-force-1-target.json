@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alex Wheeler",
+      "role": "writer",
+      "slug": "alex-wheeler"
+    }
+  ],
+  "displayTitle": "Rebel Force #1: Target",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2008-12-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-force-1-target",
+  "title": "Rebel Force #1: Target"
+}

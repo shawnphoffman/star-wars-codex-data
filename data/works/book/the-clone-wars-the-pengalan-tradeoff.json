@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "The Clone Wars: The Pengalan Tradeoff",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2003-01-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-pengalan-tradeoff",
+  "title": "The Clone Wars: The Pengalan Tradeoff"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Cathy East Dubowski",
+      "role": "writer",
+      "slug": "cathy-east-dubowski"
+    }
+  ],
+  "displayTitle": "The Shadow Stone: An Ewok Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1986-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-shadow-stone-an-ewok-adventure",
+  "title": "The Shadow Stone: An Ewok Adventure"
+}

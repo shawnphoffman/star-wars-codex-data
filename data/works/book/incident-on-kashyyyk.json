@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Incident on Kashyyyk",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2012-08-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "incident-on-kashyyyk",
+  "title": "Incident on Kashyyyk"
+}

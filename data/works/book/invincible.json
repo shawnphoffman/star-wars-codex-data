@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Invincible",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 41,
+    "startYear": 41
+  },
+  "releaseDate": "2008-05-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "invincible",
+  "title": "Invincible"
+}

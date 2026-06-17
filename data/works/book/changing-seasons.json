@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Changing Seasons",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2004-02-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "changing-seasons",
+  "title": "Changing Seasons"
+}

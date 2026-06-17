@@ -1,0 +1,54 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    },
+    {
+      "name": "Lucy Ruth Cummins",
+      "role": "coverArtist",
+      "slug": "lucy-ruth-cummins"
+    }
+  ],
+  "displayTitle": "Adventures in Wild Space: The Snare (Book 1)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368002752"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368002757"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368002757",
+      "isbn13": "9781368002752",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-snare-book-1",
+  "synopsis": "While on the hunt for allies to help them find their parents, Milo and Lina Graf come face-to-face with an imperial officer.",
+  "title": "Adventures in Wild Space: The Snare (Book 1)"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Vader's Quest (1999)",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1999-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vaders-quest",
+  "title": "Vader's Quest (1999)"
+}

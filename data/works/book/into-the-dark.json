@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    }
+  ],
+  "displayTitle": "The High Republic: Into the Dark",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368057284"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368057288"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368057284",
+      "isbn13": "9781368057288",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2021-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "into-the-dark",
+  "synopsis": "Padawan Reath Silas just wants to stay in his favorite place: the Jedi Archives. But the Order has other plans for the aspiring scholar.",
+  "title": "The High Republic: Into the Dark"
+}

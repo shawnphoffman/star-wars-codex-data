@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Dennis Hallum",
+      "role": "writer",
+      "slug": "dennis-hallum"
+    },
+    {
+      "name": "Brian Level",
+      "role": "artist",
+      "slug": "brian-level"
+    }
+  ],
+  "displayTitle": "Vader: Dark Visions #2",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "parentWorkSlug": "dark-visions-gn",
+  "releaseDate": "2019-03-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-visions-2",
+  "synopsis": "To command an IMPERIAL DESTROYER is a coveted position. But with such great responsibility comes grave consequences if you fail your mission. How far will one officer go to spare himself from the judgment of DARTH VADER?",
+  "title": "Vader: Dark Visions #2"
+}

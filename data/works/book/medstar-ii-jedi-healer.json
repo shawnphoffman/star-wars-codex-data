@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    },
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
+  "displayTitle": "MedStar II: Jedi Healer",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2004-09-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "medstar-ii-jedi-healer",
+  "title": "MedStar II: Jedi Healer"
+}

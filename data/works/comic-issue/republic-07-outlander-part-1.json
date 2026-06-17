@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Republic #07: Outlander, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-06-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-07-outlander-part-1",
+  "title": "Republic #07: Outlander, Part 1"
+}

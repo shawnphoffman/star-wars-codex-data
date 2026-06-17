@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Episode I: Anakin Skywalker",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-anakin-skywalker",
+  "title": "Episode I: Anakin Skywalker"
+}

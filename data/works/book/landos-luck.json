@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    }
+  ],
+  "displayTitle": "Lando's Luck",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368043489"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368043489",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -11,
+    "startYear": -11
+  },
+  "releaseDate": "2018-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "landos-luck",
+  "synopsis": "Lando Calrissian and L3-37 find themselves in a bit of trouble -but Lando always has a plan to get out of it. Maybe this time it will work out in his favor.",
+  "title": "Lando's Luck"
+}

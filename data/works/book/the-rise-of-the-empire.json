@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "The Rise of the Empire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -11,
+    "startYear": -14
+  },
+  "releaseDate": "2015-10-06T00:00:00.000Z",
+  "releaseDisplayState": "releasedProvisional",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-the-empire",
+  "title": "The Rise of the Empire"
+}

@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: Path to Truth",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439367172"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 170,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439367172",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -28,
+    "startYear": -28
+  },
+  "releaseDate": "2001-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-path-to-truth",
+  "synopsis": "Obi-Wan Kenobi must help his young Padawan Anakin Skywalker take another step toward Jedi Knighthood by facing some of the worst elements of the boy’s past.",
+  "title": "Jedi Quest: Path to Truth"
+}

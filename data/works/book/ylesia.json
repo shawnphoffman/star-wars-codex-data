@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Walter Jon Williams",
+      "role": "writer",
+      "slug": "walter-jon-williams"
+    }
+  ],
+  "displayTitle": "Ylesia",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 28,
+    "startYear": 28
+  },
+  "releaseDate": "2002-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ylesia",
+  "title": "Ylesia"
+}

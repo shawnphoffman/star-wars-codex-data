@@ -1,0 +1,32 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
+    },
+    {
+      "name": "Tracy West",
+      "role": "writer",
+      "slug": "tracy-west"
+    },
+    {
+      "name": "Veronica Wasserman",
+      "role": "writer",
+      "slug": "veronica-wasserman"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Grievous Attacks!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-02-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-grievous-attacks",
+  "title": "The Clone Wars: Grievous Attacks!"
+}

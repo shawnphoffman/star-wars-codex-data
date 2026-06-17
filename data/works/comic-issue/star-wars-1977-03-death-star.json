@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #03: Death Star!",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1977-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-03-death-star",
+  "title": "Star Wars (1977) #03: Death Star!"
+}

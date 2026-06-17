@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant: Deluge #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1032,
+    "startYear": -1032
+  },
+  "releaseDate": "2011-10-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant-deluge-3",
+  "title": "Knight Errant: Deluge #3"
+}

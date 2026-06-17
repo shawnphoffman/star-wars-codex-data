@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    }
+  ],
+  "displayTitle": "The High Republic: The Blade #2",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-the-blade-trade-paperback",
+  "releaseDate": "2023-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-blade-2",
+  "synopsis": "Issue 2 of 4 of Marvel Comics The High Republic: The Blade miniseries from Phase 2 of The High Republic\nUNMATCHED! Jedi Master PORTER ENGLE has journeyed with his sister, Barash, to a planet far on the Republic frontier in response to a desperate request for aid. They are certain they will succeed. No one in the galaxy fights like Jedi Porter Engle. No warrior can stand against him. No one even comes close. They are certain…until they see what awaits them.",
+  "title": "The High Republic: The Blade #2"
+}

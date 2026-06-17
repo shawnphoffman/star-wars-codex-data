@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Amanda Deibert",
+      "role": "writer",
+      "slug": "amanda-deibert"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "artist",
+      "slug": "megan-huang"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #11",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "parentWorkSlug": "qui-gon-trade-paperback",
+  "releaseDate": "2023-11-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-1",
+  "synopsis": "Issue 11 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series",
+  "title": "Hyperspace Stories #11"
+}

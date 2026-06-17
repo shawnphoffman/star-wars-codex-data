@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "artist",
+      "slug": "davide-tinto"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #37",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "bounty-hunters-vol-5-the-raid-on-the-vermillion-trade-paperback",
+  "releaseDate": "2023-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-37",
+  "synopsis": "Is the thirty-seventh issue of the Marvel Comics Bounty Hunters Series\nThe Haunting Secret Mission of Jango Fett! The Bounty Hunters must contend with the looming shadow of the sins of Boba Fett's father! What is the secret that lurks on the mysterious droid outpost, The Haven? Who is Tarr Kligson and what is his connection to Jango Fett?",
+  "title": "Bounty Hunters #37"
+}

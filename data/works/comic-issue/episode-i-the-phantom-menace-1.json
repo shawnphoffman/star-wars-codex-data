@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace #1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-the-phantom-menance-hardcover-graphic-novel",
+  "releaseDate": "1999-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-the-phantom-menace-1",
+  "title": "Episode I: The Phantom Menace #1"
+}

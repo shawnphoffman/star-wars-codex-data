@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rebecca Roanhorse",
+      "role": "writer",
+      "slug": "rebecca-roanhorse"
+    }
+  ],
+  "displayTitle": "Resistance Reborn",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593128428"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593128428",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2019-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "resistance-reborn",
+  "synopsis": "After the Battle of Crait, the Resistance seems all but lost. Its heroes, however, aren’t giving up just yet.",
+  "title": "Resistance Reborn"
+}

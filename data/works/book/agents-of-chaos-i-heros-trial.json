@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Agents of Chaos I: Hero's Trial",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "2000-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agents-of-chaos-i-heros-trial",
+  "title": "Agents of Chaos I: Hero's Trial"
+}

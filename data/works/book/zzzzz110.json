@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 12: The Evil Experiment",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139311"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139311",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -42,
+    "startYear": -42
+  },
+  "releaseDate": "2000-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz110",
+  "synopsis": "When Jedi Master Qui-Gon Jinn becomes the prisoner of an evil scientist, it’s up to Obi-Wan Kenobi to rescue him.",
+  "title": "Jedi Apprentice 12: The Evil Experiment"
+}

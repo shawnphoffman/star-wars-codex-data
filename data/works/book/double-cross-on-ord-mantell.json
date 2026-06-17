@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Mikaelian",
+      "role": "writer",
+      "slug": "michael-mikaelian"
+    }
+  ],
+  "displayTitle": "Double Cross on Ord Mantell",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1995-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "double-cross-on-ord-mantell",
+  "title": "Double Cross on Ord Mantell"
+}

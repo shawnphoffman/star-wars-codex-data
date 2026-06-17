@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Steve Orlando",
+      "role": "writer",
+      "slug": "steve-orlando"
+    },
+    {
+      "name": "Álvaro López",
+      "role": "artist",
+      "slug": "alvaro-lopez"
+    },
+    {
+      "name": "Laura Braga",
+      "role": "artist",
+      "slug": "laura-braga"
+    }
+  ],
+  "displayTitle": "Ewoks (2024) #1",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "ewoks-2024-comics",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-2024-1",
+  "synopsis": "Issue 1 of 4 from Marvel Comics Ewoks (2024) miniseries\nCELEBRATING THE 40TH ANNIVERSARY OF CARAVAN OF COURAGE, THE EWOKS RETURN IN AN ALL-NEW MINISERIES SET AFTER THE EVENTS OF RETURN OF THE JEDI! A team of Imperial-led BOUNTY HUNTERS and scavengers arrive on the Forest Moon of Endor searching for a secret cache of Imperial weaponry! Are they prepared to face off against the battle-ready Ewoks who took down so many of their ranks? Who is the mysterious new warrior Ewok returning to Bright Tree village, and what is their connection to WICKET W. WARRICK?",
+  "title": "Ewoks (2024) #1"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire II #3: World of the Ancient Sith",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 10,
+    "startYear": 10
+  },
+  "releaseDate": "1995-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-ii-3-world-of-the-ancient-sith",
+  "title": "Dark Empire II #3: World of the Ancient Sith"
+}

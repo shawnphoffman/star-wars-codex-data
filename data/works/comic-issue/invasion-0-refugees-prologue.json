@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Invasion #0: Refugees, Prologue",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "parentWorkSlug": "invasion-volume-1-graphic-novel",
+  "releaseDate": "2009-05-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "invasion-0-refugees-prologue",
+  "title": "Invasion #0: Refugees, Prologue"
+}

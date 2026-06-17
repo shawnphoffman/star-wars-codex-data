@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Young Jedi Knights #7: Shards of Alderaan",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-knights-7-shards-of-alderaan",
+  "title": "Young Jedi Knights #7: Shards of Alderaan"
+}

@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Tides of Terror #03",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "hyperspace-stories-tides-of-terror",
+  "releaseDate": "2025-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-tides-of-terror-03",
+  "synopsis": "Issue 3 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nThe situation on board Axil Research Station is dire! Water floods the base as the Jedi try desperately to stop the structure from sinking into the monster-infested depths. Amidst the rescue efforts, Kit Fisto increasingly suspects that this disaster is no accident, and that the perpetrators may still be on board the station…",
+  "title": "Hyperspace Stories: Tides of Terror #03"
+}

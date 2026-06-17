@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "Battle of Jakku: Republic Under Siege #01",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "parentWorkSlug": "battle-of-jakku-republic-under-siege",
+  "releaseDate": "2024-11-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battle-of-jakku-republic-under-siege-01",
+  "synopsis": "Issue 5 of 12 from the Marvel Comics Battle of Jakku maxi-series\nSTILL REELING FROM THE EVENTS OF INSURGENCY RISES, LUKE MUST SEEK OUT A RELIC THAT COULD HIDE CLUES TO THE FUTURE OF THE JEDI ORDER! LUKE SKYWALKER and a new friend find themselves cornered! Can two Imperial powerhouses find common ground against the nascent New Republic? Where are Han and Chewbacca? The heroes find themselves saved in the nick of time — by a fan-favorite guest star and ally!",
+  "title": "Battle of Jakku: Republic Under Siege #01"
+}

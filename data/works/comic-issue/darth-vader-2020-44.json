@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Adam Gorham",
+      "role": "artist",
+      "slug": "adam-gorham"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #44",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-9-trade-paperback",
+  "releaseDate": "2024-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-44",
+  "synopsis": "This is the forty-fourth issue from the Marvel Comics Darth Vader (2020) Series\nRISE OF THE MAR CORPS!\nDARTH VADER is picking up the pieces after the SCOURGE wreaked havoc.\nBut could a REBEL SQUAD of cyborgs bring chaos to the DARK LORD of order?!\nWho are Vader's new TROOPERS? Find out here!",
+  "title": "Darth Vader (2020) #44"
+}

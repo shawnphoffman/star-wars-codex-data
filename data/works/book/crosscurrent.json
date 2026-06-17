@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul S. Kemp",
+      "role": "writer",
+      "slug": "paul-s-kemp"
+    }
+  ],
+  "displayTitle": "Crosscurrent",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 41,
+    "startYear": -5000
+  },
+  "releaseDate": "2010-01-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crosscurrent",
+  "title": "Crosscurrent"
+}

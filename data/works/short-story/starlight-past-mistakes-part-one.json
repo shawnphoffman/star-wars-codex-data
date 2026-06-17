@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "Starlight: Past Mistakes",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "starlight",
+  "releaseDate": "2021-09-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starlight-past-mistakes-part-one",
+  "synopsis": "\"Past Mistakes\" is a 2 part High Republic story written by Cavan Scott that was published in Star Wars Insider #205 and #206.",
+  "title": "Starlight: Past Mistakes"
+}

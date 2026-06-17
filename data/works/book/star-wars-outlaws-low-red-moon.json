@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Chen",
+      "role": "writer",
+      "slug": "mike-chen"
+    }
+  ],
+  "displayTitle": "Outlaws: Low Red Moon",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593874493"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593874493",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -19
+  },
+  "releaseDate": "2026-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-outlaws-low-red-moon",
+  "synopsis": "Jaylen Barsha and ND-5 disappear into the underworld and become an unlikely team. But how long can they hide from the lives they knew before?",
+  "title": "Outlaws: Low Red Moon"
+}

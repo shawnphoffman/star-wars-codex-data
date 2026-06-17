@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Star Wars Rebels: Rebel Journal by Ezra Bridger",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-rebel-journal-by-ezra-bridger",
+  "synopsis": "Though Ezra Bridger’s whereabouts following the end of Star Wars Rebels are still unknown, Kanan’s apprentice did leave behind the journal he kept during his adventures with the Ghost crew. Text and drawings fill each page, allowing readers the chance to relive Season 1 of the series in an entirely new way.",
+  "title": "Star Wars Rebels: Rebel Journal by Ezra Bridger"
+}

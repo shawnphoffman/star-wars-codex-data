@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Crisis of Faith",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 8,
+    "startYear": 8
+  },
+  "releaseDate": "2011-09-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crisis-of-faith",
+  "title": "Crisis of Faith"
+}

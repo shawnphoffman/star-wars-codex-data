@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice Special Edition #1: Deceptions",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -29,
+    "startYear": -41
+  },
+  "releaseDate": "2001-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz2",
+  "synopsis": "Jedi Knight Obi-Wan Kenobi has been keeping a secret from his Padawan, Anakin Skywalker. Now, the master’s past is about to catch up to him in a dangerously, maybe even deadly way.",
+  "title": "Jedi Apprentice Special Edition #1: Deceptions"
+}

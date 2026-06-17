@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ian Flynn",
+      "role": "writer",
+      "slug": "ian-flynn"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "artist",
+      "slug": "megan-levens"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #24 - Win/Lose",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-7",
+  "releaseDate": "2019-08-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-24",
+  "synopsis": "With hotshot Resistance pilot Poe Dameron captured by pirates, it's up to BB-8—and Rapier Squadron—to save the day!",
+  "title": "Star Wars Adventures (2017) #24 - Win/Lose"
+}

@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "J.J. Abrams",
+      "role": "writer",
+      "slug": "j-j-abrams"
+    },
+    {
+      "name": "Chris Terrio",
+      "role": "writer",
+      "slug": "chris-terrio"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode IX: The Rise of Skywalker",
+  "era": "riseOfTheFirstOrder",
+  "format": "movie",
+  "movie": {
+    "movieType": "theatrical",
+    "runtimeMinutes": 142
+  },
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-9",
+  "synopsis": "Lucasfilm and director J.J. Abrams join forces once again to take viewers on an epic journey to a galaxy far, far away with Star Wars: The Rise of Skywalker, the riveting conclusion of the seminal Skywalker saga, where new legends will be born and the final battle for freedom is yet to come.",
+  "title": "Episode IX: The Rise of Skywalker"
+}

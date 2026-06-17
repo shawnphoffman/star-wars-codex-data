@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Apocalypse",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2012-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "apocalypse",
+  "title": "Apocalypse"
+}

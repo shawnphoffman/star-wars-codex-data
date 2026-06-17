@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Rath",
+      "role": "writer",
+      "slug": "robert-rath"
+    }
+  ],
+  "displayTitle": "The Gambler's Quest",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2000-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-gambler-s-quest",
+  "title": "The Gambler's Quest"
+}

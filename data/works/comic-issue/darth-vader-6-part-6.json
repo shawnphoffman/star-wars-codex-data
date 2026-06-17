@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "artist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Adi Granov",
+      "role": "artist",
+      "slug": "adi-granov"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #06: Vader, Part VI",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-1-graphic-novel",
+  "releaseDate": "2015-06-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-6-part-6",
+  "synopsis": "The Emperor's machinations revealed! Everything changes for Vader! The tale of Vader's transformation from A New Hope to The Empire Strikes Back continues!",
+  "title": "Darth Vader (2015) #06: Vader, Part VI"
+}

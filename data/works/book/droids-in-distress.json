@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Droids in Distress",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405275847"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405275842"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405275847",
+      "isbn13": "9781405275842",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "droids-in-distress",
+  "synopsis": "Even though Chopper seems like a grumpy old droid, the crew is about to be reminded that droids are just important to the success of the rebellion as they are.",
+  "title": "Droids in Distress"
+}

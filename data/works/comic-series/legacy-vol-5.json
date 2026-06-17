@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy Volume 5 The Hidden Temple",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "releaseDate": "2009-02-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-vol-5",
+  "title": "Legacy Volume 5 The Hidden Temple"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Stern",
+      "role": "writer",
+      "slug": "michael-stern"
+    }
+  ],
+  "displayTitle": "Galaxy Guide 3: The Empire Strikes Back",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1989-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxy-guide-3-the-empire-strikes-back",
+  "title": "Galaxy Guide 3: The Empire Strikes Back"
+}

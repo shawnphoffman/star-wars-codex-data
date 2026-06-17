@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Tales Of Enlightenment: The Unusual Suspect",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "star-wars-insider-the-high-republic-tales-of-enlightenment",
+  "releaseDate": "2023-02-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-enlightenment-the-unusual-suspect",
+  "synopsis": "\"Tales of Enlightenment: A Different Perspective\" is a short story set during the High Republic Era, written by George Mann and published as part of The High Republic: Tales of Enlightenment series in Star Wars Insider 216.",
+  "title": "Tales Of Enlightenment: The Unusual Suspect"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    }
+  ],
+  "displayTitle": "Droids #4: Lost in Time",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "parentWorkSlug": "star-wars-2020-vol-7-dark-droids-trade-paperback",
+  "releaseDate": "1986-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-4-lost-in-time",
+  "title": "Star Wars Droids #4: Lost in Time"
+}

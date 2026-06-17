@@ -1,0 +1,25 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Various",
+      "role": "writer",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Revelations (2023) #1",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": -228
+  },
+  "releaseDate": "2023-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "revelations-2023-1",
+  "title": "Revelations (2023) #1"
+}

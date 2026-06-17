@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Nancy Richardson",
+      "role": "writer",
+      "slug": "nancy-richardson"
+    }
+  ],
+  "displayTitle": "Junior Jedi Knights #1: The Golden Globe",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 22,
+    "startYear": 22
+  },
+  "releaseDate": "1995-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "junior-jedi-knights-1-the-golden-globe",
+  "title": "Junior Jedi Knights #1: The Golden Globe"
+}

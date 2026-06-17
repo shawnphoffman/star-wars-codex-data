@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #73: Trackdown, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "parentWorkSlug": "omnibus-clone-wars-v3-republic-falls",
+  "releaseDate": "2005-02-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-73-trackdown-part-2",
+  "title": "Republic #73: Trackdown, Part 2"
+}

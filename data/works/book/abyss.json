@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Abyss",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 43,
+    "startYear": 43
+  },
+  "releaseDate": "2009-08-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "abyss",
+  "title": "Abyss"
+}

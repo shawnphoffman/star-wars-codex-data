@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #03",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "releaseDate": "2021-03-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-03",
+  "synopsis": "The High Republic 3 is the third issue of the canon comic book series Star Wars: The High Republic.\nALL-NEW SERIES CONTINUES! A DARK MYSTERY ONLY THE JEDI CAN UNRAVEL…BUT AT WHAT COST?\nA planet stricken by a mysterious blight. One JEDI missing and another driven insane.\nWhat horror lurks in the darkness beneath the rotting crops?\nDeath is averted, but a terrible union is formed. Can KEEVE TRENNIS protect an innocent life while facing betrayal from within her own order?",
+  "title": "The High Republic (2021) #03"
+}

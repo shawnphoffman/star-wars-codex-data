@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    }
+  ],
+  "displayTitle": "The High Republic: Escape from Valo",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093809"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093804"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368093809",
+      "isbn13": "9781368093804",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -229
+  },
+  "releaseDate": "2024-01-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-escape",
+  "synopsis": "Trapped on Valo after the attack on the Republic Fair, a group of younglings must stick together in order to survive.",
+  "title": "The High Republic: Escape from Valo"
+}

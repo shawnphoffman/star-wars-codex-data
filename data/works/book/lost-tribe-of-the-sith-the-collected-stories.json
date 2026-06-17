@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: The Collected Stories",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -2975,
+    "startYear": -5000
+  },
+  "releaseDate": "2012-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-the-collected-stories",
+  "title": "Lost Tribe of the Sith: The Collected Stories"
+}

@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 16: The Call to Vengeance",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139359"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139359",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -41,
+    "startYear": -41
+  },
+  "releaseDate": "2001-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz114",
+  "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
+  "title": "Jedi Apprentice 16: The Call to Vengeance"
+}

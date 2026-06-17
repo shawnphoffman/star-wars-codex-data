@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #25",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-2020-vol-4-crimson-reign-trade-paperback",
+  "releaseDate": "2022-07-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-25",
+  "synopsis": "The twenty fifth issue of the Marvel comic series Star Wars (2020).\nA Celebration across the Galaxy for STAR WARS' 25th issue! With stories set from the Prequel to the Sequel eras, experience new tales of OBI-WAN & ANAKIN, DARTH VADER, POE DAMERON and KYLO REN. Join Charles Soule, along with his previous artistic collaborators, for this era-spanning celebration!\nContains\nThe Lesson (Obi-Wan & Anakin)\nThe Lesson (Darth Vader)\nSee You Around, Kid\nA Eulogy for Snap",
+  "title": "Star Wars (2020) #25"
+}

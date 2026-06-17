@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "Rebels: Hera's Phantom Flight",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2015-03-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-heras-phantom-flight",
+  "synopsis": "Rebel pilot Hera stars in another exciting Star Wars adventure! Featuring exciting full-color art from the show, this World of Reading early reader is perfect for fans who are ready to read on their own.",
+  "title": "Rebels: Hera's Phantom Flight"
+}

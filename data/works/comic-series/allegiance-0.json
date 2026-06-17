@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "other",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Allegiance",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2007-01-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "allegiance-0",
+  "synopsis": "BEFORE THE EXCITING EVENTS OF STAR WARS: THE RISE OF SKYWALKER!",
+  "title": "Allegiance"
+}

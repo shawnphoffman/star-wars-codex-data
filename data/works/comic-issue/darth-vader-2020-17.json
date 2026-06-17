@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #17",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-3-trade-paperback",
+  "releaseDate": "2021-10-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-17",
+  "synopsis": "Darth Vader (2020) #17 is the seventeenth issue of the comic book series Star Wars: Darth Vader (2020), and is part of the Star Wars: War of the Bounty Hunters crossover event.\nThroughout the search for HAN SOLO, DARTH VADER has carved his way through shadows, unraveling mysteries cloaked in deceptions and betrayal.\nNow Vader finally takes care of all his business in this blockbuster conclusion to the WAR OF THE BOUNTY HUNTERS story arc.\nBut is he the true master of betrayal in this tale? Or is there another?",
+  "title": "Darth Vader (2020) #17"
+}

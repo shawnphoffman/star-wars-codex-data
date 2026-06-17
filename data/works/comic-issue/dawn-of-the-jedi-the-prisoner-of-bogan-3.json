@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -25793,
+    "startYear": -25793
+  },
+  "releaseDate": "2013-02-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dawn-of-the-jedi-the-prisoner-of-bogan-3",
+  "title": "Dawn of the Jedi: The Prisoner of Bogan #3"
+}

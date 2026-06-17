@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Tales Of Enlightenment: New Prospects",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "star-wars-insider-the-high-republic-tales-of-enlightenment",
+  "releaseDate": "2022-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-enlightenment-new-prospects",
+  "synopsis": "\"Tales Of Enlightenment\" is a short story published in 2 parts in Star Wars Insider 213 & 214, written by George Mann.",
+  "title": "Tales Of Enlightenment: New Prospects"
+}

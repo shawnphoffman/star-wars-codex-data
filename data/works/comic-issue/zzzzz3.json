@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice Special Edition #2: The Followers",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -29,
+    "startYear": -40
+  },
+  "releaseDate": "2002-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz3",
+  "synopsis": "Ten years ago, Qui-Gon Jinn and Obi-Wan Kenobi fought against a group of Sith followers studying the dark side of the Force. Now, he and his apprentice, Anakin Skywalker, are about to do the same. But they’ll need the help of someone they’re not sure they can trust.",
+  "title": "Jedi Apprentice Special Edition #2: The Followers"
+}

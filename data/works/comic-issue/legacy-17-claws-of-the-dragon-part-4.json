@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #17: Claws of the Dragon, Part 4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-4",
+  "releaseDate": "2007-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-17-claws-of-the-dragon-part-4",
+  "title": "Legacy #17: Claws of the Dragon, Part 4"
+}

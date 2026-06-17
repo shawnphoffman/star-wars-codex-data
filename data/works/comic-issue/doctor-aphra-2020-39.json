@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #39",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2023-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-39",
+  "synopsis": "This is the thirty-ninth issue from Marvel Comics Doctor Aphra (2020) Series\nABOVE ALL – A DARK DROIDS TIE-IN!\nThe SCOURGE sets its sights on TAGGE CORPORATION…and DOMINA TAGGE!\nAs the ACQUISITOR falls from the sky, DOCTOR APHRA fights for survival…\n…against an entity that threatens to consume everything she loves! (Including herself!)",
+  "title": "Doctor Aphra (2020) #39"
+}

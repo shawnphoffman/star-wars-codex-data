@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Republic #15: Emissaries to Malastare, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "omnibus-clone-wars-v3-republic-falls",
+  "releaseDate": "2000-02-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-15-emissaries-to-malastare-part-3",
+  "title": "Republic #15: Emissaries to Malastare, Part 3"
+}

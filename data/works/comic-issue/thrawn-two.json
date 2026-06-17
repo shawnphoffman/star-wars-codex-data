@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Thrawn #2",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "parentWorkSlug": "thrawn-graphic-novel",
+  "releaseDate": "2018-03-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-two",
+  "synopsis": "THE RISE OF THE GRAND ADMIRAL CONTINUES! Mitth'raw'nuruodo, better known as Lieutenant Thrawn of the Galactic Empire, has graduated the Imperial Academy with the highest marks possible, as well as been assigned his own personal assistant, Ensign Eli Vanto, but that doesn't mean that everyone in the Imperial army wants him to succeed. Tensions run high in the ranks of the Empire as Thrawn continues to defeat new enemies.",
+  "title": "Thrawn #2"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Steacy",
+      "role": "writer",
+      "slug": "ken-steacy"
+    }
+  ],
+  "displayTitle": "Heroes in Hiding",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1995-06-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heroes-in-hiding",
+  "title": "Heroes in Hiding"
+}

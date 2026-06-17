@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rob Chestney",
+      "role": "writer",
+      "slug": "rob-chestney"
+    }
+  ],
+  "displayTitle": "The Old Republic #1: Threat of Peace, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3653,
+    "startYear": -3653
+  },
+  "parentWorkSlug": "the-old-republic-threat-of-peace",
+  "releaseDate": "2010-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-1-threat-of-peace-part-1",
+  "title": "The Old Republic #1: Threat of Peace, Part 1"
+}

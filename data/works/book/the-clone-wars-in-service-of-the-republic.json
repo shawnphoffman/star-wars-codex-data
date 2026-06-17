@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    }
+  ],
+  "displayTitle": "The Clone Wars: In Service Of The Republic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-06-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-in-service-of-the-republic",
+  "title": "The Clone Wars: In Service Of The Republic"
+}

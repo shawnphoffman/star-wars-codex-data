@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Julianne Balmain",
+      "role": "writer",
+      "slug": "julianne-balmain"
+    }
+  ],
+  "displayTitle": "The Queen's Amulet",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-queens-amulet",
+  "title": "The Queen's Amulet"
+}

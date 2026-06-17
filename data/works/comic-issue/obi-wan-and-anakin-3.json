@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
+  "displayTitle": "Obi-Wan & Anakin, Part III",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -29,
+    "startYear": -29
+  },
+  "parentWorkSlug": "obi-wan-and-anakin",
+  "releaseDate": "2016-03-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-and-anakin-3",
+  "synopsis": "Obi-Wan and Anakin team together to take on a strange new world …but they are brought into even stranger circumstances. Will the duo be able to save themselves and this world they've been called to?",
+  "title": "Obi-Wan & Anakin, Part III"
+}

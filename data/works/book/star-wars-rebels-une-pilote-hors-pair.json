@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Rebels: Une Pilote Hors Pair",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2011956587"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782011956583"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "isbn10": "2011956587",
+      "isbn13": "9782011956583",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-une-pilote-hors-pair",
+  "synopsis": "Hera must put her stellar flying skills to the test in order to help rebuild the Rebel Alliance fleet.",
+  "title": "Star Wars Rebels: Une Pilote Hors Pair"
+}

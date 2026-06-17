@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "Ahsoka #7",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "ahsoka-comics",
+  "releaseDate": "2025-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka-7",
+  "synopsis": "Issue 7 of 8 from the Marvel Comic Ahsoka Adaptation miniseries\nDREAMS AND MADNESS! Hera must answer to the New Republic while a reunion takes place far, far away.",
+  "title": "Ahsoka #7"
+}

@@ -1,0 +1,42 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Huddleston",
+      "role": "writer",
+      "slug": "tom-huddleston"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    },
+    {
+      "name": "Lucy Ruth Cummins",
+      "role": "coverArtist",
+      "slug": "lucy-ruth-cummins"
+    }
+  ],
+  "displayTitle": "Adventures in Wild Space: The Nest (Book 2)",
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-nest-book-2",
+  "synopsis": "Milo and Lina Graf travel to a jungle world, still searching for their parents and not knowing what waits for them at their next destination.",
+  "title": "Adventures in Wild Space: The Nest (Book 2)"
+}

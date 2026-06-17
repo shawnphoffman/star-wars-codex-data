@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Ingo Römling",
+      "role": "artist",
+      "slug": "ingo-romling"
+    }
+  ],
+  "displayTitle": "Assessment",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "assessment",
+  "synopsis": "\"Assessment\" is a comic strip published in the eleventh issue of the Star Wars Rebels Magazine series by Egmont UK Ltd. It was written by Martin Fisher, illustrated by Ingo Römling and edited by Gunther Nickel. The comic was released on November 4, 2015.",
+  "title": "Assessment"
+}

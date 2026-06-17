@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    }
+  ],
+  "displayTitle": "Rebellion #04: My Brother, My Enemy, Part 4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "rebellion-volume-1",
+  "releaseDate": "2006-07-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-04-my-brother-my-enemy-part-4",
+  "title": "Rebellion #04: My Brother, My Enemy, Part 4"
+}

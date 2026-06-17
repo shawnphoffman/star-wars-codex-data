@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jane Mason",
+      "role": "writer",
+      "slug": "jane-mason"
+    }
+  ],
+  "displayTitle": "Meltdown on Hoth",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "meltdown-on-hoth",
+  "title": "Meltdown on Hoth"
+}

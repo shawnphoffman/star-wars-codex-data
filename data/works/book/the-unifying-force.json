@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "The Unifying Force",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 29,
+    "startYear": 29
+  },
+  "releaseDate": "2003-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-unifying-force",
+  "title": "The Unifying Force"
+}

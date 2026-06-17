@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "Reign of the Empire: The Mask of Fear",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593723463"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 496,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593723463",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2025-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "reign-of-the-empire-the-mask-of-fear",
+  "synopsis": "In the immediate aftermath of Order 66 and the Republic’s sudden transformation into the Galactic Empire, senators Mon Mothma and Bail Organa must figure out how to continue fighting for what they believe in … without the Empire catching on to their disloyalty.",
+  "title": "Reign of the Empire: The Mask of Fear"
+}

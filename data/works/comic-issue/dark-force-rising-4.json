@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    }
+  ],
+  "displayTitle": "Dark Force Rising #4",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "dark-force-rising-graphic-novel",
+  "releaseDate": "1997-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-force-rising-4",
+  "title": "Dark Force Rising #4"
+}

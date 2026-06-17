@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    }
+  ],
+  "displayTitle": "The Trigon Unleashed",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "releaseDate": "1987-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-trigon-unleashed",
+  "title": "The Trigon Unleashed"
+}

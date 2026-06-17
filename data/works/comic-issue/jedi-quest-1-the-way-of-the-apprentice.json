@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #1: The Way of the Apprentice",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -28,
+    "startYear": -28
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-1-the-way-of-the-apprentice",
+  "synopsis": "Obi-Wan Kenobi is working hard training Anakin Skywalker to one day become a Jedi Knight. But Anakin will face the ultimate test when a mission gone awry separates the master and apprentice, forcing Anakin to figure things out without Obi-Wan’s guidance.",
+  "title": "Jedi Quest #1: The Way of the Apprentice"
+}

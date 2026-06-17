@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Terror on the Twilight",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-03-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "terror-on-the-twilight",
+  "title": "Terror on the Twilight"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Virginia Holt",
+      "role": "writer",
+      "slug": "virginia-holt"
+    }
+  ],
+  "displayTitle": "Shiny as a Droid",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1986-04-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shiny-as-a-droid",
+  "title": "Shiny as a Droid"
+}

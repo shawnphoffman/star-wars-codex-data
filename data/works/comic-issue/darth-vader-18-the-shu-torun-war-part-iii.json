@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Kaare Andrews",
+      "role": "artist",
+      "slug": "kaare-andrews"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #18: The Shu-Torun War, Part III",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-3-graphic-novel",
+  "releaseDate": "2016-03-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-18-the-shu-torun-war-part-iii",
+  "synopsis": "With resources vital to the Empire on the line, Vader makes his move...but Cylo and his forces are looking to show him up before he can! Full-scale warfare on the surface of Sho-Turun!",
+  "title": "Darth Vader (2015) #18: The Shu-Torun War, Part III"
+}

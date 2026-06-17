@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    }
+  ],
+  "displayTitle": "Jedi Knights #05",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -34,
+    "startYear": -34
+  },
+  "parentWorkSlug": "jedi-knights-vol-1-trade-paperback",
+  "releaseDate": "2025-07-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-knights-05",
+  "synopsis": "Fifth issue from Marvel Comics Jedi Knights Series\nJEDI MASTERS SEERA LONGA AND YADDLE FACE THE DARKEST MYSTERY! Yaddle and Seera must unravel a strange situation involving the Trade Federation. Guest-starring the mysterious Count Dooku! Will Yaddle save the life of the man destined to kill her?",
+  "title": "Jedi Knights #05"
+}

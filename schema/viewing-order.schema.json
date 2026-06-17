@@ -1,0 +1,47 @@
+{
+  "$id": "https://star-wars-codex-data/schema/viewing-order.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "entries": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "note": {
+            "type": "string"
+          },
+          "priority": {
+            "type": "string"
+          },
+          "workSlug": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": [
+          "workSlug"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "slug": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": [
+    "slug",
+    "title",
+    "entries"
+  ],
+  "title": "ViewingOrder",
+  "type": "object"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "artist",
+      "slug": "salva-espin"
+    }
+  ],
+  "displayTitle": "Dark Droids: D-Squad",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2024-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-droids-d-squad-trade-paperback",
+  "synopsis": "THE UNSUNG HEROES OF THE CLONE WARS RETURN!",
+  "title": "Dark Droids: D-Squad"
+}

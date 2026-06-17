@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic: War #1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3962,
+    "startYear": -3962
+  },
+  "releaseDate": "2012-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-war-1",
+  "title": "Knights of the Old Republic: War #1"
+}

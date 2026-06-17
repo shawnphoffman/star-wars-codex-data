@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #32: The Screaming Citadel, Part IV",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "screaming-citadel-gn",
+  "releaseDate": "2017-06-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "screaming-citadel-4",
+  "synopsis": "A rebel pilot and a rogue archaeologist delve into the darkest shadows of the galaxy side by side, as Luke Skywalker reluctantly teams up with Doctor Aphra! The not-so-good Doctor will make Luke an offer he can't afford to pass up...one that leads him to a very rare gathering at the heart of the infamous Screaming Citadel! Will Luke find what he's looking for? Can Aphra be trusted? Or will they both wind up victims of the Citadel's queen? And as this unlikely duo steps right into the lair of one of the most powerful, reclusive and dangerous women in the galaxy, can Han and Leia be far behind them?",
+  "title": "Star Wars (2015) #32: The Screaming Citadel, Part IV"
+}

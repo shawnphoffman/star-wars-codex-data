@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Inquisitor's Trap",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "148472609X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484726099"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "148472609X",
+      "isbn13": "9781484726099",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-inquisitors-trap",
+  "synopsis": "The rebels’ frantic search for a long-lost Jedi will lead them into a dangerous trap.",
+  "title": "The Inquisitor's Trap"
+}

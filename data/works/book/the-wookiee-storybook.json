@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Eleanor Ehrhardt",
+      "role": "writer",
+      "slug": "eleanor-ehrhardt"
+    }
+  ],
+  "displayTitle": "The Wookiee Storybook",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1979-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-wookiee-storybook",
+  "title": "The Wookiee Storybook"
+}

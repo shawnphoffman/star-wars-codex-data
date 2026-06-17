@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "artist",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #20 - The Journey",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "parentWorkSlug": "adventures-vol-8-defend-the-republic",
+  "releaseDate": "2019-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-20",
+  "synopsis": "Yoda joins Anakin on Retta to find out what the Separatists are searching for out in wild space. Come to find out, nothing is what meets the eye...",
+  "title": "Star Wars Adventures (2017) #20 - The Journey"
+}

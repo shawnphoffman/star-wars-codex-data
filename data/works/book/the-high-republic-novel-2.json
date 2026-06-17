@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Joseph Meehan",
+      "role": "coverArtist",
+      "slug": "joseph-meehan"
+    }
+  ],
+  "displayTitle": "The High Republic: The Rising Storm",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593159415"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593159415",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "releaseDate": "2021-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-novel-2",
+  "synopsis": "The approach of the Republic Fair creates a galaxy-wide hope for peace – even as a dark shadow looms over the planet Valo.",
+  "title": "The High Republic: The Rising Storm"
+}

@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 10: The Shattered Peace",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590520843"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590520843",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -43,
+    "startYear": -43
+  },
+  "releaseDate": "2000-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz109",
+  "synopsis": "When the heir to the Rutan throne is in danger of becoming the next victim in a long planetary tradition, Qui-Gon Jinn and Obi-Wan Kenobi must step in, hoping they can prevent a war.",
+  "title": "Jedi Apprentice 10: The Shattered Peace"
+}

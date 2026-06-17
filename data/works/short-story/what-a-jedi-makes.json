@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Various",
+      "role": "writer",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "What A Jedi Makes",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "parentWorkSlug": "the-high-republic-anthology",
+  "releaseDate": "2022-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "what-a-jedi-makes",
+  "synopsis": "\"What Makes A Jedi\" is a short story written by Michael Kogge, set in the High Republic era, that appeared in \"Stories of Jedi & Sith\", a canon middle-grade short story anthology focusing on the Jedi and Sith.",
+  "title": "What A Jedi Makes"
+}

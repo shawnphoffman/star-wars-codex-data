@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Jar Jar's Big Day",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-jar-jars-big-day",
+  "title": "The Clone Wars: Jar Jar's Big Day"
+}

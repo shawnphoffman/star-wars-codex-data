@@ -1,0 +1,44 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "The High Republic: The Great Jedi Rescue",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "176050968X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781760509682"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "176050968X",
+      "isbn13": "9781760509682",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-great-disaster",
+  "synopsis": "The galaxy is depending on the Jedi of the High Republic to save innocent people from a mysterious space disaster.",
+  "title": "The High Republic: The Great Jedi Rescue"
+}

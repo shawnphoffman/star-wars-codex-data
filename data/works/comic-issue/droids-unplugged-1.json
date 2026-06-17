@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    }
+  ],
+  "displayTitle": "Droids Unplugged 1",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": -32
+  },
+  "releaseDate": "2017-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-unplugged-1",
+  "synopsis": "This light read is a collection of short comics. Featuring Darth Maul's probe droids, R2-D2, and BB-8. Each of the three stories shares a bit of insight into a droids day-to-day life outside of battle.",
+  "title": "Droids Unplugged 1"
+}

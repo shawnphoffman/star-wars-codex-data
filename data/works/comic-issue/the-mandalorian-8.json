@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian #8",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-season-2-part-1-trade-paperback",
+  "releaseDate": "2023-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-8",
+  "synopsis": "Issue 8 of 8, of the Marvel Comics The Mandalorian Season 1 Adaptation Series.\nREDEMPTION!: The Mandalorian and his allies come to know their true enemy, who already knows much about them.",
+  "title": "The Mandalorian #8"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #05",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-05-the-shadows-shadow-trade-paperback",
+  "releaseDate": "2020-09-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-5",
+  "synopsis": "Darth Vader (2020) #05 is the fifth issue of the canon comic book series Star Wars: Darth Vader (2020). This issue Darth Vader's search is concluded at Polis Massa, the birthplace of Luke Skywalker.\nA QUEST FOR TRUTH…A JOURNEY OF DESTRUCTION! DARTH VADER'S search for revenge against those who hid his son Luke reaches a terrible climax – at the tomb of PADMÉ AMIDALA! What secrets does he learn? And who will pay as a result? All the answers are coming – in the ruins of POLIS MASSA – the birthplace of Luke Skywalker!",
+  "title": "Darth Vader (2020) #05"
+}

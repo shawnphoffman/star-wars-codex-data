@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    }
+  ],
+  "displayTitle": "The Further Adventures: Planet of the Hoojibs",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1983-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-further-adventures-planet-of-the-hoojibs",
+  "title": "The Further Adventures: Planet of the Hoojibs"
+}

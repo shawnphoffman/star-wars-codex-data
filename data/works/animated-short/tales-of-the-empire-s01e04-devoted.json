@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
+  "displayTitle": "Tales Of The Empire S01E05: Realization",
+  "era": "reignOfTheEmpire",
+  "format": "animatedShort",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "tales-of-the-empire",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s01e04-devoted",
+  "synopsis": "On a mission to hunt a fugitive, complications change Barriss forever.",
+  "title": "Tales Of The Empire S01E05: Realization"
+}

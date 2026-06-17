@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kirsten Mayer",
+      "role": "writer",
+      "slug": "kirsten-mayer"
+    }
+  ],
+  "displayTitle": "The Clone Wars: R2-D2's Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-r2-d2s-adventure",
+  "title": "The Clone Wars: R2-D2's Adventure"
+}

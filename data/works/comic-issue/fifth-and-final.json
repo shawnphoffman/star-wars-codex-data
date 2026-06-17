@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Bob Molesworth",
+      "role": "artist",
+      "slug": "bob-molesworth"
+    }
+  ],
+  "displayTitle": "Fifth and Final",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "parentWorkSlug": "star-wars-rebels-trade-paperback",
+  "releaseDate": "2017-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fifth-and-final",
+  "synopsis": "\"Fifth and Final\" (German title \"Die Fünfte und Letzte\") is a comic strip written by Jeremy Barlow, drawn by Bob Molesworth and edited by Gunther Nickel. The story was published in the 37th issue of the German Star Wars Rebels Magazine, which was released on October 25, 2017.\nIt has never received an official English translation",
+  "title": "Fifth and Final"
+}

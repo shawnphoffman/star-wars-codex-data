@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jay Watamaniuk",
+      "role": "writer",
+      "slug": "jay-watamaniuk"
+    }
+  ],
+  "displayTitle": "Seeing Red",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3626,
+    "startYear": -3626
+  },
+  "releaseDate": "2021-07-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "seeing-red",
+  "title": "Seeing Red"
+}

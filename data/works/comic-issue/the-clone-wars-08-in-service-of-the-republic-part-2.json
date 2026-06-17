@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    }
+  ],
+  "displayTitle": "The Clone Wars #08: In Service of the Republic, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "parentWorkSlug": "clone-wars-volume-8",
+  "releaseDate": "2009-08-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-08-in-service-of-the-republic-part-2",
+  "title": "The Clone Wars #08: In Service of the Republic, Part 2"
+}

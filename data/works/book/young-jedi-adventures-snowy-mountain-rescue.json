@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: Snowy Mountain Rescue",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736443500"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780736443500",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDate": "2024-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-snowy-mountain-rescue",
+  "synopsis": "A herd of wellagrins is in need of rescuing, and the Jedi younglings must team up to save the day.",
+  "title": "Young Jedi Adventures: Snowy Mountain Rescue"
+}

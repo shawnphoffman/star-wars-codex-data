@@ -1,0 +1,49 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paul S. Kemp",
+      "role": "writer",
+      "slug": "paul-s-kemp"
+    },
+    {
+      "name": "Aaron McBride",
+      "role": "coverArtist",
+      "slug": "aaron-mcbride"
+    }
+  ],
+  "displayTitle": "Lords of the Sith",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034551145X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511454"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "034551145X",
+      "isbn13": "9780345511454",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "releaseDate": "2015-04-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lords-of-the-sith",
+  "synopsis": "Emperor Palpatine and his apprentice, Darth Vader, find themselves trapped on a remote planet with no way out. When they encounter rebel activity on the surface, things get a little more complicated.",
+  "title": "Lords of the Sith"
+}

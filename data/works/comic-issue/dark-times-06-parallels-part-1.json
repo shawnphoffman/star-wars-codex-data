@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #06: Parallels, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-2",
+  "releaseDate": "2007-10-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-06-parallels-part-1",
+  "title": "Dark Times #06: Parallels, Part 1"
+}

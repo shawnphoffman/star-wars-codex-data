@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #42: The Empire Strikes Back: To Be a Jedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1980-09-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-42-the-empire-strikes-back-to-be-a-jedi",
+  "title": "Star Wars (1977) #42: The Empire Strikes Back: To Be a Jedi"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #07",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-06-trade-paperback",
+  "releaseDate": "2020-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-07",
+  "synopsis": "Darth Vader (2020) #07 is the seventh issue of the canon comic series Star Wars: Darth Vader (2020).  In this issue Darth Vader struggles to survive the embers of Mustafar, as he faces Ochi of Bestoon, assassin of the Sith.\nPAIN LEADS TO ANGER AND ANGER LEADS TO AN ELEMENT FROM EPISODE IV!\nAs DARTH VADER battered and broken by the EMPEROR as punishment for his rebellion, drags himself across the blasted surface of MUSTAFAR with vengeance on his mind!\nBut can he survive the onslaught of a certain mysterious SITH ASSASSIN\nAnd how will his world change when he learns his enemy's GREATEST SECRET?!!",
+  "title": "Darth Vader (2020) #07"
+}

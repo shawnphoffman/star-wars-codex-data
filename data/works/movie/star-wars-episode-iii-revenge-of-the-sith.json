@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode III: Revenge Of The Sith",
+  "era": "fallOfTheJedi",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2005-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-iii-revenge-of-the-sith",
+  "synopsis": "Matthew Stover’s novelization of Revenge of the Sith dives deep into the rapidly fraying mind of Anakin Skywalker as he seeks answers the Jedi do not want him looking for: How to save the one he loves from death.",
+  "title": "Episode III: Revenge Of The Sith"
+}

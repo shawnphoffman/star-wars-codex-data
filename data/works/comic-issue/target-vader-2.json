@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "artist",
+      "slug": "stefano-landini"
+    }
+  ],
+  "displayTitle": "Target Vader #2",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "target-vader-7",
+  "releaseDate": "2019-08-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "target-vader-2",
+  "synopsis": "THE HUNTER BECOMES THE HUNTED! VALANCE and DENGAR track DARTH VADER while also seeking out the perfect weapon to kill the SITH LORD…which they'll need as Vader turns the tables on the hunters and corners them! And both hunter and hunted uncover dark secrets behind the criminal syndicate known only as THE HIDDEN HAND.",
+  "title": "Target Vader #2"
+}

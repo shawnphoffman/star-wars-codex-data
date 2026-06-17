@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Star Wars Missions 14: The Monsters of Dweem",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "1998-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-missions-14-the-monsters-of-dweem",
+  "title": "Star Wars Missions 14: The Monsters of Dweem"
+}

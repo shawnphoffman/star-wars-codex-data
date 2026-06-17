@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Ezra and the Pilot",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "148470486X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704868"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "148470486X",
+      "isbn13": "9781484704868",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "ezra-and-the-pilot",
+  "synopsis": "Ezra goes to investigate a nearby crashed TIE fighter.",
+  "title": "Ezra and the Pilot"
+}

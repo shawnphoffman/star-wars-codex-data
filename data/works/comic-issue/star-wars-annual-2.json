@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Annual 2",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "star-wars-vol-3",
+  "releaseDate": "2016-11-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-annual-2",
+  "synopsis": "Princess Leia is on a top-secret dangerous mission that brings her to a planet that wants no part of the war against the Empire. But when an injury threatens to end her mission, can she inspire that rebel spirit in those who just want to keep their heads down? Writer Kelly Thompson (A-FORCE) and artist Emilio Laiso (GODS OF WAR) bring us an all-new tale of Alderaan's last monarch in action![1]",
+  "title": "Star Wars (2015) Annual 2"
+}

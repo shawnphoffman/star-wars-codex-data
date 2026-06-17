@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #12: The Bongo Rally",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "releaseDate": "2000-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-12-the-bongo-rally",
+  "synopsis": "Jar Jar Binks is the only one who can save his fellow Gungans from an incoming joint pirate and droid attack!",
+  "title": "Episode I Adventures #12: The Bongo Rally"
+}

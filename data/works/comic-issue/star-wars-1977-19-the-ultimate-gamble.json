@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #19: The Ultimate Gamble",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1978-10-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-19-the-ultimate-gamble",
+  "title": "Star Wars (1977) #19: The Ultimate Gamble"
+}

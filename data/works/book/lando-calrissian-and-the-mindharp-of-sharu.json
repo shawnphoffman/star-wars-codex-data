@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "L. Neil Smith",
+      "role": "writer",
+      "slug": "l-neil-smith"
+    }
+  ],
+  "displayTitle": "Lando Calrissian and the Mindharp of Sharu",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "1983-06-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-calrissian-and-the-mindharp-of-sharu",
+  "title": "Lando Calrissian and the Mindharp of Sharu"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #59: The Escape Part IV",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "releaseDate": "2019-01-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-59-3",
+  "synopsis": "\"THE ESCAPE\" PART FOUR!  LUKE, LEIA and HAN remain stranded on the isolated moon of Hubin and out of the fight against the Empire. Who says they even WANT to leave? But their hideaway may not be so secret…especially for old foes hot on the rebels' trail.",
+  "title": "Star Wars (2015) #59: The Escape Part IV"
+}

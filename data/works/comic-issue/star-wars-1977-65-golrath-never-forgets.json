@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "writer",
+      "slug": "walt-simonson"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #65: Golrath Never Forgets",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-08-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-65-golrath-never-forgets",
+  "title": "Star Wars (1977) #65: Golrath Never Forgets"
+}

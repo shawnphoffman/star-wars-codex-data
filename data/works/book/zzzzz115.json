@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 17: The Only Witness",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139366"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139366",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -41,
+    "startYear": -41
+  },
+  "releaseDate": "2002-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz115",
+  "synopsis": "When Qui-Gon Jinn and Obi-Wan Kenobi take on an assignment forcing them to confront a dangerous crime family, they quickly realize a mission they thought would be simple is going to prove much more complicated than they expected.",
+  "title": "Jedi Apprentice 17: The Only Witness"
+}

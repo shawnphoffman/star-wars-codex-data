@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tim Siedell",
+      "role": "writer",
+      "slug": "tim-siedell"
+    }
+  ],
+  "displayTitle": "Darth Vader and the Ninth Assassin #1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
+  "releaseDate": "2013-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-and-the-ninth-assassin-1",
+  "title": "Darth Vader and the Ninth Assassin #1"
+}

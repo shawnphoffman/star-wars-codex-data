@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Jedi vs. Sith #5",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1000,
+    "startYear": -1000
+  },
+  "parentWorkSlug": "jedi-vs-sith-graphic-novel",
+  "releaseDate": "2001-08-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-vs-sith-5",
+  "title": "Jedi vs. Sith #5"
+}

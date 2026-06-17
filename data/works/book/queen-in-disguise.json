@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Monica Kulling",
+      "role": "writer",
+      "slug": "monica-kulling"
+    }
+  ],
+  "displayTitle": "Queen in Disguise",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-03-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "queen-in-disguise",
+  "title": "Queen in Disguise"
+}

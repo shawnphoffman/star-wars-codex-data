@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Clone Wars: A Jedi Adventure in 3D",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-04-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-a-jedi-adventure-in-3d",
+  "title": "The Clone Wars: A Jedi Adventure in 3D"
+}

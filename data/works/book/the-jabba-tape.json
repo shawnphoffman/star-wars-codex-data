@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "The Jabba Tape",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1997-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-jabba-tape",
+  "title": "The Jabba Tape"
+}

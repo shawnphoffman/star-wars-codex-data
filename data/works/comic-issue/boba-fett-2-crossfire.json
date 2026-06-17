@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Terry Bisson",
+      "role": "writer",
+      "slug": "terry-bisson"
+    }
+  ],
+  "displayTitle": "Boba Fett #2: Crossfire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "parentWorkSlug": "blood-ties-volume-1",
+  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-2-crossfire",
+  "title": "Boba Fett #2: Crossfire"
+}

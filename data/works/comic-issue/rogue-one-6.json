@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "artist",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "artist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Rogue One: A Star Wars Story Adaptation #6",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "rogue-one-graphic-novel-adaptation",
+  "releaseDate": "2017-11-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-one-6",
+  "synopsis": "Jyn Erso and Cassian Andor, along with their ragtag team of Rebel activists, are on the hunt for the Imperial Death Star plans. But the Empire is not going to back down without a fight. Will the Rebels succeed? Or with the Empire destroy them without batting an eye? Read the conclusion of the epic blockbuster film!",
+  "title": "Rogue One: A Star Wars Story Adaptation #6"
+}

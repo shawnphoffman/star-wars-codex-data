@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Larry Weinberg",
+      "role": "writer",
+      "slug": "larry-weinberg"
+    }
+  ],
+  "displayTitle": "Wicket and the Dandelion Warriors: An Ewok Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1985-11-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "wicket-and-the-dandelion-warriors-an-ewok-adventure",
+  "title": "Wicket and the Dandelion Warriors: An Ewok Adventure"
+}

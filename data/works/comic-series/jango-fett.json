@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Jango Fett: Trail of Lost Hope",
+  "era": "fallOfTheJedi",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2025-01-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett",
+  "synopsis": "Jango Fett\nThis is a trade paperback collecting all 4 issues from the Marvel Comics Jango Fett miniseries.\nThe legendary Mandalorian bounty hunter Jango Fett embarks on a brand-new mission!\nJango Fett, father of Boba Fett and legendary bounty hunter, has a bounty to find! A mystery to solve! And a treaty at risk! But can even the galaxy’s most formidable bounty hunter achieve all of his goals with the dangerous and deadly Aurra Sing in the mix?!\nCollecting:\nJango Fett: Trail of Lost #1-4\nStar Wars: Revelations (2023) 1 (Story 3)",
+  "title": "Jango Fett: Trail of Lost Hope"
+}

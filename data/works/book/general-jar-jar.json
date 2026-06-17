@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lara Bergen",
+      "role": "writer",
+      "slug": "lara-bergen"
+    }
+  ],
+  "displayTitle": "General Jar Jar",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "general-jar-jar",
+  "title": "General Jar Jar"
+}

@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars: Legacy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593982662"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593982662",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-legacy",
+  "synopsis": "Coming soon!",
+  "title": "Star Wars: Legacy"
+}

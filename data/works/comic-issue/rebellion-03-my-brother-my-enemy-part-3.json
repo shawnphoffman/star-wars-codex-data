@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    }
+  ],
+  "displayTitle": "Rebellion #03: My Brother, My Enemy, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "rebellion-volume-1",
+  "releaseDate": "2006-06-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-03-my-brother-my-enemy-part-3",
+  "title": "Rebellion #03: My Brother, My Enemy, Part 3"
+}

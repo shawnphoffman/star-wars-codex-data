@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Christopher",
+      "role": "writer",
+      "slug": "adam-christopher"
+    }
+  ],
+  "displayTitle": "Master of Evil",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593874738"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593874738",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2025-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "master-of-evil",
+  "synopsis": "Darth Vader’s mysterious mission may lead him down a path even darker than he’s dared before: the possibility of disobeying his master in favor of his own desires.",
+  "title": "Master of Evil"
+}

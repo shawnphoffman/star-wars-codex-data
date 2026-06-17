@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    }
+  ],
+  "displayTitle": "Rust Never Sleeps",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rust-never-sleeps",
+  "title": "Rust Never Sleeps"
+}

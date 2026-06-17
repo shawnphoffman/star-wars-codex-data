@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Davids",
+      "role": "writer",
+      "slug": "paul-davids"
+    },
+    {
+      "name": "Hollace Davids",
+      "role": "writer",
+      "slug": "hollace-davids"
+    }
+  ],
+  "displayTitle": "Prophets of the Dark Side",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1993-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "prophets-of-the-dark-side",
+  "title": "Prophets of the Dark Side"
+}

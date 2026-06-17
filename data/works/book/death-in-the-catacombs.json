@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Death in the Catacombs",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2004-12-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "death-in-the-catacombs",
+  "title": "Death in the Catacombs"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    }
+  ],
+  "displayTitle": "Han Solo's Revenge",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "releaseDate": "1979-10-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solos-revenge",
+  "title": "Han Solo's Revenge"
+}

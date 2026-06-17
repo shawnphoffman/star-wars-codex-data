@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Chen",
+      "role": "writer",
+      "slug": "mike-chen"
+    }
+  ],
+  "displayTitle": "Brotherhood",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593358573"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 329,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593358573",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2022-05-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "brotherhood",
+  "synopsis": "Now that Anakin Skywalker is a Jedi Knight, his role in the Clone Wars — and his relationship to Master Obi-Wan Kenobi — is about to change forever.",
+  "title": "Brotherhood"
+}

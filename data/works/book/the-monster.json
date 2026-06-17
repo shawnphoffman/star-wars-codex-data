@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "The Monster",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -36,
+    "startYear": -36
+  },
+  "releaseDate": "2001-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-monster",
+  "title": "The Monster"
+}

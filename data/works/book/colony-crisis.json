@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Colony Crisis",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-06-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "colony-crisis",
+  "title": "Colony Crisis"
+}

@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "writer",
+      "slug": "anthony-daniels"
+    }
+  ],
+  "displayTitle": "Droids: The Protocol Offensive",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "1997-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-protocol-offensive",
+  "title": "Droids: The Protocol Offensive"
+}

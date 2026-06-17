@@ -1,0 +1,44 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "The High Republic: Showdown at the Fair",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368069843"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368069847"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368069843",
+      "isbn13": "9781368069847",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "releaseDate": "2021-10-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "untitled-high-republic-young-readers-book-2",
+  "synopsis": "The Nihil are attacking the Republic Fair! It’s up to Burryaga and his Jedi friends to save the day.",
+  "title": "The High Republic: Showdown at the Fair"
+}

@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "J.J. Abrams",
+      "role": "writer",
+      "slug": "j-j-abrams"
+    },
+    {
+      "name": "Michael Arndt",
+      "role": "writer",
+      "slug": "michael-arndt"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Bryan Burk",
+      "role": "producer",
+      "slug": "bryan-burk"
+    },
+    {
+      "name": "John Swartz",
+      "role": "producer",
+      "slug": "john-swartz"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode VII: The Force Awakens",
+  "era": "riseOfTheFirstOrder",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "movie": {
+    "movieType": "theatrical",
+    "mpaaRating": "pg13",
+    "runtimeMinutes": 136
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-7",
+  "synopsis": "The First Order is seizing more control over the galaxy, and the Resistance is doing its best to stop it. Kylo Ren may think he has everything under control, but a new threat – a girl from the planet Jakku – is about to derail his plans for the future.",
+  "title": "Episode VII: The Force Awakens"
+}

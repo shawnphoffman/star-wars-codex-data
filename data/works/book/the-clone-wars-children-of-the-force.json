@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kirsten Mayer",
+      "role": "writer",
+      "slug": "kirsten-mayer"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Children Of The Force",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-children-of-the-force",
+  "title": "The Clone Wars: Children Of The Force"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #28",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2023-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-28",
+  "synopsis": "Is the twenty-eight issue of the Marvel Comics Doctor Aphra (2020) Series\nThe enemy of my enemy is my friend…or so they say!\nAs RONEN TAGGE and DOMINA TAGGE clash over the TAGGE CORPORATION, SANA STARROS is caught in the middle!\nBut if there's one thing she's learned from DOCTOR APHRA, it's how to use every situation to her advantage – and no matter which Tagge wins, Sana's determined to come out on top!",
+  "title": "Doctor Aphra (2020) #28"
+}

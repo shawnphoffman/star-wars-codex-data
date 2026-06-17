@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Thrawn #3",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "parentWorkSlug": "thrawn-graphic-novel",
+  "releaseDate": "2018-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-three",
+  "synopsis": "\"THE RISE OF THE GRAND ADMIRAL\" CONTINUES! Lieutenant Thrawn has been moving fast through the ranks of the Empire, but he isn't the only one…Meet Arihnda Pryce, as she too rises through the corrupt Coruscant political climate. But paths cross in mysterious ways as the two discover a dark secret within the Empire…",
+  "title": "Thrawn #3"
+}

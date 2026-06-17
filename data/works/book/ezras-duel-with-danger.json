@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Ezra's Duel with Danger",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405276312"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405276313"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405276312",
+      "isbn13": "9781405276313",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "ezras-duel-with-danger",
+  "synopsis": "Ezra Bridger makes a shocking discovery about his mysteriously missing parents.",
+  "title": "Ezra's Duel with Danger"
+}

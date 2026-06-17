@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "Rookies: Rendezvous",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2006-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rookies-rendezvous",
+  "title": "Rookies: Rendezvous"
+}

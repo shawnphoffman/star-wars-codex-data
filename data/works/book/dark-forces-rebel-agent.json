@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "William C. Dietz",
+      "role": "writer",
+      "slug": "william-c-dietz"
+    }
+  ],
+  "displayTitle": "Dark Forces: Rebel Agent",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1998-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-forces-rebel-agent",
+  "title": "Dark Forces: Rebel Agent"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
+  "displayTitle": "The Screaming Citadel #1",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "screaming-citadel-gn",
+  "releaseDate": "2017-05-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "screaming-citadel-1",
+  "synopsis": "Rebel pilot and rogue archaeologist wander side by side into the darkest shadows of the galaxy as Luke Skywalker reluctantly teams up with Doctor Aphra! The Doctor makes Luke an offer he can't afford to pass up…one that leads him to a very rare gathering at the heart of the infamous Screaming Citadel. Will Luke find what he's looking for? Can Aphra be trusted? Or will they both wind up victims of the Citadel's Queen?",
+  "title": "The Screaming Citadel #1"
+}

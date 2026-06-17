@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #13",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2021-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-13",
+  "synopsis": "Doctor Aphra (2020) #13 is the thirteenth issue of the canon comic series Star Wars: Doctor Aphra (2020) and is part of the Star Wars: War of the Bounty Hunters crossover event.\nDOCTOR APHRA finds herself face-to-face with the one person she hoped she'd never see again!\nFor once, she might not be able to talk her way out…\nMeanwhile, JUST LUCKY and ARIOLE confront a familiar presence of their own!",
+  "title": "Doctor Aphra (2020) #13"
+}

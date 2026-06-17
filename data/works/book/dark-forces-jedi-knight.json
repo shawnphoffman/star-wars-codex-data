@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "William C. Dietz",
+      "role": "writer",
+      "slug": "william-c-dietz"
+    }
+  ],
+  "displayTitle": "Dark Forces: Jedi Knight",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1998-10-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-forces-jedi-knight",
+  "title": "Dark Forces: Jedi Knight"
+}

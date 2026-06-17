@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron: The Phantom Affair",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2017-11-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "xwing-rogue-squadron-phantom-affair",
+  "title": "X-Wing Rogue Squadron: The Phantom Affair"
+}

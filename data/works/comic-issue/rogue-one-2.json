@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "artist",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "artist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Rogue One: A Star Wars Story Adaptation #2",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "rogue-one-graphic-novel-adaptation",
+  "releaseDate": "2017-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-one-2",
+  "synopsis": "Jyn Erso continues her quest with Cassian Andor to help the Rebellion fight the sinister Galactic Empire. Following the trail to the ancient Jedha City to find Rebel extremist Saw Guerra, Jyn and Cassian get caught in a firefight with the Empire…only to then be taken prisoner by Saw’s followers!",
+  "title": "Rogue One: A Star Wars Story Adaptation #2"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Greg Keyes",
+      "role": "writer",
+      "slug": "greg-keyes"
+    }
+  ],
+  "displayTitle": "Edge of Victory II: Rebirth",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 26,
+    "startYear": 26
+  },
+  "releaseDate": "2001-07-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "edge-of-victory-ii-rebirth",
+  "title": "Edge of Victory II: Rebirth"
+}

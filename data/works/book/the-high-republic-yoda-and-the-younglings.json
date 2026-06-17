@@ -1,0 +1,37 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "The High Republic: Jedi Brave in Every Way",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368080286"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368080286"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368080286",
+      "isbn13": "9781368080286",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2023-10-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-yoda-and-the-younglings",
+  "synopsis": "Jedi Master Yoda teaches the younglings and Padawans of the Jedi Order about being brave in the face of their greatest fears.",
+  "title": "The High Republic: Jedi Brave in Every Way"
+}

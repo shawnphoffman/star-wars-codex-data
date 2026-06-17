@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "Ahsoka #5",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "ahsoka-comics",
+  "releaseDate": "2024-11-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka-5",
+  "synopsis": "Issue 5 of 8 from the Marvel Comic Ahsoka Adaptation miniseries\nSHADOW WARRIOR!\nAHSOKA confronts her past with ANAKIN SKYWALKER while HERA and her allies undertake a rescue mission!",
+  "title": "Ahsoka #5"
+}

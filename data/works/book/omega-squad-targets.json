@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "Omega Squad: Targets",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2005-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omega-squad-targets",
+  "title": "Omega Squad: Targets"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "K.W. Jeter",
+      "role": "writer",
+      "slug": "k-w-jeter"
+    }
+  ],
+  "displayTitle": "Slave Ship",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 0
+  },
+  "releaseDate": "1998-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "slave-ship",
+  "title": "Slave Ship"
+}

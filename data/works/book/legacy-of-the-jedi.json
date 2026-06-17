@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Legacy of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439536660"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 204,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439536660",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -89
+  },
+  "releaseDate": "2003-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-of-the-jedi",
+  "synopsis": "Lorian Nod and Dooku were once friends as they trained to become Jedi Knights. But years later, the long-standing rivalry between them might end up helping the Jedi in the midst of the destructive Clone Wars.",
+  "title": "Legacy of the Jedi"
+}

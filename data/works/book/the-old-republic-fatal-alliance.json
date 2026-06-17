@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sean Williams",
+      "role": "writer",
+      "slug": "sean-williams"
+    }
+  ],
+  "displayTitle": "The Old Republic: Fatal Alliance",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511324"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 429,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511324",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3643,
+    "startYear": -3643
+  },
+  "releaseDate": "2010-07-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-fatal-alliance",
+  "synopsis": "When a mysterious treasure goes up for auction, the resulting threats to the galaxy may force two opposing factions to combine their efforts to save the galaxy.",
+  "title": "The Old Republic: Fatal Alliance"
+}

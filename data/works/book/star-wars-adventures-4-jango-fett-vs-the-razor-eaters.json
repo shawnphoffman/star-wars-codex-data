@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 4: Jango Fett vs. the Razor Eaters",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458832"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 86,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458832",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2003-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-4-jango-fett-vs-the-razor-eaters",
+  "synopsis": "Count Dooku recruits renowned bounty hunter Jango Fett to take care of something he can’t fix himself.",
+  "title": "Episode II Adventures 4: Jango Fett vs. the Razor Eaters"
+}

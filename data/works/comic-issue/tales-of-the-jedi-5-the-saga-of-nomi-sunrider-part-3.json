@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi #5: The Saga of Nomi Sunrider, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3999,
+    "startYear": -3999
+  },
+  "parentWorkSlug": "legends-epic-collection-tales-of-the-jedi-vol-2",
+  "releaseDate": "1994-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-5-the-saga-of-nomi-sunrider-part-3",
+  "title": "Tales of the Jedi #5: The Saga of Nomi Sunrider, Part 3"
+}

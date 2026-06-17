@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bryan Q. Miller",
+      "role": "writer",
+      "slug": "bryan-q-miller"
+    }
+  ],
+  "displayTitle": "Padawan's Pride",
+  "era": "fallOfTheJedi",
+  "format": "audioDrama",
+  "inUniverseDate": {
+    "endYear": -29,
+    "startYear": -29
+  },
+  "releaseDate": "2024-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "padawan-s-pride",
+  "synopsis": "Young Anakin Skywalker embarks on his first mission as a Jedi Padawan without his master, Obi-Wan Kenobi.",
+  "title": "Padawan's Pride"
+}

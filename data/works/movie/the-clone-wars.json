@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Scott Murphy",
+      "role": "writer",
+      "slug": "scott-murphy"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "George Lucas",
+      "role": "producer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Catherine Winder",
+      "role": "producer",
+      "slug": "catherine-winder"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    }
+  ],
+  "displayTitle": "The Clone Wars",
+  "format": "movie",
+  "releaseDate": "2008-08-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars",
+  "synopsis": "After the Republic’s victory on Christophsis, Anakin and his new apprentice Ahsoka Tano must rescue the kidnapped son of Jabba the Hutt. Political intrigue complicates their mission.",
+  "title": "The Clone Wars"
+}

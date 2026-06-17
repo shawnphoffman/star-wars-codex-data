@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
+  "displayTitle": "Rebellion Volume 3: Small Victories",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2008-10-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-volume-3",
+  "title": "Rebellion Volume 3: Small Victories"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Millici",
+      "role": "writer",
+      "slug": "nate-millici"
+    }
+  ],
+  "displayTitle": "Han and the Rebel Rescue",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2017-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-and-the-rebel-rescue",
+  "synopsis": "Featuring Han Solo and Chewbacca, and set between A New Hope and The Empire Strikes Back, Star Wars fans new and old will love this 8x8 storybook with stickers.",
+  "title": "Han and the Rebel Rescue"
+}

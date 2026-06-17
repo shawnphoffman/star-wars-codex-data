@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Darksaber",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 12,
+    "startYear": 12
+  },
+  "releaseDate": "1995-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darksaber",
+  "title": "Darksaber"
+}

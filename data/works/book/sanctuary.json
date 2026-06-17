@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lamar Giles",
+      "role": "writer",
+      "slug": "lamar-giles"
+    }
+  ],
+  "displayTitle": "Sanctuary: A Bad Batch Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593874462"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 329,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593874462",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2025-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sanctuary",
+  "synopsis": "The people of Pabu are still reeling from the natural disaster that devastated their home. In an effort to help them rebuild, Phee has recruited Tech, Omega, Hunter, and Wrecker to accompany her on a series of missions to fund Pabu’s reconstruction.\n\nClone Force 99 is in for more than they bargained for, however. Little do they know their next mission is going to get a little … complicated.",
+  "title": "Sanctuary: A Bad Batch Novel"
+}

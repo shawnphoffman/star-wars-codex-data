@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Scott Ciencin",
+      "role": "writer",
+      "slug": "scott-ciencin"
+    }
+  ],
+  "displayTitle": "Anakin Skywalker: A Jedi's Journal",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -32
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "anakin-skywalker-a-jedis-journal",
+  "title": "Anakin Skywalker: A Jedi's Journal"
+}

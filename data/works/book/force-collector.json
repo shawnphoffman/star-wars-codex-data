@@ -1,0 +1,49 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Shinick",
+      "role": "writer",
+      "slug": "kevin-shinick"
+    },
+    {
+      "name": "Tony Foti",
+      "role": "coverArtist",
+      "slug": "tony-foti"
+    }
+  ],
+  "displayTitle": "Force Collector",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368045588"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368045582"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368045588",
+      "isbn13": "9781368045582",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 32,
+    "startYear": 32
+  },
+  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "force-collector",
+  "synopsis": "Karr’s visions have always kept him under his parents’ careful supervision. But it’s time for him to learn more about his possible connection to something called the Force.",
+  "title": "Force Collector"
+}

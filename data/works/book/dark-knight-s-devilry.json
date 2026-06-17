@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Moore",
+      "role": "writer",
+      "slug": "steve-moore"
+    }
+  ],
+  "displayTitle": "Dark Knight's Devilry",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-knight-s-devilry",
+  "title": "Dark Knight's Devilry"
+}

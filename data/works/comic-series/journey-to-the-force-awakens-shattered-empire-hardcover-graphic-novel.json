@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Shattered Empire",
+  "era": "newRepublic",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2016-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "journey-to-the-force-awakens-shattered-empire-hardcover-graphic-novel",
+  "synopsis": "For the first time in the new Star Wars canon, journey with us into the time after the end of Star Wars: Episode VI Return of the Jedi! Writer Greg Rucka (PUNISHER, WOLVERINE, Gotham Central) and artist Marco Checchetto (AVENGERS WORLD, PUNISHER) take us past the destruction of the second Death Star—and into the chaos of a Shattered Empire. It's the explosive lead-in to this winter's blockbuster big-screen Star Wars revival, and everything you need to know is right here! Plus, follow everyone's favorite protocol droid as he Journeys to Star Wars: The Force Awakens.",
+  "title": "Shattered Empire"
+}

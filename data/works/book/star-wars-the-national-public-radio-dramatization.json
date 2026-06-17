@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    }
+  ],
+  "displayTitle": "Star Wars: The National Public Radio Dramatization",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1994-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-national-public-radio-dramatization",
+  "title": "Star Wars: The National Public Radio Dramatization"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Enemy Lines II: Rebel Stand",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 27,
+    "startYear": 27
+  },
+  "releaseDate": "2002-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "enemy-lines-ii-rebel-stand",
+  "title": "Enemy Lines II: Rebel Stand"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Howe",
+      "role": "writer",
+      "slug": "james-howe"
+    }
+  ],
+  "displayTitle": "How the Ewoks Saved the Trees: An Old Ewok Legend",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1984-03-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "how-the-ewoks-saved-the-trees-an-old-ewok-legend",
+  "title": "How the Ewoks Saved the Trees: An Old Ewok Legend"
+}

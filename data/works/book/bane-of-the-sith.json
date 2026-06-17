@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Bane of the Sith",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1000,
+    "startYear": -1000
+  },
+  "releaseDate": "2001-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bane-of-the-sith",
+  "title": "Bane of the Sith"
+}

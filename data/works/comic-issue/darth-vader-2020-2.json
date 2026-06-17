@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #02",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-1",
+  "releaseDate": "2020-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-2",
+  "synopsis": "Darth Vader (2020) #02 is the second issue of the canon comic book series Star Wars: Darth Vader (2020). This issue Darth Vader comes face to face with Sabé, a former handmaiden of the late Padmé Amidala.\nTHE FACE OF THE QUEEN! In the wake of the shocking revelations of The Empire Strikes Back, DARTH VADER continues his quest for revenge against everyone who hid his son Luke from him. But when his search takes him deep into his past, he uncovers a hauntingly familiar face that will challenge everything he knows.",
+  "title": "Darth Vader (2020) #02"
+}

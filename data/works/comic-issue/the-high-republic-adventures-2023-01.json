@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2023) #01",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -229,
+    "startYear": -229
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "releaseDate": "2023-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-01",
+  "synopsis": "This is the first issue in the Dark Horse Comics The High Republic Adventures (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series",
+  "title": "The High Republic Adventures (2023) #01"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    }
+  ],
+  "displayTitle": "The Jedi Academy Sourcebook",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 11
+  },
+  "releaseDate": "1996-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-jedi-academy-sourcebook",
+  "title": "The Jedi Academy Sourcebook"
+}

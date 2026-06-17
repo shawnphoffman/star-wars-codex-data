@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "artist",
+      "slug": "chris-fenoglio"
+    }
+  ],
+  "displayTitle": "Adventures: Ghosts of Vader's Castle #4",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-adventures-ghosts-of-vaders-castle-trade-paperback-861865ab91",
+  "releaseDate": "2021-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-ghosts-of-vaders-castle-4",
+  "synopsis": "Star Wars Adventures: Ghosts of Vader's Castle #4 is the fourth issue of the canon comic book miniseries Star Wars Adventures: Ghosts of Vader's Castle.\nIn issue #4, Lina's dreams are visited by the ghost of the galaxy's most threatening villain! The GHOSTS OF VADER'S CASTLE are looming closer...",
+  "title": "Star Wars Adventures: Ghosts of Vader's Castle #4"
+}

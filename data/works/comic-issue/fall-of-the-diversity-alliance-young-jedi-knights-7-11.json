@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Fall of the Diversity Alliance (Young Jedi Knights #7-11)",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "releaseDate": "1998-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fall-of-the-diversity-alliance-young-jedi-knights-7-11",
+  "title": "Fall of the Diversity Alliance (Young Jedi Knights #7-11)"
+}

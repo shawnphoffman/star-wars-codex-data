@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
+  "displayTitle": "Rebellion #13: Small Victories, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "rebellion-volume-3",
+  "releaseDate": "2008-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-13-small-victories-part-3",
+  "title": "Rebellion #13: Small Victories, Part 3"
+}

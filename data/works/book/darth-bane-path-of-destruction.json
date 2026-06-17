@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "Darth Bane: Path of Destruction",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477361"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 324,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477361",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1000,
+    "startYear": -1003
+  },
+  "releaseDate": "2006-09-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-bane-path-of-destruction",
+  "synopsis": "Before the galaxy knew him as Bane, he called himself Dessel. In an attempt to escape the horrors of his former life, he joints the Sith as an acolyte hoping to find purpose. Instead, he finds what he didn’t even know he was looking for: power.",
+  "title": "Darth Bane: Path of Destruction"
+}

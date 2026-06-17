@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Eric Stevens",
+      "role": "writer",
+      "slug": "eric-stevens"
+    }
+  ],
+  "displayTitle": "The Clone Wars: The New Padawan",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2008-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-new-padawan",
+  "title": "The Clone Wars: The New Padawan"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Thrawn #1",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "parentWorkSlug": "thrawn-graphic-novel",
+  "releaseDate": "2018-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-one",
+  "synopsis": "One of the most cunning and ruthless minds in all of the Star Wars, Grand Admiral Thrawn is back with his own six-issue miniseries! Written by Jody Houser (ROGUE ONE ADAPTATION) and drawn by Luke Ross (STAR WARS: DARTH MAUL, STAR WARS: THE FORCE AWAKENS ADAPTATION), follow the comic adaptation of Timothy Zahn's New York Times best-selling novel about Thrawn's rise in the Imperial ranks, on his way to becoming one of the most feared military tacticians in the galaxy far, far away.!",
+  "title": "Thrawn #1"
+}

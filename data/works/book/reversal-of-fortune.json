@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Ens",
+      "role": "writer",
+      "slug": "paul-ens"
+    }
+  ],
+  "displayTitle": "Reversal of Fortune",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2004-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "reversal-of-fortune",
+  "title": "Reversal of Fortune"
+}

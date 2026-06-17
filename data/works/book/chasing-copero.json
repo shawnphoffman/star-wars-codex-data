@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Charles Boyd",
+      "role": "writer",
+      "slug": "charles-boyd"
+    }
+  ],
+  "displayTitle": "Chasing Copero",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3629,
+    "startYear": -3629
+  },
+  "releaseDate": "2017-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chasing-copero",
+  "title": "Chasing Copero"
+}

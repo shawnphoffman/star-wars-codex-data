@@ -1,0 +1,19 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    }
+  ],
+  "displayTitle": "Star Wars Infinities: The Empire Strikes Back",
+  "era": "multiEra",
+  "format": "book",
+  "releaseDate": "2003-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "infinities-esb",
+  "title": "Star Wars Infinities: The Empire Strikes Back"
+}

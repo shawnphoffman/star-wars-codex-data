@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "Tales Of The Jedi S01E01: Life And Death",
+  "era": "fallOfTheJedi",
+  "format": "animatedShort",
+  "inUniverseDate": {
+    "endYear": -35,
+    "startYear": -36
+  },
+  "parentWorkSlug": "tales-of-the-jedi",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-s01e01-life-and-death",
+  "synopsis": "A child goes through a rite of passage with unexpected results.",
+  "title": "Tales Of The Jedi S01E01: Life And Death"
+}

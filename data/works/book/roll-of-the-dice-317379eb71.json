@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Miller",
+      "role": "writer",
+      "slug": "karen-miller"
+    }
+  ],
+  "displayTitle": "Roll of the Dice",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2012-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "roll-of-the-dice-317379eb71",
+  "title": "Roll of the Dice"
+}

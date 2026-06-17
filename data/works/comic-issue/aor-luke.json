@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Grek Pak",
+      "role": "writer",
+      "slug": "grek-pak"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "artist",
+      "slug": "chris-sprouse"
+    }
+  ],
+  "displayTitle": "Age Of Rebellion: Luke Skywalker",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "aor-heroes",
+  "releaseDate": "2019-06-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-luke",
+  "synopsis": "After learning the true identity of his father, LUKE continues his training and prepares for the inevitable showdown, determined never to follow the path of VADER.  But when a rebel general's mistakes lead to disaster and Luke must seize command, the DARK SIDE tempts him as never before.  Featuring the eerie influence of THE EMPEROR!",
+  "title": "Age Of Rebellion: Luke Skywalker"
+}

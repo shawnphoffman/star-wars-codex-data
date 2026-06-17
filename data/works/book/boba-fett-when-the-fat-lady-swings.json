@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "Boba Fett: When the Fat Lady Swings",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 10,
+    "startYear": 10
+  },
+  "releaseDate": "1996-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-when-the-fat-lady-swings",
+  "title": "Boba Fett: When the Fat Lady Swings"
+}

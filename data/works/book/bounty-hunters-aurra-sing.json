@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Aurra Sing",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -27,
+    "startYear": -27
+  },
+  "releaseDate": "1999-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-aurra-sing",
+  "title": "The Bounty Hunters: Aurra Sing"
+}

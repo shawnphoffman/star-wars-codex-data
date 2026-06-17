@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Fury",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 40,
+    "startYear": 40
+  },
+  "releaseDate": "2007-11-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fury",
+  "title": "Fury"
+}

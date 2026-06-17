@@ -1,0 +1,49 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ken Liu",
+      "role": "writer",
+      "slug": "ken-liu"
+    },
+    {
+      "name": "J. G. Jones",
+      "role": "artist",
+      "slug": "j-g-jones"
+    }
+  ],
+  "displayTitle": "The Legends of Luke Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484780779"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484780770"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 425,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484780779",
+      "isbn13": "9781484780770",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-legends-of-luke-skywalker",
+  "synopsis": "Luke Skywalker remains a legend all across the galaxy, and the stories still told about him live on – whether they’re all true or not.",
+  "title": "The Legends of Luke Skywalker"
+}

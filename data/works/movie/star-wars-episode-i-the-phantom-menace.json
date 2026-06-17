@@ -1,0 +1,35 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace",
+  "era": "fallOfTheJedi",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "movie": {
+    "movieType": "theatrical"
+  },
+  "releaseDate": "1999-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-i-the-phantom-menace",
+  "synopsis": "Stranded on the desert planet Tatooine after rescuing young Queen Amidala from the impending invasion of Naboo, Jedi apprentice Obi-Wan Kenobi and his Jedi Master Qui-Gon Jinn discover nine-year-old Anakin Skywalker, a young slave unusually…",
+  "title": "Episode I: The Phantom Menace"
+}

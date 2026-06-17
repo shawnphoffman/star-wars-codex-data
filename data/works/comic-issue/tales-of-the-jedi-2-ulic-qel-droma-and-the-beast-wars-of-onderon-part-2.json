@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi #2: Ulic Qel-Droma and the Beast Wars of Onderon, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -4000,
+    "startYear": -4000
+  },
+  "parentWorkSlug": "legends-epic-collection-tales-of-the-jedi-vol-2",
+  "releaseDate": "1993-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-2-ulic-qel-droma-and-the-beast-wars-of-onderon-part-2",
+  "title": "Tales of the Jedi #2: Ulic Qel-Droma and the Beast Wars of Onderon, Part 2"
+}

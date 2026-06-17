@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nicolas Anastassiou",
+      "role": "writer",
+      "slug": "nicolas-anastassiou"
+    }
+  ],
+  "displayTitle": "Tales Of The Empire S01E04: Devoted",
+  "era": "reignOfTheEmpire",
+  "format": "animatedShort",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "tales-of-the-empire",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s01e03-the-path-of-hate",
+  "synopsis": "Former Jedi Barriss Offee is recruited by the Empire.",
+  "title": "Tales Of The Empire S01E04: Devoted"
+}

@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    },
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Eric Jones",
+      "role": "artist",
+      "slug": "eric-jones"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "artist",
+      "slug": "charlie-kirchoff"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #05 - The Trouble At Tibrin part 2",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "releaseDate": "2017-12-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-5",
+  "synopsis": "With their diplomatic mission turned into a debacle, can Leia and Luke possibly salvage the situation? We hope so because the future of the Rebel Alliance may depend on it!",
+  "title": "Star Wars Adventures (2017) #05 - The Trouble At Tibrin part 2"
+}

@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Tides of Terror #04",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "hyperspace-stories-tides-of-terror",
+  "releaseDate": "2025-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-tides-of-terror-04",
+  "synopsis": "Issue 4 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nAfter making a startling discovery about the cause of the disaster, Jedi Master Kit Fisto dives to the sea floor in a last-ditch effort to rescue those trapped on the sinking Axil Research Station. Among the submerged ruins, he comes face-to-face with the fearsome Xorfin. Can Fisto best the monsters and save the station, or will the remaining researchers become leviathan food?",
+  "title": "Hyperspace Stories: Tides of Terror #04"
+}

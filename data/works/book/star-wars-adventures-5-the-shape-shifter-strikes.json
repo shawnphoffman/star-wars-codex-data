@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 5: The Shape-Shifter Strikes",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458849"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 82,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458849",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2003-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-5-the-shape-shifter-strikes",
+  "synopsis": "Bounty hunter Zam Wesell is hired by Darth Tyranus to track down a droid engineer.",
+  "title": "Episode II Adventures 5: The Shape-Shifter Strikes"
+}

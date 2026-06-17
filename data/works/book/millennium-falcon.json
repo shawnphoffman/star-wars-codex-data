@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Millennium Falcon",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 43,
+    "startYear": -60
+  },
+  "releaseDate": "2008-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "millennium-falcon",
+  "title": "Millennium Falcon"
+}

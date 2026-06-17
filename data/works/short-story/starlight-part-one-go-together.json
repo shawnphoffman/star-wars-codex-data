@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "Starlight: Go Together",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "parentWorkSlug": "starlight",
+  "releaseDate": "2020-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starlight-part-one-go-together",
+  "synopsis": "\"Starlight: Go Together\" is a 2 part short story High Republic story written by Charles Soule that was published in Star Wars Insider #199 and #200.",
+  "title": "Starlight: Go Together"
+}

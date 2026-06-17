@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
+  "displayTitle": "Star Wars Adventures: Princess Leia And The Royal Ransom",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2009-07-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "leia-and-the-royal-ransom",
+  "title": "Star Wars Adventures: Princess Leia And The Royal Ransom"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tim Siedell",
+      "role": "writer",
+      "slug": "tim-siedell"
+    }
+  ],
+  "displayTitle": "Darth Vader and the Cry of Shadows #2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
+  "releaseDate": "2014-01-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-and-the-cry-of-shadows-2",
+  "title": "Darth Vader and the Cry of Shadows #2"
+}

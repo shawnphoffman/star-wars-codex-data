@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Get Well, Nubs!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736443913"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780736443913",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "get-well-nubs",
+  "synopsis": "Nubs’ best friends and fellow Jedi younglings in training embark on a special mission to help him feel better.",
+  "title": "Get Well, Nubs!"
+}

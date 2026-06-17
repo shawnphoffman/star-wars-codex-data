@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #3",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-dispatches-from-the-occlusion-zonethe-high-republic-adventures-dispatches-from-the-occlusion-zone-trade-paperback",
+  "releaseDate": "2024-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone-3",
+  "synopsis": "Issue 3 of 4 from Dark Horse Comics The High Republic\nJedi Master and expert investigator Emerick Caphtor seeks the true nature of the Nameless! To help him solve the mystery of the \"Force Eaters,\" Emerick has brought on a Nihil prisoner-of-war with knowledge of the creatures. Together, the unlikely duo crosses the volcanic landscape of a distant moon in search of answers. Will the Jedi's travelling companion prove to be a liability or an asset on this treacherous journey?",
+  "title": "The High Republic Adventures: Dispatches from the Occlusion Zone #3"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #41: Rogue's End",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 137,
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-9",
+  "releaseDate": "2009-10-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-41-rogue-s-end",
+  "title": "Legacy #41: Rogue's End"
+}

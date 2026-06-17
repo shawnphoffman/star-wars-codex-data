@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    }
+  ],
+  "displayTitle": "Star Wars (2025) #03",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "parentWorkSlug": "star-wars",
+  "releaseDate": "2025-07-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2025-03",
+  "synopsis": "Issue 3 from Marvel Comics Star Wars (2025) Series\nRETURN TO CLOUD CITY! HAN SOLO, BEILERT VALANCE and LANDO CALRISSIAN must help an old friend. Witness the long friendship of HAN, CHEWIE and LANDO in exciting flashbacks to bygone eras! And a mysterious figure from the past re-emerges using a new model CLOUD CAR!",
+  "title": "Star Wars (2025) #03"
+}

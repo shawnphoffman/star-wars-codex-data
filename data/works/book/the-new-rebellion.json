@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kristine Kathryn Rusch",
+      "role": "writer",
+      "slug": "kristine-kathryn-rusch"
+    }
+  ],
+  "displayTitle": "The New Rebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 17,
+    "startYear": 17
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-rebellion",
+  "title": "The New Rebellion"
+}

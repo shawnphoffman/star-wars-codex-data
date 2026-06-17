@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Virginia Holt",
+      "role": "writer",
+      "slug": "virginia-holt"
+    }
+  ],
+  "displayTitle": "Fuzzy as an Ewok: Things to Touch, See, and Smell from the Forest Moon of Endor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1986-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fuzzy-as-an-ewok-things-to-touch-see-and-smell-from-the-forest-moon-of-endor",
+  "title": "Fuzzy as an Ewok: Things to Touch, See, and Smell from the Forest Moon of Endor"
+}

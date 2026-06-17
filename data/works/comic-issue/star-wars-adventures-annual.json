@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "writer",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Franchesco Gaston",
+      "role": "artist",
+      "slug": "franchesco-gaston"
+    }
+  ],
+  "displayTitle": "Star Wars Adventures Annual 2020 - Rabbit Hunt",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2020-11-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-annual",
+  "synopsis": "The third entry in Jaxxon-centric stories in the IDW Adventure annuals, the 2020 annual spins a tall tale of the buffoonish smuggler on the run from Dengar and IG-88!",
+  "title": "Star Wars Adventures Annual 2020 - Rabbit Hunt"
+}

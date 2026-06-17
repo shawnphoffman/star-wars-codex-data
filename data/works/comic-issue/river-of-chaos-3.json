@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Louise Simonson",
+      "role": "writer",
+      "slug": "louise-simonson"
+    }
+  ],
+  "displayTitle": "River of Chaos #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1995-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "river-of-chaos-3",
+  "title": "River of Chaos #3"
+}

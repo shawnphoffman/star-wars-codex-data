@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Troy Denning",
+      "role": "writer",
+      "slug": "troy-denning"
+    }
+  ],
+  "displayTitle": "Recovery",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 26,
+    "startYear": 26
+  },
+  "releaseDate": "2001-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "recovery",
+  "title": "Recovery"
+}

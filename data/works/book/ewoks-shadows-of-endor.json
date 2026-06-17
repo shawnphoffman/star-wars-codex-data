@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Zack Giallongo",
+      "role": "writer",
+      "slug": "zack-giallongo"
+    }
+  ],
+  "displayTitle": "Ewoks: Shadows of Endor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2013-10-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-shadows-of-endor",
+  "title": "Ewoks: Shadows of Endor"
+}

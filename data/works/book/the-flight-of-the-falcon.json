@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Parkhouse",
+      "role": "writer",
+      "slug": "steve-parkhouse"
+    }
+  ],
+  "displayTitle": "The Flight of the Falcon",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-05-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-flight-of-the-falcon",
+  "title": "The Flight of the Falcon"
+}

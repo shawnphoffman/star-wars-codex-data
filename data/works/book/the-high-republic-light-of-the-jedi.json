@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Joseph Meehan",
+      "role": "coverArtist",
+      "slug": "joseph-meehan"
+    }
+  ],
+  "displayTitle": "The High Republic: Light of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593157718"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 380,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593157718",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-light-of-the-jedi",
+  "synopsis": "A devastating hyperspace disaster calls the Jedi’s attention to a new threat: an organization called the Nihil, with a leader as mysterious as the group itself.",
+  "title": "The High Republic: Light of the Jedi"
+}

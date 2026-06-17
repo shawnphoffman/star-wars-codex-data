@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "artist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Ornella Savarese",
+      "role": "artist",
+      "slug": "ornella-savarese"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: The Nameless Terror #2",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-adventures-the-nameless-terror-trade-paperback",
+  "releaseDate": "2023-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-the-nameless-terror-2",
+  "synopsis": "The second issue of the Dark Horse Comics The High Republic Adventures: The Nameless Terror miniseries\nAfter the attack by the Path of the Open Hand, the Jedi mission to Dalna recuperate aboard the crashed spaceship. But they are far from alone. Stalked by both Path disciples and a Nameless evil, the trapped Jedi knights enact a desperate plan to escape. But how will the defenders of the Republic fare against a monster that feeds off of the Force itself?",
+  "title": "The High Republic Adventures: The Nameless Terror #2"
+}

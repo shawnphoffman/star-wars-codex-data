@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Inquisitors #4",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "parentWorkSlug": "inquisitors-trade-paperback",
+  "releaseDate": "2024-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "inquisitors-4",
+  "synopsis": "Issue 4 of 4 from Marvel Comics Inquisitors Mini Series\nJEDI LEGEND TENSU RUN CONFRONTS THE INQUISITORS…AND THE DARK SIDE ITSELF!\nSeething at his INQUISITORS' failure to eliminate Jedi TENSU RUN, DARTH VADER turns up the heat – and the bodies pile up.\nWhile eluding his hunters, Tensu remains dedicated to rebuilding the JEDI ORDER.\nBut as those close to him face greater risk, he has no choice but to face his fate head-on!\nJaded by his pursuers' disastrous rampage, what path will Tensu take? And what will it mean for the future of the Jedi?",
+  "title": "Inquisitors #4"
+}

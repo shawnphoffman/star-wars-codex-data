@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Tides of Terror #02",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "hyperspace-stories-tides-of-terror",
+  "releaseDate": "2025-10-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-tides-of-terror-02",
+  "synopsis": "Issue 2 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nAxil Research Station is in chaos! After a massive explosion rocked the underwater base, Jedi Master Kit Fisto and his Padawan, Nahdar Vebb, try to evacuate as many people as possible. But time is running out! Seawater is flooding the station, and with giant beasts lurking in the depths, it's a race to make it to the surface…",
+  "title": "Hyperspace Stories: Tides of Terror #02"
+}

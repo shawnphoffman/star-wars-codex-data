@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #11: Battleground: Tatooine, Part 3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-3",
+  "releaseDate": "1996-08-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-11-battleground-tatooine-part-3",
+  "title": "X-Wing Rogue Squadron #11: Battleground: Tatooine, Part 3"
+}

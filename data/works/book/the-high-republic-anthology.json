@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Various",
+      "role": "writer",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "The High Republic: Tales of Light and Life",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093795"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093798"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368093795",
+      "isbn13": "9781368093798",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -382
+  },
+  "releaseDate": "2023-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-anthology",
+  "synopsis": "Spanning across all phases of the High Republic era, the initiative’s authors each share stories featuring just a few of readers’ favorite characters.",
+  "title": "The High Republic: Tales of Light and Life"
+}

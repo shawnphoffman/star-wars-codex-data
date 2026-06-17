@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire #2: Devastator of Worlds",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 10,
+    "startYear": 10
+  },
+  "parentWorkSlug": "empire-volume2-darlighter-graphic-novel",
+  "releaseDate": "1992-02-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-2-devastator-of-worlds",
+  "title": "Dark Empire #2: Devastator of Worlds"
+}

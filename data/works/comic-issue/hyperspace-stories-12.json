@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cecil Castellucci",
+      "role": "writer",
+      "slug": "cecil-castellucci"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "artist",
+      "slug": "andrea-mutti"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #12",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "hyperspace-stories-vol-3-light-and-shadows-trade-paperback",
+  "releaseDate": "2023-12-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-12",
+  "synopsis": "Issue 12 of 12 from Dark Horse Comics Hyperspace Stories Anthology Series\nThe Battle of Endor as you've never seen it before! It could be the Rebel Alliance's moment of triumph, or the hour of their final destruction! The heroes of the Rebellion race to destroy the Emperor's second Death Star, but for engineer Evans Basch, it's a race just to survive! Assigned a key role in the rebel fleet, it'll take all of Basch's skill, and a dash or two of luck, to keep his ships in one piece. May the Force be with him! The action comes to an epic conclusion at the 40th anniversary of Return of the Jedi!",
+  "title": "Hyperspace Stories #12"
+}

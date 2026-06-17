@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "The Levers Of Power",
+  "era": "ageOfRebellion",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2015-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-levers-of-power",
+  "synopsis": "\"The Levers of Power\" is a short story by Jason Fry that was published as part of the compilation The Rise of the Empire. The story features Rae Sloane during the Battle of Endor.",
+  "title": "The Levers Of Power"
+}

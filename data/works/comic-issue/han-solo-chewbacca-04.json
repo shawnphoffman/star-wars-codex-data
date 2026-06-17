@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "David Messina",
+      "role": "artist",
+      "slug": "david-messina"
+    }
+  ],
+  "displayTitle": "Han Solo & Chewbacca #04",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "parentWorkSlug": "han-solo-chewbacca-vol-1-the-crystal-run-trade-paperback",
+  "releaseDate": "2022-07-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-chewbacca-04",
+  "synopsis": "Issue 4 of 10 of the Marvel comic series Star Wars: Han Solo & Chewbacca.\nHARROO! RHOO AAHH! HRRG!!! (TRANSLATION: It's a Chewbacca-centric special issue as Chewie fights to rescue his friend Han.) HRRARRARGH AAHHRA HUGGG! (TRANSLATION: Guest-starring the one-and-only KRRSANTAN!) RRRAHARRR RAAA HRRRA! (TRANSLATION: You don't want to miss this one!)\n\"",
+  "title": "Han Solo & Chewbacca #04"
+}

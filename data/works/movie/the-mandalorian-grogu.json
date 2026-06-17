@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "director",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Ludwig Göransson",
+      "role": "composer",
+      "slug": "ludwig-gransson"
+    },
+    {
+      "name": "Noah Kloor",
+      "role": "writer",
+      "slug": "noah-kloor"
+    }
+  ],
+  "displayTitle": "The Mandalorian & Grogu",
+  "era": "newRepublic",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "movie": {
+    "movieType": "theatrical",
+    "mpaaRating": "pg13",
+    "runtimeMinutes": 132
+  },
+  "releaseDate": "2026-05-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-grogu",
+  "synopsis": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+  "title": "The Mandalorian & Grogu"
+}

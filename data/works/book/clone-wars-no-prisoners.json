@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "The Clone Wars: No Prisoners",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-no-prisoners",
+  "title": "The Clone Wars: No Prisoners"
+}

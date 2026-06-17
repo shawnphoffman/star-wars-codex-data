@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #16: Nights of Anger, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3963,
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-3-days-of-fear-nights-of-anger-graphic-novel",
+  "releaseDate": "2007-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-16-nights-of-anger-part-1",
+  "title": "Knights of the Old Republic #16: Nights of Anger, Part 1"
+}

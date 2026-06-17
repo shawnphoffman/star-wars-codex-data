@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Restraint",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -39,
+    "startYear": -39
+  },
+  "releaseDate": "2011-12-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "restraint",
+  "title": "Restraint"
+}

@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "The Living Force",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593597958"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593597958",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "releaseDate": "2024-04-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-living-force",
+  "synopsis": "All 12 members of the Jedi Council head to a distant world to facilitate the closure of an old High Republic outpost. They’re about to learn a few lessons in their travels they never could have been taught back on Coruscant.",
+  "title": "The Living Force"
+}

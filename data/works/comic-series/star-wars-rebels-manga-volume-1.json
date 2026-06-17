@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Akira Aoki",
+      "role": "writer",
+      "slug": "akira-aoki"
+    }
+  ],
+  "displayTitle": "Rebels Volume 1 (Manga)",
+  "era": "reignOfTheEmpire",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2020-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-manga-volume-1",
+  "synopsis": "The universe never ceases to give us Star Wars Rebels in new and exciting ways. Just when you thought the fun was over, Yen Press gives us the story we know and love in the form of the unique Japanese art style. If you are a big fan of Rebels and anime, you’ll no doubt want to look into this manga series.",
+  "title": "Rebels Volume 1 (Manga)"
+}

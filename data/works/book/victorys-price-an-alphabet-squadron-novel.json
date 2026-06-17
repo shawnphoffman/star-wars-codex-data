@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Victory's Price: An Alphabet Squadron Novel",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984820079"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984820075"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 460,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1984820079",
+      "isbn13": "9781984820075",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "victorys-price-an-alphabet-squadron-novel",
+  "synopsis": "The members of Alphabet Squadron may still share an ultimate goal, but it’s going to take more than willpower for all of them to emerge from one final battle against the Empire alive.",
+  "title": "Victory's Price: An Alphabet Squadron Novel"
+}

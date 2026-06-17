@@ -1,0 +1,24 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Tales of Enlightenment",
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "releaseDate": "2024-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-insider-the-high-republic-tales-of-enlightenment",
+  "synopsis": "A collection of short stories from the The High Republic: Tales of Enlightenment series originally collected in Star Wars Insider magazine.\nA hardcover collection of Star Wars: The High Republic stories from the pages of Star Wars Insider, written by New York Times bestselling author, George Mann.\nA collection of tales set centuries before the birth of Anakin Skywalker featuring Jedi Knights during the era of the glorious High Republic. In addition to six original stories, this collection also includes behind-the-scenes interviews with authors as well as a guide to Phase II of The High Republic publishing initiative.",
+  "title": "Tales of Enlightenment"
+}

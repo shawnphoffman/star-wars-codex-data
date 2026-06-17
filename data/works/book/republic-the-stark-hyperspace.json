@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic: The Stark Hyperspace",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -30,
+    "startYear": -44
+  },
+  "releaseDate": "2003-11-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-the-stark-hyperspace",
+  "title": "Republic: The Stark Hyperspace"
+}

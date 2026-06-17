@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "other"
+  },
+  "creators": [
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    }
+  ],
+  "displayTitle": "Episode IV: A New Hope (Hardcover) (Remastered) (1977)",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2015-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episodeiv-a-new-hope-hardcover-graphic-novel",
+  "title": "Episode IV: A New Hope (Hardcover) (Remastered) (1977)"
+}

@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    },
+    {
+      "name": "K.D. Burkett",
+      "role": "writer",
+      "slug": "k-d-burkett"
+    }
+  ],
+  "displayTitle": "Star Wars Science Adventures: Journey Across Planet X",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1999-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-science-adventures-journey-across-planet",
+  "title": "Star Wars Science Adventures: Journey Across Planet X"
+}

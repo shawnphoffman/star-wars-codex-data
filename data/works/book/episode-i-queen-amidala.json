@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    }
+  ],
+  "displayTitle": "Episode I: Queen Amidala",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-queen-amidala",
+  "title": "Episode I: Queen Amidala"
+}

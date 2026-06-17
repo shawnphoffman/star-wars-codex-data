@@ -1,0 +1,117 @@
+{
+  "entries": [
+    {
+      "kind": "divider",
+      "label": "Dawn of the Jedi",
+      "markerDate": {
+        "startYear": -25000
+      },
+      "note": "The mythic origins of the Force and the first Jedi, tens of thousands of years before the Skywalker Saga."
+    },
+    {
+      "kind": "divider",
+      "label": "Fall of the Jedi · Prequel Era",
+      "markerDate": {
+        "startYear": -33
+      },
+      "note": "The twilight of the Republic, the Clone Wars, and the rise of the Empire out of Order 66."
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-i-the-phantom-menace"
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "kind": "work",
+      "note": "The 2008 theatrical film that launched the animated series.",
+      "workSlug": "the-clone-wars"
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "kind": "divider",
+      "label": "Reign of the Empire · Original Trilogy",
+      "markerDate": {
+        "startYear": -18
+      },
+      "note": "The galaxy under Imperial rule, the Rebellion's rise, and the Battle of Yavin that defines the timeline's zero point."
+    },
+    {
+      "kind": "work",
+      "workSlug": "solo-a-star-wars-story"
+    },
+    {
+      "kind": "work",
+      "workSlug": "rogue-one-a-star-wars-story"
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-iv-a-new-hope-7"
+    },
+    {
+      "kind": "event",
+      "label": "The Battle of Yavin - Year Zero",
+      "markerDate": {
+        "startYear": 0
+      },
+      "note": "The destruction of the first Death Star. The galaxy-standard calendar counts outward from here: everything before is BBY, everything after is ABY."
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-v-the-empire-strikes-back"
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-vi-return-of-the-jedi-1"
+    },
+    {
+      "kind": "divider",
+      "label": "The New Republic",
+      "markerDate": {
+        "startYear": 5
+      },
+      "note": "The fragile post-Endor era, where Mandalorians and bounty hunters fill the power vacuum left by the Empire."
+    },
+    {
+      "kind": "work",
+      "note": "In production.",
+      "workSlug": "the-mandalorian-grogu"
+    },
+    {
+      "kind": "divider",
+      "label": "Rise of the First Order · Sequel Era",
+      "markerDate": {
+        "startYear": 33
+      },
+      "note": "A new dark power emerges thirty years after Endor, and the Skywalker Saga reaches its conclusion."
+    },
+    {
+      "kind": "work",
+      "workSlug": "episode-7"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-last-jedi"
+    },
+    {
+      "kind": "work",
+      "workSlug": "episode-9"
+    },
+    {
+      "kind": "divider",
+      "label": "A New Jedi Order",
+      "markerDate": {
+        "startYear": 39
+      },
+      "note": "The post-Saga galaxy as a new generation rebuilds the Jedi from the ashes of war. Placements provisional."
+    }
+  ],
+  "slug": "canon-movies",
+  "summary": "Every canonical Star Wars feature film, ordered by where it sits on the in-universe timeline rather than by release. Released, in-production, and announced titles are all included; the LEGO and holiday specials are not.",
+  "title": "Canon Films Timeline"
+}

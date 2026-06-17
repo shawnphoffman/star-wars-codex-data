@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    }
+  ],
+  "displayTitle": "Rebels: Ezra's Wookiee Rescue",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-ezras-wookiee-rescue",
+  "synopsis": "When a group of Wookiees is captured and enslaved by the Galactic Empire, it’s up to Kanan, Ezra, and the rest of the rebels to save them!",
+  "title": "Rebels: Ezra's Wookiee Rescue"
+}

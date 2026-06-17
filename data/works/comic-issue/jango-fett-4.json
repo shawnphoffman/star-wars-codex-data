@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Jango Fett #4",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "jango-fett-graphic-novel",
+  "releaseDate": "2024-06-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett-4",
+  "synopsis": "Issue 4 of 4 from Marvel Comics Jango Fett miniseries\nTHE HUNTER BECOMES THE HUNTED!\nEvery major bounty hunter in the galaxy is stalking JANGO FETT and AURRA SING!\nWill the unlikely partners solve the mystery of a priceless stolen artifact in time?\nWho will survive the SHOCKING CONCLUSION to the series?",
+  "title": "Jango Fett #4"
+}

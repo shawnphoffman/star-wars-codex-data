@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 14: Burning Seas Part II",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-2-graphic-novel",
+  "releaseDate": "2018-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-14-burning-seas-2",
+  "synopsis": "As the Emperor's grip tightens on the galaxy, no tolerance for rebellion can be afforded… especially not when being fomented by a surviving Jedi on Mon Cala.",
+  "title": "Darth Vader: Dark Lord of the Sith 14: Burning Seas Part II"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #05: The Path to Nowhere, Part 5",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-1",
+  "releaseDate": "2007-10-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-05-the-path-to-nowhere-part-5",
+  "title": "Dark Times #05: The Path to Nowhere, Part 5"
+}

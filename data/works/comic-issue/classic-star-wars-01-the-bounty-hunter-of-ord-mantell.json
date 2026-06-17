@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Classic Star Wars #01: The Bounty Hunter Of Ord Mantell",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "classic-star-wars-graphic-novel",
+  "releaseDate": "1992-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-01-the-bounty-hunter-of-ord-mantell",
+  "title": "Classic Star Wars #01: The Bounty Hunter Of Ord Mantell"
+}

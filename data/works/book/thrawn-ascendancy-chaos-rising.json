@@ -1,0 +1,35 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Thrawn Ascendancy: Chaos Rising",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "593157680"
+    },
+    {
+      "type": "isbn13",
+      "value": "978-0593157688"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593157688",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2020-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-ascendancy-chaos-rising",
+  "synopsis": "Years before he became known as Grand Admiral Thrawn of the Galactic Empire, the Chiss led a very different life – and faced an entirely different kind of enemy as part of the Ascendancy.",
+  "title": "Thrawn Ascendancy: Chaos Rising"
+}

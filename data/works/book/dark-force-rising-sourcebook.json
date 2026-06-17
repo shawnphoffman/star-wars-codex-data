@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "Dark Force Rising Sourcebook",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "1993-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-force-rising-sourcebook",
+  "title": "Dark Force Rising Sourcebook"
+}

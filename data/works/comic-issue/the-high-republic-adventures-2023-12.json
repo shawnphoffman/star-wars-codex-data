@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Caìo Filipe",
+      "role": "artist",
+      "slug": "caio-filipe"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2023) #12",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "releaseDate": "2024-11-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-12",
+  "synopsis": "This is the twelfth issue from Dark Horse Comics The High Republic Adventures (2023) Series and part of Phase III: Trials of the Jedi: The High Republic Series\nThe Nihil are closing in on Valo and a mysterious pirate radio broadcaster known as the Scarlet Skull has called for help. Padawan Ram Jomaram and Jedi Knight Farzala Tarabal have bravely answered the distress call, but soon find themselves in over their heads. Will Ram, Farzala, and the Scarlet Skull mange to save Valo from the Nihil…again?",
+  "title": "The High Republic Adventures (2023) #12"
+}

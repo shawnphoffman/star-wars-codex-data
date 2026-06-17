@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "Rebels: Kanan's Jedi Training",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-08-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-kanans-jedi-training",
+  "synopsis": "Meet Kanan--the rebels' leader and a skilled Jedi. Kanan has never taught anyone else in the ways of the Force. But after meeting a promising young boy named Ezra, Kanan decides to train him as a new Jedi. This Level 2 early reader follows Kanan and Ezra as they learn what it means to be a Jedi, together.",
+  "title": "Rebels: Kanan's Jedi Training"
+}

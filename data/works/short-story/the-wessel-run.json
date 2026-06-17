@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    }
+  ],
+  "displayTitle": "The Wessel Run",
+  "era": "fallOfTheJedi",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2022-03-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-wessel-run",
+  "synopsis": "Galactic Tales: The Wesell Run\" is a short story published in Star Wars Insider 209 on March 15, 2022. Written by S.T. Bende, the story is the first of four \"Galactic Tales\" celebrating the 20th anniversary of Star Wars: Episode II Attack of the Clones.",
+  "title": "The Wessel Run"
+}

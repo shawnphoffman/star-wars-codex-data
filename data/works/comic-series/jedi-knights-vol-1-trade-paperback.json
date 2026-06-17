@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    }
+  ],
+  "displayTitle": "Jedi Knights Vol. 1: Guardians Of The Republic",
+  "era": "fallOfTheJedi",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -34,
+    "startYear": -34
+  },
+  "releaseDate": "2025-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-knights-vol-1-trade-paperback",
+  "synopsis": "FIRST ISSUE IN THE PREQUEL ERA!",
+  "title": "Jedi Knights Vol. 1: Guardians Of The Republic"
+}

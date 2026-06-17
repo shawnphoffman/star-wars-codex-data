@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Last Jedi: Bomber Command",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794440848"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780794440848",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-bomber-command",
+  "synopsis": "A complete guide to everything you need to know about the Resistance’s Cobalt Squadron.",
+  "title": "The Last Jedi: Bomber Command"
+}

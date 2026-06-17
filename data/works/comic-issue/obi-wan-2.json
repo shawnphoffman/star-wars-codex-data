@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Christopher Cantwell",
+      "role": "writer",
+      "slug": "christopher-cantwell"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Obi-Wan #2",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "obi-wan",
+  "releaseDate": "2022-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-2",
+  "synopsis": "This is the second of five issues of the Marvel Comics Obi-Wan mini-series\nQui-Gon and Obi-Wan answer the distress call of an outpost on the edge of the galaxy. What's the secret behind the devastation wrought upon the terrifying moon base? Will whatever plunged it into darkness pull a Padawan off his enlightened path?",
+  "title": "Obi-Wan #2"
+}

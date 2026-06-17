@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #32: Mandatory Retirement, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-3",
+  "releaseDate": "1998-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-32-mandatory-retirement-part-1",
+  "title": "X-Wing Rogue Squadron #32: Mandatory Retirement, Part 1"
+}

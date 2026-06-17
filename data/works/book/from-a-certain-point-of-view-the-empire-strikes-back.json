@@ -1,0 +1,32 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "From A Certain Point of View: The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593157749"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 576,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593157749",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2020-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-a-certain-point-of-view-the-empire-strikes-back",
+  "synopsis": "The classic events of Star Wars: The Empire Strikes Back, told through the eyes of the story’s lesser-known characters.",
+  "title": "From A Certain Point of View: The Empire Strikes Back"
+}

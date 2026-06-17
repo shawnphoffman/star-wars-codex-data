@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Battle to the End",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405276320"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405276320"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405276320",
+      "isbn13": "9781405276320",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "battle-to-the-end",
+  "synopsis": "Relive the final arc of Star Wars: Rebels season one in a thrilling chapter book adventure.",
+  "title": "Battle to the End"
+}

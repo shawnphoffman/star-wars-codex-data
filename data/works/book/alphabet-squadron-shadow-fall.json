@@ -1,0 +1,31 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "Alphabet Squadron: Shadow Fall",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "2020-06-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "alphabet-squadron-shadow-fall",
+  "synopsis": "Alphabet Squadron’s hunt for the deadliest TIE fighters in the galaxy continues in this Star Wars adventure!",
+  "title": "Alphabet Squadron: Shadow Fall"
+}

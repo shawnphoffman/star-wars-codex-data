@@ -1,0 +1,32 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Christopher",
+      "role": "writer",
+      "slug": "adam-christopher"
+    }
+  ],
+  "displayTitle": "Shadow of the Sith",
+  "editions": [
+    {
+      "extent": 496,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 21,
+    "startYear": 21
+  },
+  "releaseDate": "2022-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shadow-of-the-sith",
+  "synopsis": "Luke Skywalker and Lando Calrissian embark on a journey of discovery when a vision of the dark side brings the two back together again. As Ochi of Bestoon hunts for his prey, the future of the conflict between Jedi and Sith becomes even more uncertain.",
+  "title": "Shadow of the Sith"
+}

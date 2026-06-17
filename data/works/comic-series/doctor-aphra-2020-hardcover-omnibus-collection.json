@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Various",
+      "role": "artist",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020): Volume 1 (Hardcover Omnibus)",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2023-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-hardcover-omnibus-collection",
+  "synopsis": "Is a hardcover Marvel Omnibus compilation of the first 25 issues of the Marvel Comics Doctor Aphra (2020) Series\nCollected issues\nDoctor Aphra (2020) #1-25",
+  "title": "Doctor Aphra (2020): Volume 1 (Hardcover Omnibus)"
+}

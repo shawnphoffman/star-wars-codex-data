@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Life and Legend of Obi-Wan Kenobi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": -44
+  },
+  "releaseDate": "2008-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-life-and-legend-of-obi-wan-kenobi",
+  "title": "The Life and Legend of Obi-Wan Kenobi"
+}

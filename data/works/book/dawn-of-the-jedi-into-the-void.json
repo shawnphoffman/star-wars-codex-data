@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tim Lebbon",
+      "role": "writer",
+      "slug": "tim-lebbon"
+    }
+  ],
+  "displayTitle": "Dawn of the Jedi: Into the Void",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345541932"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345541932",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -25793,
+    "startYear": -25802
+  },
+  "releaseDate": "2013-05-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dawn-of-the-jedi-into-the-void",
+  "synopsis": "Before the Jedi, there was the Je’dai Order, and before the Sith, there were still those who wished to learn the darker secrets of the mysterious Force. When Lanoree is summoned by the Order to stop a potential galaxy-collapsing endeavor, she finds herself facing more challenges than she bargained for.",
+  "title": "Dawn of the Jedi: Into the Void"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Thrawn: Treason",
+  "editions": [
+    {
+      "extent": 272,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "releaseDate": "2019-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-treason",
+  "synopsis": "Thrawn must choose between his loyalty to the Empire and the survival of his own people, the Chiss.",
+  "title": "Thrawn: Treason"
+}

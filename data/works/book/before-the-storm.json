@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael P. Kube-McDowell",
+      "role": "writer",
+      "slug": "michael-p-kube-mcdowell"
+    }
+  ],
+  "displayTitle": "Before the Storm",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 16,
+    "startYear": 16
+  },
+  "releaseDate": "1996-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "before-the-storm",
+  "title": "Before the Storm"
+}

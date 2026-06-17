@@ -1,0 +1,32 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron: Requiem for a Rogue",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1999-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "xwing-rogue-squadron-requiem-for-a-rogue",
+  "title": "X-Wing Rogue Squadron: Requiem for a Rogue"
+}

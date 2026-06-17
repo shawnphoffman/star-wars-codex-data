@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures Volume 1",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2004-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-adventures-1",
+  "title": "Clone Wars Adventures Volume 1"
+}

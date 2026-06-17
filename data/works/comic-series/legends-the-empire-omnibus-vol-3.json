@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Various",
+      "role": "writer",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Legends: The Empire Omnibus Vol. 3",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": -5
+  },
+  "releaseDate": "2025-01-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legends-the-empire-omnibus-vol-3",
+  "title": "Legends: The Empire Omnibus Vol. 3"
+}

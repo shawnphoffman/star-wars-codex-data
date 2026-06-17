@@ -1,0 +1,17 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "displayTitle": "Omnibus: Boba Fett",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": -1
+  },
+  "releaseDate": "2010-03-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omnibus-boba-fett",
+  "title": "Omnibus: Boba Fett"
+}

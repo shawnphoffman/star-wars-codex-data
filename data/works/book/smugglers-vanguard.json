@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Chestney",
+      "role": "writer",
+      "slug": "robert-chestney"
+    }
+  ],
+  "displayTitle": "Smuggler's Vanguard",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3660,
+    "startYear": -3660
+  },
+  "releaseDate": "2010-03-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "smugglers-vanguard",
+  "title": "Smuggler's Vanguard"
+}

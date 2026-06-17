@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J. P. Rutter",
+      "role": "writer",
+      "slug": "j-p-rutter"
+    }
+  ],
+  "displayTitle": "Lockdown",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-05-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lockdown",
+  "title": "Lockdown"
+}

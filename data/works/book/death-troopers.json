@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "Death Troopers",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2009-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "death-troopers",
+  "title": "Death Troopers"
+}

@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "artist",
+      "slug": "nicoletta-baldari"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "artist",
+      "slug": "matthew-wilson"
+    }
+  ],
+  "displayTitle": "Forces Of Destiny: Rose & Paige",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
+  "releaseDate": "2018-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-rose-paige",
+  "synopsis": "Rose and Paige are sisters. Driven from their homeworld when they were young and forced to learn how to survive together, it was once impossible for either of them to imagine ever having to navigate the galaxy without the other.",
+  "title": "Forces Of Destiny: Rose & Paige"
+}

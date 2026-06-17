@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mary Jo Duffy",
+      "role": "writer",
+      "slug": "mary-jo-duffy"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #102: School Spirit",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1985-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-102-school-spirit",
+  "title": "Star Wars (1977) #102: School Spirit"
+}

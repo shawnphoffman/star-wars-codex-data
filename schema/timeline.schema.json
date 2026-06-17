@@ -1,0 +1,66 @@
+{
+  "$id": "https://star-wars-codex-data/schema/timeline.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "entries": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "kind": {
+            "enum": [
+              "work",
+              "event",
+              "divider"
+            ],
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "markerDate": {
+            "additionalProperties": false,
+            "properties": {
+              "endYear": {
+                "type": "integer"
+              },
+              "startYear": {
+                "type": "integer"
+              }
+            },
+            "type": "object"
+          },
+          "note": {
+            "type": "string"
+          },
+          "workSlug": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "kind"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "slug": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": [
+    "slug",
+    "title",
+    "entries"
+  ],
+  "title": "Timeline",
+  "type": "object"
+}

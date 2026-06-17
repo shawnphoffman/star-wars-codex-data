@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Zachary Rau",
+      "role": "writer",
+      "slug": "zachary-rau"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Ambush",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-02-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-ambush",
+  "title": "The Clone Wars: Ambush"
+}

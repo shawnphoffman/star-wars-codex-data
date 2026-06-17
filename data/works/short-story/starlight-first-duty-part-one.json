@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "Starlight: First Duty",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "parentWorkSlug": "starlight",
+  "releaseDate": "2021-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starlight-first-duty-part-one",
+  "synopsis": "\"First Duty\" is a 2 part High Republic story written by Cavan Scott that was published in Star Wars Insider #201 and #202.",
+  "title": "Starlight: First Duty"
+}

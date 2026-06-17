@@ -1,0 +1,34 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Forces of Destiny: The Rey Chronicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368011195"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368011198"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368011195",
+      "isbn13": "9781368011198",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 28
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-the-rey-chronicles",
+  "synopsis": "Follow Rey across three separate adventures based on the Star Wars: Forces of Destiny micro-series.",
+  "title": "Forces of Destiny: The Rey Chronicles"
+}

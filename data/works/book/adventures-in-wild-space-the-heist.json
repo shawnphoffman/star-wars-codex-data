@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Adventures in Wild Space: The Heist",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1532143206"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781532143205"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1532143206",
+      "isbn13": "9781532143205",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-heist",
+  "synopsis": "Milo and Lina Graf head to Lothal to continue the search for their missing parents.",
+  "title": "Adventures in Wild Space: The Heist"
+}

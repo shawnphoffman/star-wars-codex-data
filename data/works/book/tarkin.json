@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "David Smit",
+      "role": "coverArtist",
+      "slug": "david-smit"
+    }
+  ],
+  "displayTitle": "Tarkin",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511522"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511522",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "releaseDate": "2014-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tarkin",
+  "synopsis": "Before Grand Moff Tarkin ordered the first galaxy-altering demonstration of the Death Star, he was forced to prove to the Emperor – and himself – that he had what it took to govern with merciless force.",
+  "title": "Tarkin"
+}

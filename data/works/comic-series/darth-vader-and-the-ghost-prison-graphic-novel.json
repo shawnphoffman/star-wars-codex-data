@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "other"
+  },
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "Darth Vader and the Ghost Prison",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2013-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-and-the-ghost-prison-graphic-novel",
+  "title": "Darth Vader and the Ghost Prison"
+}

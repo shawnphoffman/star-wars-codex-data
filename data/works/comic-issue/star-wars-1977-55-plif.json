@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #55: Plif!",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1981-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-55-plif",
+  "title": "Star Wars (1977) #55: Plif!"
+}

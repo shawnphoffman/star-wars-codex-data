@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Liza Baker",
+      "role": "writer",
+      "slug": "liza-baker"
+    }
+  ],
+  "displayTitle": "Gungan Trouble!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "gungan-trouble",
+  "title": "Gungan Trouble!"
+}

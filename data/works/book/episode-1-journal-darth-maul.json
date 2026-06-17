@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Episode I Journal: Darth Maul",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139410"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 97,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139410",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-1-journal-darth-maul",
+  "synopsis": "Experience the journey of Darth Maul’s mastry of the dark side of the Force through the eyes of the Sith Lord himself.",
+  "title": "Episode I Journal: Darth Maul"
+}

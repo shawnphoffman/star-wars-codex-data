@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #13: Blue Harvest, Part 1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-4",
+  "releaseDate": "2009-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-13-blue-harvest-part-1",
+  "title": "Dark Times #13: Blue Harvest, Part 1"
+}

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "displayTitle": "The Force Awakens",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2016-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-force-awakens-novelization",
+  "synopsis": "The official novelization of Star Wars: The Force Awakens, the highly anticipated blockbuster film directed by J. J. Abrams, hitting theaters in December 2015.",
+  "title": "The Force Awakens"
+}

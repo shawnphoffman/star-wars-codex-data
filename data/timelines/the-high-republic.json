@@ -1,0 +1,118 @@
+{
+  "entries": [
+    {
+      "kind": "divider",
+      "label": "Quest of the Jedi · Phase II Era",
+      "markerDate": {
+        "startYear": -382
+      },
+      "note": "Roughly 150 years before the Nihil, the Jedi confront the Path of the Open Hand and the distant origins of the Nameless."
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-path-of-deceit"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-convergence"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-the-battle-of-jedha"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-cataclysm"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-path-of-vengeance"
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-insider-the-high-republic-tales-of-enlightenment"
+    },
+    {
+      "kind": "divider",
+      "label": "The Great Hyperspace Disaster · Phase I Era",
+      "markerDate": {
+        "startYear": -232
+      },
+      "note": "A catastrophic hyperspace accident draws the Jedi, at their height, into open war with the marauding Nihil."
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-light-of-the-jedi"
+    },
+    {
+      "kind": "work",
+      "workSlug": "into-the-dark"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-novel-2"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-tempest-runner"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-out-of-the-shadows"
+    },
+    {
+      "kind": "work",
+      "workSlug": "midnight-horizon"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-fallen-star"
+    },
+    {
+      "kind": "event",
+      "label": "The Night of Sorrow - Fall of Starlight Beacon",
+      "markerDate": {
+        "startYear": -230
+      },
+      "note": "The Nihil sabotage and destroy Starlight Beacon, the Republic's shining symbol on the frontier, ending Phase I in tragedy."
+    },
+    {
+      "kind": "divider",
+      "label": "Trials of the Jedi · Phase III Era",
+      "markerDate": {
+        "startYear": -229
+      },
+      "note": "One year later the Nihil Stormwall seals off the Occlusion Zone as the Jedi fight the war's desperate final chapter."
+    },
+    {
+      "kind": "work",
+      "markerDate": {
+        "startYear": -229
+      },
+      "workSlug": "the-high-republic-anthology"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-eye-of-darkness"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-temptation-of-the-force"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-defy-the-storm"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-tears-of-the-nameless"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-trials-of-the-jedi"
+    }
+  ],
+  "slug": "the-high-republic",
+  "summary": "The core High Republic novels ordered by in-universe chronology rather than publication phase. Phase II opens the era roughly 150 years before the Great Hyperspace Disaster, then Phase I and Phase III follow in the years around the fall of Starlight Beacon.",
+  "title": "The High Republic Timeline"
+}

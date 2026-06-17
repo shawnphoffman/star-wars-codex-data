@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Wheat",
+      "role": "writer",
+      "slug": "jim-wheat"
+    },
+    {
+      "name": "Kim Wheat",
+      "role": "writer",
+      "slug": "kim-wheat"
+    }
+  ],
+  "displayTitle": "The Battle For Endor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1985-11-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-battle-for-endor",
+  "title": "The Battle For Endor"
+}

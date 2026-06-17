@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
+  "displayTitle": "Shadows of the Empire: Evolution #5",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1998-06-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shadows-of-the-empire-evolution-5",
+  "title": "Shadows of the Empire: Evolution #5"
+}

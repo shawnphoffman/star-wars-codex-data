@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode II Adventures 3: The Hostage Princess",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439458818"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 90,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439458818",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "releaseDate": "2002-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-3-the-hostage-princess",
+  "synopsis": "The Jedi must save a princess from the evil droids who kidnapped her.",
+  "title": "Episode II Adventures 3: The Hostage Princess"
+}

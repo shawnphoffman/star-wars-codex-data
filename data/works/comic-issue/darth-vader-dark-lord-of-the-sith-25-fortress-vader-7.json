@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 25: Fortress Vader Part VII",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -12,
+    "startYear": -12
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "releaseDate": "2018-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-25-fortress-vader-7",
+  "synopsis": "In Dark Lord of the Sith 25, Vader uses the Mask of Lord Momin to open a gateway through the Force. In the gateway, Vader confronts his past through a series of visions, meeting important people from his past, including Anakin's mother, Ahsoka, and Padme.",
+  "title": "Darth Vader: Dark Lord of the Sith 25: Fortress Vader Part VII"
+}

@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: The Jellyfruit Pursuit",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736444286"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780736444286",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-the-jellyfruit-pursuit",
+  "synopsis": "Pirates have stolen the jellyfruit for the upcoming Jellyfruit Festival, and it’s up to Kai and his friends to get it back.",
+  "title": "Young Jedi Adventures: The Jellyfruit Pursuit"
+}

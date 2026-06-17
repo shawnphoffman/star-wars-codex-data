@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #04",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "parentWorkSlug": "the-high-republic-vol-1-tpb",
+  "releaseDate": "2021-04-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-04",
+  "synopsis": "The High Republic 4 is the fourth issue of the comic book series Star Wars: The High Republic.\nTHE JEDI TURNED AGAINST EACH OTHER?! AVAR KRISS and her band of brave JEDI helpless in the clutches of a traitor in their midst. STARLIGHT BEACON under attack from an insidious foe. Danger from an age-old enemy. Who is really pulling the strings on the distant planet of SEDRI? Plus: The secret history of the terrifying DRENGIR revealed.",
+  "title": "The High Republic (2021) #04"
+}

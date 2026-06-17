@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Samantha Wallschlaeger",
+      "role": "writer",
+      "slug": "samantha-wallschlaeger"
+    }
+  ],
+  "displayTitle": "Trading Scars",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3629,
+    "startYear": -3629
+  },
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "trading-scars",
+  "title": "Trading Scars"
+}

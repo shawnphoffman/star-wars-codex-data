@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian #2",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-vol-1-trade-paperback",
+  "releaseDate": "2022-08-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-2",
+  "synopsis": "Issue 2 of 8, of the Marvel Comics The Mandalorian Seaon 1 Adaptation Series.\nBATTLE WITH THE BEASTLY MUDHORN!\nHaving tracked down a valuable quarry, the Mandalorian must now contend with thieving bandits. Will the Mandalorian battle it out with the Jawas or is an alliance in the cards?",
+  "title": "The Mandalorian #2"
+}

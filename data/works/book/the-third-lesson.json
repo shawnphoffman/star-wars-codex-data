@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul S. Kemp",
+      "role": "writer",
+      "slug": "paul-s-kemp"
+    }
+  ],
+  "displayTitle": "The Third Lesson",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3667,
+    "startYear": -3667
+  },
+  "releaseDate": "2011-03-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-third-lesson",
+  "title": "The Third Lesson"
+}

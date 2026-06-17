@@ -1,0 +1,67 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jonathan Kasdan",
+      "role": "writer",
+      "slug": "jonathan-kasdan"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "Jon Kasdan",
+      "role": "writer",
+      "slug": "jon-kasdan"
+    },
+    {
+      "name": "Ron Howard",
+      "role": "director",
+      "slug": "ron-howard"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Allison Shearmur",
+      "role": "producer",
+      "slug": "allison-shearmur"
+    },
+    {
+      "name": "Simon Emanuel",
+      "role": "producer",
+      "slug": "simon-emanuel"
+    },
+    {
+      "name": "John Powell",
+      "role": "composer",
+      "slug": "john-powell"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Solo",
+  "era": "reignOfTheEmpire",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": -13
+  },
+  "movie": {
+    "mpaaRating": "pg13",
+    "runtimeMinutes": 135,
+    "subtitle": "A Star Wars Story"
+  },
+  "releaseDate": "2018-05-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "solo-a-star-wars-story",
+  "synopsis": "Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga’s most unlikely heroes.",
+  "title": "Solo"
+}

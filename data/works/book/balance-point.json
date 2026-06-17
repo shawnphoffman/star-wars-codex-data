@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kathy Tyers",
+      "role": "writer",
+      "slug": "kathy-tyers"
+    }
+  ],
+  "displayTitle": "Balance Point",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 26,
+    "startYear": 26
+  },
+  "releaseDate": "2000-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "balance-point",
+  "title": "Balance Point"
+}

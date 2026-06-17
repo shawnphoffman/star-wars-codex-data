@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    }
+  ],
+  "displayTitle": "The Storms Of Crait",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2017-12-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-storms-of-crait",
+  "synopsis": "Storms Of Crait is a great tie in comic to The Last Jedi. It gives the reader some more background on Leia's family life and the planet of Crait itself.",
+  "title": "The Storms Of Crait"
+}

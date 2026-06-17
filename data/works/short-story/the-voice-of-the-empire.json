@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mur Lafferty",
+      "role": "writer",
+      "slug": "mur-lafferty"
+    }
+  ],
+  "displayTitle": "The Voice Of The Empire",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -17,
+    "startYear": -17
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2016-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-voice-of-the-empire",
+  "synopsis": "\"The Voice of the Empire\" is a short story tie-in to Rogue One: A Star Wars Story and the novel Catalyst: A Rogue One Novel.",
+  "title": "The Voice Of The Empire"
+}

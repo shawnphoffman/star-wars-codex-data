@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "Yoda Uncovered",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2014-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-uncovered",
+  "title": "Yoda Uncovered"
+}

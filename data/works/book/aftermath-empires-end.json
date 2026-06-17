@@ -1,0 +1,49 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    },
+    {
+      "name": "Christopher M. Zucker",
+      "role": "coverArtist",
+      "slug": "christopher-m-zucker"
+    }
+  ],
+  "displayTitle": "Aftermath: Empire's End",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1101966963"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781101966969"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 423,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1101966963",
+      "isbn13": "9781101966969",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "2017-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aftermath-empires-end",
+  "synopsis": "It’s all come down to this. After years of fighting the Empire, and continuing to battle the remaining forces spread across the galaxy after Endor, the New Republic will finally corner the regime’s leaders and bring the war to an end.",
+  "title": "Aftermath: Empire's End"
+}

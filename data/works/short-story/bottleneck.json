@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Bottleneck",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -11,
+    "startYear": -11
+  },
+  "releaseDate": "2015-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bottleneck",
+  "synopsis": "When Grand Moff Tarkin is tasked by Emperor Palpatine to investigate a dispute slowing Imperial production on a backwater planet, he expects an easy mission. Instead, Tarkin must forge a tense alliance with Count Vidian, the Empire's newest rising star and a most capable rival. Matching wits and risking betrayal at every turn, the two powerful Imperials duel to gain the upper hand…and elude, at all costs, the price of failure.",
+  "title": "Bottleneck"
+}

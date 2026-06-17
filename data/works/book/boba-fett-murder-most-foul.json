@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "Boba Fett: Murder Most Foul",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 10,
+    "startYear": 10
+  },
+  "releaseDate": "1997-08-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-murder-most-foul",
+  "title": "Boba Fett: Murder Most Foul"
+}

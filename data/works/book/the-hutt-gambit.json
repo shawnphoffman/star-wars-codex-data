@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "A.C. Crispin",
+      "role": "writer",
+      "slug": "a-c-crispin"
+    }
+  ],
+  "displayTitle": "The Hutt Gambit",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -5
+  },
+  "releaseDate": "1997-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-hutt-gambit",
+  "title": "The Hutt Gambit"
+}

@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Kanan's Jedi Training",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484705636"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484705636",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "kanans-jedi-training",
+  "synopsis": "Kanan is about to take on a whole new kind of mission: training a new Jedi Padawan named Ezra.",
+  "title": "Kanan's Jedi Training"
+}

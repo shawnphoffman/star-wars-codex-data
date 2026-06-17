@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Enemy Lines I: Rebel Dream",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 27,
+    "startYear": 27
+  },
+  "releaseDate": "2002-03-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "enemy-lines-i-rebel-dream",
+  "title": "Enemy Lines I: Rebel Dream"
+}

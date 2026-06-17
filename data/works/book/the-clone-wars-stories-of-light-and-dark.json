@@ -1,0 +1,34 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Clone Wars: Stories of Light and Dark",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368057292"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368057295"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368057292",
+      "isbn13": "9781368057295",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-stories-of-light-and-dark",
+  "synopsis": "Epic tales from The Clone Wars come to life through an anthology of stories recounting the conflicts between the Republic, Separatists, Jedi, and Sith.",
+  "title": "The Clone Wars: Stories of Light and Dark"
+}

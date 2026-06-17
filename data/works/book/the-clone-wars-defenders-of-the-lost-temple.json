@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Justin Aclin",
+      "role": "writer",
+      "slug": "justin-aclin"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Defenders of the Lost Temple",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-defenders-of-the-lost-temple",
+  "title": "The Clone Wars: Defenders of the Lost Temple"
+}

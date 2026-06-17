@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Edward M. Erdelac",
+      "role": "writer",
+      "slug": "edward-m-erdelac"
+    }
+  ],
+  "displayTitle": "Hammer",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2014-01-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hammer",
+  "title": "Hammer"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Star Wars: The Rebel Files",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDate": "2017-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-rebel-files",
+  "synopsis": "This top-secret cache reproduces highly sensitive intelligence that traces the Rebel Alliance from its formation through its tireless fight against the Empire. From its earliest beginnings in covert opposition to Imperial operations, the Alliance could not trust its most sensitive information to risk of digital interception. Instead, it was kept in a secure case, traveling with key senior Rebel personnel. Lost in the chaos surrounding the Battle of Endor, it was rediscovered many years later by the newly formed Resistance.\nRichly illustrated and full of strategic detail and history, the files also feature additional annotation by Resistance members such as General Leia Organa, Mon Mothma, Poe Dameron, and Admiral Ackbar, making this a crucial read for fans seeking a deeper understanding of the saga.",
+  "title": "Star Wars: The Rebel Files"
+}

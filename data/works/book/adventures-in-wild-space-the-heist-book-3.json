@@ -1,0 +1,41 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    },
+    {
+      "name": "Lucy Ruth Cummins",
+      "role": "coverArtist",
+      "slug": "lucy-ruth-cummins"
+    }
+  ],
+  "displayTitle": "Adventures in Wild Space: The Steal (Book 3)",
+  "editions": [
+    {
+      "imprint": "Disney Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2017-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-heist-book-3",
+  "synopsis": "Still on the hunt for their kidnapped parents, Milo and Lina Graf head to Lothal in search of an ally. But when something precious is stolen from them, they have to embark on their most dangerous mission yet. Will they succeed in THE STEAL?",
+  "title": "Adventures in Wild Space: The Steal (Book 3)"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Eric Arnold",
+      "role": "writer",
+      "slug": "eric-arnold"
+    }
+  ],
+  "displayTitle": "Darth Maul's Revenge",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-mauls-revenge",
+  "title": "Darth Maul's Revenge"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Betrayal",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 40,
+    "startYear": 40
+  },
+  "releaseDate": "2006-05-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "betrayal",
+  "title": "Betrayal"
+}

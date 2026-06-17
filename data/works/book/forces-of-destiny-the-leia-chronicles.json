@@ -1,0 +1,39 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emma Carlson Berne",
+      "role": "writer",
+      "slug": "emma-carlson-berne"
+    }
+  ],
+  "displayTitle": "Forces of Destiny: The Leia Chronicles",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368017152"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368017152",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": -3
+  },
+  "releaseDate": "2018-01-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-the-leia-chronicles",
+  "synopsis": "Follow Princess Leia across three separate adventures based on the Star Wars: Forces of Destiny micro-series.",
+  "title": "Forces of Destiny: The Leia Chronicles"
+}

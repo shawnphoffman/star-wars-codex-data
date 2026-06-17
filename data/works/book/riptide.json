@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul S. Kemp",
+      "role": "writer",
+      "slug": "paul-s-kemp"
+    }
+  ],
+  "displayTitle": "Riptide",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 41,
+    "startYear": 41
+  },
+  "releaseDate": "2011-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "riptide",
+  "title": "Riptide"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    }
+  ],
+  "displayTitle": "The Kashyyyk Depths",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1979-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-kashyyyk-depths",
+  "title": "The Kashyyyk Depths"
+}

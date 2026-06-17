@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "artist",
+      "slug": "vincenzo-federici"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Echoes of Fear #3",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear",
+  "releaseDate": "2024-11-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-echoes-of-fear-3",
+  "synopsis": "Issue 3 of 4 from Dark Horse Comics The High Republic Adventures: Echoes of Fear Mini Series\nJedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo continue researching the Echo Stones. In doing so, they learn of the daring mission of a Republic Pathfinder team as they attempt to discover what happened to the famous Jedi Barnabas Vim, who went missing decades earlier, and whose fate appears inexorably tied to the mysterious Echo Stones.",
+  "title": "The High Republic Adventures: Echoes of Fear #3"
+}

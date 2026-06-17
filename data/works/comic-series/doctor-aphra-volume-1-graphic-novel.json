@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Kev Walker",
+      "role": "artist",
+      "slug": "kev-walker"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) Vol. 1: Aphra",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "releaseDate": "2017-07-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-volume-1-graphic-novel",
+  "synopsis": "Doctor Aphra made her big debut in the 2015 line of Darth Vader comics, but fans loved her so much that she earned her very own series.What’s not to love about this twisted spin on a classic crew? Chelli Lona Aphra is what everyone loves about Han Solo and then some. You never know what she’s going to pull out of her sleeve and she has a crew that’s just as lovable. Imagine the polar opposites of Chewie, Threepio, and Artoo times ten. You’ll never read anything else so different yet so Star Wars at the same time.",
+  "title": "Doctor Aphra (2016) Vol. 1: Aphra"
+}

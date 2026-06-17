@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brook Vitale",
+      "role": "writer",
+      "slug": "brook-vitale"
+    }
+  ],
+  "displayTitle": "Rebels: TIE Fighter Trouble",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2015-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-tie-fighter-trouble",
+  "synopsis": "TIE Fighter Trouble is a young readers book in the Star Wars Rebels series from Disney–Lucasfilm Press.  Ezra and Zeb dodge Imperial patrols while on a special mission from Hera.",
+  "title": "Rebels: TIE Fighter Trouble"
+}

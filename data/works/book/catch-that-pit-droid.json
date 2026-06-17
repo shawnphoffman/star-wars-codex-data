@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Liza Baker",
+      "role": "writer",
+      "slug": "liza-baker"
+    }
+  ],
+  "displayTitle": "Catch That Pit Droid!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101653"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101653",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2000-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "catch-that-pit-droid",
+  "synopsis": "When a pit droid escapes from Watto’s junk shop, the dealer must find a way to get it back before it becomes a problem.",
+  "title": "Catch That Pit Droid!"
+}

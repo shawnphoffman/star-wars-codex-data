@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Donna Tauscher",
+      "role": "writer",
+      "slug": "donna-tauscher"
+    }
+  ],
+  "displayTitle": "Star Wars Journal: Hero for Hire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-journal-hero-for-hire",
+  "title": "Star Wars Journal: Hero for Hire"
+}

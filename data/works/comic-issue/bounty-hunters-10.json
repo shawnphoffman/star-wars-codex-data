@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #10",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2021-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-10",
+  "synopsis": "THE \"TERMINUS GAUNTLET\" CONCLUDES!\nVALANCE finds himself alone and outgunned against the dreaded NEW OHNAKA PIRATE GANG!\nThe lives of the crew of a REBEL transport hang in the balance as he battles against grave odds.\nAnd what secret is DENGAR carrying that will upend Valance’s life?",
+  "title": "Bounty Hunters #10"
+}

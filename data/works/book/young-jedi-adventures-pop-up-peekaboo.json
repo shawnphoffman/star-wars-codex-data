@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: Pop-Up Peekaboo!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780744099645"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9780744099645",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-pop-up-peekaboo",
+  "synopsis": "Take your younglings on an epic adventure with this pop-up storybook featuring the characters of Star Wars: Young Jedi Adventures!",
+  "title": "Young Jedi Adventures: Pop-Up Peekaboo!"
+}

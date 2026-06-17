@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Last Battle Of Jace Malcolm",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3640,
+    "startYear": -3640
+  },
+  "releaseDate": "2012-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-battle-of-jace-malcolm",
+  "title": "The Last Battle Of Jace Malcolm"
+}

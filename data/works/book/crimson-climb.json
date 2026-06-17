@@ -1,0 +1,37 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Crimson Climb",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093752"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093750"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368093752",
+      "isbn13": "9781368093750",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -12,
+    "startYear": -13
+  },
+  "releaseDate": "2023-10-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-climb",
+  "synopsis": "After being left behind on Corellia, Qi’ra quickly learns that her best chance of survival might be through climbing the ranks of Crimson Dawn.",
+  "title": "Crimson Climb"
+}

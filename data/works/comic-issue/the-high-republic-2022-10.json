@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2022) #10",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-2022-vol-2-battle-for-the-force-trade-paperback",
+  "releaseDate": "2023-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2022-10",
+  "synopsis": "The tenth issue of the Marvel comic book series Star Wars: The High Republic (2022) from Phase 2 of The High Republic\nSTAR WARS: THE HIGH REPUBLIC PHASE TWO FINALE! The LEVELER has been unleashed in a secret Jedi vault on JEDHA. Jedi Knight VILDAR MAC has risked everything to defeat the PATH OF THE OPEN HAND, but in the face of tragedy, can he resist the lure of the dark side? Jedha's Battle for the Force reaches its epic conclusion!",
+  "title": "The High Republic (2022) #10"
+}

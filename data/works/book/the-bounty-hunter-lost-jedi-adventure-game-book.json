@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Cockburn",
+      "role": "writer",
+      "slug": "paul-cockburn"
+    }
+  ],
+  "displayTitle": "The Bounty Hunter (Lost Jedi Adventure Game Book)",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "1994-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-bounty-hunter-lost-jedi-adventure-game-book",
+  "title": "The Bounty Hunter (Lost Jedi Adventure Game Book)"
+}

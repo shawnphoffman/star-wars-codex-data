@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Thrawn #6",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "parentWorkSlug": "thrawn-graphic-novel",
+  "releaseDate": "2018-05-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-six",
+  "synopsis": "THE RISE OF THE GRAND ADMIRAL REACHES ITS CLIMAX! THRAWN at last meets his greatest enemy face-to-face! Will PRYCE's final gambit to save her family succeed? And what role will ELI VANTO play in Thrawn's ultimate plan?",
+  "title": "Thrawn #6"
+}

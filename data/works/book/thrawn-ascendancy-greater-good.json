@@ -1,0 +1,35 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Thrawn Ascendancy: Greater Good",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "593158296"
+    },
+    {
+      "type": "isbn13",
+      "value": "978-0593158296"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593158296",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2021-04-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-ascendancy-greater-good",
+  "synopsis": "Thrawn may have won his previous battle, but the Chiss Ascendancy will soon depend on him more than ever before.",
+  "title": "Thrawn Ascendancy: Greater Good"
+}

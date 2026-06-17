@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Guns of Kelrodo-Ai",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -17,
+    "startYear": -17
+  },
+  "releaseDate": "2012-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-guns-of-kelrodo-ai",
+  "title": "The Guns of Kelrodo-Ai"
+}

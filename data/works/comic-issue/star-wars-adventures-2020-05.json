@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Katie Cook",
+      "role": "writer",
+      "slug": "katie-cook"
+    },
+    {
+      "name": "Casey Gilly",
+      "role": "writer",
+      "slug": "casey-gilly"
+    },
+    {
+      "name": "Cara McGee",
+      "role": "artist",
+      "slug": "cara-mcgee"
+    },
+    {
+      "name": "Ethen Beavers",
+      "role": "artist",
+      "slug": "ethen-beavers"
+    }
+  ],
+  "displayTitle": "Adventures (2020) #05 - The Incident part 1",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "parentWorkSlug": "star-wars-adventures",
+  "releaseDate": "2021-06-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2020-05",
+  "synopsis": "Star Wars Adventures (2020) #05 is the fifth issue of the Star Wars Adventures (2020) comic series.\nPadme and Anakin have grand plans to have a romantic night celebrating a recent victory. But before they get a chance to get together, Anakin is Jedi-napped by a group of outlaws with their sights on a holocron in the Jedi temple! Now it's up to Padme to use all of her cunning to infiltrate the outlaw base and rescue him.",
+  "title": "Star Wars Adventures (2020) #05 - The Incident part 1"
+}

@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Elsa Charretier",
+      "role": "writer",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Pierrick Colinet",
+      "role": "writer",
+      "slug": "pierrick-colinet"
+    },
+    {
+      "name": "Scott Peterson",
+      "role": "writer",
+      "slug": "scott-peterson"
+    },
+    {
+      "name": "Alain Mauricet",
+      "role": "artist",
+      "slug": "alain-mauricet"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Sarah Stern",
+      "role": "artist",
+      "slug": "sarah-stern"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "artist",
+      "slug": "valentina-pinto"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #12 - A Small Push",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "parentWorkSlug": "adventures-vol-8-defend-the-republic",
+  "releaseDate": "2018-07-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-12",
+  "synopsis": "One of the spiciest things to come out of the Clone Wars is Anakin and Padme’s secret relationship. If you’re looking for some action-packed forbidden romance, be sure to grab this hot issue of Star Wars Adventures! The story continues with issue #13.",
+  "title": "Star Wars Adventures (2017) #12 - A Small Push"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "Hotshot",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2013-12-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hotshot",
+  "title": "Hotshot"
+}

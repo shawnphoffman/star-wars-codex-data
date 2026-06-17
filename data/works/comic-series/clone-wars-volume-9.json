@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    }
+  ],
+  "displayTitle": "Clone Wars Volume 9: Endgame (2006)",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2006-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-volume-9",
+  "title": "Clone Wars Volume 9: Endgame (2006)"
+}

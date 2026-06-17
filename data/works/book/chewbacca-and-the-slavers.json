@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cerasi",
+      "role": "writer",
+      "slug": "chris-cerasi"
+    }
+  ],
+  "displayTitle": "Star Wars Adventures: Chewbacca And The Slavers Of The Shadowlands",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2011-08-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chewbacca-and-the-slavers",
+  "title": "Star Wars Adventures: Chewbacca And The Slavers Of The Shadowlands"
+}

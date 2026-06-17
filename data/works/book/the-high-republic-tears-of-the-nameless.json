@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "The High Republic: Tears of the Nameless",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368095178"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368095174"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 512,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "1368095178",
+      "isbn13": "9781368095174",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "releaseDate": "2024-09-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-tears-of-the-nameless",
+  "synopsis": "Reath Silas and Amadeo Azzazzo embark on a dangerous mission to learn more about the Nameless creatures that have been haunting the Jedi for over a year.",
+  "title": "The High Republic: Tears of the Nameless"
+}

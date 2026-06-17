@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tracey West",
+      "role": "writer",
+      "slug": "tracey-west"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Decide Your Destiny: The Lost Legion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -21,
+    "startYear": -21
+  },
+  "releaseDate": "2009-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-decide-your-destiny-the-lost-legion",
+  "title": "The Clone Wars: Decide Your Destiny: The Lost Legion"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #15",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-3-trade-paperback",
+  "releaseDate": "2021-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-15",
+  "synopsis": "Darth Vader (2020) 15 is the fifteenth issue of the comic book series Star Wars: Darth Vader (2020) and part of the Star Wars: War of the Bounty Hunters crossover event.\nMere months ago, OCHI OF BESTOON was the assassin who dared to take on DARTH VADER himself in the fiery lava pits of MUSTAFAR.\nNow Ochi serves Vader as his most loyal agent during the WAR OF THE BOUNTY HUNTERS. Who is Ochi of Bestoon? What are his true goals? And how have the secrets of EXEGOL shaped him forever?\nAlso featuring the next great reveal about BOKKU and the Hutt Council!",
+  "title": "Darth Vader (2020) #15"
+}

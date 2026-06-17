@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Cockburn",
+      "role": "writer",
+      "slug": "paul-cockburn"
+    }
+  ],
+  "displayTitle": "Jedi Dawn (Lost Jedi Adventure Game Book)",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1993-09-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-dawn-lost-jedi-adventure-game-book",
+  "title": "Jedi Dawn (Lost Jedi Adventure Game Book)"
+}

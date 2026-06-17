@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #1: Search for the Lost Jedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "releaseDate": "1999-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-1-search-for-the-lost-jedi",
+  "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it’s too late?",
+  "title": "Episode I Adventures #1: Search for the Lost Jedi"
+}

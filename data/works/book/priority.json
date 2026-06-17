@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George R. Strayton",
+      "role": "writer",
+      "slug": "george-r-strayton"
+    }
+  ],
+  "displayTitle": "Priority X",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1997-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "priority",
+  "title": "Priority X"
+}

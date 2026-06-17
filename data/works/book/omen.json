@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    }
+  ],
+  "displayTitle": "Omen",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 43,
+    "startYear": 43
+  },
+  "releaseDate": "2009-06-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omen",
+  "title": "Omen"
+}

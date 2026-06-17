@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "displayTitle": "The Approaching Storm",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345442994"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345442994",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2002-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-approaching-storm",
+  "synopsis": "Obi-Wan Kenobi and Luminara Unduli must travel to a distant planet to prevent it from joining the Separatists.",
+  "title": "The Approaching Storm"
+}

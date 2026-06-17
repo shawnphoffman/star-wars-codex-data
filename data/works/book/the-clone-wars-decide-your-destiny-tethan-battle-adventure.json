@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sue Behrent",
+      "role": "writer",
+      "slug": "sue-behrent"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Decide Your Destiny: Tethan Battle Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-decide-your-destiny-tethan-battle-adventure",
+  "title": "The Clone Wars: Decide Your Destiny: Tethan Battle Adventure"
+}

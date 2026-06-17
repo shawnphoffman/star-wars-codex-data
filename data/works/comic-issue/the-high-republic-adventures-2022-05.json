@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2022) #05",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-adventures-2022-volume-2-trade-paperback",
+  "releaseDate": "2023-05-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2022-05",
+  "synopsis": "Issue 5 of 8 of the Dark Horse Comics The High Republic Adventures (2022) Series\nUndercover Padawan Sav Malágan and pirate queen Maz Kanata have been working feverishly to uncover the plot of the Dank Graks, but when they finally discover the full extent of the conspiracy, it may already be too late, and the fate of the Republic itself may hang in the balance! Can they save their friends and stop the evil plot in time?",
+  "title": "The High Republic Adventures (2022) #05"
+}

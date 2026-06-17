@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Crash and Burn",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-2023-phase-iii-vol-2-the-hunted-trade-paperback",
+  "releaseDate": "2024-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-crash-and-burn",
+  "synopsis": "This is a one-shot comic and part of Phase 3 from the The High Republic Series\nAfter rescuing Nihil villain Krix Kamerat from a Republic prison, vigilante Crash Ongwa and her crew team up with the former Nihil to hunt down Marchion Ro. But taking out the infamous warlord is easier said than done, especially when the insufferable Krix is involved. Can Crash and her newfound partner overcome their differences, or will infighting be their downfall?\nWritten by New York Times bestselling author Daniel José Older, one of the original story architects of the Star Wars High Republic initiative!",
+  "title": "The High Republic Adventures: Crash and Burn"
+}

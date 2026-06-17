@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Various",
+      "role": "writer",
+      "slug": "various"
+    }
+  ],
+  "displayTitle": "Legends: The Empire Omnibus Vol. 2",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -6,
+    "startYear": -19
+  },
+  "releaseDate": "2023-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legends-the-empire-omnibus-vol-2",
+  "title": "Legends: The Empire Omnibus Vol. 2"
+}

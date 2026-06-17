@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "The Syrox Redemption",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -36,
+    "startYear": -36
+  },
+  "releaseDate": "2013-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-syrox-redemption",
+  "title": "The Syrox Redemption"
+}

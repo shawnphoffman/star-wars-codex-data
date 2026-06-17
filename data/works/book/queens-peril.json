@@ -1,0 +1,37 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Queen's Peril",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368077196"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368077194"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368077196",
+      "isbn13": "9781368077194",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2020-06-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "queens-peril",
+  "synopsis": "Being the Queen of Naboo isn’t easy — but thanks to the Trade Federation, Padme Amidala is about to discover it can be even more of a challenge than she imagined.",
+  "title": "Queen's Peril"
+}

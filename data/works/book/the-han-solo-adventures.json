@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    }
+  ],
+  "displayTitle": "The Han Solo Adventures",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -2
+  },
+  "releaseDate": "1992-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-han-solo-adventures",
+  "title": "The Han Solo Adventures"
+}

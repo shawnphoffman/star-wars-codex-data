@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Cold Snap",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-cold-snap",
+  "title": "The Clone Wars: Cold Snap"
+}

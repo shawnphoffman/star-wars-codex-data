@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "The High Republic: Trials of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "059372352X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593723524"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 448,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "059372352X",
+      "isbn13": "9780593723524",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "releaseDate": "2025-06-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-trials-of-the-jedi",
+  "synopsis": "If the Jedi have any hope of saving the galaxy from Marchion Ro, the blight, and the Nameless, they’re going to have to travel to a distant planet to confront their greatest fears once and for all.",
+  "title": "The High Republic: Trials of the Jedi"
+}

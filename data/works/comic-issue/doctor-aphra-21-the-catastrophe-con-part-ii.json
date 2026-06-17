@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Kev Walker",
+      "role": "artist",
+      "slug": "kev-walker"
+    },
+    {
+      "name": "Marc Deering",
+      "role": "artist",
+      "slug": "marc-deering"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Java Tartaglia",
+      "role": "artist",
+      "slug": "java-tartaglia"
+    },
+    {
+      "name": "Ashley Witter",
+      "role": "artist",
+      "slug": "ashley-witter"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) #21: The Catastrophe Con, Part II",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "parentWorkSlug": "doctor-aphra-volume-4-graphic-novel",
+  "releaseDate": "2018-06-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-21-the-catastrophe-con-part-ii",
+  "synopsis": "Doctor Aphra may be in Imperial prison, but she's certainly not alone. Rumors have it that these bars are haunted, but this rogue archaeologist knows there's something much more valuable going on. Meanwhile, Aphra's got information - information that the Rebellion wants. But how far are they willing to go--and who are they willing to recruit – in order to get it?",
+  "title": "Doctor Aphra (2016) #21: The Catastrophe Con, Part II"
+}

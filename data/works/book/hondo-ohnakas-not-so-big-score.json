@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Hondo Ohnaka's Not-So-Big Score",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -25,
+    "startYear": -25
+  },
+  "releaseDate": "2013-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hondo-ohnakas-not-so-big-score",
+  "title": "Hondo Ohnaka's Not-So-Big Score"
+}

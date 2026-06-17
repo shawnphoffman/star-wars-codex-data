@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "The Mandalorian (junior novelization)",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-junior-novelization",
+  "synopsis": "The Mandalorian: Junior Novelization is an upcoming junior novelization of The Mandalorian television series. It will be authored by Joe Schreiber.",
+  "title": "The Mandalorian (junior novelization)"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    }
+  ],
+  "displayTitle": "Star Wars: Droids Special",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "1995-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-special",
+  "title": "Star Wars: Droids Special"
+}

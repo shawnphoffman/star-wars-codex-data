@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #27",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-01",
+  "synopsis": "Is the twenty-seven issue of the Marvel Comics Doctor Aphra (2020) Series\n\"AN UNEASY ALLIANCE!\" DOCTOR CHELLI APHRA has struck a bargain for power! Will she be able to pay the terrible cost?! Or does the crafty doctor have one last trick up her sleeve?",
+  "title": "Doctor Aphra (2020) #27"
+}

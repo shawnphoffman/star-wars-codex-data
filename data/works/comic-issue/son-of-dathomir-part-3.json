@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Juan Frigeri",
+      "role": "artist",
+      "slug": "juan-frigeri"
+    },
+    {
+      "name": "Mauro Varga",
+      "role": "artist",
+      "slug": "mauro-varga"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "artist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    }
+  ],
+  "displayTitle": "Darth Maul: Son of Dathomir, Part 3",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-maul-son-of-dathomir",
+  "releaseDate": "2014-07-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "son-of-dathomir-part-3",
+  "synopsis": "Darth Maul has captured Darth Sidious's new apprentice! Mother Talzinand Maul attempt to sway Count Dooku to their cause, revealing surprising facts about Maul's past. But an attack by an elite Jedi strike force throws everyone's plans into chaos!",
+  "title": "Darth Maul: Son of Dathomir, Part 3"
+}

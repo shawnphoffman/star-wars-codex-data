@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2022): Volume 1",
+  "era": "highRepublic",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "releaseDate": "2023-09-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-volume-1",
+  "synopsis": "Star Wars: The High Republic Adventures, Volume 1\nThis is the trade paperback that collects issues 1-4 of the Dark Horse Comics The High Republic Adventures (2022) Series.\nFor young Padawan Sav Malagan, joining the ranks of the noble Jedi Order has been all she's ever wanted.\nBut a chance encounter with a crew of eccentric misfits makes her question everything she's taken for granted in her life. Trapped aboard the ship of infamous space pirate Maz Kanata, will Sav ever be able to rejoin the Jedi? And if she spends much longer with Maz and her crew, will she even want to?\nCollects Star Wars: The High Republic Adventures issues #1-4.",
+  "title": "The High Republic Adventures (2022): Volume 1"
+}

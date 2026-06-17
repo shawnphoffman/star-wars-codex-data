@@ -1,0 +1,54 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "omnibus"
+  },
+  "creators": [
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "writer",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Chris Claremont",
+      "role": "writer",
+      "slug": "chris-claremont"
+    },
+    {
+      "name": "Donald F. Glut",
+      "role": "writer",
+      "slug": "donald-f-glut"
+    },
+    {
+      "name": "Michael Golden",
+      "role": "writer",
+      "slug": "michael-golden"
+    }
+  ],
+  "displayTitle": "The Original Marvel Years Hardcover Omnibus Volume 1",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 0
+  },
+  "releaseDate": "2015-01-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "marvel-years-omnibus-v1",
+  "title": "The Original Marvel Years Hardcover Omnibus Volume 1"
+}

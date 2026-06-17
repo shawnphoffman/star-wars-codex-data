@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Rise of the Rebels",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405275804"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405275804"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405275804",
+      "isbn13": "9781405275804",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rise-of-the-rebels",
+  "synopsis": "The rebels of the Ghost Crew must use their unique talents and work together to fend off the imperial forces coming their way.",
+  "title": "Rise of the Rebels"
+}

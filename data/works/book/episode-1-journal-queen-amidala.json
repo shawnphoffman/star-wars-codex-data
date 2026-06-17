@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Episode I Journal: Queen Amidala",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590521017"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 111,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590521017",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-1-journal-queen-amidala",
+  "synopsis": "Relive the events of The Phantom Menace from the perspective of Queen Amidala of Naboo.",
+  "title": "Episode I Journal: Queen Amidala"
+}

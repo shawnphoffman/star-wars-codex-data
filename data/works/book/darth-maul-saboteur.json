@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Darth Maul: Saboteur",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "releaseDate": "2001-02-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-saboteur",
+  "title": "Darth Maul: Saboteur"
+}

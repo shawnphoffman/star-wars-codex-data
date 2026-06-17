@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Agents of Chaos II: Jedi Eclipse",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "2000-10-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agents-of-chaos-ii-jedi-eclipse",
+  "title": "Agents of Chaos II: Jedi Eclipse"
+}

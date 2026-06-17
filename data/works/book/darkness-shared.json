@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "Darkness Shared",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1000,
+    "startYear": -1000
+  },
+  "releaseDate": "2001-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darkness-shared",
+  "title": "Darkness Shared"
+}

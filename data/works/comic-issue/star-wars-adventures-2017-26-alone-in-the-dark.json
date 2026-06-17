@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #26 - Alone In The Dark",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-7",
+  "releaseDate": "2019-09-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-26-alone-in-the-dark",
+  "synopsis": "Witness one of the many lessons Rey learned from Luke Skywalker during her time on Ahch-To. Plus, in an all-new installment of Tales from Wild Space, Resistance pilot Tallie teaches her squad how to overcome their fears.",
+  "title": "Star Wars Adventures (2017) #26 - Alone In The Dark"
+}

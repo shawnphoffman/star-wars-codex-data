@@ -1,0 +1,23 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Paul Chadwick",
+      "role": "writer",
+      "slug": "paul-chadwick"
+    }
+  ],
+  "displayTitle": "Empire Volume 2: Darklighter",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "releaseDate": "2004-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-volume2-darlighter-graphic-novel",
+  "title": "Empire Volume 2: Darklighter"
+}

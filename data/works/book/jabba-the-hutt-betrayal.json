@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Woodring",
+      "role": "writer",
+      "slug": "jim-woodring"
+    }
+  ],
+  "displayTitle": "Jabba the Hutt: Betrayal",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "1996-02-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jabba-the-hutt-betrayal",
+  "title": "Jabba the Hutt: Betrayal"
+}

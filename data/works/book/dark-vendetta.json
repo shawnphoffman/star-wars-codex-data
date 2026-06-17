@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Dark Vendetta",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -10
+  },
+  "releaseDate": "1996-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-vendetta",
+  "title": "Dark Vendetta"
+}

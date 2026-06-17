@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "The High Republic: A Valiant Vow",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368095204"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368095208"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 272,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "1368095208",
+      "isbn13": "9781368095204",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "releaseDate": "2025-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-a-valiant-vow",
+  "synopsis": "Even though the Stormwall has finally fallen, there is still danger lurking across the galaxy. Even Jedi younglings and small Huttlets can stand up to enemies and make the galaxy a little bit safer.",
+  "title": "The High Republic: A Valiant Vow"
+}

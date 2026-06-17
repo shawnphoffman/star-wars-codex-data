@@ -1,0 +1,36 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "displayTitle": "Vision of the Future",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553108506"
+    },
+    {
+      "type": "isbn13",
+      "value": "978-0553108507"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 608,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553108506",
+      "isbn13": "9780553108507",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 19
+  },
+  "releaseDate": "1998-08-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vision-of-the-future",
+  "synopsis": "Imperial loyalists rally around what may be Thrawn returned from the dead as the New Republic teeters on the edge of civil war.",
+  "title": "Vision of the Future"
+}

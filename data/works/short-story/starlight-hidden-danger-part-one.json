@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "Starlight: Hidden Danger",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "starlight",
+  "releaseDate": "2021-06-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starlight-hidden-danger-part-one",
+  "synopsis": "\"Hidden Danger\" is a 2 part High Republic story written by Justina Ireland that was published in Star Wars Insider #203 and #204.",
+  "title": "Starlight: Hidden Danger"
+}

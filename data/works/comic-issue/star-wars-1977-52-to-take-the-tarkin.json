@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #52: To Take The Tarkin",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1981-07-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-52-to-take-the-tarkin",
+  "title": "Star Wars (1977) #52: To Take The Tarkin"
+}

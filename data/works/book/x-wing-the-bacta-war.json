@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing: The Bacta War",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 7,
+    "startYear": 7
+  },
+  "releaseDate": "1997-02-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-the-bacta-war",
+  "title": "X-Wing: The Bacta War"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Marc Cerasini",
+      "role": "writer",
+      "slug": "marc-cerasini"
+    }
+  ],
+  "displayTitle": "Anakin: Apprentice",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -32
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "anakin-apprentice",
+  "title": "Anakin: Apprentice"
+}

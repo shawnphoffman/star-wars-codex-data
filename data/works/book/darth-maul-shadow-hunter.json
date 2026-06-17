@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    }
+  ],
+  "displayTitle": "Darth Maul: Shadow Hunter",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593497050"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593497050",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "2001-01-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-shadow-hunter",
+  "synopsis": "Set just before the events of The Phantom Menace, this story features Maul’s emergence from the shadows – but of course, there are Jedi standing in his way that must be dealt with if his mission is going to be successful.",
+  "title": "Darth Maul: Shadow Hunter"
+}

@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "artist",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "artist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Rogue One: A Star Wars Story Adaptation #4",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "rogue-one-graphic-novel-adaptation",
+  "releaseDate": "2017-07-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-one-4",
+  "synopsis": "Jyn Erso brings the news of the Death Star plans to the Rebellion…It seems her father built a way for the superweapon to be destroyed! But when the Rebellion refuses to help, Jyn is left only with a small crew of soldiers to fight.",
+  "title": "Rogue One: A Star Wars Story Adaptation #4"
+}

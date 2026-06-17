@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cerasi",
+      "role": "writer",
+      "slug": "chris-cerasi"
+    }
+  ],
+  "displayTitle": "The Clone Wars: The Hunt For Grievous",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-07-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-hunt-for-grievous",
+  "title": "The Clone Wars: The Hunt For Grievous"
+}

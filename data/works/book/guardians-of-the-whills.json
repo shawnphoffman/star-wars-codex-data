@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    }
+  ],
+  "displayTitle": "Guardians of the Whills",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484780817"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484780817"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 234,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484780817",
+      "isbn13": "9781484780817",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2017-05-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "guardians-of-the-whills",
+  "synopsis": "Baze Malbus and Chirrut Îmwe may not be Guardians of the Whills anymore, but that doesn’t mean they’re going to let the Empire take over Jedha’s Holy City without a fight.",
+  "title": "Guardians of the Whills"
+}

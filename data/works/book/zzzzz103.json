@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 04: The Mark of the Crown",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590519342"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590519342",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -44,
+    "startYear": -44
+  },
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz103",
+  "synopsis": "Qui-Gon Jinn and young Obi-Wan Kenobi must save the planet Gala from its own people as a war for the royal throne threatens to tear the civilization apart.",
+  "title": "Jedi Apprentice 04: The Mark of the Crown"
+}

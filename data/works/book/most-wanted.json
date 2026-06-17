@@ -1,0 +1,49 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rae Carson",
+      "role": "writer",
+      "slug": "rae-carson"
+    },
+    {
+      "name": "Florian Nicolle",
+      "role": "coverArtist",
+      "slug": "florian-nicolle"
+    }
+  ],
+  "displayTitle": "Most Wanted",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368016308"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368016308"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368016308",
+      "isbn13": "9781368016308",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -13,
+    "startYear": -13
+  },
+  "releaseDate": "2018-05-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "most-wanted",
+  "synopsis": "Han and Qi’ra depend on the White Worms for survival – which means they’re going to have to do some things they might regret in order to move up in the ranks of the group’s chaotic organization.",
+  "title": "Most Wanted"
+}

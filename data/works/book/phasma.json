@@ -1,0 +1,49 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Larry Rostant",
+      "role": "coverArtist",
+      "slug": "larry-rostant"
+    }
+  ],
+  "displayTitle": "Phasma",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1524796336"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781524796334"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 380,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1524796336",
+      "isbn13": "9781524796334",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 22
+  },
+  "releaseDate": "2017-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "phasma",
+  "synopsis": "When a First Order ship crash-lands on a remote world, a determined warrior discovers she doesn’t just want to help the survivors. She wants to become one of them.",
+  "title": "Phasma"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    }
+  ],
+  "displayTitle": "Empire #17: To the Last Man, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "legends-epic-collection-the-empire-vol-7",
+  "releaseDate": "2004-03-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-17-to-the-last-man-part-2",
+  "title": "Empire #17: To the Last Man, Part 2"
+}

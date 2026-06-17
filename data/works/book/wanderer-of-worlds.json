@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Dunivant",
+      "role": "writer",
+      "slug": "john-dunivant"
+    }
+  ],
+  "displayTitle": "Wanderer of Worlds",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1996-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "wanderer-of-worlds",
+  "title": "Wanderer of Worlds"
+}

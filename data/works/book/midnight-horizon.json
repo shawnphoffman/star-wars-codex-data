@@ -1,0 +1,37 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "displayTitle": "The High Republic: Midnight Horizon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368060676"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368060677"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 496,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368060676",
+      "isbn13": "9781368060677",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -230
+  },
+  "releaseDate": "2022-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "midnight-horizon",
+  "synopsis": "Just when it seems things couldn’t get any worse for the Republic or the Jedi, events on Corellia take a turn for the worse.",
+  "title": "The High Republic: Midnight Horizon"
+}

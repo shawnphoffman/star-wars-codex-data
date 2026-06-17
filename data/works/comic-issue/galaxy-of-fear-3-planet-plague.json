@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "Galaxy of Fear #3: Planet Plague",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1997-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxy-of-fear-3-planet-plague",
+  "title": "Galaxy of Fear #3: Planet Plague"
+}

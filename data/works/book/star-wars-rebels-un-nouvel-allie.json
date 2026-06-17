@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Rebels: Un Nouvel Allié",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2012318665"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782012318663"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "isbn10": "2012318665",
+      "isbn13": "9782012318663",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-un-nouvel-allie",
+  "synopsis": "Ahsoka sends the rebels to meet up with an old friend – but Kanan is going to have to learn to trust him.",
+  "title": "Star Wars Rebels: Un Nouvel Allié"
+}

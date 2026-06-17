@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "X-Wing: Solo Command",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 7,
+    "startYear": 7
+  },
+  "releaseDate": "1999-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-solo-command",
+  "title": "X-Wing: Solo Command"
+}

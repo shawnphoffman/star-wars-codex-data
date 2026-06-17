@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Kanan 12: First Blood, Epilogue: The Ties That Bind",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -22
+  },
+  "parentWorkSlug": "kanan-volume-2-first-blood-graphic-novel",
+  "releaseDate": "2016-03-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kanan-first-blood-epilogue",
+  "synopsis": "The rebels' adventures on Kaller come to an end! But when a friend from Kanan's past needs help, he stays behind…The look into the past of the former Jedi concludes here!",
+  "title": "Kanan 12: First Blood, Epilogue: The Ties That Bind"
+}

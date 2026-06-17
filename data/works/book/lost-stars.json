@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    }
+  ],
+  "displayTitle": "Lost Stars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405277882"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405277884"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 551,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405277882",
+      "isbn13": "9781405277884",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": -11
+  },
+  "releaseDate": "2015-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-stars",
+  "synopsis": "Thane and Ciena have always done everything together. When the childhood best friends join the Imperial Academy, they’re certain their futures will remain intertwined. Everything changes when one of them ends up on the opposite side of the Galactic Civil War.",
+  "title": "Lost Stars"
+}

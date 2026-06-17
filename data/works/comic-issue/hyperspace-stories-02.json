@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cecil Castellucci",
+      "role": "writer",
+      "slug": "cecil-castellucci"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "artist",
+      "slug": "megan-huang"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #02",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 1,
+    "startYear": 1
+  },
+  "releaseDate": "2022-09-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-02",
+  "synopsis": "Issue 2 of 12 of the canon Dark Horse Comics Hyperspace anthology series\nAfter the destruction of the Death Star, the Rebel Alliance searches desperately for a safe haven to escape from the iron grip of the Galactic Empire. Luke Skywalker and Leia Organa investigate a mountainous world that could prove useful as a new base, only to discover all is not as it seems. On the run from imperial stormtroopers, Luke and Leia must make a perilous trip across an unforgiving landscape if they are to escape capture, or worse, at the hands of the Empire.",
+  "title": "Hyperspace Stories #02"
+}

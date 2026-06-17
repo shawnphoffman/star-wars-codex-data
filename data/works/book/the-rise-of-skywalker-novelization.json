@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rae Carson",
+      "role": "writer",
+      "slug": "rae-carson"
+    }
+  ],
+  "displayTitle": "The Rise of Skywalker",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2020-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-skywalker-novelization",
+  "synopsis": "Witness the epic final chapter of the Skywalker saga with the official novelization of Star Wars: The Rise of Skywalker, including expanded scenes and additional content not seen in theaters!",
+  "title": "The Rise of Skywalker"
+}

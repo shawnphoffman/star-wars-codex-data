@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Yasaku Komiyama",
+      "role": "artist",
+      "slug": "yasaku-komiyama"
+    }
+  ],
+  "displayTitle": "Lost Stars: Vol. 2 (Manga)",
+  "era": "newRepublic",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 0
+  },
+  "releaseDate": "2019-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-stars-volume-2",
+  "synopsis": "This second installation of the Lost Stars manga series captures a handful of the most emotionally-compelling scenes from the original novel and expresses the weight of Ciena and Thane’s feelings in a way that’ll grip your heart right at its core. Every facial expression within these pages will test the strength and willpower of your tear ducts as this incredible artwork reaches out to your soul and rips you apart from the inside.",
+  "title": "Lost Stars: Vol. 2 (Manga)"
+}

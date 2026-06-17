@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #37: Prophet Motive, Part 2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3963,
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-6-vindication-graphic-novel",
+  "releaseDate": "2009-01-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-37-prophet-motive-part-2",
+  "title": "Knights of the Old Republic #37: Prophet Motive, Part 2"
+}

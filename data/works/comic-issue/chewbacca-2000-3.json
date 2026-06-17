@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Chewbacca (2000) #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "parentWorkSlug": "chewbacca",
+  "releaseDate": "2000-03-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chewbacca-2000-3",
+  "title": "Chewbacca (2000) #3"
+}

@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "The Acolyte: Wayseeker",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593874431"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593874431",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -152,
+    "startYear": -152
+  },
+  "releaseDate": "2025-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-acolyte-wayseeker",
+  "synopsis": "Jedi Knight Indara and Jedi Master Vernestra Rwoh have very little in common. Perhaps there is a reason the Jedi Council has decided it’s time for the two to work together.",
+  "title": "The Acolyte: Wayseeker"
+}

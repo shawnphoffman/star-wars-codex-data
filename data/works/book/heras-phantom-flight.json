@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Hera's Phantom Flight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1532140673"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781532140679"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1532140673",
+      "isbn13": "9781532140679",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "heras-phantom-flight",
+  "synopsis": "Hera Syndulla, rebel pilot, is ready for another exciting space adventure.",
+  "title": "Hera's Phantom Flight"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    }
+  ],
+  "displayTitle": "Blind Fury!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1982-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "blind-fury",
+  "title": "Blind Fury!"
+}

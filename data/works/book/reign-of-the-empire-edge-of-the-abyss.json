@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Reign of the Empire: Edge of the Abyss",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593873625"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593873625",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -6,
+    "startYear": -6
+  },
+  "releaseDate": "2026-09-15T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "released",
+  "slug": "reign-of-the-empire-edge-of-the-abyss",
+  "synopsis": "Coming Soon!",
+  "title": "Reign of the Empire: Edge of the Abyss"
+}

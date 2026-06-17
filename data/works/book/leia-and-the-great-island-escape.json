@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Leia and the Great Island Escape",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2016-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "leia-and-the-great-island-escape",
+  "synopsis": "Leia and her team of rebels must outwit the Empire, avoid perilous pirates, and escape from a volcanic island planet before it's too late!",
+  "title": "Leia and the Great Island Escape"
+}

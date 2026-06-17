@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "A.L. Singer",
+      "role": "writer",
+      "slug": "a-l-singer"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #13: Danger on Naboo",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "releaseDate": "2000-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-13-danger-on-naboo",
+  "title": "Episode I Adventures #13: Danger on Naboo"
+}

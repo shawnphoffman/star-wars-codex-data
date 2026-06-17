@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "The Courtship of Princess Leia",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 8,
+    "startYear": 8
+  },
+  "releaseDate": "1994-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-courtship-of-princess-leia",
+  "title": "The Courtship of Princess Leia"
+}

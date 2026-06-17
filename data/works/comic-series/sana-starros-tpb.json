@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    }
+  ],
+  "displayTitle": "Sana Starros: Family Matters",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2023-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sana-starros-tpb",
+  "synopsis": "STARRING IN HER FIRST EVER SOLO SERIES! Fresh off of a string of disappointments, Sana Starros returns to her family’s ancestral home for some downtime. But family time is far from relaxing for a scoundrel and her family of ne’er do wells, especially when Stormtroopers crash dinner… Watch as JUSTINA IRELAND and PERE PEREZ bring Sana Starros to new heights!",
+  "title": "Sana Starros: Family Matters"
+}

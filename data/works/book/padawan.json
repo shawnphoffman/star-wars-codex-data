@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kiersten White",
+      "role": "writer",
+      "slug": "kiersten-white"
+    }
+  ],
+  "displayTitle": "Padawan",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093779"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093774"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 410,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368093779",
+      "isbn13": "9781368093774",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -41,
+    "startYear": -41
+  },
+  "releaseDate": "2022-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "padawan",
+  "synopsis": "Padawan Obi-Wan Kenobi finds himself on a planet he’s never been to, battling forces he does not understand. All the while, he continues to question whether or not the Jedi Order is really where he belongs.",
+  "title": "Padawan"
+}

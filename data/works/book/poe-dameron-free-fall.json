@@ -1,0 +1,49 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Alice X. Zhang",
+      "role": "coverArtist",
+      "slug": "alice-x-zhang"
+    }
+  ],
+  "displayTitle": "Poe Dameron: Free Fall",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368051669"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368051668"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368051669",
+      "isbn13": "9781368051668",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 19,
+    "startYear": 18
+  },
+  "releaseDate": "2020-08-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-free-fall",
+  "synopsis": "As a young aspiring pilot, Poe Dameron must explore the stars before he can discover where he truly belongs.",
+  "title": "Poe Dameron: Free Fall"
+}

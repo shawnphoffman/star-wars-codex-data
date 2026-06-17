@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: The Charhound Chase",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368104568"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368104562"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368104568",
+      "isbn13": "9781368104562",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-the-charhound-chase",
+  "synopsis": "Bell Zettifar’s best friend Ember is lost! Kai will need to learn to trust the Force as he searches for the beloved charhound.",
+  "title": "Young Jedi Adventures: The Charhound Chase"
+}

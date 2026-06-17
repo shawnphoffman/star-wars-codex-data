@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Rebels: Ezra's Gamble",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405275766"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405275767"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 154,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1405275766",
+      "isbn13": "9781405275767",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-ezras-gamble",
+  "synopsis": "Ezra finds himself working alongside the bounty hunter Bossk – a big risk he really hopes will pay off!",
+  "title": "Rebels: Ezra's Gamble"
+}

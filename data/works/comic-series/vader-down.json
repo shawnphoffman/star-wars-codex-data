@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Marvel Comics"
+  },
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    }
+  ],
+  "displayTitle": "Vader Down:",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2016-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vader-down",
+  "synopsis": "Today, Marvel is pleased to present your first look at STAR WARS: VADER DOWN #1 – the kickoff to the blockbuster six-part crossover. Chartbusting writers Jason Aaron (Star Wars, Doctor Strange) and Kieron Gillen (Darth Vader, Young Avengers) join forces with fan-favorite artists Mike Deodato (Original Sin) and Salvador Larroca (Darth Vader) to combine both titles in the mighty Marvel manner!",
+  "title": "Vader Down:"
+}

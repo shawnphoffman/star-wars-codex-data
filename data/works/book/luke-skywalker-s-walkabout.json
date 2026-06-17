@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Phill Norwood",
+      "role": "writer",
+      "slug": "phill-norwood"
+    }
+  ],
+  "displayTitle": "Luke Skywalker's Walkabout",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -6,
+    "startYear": -6
+  },
+  "releaseDate": "1999-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "luke-skywalker-s-walkabout",
+  "title": "Luke Skywalker's Walkabout"
+}

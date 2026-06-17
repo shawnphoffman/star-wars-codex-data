@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2023) #02",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic",
+  "releaseDate": "2023-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2023-02",
+  "synopsis": "This is the second issue of the Marvel Comics The High Republic (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series\nAT THE MERCY OF THE HUTTS!\nKEEVE TRENNIS captured! THE NIHIL allying themselves with THE HUTTS! An old foe returned!\nLines are drawn as past missions come back to haunt the JEDI of STARLIGHT BEACON!\nAnd all the while, a deadly hunter stalks the battlefield. But who…or what…is THE CHILD OF THE STORM?",
+  "title": "The High Republic (2023) #02"
+}

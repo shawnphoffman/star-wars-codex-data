@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "K.W. Jeter",
+      "role": "writer",
+      "slug": "k-w-jeter"
+    }
+  ],
+  "displayTitle": "Hard Merchandise",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 0
+  },
+  "releaseDate": "1999-07-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hard-merchandise",
+  "title": "Hard Merchandise"
+}

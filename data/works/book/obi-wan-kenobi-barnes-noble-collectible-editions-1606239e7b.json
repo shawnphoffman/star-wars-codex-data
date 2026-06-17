@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "displayTitle": "Tales of Kenobi (Barnes & Noble Collectible Editions)",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 22,
+    "startYear": -19
+  },
+  "releaseDate": "2022-09-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-barnes-noble-collectible-editions-1606239e7b",
+  "title": "Tales of Kenobi (Barnes & Noble Collectible Editions)"
+}

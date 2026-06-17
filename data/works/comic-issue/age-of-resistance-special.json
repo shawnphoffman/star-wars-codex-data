@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Age Of Resistance Special",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 33,
+    "startYear": -2
+  },
+  "parentWorkSlug": "age-of-resistance",
+  "releaseDate": "2019-07-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-resistance-special",
+  "synopsis": "Marvel's \"Age of\" series of one-shots continues with this collection of short comics about Admiral Holdo, Maz Kanata, and everyone's favorite ball droid–BB-8!",
+  "title": "Age Of Resistance Special"
+}

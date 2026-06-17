@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jane Mason",
+      "role": "writer",
+      "slug": "jane-mason"
+    }
+  ],
+  "displayTitle": "Adventure in Beggar's Canyon",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "1998-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventure-in-beggars-canyon",
+  "title": "Adventure in Beggar's Canyon"
+}

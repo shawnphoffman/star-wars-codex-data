@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett Junior Novel",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368092284"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368092289"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368092284",
+      "isbn13": "9781368092289",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "2023-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-book-of-boba-fett-junior-novel",
+  "synopsis": "Relive the events of Star Wars: The Book of Boba Fett in this novelization for young readers.",
+  "title": "The Book of Boba Fett Junior Novel"
+}

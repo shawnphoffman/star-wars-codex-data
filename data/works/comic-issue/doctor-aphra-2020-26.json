@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #26",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2022-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-26",
+  "synopsis": "Is the twenty-sixth issue of the Marvel Comics Doctor Aphra (2020) Series\nSANA STARROS and her allies have cornered the SPARK ETERNAL!\nShe's determined to bring DOCTOR APHRA back, no matter what it takes!\nBut will it be enough? Or will it destroy Sana, Aphra...and everyone they love?",
+  "title": "Doctor Aphra (2020) #26"
+}

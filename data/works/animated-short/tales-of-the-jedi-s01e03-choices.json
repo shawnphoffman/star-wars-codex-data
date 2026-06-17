@@ -1,0 +1,29 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Murray",
+      "role": "writer",
+      "slug": "charles-murray"
+    },
+    {
+      "name": "Elan Murray",
+      "role": "writer",
+      "slug": "elan-murray"
+    }
+  ],
+  "displayTitle": "Tales Of The Jedi S01E03: Choices",
+  "era": "fallOfTheJedi",
+  "format": "animatedShort",
+  "inUniverseDate": {
+    "endYear": -42,
+    "startYear": -42
+  },
+  "parentWorkSlug": "tales-of-the-jedi",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-s01e03-choices",
+  "synopsis": "Jedi Knights investigate the mysterious death of one of their own.",
+  "title": "Tales Of The Jedi S01E03: Choices"
+}

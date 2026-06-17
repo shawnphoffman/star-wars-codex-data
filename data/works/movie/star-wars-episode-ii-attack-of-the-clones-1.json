@@ -1,0 +1,40 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Jonathan Hales",
+      "role": "writer",
+      "slug": "jonathan-hales"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode II: Attack Of The Clones",
+  "era": "fallOfTheJedi",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "movie": {
+    "movieType": "theatrical"
+  },
+  "releaseDate": "2002-05-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-ii-attack-of-the-clones-1",
+  "synopsis": "In this novel adaption of the iconic Star Wars film, Jedi Obi-Wan Kenobi and Anakin Skywalker must protect Senator Padmé Amidala from danger – while also attempting to uncover the mystery behind who might want her dead.",
+  "title": "Episode II: Attack Of The Clones"
+}

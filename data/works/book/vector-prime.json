@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "R.A. Salvatore",
+      "role": "writer",
+      "slug": "r-a-salvatore"
+    }
+  ],
+  "displayTitle": "Vector Prime",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 25,
+    "startYear": 25
+  },
+  "releaseDate": "1999-10-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vector-prime",
+  "title": "Vector Prime"
+}

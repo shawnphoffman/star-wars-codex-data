@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Judd Winick",
+      "role": "writer",
+      "slug": "judd-winick"
+    }
+  ],
+  "displayTitle": "A Valentine Story",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2003-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-valentine-story",
+  "title": "A Valentine Story"
+}

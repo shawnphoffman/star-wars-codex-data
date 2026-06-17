@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Codebreaker #03",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "hyperspace-stories-codebreaker-trade-paperback",
+  "releaseDate": "2025-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-codebreaker-03",
+  "synopsis": "Issue 3 of 4 from the Dark Horse Comics Hyperspace Stories Codebrecker miniseries\nThe First Order searches high and low for Poe and BB-8 after the heroes' daring escape! Can the pair make it off world without being captured?",
+  "title": "Hyperspace Stories: Codebreaker #03"
+}

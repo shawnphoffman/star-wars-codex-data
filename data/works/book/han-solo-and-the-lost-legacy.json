@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    }
+  ],
+  "displayTitle": "Han Solo and the Lost Legacy",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "1980-08-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-and-the-lost-legacy",
+  "title": "Han Solo and the Lost Legacy"
+}

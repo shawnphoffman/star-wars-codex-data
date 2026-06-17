@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Conviction",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2011-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "conviction",
+  "title": "Conviction"
+}

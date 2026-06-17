@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #28",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-4-trade-paperback",
+  "releaseDate": "2022-10-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-28",
+  "synopsis": "This is the twenty-eighth issue of the Marvel Comics Darth Vader (2020) Series\nTHE SHADOW IN THE FIRE! For decades, Sabé, Handmaiden of Padmé, schemed to assassinate Darth Vader, whom she believed murdered her queen but Sabé has learned Vader's greatest secret, and now she fights at his side, believing that someday, she may prove there is still good in him. What happens when the Handmaiden finally comes face-to-face with the Emperor, who knows all of her secrets? The Queen's Shadow enters the crucible! Will Vader let her burn?",
+  "title": "Darth Vader (2020) #28"
+}

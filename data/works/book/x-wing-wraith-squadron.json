@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "X-Wing: Wraith Squadron",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 7,
+    "startYear": 7
+  },
+  "releaseDate": "1998-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-wraith-squadron",
+  "title": "X-Wing: Wraith Squadron"
+}

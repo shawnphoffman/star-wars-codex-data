@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    }
+  ],
+  "displayTitle": "The High Republic: Race To Crashpoint Tower",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368060668"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368060660"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368060668",
+      "isbn13": "9781368060660",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "releaseDate": "2021-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-junior-novel-2",
+  "synopsis": "The Republic Fair is in trouble – and Jedi Padawan Ram Jomaram has to warn the Jedi before it’s too late!",
+  "title": "The High Republic: Race To Crashpoint Tower"
+}

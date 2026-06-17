@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 03: The Hidden Past",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590519335"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 138,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590519335",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -44,
+    "startYear": -44
+  },
+  "releaseDate": "1999-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz102",
+  "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves trapped on a dangerous planet, where they must rely on each other for hope – and survival.",
+  "title": "Jedi Apprentice 03: The Hidden Past"
+}

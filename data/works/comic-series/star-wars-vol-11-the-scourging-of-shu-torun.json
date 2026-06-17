@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Vol. 11: The Scourging of Shu-Torun",
+  "era": "ageOfRebellion",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2019-08-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-vol-11-the-scourging-of-shu-torun",
+  "synopsis": "In this volume, Leia is out for revenge on Queen Trios.  With Trios' betrayal of the Rebellion to Vader responsible for a major loss to the Rebels, Leia wants Trios to know that she is behind this attack.",
+  "title": "Star Wars (2015) Vol. 11: The Scourging of Shu-Torun"
+}

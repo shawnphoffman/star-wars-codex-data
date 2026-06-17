@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593726051"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593726051",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1032,
+    "startYear": -1032
+  },
+  "releaseDate": "2011-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant",
+  "synopsis": "Jedi Kerra Holt must team up with her enemy’s allies if she has any hope of defeating the Sith Lords threatening not just the Order, but the entire galaxy.",
+  "title": "Knight Errant"
+}

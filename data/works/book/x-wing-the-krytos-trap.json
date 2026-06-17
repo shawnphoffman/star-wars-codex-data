@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing: The Krytos Trap",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 7,
+    "startYear": 7
+  },
+  "releaseDate": "1996-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-the-krytos-trap",
+  "title": "X-Wing: The Krytos Trap"
+}

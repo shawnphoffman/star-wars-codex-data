@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "Ahsoka #8",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "parentWorkSlug": "ahsoka-season-one-trade-paperback",
+  "releaseDate": "2025-02-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka-8",
+  "synopsis": "Issue 8 of 8 from the Marvel Comic Ahsoka Adaptation miniseries\nTHE JEDI, THE WITCH, AND THE WARLORD! The heroes race to prevent Grand Admiral Thrawn's escape!",
+  "title": "Ahsoka #8"
+}

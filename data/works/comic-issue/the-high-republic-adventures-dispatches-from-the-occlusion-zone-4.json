@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #4",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-dispatches-from-the-occlusion-zonethe-high-republic-adventures-dispatches-from-the-occlusion-zone-trade-paperback",
+  "releaseDate": "2025-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone-4",
+  "synopsis": "Issue 4 of 4 from Dark Horse Comics The High Republic\nAs calls for help make their way across the Stormwall, the Marshal of the Republic Fleet turns to an unlikely ally: former Jedi Ty Yorrick! But can the maverick saber-for-hire be trusted when she encounters an old enemy on the ravaged plains of Dalna?",
+  "title": "The High Republic Adventures: Dispatches from the Occlusion Zone #4"
+}

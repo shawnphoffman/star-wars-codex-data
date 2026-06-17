@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Christopher Cantwell",
+      "role": "writer",
+      "slug": "christopher-cantwell"
+    },
+    {
+      "name": "Adriana Melo",
+      "role": "artist",
+      "slug": "adriana-melo"
+    }
+  ],
+  "displayTitle": "Obi-Wan #5",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "obi-wan",
+  "releaseDate": "2022-09-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-5",
+  "synopsis": "The fifth issue of the Marvel Comics Obi-Wan Mini-Series\nObi-Wan has closed his journals for now and looks ahead as night falls and the sandstorm that has sequestered him begins to clear. But he discovers something unexpected in the hazards of the Jundland Wastes…a squad of ambushed stormtroopers left to die.But one still has a fighting chance…and Obi-Wan may very well risk everything to save a single injured imperial stormtrooper that can't help but remind Kenobi of the clones he served with so long ago.",
+  "title": "Obi-Wan #5"
+}

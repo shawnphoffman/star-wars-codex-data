@@ -1,0 +1,36 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "displayTitle": "The Last Command",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553093258"
+    },
+    {
+      "type": "isbn13",
+      "value": "978-0553093254"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 406,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553093258",
+      "isbn13": "9780553093254",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "releaseDate": "1993-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-command",
+  "synopsis": "Grand Admiral Thrawn launches his final campaign against the New Republic while a cloned Dark Jedi prepares to claim Leia's unborn twins.",
+  "title": "The Last Command"
+}

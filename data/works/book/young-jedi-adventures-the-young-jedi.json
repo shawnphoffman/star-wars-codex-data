@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Young Jedi Adventures: The Young Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "136809337X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093378"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "136809337X",
+      "isbn13": "9781368093378",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -233,
+    "startYear": -233
+  },
+  "releaseDate": "2023-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-adventures-the-young-jedi",
+  "synopsis": "An early reader storybook about three Jedi younglings and their wild adventures as they begin the first steps of their training.",
+  "title": "Young Jedi Adventures: The Young Jedi"
+}

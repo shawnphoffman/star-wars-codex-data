@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "L. Neil Smith",
+      "role": "writer",
+      "slug": "l-neil-smith"
+    }
+  ],
+  "displayTitle": "Lando Calrissian and the Flamewind of Oseon",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3,
+    "startYear": -3
+  },
+  "releaseDate": "1983-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-calrissian-and-the-flamewind-of-oseon",
+  "title": "Lando Calrissian and the Flamewind of Oseon"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Grek Pak",
+      "role": "writer",
+      "slug": "grek-pak"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Age Of Rebellion: Darth Vader",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -2
+  },
+  "parentWorkSlug": "aor-villans",
+  "releaseDate": "2019-06-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-vader",
+  "synopsis": "A New Hope presents Vader as a formidable villain who's not afraid to get his hands dirty—infiltrating Rebel ships in the thick of the action, getting behind the yoke of a ship to shoot down the good guys, going to-to-toe with Obi-Wan Kenobi. But, well, there's one scene that just doesn't quite fit. Remember when Vader's first on-screen Forcs choke? He wins the argument in the Death Star's boardroom against a mouthy Admiral Tagge. But then he's talked down by Grabd Moff Tarkin! What is Vafer doing taking orders from a beaurocrat? Age of Rebellion: Darth Vader explores Vader's place in the Empire's hierarchy.",
+  "title": "Age Of Rebellion: Darth Vader"
+}

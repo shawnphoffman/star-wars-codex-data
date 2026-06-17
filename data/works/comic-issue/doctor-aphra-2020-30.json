@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #30",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2023-04-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-30",
+  "synopsis": "Is the thirtieth  issue of the Marvel Comics Doctor Aphra (2020) Series\nTHE CONCLUSION OF THE BATTLE FOR THE SPARK ETERNAL!\nAs DOCTOR APHRA fights for her life, she faces a dire question:\nEven IF she triumphs over the Spark, will there be enough left of Aphra to piece herself back together?",
+  "title": "Doctor Aphra (2020) #30"
+}

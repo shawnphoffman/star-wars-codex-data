@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice 07: The Captive Temple",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590519700"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590519700",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -44,
+    "startYear": -44
+  },
+  "releaseDate": "2000-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz106",
+  "synopsis": "An attack on the Jedi Temple has left Qui-Gon Jinn and Obi-Wan Kenobi in charge of figuring out what’s really going on.",
+  "title": "Jedi Apprentice 07: The Captive Temple"
+}

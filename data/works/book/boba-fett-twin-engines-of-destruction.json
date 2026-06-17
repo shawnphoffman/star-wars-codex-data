@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Andy Mangels",
+      "role": "writer",
+      "slug": "andy-mangels"
+    }
+  ],
+  "displayTitle": "Boba Fett: Twin Engines of Destruction",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-twin-engines-of-destruction",
+  "title": "Boba Fett: Twin Engines of Destruction"
+}

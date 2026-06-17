@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #07",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-1-tpb",
+  "releaseDate": "2021-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-07",
+  "synopsis": "The High Republic 7 is the seventh issue of the canon comic book series Star Wars: The High Republic.\nKEEVE TRENNIS has put everything on the line to save her former master, but the scars run deep.\nAs AVAR KRISS summons a task force to deal with the DRENGIR THREAT, a desperate NIHIL REMNANT attacks a distant outpost. Can Keeve fight back the shadows long enough to stand for light and life? Guest-starring ORLA JARENI, Jedi Wayseeker.",
+  "title": "The High Republic (2021) #07"
+}

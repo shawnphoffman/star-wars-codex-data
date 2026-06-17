@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars Resistance: Triples Ténèbres",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2011183405"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782011183408"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "isbn10": "2011183405",
+      "isbn13": "9782011183408",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-resistance-triples-tenebres",
+  "synopsis": "Kaz receives his first mission on the Colossus – but he has no idea how to do what Yeager is asking him to accomplish.",
+  "title": "Star Wars Resistance: Triples Ténèbres"
+}

@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "artist",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Letterer Chris Eliopoulos",
+      "role": "artist",
+      "slug": "letterer-chris-eliopoulos"
+    },
+    {
+      "name": "Colorist Laura Martin",
+      "role": "artist",
+      "slug": "colorist-laura-martin"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #01: Skywalker Strikes",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-vol-3",
+  "releaseDate": "2015-01-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1-1",
+  "synopsis": "THE GREATEST SPACE ADVENTURE OF ALL TIME RETURNS TO MARVEL! Luke Skywalker and the ragtag band of rebels fighting against the Galactic Empire are fresh off their biggest victory yet-the destruction of the massive battle station known as the Death Star. But the Empire's not toppled yet! Join Luke along with Princess Leia, smugglers Han Solo and Chewbacca, droids C-3PO and R2-D2 and the rest of the Rebel Alliance as they strike out for freedom against the evil forces of Darth Vader and his master, the Emperor. Written by Jason Aaron (Original Sin, Thor: God of Thunder) and with art by John Cassaday (Astonishing X-Men, Uncanny Avengers), this is the Star Wars saga as only Marvel Comics could make it!",
+  "title": "Star Wars (2015) #01: Skywalker Strikes"
+}

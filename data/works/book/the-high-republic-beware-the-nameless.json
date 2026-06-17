@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "displayTitle": "The High Republic: Beware the Nameless",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368095194"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368095198"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368095194",
+      "isbn13": "9781368095198",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "releaseDate": "2024-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-beware-the-nameless",
+  "synopsis": "A group of Jedi younglings find themselves on a dangerous mission … with a Hutt?!",
+  "title": "The High Republic: Beware the Nameless"
+}

@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    }
+  ],
+  "displayTitle": "Jedi Knights #04",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -34,
+    "startYear": -34
+  },
+  "parentWorkSlug": "jedi-knights-vol-1-trade-paperback",
+  "releaseDate": "2025-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-knights-04",
+  "synopsis": "Fourth issue from Marvel Comics Jedi Knights Series\nTHE GALACTIC CHASE TO END ALL CHASES!\nPHAEDRA (from HAN SOLO & CHEWBACCA) has stolen thousands of credits from JABBA THE HUTT and now AURRA SING, ZAM WESELL, BANE MALAR and the entire galaxy is after her……including JEDI KNIGHTS QUI-GON JINN and SHAAK TI! Guest-starring: JANGO FETT!",
+  "title": "Jedi Knights #04"
+}

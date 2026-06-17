@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Sabine's Art Attack",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484704916"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704912"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484704916",
+      "isbn13": "9781484704912",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "sabines-art-attack",
+  "synopsis": "Sabine uses her skills and her art to take down a group of stormtroopers all by herself.",
+  "title": "Sabine's Art Attack"
+}

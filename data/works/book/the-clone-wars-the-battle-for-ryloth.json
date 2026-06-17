@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Zachary Rau",
+      "role": "writer",
+      "slug": "zachary-rau"
+    }
+  ],
+  "displayTitle": "The Clone Wars: The Battle For Ryloth",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-battle-for-ryloth",
+  "title": "The Clone Wars: The Battle For Ryloth"
+}

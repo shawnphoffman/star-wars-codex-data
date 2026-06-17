@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Davids",
+      "role": "writer",
+      "slug": "paul-davids"
+    },
+    {
+      "name": "Hollace Davids",
+      "role": "writer",
+      "slug": "hollace-davids"
+    }
+  ],
+  "displayTitle": "The Glove of Darth Vader",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "1992-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-glove-of-darth-vader",
+  "title": "The Glove of Darth Vader"
+}

@@ -1,0 +1,44 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tara Phillips",
+      "role": "coverArtist",
+      "slug": "tara-phillips"
+    }
+  ],
+  "displayTitle": "Queen's Shadow",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368024254"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368024259"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368024254",
+      "isbn13": "9781368024259",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -28,
+    "startYear": -28
+  },
+  "releaseDate": "2019-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "queens-shadow",
+  "synopsis": "Padme Amidala isn’t a queen anymore. She must adapt to a new planet, a new position in the senate, and unfamiliar politics without knowing whom she can really trust.",
+  "title": "Queen's Shadow"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mary Jo Duffy",
+      "role": "writer",
+      "slug": "mary-jo-duffy"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #87: Still Active After All These Years",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1984-05-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-87-still-active-after-all-these-years",
+  "title": "Star Wars (1977) #87: Still Active After All These Years"
+}

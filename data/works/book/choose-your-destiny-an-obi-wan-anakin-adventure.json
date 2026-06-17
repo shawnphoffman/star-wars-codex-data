@@ -1,0 +1,49 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "artist",
+      "slug": "elsa-charretier"
+    }
+  ],
+  "displayTitle": "Choose Your Destiny: An Obi-Wan & Anakin Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368043372"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368043373"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368043372",
+      "isbn13": "9781368043373",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -27,
+    "startYear": -27
+  },
+  "releaseDate": "2019-03-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "choose-your-destiny-an-obi-wan-anakin-adventure",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker need your help! The choices you make will determine how this Star Wars adventure ends.",
+  "title": "Choose Your Destiny: An Obi-Wan & Anakin Adventure"
+}

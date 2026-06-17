@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Outgunned",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "outgunned",
+  "title": "Outgunned"
+}

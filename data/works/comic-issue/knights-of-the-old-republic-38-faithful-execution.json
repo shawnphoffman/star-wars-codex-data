@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #38: Faithful Execution",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3963,
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-7-duelling-ambitions-graphic-novel",
+  "releaseDate": "2009-02-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-38-faithful-execution",
+  "title": "Knights of the Old Republic #38: Faithful Execution"
+}

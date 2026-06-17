@@ -1,0 +1,34 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "R2-D2 is LOST!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368053289"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368053280"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368053289",
+      "isbn13": "9781368053280",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "r2-d2-is-lost",
+  "synopsis": "On Endor, there is plenty for C-3PO, R2-D2, and BB-8 to explore. But everything starts to go terribly wrong when R2 finds himself lost and separated from his friends.",
+  "title": "R2-D2 is LOST!"
+}

@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Alice X. Zhang",
+      "role": "coverArtist",
+      "slug": "alice-x-zhang"
+    }
+  ],
+  "displayTitle": "Master and Apprentice",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780525619376"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 330,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780525619376",
+      "kind": "print"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -40,
+    "startYear": -40
+  },
+  "releaseDate": "2019-04-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "master-and-apprentice",
+  "synopsis": "Obi-Wan Kenobi and Qui-Gon Jinn are requested for a special mission — even as the Padawan doubts whether or not he and his master are a good fit.",
+  "title": "Master and Apprentice"
+}

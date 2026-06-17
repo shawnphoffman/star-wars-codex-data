@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #01",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2020-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-1",
+  "synopsis": "Fortune and Fate Part 1: The Rings of Vaale,\nDoctor Aphra (2020) #01 is the first issue of the canon comic book series Star Wars: Doctor Aphra. It is set after the conclusion of the 2016 Doctor Aphra series.\nNEW CREW, NEW MISSION! With the Rebel Alliance back on the run after their defeat at the Battle of Hoth, it's never been a more dangerous time for outlaws, scoundrels and the errant rogue archaeologist to make their way in the galaxy. But after a string of bad luck and near escapes, DOCTOR APHRA is back on the job! She's been keeping a low profile – jobs are scarce and credits scarcer. But the promise of the score of a lifetime is a chance too good for her to pass up. And to find the cursed RINGS OF VAALE, Aphra will need a crew of treasure hunters the likes of which the galaxy has never seen before! But RONEN TAGGE, heir to the powerful Tagge family, also has his eyes on the prize. Do Aphra and her team stand a chance at fortune and glory?",
+  "title": "Doctor Aphra (2020) #01"
+}

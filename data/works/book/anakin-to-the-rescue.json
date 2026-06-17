@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Cecilia Venn",
+      "role": "writer",
+      "slug": "cecilia-venn"
+    }
+  ],
+  "displayTitle": "Anakin to the Rescue",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "releaseDate": "1999-05-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "anakin-to-the-rescue",
+  "title": "Anakin to the Rescue"
+}

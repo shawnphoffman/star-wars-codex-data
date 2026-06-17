@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "Bloodlines",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 40,
+    "startYear": 40
+  },
+  "releaseDate": "2006-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bloodlines",
+  "title": "Bloodlines"
+}

@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Aaron McBride",
+      "role": "coverArtist",
+      "slug": "aaron-mcbride"
+    }
+  ],
+  "displayTitle": "Dooku: Jedi Lost",
+  "era": "fallOfTheJedi",
+  "format": "audioDrama",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -90
+  },
+  "releaseDate": "2019-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dooku-jedi-lost",
+  "synopsis": "Every fallen Jedi begins their journey with the Jedi Order. Dooku’s past will finally explain how he came to serve the dark side of the Force instead.",
+  "title": "Dooku: Jedi Lost"
+}

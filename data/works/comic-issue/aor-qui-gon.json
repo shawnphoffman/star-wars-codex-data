@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Corey Smith",
+      "role": "artist",
+      "slug": "corey-smith"
+    }
+  ],
+  "displayTitle": "Age Of Republic: Qui-Gon Jinn",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -37,
+    "startYear": -37
+  },
+  "parentWorkSlug": "age-of-republic",
+  "releaseDate": "2018-12-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-qui-gon",
+  "synopsis": "Qui-Gon is a rebellious Jedi who doesn’t do things by the book, and this issue shows his attempt to bring peace on a planet in an unconventional way.",
+  "title": "Age Of Republic: Qui-Gon Jinn"
+}

@@ -1,0 +1,41 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Huddleston",
+      "role": "writer",
+      "slug": "tom-huddleston"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    },
+    {
+      "name": "Lucy Ruth Cummins",
+      "role": "coverArtist",
+      "slug": "lucy-ruth-cummins"
+    }
+  ],
+  "displayTitle": "Adventures in Wild Space: The Dark (Book 4)",
+  "editions": [
+    {
+      "imprint": "Disney Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -18
+  },
+  "releaseDate": "2017-08-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "adventures-in-wild-space-the-darkness-book-4",
+  "synopsis": "Milo and Lina are adrift on a starship that is spiralling towards disaster. A dangerous criminal is on the loose, the Empire is closing in—and something even deadlier awaits them in THE DARK….",
+  "title": "Adventures in Wild Space: The Dark (Book 4)"
+}

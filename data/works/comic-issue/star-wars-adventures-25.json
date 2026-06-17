@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Margaux Saltel",
+      "role": "artist",
+      "slug": "margaux-saltel"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #25 - The Right Wrong Turn",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-5",
+  "releaseDate": "2019-09-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-25",
+  "synopsis": "In this story set before A NEW HOPE, Princess Leia Organa faces the most challenging task of her young life: teaching Amilyn Holdo how to drive a speeder! But both learn an important lesson after finding themselves in the dangerous lower levels of Coruscant.",
+  "title": "Star Wars Adventures (2017) #25 - The Right Wrong Turn"
+}

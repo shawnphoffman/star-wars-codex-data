@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Jango Fett #2",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -32,
+    "startYear": -32
+  },
+  "parentWorkSlug": "jango-fett-graphic-novel",
+  "releaseDate": "2024-04-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett-2",
+  "synopsis": "Issue 2 of 4 from Marvel Comics Jango Fett miniseries\nTHE GREATEST BOUNTY HUNTER IN THE GALAXY IN THE CROSSHAIRS OF A DANGEROUS RIVAL!\nJANGO FETT is after a stolen artifact at the center of a planetwide war!\nBut the hunter is being hunted by the notorious AURRA SING!\nWhat is the secret conspiracy that threatens them all?",
+  "title": "Jango Fett #2"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    }
+  ],
+  "displayTitle": "Rebels: The Inquisitor's Trap",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-the-inquisitors-trap",
+  "synopsis": "When the rebels receive a secret broadcast, they discover that one of the great Jedi Masters is still alive-and a captive of the Empire! To save her, Kanan, Ezra, and their friends must break into her heavily guarded prison. Can they find the lost Jedi? Or will the Inquisitor find them first?",
+  "title": "Rebels: The Inquisitor's Trap"
+}

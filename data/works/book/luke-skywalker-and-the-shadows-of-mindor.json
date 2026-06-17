@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Stover",
+      "role": "writer",
+      "slug": "matthew-stover"
+    }
+  ],
+  "displayTitle": "Luke Skywalker and the Shadows of Mindor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 5
+  },
+  "releaseDate": "2008-12-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "luke-skywalker-and-the-shadows-of-mindor",
+  "title": "Luke Skywalker and the Shadows of Mindor"
+}

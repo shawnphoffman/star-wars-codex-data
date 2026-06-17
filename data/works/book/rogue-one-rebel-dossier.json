@@ -1,0 +1,24 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "Rogue One: Rebel Dossier",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2016-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-one-rebel-dossier",
+  "synopsis": "Rogue One: Rebel Dossier is a Disney–Lucasfilm Press title based on the film Rogue One: A Star Wars Story. A dossier of Rebel Alliance activities, it is 64 pages long and was released on December 16, 2016. It was also released in Canada, Australia, New Zealand and United Kingdom by Egmont UK Ltd and Hardie Grant Egmont under the title Star Wars Rogue One: Mission Files.",
+  "title": "Rogue One: Rebel Dossier"
+}

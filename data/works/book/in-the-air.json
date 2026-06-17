@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "In the Air",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2010-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "in-the-air",
+  "title": "In the Air"
+}

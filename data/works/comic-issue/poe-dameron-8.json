@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #08: The Gathering Storm, Part I",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-2",
+  "releaseDate": "2016-11-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-8",
+  "synopsis": "NEW STORY ARC STARTS HERE! Agent Terex has sworn vengeance against Poe Dameron! But how does he always seem to know what Black Squadron is doing? Could there truly be a traitor in their midst?",
+  "title": "Poe Dameron #08: The Gathering Storm, Part I"
+}

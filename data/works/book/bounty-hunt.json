@@ -1,0 +1,44 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katrina Pallant",
+      "role": "writer",
+      "slug": "katrina-pallant"
+    }
+  ],
+  "displayTitle": "Bounty Hunt",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368003052"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368003056"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 272,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368003052",
+      "isbn13": "9781368003056",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -1
+  },
+  "releaseDate": "2016-04-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunt",
+  "synopsis": "Return to Tatooine with the renowned bounty hunter Bossk and learn all about the planet, its places, creatures, and secrets.",
+  "title": "Bounty Hunt"
+}

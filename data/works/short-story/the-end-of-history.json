@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The End Of History",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -10
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2014-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-end-of-history",
+  "synopsis": "\"The End of History\" is a canon short story which is included in Star Wars Insider 154. It is written by Alexander Freed and is illustrated by Chris Scalf.\nWhen Miru Nadrinakar, a member of the Corellian Resistance, crashes on a Geonosian colony world, Antron Bach, an antique dealer in-hiding, must decide whether to help her escape the Galactic Empire or to protect the Jedi artifacts he has kept safe since the Jedi Order's destruction.",
+  "title": "The End Of History"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Old Republic: The Lost Suns #3",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3643,
+    "startYear": -3643
+  },
+  "releaseDate": "2011-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-the-lost-suns-3",
+  "title": "The Old Republic: The Lost Suns #3"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "I, Jedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 11
+  },
+  "releaseDate": "1998-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "i-jedi",
+  "title": "I, Jedi"
+}

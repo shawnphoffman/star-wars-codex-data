@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    }
+  ],
+  "displayTitle": "Coruscant Nights III: Patterns of Force",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -19
+  },
+  "releaseDate": "2009-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "coruscant-nights-iii-patterns-of-force",
+  "title": "Coruscant Nights III: Patterns of Force"
+}

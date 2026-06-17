@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "K.W. Jeter",
+      "role": "writer",
+      "slug": "k-w-jeter"
+    }
+  ],
+  "displayTitle": "The Mandalorian Armor",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 0
+  },
+  "releaseDate": "1998-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-armor",
+  "title": "The Mandalorian Armor"
+}

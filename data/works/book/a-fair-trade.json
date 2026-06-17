@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul S. Kemp",
+      "role": "writer",
+      "slug": "paul-s-kemp"
+    }
+  ],
+  "displayTitle": "A Fair Trade",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 38,
+    "startYear": 38
+  },
+  "releaseDate": "2011-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-fair-trade",
+  "title": "A Fair Trade"
+}

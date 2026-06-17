@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Beth Revis",
+      "role": "writer",
+      "slug": "beth-revis"
+    }
+  ],
+  "displayTitle": "The Princess and the Scoundrel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593498491"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593498491",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2022-08-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-princess-and-the-scoundrel-989465a4f3",
+  "synopsis": "The Rebel Alliance has scored a major victory over the Empire, but the war isn’t over yet. Han Solo and Princess Leia have an important mission to fulfill. But first – their wedding.",
+  "title": "The Princess and the Scoundrel"
+}

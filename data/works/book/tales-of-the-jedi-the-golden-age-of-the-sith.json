@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: The Golden Age of the Sith",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5000,
+    "startYear": -5000
+  },
+  "releaseDate": "1997-08-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-the-golden-age-of-the-sith",
+  "title": "Tales of the Jedi: The Golden Age of the Sith"
+}

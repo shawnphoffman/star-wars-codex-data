@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "Drone Alone",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "2014-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "drone-alone",
+  "title": "Drone Alone"
+}

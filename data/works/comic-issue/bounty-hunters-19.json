@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "artist",
+      "slug": "ramon-bachs"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #19",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2021-12-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-19",
+  "synopsis": "Is the nineteenth issue of the canon comic book series Star Wars: Bounty Hunters.\nCHAOS SPREADS THROUGH THE UNDERWORLD!\nAs Crimson Reign has ignited the underworld in all-out war, T'ONGA's team of bounty hunters – including BOSSK, ZUCKUSS and TASU LEECH – are running out of time to save the one young girl who can stop the conflict between syndicates!\nA mysterious bounty hunter is out to assassinate a high ranking Imperial officer in a daring hit on a heavily armed cruiser. But was the hunter given the right target?",
+  "title": "Bounty Hunters #19"
+}

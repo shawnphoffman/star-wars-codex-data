@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    },
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
+  "displayTitle": "Death Star",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": -3
+  },
+  "releaseDate": "2007-10-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "death-star",
+  "title": "Death Star"
+}

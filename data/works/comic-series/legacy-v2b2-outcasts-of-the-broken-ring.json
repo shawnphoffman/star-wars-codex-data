@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    }
+  ],
+  "displayTitle": "Legacy Volume 2 Book 2: Outcasts of the Broken Ring",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 138,
+    "startYear": 138
+  },
+  "releaseDate": "2014-06-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-v2b2-outcasts-of-the-broken-ring",
+  "title": "Legacy Volume 2 Book 2: Outcasts of the Broken Ring"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    }
+  ],
+  "displayTitle": "Allies",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2010-05-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "allies",
+  "title": "Allies"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    }
+  ],
+  "displayTitle": "Star Wars Volume 1: In The Shadow Of Yavin",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2013-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starwars-2013-v1",
+  "title": "Star Wars Volume 1: In The Shadow Of Yavin"
+}

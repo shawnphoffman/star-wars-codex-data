@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "graphicNovel",
+    "imprint": "Dark Horse Comics"
+  },
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "artist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Ornella Savarese",
+      "role": "artist",
+      "slug": "ornella-savarese"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: The Nameless Terror",
+  "era": "highRepublic",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "releaseDate": "2023-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-the-nameless-terror-trade-paperback",
+  "synopsis": "Even in the shining light of the High Republic, there are shadows lurking in the galaxy.",
+  "title": "The High Republic Adventures: The Nameless Terror"
+}

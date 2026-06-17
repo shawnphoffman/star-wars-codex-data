@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2022) #05",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -382,
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-2022-v-balance-of-the-force-trade-paperback",
+  "releaseDate": "2023-02-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2022-05",
+  "synopsis": "The fifth issue of the Marvel comic book series Star Wars: The High Republic (2022) from Phase 2 of The High Republic\nAs the Herald of the Open Hand stokes the fires of Jedha, Vildar Mac and Matty Cathley are overcome by uncontrollable fear.\nTey Sirrek is a prisoner of the Guardians of the Whills. Can he use the chaos to escape?\nAnd who are the mysterious strangers ransacking the Temple of the Kyber? Is nowhere safe?",
+  "title": "The High Republic (2022) #05"
+}

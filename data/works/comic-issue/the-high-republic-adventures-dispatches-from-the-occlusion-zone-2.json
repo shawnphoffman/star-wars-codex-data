@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Valeria \"Lux\" Favoccia",
+      "role": "artist",
+      "slug": "valeria-lux-favoccia"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #2",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-dispatches-from-the-occlusion-zonethe-high-republic-adventures-dispatches-from-the-occlusion-zone-trade-paperback",
+  "releaseDate": "2024-11-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone-2",
+  "synopsis": "Issue 2 of 4 from Dark Horse Comics The High Republic Adventures Dispatches from the Occlusion Zone miniseries\nWhen an important Republic droid is captured by the ruthless Nihil commander called the Warden, Crash Ongwa sends Jedi Padawan turned freedom fighter Ruu to rescue it from the Warden's clutches. Meanwhile, teenage Nihil member Driggit Parse is tasked with hacking the droid, but she just might have her own ideas about how to use it…",
+  "title": "The High Republic Adventures: Dispatches from the Occlusion Zone #2"
+}

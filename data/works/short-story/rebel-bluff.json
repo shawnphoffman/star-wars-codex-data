@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Rebel Bluff",
+  "era": "reignOfTheEmpire",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2015-06-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-bluff",
+  "synopsis": "\"Rebel Bluff\" is a short story by Michael Kogge that was published in Star Wars Insider 158. The story features Lando Calrissian and is set after his appearance in the first season of the animated television series Star Wars Rebels.",
+  "title": "Rebel Bluff"
+}

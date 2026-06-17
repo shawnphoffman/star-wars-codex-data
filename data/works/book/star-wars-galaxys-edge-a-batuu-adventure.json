@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Star Wars: Galaxy's Edge: A Batuu Adventure!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736445269"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn13": "9780736445269",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "star-wars-galaxys-edge-a-batuu-adventure",
+  "synopsis": "What begins as a simple refueling stop quickly turns into an epic Batuu adventure no one will forget.",
+  "title": "Star Wars: Galaxy's Edge: A Batuu Adventure!"
+}

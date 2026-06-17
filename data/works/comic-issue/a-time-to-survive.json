@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Ruairí Coleman",
+      "role": "artist",
+      "slug": "ruairi-coleman"
+    }
+  ],
+  "displayTitle": "A Time to Survive",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -3,
+    "startYear": -3
+  },
+  "parentWorkSlug": "star-wars-rebels-trade-paperback",
+  "releaseDate": "2017-01-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-time-to-survive",
+  "synopsis": "\"A Time to Survive\" (German title \"Überlebenskampf\") is a comic strip written by Martin Fisher, drawn by Ruairí Coleman and edited by Gunther Nickel. The story was published in the 27th issue of the German Star Wars Rebels Magazine, which was released on January 18, 2017.\nFisher placed this comic between \"Homecoming\" and \"The Honorable Ones\".\nIt has never received an official English translation.",
+  "title": "A Time to Survive"
+}

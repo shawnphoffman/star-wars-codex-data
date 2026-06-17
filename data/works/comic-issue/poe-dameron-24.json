@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "artist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #24: Legend Found, Part V",
+  "era": "riseOfTheFirstOrder",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-4",
+  "releaseDate": "2018-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-24",
+  "synopsis": "Lor San Tekka has been captured…again! And it's up to Black Squadron to save him. Meanwhile, Terex has his own plans in motion…to finally free himself from the grasp of the First Order!",
+  "title": "Poe Dameron #24: Legend Found, Part V"
+}

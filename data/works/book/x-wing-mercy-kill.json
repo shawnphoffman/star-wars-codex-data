@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "X-Wing: Mercy Kill",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2012-08-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-mercy-kill",
+  "title": "X-Wing: Mercy Kill"
+}

@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "graphicNovel"
+  },
+  "creators": [
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    }
+  ],
+  "displayTitle": "Legacy Volume 2 Book 3: Wanted: Ania Solo",
+  "format": "comicSeries",
+  "inUniverseDate": {
+    "endYear": 139,
+    "startYear": 139
+  },
+  "releaseDate": "2014-08-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-v2b3-ania-solo",
+  "title": "Legacy Volume 2 Book 3: Wanted: Ania Solo"
+}

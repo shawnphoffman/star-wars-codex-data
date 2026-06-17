@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 22: Fortress Vader Part IV",
+  "era": "reignOfTheEmpire",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -14
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "releaseDate": "2018-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-22-fortress-vader-4",
+  "synopsis": "\"FORTRESS VADER\" continues! The Tale of LORD MOMIN! Plans are drawn…a foundation is laid…and darkness rises on MUSTAFAR!",
+  "title": "Darth Vader: Dark Lord of the Sith 22: Fortress Vader Part IV"
+}

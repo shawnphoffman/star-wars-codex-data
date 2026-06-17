@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    }
+  ],
+  "displayTitle": "The High Republic: Fear of the Jedi #1",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -228,
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-fear-of-the-jedi-trade-paperback",
+  "releaseDate": "2025-02-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-fear-of-the-jedi-1",
+  "synopsis": "First issue of Marvel Comics The High Republic: Fear of the Jedi Miniseries\nWHAT SCARES THE JEDI?\nNew York Times Best-selling author Cavan Scott (Venom: Zombiotes, Union Jack the Ripper) returns with artist Marika Cresta (DOCTOR APHRA, CAPTAIN CARTER) for the galaxy-shattering final arc of Star Wars: The High Republic. As fighting within the Nihil Occlusion Zone intensifies, Jedi Master Keeve Trennis is set upon a path that will change her life forever. Guest-starring The Acolyte's Wookiee Jedi Master Kelnacca alongside fan-favorite characters from Star Wars: The High Republic novels, audio dramas and comics.",
+  "title": "The High Republic: Fear of the Jedi #1"
+}

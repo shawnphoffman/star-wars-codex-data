@@ -1,0 +1,38 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "author",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Heir to the Empire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345530004"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 361,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780345530004",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "releaseDate": "1991-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heir-to-the-empire",
+  "synopsis": "Five years after the Battle of Endor, a brilliant Imperial commander named Grand Admiral Thrawn emerges from the Unknown Regions to lead the Empire's remnants against the fledgling New Republic.",
+  "title": "Heir to the Empire"
+}

@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    }
+  ],
+  "displayTitle": "The High Republic: A Test of Courage",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368057306"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368057301"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368057306",
+      "isbn13": "9781368057301",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -232,
+    "startYear": -232
+  },
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-test-of-courage",
+  "synopsis": "Vernestra Rwoh hasn’t been a Jedi Knight for very long, but all her training will be put to the test when a great disaster rains down upon the galaxy.",
+  "title": "The High Republic: A Test of Courage"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "A.C. Crispin",
+      "role": "writer",
+      "slug": "a-c-crispin"
+    }
+  ],
+  "displayTitle": "The Paradise Snare",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -10
+  },
+  "releaseDate": "1997-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-paradise-snare",
+  "title": "The Paradise Snare"
+}

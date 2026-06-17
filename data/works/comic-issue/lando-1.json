@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Alex Maleev",
+      "role": "artist",
+      "slug": "alex-maleev"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Lando, Part I",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "parentWorkSlug": "lando-graphic-novel",
+  "releaseDate": "2015-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-1",
+  "synopsis": "You know him… you love him… now, join him for his biggest caper as master of charm Lando Calrissian gets his very own comic book! Before he joined the rebellion, before he ran Cloud City, Lando made his way in the galaxy getting by on some swindles, some swagger, and a smile.\nLobot at his side, Lando has a plan to steal a very valuable ship… but has he bitten off more than he can chew?\nWriter Charles Soule (DEATH OF WOLVERINE, INHUMAN, SHE-HULK) and artist Alex Maleev (DAREDEVIL, SPIDER-WOMAN, MOON KNIGHT) bring us the tale of a scoundrel in his natural element-trouble!",
+  "title": "Lando, Part I"
+}

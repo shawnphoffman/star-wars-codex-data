@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic",
+    "imprint": "Scholastic"
+  },
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #9: The False Peace",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -25,
+    "startYear": -25
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "releaseDate": "2004-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-9-the-false-peace",
+  "synopsis": "Members of the Galactic Senate may be in danger, and it’s up to Anakin Skywalker and Obi-Wan Kenobi to keep them safe.",
+  "title": "Jedi Quest #9: The False Peace"
+}

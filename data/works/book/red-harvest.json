@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
+  "displayTitle": "Red Harvest",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511171"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511171",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3645,
+    "startYear": -3645
+  },
+  "releaseDate": "2010-12-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "red-harvest",
+  "synopsis": "During the era of the Old Republic thousands of years ago, a devastating virus threatens to sweep through the galaxy – one that has the power to bring those it has killed back to life.",
+  "title": "Red Harvest"
+}

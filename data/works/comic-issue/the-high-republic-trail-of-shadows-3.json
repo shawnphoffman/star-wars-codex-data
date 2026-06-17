@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "David Wachter",
+      "role": "artist",
+      "slug": "david-wachter"
+    }
+  ],
+  "displayTitle": "The High Republic: Trail of Shadows #3",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-trail-of-shadows-trade-paperback-35198afd11",
+  "releaseDate": "2021-12-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-trail-of-shadows-3",
+  "synopsis": "The third issue of the comic book miniseries Star Wars: The High Republic: Trail of Shadows.\nCOLD COMFORT!\nA mysterious attack brings EMERICK and SIAN together at the Starlight to investigate connections to their case.\nMeanwhile, ARATHAB tries to ambush a Nihil ship with deadly results.\nCan Jedi Master Emerick and private eye Sian Holt uncover the clues to solve this case, or are they about to face their deadly demise at the hands of Nihil?",
+  "title": "The High Republic: Trail of Shadows #3"
+}

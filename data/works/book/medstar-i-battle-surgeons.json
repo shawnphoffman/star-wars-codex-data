@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    },
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
+  "displayTitle": "MedStar I: Battle Surgeons",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2004-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "medstar-i-battle-surgeons",
+  "title": "MedStar I: Battle Surgeons"
+}

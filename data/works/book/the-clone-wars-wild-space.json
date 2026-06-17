@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Miller",
+      "role": "writer",
+      "slug": "karen-miller"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Wild Space",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2008-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-wild-space",
+  "title": "The Clone Wars: Wild Space"
+}

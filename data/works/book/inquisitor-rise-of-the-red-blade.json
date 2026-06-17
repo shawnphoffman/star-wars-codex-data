@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    }
+  ],
+  "displayTitle": "Inquisitor: Rise of the Red Blade",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593598627"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593598627",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -22
+  },
+  "releaseDate": "2023-07-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "inquisitor-rise-of-the-red-blade",
+  "synopsis": "The sudden outbreak of the Clone Wars has left Jedi Iskat Akaris even more lost and confused than ever before. Her quest for belonging is about to lead her toward a much different path.",
+  "title": "Inquisitor: Rise of the Red Blade"
+}

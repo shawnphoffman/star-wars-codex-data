@@ -1,0 +1,36 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Thrawn",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511271"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511270"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 427,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345511271",
+      "isbn13": "9780345511270",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -14
+  },
+  "releaseDate": "2017-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn",
+  "synopsis": "Exiled on a remote world, a mysterious Chiss stumbles into a new galactic government and realizes climbing through its ranks may not be as difficult as it might seem.",
+  "title": "Thrawn"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "The Jedi Path: A Manual for Students of the Force",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "releaseDate": "2010-09-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-jedi-path-a-manual-for-students-of-the-force",
+  "title": "The Jedi Path: A Manual for Students of the Force"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "artist",
+      "slug": "guiu-vilanova"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #12",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-3-trade-paperback",
+  "releaseDate": "2021-05-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-12",
+  "synopsis": "Darth Vader #12 is the twelfth issue of the canon comic series Star Wars: Darth Vader (2020). It features the prelude story \"Into the Trap,\" which leads into the Star Wars: War of the Bounty Hunters crossover event.\nPRELUDE TO WAR OF THE BOUNTY HUNTERS: \"RESTORATION\" Returned to the fold after his rebellion against the EMPEROR, DARTH VADER faces the horrors of reconstruction in the secret laboratories of CORUSCANT. As he blacks out under the knife, does he still dream of revenge against his master? Or do his thoughts drift towards his son – and the friends who make LUKE SKYWALKER so vulnerable? Don't miss this next critical new chapter in Vader's ongoing evolution – featuring the revelation of the first time the Dark Lord learned the name HAN SOLO!",
+  "title": "Darth Vader (2020) #12"
+}

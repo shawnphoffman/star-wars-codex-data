@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Crimson Empire II: Council of Blood #2",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 11
+  },
+  "releaseDate": "1998-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-ii-council-of-blood-2",
+  "title": "Crimson Empire II: Council of Blood #2"
+}

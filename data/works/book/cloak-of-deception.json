@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Cloak of Deception",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345442970"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 342,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345442970",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -33,
+    "startYear": -33
+  },
+  "releaseDate": "2001-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "cloak-of-deception",
+  "synopsis": "After Jedi Master Qui-Gon Jinn and his padawan Obi-Wan Kenobi save Valorum from an assassination attempt, the chancellor organizes a trade summit that will bring together factions of the galaxy that may or may not have sinister plans for the gathering.",
+  "title": "Cloak of Deception"
+}

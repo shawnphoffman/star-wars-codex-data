@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Dawn of the Jedi #0",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -25793,
+    "startYear": -25793
+  },
+  "parentWorkSlug": "dawn-of-the-jedi-volume-1-graphic-novel",
+  "releaseDate": "2012-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dawn-of-the-jedi-0",
+  "title": "Dawn of the Jedi #0"
+}

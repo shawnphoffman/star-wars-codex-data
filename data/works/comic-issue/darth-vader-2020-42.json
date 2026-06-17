@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Adam Gorham",
+      "role": "artist",
+      "slug": "adam-gorham"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #42",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-10-trade-paperback",
+  "releaseDate": "2024-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-42",
+  "synopsis": "This is the forty-second issue from Marvel Comics Darth Vader (2020) Series\nTHE RISE OF THE SCHISM IMPERIAL! In the wake of DARK DROIDS, DARTH VADER explores his powers and takes on the most dangerous team of rebel heroes he's ever faced! Meanwhile, the greatest threat to the EMPEROR'S rule is rising … from within THE EMPIRE] itself! Will the DARK LORD OF THE SITH destroy it … or join it? Featuring the comic-book debut of ENRIC PRYDE from Star Wars: The Rise of Skywalker!",
+  "title": "Darth Vader (2020) #42"
+}

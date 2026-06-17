@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Age Of Republic: Jango Fett",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -23,
+    "startYear": -23
+  },
+  "parentWorkSlug": "age-of-republic",
+  "releaseDate": "2019-01-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-jango-fett",
+  "synopsis": "Jango Fett has amassed a reputation as one of the most dangerous and formidable bounty hunters in the galaxy. Much to the surprise of his collegues and competitors, he’s now accomanied by his son, Boba. Will training a young bounty hunter be a liability or an asset?",
+  "title": "Age Of Republic: Jango Fett"
+}

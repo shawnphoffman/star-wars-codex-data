@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    }
+  ],
+  "displayTitle": "Droids: The White Witch (Adaptation)",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "releaseDate": "1995-06-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-the-white-witch-adaptation",
+  "title": "Droids: The White Witch (Adaptation)"
+}

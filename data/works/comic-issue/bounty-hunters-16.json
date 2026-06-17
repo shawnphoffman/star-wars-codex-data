@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #16",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-3-trade-paperbacck",
+  "releaseDate": "2021-09-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-16",
+  "synopsis": "Bounty Hunters 16 is the sixteenth issue of the canon comic book series Star Wars: Bounty Hunters, and is part of the Star Wars: War of the Bounty Hunters event. It is written by Ethan Sacks, illustrated by Paolo Villanelli, and published by Marvel Comics\nSHADOW SOLDIERS\nVALANCE and DENGAR make a last stand against DEATHSTICK!\nT'ONGA seeks help from a LEGENDARY BOUNTY HUNTER!\nThe bounty hunters converge on a high-stakes auction as CRIMSON DAWN'S plans come into focus!",
+  "title": "Bounty Hunters #16"
+}

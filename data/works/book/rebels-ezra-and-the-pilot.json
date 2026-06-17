@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Haddle",
+      "role": "writer",
+      "slug": "jennifer-haddle"
+    }
+  ],
+  "displayTitle": "Rebels: Ezra and the Pilot",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -5
+  },
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-ezra-and-the-pilot",
+  "synopsis": "Ezra and the Pilot is a World of Reading Level 2 young readers book in the Star Wars Rebels series that was released on August 5, 2014. The story was adapted by Lucasfilm senior editor Jennifer Heddle based on the script for the Star Wars Rebels prequel short \"Property of Ezra Bridger,\" written by series executive producer Simon Kinberg.",
+  "title": "Rebels: Ezra and the Pilot"
+}

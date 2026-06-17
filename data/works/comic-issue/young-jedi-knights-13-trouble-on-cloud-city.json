@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Young Jedi Knights #13: Trouble on Cloud City",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 24,
+    "startYear": 24
+  },
+  "releaseDate": "1998-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-knights-13-trouble-on-cloud-city",
+  "title": "Young Jedi Knights #13: Trouble on Cloud City"
+}

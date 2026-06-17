@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Matt Kindt",
+      "role": "writer",
+      "slug": "matt-kindt"
+    }
+  ],
+  "displayTitle": "Rebel Heist #1",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 2,
+    "startYear": 2
+  },
+  "releaseDate": "2014-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-heist-1",
+  "title": "Rebel Heist #1"
+}

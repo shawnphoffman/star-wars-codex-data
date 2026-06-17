@@ -1,0 +1,24 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Star Wars Rebels: Sabine My Rebel Sketchbook",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-sabine-my-rebel-sketchbook",
+  "synopsis": "Sabine Wren is a character known for expressing herself through her art. Fans can take an even closer look inside her head in this sketch-filled journal.",
+  "title": "Star Wars Rebels: Sabine My Rebel Sketchbook"
+}

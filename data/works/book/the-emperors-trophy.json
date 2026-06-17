@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    }
+  ],
+  "displayTitle": "The Emperor's Trophy",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "releaseDate": "1997-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-emperors-trophy",
+  "title": "The Emperor's Trophy"
+}

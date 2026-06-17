@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Leigh Brackett",
+      "role": "writer",
+      "slug": "leigh-brackett"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "Irvin Kershner",
+      "role": "director",
+      "slug": "irvin-kershner"
+    },
+    {
+      "name": "Gary Kurtz",
+      "role": "producer",
+      "slug": "gary-kurtz"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode V: The Empire Strikes Back",
+  "era": "ageOfRebellion",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "releaseDate": "1980-05-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-v-the-empire-strikes-back",
+  "synopsis": "After the destruction of the Death Star, Imperial forces continue to pursue the Rebels. After the Rebellion’s defeat on the ice planet Hoth, Luke journeys to the planet Dagobah to train with Jedi Master Yoda, who has lived in hiding since the fall of the Republic. In an attempt to convert Luke to the dark side, Darth Vader lures young Skywalker into a trap in the Cloud City of Bespin. In the midst of a fierce lightsaber duel with the Sith Lord, Luke faces the startling revelation that the evil Vader is in fact his father, Anakin Skywalker.",
+  "title": "Episode V: The Empire Strikes Back"
+}

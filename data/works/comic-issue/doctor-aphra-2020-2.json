@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #02",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2020-07-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-2",
+  "synopsis": "Doctor Aphra (2020) #02 is the second issue of the canon comic book series Star Wars: Doctor Aphra (2020).\nBEWARE THE MAD CITY! DOCTOR APHRA and her new team have tracked the RINGS OF VAALE to a mysterious planet filled with primordial horror. What's worse, the rings may be cursed…a malediction that could already be tearing Aphra's crew apart. Will they escape the terror of the cursed planet with the precious rings or succumb to the creeping madness pervading the ancient world?",
+  "title": "Doctor Aphra (2020) #02"
+}

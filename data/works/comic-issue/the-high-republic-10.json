@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #10",
+  "era": "highRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -231,
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "releaseDate": "2021-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-10",
+  "synopsis": "The High Republic #10 is the tenth issue of the comic book series Star Wars: The High Republic.\nOUT OF BALANCE, OUT OF TIME!!!\nKEEVE TRENNIS and bond-twin TEREC have defected to the villainous NIHIL.\nWith AVAR KRISS and her former master closing in, Keeve must make a terrible choice. Can she take an innocent life to secure her place within the TEMPEST?\nA turning point is reached in the lives of THE JEDI OF STARLIGHT BEACON. The shadow of the Nihil has never loomed larger!",
+  "title": "The High Republic (2021) #10"
+}

@@ -1,0 +1,49 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Before the Awakening",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368108210"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368108218"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368108210",
+      "isbn13": "9781368108218",
+      "kind": "print"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 31
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "before-the-awakening",
+  "synopsis": "In three stories that serve as a prelude to the events of The Force Awakens, FN-2187, Rey, and Poe Dameron begin to discover what they want most in the galaxy – and what they’re willing to do to get it.",
+  "title": "Before the Awakening"
+}

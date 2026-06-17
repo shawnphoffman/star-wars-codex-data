@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Stern",
+      "role": "writer",
+      "slug": "michael-stern"
+    }
+  ],
+  "displayTitle": "Galaxy Guide 5: Return of the Jedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "1990-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxy-guide-5-return-of-the-jedi",
+  "title": "Galaxy Guide 5: Return of the Jedi"
+}

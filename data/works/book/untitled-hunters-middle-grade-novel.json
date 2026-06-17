@@ -1,0 +1,44 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Oshiro",
+      "role": "writer",
+      "slug": "mark-oshiro"
+    }
+  ],
+  "displayTitle": "Hunters: Battle for the Arena",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368076033"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368076036"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 377,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368076033",
+      "isbn13": "9781368076036",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 9,
+    "startYear": 9
+  },
+  "releaseDate": "2023-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "untitled-hunters-middle-grade-novel",
+  "synopsis": "Rieve joins the Arena on Vespaara as a new Hunter – but despite her best efforts, the past she thought she escaped is about to catch up with her.",
+  "title": "Hunters: Battle for the Arena"
+}

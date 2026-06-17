@@ -1,0 +1,41 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "artist",
+      "slug": "nicoletta-baldari"
+    }
+  ],
+  "displayTitle": "Star Wars Adventures: Shadow of Vader's Castle #1",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 4,
+    "startYear": 4
+  },
+  "releaseDate": "2020-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-shadow-of-vaders-castle",
+  "synopsis": "Continuing the Vader’s Castle series, this single-issue comic proves that even after good conquers evil, Vader’s looming shadow continues to haunt those who dare trespass on his domain long after his death.",
+  "title": "Star Wars Adventures: Shadow of Vader's Castle #1"
+}

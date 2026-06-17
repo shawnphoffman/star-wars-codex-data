@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #12",
+  "era": "ageOfRebellion",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "releaseDate": "2021-07-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-12",
+  "synopsis": "Doctor Aphra (2020) #12 is the twelfth issue of the canon comic series Star Wars: Doctor Aphra and is part of the War of the Bounty Hunters crossover event\n\"PARTY TRICKS\" A MYSTERIOUS INVITATION leads DOCTOR APHRA and SANA STARROS to an exclusive party—teeming with scum and villainy! Will Aphra and Sana be able to survive the underworld social event of the century? Or will their cover be blown by A FAMILIAR FACE with an agenda of their own?",
+  "title": "Doctor Aphra (2020) #12"
+}

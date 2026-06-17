@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Runaway Starfighter",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -20
+  },
+  "releaseDate": "2011-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "runaway-starfighter",
+  "title": "Runaway Starfighter"
+}

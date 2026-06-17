@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Peel",
+      "role": "writer",
+      "slug": "john-peel"
+    }
+  ],
+  "displayTitle": "Star Wars Journal: The Fight for Justice",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-journal-the-fight-for-justice",
+  "title": "Star Wars Journal: The Fight for Justice"
+}

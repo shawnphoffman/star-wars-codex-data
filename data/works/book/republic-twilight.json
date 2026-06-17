@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic: Twilight",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -31,
+    "startYear": -31
+  },
+  "releaseDate": "2001-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-twilight",
+  "title": "Republic: Twilight"
+}

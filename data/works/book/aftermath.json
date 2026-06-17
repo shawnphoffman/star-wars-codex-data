@@ -1,0 +1,36 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
+  "displayTitle": "Aftermath",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511621"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn13": "9780345511621",
+      "kind": "print"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "releaseDate": "2015-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aftermath",
+  "synopsis": "The newly formed New Republic may have secured a major victory over the Galactic Empire, but the war isn’t over yet. Defeating what remains of the imperial regime is going to require the help of an unlikely crew: a former rebel pilot, her son, and a handful of others committed to the mission of defeating galactic oppression once and for all.",
+  "title": "Aftermath"
+}

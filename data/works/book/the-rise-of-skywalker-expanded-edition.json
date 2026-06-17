@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Rise of Skywalker: Expanded Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984818643"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984818645"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1984818643",
+      "isbn13": "9781984818645",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 35,
+    "startYear": 35
+  },
+  "releaseDisplayState": "tba",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-skywalker-expanded-edition",
+  "synopsis": "As the war between the Resistance and the First Order rages on, Rey teams up with Poe and Finn to locate what might be the galaxy’s one last hope.",
+  "title": "The Rise of Skywalker: Expanded Edition"
+}

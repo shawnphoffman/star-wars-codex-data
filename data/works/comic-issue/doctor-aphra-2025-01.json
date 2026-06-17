@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Cherish Chen",
+      "role": "writer",
+      "slug": "cherish-chen"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2025): Chaos Agent #01",
+  "era": "newRepublic",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": 6,
+    "startYear": 6
+  },
+  "parentWorkSlug": "doctor-aphra-2025-chaos-agent-trade-paperback",
+  "releaseDate": "2025-06-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2025-01",
+  "synopsis": "First issue from Marvel Comics Doctor Aphra (2025) Series\nDoctor Aphra makes her way through the galaxy in the era of the New Republic! The rogue archaeologist must team up with Luke Skywalker to track down a rare artifact! And what will she do when her tattoos no longer function?!",
+  "title": "Doctor Aphra (2025): Chaos Agent #01"
+}

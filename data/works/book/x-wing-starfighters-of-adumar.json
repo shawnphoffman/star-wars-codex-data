@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "X-Wing: Starfighters of Adumar",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 12,
+    "startYear": 12
+  },
+  "releaseDate": "1999-08-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-starfighters-of-adumar",
+  "title": "X-Wing: Starfighters of Adumar"
+}

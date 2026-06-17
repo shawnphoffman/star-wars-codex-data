@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    }
+  ],
+  "displayTitle": "Droids #3: The Scarlet Pirate",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -15,
+    "startYear": -15
+  },
+  "parentWorkSlug": "star-wars-2020-vol-7-dark-droids-trade-paperback",
+  "releaseDate": "1986-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-3-the-scarlet-pirate",
+  "title": "Star Wars Droids #3: The Scarlet Pirate"
+}

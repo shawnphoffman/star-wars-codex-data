@@ -1,0 +1,44 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mur Lafferty",
+      "role": "writer",
+      "slug": "mur-lafferty"
+    }
+  ],
+  "displayTitle": "Solo: A Star Wars Story: Expanded Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984819283"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984819284"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1984819283",
+      "isbn13": "9781984819284",
+      "kind": "print"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -13
+  },
+  "releaseDate": "2018-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "solo-a-star-wars-story-expanded-edition",
+  "synopsis": "Han Solo’s daring escape from Corellia also separated him from the love of his life. Years later, he finds himself tangled in a complicated deal with Crimson Dawn – just as he and Qi’ra reunite under unexpected circumstances.",
+  "title": "Solo: A Star Wars Story: Expanded Edition"
+}

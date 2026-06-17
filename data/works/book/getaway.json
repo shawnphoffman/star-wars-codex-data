@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    }
+  ],
+  "displayTitle": "Getaway",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 44,
+    "startYear": 44
+  },
+  "releaseDate": "2012-06-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "getaway",
+  "title": "Getaway"
+}

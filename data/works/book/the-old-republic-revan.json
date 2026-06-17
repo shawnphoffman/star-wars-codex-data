@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "The Old Republic: Revan",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511348"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 298,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511348",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3950,
+    "startYear": -3950
+  },
+  "releaseDate": "2011-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-revan",
+  "synopsis": "Following the events of the Knights of the Old Republic games, Jedi hero Revan embarks on a dangerous mission in an attempt to remember what has long been forgotten.",
+  "title": "The Old Republic: Revan"
+}

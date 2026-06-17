@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Chestney",
+      "role": "writer",
+      "slug": "rob-chestney"
+    }
+  ],
+  "displayTitle": "The Journal of Master Gnost-Dural",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -3644,
+    "startYear": -3684
+  },
+  "releaseDate": "2011-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-journal-of-master-gnost-dural",
+  "title": "The Journal of Master Gnost-Dural"
+}

@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom DeFalco",
+      "role": "writer",
+      "slug": "tom-defalco"
+    }
+  ],
+  "displayTitle": "Keep the Faith!",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -22,
+    "startYear": -22
+  },
+  "releaseDate": "2009-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "keep-the-faith",
+  "title": "Keep the Faith!"
+}

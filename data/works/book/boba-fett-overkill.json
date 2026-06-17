@@ -1,0 +1,22 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Thomas Andrews",
+      "role": "writer",
+      "slug": "thomas-andrews"
+    }
+  ],
+  "displayTitle": "Boba Fett: Overkill",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": 0
+  },
+  "releaseDate": "2006-04-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-overkill",
+  "title": "Boba Fett: Overkill"
+}

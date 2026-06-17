@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "The High Republic: The Eye of Darkness",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593597934"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593597934",
+      "kind": "print"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -229,
+    "startYear": -229
+  },
+  "releaseDate": "2023-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-eye-of-darkness",
+  "synopsis": "A year after the fall of Starlight Beacon, the battle to navigate in and out of the Occlusion Zone is just beginning.",
+  "title": "The High Republic: The Eye of Darkness"
+}

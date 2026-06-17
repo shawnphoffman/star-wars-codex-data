@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "comic": {
+    "comicType": "singleIssueComic"
+  },
+  "creators": [
+    {
+      "name": "Christopher Cantwell",
+      "role": "writer",
+      "slug": "christopher-cantwell"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "Obi-Wan #1",
+  "era": "fallOfTheJedi",
+  "format": "comicIssue",
+  "inUniverseDate": {
+    "endYear": -47,
+    "startYear": -47
+  },
+  "parentWorkSlug": "obi-wan",
+  "releaseDate": "2022-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-1",
+  "synopsis": "Obi-Wan #1 is the first of five issues of the Marvel Comics Obi-Wan Mini-Series\nFast approaches the ultimate destiny of one of the Jedi's most renowned masters!\nAs he spends his final days in the remote deserts of Tatooine, Obi-Wan Kenobi takes time to reflect on – and record – key moments of a heroic life long-lived. Writing in old leather-bound journals from his hermit's hut, Obi-Wan remembers his days as a young Jedi Initiate, his trials as a Padawan, the crucible of Jedi Knighthood and the Clone Wars, and some of the earliest challenges he faced as a true Master of the Force! In this tale, Obi-Wan considers a watershed Youngling adventure he narrowly survived on Coruscant when he was but eight years of age… This is just the beginning of his Jedi journey!",
+  "title": "Obi-Wan #1"
+}

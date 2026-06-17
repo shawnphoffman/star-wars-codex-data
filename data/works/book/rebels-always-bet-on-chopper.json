@@ -1,0 +1,24 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    }
+  ],
+  "displayTitle": "Rebels: Always Bet on Chopper",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -4
+  },
+  "releaseDate": "2015-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebels-always-bet-on-chopper",
+  "synopsis": "Meet Chopper--the rebels' grumpy old astromech droid. He may have a bit of an attitude, but there's no droid the team would rather have with them in a tight spot. This Level 1 early reader retells one of Chopper's exciting adventures with his rebel friends.",
+  "title": "Rebels: Always Bet on Chopper"
+}
