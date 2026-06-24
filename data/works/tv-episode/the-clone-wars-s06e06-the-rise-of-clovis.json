@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S06E06: The Rise Of Clovis",
+  "displayTitle": "The Rise Of Clovis",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-6",
   "releaseDate": "2014-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s06e06-the-rise-of-clovis",
   "synopsis": "Clovis, a known traitor of the Republic, makes a dubious deal on Coruscant which puts him at the head of the Banking Clan.",
-  "title": "The Clone Wars S06E06: The Rise Of Clovis"
+  "title": "The Rise Of Clovis"
 }

@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Republic Commando: Hard Contact",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345478276"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 293,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345478276",
+      "kind": "print",
+      "onsale": "2004-10-26T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
   "releaseDate": "2004-10-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-commando-hard-contact",
+  "synopsis": "An elite squad of Republic Commandos team up with a Jedi to accomplish a nearly impossible mission on behalf of the Republic.",
   "title": "Republic Commando: Hard Contact"
 }

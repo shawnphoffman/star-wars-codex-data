@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Two Dots",
+      "role": "coverArtist",
+      "slug": "two-dots"
+    }
+  ],
+  "displayTitle": "Thrawn",
+  "era": "reignOfTheEmpire",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "periodical": {
+    "imprint": "Del Rey",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2018-09-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-graphic-novel",
+  "synopsis": "Exiled on a remote world, a mysterious Chiss stumbles into a new galactic government and realizes climbing through its ranks may not be as difficult as it might seem.",
+  "title": "Thrawn"
+}

@@ -1,0 +1,38 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Darth Maul: Shadow Conspiracy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780545470636"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780545470636",
+      "kind": "print",
+      "onsale": "2013-02-04T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "releaseDate": "2013-02-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-clone-wars-darth-maul-shadow-conspiracy",
+  "synopsis": "Darth Maul and Savage Opress put together a plan to lure Jedi Obi-Wan Kenobi to them so that Maul can finally have his revenge.",
+  "title": "The Clone Wars: Darth Maul: Shadow Conspiracy"
+}

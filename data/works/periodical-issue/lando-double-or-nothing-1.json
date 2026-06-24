@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "artist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "W. Scott Forbes",
+      "role": "artist",
+      "slug": "w-scott-forbes"
+    }
+  ],
+  "displayTitle": "Lando: Double Or Nothing #1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -11
+  },
+  "parentWorkSlug": "lando-double-or-nothing-gn",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-05-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-double-or-nothing-1",
+  "synopsis": "Straight from the frames of the highly-anticipated film SOLO: A STAR WARS STORY swaggers a younger and somehow even cockier Lando Calrissian! Before his days in the Rebellion, before he ran Cloud City, even before he lost the Millenium Falcon, comes this tale of Lando’s adventures and misadventures in search of love and money leading right up to his appearance in SOLO!",
+  "title": "Lando: Double Or Nothing #1"
+}

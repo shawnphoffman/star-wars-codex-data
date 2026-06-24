@@ -6,14 +6,9 @@
       "name": "Jason Fry",
       "role": "writer",
       "slug": "jason-fry"
-    },
-    {
-      "name": "Jean-Paul Balmet",
-      "role": "artist",
-      "slug": "jean-paul-balmet"
     }
   ],
-  "displayTitle": "Servants of the Empire: Edge of the Galaxy (Book 1)",
+  "displayTitle": "Servants of the Empire: Edge of the Galaxy",
   "editionIds": [
     {
       "type": "isbn13",
@@ -26,7 +21,8 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780606365369",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-10-21T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -40,5 +36,5 @@
   "releaseStatus": "released",
   "slug": "servants-of-the-empire-edge-of-the-galaxy-book-1",
   "synopsis": "Zare Leonis can’t wait to join the Empire as part of the imperial Academy someday. But when his sister suddenly goes missing, he begins to question his loyalty to the government he hopes to serve.",
-  "title": "Servants of the Empire: Edge of the Galaxy (Book 1)"
+  "title": "Servants of the Empire: Edge of the Galaxy"
 }

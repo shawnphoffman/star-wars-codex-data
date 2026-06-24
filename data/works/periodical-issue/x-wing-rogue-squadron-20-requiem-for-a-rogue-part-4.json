@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #20: Requiem for a Rogue, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-3",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-06-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-20-requiem-for-a-rogue-part-4",
+  "title": "X-Wing Rogue Squadron #20: Requiem for a Rogue, Part 4"
+}

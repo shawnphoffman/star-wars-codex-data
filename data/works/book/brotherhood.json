@@ -21,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593358573",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-05-10T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
   "releaseDate": "2022-05-10T00:00:00.000Z",

@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "writer",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Torunn Grønbekk",
+      "role": "writer",
+      "slug": "torunn-gr-nbekk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Darth Vader: Black, White & Red #1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "darth-vader-black-white-red-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-black-white-red-1",
+  "synopsis": "1 of 4 issues of the Marvel Comics Darth Vader Black, White & Red Miniseries\nTHE DARK LORD OF THE SITH LIKE YOU'VE NEVER SEEN HIM BEFORE!\nFollowing the successful Black, White & Red series produced by Marvel Comics, DARTH VADER now takes the spotlight for tales of terror by some of the industry’s most talented creators!\nPEACH MOMOKO will spin a story only she can bring to life!\nPLUS, the return of JASON AARON to the world of STAR WARS with Part One of his Vader tale spanning all four issues!",
+  "title": "Darth Vader: Black, White & Red #1"
+}

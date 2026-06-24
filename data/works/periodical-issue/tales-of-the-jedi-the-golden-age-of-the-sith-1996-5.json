@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: The Golden Age of the Sith #5: The Flight of Starbreaker 12",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5000
+  },
+  "parentWorkSlug": "tales-of-the-jedi-the-golden-age-of-the-sith-1996",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-the-golden-age-of-the-sith-1996-5",
+  "title": "Tales of the Jedi: The Golden Age of the Sith #5: The Flight of Starbreaker 12"
+}

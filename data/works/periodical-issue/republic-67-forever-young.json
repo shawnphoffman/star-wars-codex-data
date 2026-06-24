@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Republic #67: Forever Young",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "parentWorkSlug": "omnibus-kotor-vol3",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2004-08-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-67-forever-young",
+  "title": "Republic #67: Forever Young"
+}

@@ -6,15 +6,14 @@
       "name": "Charles Soule",
       "role": "writer",
       "slug": "charles-soule"
-    },
-    {
-      "name": "Joseph Meehan",
-      "role": "coverArtist",
-      "slug": "joseph-meehan"
     }
   ],
-  "displayTitle": "The High Republic: Light of the Jedi",
+  "displayTitle": "Light of the Jedi",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593157710"
+    },
     {
       "type": "isbn13",
       "value": "9780593157718"
@@ -22,17 +21,24 @@
   ],
   "editions": [
     {
+      "imprint": "Random House Worlds",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2021-01-05T00:00:00.000Z"
+    },
+    {
       "extent": 380,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593157710",
       "isbn13": "9780593157718",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2021-01-05T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -232,
     "startYear": -232
   },
   "releaseDate": "2021-01-05T00:00:00.000Z",
@@ -40,5 +46,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-light-of-the-jedi",
   "synopsis": "A devastating hyperspace disaster calls the Jedi’s attention to a new threat: an organization called the Nihil, with a leader as mysterious as the group itself.",
-  "title": "The High Republic: Light of the Jedi"
+  "title": "Light of the Jedi"
 }

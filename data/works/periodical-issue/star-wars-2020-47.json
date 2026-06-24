@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #47",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-2020-vol-9-the-path-of-light",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-06-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-47",
+  "synopsis": "This is the forty-seven issue from the Marvel Comics Star Wars (2020) Series\nLANDO IS ALL IN!\nTHE TRIAL OF LANDO CALRISSIAN for treason against the REBEL ALLIANCE comes down to its stunning finale!\nThe evidence is not in Lando's favor, nor is the fact that he's offered a full confession to the crimes of which he is accused.\nDoes he have any cards left to play?",
+  "title": "Star Wars (2020) #47"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #46",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-2020-vol-9-the-path-of-light",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-05-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-46",
+  "synopsis": "This is the forty-sixth issue from the Marvel Comics Star Wars (2020) Series\nOPERATION: RESCUE MON MOTHMA!\nThe fate of the REBEL ALLIANCE has become intertwined with accused traitor LANDO CALRISSIAN – if he falls, so will the Rebellion. LEIA ORGANA must mount a desperate rescue mission if there is any hope of defeating the evil GALACTIC EMPIRE!",
+  "title": "Star Wars (2020) #46"
+}

@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Huddleston",
+      "role": "writer",
+      "slug": "tom-huddleston"
+    }
+  ],
   "displayTitle": "Adventures in Wild Space: The Darkness",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1368003079",
       "isbn13": "9781368003070",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-08-15T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2017-08-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-darkness",
   "synopsis": "Milo and Lina Graf find themselves stranded on a doomed starship.",

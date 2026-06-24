@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Sam Maggs",
+      "role": "writer",
+      "slug": "sam-maggs"
+    },
+    {
+      "name": "Ray-Anthony Height",
+      "role": "artist",
+      "slug": "ray-anthony-height"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "artist",
+      "slug": "davide-tinto"
+    }
+  ],
+  "displayTitle": "Adventures (2020) #03 - The Hostage",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "star-wars-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2020-12-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2020-03-life-day",
+  "synopsis": "Star Wars Adventures #03 is the third issue of the Star Wars Adventures (2020) comic series. The comic is written by Michael Moreci and Sam Maggs, illustrated by Ray-Anthony Height and Davide Tinto.\nJoin the Wookiees of Kashyyyk for part one of a special Life Day celebration! Then, follow Kylo Ren as he learns what it means to be the Supreme Leader of the First Order",
+  "title": "Star Wars Adventures (2020) #03 - The Hostage"
+}

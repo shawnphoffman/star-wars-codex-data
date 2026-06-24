@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Clone Wars Volume 6: On the Fields of Battle (2005)",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2005-07-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-volume-6",
+  "title": "Clone Wars Volume 6: On the Fields of Battle (2005)"
+}

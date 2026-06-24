@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 23: Fortress Vader Part V",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -12
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-23-fortress-vader-5",
+  "synopsis": "\"FORTRESS VADER\" - PART 5 Darkness rises above MUSTAFAR as the brutal designs of LORD MOMIN begin to take shape. But the planet's inhabitants cannot take this desecration lightly, and shape plans of their own.",
+  "title": "Darth Vader: Dark Lord of the Sith 23: Fortress Vader Part V"
+}

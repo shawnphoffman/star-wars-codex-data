@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #12: Vector, Part 6",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2008-06-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-12-vector-part-6",
+  "title": "Dark Times #12: Vector, Part 6"
+}

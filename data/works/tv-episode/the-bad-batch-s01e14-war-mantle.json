@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Bad Batch S01E14: War Mantle",
+  "displayTitle": "War Mantle",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-07-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e14-war-mantle",
   "synopsis": "After receiving a mysterious distress call, the Batch tracks it to a secret facility.",
-  "title": "The Bad Batch S01E14: War Mantle"
+  "title": "War Mantle"
 }

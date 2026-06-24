@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Kev Walker",
+      "role": "artist",
+      "slug": "kev-walker"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Antonio Fabela",
+      "role": "artist",
+      "slug": "antonio-fabela"
+    },
+    {
+      "name": "Kamome Shirahama",
+      "role": "artist",
+      "slug": "kamome-shirahama"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) #02: Aphra, Part II",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "doctor-aphra-volume-1-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-12-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2-aphra-part-ii",
+  "synopsis": "Aphra's got debts to pay. But can she can stay one step ahead of the Empire, some Bounty Hunters and just about everyone else in the galaxy!?",
+  "title": "Doctor Aphra (2016) #02: Aphra, Part II"
+}

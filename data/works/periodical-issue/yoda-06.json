@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Yoda #06",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -54
+  },
+  "parentWorkSlug": "yoda-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-06",
+  "synopsis": "Issue 6 of 10 of the Marvel canon comic miniseries Star War3: Yoda.\nA fearful vision has infected the students at the Jedi Temple, leading to a violent confrontation that could spell doom for the would-be Jedi. Will Yoda sense the danger in time, or will he lose one of his students forever?",
+  "title": "Yoda #06"
+}

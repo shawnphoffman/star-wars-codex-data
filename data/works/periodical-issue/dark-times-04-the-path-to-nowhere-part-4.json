@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    }
+  ],
+  "displayTitle": "Dark Times #04: The Path to Nowhere, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2007-07-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-04-the-path-to-nowhere-part-4",
+  "title": "Dark Times #04: The Path to Nowhere, Part 4"
+}

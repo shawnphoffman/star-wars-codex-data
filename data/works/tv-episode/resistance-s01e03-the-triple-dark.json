@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Resistance S01E03: The Triple Dark",
+  "displayTitle": "The Triple Dark",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "parentWorkSlug": "resistance",
+  "parentWorkSlug": "resistance-season-1",
   "releaseDate": "2018-10-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s01e03-the-triple-dark",
   "synopsis": "Kaz and BB-8 uncover information on an imminent pirate attack and must find a way to stop it.",
-  "title": "Resistance S01E03: The Triple Dark"
+  "title": "The Triple Dark"
 }

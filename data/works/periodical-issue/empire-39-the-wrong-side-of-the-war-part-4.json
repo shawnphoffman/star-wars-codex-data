@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    }
+  ],
+  "displayTitle": "Empire #39: The Wrong Side of the War, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "legends-epic-collection-the-empire-vol-7",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2006-02-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-39-the-wrong-side-of-the-war-part-4",
+  "title": "Empire #39: The Wrong Side of the War, Part 4"
+}

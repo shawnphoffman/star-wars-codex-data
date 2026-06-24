@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Jango Fett #3",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "parentWorkSlug": "jango-fett-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett-3",
+  "synopsis": "Issue 3 of 4 from Marvel Comics Jango Fett miniseries\nJANGO VS. AURRA SING!\nThe heavyweight BOUNTY HUNTER battle that will shake the galaxy!\nWho is the mysterious figure behind the heist that is igniting a war?\nPrepare for a new twist when an unexpected alliance is revealed!",
+  "title": "Jango Fett #3"
+}

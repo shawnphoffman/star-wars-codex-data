@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ahmed Best",
+      "role": "writer",
+      "slug": "ahmed-best"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    }
+  ],
+  "displayTitle": "Jar Jar #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "imprint": "Marvel",
+    "pageCount": 28,
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2026-02-11T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-jar-jar-1",
+  "synopsis": "Jar Jar 1 is a canon one-shot comic book. JAR JAR RETURNS — CO-WRITTEN BY JAR JAR HIMSELF, AHMED BEST! JAR JAR faces the consequences of giving emergency powers to CHANCELLOR PALPATINE. What pivotal role does Jar Jar play in the formation of the REBEL ALLIANCE? Guest-starring fan-favorite JEDI KNIGHT KELLERAN BEQ!",
+  "title": "Jar Jar #1"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic Volume 3: Days Of Fear, Nights Of Anger",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -3963
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2008-01-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-volume-3-days-of-fear-nights-of-anger-graphic-novel",
+  "title": "Knights of the Old Republic Volume 3: Days Of Fear, Nights Of Anger"
+}

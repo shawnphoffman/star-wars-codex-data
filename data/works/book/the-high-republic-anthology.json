@@ -3,9 +3,54 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Various",
+      "name": "Zoraida Córdova",
       "role": "writer",
-      "slug": "various"
+      "slug": "zoraida-cordova"
+    },
+    {
+      "name": "Tessa Gratton",
+      "role": "writer",
+      "slug": "tessa-gratton"
+    },
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
     }
   ],
   "displayTitle": "The High Republic: Tales of Light and Life",
@@ -21,19 +66,25 @@
   ],
   "editions": [
     {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2023-09-05T00:00:00.000Z"
+    },
+    {
       "extent": 400,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368093795",
       "isbn13": "9781368093798",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-09-05T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -230,
-    "startYear": -382
+    "startYear": -396
   },
   "releaseDate": "2023-09-05T00:00:00.000Z",
   "releaseDisplayState": "released",

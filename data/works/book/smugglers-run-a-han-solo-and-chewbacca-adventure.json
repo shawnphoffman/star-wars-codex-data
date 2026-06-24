@@ -6,11 +6,6 @@
       "name": "Greg Rucka",
       "role": "writer",
       "slug": "greg-rucka"
-    },
-    {
-      "name": "Phil Noto",
-      "role": "artist",
-      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Smuggler's Run: A Han Solo and Chewbacca Adventure",
@@ -27,17 +22,17 @@
   "editions": [
     {
       "extent": 192,
-      "imprint": "Disney Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1405277858",
       "isbn13": "9781405277853",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-09-04T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 0,
     "startYear": 0
   },
   "releaseDate": "2015-09-04T00:00:00.000Z",

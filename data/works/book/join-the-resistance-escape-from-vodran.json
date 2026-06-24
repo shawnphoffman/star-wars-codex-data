@@ -36,12 +36,13 @@
       "isPrimary": true,
       "isbn10": "1484704983",
       "isbn13": "9781484704981",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-10-03T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
   "releaseDate": "2017-10-03T00:00:00.000Z",

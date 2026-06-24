@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant: Aflame #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1032
+  },
+  "parentWorkSlug": "knight-errant-aflame-2010",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-12-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant-aflame-2010-3",
+  "title": "Knight Errant: Aflame #3"
+}

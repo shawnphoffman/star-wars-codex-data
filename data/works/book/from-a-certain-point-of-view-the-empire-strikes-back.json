@@ -1,7 +1,209 @@
 {
   "bookType": "adultNovel",
-  "canonStatus": "canon",
-  "displayTitle": "From A Certain Point of View: The Empire Strikes Back",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kiersten White",
+      "role": "writer",
+      "slug": "kiersten-white"
+    },
+    {
+      "name": "Mark Oshiro",
+      "role": "writer",
+      "slug": "mark-oshiro"
+    },
+    {
+      "name": "Emily Skrutskie",
+      "role": "writer",
+      "slug": "emily-skrutskie"
+    },
+    {
+      "name": "C.B. Lee",
+      "role": "writer",
+      "slug": "cb-lee"
+    },
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Amy Ratcliffe",
+      "role": "writer",
+      "slug": "amy-ratcliffe"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    },
+    {
+      "name": "Charles Yu",
+      "role": "writer",
+      "slug": "charles-yu"
+    },
+    {
+      "name": "R.F. Kuang",
+      "role": "writer",
+      "slug": "rf-kuang"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    },
+    {
+      "name": "Hank Green",
+      "role": "writer",
+      "slug": "hank-green"
+    },
+    {
+      "name": "Katie Cook",
+      "role": "writer",
+      "slug": "katie-cook"
+    },
+    {
+      "name": "Beth Revis",
+      "role": "writer",
+      "slug": "beth-revis"
+    },
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Seth Dickinson",
+      "role": "writer",
+      "slug": "seth-dickinson"
+    },
+    {
+      "name": "Django Wexler",
+      "role": "writer",
+      "slug": "django-wexler"
+    },
+    {
+      "name": "Jim Zub",
+      "role": "writer",
+      "slug": "jim-zub"
+    },
+    {
+      "name": "Mike Chen",
+      "role": "writer",
+      "slug": "mike-chen"
+    },
+    {
+      "name": "Catherynne M. Valente",
+      "role": "writer",
+      "slug": "catherynne-m-valente"
+    },
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Tracy Deonn",
+      "role": "writer",
+      "slug": "tracy-deonn"
+    },
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    },
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Zoraida Córdova",
+      "role": "writer",
+      "slug": "zoraida-cordova"
+    },
+    {
+      "name": "Sarwat Chadda",
+      "role": "writer",
+      "slug": "sarwat-chadda"
+    },
+    {
+      "name": "Mackenzi Lee",
+      "role": "writer",
+      "slug": "mackenzi-lee"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "S.A. Chakraborty",
+      "role": "writer",
+      "slug": "sa-chakraborty"
+    },
+    {
+      "name": "Lilliam Rivera",
+      "role": "writer",
+      "slug": "lilliam-rivera"
+    },
+    {
+      "name": "Austin Walker",
+      "role": "writer",
+      "slug": "austin-walker"
+    },
+    {
+      "name": "Martha Wells",
+      "role": "writer",
+      "slug": "martha-wells"
+    },
+    {
+      "name": "Brittany N. Williams",
+      "role": "writer",
+      "slug": "brittany-n-williams"
+    },
+    {
+      "name": "Rob Hart",
+      "role": "writer",
+      "slug": "rob-hart"
+    },
+    {
+      "name": "Karen Strong",
+      "role": "writer",
+      "slug": "karen-strong"
+    },
+    {
+      "name": "Adam Christopher",
+      "role": "writer",
+      "slug": "adam-christopher"
+    },
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    },
+    {
+      "name": "Anne Toole",
+      "role": "writer",
+      "slug": "anne-toole"
+    },
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    },
+    {
+      "name": "Tom Angleberger",
+      "role": "writer",
+      "slug": "tom-angleberger"
+    }
+  ],
+  "displayTitle": "From a Certain Point of View: The Empire Strikes Back",
   "editionIds": [
     {
       "type": "isbn13",
@@ -14,19 +216,20 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593157749",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-11-10T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 3,
-    "startYear": 3
+    "startYear": -3
   },
   "releaseDate": "2020-11-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "from-a-certain-point-of-view-the-empire-strikes-back",
   "synopsis": "The classic events of Star Wars: The Empire Strikes Back, told through the eyes of the story’s lesser-known characters.",
-  "title": "From A Certain Point of View: The Empire Strikes Back"
+  "title": "From a Certain Point of View: The Empire Strikes Back"
 }

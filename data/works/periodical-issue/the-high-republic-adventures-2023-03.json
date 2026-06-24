@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2023) #03",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-03",
+  "synopsis": "This is the third issue from Dark Horse Comics The High Republic Adventures (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series\nThe fate of the scattered survivors of the Starlight Beacon disaster is slowly becoming more clear, as Zeen, Qort, and 5A-G3 must follow up every lead to find out who among their old Starhopper [sic] friends are still alive and where they may be. But information from inside the Occlusion Zone is very hard to come by; and the answers they seek may serve only to raise more questions… like DID any of their allies survive at all?",
+  "title": "The High Republic Adventures (2023) #03"
+}

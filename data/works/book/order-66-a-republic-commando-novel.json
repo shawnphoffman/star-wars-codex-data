@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Order 66: A Republic Commando Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345513854"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345513854",
+      "kind": "print",
+      "onsale": "2008-09-16T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2008-09-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "order-66-a-republic-commando-novel",
+  "synopsis": "Omega Squad is about to face their most dangerous and life-altering catastrophe yet.",
   "title": "Order 66: A Republic Commando Novel"
 }

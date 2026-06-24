@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Louise Jones",
+      "role": "writer",
+      "slug": "louise-jones"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "writer",
+      "slug": "walt-simonson"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #56: Coffin in the Clouds",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1981-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-56",
+  "title": "Star Wars (1977) #56: Coffin in the Clouds"
+}

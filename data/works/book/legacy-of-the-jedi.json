@@ -21,9 +21,11 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439536660",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2003-08-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "endYear": -22,

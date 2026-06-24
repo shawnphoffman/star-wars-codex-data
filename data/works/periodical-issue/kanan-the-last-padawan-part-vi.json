@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Kanan 6: The Last Padawan, Epilogue: Haunt",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -5,
+    "startYear": -19
+  },
+  "parentWorkSlug": "kanan-volume-1-the-last-padwan-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-09-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kanan-the-last-padawan-part-vi",
+  "synopsis": "A tale from the time of Rebels! No longer a Padawan, the adult Kanan finds himself back on the planet Kaller… Will his past as Caleb Dume return to haunt him?",
+  "title": "Kanan 6: The Last Padawan, Epilogue: Haunt"
+}

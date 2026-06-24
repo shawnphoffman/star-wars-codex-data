@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #29",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-02-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-29",
+  "synopsis": "Is the twenty-night issue of the Marvel Comics Doctor Aphra (2020) Series\nThe SPARK ETERNAL sets its sights on CRIMSON DAWN! As SANA STARROS and MAGNA TOLVAN race to intercept it, will DOCTOR APHRA'S most desperate gambit pay off? Or will she be lost to the SPARK ETERNAL forever? Media",
+  "title": "Doctor Aphra (2020) #29"
+}

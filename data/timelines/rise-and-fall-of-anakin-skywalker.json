@@ -1,0 +1,78 @@
+{
+  "entries": [
+    {
+      "kind": "divider",
+      "label": "The Phantom Menace",
+      "markerDate": {
+        "startYear": -32
+      }
+    },
+    {
+      "kind": "work",
+      "note": "A nine-year-old slave wins his freedom and a Jedi's promise.",
+      "workSlug": "star-wars-episode-i-the-phantom-menace"
+    },
+    {
+      "kind": "divider",
+      "label": "The Clone Wars",
+      "markerDate": {
+        "endYear": -19,
+        "startYear": -22
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "kind": "work",
+      "note": "General Skywalker and his Padawan, Ahsoka Tano.",
+      "workSlug": "the-clone-wars-series"
+    },
+    {
+      "kind": "work",
+      "note": "The fall.",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "kind": "event",
+      "label": "Darth Vader is born",
+      "markerDate": {
+        "startYear": -19
+      }
+    },
+    {
+      "kind": "divider",
+      "label": "The Empire",
+      "markerDate": {
+        "endYear": 0,
+        "startYear": -19
+      }
+    },
+    {
+      "kind": "work",
+      "note": "Master and apprentice meet again.",
+      "workSlug": "obi-wan-kenobi-trade-paperback"
+    },
+    {
+      "kind": "work",
+      "note": "The Inquisitors, and a ghost from Anakin's past.",
+      "workSlug": "rebels"
+    },
+    {
+      "kind": "divider",
+      "label": "Redemption",
+      "markerDate": {
+        "startYear": 4
+      }
+    },
+    {
+      "kind": "work",
+      "note": "Anakin Skywalker returns.",
+      "workSlug": "star-wars-episode-vi-return-of-the-jedi-1"
+    }
+  ],
+  "slug": "rise-and-fall-of-anakin-skywalker",
+  "summary": "One life - slave boy, Chosen One, Darth Vader, and finally father. The spine of the Skywalker saga across film and series.",
+  "title": "The Rise and Fall of Anakin Skywalker"
+}

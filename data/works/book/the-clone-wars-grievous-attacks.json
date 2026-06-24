@@ -3,30 +3,47 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Rob Valois",
-      "role": "writer",
-      "slug": "rob-valois"
-    },
-    {
-      "name": "Tracy West",
-      "role": "writer",
-      "slug": "tracy-west"
-    },
-    {
       "name": "Veronica Wasserman",
       "role": "writer",
       "slug": "veronica-wasserman"
+    },
+    {
+      "name": "Tracey West",
+      "role": "writer",
+      "slug": "tracey-west"
+    },
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
     }
   ],
   "displayTitle": "The Clone Wars: Grievous Attacks!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448450032"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448450032",
+      "kind": "print",
+      "onsale": "2009-02-05T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
   "releaseDate": "2009-02-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-grievous-attacks",
+  "synopsis": "A group of young clone troopers find themselves going up against General Grievous and his relentless army of battle droids.",
   "title": "The Clone Wars: Grievous Attacks!"
 }

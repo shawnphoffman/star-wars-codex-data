@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #09",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-08",
+  "synopsis": "Issue 9 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nJedi Knight Quinlan Vos arrives on the crime ridden world of Bevana, on a mission that could be the key to ending the Clone Wars. But it turns out the defector he's tracking has more than Dooku's secrets, he's also made off with a sizeable amount of the count's fortune! Now Vos finds himself in a lethal race against time with the deadliest bounty hunter in the Galaxy, Cad Bane!",
+  "title": "Hyperspace Stories #09"
+}

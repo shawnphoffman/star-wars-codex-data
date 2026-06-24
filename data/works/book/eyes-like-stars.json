@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ashley Poston",
+      "role": "writer",
+      "slug": "ashley-poston"
+    }
+  ],
   "displayTitle": "Eyes Like Stars",
   "editionIds": [
     {
@@ -14,16 +21,18 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780736448581",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2026-07-21T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 33,
     "startYear": 33
   },
-  "releaseDisplayState": "tba",
-  "releaseStatus": "released",
+  "releaseDate": "2026-07-21T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "announced",
   "slug": "eyes-like-stars",
   "synopsis": "Coming soon!",
   "title": "Eyes Like Stars"

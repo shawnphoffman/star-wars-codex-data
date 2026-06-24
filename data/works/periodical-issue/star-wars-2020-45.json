@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #45",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-2020-vol-9-the-path-of-light",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-04-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-45",
+  "synopsis": "This is the forty-fifth issue from the Marvel Comics Star Wars (2020) Series\nTHE GREATEST TRIAL IN THE GALAXY CONTINUES! LANDO CALRISSIAN is on trial for crimes against the ALLIANCE. The evidence is clear, and his friends have turned against him, from LUKE SKYWALKER to LEIA ORGANA. Lando's only hope…is DARTH VADER?",
+  "title": "Star Wars (2020) #45"
+}

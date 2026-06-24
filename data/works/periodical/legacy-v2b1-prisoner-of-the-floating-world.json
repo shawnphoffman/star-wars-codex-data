@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    }
+  ],
+  "displayTitle": "Legacy Volume 2 Book 1: Prisoner of the Floating World",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 138
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2013-11-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-v2b1-prisoner-of-the-floating-world",
+  "title": "Legacy Volume 2 Book 1: Prisoner of the Floating World"
+}

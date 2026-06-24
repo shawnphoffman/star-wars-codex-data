@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E16: The Lawless",
+  "displayTitle": "The Lawless",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2013-02-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e16-the-lawless",
   "synopsis": "Darth Maul has taken over leadership of Death Watch. Though the Jedi cannot officially interfere, Obi-Wan Kenobi travels to Mandalore to rescue Satine.",
-  "title": "The Clone Wars S05E16: The Lawless"
+  "title": "The Lawless"
 }

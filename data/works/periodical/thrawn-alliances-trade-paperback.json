@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Two Dots",
+      "role": "coverArtist",
+      "slug": "two-dots"
+    }
+  ],
+  "displayTitle": "Thrawn: Alliances",
+  "era": "reignOfTheEmpire",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -19
+  },
+  "periodical": {
+    "imprint": "Del Rey",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2024-09-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-alliances-trade-paperback",
+  "synopsis": "Thrawn finds himself on a mission with an unlikely partner: Darth Vader, Lord of the Sith.",
+  "title": "Thrawn: Alliances"
+}

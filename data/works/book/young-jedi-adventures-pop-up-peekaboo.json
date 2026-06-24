@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Frankie Hallam",
+      "role": "writer",
+      "slug": "frankie-hallam"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: Pop-Up Peekaboo!",
   "editionIds": [
     {
@@ -14,15 +21,17 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780744099645",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-06-04T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2024-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-pop-up-peekaboo",
   "synopsis": "Take your younglings on an epic adventure with this pop-up storybook featuring the characters of Star Wars: Young Jedi Adventures!",

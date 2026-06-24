@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Way of the Apprentice",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339179"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339179",
+      "kind": "print",
+      "onsale": "2002-04-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "releaseDate": "2002-04-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-way-of-the-apprentice",
+  "synopsis": "Obi-Wan Kenobi is working hard training Anakin Skywalker to one day become a Jedi Knight. But Anakin will face the ultimate test when a mission gone awry separates the master and apprentice, forcing Anakin to figure things out without Obi-Wan’s guidance.",
+  "title": "Jedi Quest: The Way of the Apprentice"
+}

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S06E03: Fugitive",
+  "displayTitle": "Fugitive",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-6",
   "releaseDate": "2014-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s06e03-fugitive",
   "synopsis": "Clone trooper Tup is transported back to Coruscant, where his body is to be examined by the chancellor's personal physician. ARC Trooper Fives is also investigating the matter.",
-  "title": "The Clone Wars S06E03: Fugitive"
+  "title": "Fugitive"
 }

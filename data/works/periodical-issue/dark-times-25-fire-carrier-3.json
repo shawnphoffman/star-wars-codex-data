@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Dark Times #25 Fire Carrier 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "dark-times-volume-7",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2013-04-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-25-fire-carrier-3",
+  "title": "Dark Times #25 Fire Carrier 3"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    }
+  ],
+  "displayTitle": "Heir to the Empire #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "heir-to-the-empire-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1995-11-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heir-to-the-empire-2",
+  "title": "Heir to the Empire #2"
+}

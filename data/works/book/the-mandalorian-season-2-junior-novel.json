@@ -1,6 +1,13 @@
 {
   "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
   "displayTitle": "The Mandalorian Season 2 (Junior Novel)",
   "editionIds": [
     {
@@ -19,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368075967",
       "isbn13": "9781368075961",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-01-04T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 9,
     "startYear": 9
   },
   "releaseDate": "2022-01-04T00:00:00.000Z",

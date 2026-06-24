@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E01: The Bad Batch",
+  "displayTitle": "The Bad Batch",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-02-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e01-the-bad-batch",
   "synopsis": "After repeated setbacks on the planet Anaxes, an elite clone squad is deployed to investigate the Separatists’ tactical advantage. This special unit called “the Bad Batch” infiltrates Admiral Trench’s cyber center to steal a strategic algorithm capable of predicting the Republic’s every move. What our heroes found was a live signal from the Arc Trooper known as Echo, a clone long believed to be dead. . .",
-  "title": "The Clone Wars S07E01: The Bad Batch"
+  "title": "The Bad Batch"
 }

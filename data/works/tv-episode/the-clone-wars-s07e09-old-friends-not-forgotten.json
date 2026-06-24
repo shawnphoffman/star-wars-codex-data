@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E09: Old Friends Not Forgotten",
+  "displayTitle": "Old Friends Not Forgotten",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-04-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e09-old-friends-not-forgotten",
   "synopsis": "Ahsoka contacts Anakin and Obi-Wan, who must decide whether to help her pursue Maul on Mandalore or defend Coruscant.",
-  "title": "The Clone Wars S07E09: Old Friends Not Forgotten"
+  "title": "Old Friends Not Forgotten"
 }

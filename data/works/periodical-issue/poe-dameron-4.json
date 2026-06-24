@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #04: Lockdown, Part I",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-07-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-4",
+  "synopsis": "The next stop on Poe's mission is Grakkus the Hutt…But Grakkus has been in Republic Prison for years. You know what that means—POE DIRECTLY TO JAIL!",
+  "title": "Poe Dameron #04: Lockdown, Part I"
+}

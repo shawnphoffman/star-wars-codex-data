@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cullen Bunn",
+      "role": "writer",
+      "slug": "cullen-bunn"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Annual #4",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-05-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-annual-4",
+  "synopsis": "Strap in, racing fans — we're going podracing! Bring your betting money, because this is going to be a high-stakes race, with rebel Luke Skywalker, smuggler Sana Starros and even a certain Dark Lord in attendance! PLACE YOUR BETS!",
+  "title": "Star Wars (2015) Annual #4"
+}

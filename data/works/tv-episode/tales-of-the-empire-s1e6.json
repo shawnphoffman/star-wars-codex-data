@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
+  "displayTitle": "The Way Out",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "tales-of-the-empire-s1",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s1e6",
+  "synopsis": "A shadow from Barriss' past catches up with her.",
+  "title": "The Way Out"
+}

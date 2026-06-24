@@ -21,12 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593128428",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2019-11-05T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
   "releaseDate": "2019-11-05T00:00:00.000Z",

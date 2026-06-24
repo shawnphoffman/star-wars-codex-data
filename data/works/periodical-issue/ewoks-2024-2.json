@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steve Orlando",
+      "role": "writer",
+      "slug": "steve-orlando"
+    },
+    {
+      "name": "Álvaro López",
+      "role": "artist",
+      "slug": "alvaro-lopez"
+    },
+    {
+      "name": "Laura Braga",
+      "role": "artist",
+      "slug": "laura-braga"
+    }
+  ],
+  "displayTitle": "Ewoks (2024) #2",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "ewoks-2024-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-11-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-2024-2",
+  "synopsis": "Issue 2 of 4 from Marvel Comics Ewoks (2024) miniseries\nTHE BATTLE ON ENDOR CONTINUES!\nBOUNTY HUNTERS 4-LOM & ZUCKUSS invade Bright Tree Village! Will WICKET and EWOK WARRIOR MEEDRO be able to defend the village? And who is the Red Ghost?",
+  "title": "Ewoks (2024) #2"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
+  "displayTitle": "Obi-Wan & Anakin, Part IV",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -29
+  },
+  "parentWorkSlug": "obi-wan-and-anakin",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-04-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-and-anakin-4",
+  "synopsis": "Obi-Wan and Anakin are trapped on opposite sides of a war…and if they're not careful, they're going to get caught in the crossfire! Plus…why does Anakin want to leave the order?",
+  "title": "Obi-Wan & Anakin, Part IV"
+}

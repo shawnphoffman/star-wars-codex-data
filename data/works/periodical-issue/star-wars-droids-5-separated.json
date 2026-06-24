@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George Carragone",
+      "role": "writer",
+      "slug": "george-carragone"
+    }
+  ],
+  "displayTitle": "Droids #5: Separated",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -15
+  },
+  "parentWorkSlug": "star-wars-2020-vol-7-dark-droids-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1986-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-5-separated",
+  "title": "Star Wars Droids #5: Separated"
+}

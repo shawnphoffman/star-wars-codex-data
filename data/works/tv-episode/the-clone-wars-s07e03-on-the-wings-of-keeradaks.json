@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E03: On The Wings Of Keeradaks",
+  "displayTitle": "On The Wings Of Keeradaks",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-03-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e03-on-the-wings-of-keeradaks",
   "synopsis": "With the help of the Bad Batch, Captain Rex rescues his old friend, ARC Trooper Echo, from the Techno Union. The Separatists’ loss of Echo’s strategic algorithm provides a chance for the Republic to turn the tide in the battle for Anaxes. However, Echo’s horrifying experience behind enemy lines leaves lingering questions of his true loyalty and uncertain future.",
-  "title": "The Clone Wars S07E03: On The Wings Of Keeradaks"
+  "title": "On The Wings Of Keeradaks"
 }

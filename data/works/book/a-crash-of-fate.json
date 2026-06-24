@@ -1,21 +1,42 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Zoraida Córdova",
+      "role": "writer",
+      "slug": "zoraida-cordova"
+    }
+  ],
   "displayTitle": "A Crash of Fate",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368048536"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368048538"
+    }
+  ],
   "editions": [
     {
       "extent": 352,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1368048536",
+      "isbn13": "9781368048538",
+      "kind": "print",
+      "onsale": "2019-08-06T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2019-08-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-crash-of-fate",
   "synopsis": "On the planet of Batuu, two childhood friends reunite after years apart and discover where they truly belong.",

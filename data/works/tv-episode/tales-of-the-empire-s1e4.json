@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nicolas Anastassiou",
+      "role": "writer",
+      "slug": "nicolas-anastassiou"
+    }
+  ],
+  "displayTitle": "Devoted",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "tales-of-the-empire-s1",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s1e4",
+  "synopsis": "Former Jedi Barriss Offee is recruited by the Empire.",
+  "title": "Devoted"
+}

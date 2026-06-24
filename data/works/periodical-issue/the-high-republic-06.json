@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #06",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-06",
+  "synopsis": "The High Republic 6 is the sixth issue of the canon comic book series Star Wars: The High Republic.",
+  "title": "The High Republic (2021) #06"
+}

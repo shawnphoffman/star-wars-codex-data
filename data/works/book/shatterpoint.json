@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Shatterpoint",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345455734"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 408,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345455734",
+      "kind": "print",
+      "onsale": "2003-06-03T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
   "releaseDate": "2003-06-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shatterpoint",
+  "synopsis": "Jedi Master Mace Windu must return to his home planet to save the Republic from further devastation.",
   "title": "Shatterpoint"
 }

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    }
+  ],
+  "displayTitle": "Ewoks #08: Eye of the Kreegon",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "ewoks",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1986-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-08-eye-of-the-kreegon",
+  "title": "Ewoks #08: Eye of the Kreegon"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #33",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-vol-6-quests-of-the-force",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-33",
+  "synopsis": "This is the thirty-third issue of the Marvel Comics Star Wars (2020) Series\nLuke Skywalker's connection to the Force has been disrupted; one of his most powerful tools in his journey to become a Jedi is gone. He must undertake an epic quest to find what he has lost…or he, and the galaxy, will fall to darkness.",
+  "title": "Star Wars (2020) #33"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #71: Rebels and Rogues, Part IV",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-71-rebels-and-rogues-part-iv",
+  "synopsis": "The REBELS AND ROGUES epic continues as our heroes’ mission to divert the IMPERIAL FLEET spins out of control! On K43, the Rock Elders probe THREEPIO’S memories – and allegiances! Could a droid have more in common with a rock monster than a human? On Lanz Carpo, a rogue takes a fall and a princess fights a vigilante. And on Kalakan, LUKE robs a bank. Wait, LUKE ROBS A BANK??",
+  "title": "Star Wars (2015) #71: Rebels and Rogues, Part IV"
+}

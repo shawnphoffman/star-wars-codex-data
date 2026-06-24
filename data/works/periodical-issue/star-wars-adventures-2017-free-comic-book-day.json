@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    }
+  ],
+  "displayTitle": "Adventures (2017) Free Comic Book Day 2019",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -7
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-free-comic-book-day",
+  "synopsis": "Star Wars Adventures Free Comic Book Day 2019 is a one-shot issue of the canon comic book anthology series Star Wars Adventures. It features the story \"Droid Hunters,\" which ties into the miniseries Star Wars Adventures: Tales from Vader's Castle. The issue was written by Cavan Scott, illustrated by Derek Charm, and published as a Free Comic Book Day title on May 4, 2019 by IDW Publishing.",
+  "title": "Star Wars Adventures (2017) Free Comic Book Day 2019"
+}

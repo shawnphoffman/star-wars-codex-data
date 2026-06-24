@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368070396",
       "isbn13": "9781368070393",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-12-03T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 4,
     "startYear": 4
   },
   "releaseDate": "2024-12-03T00:00:00.000Z",

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S03E06: The Last Battle",
+  "displayTitle": "The Last Battle",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -2,
     "startYear": -2
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-3",
   "releaseDate": "2016-10-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s03e06-the-last-battle",
   "synopsis": "On a salvage mission led by Captain Rex, the Ghost crew is captured by a unit of old battle droids determined to fight one last battle to end the Clone Wars.",
-  "title": "Rebels S03E06: The Last Battle"
+  "title": "The Last Battle"
 }

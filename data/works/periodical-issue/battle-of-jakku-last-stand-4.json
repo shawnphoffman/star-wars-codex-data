@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "Battle of Jakku: Last Stand #4",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 5
+  },
+  "parentWorkSlug": "battle-of-jakku-last-stand",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2025-01-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battle-of-jakku-last-stand-4",
+  "synopsis": "Issue 12 of 12 from the Marvel Comics Battle of Jakku maxi-series\nTHE BATTLE OF JAKKU RAGES ON!\nTHE BATTLE OF JAKKU — as never seen before!. THE NEW REPUBLIC must make a painful choice that puts ACKBAR's forces at risk! LUKE SKYWALKER faces off against the deadliest menace to the Republic — and the Empire! A historic character makes their first appearance ever!",
+  "title": "Battle of Jakku: Last Stand #4"
+}

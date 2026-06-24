@@ -26,7 +26,8 @@
       "isPrimary": true,
       "isbn10": "1984819283",
       "isbn13": "9781984819284",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-09-04T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

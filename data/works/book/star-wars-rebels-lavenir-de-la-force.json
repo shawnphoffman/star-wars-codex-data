@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars Rebels: L'avenir de la Force",
+  "creators": [
+    {
+      "name": "Vanessa Rubio-Barreau",
+      "role": "writer",
+      "slug": "vanessa-rubio-barreau"
+    }
+  ],
+  "displayTitle": "Rebels: L'avenir de la Force",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,12 +26,13 @@
       "isPrimary": true,
       "isbn10": "2011956889",
       "isbn13": "9782011956880",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-09-28T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
   "releaseDate": "2016-09-28T00:00:00.000Z",

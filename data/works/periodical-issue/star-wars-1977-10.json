@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Donald F. Glut",
+      "role": "writer",
+      "slug": "donald-f-glut"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "writer",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #10: Behemoth from the World Below",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1978-01-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-10",
+  "title": "Star Wars (1977) #10: Behemoth from the World Below"
+}

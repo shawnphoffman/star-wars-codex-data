@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E03: The Lost Commanders",
+  "displayTitle": "The Lost Commanders",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2015-10-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e03-the-lost-commanders",
   "synopsis": "The rebels run into Captain Rex and his gang on a desert planet.",
-  "title": "Rebels S02E03: The Lost Commanders"
+  "title": "The Lost Commanders"
 }

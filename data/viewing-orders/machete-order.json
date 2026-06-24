@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-iv-a-new-hope-7"
+    },
+    {
+      "note": "\"...I am your father.\" Hold that thought.",
+      "priority": "essential",
+      "workSlug": "star-wars-episode-v-the-empire-strikes-back"
+    },
+    {
+      "note": "The flashback begins.",
+      "priority": "recommended",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "note": "How he became the man in the mask.",
+      "priority": "recommended",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "note": "Back to the present, payoff intact.",
+      "priority": "essential",
+      "workSlug": "star-wars-episode-vi-return-of-the-jedi-1"
+    },
+    {
+      "note": "The classic cut drops it. Watch on its own if you like podracing.",
+      "priority": "skip",
+      "workSlug": "star-wars-episode-i-the-phantom-menace"
+    }
+  ],
+  "slug": "machete-order",
+  "summary": "Rod Hilton's 2011 ordering: open in the original trilogy, flash back through the prequels at the perfect moment, then finish - so the Vader reveal still lands. Episode I is optional.",
+  "title": "Machete Order"
+}

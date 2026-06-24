@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #17",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-17",
+  "synopsis": "This is the seventeenth issue of the Marvel canon comic series Star Wars: Doctor Aphra (2020).\nEVOCATIONS!\nDOCTOR APHRA and SANA STARROS stumble upon a STRANGE RITUAL...\n...And STRANGER ENEMY!\nWill they fall victim to a practitioner of an ANCIENT CULT?",
+  "title": "Doctor Aphra (2020) #17"
+}

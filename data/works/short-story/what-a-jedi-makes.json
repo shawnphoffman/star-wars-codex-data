@@ -1,17 +1,9 @@
 {
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Various",
-      "role": "writer",
-      "slug": "various"
-    }
-  ],
   "displayTitle": "What A Jedi Makes",
   "era": "highRepublic",
   "format": "shortStory",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
   "parentWorkSlug": "the-high-republic-anthology",

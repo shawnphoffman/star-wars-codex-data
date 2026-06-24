@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Forces Of Destiny S02E01 Hasty Departure",
+  "displayTitle": "Forces Of Destiny S02E01: Hasty Departure",
   "era": "reignOfTheEmpire",
   "format": "animatedShort",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
-  "releaseDate": "2018-03-25T00:00:00.000Z",
+  "parentWorkSlug": "forces-of-destiny",
+  "releaseDate": "2018-03-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny-s02e01-hasty-departure",
   "synopsis": "Hera and Sabine liberate a shuttle to find they have unexpected cargo.",
-  "title": "Forces Of Destiny S02E01 Hasty Departure"
+  "title": "Forces Of Destiny S02E01: Hasty Departure"
 }

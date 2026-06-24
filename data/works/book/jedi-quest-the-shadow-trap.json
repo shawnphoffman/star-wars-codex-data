@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Shadow Trap",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339223"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 125,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339223",
+      "kind": "print",
+      "onsale": "2003-05-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -25
+  },
+  "releaseDate": "2003-05-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-shadow-trap",
+  "synopsis": "The Jedi Order seeks to help the planet of Mawan and its people, but not all who travel to the surface may find their way off of it again.",
+  "title": "Jedi Quest: The Shadow Trap"
+}

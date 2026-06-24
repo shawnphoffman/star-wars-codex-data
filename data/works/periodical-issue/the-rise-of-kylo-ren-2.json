@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Rise of Kylo Ren #2",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 28
+  },
+  "parentWorkSlug": "the-rise-of-kylo-ren",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2020-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-kylo-ren-2",
+  "synopsis": "The Rise of Kylo Ren 2 is the second issue of the canon comic book miniseries Star Wars: The Rise of Kylo Ren.",
+  "title": "The Rise of Kylo Ren #2"
+}

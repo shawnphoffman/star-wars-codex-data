@@ -29,6 +29,10 @@
   ],
   "displayTitle": "Rebels",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -5
+  },
   "releaseDate": "2014-10-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
+    }
+  ],
+  "displayTitle": "Caravan Of Courage",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "movie": {
+    "movieType": "directToVideo"
+  },
+  "releaseDate": "1984-11-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "caravan-of-courage",
+  "title": "Caravan Of Courage"
+}

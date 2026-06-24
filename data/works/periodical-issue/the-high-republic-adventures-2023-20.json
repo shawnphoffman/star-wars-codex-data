@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2023) #20",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2025-07-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-20",
+  "synopsis": "The High Republic Adventures comes to an epic conclusion! Now that the Battle of Eriadu is over, what's next for these young heroes? Join the creative team who started it all for the final chapter of this iconic series!\nThe climactic final battle between the Jedi and the Nihil that has been years in the making!",
+  "title": "The High Republic Adventures (2023) #20"
+}

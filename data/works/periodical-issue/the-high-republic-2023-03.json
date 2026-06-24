@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2023) #03",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-01-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2023-03",
+  "synopsis": "This is the third issue from Marvel Comics The High Republic (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series\nTHE TAKING OF THE ATARAXIA!\nLOURNA DEE's treachery has been revealed!\nBut can she escape as the REPUBLIC DEFENSE COALITION combines forces with an unlikely ally?\nJEDI MASTER KEEVE TRENNIS must board a ship she thought was lost, but is anyone prepared for the extent of Lourna's ruthlessness?\nINNOCENT LIVES hang in the balance as Keeve makes a monumental decision!",
+  "title": "The High Republic (2023) #03"
+}

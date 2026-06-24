@@ -6,19 +6,9 @@
       "name": "Tom Huddleston",
       "role": "writer",
       "slug": "tom-huddleston"
-    },
-    {
-      "name": "David M. Buisán",
-      "role": "artist",
-      "slug": "david-m-buisan"
-    },
-    {
-      "name": "Lucy Ruth Cummins",
-      "role": "coverArtist",
-      "slug": "lucy-ruth-cummins"
     }
   ],
-  "displayTitle": "Adventures in Wild Space: The Rescue (Book 6)",
+  "displayTitle": "Adventures in Wild Space: The Rescue",
   "editionIds": [
     {
       "type": "isbn10",
@@ -36,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1405285494",
       "isbn13": "9781405285490",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-04-10T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
   "releaseDate": "2018-04-10T00:00:00.000Z",
@@ -50,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-rescue-book-6",
   "synopsis": "Milo and Lina Graf travel to the planet where their parents have been taken to, hoping to finally set them free.",
-  "title": "Adventures in Wild Space: The Rescue (Book 6)"
+  "title": "Adventures in Wild Space: The Rescue"
 }

@@ -9,6 +9,10 @@
   ],
   "displayTitle": "Tales of the Jedi",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "endYear": -3,
+    "startYear": -32
+  },
   "releaseDate": "2022-10-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Empire's End #1: Triumph of the Empire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "parentWorkSlug": "empire-s-end-1995",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1995-10-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-s-end-1995-1",
+  "title": "Empire's End #1: Triumph of the Empire"
+}

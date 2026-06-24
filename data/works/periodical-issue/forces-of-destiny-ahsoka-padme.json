@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Beth Revis",
+      "role": "writer",
+      "slug": "beth-revis"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "artist",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    }
+  ],
+  "displayTitle": "Forces Of Destiny: Ahsoka & Padmé",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-01-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-ahsoka-padme",
+  "synopsis": "In this Ahsoka and Padme team-up, the brave senator helps relinquish any doubt that the young padawan has in her own abilities. Because of Padme’s faith in Ahsoka’s skills, they strengthen their bond of friendship when faced with an unexpected visitor while preparing for an important meeting with a group of Arthurian senators.",
+  "title": "Forces Of Destiny: Ahsoka & Padmé"
+}

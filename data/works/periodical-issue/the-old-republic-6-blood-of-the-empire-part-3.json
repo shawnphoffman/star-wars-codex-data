@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Old Republic #6: Blood of the Empire, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3678
+  },
+  "parentWorkSlug": "the-old-republic-blood-of-the-empire",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-12-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-6-blood-of-the-empire-part-3",
+  "title": "The Old Republic #6: Blood of the Empire, Part 3"
+}

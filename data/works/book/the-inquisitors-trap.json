@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    }
+  ],
   "displayTitle": "The Inquisitor's Trap",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "148472609X",
       "isbn13": "9781484726099",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-12-09T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2014-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-inquisitors-trap",
   "synopsis": "The rebels’ frantic search for a long-lost Jedi will lead them into a dangerous trap.",

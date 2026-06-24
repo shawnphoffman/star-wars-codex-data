@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rebecca Roanhorse",
+      "role": "writer",
+      "slug": "rebecca-roanhorse"
+    }
+  ],
   "displayTitle": "Reign of the Empire: Edge of the Abyss",
   "editionIds": [
     {
@@ -14,17 +21,18 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593873625",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2026-09-15T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -6,
     "startYear": -6
   },
   "releaseDate": "2026-09-15T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
-  "releaseStatus": "released",
+  "releaseStatus": "announced",
   "slug": "reign-of-the-empire-edge-of-the-abyss",
   "synopsis": "Coming Soon!",
   "title": "Reign of the Empire: Edge of the Abyss"

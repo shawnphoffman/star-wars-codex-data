@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E02: The Siege Of Lothal Part 2",
+  "displayTitle": "The Siege Of Lothal Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2015-06-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e02-the-siege-of-lothal-part-2",
   "synopsis": "After being confronted by Darth Vader, the Ghost crew seek help from Lando Calrissian to leave Lothal and continue the fight against the Empire with the rest of the rebel fleet.",
-  "title": "Rebels S02E02: The Siege Of Lothal Part 2"
+  "title": "The Siege Of Lothal Part 2"
 }

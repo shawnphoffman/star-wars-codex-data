@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "David J. Williams",
+      "role": "writer",
+      "slug": "david-j-williams"
+    },
+    {
+      "name": "Mark S. Williams",
+      "role": "writer",
+      "slug": "mark-s-williams"
+    }
+  ],
+  "displayTitle": "Blade Squadron",
+  "era": "ageOfRebellion",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-insider-the-fiction-collection-volume-3",
+  "releaseDate": "2014-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "blade-squadron",
+  "title": "Blade Squadron"
+}

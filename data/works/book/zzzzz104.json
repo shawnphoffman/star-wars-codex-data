@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 05: The Defenders of the Dead",
+  "displayTitle": "Jedi Apprentice: The Defenders of the Dead",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590519564",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -44,
     "startYear": -44
   },
   "releaseDate": "1999-12-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz104",
   "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves on opposite sides of a brewing war as the padawan discovers who the rebels leading the fight truly are.",
-  "title": "Jedi Apprentice 05: The Defenders of the Dead"
+  "title": "Jedi Apprentice: The Defenders of the Dead"
 }

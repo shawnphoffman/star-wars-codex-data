@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #33: Rebels in the Wild",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "star-wars-vol-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-07-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-33",
+  "synopsis": "The Hero of the Rebellion & the Princess of the Revolution! Luke and Leia finally get some time alone…Unfortunately, it's stranded on a desert island",
+  "title": "Star Wars (2015) #33: Rebels in the Wild"
+}

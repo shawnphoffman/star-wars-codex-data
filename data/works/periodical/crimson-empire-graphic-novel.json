@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Crimson Empire Saga",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2012-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-graphic-novel",
+  "title": "Crimson Empire Saga"
+}

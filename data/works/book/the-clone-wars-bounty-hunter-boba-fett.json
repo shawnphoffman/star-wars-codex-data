@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "The Clone Wars: Bounty Hunter: Boba Fett",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448454139"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448454139",
+      "kind": "print",
+      "onsale": "2010-05-13T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
-    "startYear": -22
+    "startYear": -21
   },
   "releaseDate": "2010-05-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-bounty-hunter-boba-fett",
+  "synopsis": "Young Boba Fett finds himself on the true path toward becoming a bounty hunter when he starts to track down a Jedi he has long hated.",
   "title": "The Clone Wars: Bounty Hunter: Boba Fett"
 }

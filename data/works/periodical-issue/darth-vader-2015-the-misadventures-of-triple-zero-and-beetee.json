@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    }
+  ],
+  "displayTitle": "The Misadventures of Triple-Zero And Beetee",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-2015",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-05-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2015-the-misadventures-of-triple-zero-and-beetee",
+  "synopsis": "A comic-strip bonus by Kieron Gillen published in Darth Vader (2015) #20.",
+  "title": "The Misadventures of Triple-Zero And Beetee"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Chestney",
+      "role": "writer",
+      "slug": "robert-chestney"
+    }
+  ],
+  "displayTitle": "The Old Republic Volume 2: Threat Of Peace",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -3653
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2011-05-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-threat-of-peace",
+  "title": "The Old Republic Volume 2: Threat Of Peace"
+}

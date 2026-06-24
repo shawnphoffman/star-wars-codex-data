@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Classic Star Wars #18: A New Beginning",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "classic-star-wars-volume-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-18-a-new-beginning",
+  "title": "Classic Star Wars #18: A New Beginning"
+}

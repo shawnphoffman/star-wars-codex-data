@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 15: The Death of Hope",
+  "displayTitle": "Jedi Apprentice: The Death of Hope",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139342",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-10-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -41,
     "startYear": -41
   },
   "releaseDate": "2001-10-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz113",
   "synopsis": "Qui-Gon Jinn has fallen in love. When the Jedi Knight he believes he can’t live without is kidnapped, he’s ready to do whatever it takes to get her back.",
-  "title": "Jedi Apprentice 15: The Death of Hope"
+  "title": "Jedi Apprentice: The Death of Hope"
 }

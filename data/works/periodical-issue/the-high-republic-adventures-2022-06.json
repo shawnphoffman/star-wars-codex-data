@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2022) #06",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-adventures-2022-volume-2-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2022-06",
+  "synopsis": "Issue 6 of 8 of the Dark Horse Comics The High Republic Adventures (2022) Series\nHidden aboard the Dank Graks ship, Sav, Maz Kanata, and her crew pause to plot their next move, while the villainous Arkik makes preparations to acquire a devastating new weapon. When the deal gets explosive, Sav must make an important decision: save her new friends, or save her own skin!",
+  "title": "The High Republic Adventures (2022) #06"
+}

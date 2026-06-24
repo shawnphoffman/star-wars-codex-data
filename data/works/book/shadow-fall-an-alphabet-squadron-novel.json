@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
   "displayTitle": "Shadow Fall: An Alphabet Squadron Novel",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1984820044",
       "isbn13": "9781984820044",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-06-03T00:00:00.000Z"
     }
   ],
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 5,
     "startYear": 5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2020-06-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadow-fall-an-alphabet-squadron-novel",
   "synopsis": "Yrica Quell and the rest of Alphabet Squadron continue their seemingly endless search for Shadow Wing, but they’re about to encounter a whole new wave of obstacles along the way.",

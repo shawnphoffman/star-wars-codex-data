@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    }
+  ],
+  "displayTitle": "Star Wars (2025) #07",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 5
+  },
+  "parentWorkSlug": "star-wars",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2025-11-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2025-07",
+  "synopsis": "Issue 7 from Marvel Comics Star Wars (2025) Series\nREVOLUTION!\nHAN, LUKE and VALANCE are caught in the crossfire as the NAGAI uprising takes hold! A betrayal shakes the power structure of an entire sector! And a NEW REPUBLIC hero is stranded with nowhere to turn!",
+  "title": "Star Wars (2025) #07"
+}

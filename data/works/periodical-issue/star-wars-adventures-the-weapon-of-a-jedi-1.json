@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Alec Worley",
+      "role": "writer",
+      "slug": "alec-worley"
+    },
+    {
+      "name": "Ruairí Coleman",
+      "role": "artist",
+      "slug": "ruairi-coleman"
+    }
+  ],
+  "displayTitle": "Adventures: The Weapon of a Jedi #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-adventures-the-weapon-of-a-jedi-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-05-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-the-weapon-of-a-jedi-1",
+  "synopsis": "Star Wars Adventures: The Weapon of a Jedi #1 is the first issue of the Star Wars Adventures: The Weapon of a Jedi comic series, a reprint of the previously released miniseries Star Wars: The Weapon of a Jedi. The comic is written by Jason Fry and Alec Worley, illustrated by Ruairí Coleman, and released by IDW Publishing.\nA comic adaptation of Junior Novel The Weapon of a Jedi: A Luke Skywalker Adventure by Jason  Fry",
+  "title": "Star Wars Adventures: The Weapon of a Jedi #1"
+}

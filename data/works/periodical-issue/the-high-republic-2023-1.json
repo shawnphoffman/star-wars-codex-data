@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2023) #01",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2023-1",
+  "synopsis": "This is the first issue of the Marvel Comics The High Republic (2023) Series and is part of Phase III: Trials of the Jedi: Wave 1, of The High Republic Series\nSTAR WARS: THE HIGH REPUBLIC RETURNS FOR ITS EXPLOSIVE PHASE III!\nA year after the destruction of STARLIGHT BEACON, MARCHION RO and THE NIHIL stand victorious! The galaxy is in turmoil: The once mighty JEDI are outclassed, the REPUBLIC is on its knees.\nOn the edges of the galactic frontier, JEDI MASTER KEEVE TRENNIS leads a desperate assault against an invading force! The odds are stacked against her, but a Jedi always clings to hope.\nTHE FORCE is with her…right? Not so fast!",
+  "title": "The High Republic (2023) #01"
+}

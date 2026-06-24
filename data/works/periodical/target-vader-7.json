@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Target Vader",
+  "era": "reignOfTheEmpire",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2020-02-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "target-vader-7",
+  "synopsis": "THE HUNTER!",
+  "title": "Target Vader"
+}

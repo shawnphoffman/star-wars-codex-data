@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars Rebels: Pris au Piège",
+  "creators": [
+    {
+      "name": "Vanessa Rubio-Barreau",
+      "role": "writer",
+      "slug": "vanessa-rubio-barreau"
+    }
+  ],
+  "displayTitle": "Rebels: Pris au Piège",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "2011463173",
       "isbn13": "9782011463173",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-03-09T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2016-03-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-pris-au-piege",
   "synopsis": "Agent Kallus has set a trap for the rebels on Lothal! Will they still be able to complete their mission?",

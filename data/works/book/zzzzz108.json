@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 09: The Fight for Truth",
+  "displayTitle": "Jedi Apprentice: The Fight for Truth",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,18 +21,19 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590520805",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-08-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -43,
-    "startYear": -43
+    "startYear": -44
   },
   "releaseDate": "2000-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "zzzzz108",
   "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi travel to he planet Kegan to retrieve a Force-sensitive child and bring them back to train as a Jedi. But master and apprentice arrive to discover they are quite unwelcome.",
-  "title": "Jedi Apprentice 09: The Fight for Truth"
+  "title": "Jedi Apprentice: The Fight for Truth"
 }

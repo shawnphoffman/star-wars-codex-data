@@ -25,6 +25,9 @@
   "displayTitle": "Episode VIII: The Last Jedi",
   "era": "riseOfTheFirstOrder",
   "format": "movie",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "movie": {
     "movieType": "theatrical",
     "mpaaRating": "pg13",

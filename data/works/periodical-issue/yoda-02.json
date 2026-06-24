@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "artist",
+      "slug": "nico-leon"
+    }
+  ],
+  "displayTitle": "Yoda #02",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -252
+  },
+  "parentWorkSlug": "yoda-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-02",
+  "synopsis": "Issue 2 of 10 of the Marvel canon comic miniseries Star Wars: Yoda.\nHAS YODA TURNED HIS BACK ON THE GALAXY? Why has the legendary Jedi Master abandoned his usual place on Coruscant to settle on a backwater world on the Galactic frontier? What lesson does he hope to teach? And who will come to his aid when disaster strikes?",
+  "title": "Yoda #02"
+}

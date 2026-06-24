@@ -8,7 +8,7 @@
       "slug": "steven-barnes"
     }
   ],
-  "displayTitle": "The Glass Abyss",
+  "displayTitle": "Mace Windu: The Glass Abyss",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,13 +21,13 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593723432",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-10-15T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -32,
     "startYear": -32
   },
   "releaseDate": "2024-10-15T00:00:00.000Z",
@@ -35,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "the-glass-abys",
   "synopsis": "A message from his old friend Qui-Gon Jinn arrives from beyond the grave, sending him to a faraway planet to finish what the deceased Jedi began.",
-  "title": "The Glass Abyss"
+  "title": "Mace Windu: The Glass Abyss"
 }

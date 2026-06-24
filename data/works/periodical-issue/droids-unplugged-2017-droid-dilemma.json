@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    }
+  ],
+  "displayTitle": "Droid Dilemma",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "droids-unplugged-2017",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-unplugged-2017-droid-dilemma",
+  "synopsis": "A comic short story created by Chris Eliopoulos and Jordie Bellaire, in memory of Kenny Baker, featuring R2-D2. Collected in the Droids Unplugged one-shot.",
+  "title": "Droid Dilemma"
+}

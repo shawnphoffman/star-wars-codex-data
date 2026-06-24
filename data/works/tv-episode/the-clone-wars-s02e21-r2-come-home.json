@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E21: R2 Come Home",
+  "displayTitle": "R2 Come Home",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2010-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e21-r2-come-home",
   "synopsis": "When a band of bounty hunters leads Anakin and Mace into a deadly trap on Vanqor, it's up to R2-D2 to battle his way back to Coruscant and warn the Jedi.",
-  "title": "The Clone Wars S02E21: R2 Come Home"
+  "title": "R2 Come Home"
 }

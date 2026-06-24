@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Republic #30: The Hunt for Aurra Sing, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -30
+  },
+  "parentWorkSlug": "republic-1999",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2001-05-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-1999-30",
+  "title": "Republic #30: The Hunt for Aurra Sing, Part 3"
+}

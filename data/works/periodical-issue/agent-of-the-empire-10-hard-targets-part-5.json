@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Agent of the Empire #10: Hard Targets, Part 5",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "agent-of-the-empire-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2013-02-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agent-of-the-empire-10-hard-targets-part-5",
+  "title": "Agent of the Empire #10: Hard Targets, Part 5"
+}

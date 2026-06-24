@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
   "displayTitle": "Droids in Distress",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1405275847",
       "isbn13": "9781405275842",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-11-18T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2014-11-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "droids-in-distress",
   "synopsis": "Even though Chopper seems like a grumpy old droid, the crew is about to be reminded that droids are just important to the success of the rebellion as they are.",

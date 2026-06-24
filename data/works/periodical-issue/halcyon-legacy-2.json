@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Halcyon Legacy #2",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "parentWorkSlug": "halcyon-legacy",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-03-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "halcyon-legacy-2",
+  "synopsis": "Is the second issue of the Star Wars: Halcyon Legacy comic book mini-series from Marvel Comics.\nYOUR TICKET TO THE HOTTEST RIDE IN THE GALAXY!\nThe Halcyon comes under fire from pirates – with little chance of escape!\nWho is the mysterious Resistance spy on board that may lead to the fiery end of the ship's 275-year run?\nAnd find out how, years earlier, bounty hunter AURRA SING and a mysterious partner gambled with their lives during the galactic starcruiser's era as a flying casino!",
+  "title": "Halcyon Legacy #2"
+}

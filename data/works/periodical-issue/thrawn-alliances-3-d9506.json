@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    }
+  ],
+  "displayTitle": "Thrawn: Alliances #3",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -19
+  },
+  "parentWorkSlug": "thrawn-alliances-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-alliances-3-d9506",
+  "synopsis": "Thrawn: Alliances #3 - Issue 3 of 4 from Marvel Comics Thrawn: Alliances miniseries\nA SPACE BATTLE FOR THE AGES!\nPAST and PRESENT collide as THRAWN partners with ANAKIN SKYWALKER and DARTH VADER! What are the separatists hiding? And how does PADMÉ play a role?",
+  "title": "Thrawn: Alliances #3"
+}

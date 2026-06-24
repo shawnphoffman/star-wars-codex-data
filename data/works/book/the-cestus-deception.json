@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "The Cestus Deception",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345458971"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345458971",
+      "kind": "print",
+      "onsale": "2004-06-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -21,
-    "startYear": -21
+    "startYear": -22
   },
   "releaseDate": "2004-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-cestus-deception",
+  "synopsis": "Jedi Master Obi-Wan Kenobi heads to the planet Cestus to try and stop the Separatists from overtaking the struggling world.",
   "title": "The Cestus Deception"
 }

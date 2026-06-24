@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
+  "displayTitle": "Realization",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "tales-of-the-empire-s1",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s1e5",
+  "synopsis": "On a mission to hunt a fugitive, complications change Barriss forever.",
+  "title": "Realization"
+}

@@ -8,18 +8,18 @@
       "slug": "george-mann"
     }
   ],
-  "displayTitle": "The High Republic: Seeds of Starlight",
+  "displayTitle": "Seeds of Starlight",
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-11-14T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -228
   },
   "releaseDate": "2024-11-14T00:00:00.000Z",
@@ -27,5 +27,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-seeds-of-starlight",
   "synopsis": "Something strange is happening on the planet Eiram, and a group of Jedi are about to risk their own lives to save the lives of others.",
-  "title": "The High Republic: Seeds of Starlight"
+  "title": "Seeds of Starlight"
 }

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Elizabeth Hand",
+      "role": "writer",
+      "slug": "elizabeth-hand"
+    }
+  ],
+  "displayTitle": "Boba Fett #3: Maze of Deception",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "parentWorkSlug": "omnibus-boba-fett",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2003-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-3-maze-of-deception",
+  "title": "Boba Fett #3: Maze of Deception"
+}

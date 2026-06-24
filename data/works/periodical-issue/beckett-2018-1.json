@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Gerry Duggan",
+      "role": "writer",
+      "slug": "gerry-duggan"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Beckett",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -11
+  },
+  "parentWorkSlug": "beckett-2018",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-08-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "beckett-2018-1",
+  "synopsis": "THE GOOD, THE BAD AND THE DEADLY! TOBIAS BECKETT taught HAN SOLO everything he knows about surviving hoodlum-filled cantinas and backwater worlds. But who is this career outlaw and why is ENFYS NEST— one of the galaxy's most dangerous and brutal marauders — so dead set on taking him down once and for all? Find out in this original tale of a man who has gamed star system after star system, but at a cost that no heist can make up for.",
+  "title": "Beckett"
+}

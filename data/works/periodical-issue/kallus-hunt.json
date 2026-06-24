@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Bob Molesworth",
+      "role": "artist",
+      "slug": "bob-molesworth"
+    }
+  ],
+  "displayTitle": "Kallus Hunt",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "parentWorkSlug": "star-wars-rebels-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "kallus-hunt",
+  "synopsis": "\"Kallus' Hunt\" is a comic strip published in the fourth issue of the Star Wars Rebels Magazine series by Egmont UK Ltd. It was written by Martin Fisher, illustrated by Bob Molesworth and edited by Gunther Nickel. The comic was released on April 22, 2015.\nAccording to Fisher, the story takes place between the Star Wars Rebels episodes \"Breaking Ranks\" and \"Out of Darkness.\"",
+  "title": "Kallus Hunt"
+}

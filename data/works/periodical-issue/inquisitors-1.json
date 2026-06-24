@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Inquisitors #1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -14
+  },
+  "parentWorkSlug": "inquisitors-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-07-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "inquisitors-1",
+  "synopsis": "Issue 1 of 4 from Marvel Comics Inquisitors Mini Series\nTHE JEDI MUST DIE!\nWeapons of the EMPEROR, sent out into the galaxy to track down and kill any Jedi who survived ORDER 66, the ruthless INQUISITORS are among the most skilled and deadly threats to those who served the light side of the Force.\nBuried in the annals of Jedi lore is the story of TENSU RUN, the Jedi who faced the Inquisitors and DARTH VADER!\nWhat became of him, and why did the EMPIRE so greatly fear his existence?",
+  "title": "Inquisitors #1"
+}

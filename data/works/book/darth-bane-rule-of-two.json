@@ -21,7 +21,8 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345477484",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2008-10-28T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -29,7 +30,7 @@
     "endYear": -990,
     "startYear": -1000
   },
-  "releaseDate": "2007-12-26T00:00:00.000Z",
+  "releaseDate": "2008-10-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-bane-rule-of-two",

@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "writer",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Pierrick Colinet",
+      "role": "writer",
+      "slug": "pierrick-colinet"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Matt Herms",
+      "role": "artist",
+      "slug": "matt-herms"
+    },
+    {
+      "name": "Sarah Stern",
+      "role": "artist",
+      "slug": "sarah-stern"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #11 - Powered Down part 2",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-06-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-11-powered-down-part-2",
+  "synopsis": "Han and Chewie are stuck on an alien planet with no way off while being pursued by droids bent on their destruction! Will everyone's favorite smuggler duo find a way to safety before time runs out?",
+  "title": "Star Wars Adventures (2017) #11 - Powered Down part 2"
+}

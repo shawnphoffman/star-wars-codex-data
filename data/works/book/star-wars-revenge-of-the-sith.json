@@ -1,0 +1,38 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Stover",
+      "role": "writer",
+      "slug": "matthew-stover"
+    }
+  ],
+  "displayTitle": "Revenge of the Sith",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217090983"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 418,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9798217090983",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-revenge-of-the-sith",
+  "synopsis": "Matthew Stover’s novelization of Revenge of the Sith dives deep into the rapidly fraying mind of Anakin Skywalker as he seeks answers the Jedi do not want him looking for: How to save the one he loves from death.",
+  "title": "Star Wars: Revenge of the Sith"
+}

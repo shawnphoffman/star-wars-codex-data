@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
+  "displayTitle": "Starfighter: Crossbones #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -26
+  },
+  "parentWorkSlug": "starfighter-crossbones-2002",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starfighter-crossbones-2002-3",
+  "title": "Starfighter: Crossbones #3"
+}

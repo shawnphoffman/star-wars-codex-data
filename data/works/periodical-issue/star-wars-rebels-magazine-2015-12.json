@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Eva Widermann",
+      "role": "artist",
+      "slug": "eva-widermann"
+    }
+  ],
+  "displayTitle": "A Day's Duty",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "star-wars-rebels-magazine-2015",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-02-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-magazine-2015-12",
+  "synopsis": "\"A Day's Duty\" is a comic strip written by Martin Fisher, drawn by Eva Widermann and edited by Gunther Nickel. The story was published in the fifteenth issue of the Star Wars Rebels Magazine series by Egmont UK Ltd, which was released on February 24, 2016.\nAccording to Fisher, the story takes place between the Star Wars Rebels episodes \"Stealth Strike\" and \"The Future of the Force.\"",
+  "title": "A Day's Duty"
+}

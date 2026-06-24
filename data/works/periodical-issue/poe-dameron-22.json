@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "artist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #22: Legend Found, Part III",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-22",
+  "synopsis": "Black Squadron and General Organa have teamed together for an extra-top-secret mission…and it's up to them to rescue Lor San Tekka! Meanwhile, what's Suralinda got up her sleeves?",
+  "title": "Poe Dameron #22: Legend Found, Part III"
+}

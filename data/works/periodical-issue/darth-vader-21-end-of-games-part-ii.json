@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #21: End of Games, Part II",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-4-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-21-end-of-games-part-ii",
+  "synopsis": "Vader takes on Cylo and his cybernetic operatives while the Executor moves closer to completion in time for its launch.",
+  "title": "Darth Vader (2015) #21: End of Games, Part II"
+}

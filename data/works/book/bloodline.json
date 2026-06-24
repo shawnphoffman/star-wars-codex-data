@@ -6,11 +6,6 @@
       "name": "Claudia Gray",
       "role": "writer",
       "slug": "claudia-gray"
-    },
-    {
-      "name": "Scott Biel",
-      "role": "coverArtist",
-      "slug": "scott-biel"
     }
   ],
   "displayTitle": "Bloodline",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1101885262",
       "isbn13": "9781101885260",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-05-03T00:00:00.000Z"
     }
   ],
-  "era": "riseOfTheFirstOrder",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 28,
     "startYear": 28
   },
   "releaseDate": "2016-05-03T00:00:00.000Z",

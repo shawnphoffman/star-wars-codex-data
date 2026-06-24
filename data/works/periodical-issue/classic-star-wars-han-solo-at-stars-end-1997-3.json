@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: Han Solo at Stars' End #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "classic-star-wars-han-solo-at-stars-end-1997",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-05-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-han-solo-at-stars-end-1997-3",
+  "title": "Classic Star Wars: Han Solo at Stars' End #3"
+}

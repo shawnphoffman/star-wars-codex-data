@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "artist",
+      "slug": "alessandro-miracolo"
+    }
+  ],
+  "displayTitle": "Yoda #07",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "parentWorkSlug": "yoda-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-07",
+  "synopsis": "Issue 7 of 10 of the Marvel canon comic miniseries Star War3: Yoda.\nYODA VS. GENERAL GRIEVOUS…TO THE DEATH! The start of a new arc set during the tumultuous CLONE WARS! The Separatists have a powerful new weapon that can change the course of the war! Can Yoda and Anakin Skywalker discover the secret of the weapon in time?",
+  "title": "Yoda #07"
+}

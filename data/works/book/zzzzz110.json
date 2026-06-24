@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 12: The Evil Experiment",
+  "displayTitle": "Jedi Apprentice: The Evil Experiment",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,18 +21,19 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139311",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-02-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -42,
-    "startYear": -42
+    "startYear": -43
   },
-  "releaseDate": "2000-02-01T00:00:00.000Z",
+  "releaseDate": "2001-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "zzzzz110",
   "synopsis": "When Jedi Master Qui-Gon Jinn becomes the prisoner of an evil scientist, it’s up to Obi-Wan Kenobi to rescue him.",
-  "title": "Jedi Apprentice 12: The Evil Experiment"
+  "title": "Jedi Apprentice: The Evil Experiment"
 }

@@ -29,12 +29,14 @@
     "startYear": -22
   },
   "movie": {
-    "movieType": "theatrical"
+    "movieType": "theatrical",
+    "mpaaRating": "pg",
+    "runtimeMinutes": 142
   },
   "releaseDate": "2002-05-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-ii-attack-of-the-clones-1",
-  "synopsis": "In this novel adaption of the iconic Star Wars film, Jedi Obi-Wan Kenobi and Anakin Skywalker must protect Senator Padmé Amidala from danger – while also attempting to uncover the mystery behind who might want her dead.",
+  "synopsis": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
   "title": "Episode II: Attack Of The Clones"
 }

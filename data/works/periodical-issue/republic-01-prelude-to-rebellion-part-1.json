@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "Republic #01: Prelude to Rebellion, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "parentWorkSlug": "omnibus-kotor-vol1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1998-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-01-prelude-to-rebellion-part-1",
+  "title": "Republic #01: Prelude to Rebellion, Part 1"
+}

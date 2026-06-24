@@ -21,13 +21,13 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593597958",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-04-09T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -33,
     "startYear": -33
   },
   "releaseDate": "2024-04-09T00:00:00.000Z",

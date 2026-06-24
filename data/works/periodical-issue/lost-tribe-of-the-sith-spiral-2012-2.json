@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Spiral #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2974
+  },
+  "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2012-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-spiral-2012-2",
+  "title": "Lost Tribe of the Sith: Spiral #2"
+}

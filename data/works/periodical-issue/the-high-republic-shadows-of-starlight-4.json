@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "artist",
+      "slug": "ibraim-roberson"
+    }
+  ],
+  "displayTitle": "The High Republic: Shadows of Starlight #4",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -229,
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-shadows-of-starlight-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-shadows-of-starlight-4",
+  "synopsis": "Issue 4 of 4 from Marvel Comics The High Republic Shadows of Starlight miniseries\nMARCHION RO WINS! The final glimpse of the lost year of THE HIGH REPUBLIC is revealed, as we follow the EYE OF THE STORM himself, MARCHION RO, from his greatest triumph – the destruction of the JEDI fortress known as STARLIGHT BEACON – to the many trials that came after!",
+  "title": "The High Republic: Shadows of Starlight #4"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Obi-Wan Kenobi #4",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "obi-wan-kenobi-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-01-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-4",
+  "synopsis": "Issue 4 of 6 from Marvel Comics Obi-Wan Kenobi adaptation miniseries. This issue is an adaptation of the fourth episode of the television series Obi-Wan Kenobi.\nOBI-WAN PLOTS A DARING MISSION INTO ENEMY TERRITORY!\nOBI-WAN and TALA must evade the INQUISITORS to rescue LEIA! Meanwhile, THIRD SISTER and the other INQUISITORS try to impress DARTH VADER by being the one to finally capture OBI-WAN!",
+  "title": "Obi-Wan Kenobi #4"
+}

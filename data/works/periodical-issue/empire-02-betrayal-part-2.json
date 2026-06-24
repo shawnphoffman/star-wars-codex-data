@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Scott Allie",
+      "role": "writer",
+      "slug": "scott-allie"
+    }
+  ],
+  "displayTitle": "Empire #02: Betrayal, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "parentWorkSlug": "star-wars-legends-empire-omnibus-vol-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-02-betrayal-part-2",
+  "title": "Empire #02: Betrayal, Part 2"
+}

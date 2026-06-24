@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brandon Badeaux",
+      "role": "writer",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    }
+  ],
+  "displayTitle": "Rebellion #08: The Ahakista Gambit, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "rebellion-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2007-07-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebellion-08-the-ahakista-gambit-part-3",
+  "title": "Rebellion #08: The Ahakista Gambit, Part 3"
+}

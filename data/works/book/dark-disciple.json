@@ -6,16 +6,6 @@
       "name": "Christie Golden",
       "role": "writer",
       "slug": "christie-golden"
-    },
-    {
-      "name": "Matt Taylor",
-      "role": "coverArtist",
-      "slug": "matt-taylor"
-    },
-    {
-      "name": "Scott Biel",
-      "role": "coverArtist",
-      "slug": "scott-biel"
     }
   ],
   "displayTitle": "Dark Disciple",
@@ -31,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593873298",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-07-07T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2015-07-07T00:00:00.000Z",

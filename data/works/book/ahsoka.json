@@ -6,11 +6,6 @@
       "name": "E.K. Johnston",
       "role": "writer",
       "slug": "e-k-johnston"
-    },
-    {
-      "name": "Wojtek Fus",
-      "role": "coverArtist",
-      "slug": "wojtek-fus"
     }
   ],
   "displayTitle": "Ahsoka",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1484782313",
       "isbn13": "9781484782316",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-10-11T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
   "releaseDate": "2016-10-11T00:00:00.000Z",

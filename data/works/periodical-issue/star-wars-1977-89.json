@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ann Nocenti",
+      "role": "writer",
+      "slug": "ann-nocenti"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #89: I'll See You in the Throne Room",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1984-08-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-89",
+  "title": "Star Wars (1977) #89: I'll See You in the Throne Room"
+}

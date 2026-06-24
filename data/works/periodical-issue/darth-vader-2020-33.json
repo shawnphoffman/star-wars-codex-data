@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Adam Gorham",
+      "role": "artist",
+      "slug": "adam-gorham"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #33",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-darth-vader-vol-7-unbound-force",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-33",
+  "synopsis": "This is the  thirty-third issue of the Marvel Comics Darth Vader (2020) Series\nWhen the Dark Lord of the Sith loses control of the Force, nothing is safe – not even his own Executor-class Star Dreadnought. But in the face of total destruction, Commander Sabé finds an opportunity. Does Vader's untrammeled onslaught expose a vulnerability? Or is it just another doorway to the terrifying tyranny of the Sith?",
+  "title": "Darth Vader (2020) #33"
+}

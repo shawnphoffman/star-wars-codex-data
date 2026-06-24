@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #03: Broken, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2006-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-03-broken-part-3",
+  "title": "Legacy #03: Broken, Part 3"
+}

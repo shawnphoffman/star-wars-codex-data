@@ -21,15 +21,16 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590521017",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -32,
     "startYear": -32
   },
-  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDate": "2000-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-1-journal-queen-amidala",

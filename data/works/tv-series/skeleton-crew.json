@@ -2,6 +2,9 @@
   "canonStatus": "canon",
   "displayTitle": "Skeleton Crew",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "releaseDate": "2024-12-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

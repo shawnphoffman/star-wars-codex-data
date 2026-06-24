@@ -8,7 +8,7 @@
       "slug": "justina-ireland"
     }
   ],
-  "displayTitle": "The High Republic: Out Of The Shadows",
+  "displayTitle": "Out of the Shadows",
   "editionIds": [
     {
       "type": "isbn10",
@@ -21,18 +21,24 @@
   ],
   "editions": [
     {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2021-07-27T00:00:00.000Z"
+    },
+    {
       "extent": 423,
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "136806065X",
       "isbn13": "9781368060653",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2021-07-27T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -231,
     "startYear": -231
   },
   "releaseDate": "2021-07-27T00:00:00.000Z",
@@ -40,5 +46,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-out-of-the-shadows",
   "synopsis": "A disagreement between the Republic’s two most powerful families creates an unwanted conflict on Coruscant.",
-  "title": "The High Republic: Out Of The Shadows"
+  "title": "Out of the Shadows"
 }

@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars Rebels: Le Choix d'Ezra",
+  "creators": [
+    {
+      "name": "Vanessa Rubio-Barreau",
+      "role": "writer",
+      "slug": "vanessa-rubio-barreau"
+    }
+  ],
+  "displayTitle": "Rebels: Le Choix d'Ezra",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "201145672X",
       "isbn13": "9782011456724",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-06-08T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2016-06-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-le-choix-dezra",
   "synopsis": "Ezra struggles to figure out where he belongs in the rebellion just as danger approaches.",

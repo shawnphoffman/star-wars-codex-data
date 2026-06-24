@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E06: Weapons Factory",
+  "displayTitle": "Weapons Factory",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2009-11-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e06-weapons-factory",
   "synopsis": "Luminara and Anakin act as decoys to divert new enemy super-tanks, while Padawans Barriss Offee and Ahsoka attempt to destroy a Separatist droid factory.",
-  "title": "The Clone Wars S02E06: Weapons Factory"
+  "title": "Weapons Factory"
 }

@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Michael Fleisher",
+      "role": "writer",
+      "slug": "michael-fleisher"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #64: Serphidian Eyes",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1982-07-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-64",
+  "title": "Star Wars (1977) #64: Serphidian Eyes"
+}

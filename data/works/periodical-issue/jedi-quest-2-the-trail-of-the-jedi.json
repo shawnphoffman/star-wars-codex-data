@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #2: The Trail of the Jedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "periodical": {
+    "imprint": "Scholastic",
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-2-the-trail-of-the-jedi",
+  "synopsis": "Anakin Skywalker doubts his worthiness and abilities as a future Jedi, even as his master works tirelessly to train him.",
+  "title": "Jedi Quest #2: The Trail of the Jedi"
+}

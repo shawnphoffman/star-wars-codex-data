@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    }
+  ],
+  "displayTitle": "The High Republic: The Blade #1",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-the-blade-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-blade-1",
+  "synopsis": "Issue 1 of 4 of the Marvel Comics The High Republic: The Blade miniseries from Phase 2 of The High Republic\nHundreds of years before the Skywalker Saga, witness the rise of a legend – the mighty Jedi PORTER ENGLE, perhaps the most skilled lightsaber wielder in the High Republic.\nWith his fellow Jedi Knight Barash, he travels the galaxy, serving as a guardian of peace and justice.\nBut even Porter Engle has enemies he cannot defeat.",
+  "title": "The High Republic: The Blade #1"
+}

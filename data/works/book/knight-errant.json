@@ -21,12 +21,12 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593726051",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2011-01-25T00:00:00.000Z"
     }
   ],
   "format": "book",
   "inUniverseDate": {
-    "endYear": -1032,
     "startYear": -1032
   },
   "releaseDate": "2011-01-25T00:00:00.000Z",

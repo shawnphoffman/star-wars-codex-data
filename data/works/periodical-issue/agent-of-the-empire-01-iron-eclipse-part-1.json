@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Agent of the Empire #01: Iron Eclipse, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "agent-of-the-empire-volume-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-12-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agent-of-the-empire-01-iron-eclipse-part-1",
+  "title": "Agent of the Empire #01: Iron Eclipse, Part 1"
+}

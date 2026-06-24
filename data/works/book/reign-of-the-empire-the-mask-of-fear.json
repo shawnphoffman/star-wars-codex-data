@@ -21,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593723463",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-02-25T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2025-02-25T00:00:00.000Z",

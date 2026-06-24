@@ -1,6 +1,13 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Thrawn",
   "editionIds": [
     {
@@ -19,13 +26,14 @@
       "isPrimary": true,
       "isbn10": "0345511271",
       "isbn13": "9780345511270",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-04-11T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -14
+    "startYear": -15
   },
   "releaseDate": "2017-04-11T00:00:00.000Z",
   "releaseDisplayState": "released",

@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Letterer Clayton Cowles",
+      "role": "artist",
+      "slug": "letterer-clayton-cowles"
+    },
+    {
+      "name": "Colorist Edgar Delgado",
+      "role": "artist",
+      "slug": "colorist-edgar-delgado"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #34: The Thirteen Crates",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "star-wars-vol-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-08-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-34",
+  "synopsis": "Sana and Lando join forces on Coruscant to swindle some credits!",
+  "title": "Star Wars (2015) #34: The Thirteen Crates"
+}

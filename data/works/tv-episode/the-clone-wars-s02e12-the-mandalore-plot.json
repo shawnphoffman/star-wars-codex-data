@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E12: The Mandalore Plot",
+  "displayTitle": "The Mandalore Plot",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2010-01-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e12-the-mandalore-plot",
   "synopsis": "While investigating rumors of conspiracy surrounding Duchess Satine of Mandalore, Obi-Wan uncovers the truth about a mysterious Mandalorian plot.",
-  "title": "The Clone Wars S02E12: The Mandalore Plot"
+  "title": "The Mandalore Plot"
 }

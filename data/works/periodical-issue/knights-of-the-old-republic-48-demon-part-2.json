@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #48: Demon, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-9-demon-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2009-12-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-48-demon-part-2",
+  "title": "Knights of the Old Republic #48: Demon, Part 2"
+}

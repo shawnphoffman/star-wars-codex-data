@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
+  "displayTitle": "Episode II: Attack of the Clones",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2016-09-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episodeii-attack-of-the-clones-hardcover-graphic-novel",
+  "title": "Episode II: Attack of the Clones"
+}

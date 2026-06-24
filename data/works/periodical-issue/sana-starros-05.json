@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    }
+  ],
+  "displayTitle": "Sana Starros #05",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "sana-starros-tpb",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-06-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sana-starros-05",
+  "synopsis": "The last issue of the 5 part Marvel Comics Sana Starros miniseries\nTHE STARROS FAMILY INFILTRATES AN IMPERIAL DESTROYER. WHAT CAN GO WRONG?\nSANA STARROS and bounty hunter DEVA LOMPOP have boarded the KING'S RANSOM to save one of their family. But once they find out they've been betrayed, the STARROS CLAN will never be the same!",
+  "title": "Sana Starros #05"
+}

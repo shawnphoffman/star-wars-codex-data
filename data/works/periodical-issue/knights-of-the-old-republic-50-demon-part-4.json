@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #50: Demon, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-9-demon-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-02-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-50-demon-part-4",
+  "title": "Knights of the Old Republic #50: Demon, Part 4"
+}

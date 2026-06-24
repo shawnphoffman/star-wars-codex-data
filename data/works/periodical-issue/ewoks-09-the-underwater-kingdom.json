@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    }
+  ],
+  "displayTitle": "Ewoks #09: The Underwater Kingdom",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "ewoks",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1986-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-09-the-underwater-kingdom",
+  "title": "Ewoks #09: The Underwater Kingdom"
+}

@@ -6,9 +6,14 @@
       "name": "Daniel José Older",
       "role": "writer",
       "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
     }
   ],
-  "displayTitle": "The High Republic: Escape from Valo",
+  "displayTitle": "Escape from Valo",
   "editionIds": [
     {
       "type": "isbn10",
@@ -26,13 +31,13 @@
       "isPrimary": true,
       "isbn10": "1368093809",
       "isbn13": "9781368093804",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-01-30T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -229
   },
   "releaseDate": "2024-01-30T00:00:00.000Z",
@@ -40,5 +45,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-escape",
   "synopsis": "Trapped on Valo after the attack on the Republic Fair, a group of younglings must stick together in order to survive.",
-  "title": "The High Republic: Escape from Valo"
+  "title": "Escape from Valo"
 }

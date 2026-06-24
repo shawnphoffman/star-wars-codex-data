@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Age Of Resistance: Finn",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 33
+  },
+  "parentWorkSlug": "age-of-resistance",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-07-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-finn",
+  "synopsis": "This story shows Finn’s heart of gold amidst his less-than-glorious job as a janitor on Starkiller base. While performing routine duties, he discovers something which causes a bit of a dilemma. . .",
+  "title": "Age Of Resistance: Finn"
+}

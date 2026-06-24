@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Mikaelian",
+      "role": "writer",
+      "slug": "michael-mikaelian"
+    },
+    {
+      "name": "Patrick McLaughlin",
+      "role": "writer",
+      "slug": "patrick-mclaughlin"
+    }
+  ],
   "displayTitle": "Lumiya: Dark Star of the Empire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 5,
     "startYear": 5
   },
   "releaseDate": "1995-04-01T00:00:00.000Z",

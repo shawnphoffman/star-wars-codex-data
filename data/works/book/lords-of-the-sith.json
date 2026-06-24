@@ -6,11 +6,6 @@
       "name": "Paul S. Kemp",
       "role": "writer",
       "slug": "paul-s-kemp"
-    },
-    {
-      "name": "Aaron McBride",
-      "role": "coverArtist",
-      "slug": "aaron-mcbride"
     }
   ],
   "displayTitle": "Lords of the Sith",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "034551145X",
       "isbn13": "9780345511454",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-04-28T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -14,
     "startYear": -14
   },
   "releaseDate": "2015-04-28T00:00:00.000Z",

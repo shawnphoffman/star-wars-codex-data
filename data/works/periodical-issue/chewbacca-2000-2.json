@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Chewbacca (2000) #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 25
+  },
+  "parentWorkSlug": "chewbacca",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2000-02-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chewbacca-2000-2",
+  "title": "Chewbacca (2000) #2"
+}

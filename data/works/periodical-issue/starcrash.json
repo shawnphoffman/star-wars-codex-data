@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Doug Petrie",
+      "role": "writer",
+      "slug": "doug-petrie"
+    }
+  ],
+  "displayTitle": "Republic #27: Starcrash",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -31
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2001-02-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starcrash",
+  "title": "Republic #27: Starcrash"
+}

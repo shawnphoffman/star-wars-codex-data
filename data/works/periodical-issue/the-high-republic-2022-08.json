@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
+  "displayTitle": "The High Republic (2022) #08",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-2022-vol-2-battle-for-the-force-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2022-08",
+  "synopsis": "The eight issue of the Marvel comic book series Star Wars: The High Republic (2022) from Phase 2 of The High Republic\nOne Jedi lies dying in Jedha's frozen desert, and another is missing. Can Vildar, Matty and Tey escape the siege of Enlightenment in time to save them both?\nAnd all the time, the Leveler waits in the shadows, desperate to feed.\nPlus, the identities of the mysterious raiders are revealed.",
+  "title": "The High Republic (2022) #08"
+}

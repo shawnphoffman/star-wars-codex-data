@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: The Fall of the Sith Empire #2: Forces in Collision",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5000
+  },
+  "parentWorkSlug": "tales-of-the-jedi-the-fall-of-the-sith-empire-1997",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-the-fall-of-the-sith-empire-1997-2",
+  "title": "Tales of the Jedi: The Fall of the Sith Empire #2: Forces in Collision"
+}

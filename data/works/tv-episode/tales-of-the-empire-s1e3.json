@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
+  "displayTitle": "The Path Of Hate",
+  "era": "newRepublic",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "tales-of-the-empire-s1",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s1e3",
+  "synopsis": "Offered the chance to stand trial for her crimes, Morgan instead seeks her destiny.",
+  "title": "The Path Of Hate"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Agent of the Empire #02: Iron Eclipse, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "agent-of-the-empire-volume-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2012-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agent-of-the-empire-02-iron-eclipse-part-2",
+  "title": "Agent of the Empire #02: Iron Eclipse, Part 2"
+}

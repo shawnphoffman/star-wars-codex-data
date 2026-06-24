@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Labyrinth of Evil",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345475725"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 452,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345475725",
+      "kind": "print",
+      "onsale": "2005-01-25T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2005-01-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "labyrinth-of-evil",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker are closer than ever to discovering who is really behind the destructive Clone Wars.",
   "title": "Labyrinth of Evil"
 }

@@ -1,0 +1,53 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Angleberger",
+      "role": "writer",
+      "slug": "tom-angleberger"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: Beware the Power of the Dark Side!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484709139"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484712207"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484709139",
+      "kind": "print",
+      "onsale": "2015-09-22T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney Publishing Worldwide",
+      "isPrimary": true,
+      "isbn13": "9781484712207",
+      "kind": "print"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "relatedWorkSlugs": [
+    "a-new-hope-the-princess-the-scoundrel-and-the-farm-boy",
+    "star-wars-the-empire-strikes-back-so-you-want-to-be-a-jedi"
+  ],
+  "releaseDate": "2015-09-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-beware-the-power-of-the-dark-side",
+  "synopsis": "Presents a retelling of the third Star Wars movie, featuring Luke Skywalker, Han Solo, and Princess Leia as they battle the Empire. The evil Empire is constructing a second Death Star to crush the Rebel Alliance. But Luke Skywalker has other plans-- to destroy the Empire and stop the Emperor once and for all. Yet there is one thing standing in his way... his father.",
+  "title": "Return of the Jedi: Beware the Power of the Dark Side!"
+}

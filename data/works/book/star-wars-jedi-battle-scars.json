@@ -21,13 +21,13 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593598634",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-03-07T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -12,
     "startYear": -12
   },
   "releaseDate": "2023-03-07T00:00:00.000Z",

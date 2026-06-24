@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "The High Republic: Shadows of Starlight #3",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -229,
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-shadows-of-starlight-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-12-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-shadows-of-starlight-3",
+  "synopsis": "Issue 3 of 4 from Marvel Comics The High Republic Shadows of Starlight miniseries\nBELL ZETTIFAR: JEDI KNIGHT!\nMany JEDI KNIGHTS were lost in the fall of STARLIGHT BEACON, and many lost their way after the disaster.\nBELL ZETTIFAR did not.\nWith his trusty charhound EMBER at his side, Bell will battle to rid the galaxy of the villainous NIHIL…and they won't be alone.\nLearn who survived the FALL OF STARLIGHT!",
+  "title": "The High Republic: Shadows of Starlight #3"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #15",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-15",
+  "synopsis": "Doctor Aphra (2020) #15 is the fifteenth issue of the canon comic series Star Wars: Doctor Aphra (2020) and is part of the Star Wars: War of the Bounty Hunters crossover event.\nCRIMSON DAWN is back, and DOCTOR APHRA is trapped aboard their ship! What treasures lie aboard the VERMILLION? And what price will Aphra have to pay to obtain them?",
+  "title": "Doctor Aphra (2020) #15"
+}

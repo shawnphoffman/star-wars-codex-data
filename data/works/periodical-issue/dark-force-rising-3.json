@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    }
+  ],
+  "displayTitle": "Dark Force Rising #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "dark-force-rising-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-07-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-force-rising-3",
+  "title": "Dark Force Rising #3"
+}

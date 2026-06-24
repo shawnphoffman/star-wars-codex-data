@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Legacy #49: Extremes, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 138
+  },
+  "parentWorkSlug": "legacy-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-49-extremes-part-2",
+  "title": "Legacy #49: Extremes, Part 2"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Obi-Wan Kenobi #6",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "obi-wan-kenobi-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-03-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-6",
+  "synopsis": "Issue 6 of 6 from Marvel Comics Obi-Wan Kenobi adaptation miniseries. This issue is an adaptation of the fifth episode of the television series Obi-Wan Kenobi.\nOBI-WAN realizes saving LEIA isn't enough – he must face DARTH VADER once more! Meanwhile, REVA has found her ultimate bargaining chip: LUKE SKYWALKER!",
+  "title": "Obi-Wan Kenobi #6"
+}

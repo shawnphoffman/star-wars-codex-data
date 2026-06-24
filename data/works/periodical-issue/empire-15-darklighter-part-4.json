@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Chadwick",
+      "role": "writer",
+      "slug": "paul-chadwick"
+    }
+  ],
+  "displayTitle": "Empire #15: Darklighter, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-legends-empire-omnibus-vol-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2003-12-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-15-darklighter-part-4",
+  "title": "Empire #15: Darklighter, Part 4"
+}

@@ -6,46 +6,6 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
-    },
-    {
-      "name": "Chris Weitz",
-      "role": "writer",
-      "slug": "chris-weitz"
-    },
-    {
-      "name": "Tony Gilroy",
-      "role": "writer",
-      "slug": "tony-gilroy"
-    },
-    {
-      "name": "John Knoll",
-      "role": "writer",
-      "slug": "john-knoll"
-    },
-    {
-      "name": "Gary Whitta",
-      "role": "writer",
-      "slug": "gary-whitta"
-    },
-    {
-      "name": "Gareth Edwards",
-      "role": "director",
-      "slug": "gareth-edwards"
-    },
-    {
-      "name": "Kathleen Kennedy",
-      "role": "producer",
-      "slug": "kathleen-kennedy"
-    },
-    {
-      "name": "Michael Giacchino",
-      "role": "composer",
-      "slug": "michael-giacchino"
-    },
-    {
-      "name": "John Williams",
-      "role": "composer",
-      "slug": "john-williams"
     }
   ],
   "displayTitle": "Rogue One",
@@ -61,16 +21,16 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780399178450",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-12-16T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "releaseDate": "2016-12-20T00:00:00.000Z",
+  "releaseDate": "2016-12-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rogue-one-novelization",

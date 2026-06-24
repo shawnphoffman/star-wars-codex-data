@@ -6,11 +6,6 @@
       "name": "James Luceno",
       "role": "writer",
       "slug": "james-luceno"
-    },
-    {
-      "name": "David Smit",
-      "role": "coverArtist",
-      "slug": "david-smit"
     }
   ],
   "displayTitle": "Tarkin",
@@ -26,16 +21,16 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345511522",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-11-14T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -14,
     "startYear": -14
   },
-  "releaseDate": "2014-11-04T00:00:00.000Z",
+  "releaseDate": "2014-11-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tarkin",

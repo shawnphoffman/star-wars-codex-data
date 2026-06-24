@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "artist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #07: The Gathering Storm",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-7",
+  "synopsis": "Even Resistance soldier Poe Dameron deserves a day off to meet an old friend. But what happens when that old friend is the famed journalist Suralinda Javos with a secret story on the evil First Order? Mayhem ensues when Poe and Suralinda find themselves trapped with a giant First Order target on their backs!",
+  "title": "Poe Dameron #07: The Gathering Storm"
+}

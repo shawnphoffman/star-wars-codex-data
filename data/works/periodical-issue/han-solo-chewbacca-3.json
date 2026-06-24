@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "David Messina",
+      "role": "artist",
+      "slug": "david-messina"
+    }
+  ],
+  "displayTitle": "Han Solo & Chewbacca #03",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "parentWorkSlug": "han-solo-chewbacca-vol-1-the-crystal-run-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-chewbacca-3",
+  "synopsis": "Issue 3 of 10 of the Marvel comic series Star Wars: Han Solo & Chewbacca.\nHAN is trapped on the top floor of a skyscraper with security guards closing in on him. How will he escape? Would you believe…asking the Galactic Empire for help? This issue ties directly into the events of Crimson Reign. Guest starring QI'RA & THE ARCHIVIST! Will Han reunite with his first love?",
+  "title": "Han Solo & Chewbacca #03"
+}

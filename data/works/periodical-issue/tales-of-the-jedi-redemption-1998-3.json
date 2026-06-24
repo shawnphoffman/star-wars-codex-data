@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: Redemption #3: Homecoming",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3986
+  },
+  "parentWorkSlug": "tales-of-the-jedi-redemption-1998",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1998-09-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-redemption-1998-3",
+  "title": "Tales of the Jedi: Redemption #3: Homecoming"
+}

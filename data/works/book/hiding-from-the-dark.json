@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kiersten White",
+      "role": "writer",
+      "slug": "kiersten-white"
+    }
+  ],
   "displayTitle": "Hiding from the Dark",
   "editionIds": [
     {
@@ -14,7 +21,8 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780736447027",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2026-09-01T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -23,7 +31,7 @@
   },
   "releaseDate": "2026-09-01T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
-  "releaseStatus": "released",
+  "releaseStatus": "announced",
   "slug": "hiding-from-the-dark",
   "synopsis": "Coming soon!",
   "title": "Hiding from the Dark"

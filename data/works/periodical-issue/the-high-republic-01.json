@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #01",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -232
+  },
+  "parentWorkSlug": "the-high-republic-vol-1-tpb",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-01",
+  "synopsis": "Marvel’s brand-new ongoing series is at once a follow-up to Charles Soule’s Light of the Jedi and an original adventure. It follows Avar Kriss from Light of the Jedi as she takes on a leadership role on Starlight Beacon, but its main protagonists are her friend Stellan Gios and newly minted Knight Keeve Tennis. It explores the aftermath of the Great Disaster as the Jedi have to save and inspire the lost and hopeless out on the frontier. Keeve is determined to prove herself to the all-star Jedi she’s paired with, such as Avar Kriss. Plus we get lots of action with our first-ever Trandoshan Jedi, Sskeer.",
+  "title": "The High Republic (2021) #01"
+}

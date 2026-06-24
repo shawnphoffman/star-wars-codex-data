@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marjorie Liu",
+      "role": "writer",
+      "slug": "marjorie-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Han Solo (Hardcover Omnibus)",
+  "era": "ageOfRebellion",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "omnibus"
+  },
+  "releaseDate": "2018-05-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-omnibus-hardcover-graphic-novel",
+  "synopsis": "Everyone's favorite scoundrel goes Solo! Han is given a top-secret undercover mission for the Rebellion: rescuing a group of informants and spies! His cover for the assignment? The Dragon Void, biggest and most infamous starship race in the galaxy! A tournament he has dreamt of winning his entire life. With a chance for glory square in his sights, can Han keep his mind on the mission? Or is failing Leia worse than losing his chance? Place your bets for the ultimate space race! Our money's on Han and the Millennium Falcon — after all, it's the ship that made the Kessel Run in less than twelve parsecs! Plus: A face from Han's past returns — right when he and Leia least expect it! Who is Sana, and what's her relationship to Mr. Solo?",
+  "title": "Han Solo (Hardcover Omnibus)"
+}

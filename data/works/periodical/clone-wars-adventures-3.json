@@ -1,0 +1,39 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Ryan Kaufman",
+      "role": "writer",
+      "slug": "ryan-kaufman"
+    },
+    {
+      "name": "The Fillbach Brothers",
+      "role": "writer",
+      "slug": "the-fillbach-brothers"
+    },
+    {
+      "name": "Tim Mucci",
+      "role": "writer",
+      "slug": "tim-mucci"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures Volume 3",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2005-03-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-adventures-3",
+  "title": "Clone Wars Adventures Volume 3"
+}

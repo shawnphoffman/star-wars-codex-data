@@ -1,0 +1,112 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Simone Bianchi",
+      "role": "artist",
+      "slug": "simone-bianchi"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "artist",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "artist",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "artist",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "artist",
+      "slug": "stuart-immonen"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Jorge Molina",
+      "role": "artist",
+      "slug": "jorge-molina"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Frank Martin jr",
+      "role": "artist",
+      "slug": "frank-martin-jr"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "artist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Justin Ponsor",
+      "role": "artist",
+      "slug": "justin-ponsor"
+    },
+    {
+      "name": "David Aja",
+      "role": "artist",
+      "slug": "david-aja"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "artist",
+      "slug": "terry-dodson"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #53: Hope Dies Part IV",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-53-4",
+  "synopsis": "HAN SOLO…admiral? PRINCESS LEIA leads a squad to try and recover the secret that can save the rebel fleet…Unfortunately, it's aboard the EXECUTOR.",
+  "title": "Star Wars (2015) #53: Hope Dies Part IV"
+}

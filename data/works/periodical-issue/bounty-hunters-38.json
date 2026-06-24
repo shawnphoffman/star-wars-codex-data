@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "artist",
+      "slug": "davide-tinto"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #38",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "bounty-hunters-vol-5-the-raid-on-the-vermillion-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-38",
+  "synopsis": "This is the thirty-eighth issue of the Marvel Comics Bounty Hunters Series",
+  "title": "Bounty Hunters #38"
+}

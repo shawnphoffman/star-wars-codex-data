@@ -1,19 +1,221 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amal El-Mohtar",
+      "role": "writer",
+      "slug": "amal-el-mohtar"
+    },
+    {
+      "name": "Phil Szostak",
+      "role": "writer",
+      "slug": "phil-szostak"
+    },
+    {
+      "name": "Olivia Chadha",
+      "role": "writer",
+      "slug": "olivia-chadha"
+    },
+    {
+      "name": "Kwame Mbalia",
+      "role": "writer",
+      "slug": "kwame-mbalia"
+    },
+    {
+      "name": "Thea Guanzon",
+      "role": "writer",
+      "slug": "thea-guanzon"
+    },
+    {
+      "name": "Saladin Ahmed",
+      "role": "writer",
+      "slug": "saladin-ahmed"
+    },
+    {
+      "name": "Tara Sim",
+      "role": "writer",
+      "slug": "tara-sim"
+    },
+    {
+      "name": "K. Arsenault Rivera",
+      "role": "writer",
+      "slug": "k-arsenault-rivera"
+    },
+    {
+      "name": "Sarah Glenn Marsh",
+      "role": "writer",
+      "slug": "sarah-glenn-marsh"
+    },
+    {
+      "name": "Kristin Baver",
+      "role": "writer",
+      "slug": "kristin-baver"
+    },
+    {
+      "name": "Charlie Jane Anders",
+      "role": "writer",
+      "slug": "charlie-jane-anders"
+    },
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Akemi Dawn Bowman",
+      "role": "writer",
+      "slug": "akemi-dawn-bowman"
+    },
+    {
+      "name": "Alex Jennings",
+      "role": "writer",
+      "slug": "alex-jennings"
+    },
+    {
+      "name": "Fran Wilde",
+      "role": "writer",
+      "slug": "fran-wilde"
+    },
+    {
+      "name": "Danny Lore",
+      "role": "writer",
+      "slug": "danny-lore"
+    },
+    {
+      "name": "Patricia A. Jackson",
+      "role": "writer",
+      "slug": "patricia-a-jackson"
+    },
+    {
+      "name": "Mary Kenney",
+      "role": "writer",
+      "slug": "mary-kenney"
+    },
+    {
+      "name": "Paul Crilley",
+      "role": "writer",
+      "slug": "paul-crilley"
+    },
+    {
+      "name": "Suzanne Walker",
+      "role": "writer",
+      "slug": "suzanne-walker"
+    },
+    {
+      "name": "Max Gladstone",
+      "role": "writer",
+      "slug": "max-gladstone"
+    },
+    {
+      "name": "Jarrett Krosoczka",
+      "role": "writer",
+      "slug": "jarrett-krosoczka"
+    },
+    {
+      "name": "Marieke Nijkamp",
+      "role": "writer",
+      "slug": "marieke-nijkamp"
+    },
+    {
+      "name": "Hannah Whitten",
+      "role": "writer",
+      "slug": "hannah-whitten"
+    },
+    {
+      "name": "Ali Hazelwood",
+      "role": "writer",
+      "slug": "ali-hazelwood"
+    },
+    {
+      "name": "Lamar Giles",
+      "role": "writer",
+      "slug": "lamar-giles"
+    },
+    {
+      "name": "Sarah Kuhn",
+      "role": "writer",
+      "slug": "sarah-kuhn"
+    },
+    {
+      "name": "Olivie Blake",
+      "role": "writer",
+      "slug": "olivie-blake"
+    },
+    {
+      "name": "Sean Williams",
+      "role": "writer",
+      "slug": "sean-williams"
+    },
+    {
+      "name": "Laura Pohl",
+      "role": "writer",
+      "slug": "laura-pohl"
+    },
+    {
+      "name": "Dana Schwartz",
+      "role": "writer",
+      "slug": "dana-schwartz"
+    },
+    {
+      "name": "Gloria Chao",
+      "role": "writer",
+      "slug": "gloria-chao"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "M. K. England",
+      "role": "writer",
+      "slug": "m-k-england"
+    },
+    {
+      "name": "Emma Mieko Candon",
+      "role": "writer",
+      "slug": "emma-mieko-candon"
+    },
+    {
+      "name": "Danielle Paige",
+      "role": "writer",
+      "slug": "danielle-paige"
+    },
+    {
+      "name": "Adam Lance Garcia",
+      "role": "writer",
+      "slug": "adam-lance-garcia"
+    },
+    {
+      "name": "Mike Chen",
+      "role": "writer",
+      "slug": "mike-chen"
+    },
+    {
+      "name": "Adam Christopher",
+      "role": "writer",
+      "slug": "adam-christopher"
+    },
+    {
+      "name": "Tom Angleberger",
+      "role": "writer",
+      "slug": "tom-angleberger"
+    }
+  ],
   "displayTitle": "From a Certain Point of View: Return of the Jedi",
   "editions": [
     {
       "extent": 576,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-08-29T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 4,
     "startYear": 4
   },
   "releaseDate": "2023-08-29T00:00:00.000Z",

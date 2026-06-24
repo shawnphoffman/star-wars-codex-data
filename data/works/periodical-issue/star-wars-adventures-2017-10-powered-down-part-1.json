@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "writer",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Pierrick Colinet",
+      "role": "writer",
+      "slug": "pierrick-colinet"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Sarah Stern",
+      "role": "artist",
+      "slug": "sarah-stern"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #10 - Family Affair part 1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-05-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-10-powered-down-part-1",
+  "synopsis": "Han and Chewie are on the run from bounty hunters and take refuge on a planet that mysteriously shuts down all electronics. With no way off the planet, will our favorite scruffy duo be able to evade their pursuers and save themselves?",
+  "title": "Star Wars Adventures (2017) #10 - Family Affair part 1"
+}

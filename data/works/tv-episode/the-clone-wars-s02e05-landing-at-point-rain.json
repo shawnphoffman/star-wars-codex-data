@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E05: Landing at Point Rain",
+  "displayTitle": "Landing at Point Rain",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2009-11-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e05-landing-at-point-rain",
   "synopsis": "Anakin, Ahsoka, Obi-Wan and Ki-Adi-Mundi lead a landing party to destroy a droid factory on Geonosis.",
-  "title": "The Clone Wars S02E05: Landing at Point Rain"
+  "title": "Landing at Point Rain"
 }

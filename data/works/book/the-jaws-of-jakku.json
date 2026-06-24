@@ -1,19 +1,29 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "The Jaws of Jakku",
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-10-09T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2025-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-jaws-of-jakku",
   "synopsis": "Rey and her friends return to Jakku to find what might remain buried there from the Jedi’s past.",

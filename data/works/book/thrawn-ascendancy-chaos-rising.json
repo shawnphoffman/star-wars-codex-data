@@ -1,15 +1,18 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Thrawn Ascendancy: Chaos Rising",
   "editionIds": [
     {
-      "type": "isbn10",
-      "value": "593157680"
-    },
-    {
       "type": "isbn13",
-      "value": "978-0593157688"
+      "value": "9780593157688"
     }
   ],
   "editions": [
@@ -18,13 +21,14 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593157688",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-09-01T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -19
+    "startYear": -39
   },
   "releaseDate": "2020-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",

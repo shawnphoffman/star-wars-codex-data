@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The False Peace",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339254"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 158,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339254",
+      "kind": "print",
+      "onsale": "2004-07-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -24
+  },
+  "releaseDate": "2004-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-false-peace",
+  "synopsis": "Members of the Galactic Senate may be in danger, and it’s up to Anakin Skywalker and Obi-Wan Kenobi to keep them safe.",
+  "title": "Jedi Quest: The False Peace"
+}

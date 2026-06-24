@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matthew Rosenberg",
+      "role": "writer",
+      "slug": "matthew-rosenberg"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Jedi Fallen Order: Dark Temple #4",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -23
+  },
+  "parentWorkSlug": "jedi-fallen-order-dark-temple-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-11-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-fallen-order-dark-temple-4",
+  "synopsis": "ONE AGAINST A WORLD. Jedi Knight ENO CORDOVA must risk his life to uncover the secrets of the Dark Temple on Ontotho…while the fearsome Ontothon army approaches! Can Padawan CERE JUNDA alone stop them from taking the temple for themselves? And who are the deadly TEMPLE GUARDIANS and what are they protecting?",
+  "title": "Jedi Fallen Order: Dark Temple #4"
+}

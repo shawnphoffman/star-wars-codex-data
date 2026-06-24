@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Wilton Santos",
+      "role": "artist",
+      "slug": "wilton-santos"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "artist",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "doctor-aphra-volume-6-unspeakable-rebel-superweapon",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-06-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "zzzzz12",
+  "synopsis": "\"UNSPEAKABLE REBEL SUPERWEAPON\" PART 2 Counting the cost of her incorrigible thievery, sticky-fingered archaeologist DOCTOR APHRA is at the mercy of REBEL HIGH COMMAND. But things are about to get stickier. What's the one thing every galactic treasure hunter knows for sure? EXES NEVER MARK THE SPOT",
+  "title": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II"
+}

@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 13: The Dangerous Rescue",
+  "displayTitle": "Jedi Apprentice: The Dangerous Rescue",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,18 +21,19 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139328",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-04-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -42,
-    "startYear": -42
+    "startYear": -43
   },
   "releaseDate": "2001-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "zzzzz111",
   "synopsis": "Jenna Zan Arbor’s quest for power and hunger for deeper knowledge of the Force is not the kind that can be used for good. Only the Jedi can stop her before it’s too late.",
-  "title": "Jedi Apprentice 13: The Dangerous Rescue"
+  "title": "Jedi Apprentice: The Dangerous Rescue"
 }

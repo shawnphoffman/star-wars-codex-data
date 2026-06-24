@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Charles Paul Wilson III",
+      "role": "artist",
+      "slug": "charles-paul-wilson-iii"
+    }
+  ],
+  "displayTitle": "Adventures: Return to Vader's Castle #5",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "return-to-vaders-castle-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-10-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-to-vaders-castle-5",
+  "synopsis": "Star Wars Adventures: Return to Vader's Castle 5 is the fifth issue of the canon comic book miniseries Star Wars Adventures: Return to Vader's Castle.\nThe issue features the story \"Night of the Lava Zombies,\" a tale in which Darth Vader defends his castle from a Mustafarian plague.",
+  "title": "Star Wars Adventures: Return to Vader's Castle #5"
+}

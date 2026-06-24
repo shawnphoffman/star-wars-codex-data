@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Elizabeth Hand",
+      "role": "writer",
+      "slug": "elizabeth-hand"
+    }
+  ],
+  "displayTitle": "Boba Fett: Pursuit",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339339"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 126,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339339",
+      "kind": "print",
+      "onsale": "2004-12-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "releaseDate": "2004-12-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "boba-fett-pursuit",
+  "synopsis": "Boba Fett finds himself on the planet Coruscant, where he must prepare to fight against the Jedi in his ultimate quest for revenge.",
+  "title": "Boba Fett: Pursuit"
+}

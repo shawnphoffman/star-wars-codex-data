@@ -1,18 +1,38 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    }
+  ],
   "displayTitle": "Always Bet on Chopper",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705602"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705605"
+    }
+  ],
   "editions": [
     {
       "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1484705602",
+      "isbn13": "9781484705605",
+      "kind": "print",
+      "onsale": "2015-05-05T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
   "releaseDate": "2015-05-05T00:00:00.000Z",

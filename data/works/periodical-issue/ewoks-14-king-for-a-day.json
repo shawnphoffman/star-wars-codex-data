@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    }
+  ],
+  "displayTitle": "Ewoks #14: King for a Day",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "ewoks",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1987-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-14-king-for-a-day",
+  "title": "Ewoks #14: King for a Day"
+}

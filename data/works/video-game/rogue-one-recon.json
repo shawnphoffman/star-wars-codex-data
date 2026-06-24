@@ -9,6 +9,9 @@
   ],
   "displayTitle": "Rogue One: Recon",
   "format": "videoGame",
+  "inUniverseDate": {
+    "startYear": -1
+  },
   "releaseDate": "2016-11-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

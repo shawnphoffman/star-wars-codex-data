@@ -1,0 +1,38 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Brooks",
+      "role": "writer",
+      "slug": "terry-brooks"
+    }
+  ],
+  "displayTitle": "Episode I The Phantom Menace",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345427656"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 324,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345427656",
+      "kind": "print",
+      "onsale": "1999-04-21T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "releaseDate": "1999-04-21T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-episode-i-the-phantom-menace-1999",
+  "synopsis": "In this novelization, the events of Star Wars Episode I: The Phantom Menace are told in a slightly different way – the same story, but in book form!",
+  "title": "Star Wars: Episode I The Phantom Menace"
+}

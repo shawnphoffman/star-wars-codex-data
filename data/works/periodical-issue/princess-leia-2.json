@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Waid",
+      "role": "writer",
+      "slug": "mark-waid"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "artist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "artist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "artist",
+      "slug": "jordie-bellaire"
+    }
+  ],
+  "displayTitle": "Princess Leia, Part II",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "princess-leia-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-03-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "princess-leia-2",
+  "synopsis": "The Battle of Yavin was a tremendous victory for the Rebellion, but it came at a great cost. In this highly-praised graphic novel, Leia Organa wastes no time in preserving what’s left of her lost home planet. As the daughter of the last rulers of Alderaan and the once-been future heir to the throne, the culture of Alderaan rests on the Rebel leader’s shoulders.",
+  "title": "Princess Leia, Part II"
+}

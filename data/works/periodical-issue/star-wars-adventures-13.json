@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elsa Charretier",
+      "role": "writer",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Pierrick Colinet",
+      "role": "writer",
+      "slug": "pierrick-colinet"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "writer",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Sarah Stern",
+      "role": "artist",
+      "slug": "sarah-stern"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #13 - The Blue Brothers",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-13",
+  "synopsis": "Anakin Skywalker and Padmé Amidala embark on an action-packed adventure where not all is as it seems in a story by fan-favorites Elsa Charretier and Pierrick Colinet!",
+  "title": "Star Wars Adventures (2017) #13 - The Blue Brothers"
+}

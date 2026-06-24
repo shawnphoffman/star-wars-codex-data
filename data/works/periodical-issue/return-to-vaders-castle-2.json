@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "artist",
+      "slug": "kelley-jones"
+    }
+  ],
+  "displayTitle": "Adventures: Return to Vader's Castle #2",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "return-to-vaders-castle-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-to-vaders-castle-2",
+  "synopsis": "Star Wars Adventures: Return to Vader's Castle is a canon comic book series written by Cavan Scott. The stories will feature Darth Maul, Asajj Ventress, Jabba the Hutt, Darth Vader, and Grand Moff Tarkin.",
+  "title": "Star Wars Adventures: Return to Vader's Castle #2"
+}

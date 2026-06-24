@@ -9,18 +9,25 @@
     }
   ],
   "displayTitle": "Shadow of the Sith",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593358627"
+    }
+  ],
   "editions": [
     {
       "extent": 496,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "isbn13": "9780593358627",
+      "kind": "print",
+      "onsale": "2022-06-28T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 21,
     "startYear": 21
   },
   "releaseDate": "2022-06-28T00:00:00.000Z",

@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    },
+    {
+      "name": "Steven Wright",
+      "role": "writer",
+      "slug": "steven-wright"
+    }
+  ],
   "displayTitle": "A Race to the Finish",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -15,
     "startYear": -15
   },
   "releaseDate": "1995-06-09T00:00:00.000Z",

@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures 11: Pirates from Beyond the Sea",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101486"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 83,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101486",
+      "kind": "print",
+      "onsale": "2000-07-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "releaseDate": "2000-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "episode-i-adventures-11-pirates-from-beyond-the-sea-2000",
+  "synopsis": "Pirates have invaded the Gungans’ home, and there may only be one way to save the day.",
+  "title": "Episode I Adventures 11: Pirates from Beyond the Sea"
+}

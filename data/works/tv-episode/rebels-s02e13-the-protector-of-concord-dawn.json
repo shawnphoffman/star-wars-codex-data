@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E13: The Protector Of Concord Dawn",
+  "displayTitle": "The Protector Of Concord Dawn",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2016-01-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e13-the-protector-of-concord-dawn",
   "synopsis": "In need of new hyperspace routes due to Imperial pressure, the rebels find a shortcut but must gain permission from the leader of the nearby system.",
-  "title": "Rebels S02E13: The Protector Of Concord Dawn"
+  "title": "The Protector Of Concord Dawn"
 }

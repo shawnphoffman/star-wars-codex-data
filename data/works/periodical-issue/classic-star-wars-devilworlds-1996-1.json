@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    },
+    {
+      "name": "Steve Moore",
+      "role": "writer",
+      "slug": "steve-moore"
+    },
+    {
+      "name": "Steve Parkhouse",
+      "role": "writer",
+      "slug": "steve-parkhouse"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: Devilworlds #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "classic-star-wars-devilworlds-1996",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1996-08-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-devilworlds-1996-1",
+  "title": "Classic Star Wars: Devilworlds #1"
+}

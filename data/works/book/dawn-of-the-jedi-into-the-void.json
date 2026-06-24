@@ -21,9 +21,11 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345541932",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2013-05-07T00:00:00.000Z"
     }
   ],
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "endYear": -25793,

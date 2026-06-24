@@ -13,6 +13,10 @@
     {
       "type": "isbn13",
       "value": "9780345511621"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593972694"
     }
   ],
   "editions": [
@@ -20,6 +24,14 @@
       "isPrimary": true,
       "isbn13": "9780345511621",
       "kind": "print"
+    },
+    {
+      "extent": 410,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780593972694",
+      "kind": "print",
+      "onsale": "2015-09-04T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

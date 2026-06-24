@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S01E14: Rebel Resolve",
+  "displayTitle": "Rebel Resolve",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-1",
   "releaseDate": "2015-02-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s01e14-rebel-resolve",
   "synopsis": "The team tries to get Kanan's location to free him.",
-  "title": "Rebels S01E14: Rebel Resolve"
+  "title": "Rebel Resolve"
 }

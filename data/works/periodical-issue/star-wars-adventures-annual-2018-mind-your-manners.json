@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "artist",
+      "slug": "jon-sommariva"
+    },
+    {
+      "name": "Alain Mauricet",
+      "role": "artist",
+      "slug": "alain-mauricet"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Matt Herms",
+      "role": "artist",
+      "slug": "matt-herms"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "artist",
+      "slug": "chris-fenoglio"
+    }
+  ],
+  "displayTitle": "Adventures Annual 2018 - The Lost Eggs Of Livorno",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-04-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-annual-2018-mind-your-manners",
+  "synopsis": "This issue of IDW’s ongoing Star Wars comic aimed at young readers features two separate stories. One, “Mind Your Manners,” is Kenobi author John Jackson Miller’s only story for IDW to date, where Luke and Leia are on a diplomatic mission but quickly end up on quite the adventure! Cavan Scott wrote the other, “The Lost Eggs of Livorno.” These stories can be found in the fourth volume of the Star Wars Adventures trade paperbacks, Smuggler’s Blues.",
+  "title": "Star Wars Adventures Annual 2018 - The Lost Eggs Of Livorno"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dennis Hallum",
+      "role": "writer",
+      "slug": "dennis-hallum"
+    },
+    {
+      "name": "David Lopez",
+      "role": "artist",
+      "slug": "david-lopez"
+    }
+  ],
+  "displayTitle": "Vader: Dark Visions #3",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "dark-visions-gn",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-04-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-visions-3",
+  "synopsis": "THE STAR-CROSSED LOVER! DARTH VADER, a name that strikes fear in the hearts of countless across the galaxy…but there is one lonely heart that beats just for him. What is it like to be in love with LORD VADER? And what fate will befall one who is infatuated with the tall, dark mystery behind the mask?",
+  "title": "Vader: Dark Visions #3"
+}

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S06E12: Destiny",
+  "displayTitle": "Destiny",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-6",
   "releaseDate": "2014-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s06e12-destiny",
   "synopsis": "Letting the Force guide him, Yoda voyages into the heart of the galaxy to an ancient world that is one of the wellsprings of the Force and the source of midi-chlorians.",
-  "title": "The Clone Wars S06E12: Destiny"
+  "title": "Destiny"
 }

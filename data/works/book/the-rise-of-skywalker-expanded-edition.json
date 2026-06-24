@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rae Carson",
+      "role": "writer",
+      "slug": "rae-carson"
+    }
+  ],
   "displayTitle": "The Rise of Skywalker: Expanded Edition",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1984818643",
       "isbn13": "9781984818645",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-03-17T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 35,
     "startYear": 35
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2020-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-expanded-edition",
   "synopsis": "As the war between the Resistance and the First Order rages on, Rey teams up with Poe and Finn to locate what might be the galaxy’s one last hope.",

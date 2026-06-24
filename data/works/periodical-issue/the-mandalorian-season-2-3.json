@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Season 2 #3",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-season-2-part-1-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-season-2-3",
+  "synopsis": "Issue 3 of 8 from the Marvel Comics The Mandalorian Season 2 Adaptation\n\"THE HEIRESS\"!\nTHE MANDALORIAN braves high seas and meets unexpected allies. Introducing BO-KATAN KRYZE, KOSKA REEVES and AXE WOVES!",
+  "title": "The Mandalorian: Season 2 #3"
+}

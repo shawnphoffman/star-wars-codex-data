@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #34: Darkness, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -30
+  },
+  "parentWorkSlug": "omnibus-clone-wars-v3-republic-falls",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2001-09-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-34-darkness-part-3",
+  "title": "Republic #34: Darkness, Part 3"
+}

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E02: Heroes Of Mandalore Part 2",
+  "displayTitle": "Heroes Of Mandalore Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2017-10-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e02-heroes-of-mandalore-part-2",
   "synopsis": "Sabine learns that the devastating weapon the Empire is using against the Mandalorians is derived from her prototype. She has to decide whether to destroy it or use it herself.",
-  "title": "Rebels S04E02: Heroes Of Mandalore Part 2"
+  "title": "Heroes Of Mandalore Part 2"
 }

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Miles Lane",
+      "role": "writer",
+      "slug": "miles-lane"
+    }
+  ],
+  "displayTitle": "Episode III: Revenge of the Sith Adaptation",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2005-03-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-iii-revenge-of-the-sith-adaptation-graphic-novel",
+  "title": "Episode III: Revenge of the Sith Adaptation"
+}

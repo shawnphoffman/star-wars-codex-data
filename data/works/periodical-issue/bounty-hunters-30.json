@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #30",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-5-the-raid-on-the-vermillion-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-01-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-30",
+  "synopsis": "Is the thirtieth  issue of the Marvel Comics Bounty Hunters Series\nT'onga and her team of bounty hunters find themselves in the crosshairs of an old ally! But how will Valance react to learning the dark secret that has been kept from him? Can any of them survive the full might of a vindictive Empire?",
+  "title": "Bounty Hunters #30"
+}

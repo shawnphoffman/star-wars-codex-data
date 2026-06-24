@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E01: Heroes Of Mandalore Part 1",
+  "displayTitle": "Heroes Of Mandalore Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2017-10-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e01-heroes-of-mandalore-part-1",
   "synopsis": "The rebels work with Mandalorian Clan Wren to free Sabine's father from the clutches of the Empire.",
-  "title": "Rebels S04E01: Heroes Of Mandalore Part 1"
+  "title": "Heroes Of Mandalore Part 1"
 }

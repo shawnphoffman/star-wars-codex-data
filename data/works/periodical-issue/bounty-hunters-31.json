@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #31",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-5-the-raid-on-the-vermillion-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-02-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-31",
+  "synopsis": "Is the thirty-first issue of the Marvel Comics Bounty Hunters Series\nValance is out for revenge against Darth Vader!\nCan T'onga and her team save their fellow bounty hunter from a fatal confrontation?\nAnd will Vukorah survive the assassins throwing the underworld into chaos?",
+  "title": "Bounty Hunters #31"
+}

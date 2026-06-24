@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E06: The Gathering",
+  "displayTitle": "The Gathering",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2012-11-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e06-the-gathering",
   "synopsis": "Ahsoka escorts a group of younglings to Ilum where they meet with Yoda and seek out the Kyber crystals needed to build their own lightsabers.",
-  "title": "The Clone Wars S05E06: The Gathering"
+  "title": "The Gathering"
 }

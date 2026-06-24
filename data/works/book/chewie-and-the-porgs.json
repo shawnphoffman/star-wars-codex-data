@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Shinick",
+      "role": "writer",
+      "slug": "kevin-shinick"
+    }
+  ],
   "displayTitle": "Chewie and the Porgs",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1760501395",
       "isbn13": "9781760501396",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "chewie-and-the-porgs",
   "synopsis": "The planet Ahch-To seems like an interesting place for a Wookiee. But Chewbacca’s encounter with the porgs leaves him trapped among too many feathers.",

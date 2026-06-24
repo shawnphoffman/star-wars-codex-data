@@ -6,11 +6,6 @@
       "name": "Cavan Scott",
       "role": "writer",
       "slug": "cavan-scott"
-    },
-    {
-      "name": "Elsa Charretier",
-      "role": "artist",
-      "slug": "elsa-charretier"
     }
   ],
   "displayTitle": "Choose Your Destiny: A Han & Chewie Adventure",
@@ -26,14 +21,14 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781368025669",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-04-17T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -9,
-    "startYear": -9
+    "startYear": -10
   },
   "releaseDate": "2018-04-17T00:00:00.000Z",
   "releaseDisplayState": "released",

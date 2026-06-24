@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant: Escape #4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1032
+  },
+  "parentWorkSlug": "knight-errant-escape-2012",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2012-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant-escape-2012-4",
+  "title": "Knight Errant: Escape #4"
+}

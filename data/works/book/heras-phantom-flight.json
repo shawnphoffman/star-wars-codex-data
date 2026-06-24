@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
   "displayTitle": "Hera's Phantom Flight",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1532140673",
       "isbn13": "9781532140679",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-03-31T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-03-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heras-phantom-flight",
   "synopsis": "Hera Syndulla, rebel pilot, is ready for another exciting space adventure.",

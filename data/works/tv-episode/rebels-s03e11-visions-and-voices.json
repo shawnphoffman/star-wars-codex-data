@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S03E11: Visions And Voices",
+  "displayTitle": "Visions And Voices",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -2,
     "startYear": -2
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-3",
   "releaseDate": "2016-12-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s03e11-visions-and-voices",
   "synopsis": "Haunted by visions of Maul, Ezra journeys across the galaxy to participate in a strange ritual which will sever his connection to the old master.",
-  "title": "Rebels S03E11: Visions And Voices"
+  "title": "Visions And Voices"
 }

@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emeli Juhlin",
+      "role": "writer",
+      "slug": "emeli-juhlin"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: Yoda's Mission",
   "editionIds": [
     {
@@ -19,12 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368093388",
       "isbn13": "9781368093385",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-09-05T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
   "releaseDate": "2023-09-05T00:00:00.000Z",

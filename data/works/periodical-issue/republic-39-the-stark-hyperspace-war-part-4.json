@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Republic #39: The Stark Hyperspace War, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -30,
+    "startYear": -44
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-02-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-39-the-stark-hyperspace-war-part-4",
+  "title": "Republic #39: The Stark Hyperspace War, Part 4"
+}

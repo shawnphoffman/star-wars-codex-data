@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Old Republic: The Lost Suns #4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3643
+  },
+  "parentWorkSlug": "the-old-republic-the-lost-suns-2011",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-09-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-the-lost-suns-2011-4",
+  "title": "The Old Republic: The Lost Suns #4"
+}

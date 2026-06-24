@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    }
+  ],
+  "displayTitle": "Chronicles Of Corellia: Cracking The Mask",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "star-wars-insider-228",
+  "releaseDate": "2024-10-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-insider-228-cracking-the-mask",
+  "synopsis": "A High Republic Phase III prose short story by Alyssa Wong, part of the Chronicles of Corellia.",
+  "title": "Chronicles Of Corellia: Cracking The Mask"
+}

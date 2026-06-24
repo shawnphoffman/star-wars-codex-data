@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jan Bazaldua",
+      "role": "artist",
+      "slug": "jan-bazaldua"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #09",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-2020-vol-03-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2020-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-09",
+  "synopsis": "Star Wars (2020) #09 is the ninth issue of the canon comic series Star Wars (2020)\n\"OPERATION STARLIGHT\" BEGINS, AS THE REBEL PATHFINDERS UNDERTAKE A DESPERATE MISSION TO THE IMPERIAL CORE.\nIn the Imperial Museum on CORUSCANT, an ancient droid holds the key to salvation of the REBEL ALLIANCE.\nThe Rebels' elite operations team, the PATHFINDERS, must pull off a daring heist right under the nose of the EMPEROR himself, with LANDO and LOBOT along for the ride!",
+  "title": "Star Wars (2020) #09"
+}

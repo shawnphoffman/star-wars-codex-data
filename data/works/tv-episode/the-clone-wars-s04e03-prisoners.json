@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E03: Prisoners",
+  "displayTitle": "Prisoners",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2011-09-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e03-prisoners",
   "synopsis": "The Republic and Gungan forces have been captured by Riff Tamson and his Karkarodon enforcers. Now, it is up to Ahsoka and the young Prince Lee-Char to unite the fractured people of Mon Cala and drive out the Separatist invaders.",
-  "title": "The Clone Wars S04E03: Prisoners"
+  "title": "Prisoners"
 }

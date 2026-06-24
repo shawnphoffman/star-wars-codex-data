@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Austin",
+      "role": "writer",
+      "slug": "terry-austin"
+    }
+  ],
+  "displayTitle": "Splinter of the Mind's Eye #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "splinter-of-the-minds-eye-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1996-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "splinter-of-the-mind-s-eye-3",
+  "title": "Splinter of the Mind's Eye #3"
+}

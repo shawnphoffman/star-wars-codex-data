@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian #7",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-season-2-part-1-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-7",
+  "synopsis": "Issue 7 of 8, of the Marvel Comics The Mandalorian Season 1 Adaptation Series.\nTHE RECKONING! An old contact extends an invitation for the Mandalorian to make peace with his enemies.",
+  "title": "The Mandalorian #7"
+}

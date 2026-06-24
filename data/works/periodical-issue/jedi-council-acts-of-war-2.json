@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Jedi Council: Acts of War #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "parentWorkSlug": "jedi-council-acts-of-war-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2000-07-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-council-acts-of-war-2",
+  "title": "Jedi Council: Acts of War #2"
+}

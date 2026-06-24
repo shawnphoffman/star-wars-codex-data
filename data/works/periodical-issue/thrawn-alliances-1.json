@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    }
+  ],
+  "displayTitle": "Thrawn: Alliances #1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -19
+  },
+  "parentWorkSlug": "thrawn-alliances-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-01-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-alliances-1",
+  "synopsis": "Issue 1 of 4 from Marvel Comics Thrawn: Alliances miniseries\nRETURN TO THE SAGA OF THRAWN WITH THE COMIC-BOOK ADAPTATION OF THRAWN: ALLIANCES!\nTIMOTHY ZAHN teams with STAR WARS veteran JODY HOUSER to bring THRAWN: ALLIANCES to the pages of comic books! Watch as ANDREA DI VITO & PAT OLLIFFE bring the action to life showcasing the tactical prowess of the galaxy's most dangerous mind!",
+  "title": "Thrawn: Alliances #1"
+}

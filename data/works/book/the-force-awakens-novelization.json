@@ -9,14 +9,27 @@
     }
   ],
   "displayTitle": "The Force Awakens",
-  "editions": [
+  "editionIds": [
     {
-      "imprint": "Del Rey",
-      "isPrimary": true,
-      "kind": "print"
+      "type": "isbn13",
+      "value": "9781101965504"
     }
   ],
+  "editions": [
+    {
+      "extent": 272,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9781101965504",
+      "kind": "print",
+      "onsale": "2016-01-05T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "releaseDate": "2016-01-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Roy Richardson",
+      "role": "writer",
+      "slug": "roy-richardson"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #84: Seoul Searching",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1984-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-84",
+  "title": "Star Wars (1977) #84: Seoul Searching"
+}

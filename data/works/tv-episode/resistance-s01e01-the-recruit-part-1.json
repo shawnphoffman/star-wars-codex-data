@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Resistance S01E01: The Recruit Part 1",
+  "displayTitle": "The Recruit",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "parentWorkSlug": "resistance",
+  "parentWorkSlug": "resistance-season-1",
   "releaseDate": "2018-10-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s01e01-the-recruit-part-1",
   "synopsis": "Poe Dameron tasks young pilot \"Kaz\" Xiono with spying on the secretive First Order. Kaz travels to the Colossus space station and is drawn into a race there.",
-  "title": "Resistance S01E01: The Recruit Part 1"
+  "title": "The Recruit"
 }

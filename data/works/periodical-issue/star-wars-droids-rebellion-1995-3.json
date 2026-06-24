@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Star Wars Droids: Rebellion #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "parentWorkSlug": "star-wars-droids-rebellion-1995",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1995-06-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-rebellion-1995-3",
+  "title": "Star Wars Droids: Rebellion #3"
+}

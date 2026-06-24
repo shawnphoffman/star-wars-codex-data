@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "Resolve",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "parentWorkSlug": "tales-of-the-jedi-s1",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-s1e6",
+  "synopsis": "A former Jedi is faced with the truth that they cannot be something they are not.",
+  "title": "Resolve"
+}

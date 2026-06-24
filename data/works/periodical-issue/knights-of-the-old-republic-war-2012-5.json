@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic: War #5",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3962
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-war-2012",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2012-05-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-war-2012-5",
+  "title": "Knights of the Old Republic: War #5"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    }
+  ],
+  "displayTitle": "The High Republic: The Blade #4",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-the-blade-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-03-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-blade-4",
+  "synopsis": "Issue 4 of 4 of the  Marvel Comics The High Republic: The Blade miniseries from Phase 2 of The High Republic\nTo save the innocent, to save his sister, to save himself…Jedi Master Porter Engle must embark on one of the most epic instances of lightsaber combat ever recorded in the Chronicles. It will change him, and Barash, forever.",
+  "title": "The High Republic: The Blade #4"
+}

@@ -1,0 +1,41 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "imprint": "Del Rey",
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2016-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episodei-the-phantom-menance-hardcover-graphic-novel",
+  "synopsis": "In this novelization, the events of Star Wars Episode I: The Phantom Menace are told in a slightly different way – the same story, but in book form!",
+  "title": "Episode I: The Phantom Menace"
+}

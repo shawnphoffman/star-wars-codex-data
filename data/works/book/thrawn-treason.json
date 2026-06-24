@@ -1,13 +1,28 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Thrawn: Treason",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593872789"
+    }
+  ],
   "editions": [
     {
       "extent": 272,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "isbn13": "9780593872789",
+      "kind": "print",
+      "onsale": "2019-07-23T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marjory Liu",
+      "role": "writer",
+      "slug": "marjory-liu"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "artist",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Sonia Oback",
+      "role": "artist",
+      "slug": "sonia-oback"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "artist",
+      "slug": "lee-bermejo"
+    }
+  ],
+  "displayTitle": "Han Solo, Part V",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "han-solo-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-11-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "han-solo-part",
+  "synopsis": "This is it — the dramatic conclusion to the Dragon Void race! Will Han take the trophy? Or be left with the space junk? Our favorite scoundrel's first miniseries comes to a photo finish!",
+  "title": "Han Solo, Part V"
+}

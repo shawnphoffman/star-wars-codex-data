@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Wein",
+      "role": "writer",
+      "slug": "elizabeth-wein"
+    }
+  ],
   "displayTitle": "The Last Jedi: Cobalt Squadron",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1405286784",
       "isbn13": "9781405286787",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-cobalt-squadron",
   "synopsis": "The Resistance fighters that make up Cobalt Squadron all have their reasons for joining the struggle against the First Order. These are their stories.",

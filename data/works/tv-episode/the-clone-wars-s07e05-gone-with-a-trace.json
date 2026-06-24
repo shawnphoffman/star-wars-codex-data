@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E05: Gone With A Trace",
+  "displayTitle": "Gone With A Trace",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-03-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e05-gone-with-a-trace",
   "synopsis": "After leaving the Jedi Order, Ahsoka Tano finds herself in the underworld of Coruscant where she meets aspiring pilot Trace Martez. Enlisted by Trace's sister Rafa to help build dangerous droids, Ahsoka opts to keep her Jedi past a secret.",
-  "title": "The Clone Wars S07E05: Gone With A Trace"
+  "title": "Gone With A Trace"
 }

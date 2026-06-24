@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Owens",
+      "role": "writer",
+      "slug": "matt-owens"
+    },
+    {
+      "name": "Denys Owens",
+      "role": "artist",
+      "slug": "denys-owens"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "artist",
+      "slug": "jesus-saiz"
+    }
+  ],
+  "displayTitle": "Jedi of the Republic-Mace Windu, Part III",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "parentWorkSlug": "jedi-of-the-republic-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-of-the-republic-mace-windu-iii",
+  "synopsis": "Mace and his squad's first mission of the newly begun Clone Wars continues! What do the Separatists want with the planet of Hissrich? Can Mace overcome mercenary droid AD-W4 to stop them?",
+  "title": "Jedi of the Republic-Mace Windu, Part III"
+}

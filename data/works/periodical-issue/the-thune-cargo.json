@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Ingo Römling",
+      "role": "artist",
+      "slug": "ingo-romling"
+    }
+  ],
+  "displayTitle": "The Thune Cargo",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-11-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-thune-cargo",
+  "synopsis": "\"The Thune Cargo\" is a comic strip written by Martin Fisher, and drawn by Ingo Römling. The story was published in the twenty-second issue of the Star Wars Rebels Magazine series by Egmont UK Ltd.\nAccording to Fisher, the story takes place between the Star Wars Rebels episodes \"The Mystery of Chopper Base\" and \"Twilight of the Apprentice.\"",
+  "title": "The Thune Cargo"
+}

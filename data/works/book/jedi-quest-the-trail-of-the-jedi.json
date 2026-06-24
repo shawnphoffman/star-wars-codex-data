@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Trail of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339186"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339186",
+      "kind": "print",
+      "onsale": "2002-04-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "releaseDate": "2002-04-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-trail-of-the-jedi",
+  "synopsis": "Anakin Skywalker doubts his worthiness and abilities as a future Jedi, even as his master works tirelessly to train him.",
+  "title": "Jedi Quest: The Trail of the Jedi"
+}

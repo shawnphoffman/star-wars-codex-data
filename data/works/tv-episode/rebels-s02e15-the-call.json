@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E15: The Call",
+  "displayTitle": "The Call",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2016-02-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e15-the-call",
   "synopsis": "On a mission to obtain fuel for the rebel fleet, the crew protects space creatures from the mining operation that threatens the creatures' lives.",
-  "title": "Rebels S02E15: The Call"
+  "title": "The Call"
 }

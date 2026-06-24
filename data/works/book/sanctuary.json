@@ -21,19 +21,19 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593874462",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-08-05T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
   "releaseDate": "2025-08-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "sanctuary",
-  "synopsis": "The people of Pabu are still reeling from the natural disaster that devastated their home. In an effort to help them rebuild, Phee has recruited Tech, Omega, Hunter, and Wrecker to accompany her on a series of missions to fund Pabu’s reconstruction.\n\nClone Force 99 is in for more than they bargained for, however. Little do they know their next mission is going to get a little … complicated.",
+  "synopsis": "The people of Pabu are still reeling from the natural disaster that devastated their home. In an effort to help them rebuild, Phee has recruited Tech, Omega, Hunter, and Wrecker to accompany her on a series of missions to fund Pabu’s reconstruction. Clone Force 99 is in for more than they bargained for, however. Little do they know their next mission is going to get a little … complicated.",
   "title": "Sanctuary: A Bad Batch Novel"
 }

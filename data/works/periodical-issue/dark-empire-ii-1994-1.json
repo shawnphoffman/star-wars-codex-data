@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire II #1: Operation Shadow Hand",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 10
+  },
+  "parentWorkSlug": "dark-empire-ii-1994",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-ii-1994-1",
+  "title": "Dark Empire II #1: Operation Shadow Hand"
+}

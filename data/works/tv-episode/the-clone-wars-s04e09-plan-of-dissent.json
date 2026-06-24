@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E09: Plan of Dissent",
+  "displayTitle": "Plan of Dissent",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2011-11-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e09-plan-of-dissent",
   "synopsis": "After the Republic conquers an Umbaran airbase, General Krell orders Rex and his men on towards the heavily fortified capital. Realizing there's a better plan, several clone troopers disobey orders to carry out a rogue, covert operation.",
-  "title": "The Clone Wars S04E09: Plan of Dissent"
+  "title": "Plan of Dissent"
 }

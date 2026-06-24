@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Haddle",
+      "role": "writer",
+      "slug": "jennifer-haddle"
+    }
+  ],
   "displayTitle": "Sabine's Art Attack",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1484704916",
       "isbn13": "9781484704912",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-01-06T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "sabines-art-attack",
   "synopsis": "Sabine uses her skills and her art to take down a group of stormtroopers all by herself.",

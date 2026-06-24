@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The School of Fear",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339216"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 142,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339216",
+      "kind": "print",
+      "onsale": "2003-02-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -25
+  },
+  "releaseDate": "2003-02-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-school-of-fear",
+  "synopsis": "Jedi apprentices Anakin Skywalker and Ferus Olin embark on a mission to solve the mystery behind a missing senator’s son.",
+  "title": "Jedi Quest: The School of Fear"
+}

@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Bisson",
+      "role": "writer",
+      "slug": "terry-bisson"
+    }
+  ],
+  "displayTitle": "Boba Fett: Crossfire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339285"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 133,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339285",
+      "kind": "print",
+      "onsale": "2002-11-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "boba-fett-crossfire",
+  "synopsis": "On the planet Raxus Prime, young Boba Fett discovers Count Dooku may not be the person the future bounty hunter thought he was.",
+  "title": "Boba Fett: Crossfire"
+}

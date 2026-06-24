@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice Special Edition: Deceptions",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439139380"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 188,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139380",
+      "kind": "print",
+      "onsale": "2001-07-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -44
+  },
+  "releaseDate": "2001-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-apprentice-special-edition-deceptions",
+  "synopsis": "Jedi Knight Obi-Wan Kenobi has been keeping a secret from his Padawan, Anakin Skywalker. Now, the master’s past is about to catch up to him in a dangerously, maybe even deadly way.",
+  "title": "Jedi Apprentice Special Edition: Deceptions"
+}

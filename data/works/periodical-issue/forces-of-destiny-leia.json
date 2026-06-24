@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elisa Charretier",
+      "role": "writer",
+      "slug": "elisa-charretier"
+    }
+  ],
+  "displayTitle": "Forces Of Destiny: Leia",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-leia",
+  "synopsis": "Leia wishes she could get her tauntaun to behave, but the stubborn creature is the least of her worries when they are separated from Han and Hera during a mission and come face-to-face with a wampa.",
+  "title": "Forces Of Destiny: Leia"
+}

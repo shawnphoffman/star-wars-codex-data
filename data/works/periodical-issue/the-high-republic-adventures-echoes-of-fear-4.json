@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "artist",
+      "slug": "vincenzo-federici"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Echoes of Fear #4",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2025-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-echoes-of-fear-4",
+  "synopsis": "Issue 4 of 4 from Dark Horse Comics The High Republic Adventures: Echoes of Fear Mini Series\nJedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo embark on a desperate mission to recover the Rod of Ages—the last known fragment of an Echo Stone—in time to help contain the greatest threat that has ever faced the Jedi Order: the deadly Force eaters known as the Nameless.",
+  "title": "The High Republic Adventures: Echoes of Fear #4"
+}

@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Crimson Reign #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "crimson-reign-trade-paperback",
+  "periodical": {
+    "imprint": "Marvel",
+    "pageCount": 31,
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-12-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-reign-1",
+  "synopsis": "This is the first issue of the canon comic miniseries Star Wars: Crimson Reign.\nAFTER THE DAWN... COMES THE REIGN! The story that began with WAR OF THE BOUNTY HUNTERS continues here, in the second installment of a trilogy that will reshape the history of the Star Wars Galaxy during the Age of Rebellion. Featuring the return of beloved characters, shocking twists, epic feats of the Force and a story that will reach from Star Wars' darkest underworld all the way to the Imperial Palace on Coruscant, Crimson Reign is a Star Wars saga like no other!",
+  "title": "Crimson Reign #1"
+}

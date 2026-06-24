@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures (2021) #09",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-adventures-vol-1-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-09",
+  "synopsis": "The High Republic Adventures #09 is the ninth issue of the canon comic book series Star Wars: The High Republic Adventures.\nThe Padawan are off on another mission! This time to Takodana, to assist the lone Jedi defending the local Jedi temple against the ever-growing threat of the Nihils. But Qort has trouble focusing when he comes face to face with his own past amidst new dangers and old allies.",
+  "title": "The High Republic Adventures (2021) #09"
+}

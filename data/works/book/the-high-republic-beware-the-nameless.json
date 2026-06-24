@@ -1,7 +1,14 @@
 {
   "bookType": "juniorReader",
   "canonStatus": "canon",
-  "displayTitle": "The High Republic: Beware the Nameless",
+  "creators": [
+    {
+      "name": "Zoraida Córdova",
+      "role": "writer",
+      "slug": "zoraida-cordova"
+    }
+  ],
+  "displayTitle": "Beware the Nameless",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368095194",
       "isbn13": "9781368095198",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-08-27T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -228
   },
   "releaseDate": "2024-08-27T00:00:00.000Z",
@@ -33,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-beware-the-nameless",
   "synopsis": "A group of Jedi younglings find themselves on a dangerous mission … with a Hutt?!",
-  "title": "The High Republic: Beware the Nameless"
+  "title": "Beware the Nameless"
 }

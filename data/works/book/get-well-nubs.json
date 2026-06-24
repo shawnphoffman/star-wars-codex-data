@@ -14,15 +14,17 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780736443913",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-07-18T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2023-07-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "get-well-nubs",
   "synopsis": "Nubs’ best friends and fellow Jedi younglings in training embark on a special mission to help him feel better.",

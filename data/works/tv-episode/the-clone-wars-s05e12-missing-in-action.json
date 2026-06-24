@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E12: Missing In Action",
+  "displayTitle": "Missing In Action",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2013-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e12-missing-in-action",
   "synopsis": "Colonel Gascon and the five droids of D-Squad have arrived at the remote town of Pons Ora on the planet Abafar and find a clone commando suffering from amnesia.",
-  "title": "The Clone Wars S05E12: Missing In Action"
+  "title": "Missing In Action"
 }

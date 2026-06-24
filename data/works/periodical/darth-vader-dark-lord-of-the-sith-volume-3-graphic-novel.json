@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith Vol. 3",
+  "era": "reignOfTheEmpire",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -18
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2018-09-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "synopsis": "The third volume of Charles Soule's monumental Vader series continues his rampage against the few Jedi survivors who remain hidden after Order 66. Originally pitched by Soule as \"Baby Vader,\" this series is set immediately after the events of Revenge of the Sith and sees the menacing Dark Lord sever his last ties with the Jedi who once was Anakin Skywalker. This time, the Jedi he's up against is a battle-scarred Saesee Tin, leading a resistance movement on the water world of Mon Cala. And he knows exactly who Vader really is under the helmet. . .",
+  "title": "Darth Vader: Dark Lord of the Sith Vol. 3"
+}

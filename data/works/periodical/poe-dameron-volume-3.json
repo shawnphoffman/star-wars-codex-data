@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "artist",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron Vol. 3: Legend Lost",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2017-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-volume-3",
+  "synopsis": "The adventures of the best pilot in the Resistance continue as Poe Dameron and Black Squadron continue to gather intelligence, fuel, and recruits for General Organa. But it's a dangerous galaxy, with First Order and other assorted adversaries waiting at seemingly every turn.",
+  "title": "Poe Dameron Vol. 3: Legend Lost"
+}

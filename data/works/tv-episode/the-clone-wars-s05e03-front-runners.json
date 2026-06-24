@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E03: Front Runners",
+  "displayTitle": "Front Runners",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2012-10-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e03-front-runners",
   "synopsis": "The Jedi and Rex return to Coruscant and leave Ahsoka in charge of supervising the Onderon Rebels as they carry out a series of strikes in the capital.",
-  "title": "The Clone Wars S05E03: Front Runners"
+  "title": "Front Runners"
 }

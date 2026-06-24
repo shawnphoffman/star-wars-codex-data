@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "Ahsoka #4",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "ahsoka-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka-4",
+  "synopsis": "Issue 4 of 8 from the Marvel Comic Ahsoka Adaptation miniseries\nFALLEN JEDI!\nHera risks her career to help her friends, while Ahsoka and Sabine confront enemies!",
+  "title": "Ahsoka #4"
+}

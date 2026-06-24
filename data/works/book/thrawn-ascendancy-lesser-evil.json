@@ -1,15 +1,18 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Thrawn Ascendancy: Lesser Evil",
   "editionIds": [
     {
-      "type": "isbn10",
-      "value": "593158326"
-    },
-    {
       "type": "isbn13",
-      "value": "978-0593158326"
+      "value": "9780593158326"
     }
   ],
   "editions": [
@@ -18,10 +21,11 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593158326",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2021-11-16T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -18

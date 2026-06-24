@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire #1: The Destiny of a Jedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 10
+  },
+  "parentWorkSlug": "empire-volume2-darlighter-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1991-12-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-1-the-destiny-of-a-jedi",
+  "title": "Dark Empire #1: The Destiny of a Jedi"
+}

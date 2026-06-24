@@ -1,0 +1,105 @@
+{
+  "entries": [
+    {
+      "note": "A century before the fall - the High Republic's last calm.",
+      "priority": "recommended",
+      "workSlug": "the-acolyte"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-i-the-phantom-menace"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "note": "The 2008 theatrical film - the on-ramp to the series.",
+      "priority": "recommended",
+      "workSlug": "the-clone-wars"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "the-clone-wars-series"
+    },
+    {
+      "note": "Vignettes of Dooku and Ahsoka around the war.",
+      "priority": "optional",
+      "workSlug": "tales-of-the-jedi"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "note": "The clones in the Empire's first days.",
+      "priority": "recommended",
+      "workSlug": "the-bad-batch"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "solo-a-star-wars-story"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "obi-wan-kenobi-trade-paperback"
+    },
+    {
+      "note": "The Rebellion before it knew it was one.",
+      "priority": "recommended",
+      "workSlug": "andor"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "rebels"
+    },
+    {
+      "note": "Runs straight into A New Hope.",
+      "priority": "essential",
+      "workSlug": "rogue-one-a-star-wars-story"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-iv-a-new-hope-7"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-v-the-empire-strikes-back"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "star-wars-episode-vi-return-of-the-jedi-1"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "the-mandalorian"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "the-book-of-boba-fett"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "ahsoka-series"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "skeleton-crew"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "episode-7"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "the-last-jedi"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "episode-9"
+    }
+  ],
+  "slug": "chronological-viewing-order",
+  "summary": "The saga the way the galaxy lived it. Films and the major series woven into one timeline, earliest events first. Where two stories overlap, we lead with the films.",
+  "title": "Chronological (In-Universe) Order"
+}

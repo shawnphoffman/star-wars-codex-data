@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E14: Eminence",
+  "displayTitle": "Eminence",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2013-01-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e14-eminence",
   "synopsis": "Darth Maul and Savage Opress join forces with the Death Watch and together they recruit the Black Sun and Hutt crime lords to form the Shadow Collective.",
-  "title": "The Clone Wars S05E14: Eminence"
+  "title": "Eminence"
 }

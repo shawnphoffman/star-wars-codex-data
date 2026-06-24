@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Jason Keith",
+      "role": "artist",
+      "slug": "jason-keith"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) Annual 1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-1-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-12-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-annual-1",
+  "synopsis": "The planet Shu-Torin has gone against the will of the Empire. It's time for Vader to bring them in line. A great, evil jumping-on point for fans of the Dark Lord!",
+  "title": "Darth Vader (2015) Annual 1"
+}

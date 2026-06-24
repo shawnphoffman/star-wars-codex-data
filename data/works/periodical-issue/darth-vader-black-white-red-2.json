@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "writer",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Torunn Grønbekk",
+      "role": "writer",
+      "slug": "torunn-gr-nbekk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Darth Vader: Black, White & Red #2",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "darth-vader-black-white-red-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-black-white-red-2",
+  "synopsis": "2 of 4 issues of the Marvel Comics Darth Vader Black, White & Red Miniseries\nJASON AARON CONTINUES HIS RETURN TO THE GREATEST VILLAIN IN THE GALAXY! Along with artist LEONARD KIRK, these two titans of comics tell a tale of horror and intrigue! PLUS, David Pepose makes his STAR WARS debut!",
+  "title": "Darth Vader: Black, White & Red #2"
+}

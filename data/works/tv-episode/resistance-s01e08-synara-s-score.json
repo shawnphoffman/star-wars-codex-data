@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Resistance S01E08: Synara's Score",
+  "displayTitle": "Synara's Score",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "parentWorkSlug": "resistance",
+  "parentWorkSlug": "resistance-season-1",
   "releaseDate": "2018-11-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s01e08-synara-s-score",
   "synopsis": "On a mission to repair a vital platform defense, Kaz befriends the mysterious Synara and comes under attack by pirates.",
-  "title": "Resistance S01E08: Synara's Score"
+  "title": "Synara's Score"
 }

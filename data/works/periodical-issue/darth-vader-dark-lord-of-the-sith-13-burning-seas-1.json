@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "artist",
+      "slug": "jim-cheung"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 13: Burning Seas Part I",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-2-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-03-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-13-burning-seas-1",
+  "synopsis": "As the Empire's grip tightens, the stirrings of Rebellion begin in the Mon Cala system. Order must be maintained…a job which falls to Vader, his inquisitors…and a man named Wilhuff Tarkin!",
+  "title": "Darth Vader: Dark Lord of the Sith 13: Burning Seas Part I"
+}

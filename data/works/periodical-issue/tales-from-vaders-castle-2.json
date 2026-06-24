@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Kelly Jones",
+      "role": "artist",
+      "slug": "kelly-jones"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Robbie Robbins",
+      "role": "artist",
+      "slug": "robbie-robbins"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "artist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    }
+  ],
+  "displayTitle": "Adventures: Tales From Vader's Castle #2",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "parentWorkSlug": "tales-from-vaders-castle-gn",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-10-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-vaders-castle-2",
+  "synopsis": "Christopher Lee’s history in horror is showcased in this perfectly spooky tale. Cavan Scott wanted to do a classic vampire story mashup with a Star Wars comic, and he succeeds wonderfully with this Goosebumps-esque entry in Tales from Vader’s Castle. If you’re looking for a story to sink your teeth into in order to learn how Dooku ticks, you’ll need to look elsewhere. But if you want a unique and quick adventure of little consequence, this is a go-to. It’s nice to see Lee’s legacy honored in the right format within current Star Wars storytelling.",
+  "title": "Star Wars Adventures: Tales From Vader's Castle #2"
+}

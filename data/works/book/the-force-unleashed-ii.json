@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sean Williams",
+      "role": "writer",
+      "slug": "sean-williams"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    }
+  ],
   "displayTitle": "The Force Unleashed II",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
   "releaseDate": "2010-10-05T00:00:00.000Z",

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #63: The Scourging Of Shu-Torun Part II",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-62-2",
+  "synopsis": "THE SCOURGING OF SHU-TORUN: OPERATION VENGEANCE! KANCHAR returns, and he's still got an amazing cybernetic arm. Does QUEEN TRIOS feel regret over all she's done? Spoilers: She will soon, if LEIA has anything to do with it.",
+  "title": "Star Wars (2015) #63: The Scourging Of Shu-Torun Part II"
+}

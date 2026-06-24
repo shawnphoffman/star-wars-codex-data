@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Bad Batch S01E03: Replacements",
+  "displayTitle": "Replacements",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-05-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e03-replacements",
   "synopsis": "The Batch gets stuck on a desolate moon.",
-  "title": "The Bad Batch S01E03: Replacements"
+  "title": "Replacements"
 }

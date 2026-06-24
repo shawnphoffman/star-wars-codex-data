@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Ezra's Duel with Danger",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Ezra’s Duel with Danger",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,17 +26,19 @@
       "isPrimary": true,
       "isbn10": "1405276312",
       "isbn13": "9781405276313",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-03-17T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ezras-duel-with-danger",
   "synopsis": "Ezra Bridger makes a shocking discovery about his mysteriously missing parents.",
-  "title": "Ezra's Duel with Danger"
+  "title": "Ezra’s Duel with Danger"
 }

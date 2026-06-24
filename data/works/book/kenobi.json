@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Kenobi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345546838"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345546838",
+      "kind": "print",
+      "onsale": "2013-08-27T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2013-08-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "kenobi",
+  "synopsis": "Obi-Wan Kenobi struggles to stay out of the way as he settles into a small Tatooine town.",
   "title": "Kenobi"
 }

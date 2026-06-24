@@ -4,13 +4,17 @@
   "era": "newRepublic",
   "format": "videoGame",
   "inUniverseDate": {
-    "endYear": 5,
     "startYear": 5
   },
-  "releaseDate": "2020-10-02T00:00:00.000Z",
+  "relatedWorkSlugs": [
+    "squadrons-count-to-three",
+    "squadrons-hunted",
+    "squadrons-the-light-you-bring"
+  ],
+  "releaseDate": "2020-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "squadrons",
-  "synopsis": "Master the art of starfighter combat in the authentic piloting experience STAR WARS™: Squadrons. Buckle up, feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and learn what it means to be a pilot in a thrilling STAR WARS™ single-player campaign.",
+  "synopsis": "Master the art of starfighter combat in the authentic piloting experience STAR WARS™: Squadrons. Feel the adrenaline of first-person multiplayer space dogfights alongside your squadron, and buckle up in a thrilling STAR WARS™ story.",
   "title": "Squadrons"
 }

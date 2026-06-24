@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Droids: Rebellion (1997)",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-rebellion-graphic-novel",
+  "title": "Droids: Rebellion (1997)"
+}

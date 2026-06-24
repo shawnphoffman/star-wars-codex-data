@@ -1,6 +1,13 @@
 {
   "bookType": "yaNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "E.K. Johnston",
+      "role": "writer",
+      "slug": "e-k-johnston"
+    }
+  ],
   "displayTitle": "Queen's Hope",
   "editionIds": [
     {
@@ -19,16 +26,16 @@
       "isPrimary": true,
       "isbn10": "1368075932",
       "isbn13": "9781368075930",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-01-25T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
-  "releaseDate": "2022-04-05T00:00:00.000Z",
+  "releaseDate": "2022-01-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "queens-hope",

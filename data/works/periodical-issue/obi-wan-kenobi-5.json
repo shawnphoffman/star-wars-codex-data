@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Obi-Wan Kenobi #5",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "obi-wan-kenobi-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-02-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-5",
+  "synopsis": "Issue 5 of 6 from Marvel Comics Obi-Wan Kenobi adaptation miniseries. This issue is an adaptation of the fifth episode of the television series Obi-Wan Kenobi.\nDARTH VADER STRIKES! Imperial forces attempt to draw OBI-WAN out! REVA, Third Sister of the INQUISITORS, has tightened her grip on the Path outpost that hides the wanted Jedi, Obi-Wan Kenobi. The penultimate chapter of the OBI-WAN KENOBI Disney+ series ends with a BANG!",
+  "title": "Obi-Wan Kenobi #5"
+}

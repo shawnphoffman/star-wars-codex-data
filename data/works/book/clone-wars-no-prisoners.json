@@ -9,14 +9,36 @@
     }
   ],
   "displayTitle": "The Clone Wars: No Prisoners",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1846055652"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781846055652"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 257,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "1846055652",
+      "isbn13": "9781846055652",
+      "kind": "print",
+      "onsale": "2009-05-19T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
   "releaseDate": "2009-05-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "clone-wars-no-prisoners",
+  "synopsis": "Clone Captain Rex and Jedi Padawan Ahsoka embark on a routine mission that quickly turns into a daring rescue.",
   "title": "The Clone Wars: No Prisoners"
 }

@@ -11,8 +11,16 @@
   "displayTitle": "The Old Republic: Deceived",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511387"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511386"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345529886"
     }
   ],
   "editions": [
@@ -20,14 +28,23 @@
       "extent": 352,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511387",
       "isbn13": "9780345511386",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2011-03-22T00:00:00.000Z"
+    },
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": false,
+      "isbn13": "9780345529886",
+      "kind": "print",
+      "onsale": "2012-05-28T00:00:00.000Z"
     }
   ],
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3653,
-    "startYear": -3653
+    "startYear": -3645
   },
   "releaseDate": "2011-03-22T00:00:00.000Z",
   "releaseDisplayState": "released",

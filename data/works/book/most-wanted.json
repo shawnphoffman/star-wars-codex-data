@@ -6,11 +6,6 @@
       "name": "Rae Carson",
       "role": "writer",
       "slug": "rae-carson"
-    },
-    {
-      "name": "Florian Nicolle",
-      "role": "coverArtist",
-      "slug": "florian-nicolle"
     }
   ],
   "displayTitle": "Most Wanted",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368016308",
       "isbn13": "9781368016308",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -13,
     "startYear": -13
   },
   "releaseDate": "2018-05-25T00:00:00.000Z",

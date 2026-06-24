@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kwame Mbalia",
+      "role": "writer",
+      "slug": "kwame-mbalia"
+    }
+  ],
   "displayTitle": "The Last Order",
   "editionIds": [
     {
@@ -19,14 +26,17 @@
       "isPrimary": true,
       "isbn10": "1368065619",
       "isbn13": "9781368065610",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-10-21T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2025-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-order",
   "synopsis": "As Finn and Jannah embark on an important mission following the First Order’s defeat, their memories of their former lives as stormtroopers resurface in unexpected ways.",

@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Owens",
+      "role": "writer",
+      "slug": "matt-owens"
+    },
+    {
+      "name": "Denys Owens",
+      "role": "artist",
+      "slug": "denys-owens"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "artist",
+      "slug": "jesus-saiz"
+    }
+  ],
+  "displayTitle": "Jedi of the Republic-Mace Windu, Part IV",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "parentWorkSlug": "jedi-of-the-republic-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-11-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-of-the-republic-mace-windu-iv",
+  "synopsis": "Mace's faith in the Jedi path is tested when he is challenged – by one of his own!",
+  "title": "Jedi of the Republic-Mace Windu, Part IV"
+}

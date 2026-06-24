@@ -1,6 +1,13 @@
 {
   "bookType": "yaNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "E.K. Johnston",
+      "role": "writer",
+      "slug": "e-k-johnston"
+    }
+  ],
   "displayTitle": "Crimson Climb",
   "editionIds": [
     {
@@ -19,7 +26,8 @@
       "isPrimary": true,
       "isbn10": "1368093752",
       "isbn13": "9781368093750",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-10-10T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

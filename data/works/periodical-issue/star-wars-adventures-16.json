@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Burke",
+      "role": "writer",
+      "slug": "kevin-burke"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Chris Wyatt",
+      "role": "writer",
+      "slug": "chris-wyatt"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "artist",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Adele Matera",
+      "role": "artist",
+      "slug": "adele-matera"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #16 - All Aces Battle Royale",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "adventures-vol-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-16",
+  "synopsis": "Welcome to the Resistance! Star Wars Resistance is an exciting new animated series coming to the Disney Channel this fall, and making its Star Wars Adventures debut in this very issue! In the time before The Force Awakens, this all-new adventure follows the fledgling Resistance as it begins to realize the growing threat of the First Order!",
+  "title": "Star Wars Adventures (2017) #16 - All Aces Battle Royale"
+}

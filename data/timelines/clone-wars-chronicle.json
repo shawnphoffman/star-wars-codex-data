@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "kind": "work",
+      "note": "Geonosis. The war begins.",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "kind": "work",
+      "note": "2008 theatrical kickoff.",
+      "workSlug": "the-clone-wars"
+    },
+    {
+      "kind": "divider",
+      "label": "The War"
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-clone-wars-series"
+    },
+    {
+      "kind": "work",
+      "note": "Quinlan Vos and Ventress, from unproduced episodes.",
+      "workSlug": "dark-disciple"
+    },
+    {
+      "kind": "work",
+      "note": "Dooku's slide; Ahsoka's path away.",
+      "workSlug": "tales-of-the-jedi"
+    },
+    {
+      "kind": "event",
+      "label": "Order 66",
+      "markerDate": {
+        "startYear": -19
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "kind": "work",
+      "note": "The clones after the cause they fought for is gone.",
+      "workSlug": "the-bad-batch"
+    }
+  ],
+  "slug": "clone-wars-chronicle",
+  "summary": "Three years that burned down the Republic - the films, the series, and the stories told in their margins.",
+  "title": "The Clone Wars Chronicle"
+}

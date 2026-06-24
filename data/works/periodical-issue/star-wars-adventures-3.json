@@ -1,0 +1,62 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    },
+    {
+      "name": "Alan Tudyk",
+      "role": "writer",
+      "slug": "alan-tudyk"
+    },
+    {
+      "name": "Shannon Denton",
+      "role": "writer",
+      "slug": "shannon-denton"
+    },
+    {
+      "name": "Eric Jones",
+      "role": "artist",
+      "slug": "eric-jones"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Christa Miesner",
+      "role": "artist",
+      "slug": "christa-miesner"
+    },
+    {
+      "name": "Monica Kubina",
+      "role": "artist",
+      "slug": "monica-kubina"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #03 - Pest Control",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "star-wars-adventures-2017-trade-paperback-volume-01-heroes-of-the-galaxy",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-10-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-3",
+  "synopsis": "This fun comic is a glimpse into the sort of adventure FN-2187 might have had before he became a critical leader in the Resistance. He finds a mischievous critter and has to find a way to hide it before Captain Phasma finds out!",
+  "title": "Star Wars Adventures (2017) #03 - Pest Control"
+}

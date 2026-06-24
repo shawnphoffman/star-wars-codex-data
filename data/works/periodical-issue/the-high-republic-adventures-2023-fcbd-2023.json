@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures Free Comic Book Day 2023",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-fcbd-2023",
+  "synopsis": "Is a one-shot canon comic book containing the story Starlight Coda and featuring the character Lula Talisola from the Star Wars: The High Republic Adventures series.",
+  "title": "The High Republic Adventures Free Comic Book Day 2023"
+}

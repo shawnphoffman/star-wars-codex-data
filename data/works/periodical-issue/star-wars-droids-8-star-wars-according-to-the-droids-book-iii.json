@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    }
+  ],
+  "displayTitle": "Droids #8: Star Wars According to the Droids, Book III",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-2020-vol-7-dark-droids-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1987-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-8-star-wars-according-to-the-droids-book-iii",
+  "title": "Star Wars Droids #8: Star Wars According to the Droids, Book III"
+}

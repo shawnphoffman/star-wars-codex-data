@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi #4: The Saga of Nomi Sunrider, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3999
+  },
+  "parentWorkSlug": "omnius-totj-vol1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-4-the-saga-of-nomi-sunrider-part-2",
+  "title": "Tales of the Jedi #4: The Saga of Nomi Sunrider, Part 2"
+}

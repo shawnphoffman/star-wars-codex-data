@@ -21,12 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345442970",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-05-29T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -33,
     "startYear": -33
   },
   "releaseDate": "2001-05-29T00:00:00.000Z",

@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "artist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "W. Scott Forbes",
+      "role": "artist",
+      "slug": "w-scott-forbes"
+    }
+  ],
+  "displayTitle": "Lando: Double Or Nothing #5",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -11
+  },
+  "parentWorkSlug": "lando-double-or-nothing-gn",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-double-or-nothing-5",
+  "synopsis": "LANDO’S made his way to an ambivalent Pretusian slave force. But can he convince them to stand up against the STORMTROOPERS who now are lower in number? Will ELLTHREE temper her passions in the face of massive droid abuses? Will Lando find a good card game and say “to hell with it all”?",
+  "title": "Lando: Double Or Nothing #5"
+}

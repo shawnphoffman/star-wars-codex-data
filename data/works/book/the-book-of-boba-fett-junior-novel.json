@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368092284",
       "isbn13": "9781368092289",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-01-03T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 9,
     "startYear": 9
   },
   "releaseDate": "2023-01-03T00:00:00.000Z",

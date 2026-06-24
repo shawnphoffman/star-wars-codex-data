@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 07: The Captive Temple",
+  "displayTitle": "Jedi Apprentice: The Captive Temple",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590519700",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-04-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -44,
     "startYear": -44
   },
   "releaseDate": "2000-04-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz106",
   "synopsis": "An attack on the Jedi Temple has left Qui-Gon Jinn and Obi-Wan Kenobi in charge of figuring out what’s really going on.",
-  "title": "Jedi Apprentice 07: The Captive Temple"
+  "title": "Jedi Apprentice: The Captive Temple"
 }

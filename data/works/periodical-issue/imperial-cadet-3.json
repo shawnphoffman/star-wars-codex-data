@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Han Solo: Imperial Cadet Part III",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -13
+  },
+  "parentWorkSlug": "han-solo-imperial-cadet",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-01-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "imperial-cadet-3",
+  "synopsis": "CASINO ROYALE! HAN SOLO gets demoted for insubordination – dragging his fellow cadets down with him. They go from flying TIE fighters to flying a giant cargo ship. Han's expert flying cuts their cargo ship's flight time in half, allowing them to stop at a casino for some hard-earned R&R. But Han's fellow cadets quickly learn this little \"vacation\" was NOT authorized by the Empire and, thanks to Han, they're all considered AWOL!",
+  "title": "Han Solo: Imperial Cadet Part III"
+}

@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "Rebels: Spark Of Rebellion (cinestory comic)",
+  "era": "reignOfTheEmpire",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2017-08-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "spark-of-rebellion-cinestory",
+  "synopsis": "Spark of Rebellion: A Star Wars Rebels Cinestory Comic brings the characters and story you know and love into comic book form, featuring the early beginnings of the adventures featuring Ezra Bridger, Kanan Jarrus, and the remaining crew of The Ghost.",
+  "title": "Rebels: Spark Of Rebellion (cinestory comic)"
+}

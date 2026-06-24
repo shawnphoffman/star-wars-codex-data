@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest #3: The Dangerous Games",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "parentWorkSlug": "the-high-republic-phase-ii-quest-of-the-jedi-omnibus",
+  "periodical": {
+    "imprint": "Scholastic",
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-quest-3-the-dangerous-games",
+  "synopsis": "Anakin Skywalker confronts his complicated past in a fast and dangerous race.",
+  "title": "Jedi Quest #3: The Dangerous Games"
+}

@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Thrawn #4",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -14
+  },
+  "parentWorkSlug": "thrawn-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-05-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-four",
+  "synopsis": "\"THE RISE OF THE GRAND ADMIRAL\" CONTINUES! Thrawn's rise in the Imperial Empire continues at a trajectory one can only dream of. Meanwhile, Eli Vanto is still stuck in the same position as when he graduated – Thrawn's aide. But will Thrawn's obsession and pursuit of the mysterious crimelord \"Nightswan\" lead both Imperials to success in the Emperor's eyes? Help comes from mysterious places in the Empire…",
+  "title": "Thrawn #4"
+}

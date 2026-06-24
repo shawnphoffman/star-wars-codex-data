@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
   "displayTitle": "Battle to the End",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1405276320",
       "isbn13": "9781405276320",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-06-09T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-06-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "battle-to-the-end",
   "synopsis": "Relive the final arc of Star Wars: Rebels season one in a thrilling chapter book adventure.",

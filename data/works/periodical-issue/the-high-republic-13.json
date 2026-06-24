@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #13",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-vol-3-trade-paperback-40812dc94f",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-01-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-13",
+  "synopsis": "The thirteenth issue of the Marvel comic book series Star Wars: The High Republic.\nTHE BATTLE FOR NO-SPACE!\nSince MARCHION RO attacked the Republic Fair on VALO, everything has been leading to this moment. Now it’s THE JEDI’s turn to strike the heart of THE NIHIL.\nAVAR KRISS VS. LOURNA DEE. JEDI VS. NIHIL. JEDI VS. JEDI.\nA line is about to be crossed!",
+  "title": "The High Republic (2021) #13"
+}

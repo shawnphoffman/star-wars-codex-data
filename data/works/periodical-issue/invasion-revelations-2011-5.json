@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Invasion: Revelations #5",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 25
+  },
+  "parentWorkSlug": "invasion-revelations-2011",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "invasion-revelations-2011-5",
+  "title": "Invasion: Revelations #5"
+}

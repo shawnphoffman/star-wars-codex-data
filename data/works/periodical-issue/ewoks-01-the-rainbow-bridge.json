@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    }
+  ],
+  "displayTitle": "Ewoks #01: The Rainbow Bridge",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "ewoks",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1985-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-01-the-rainbow-bridge",
+  "title": "Ewoks #01: The Rainbow Bridge"
+}

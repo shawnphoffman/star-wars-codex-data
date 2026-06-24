@@ -31,12 +31,13 @@
       "isPrimary": true,
       "isbn10": "1368043380",
       "isbn13": "9781368043380",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2019-10-04T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
   "releaseDate": "2019-10-04T00:00:00.000Z",

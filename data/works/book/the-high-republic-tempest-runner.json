@@ -8,25 +8,39 @@
       "slug": "cavan-scott"
     }
   ],
-  "displayTitle": "The High Republic: Tempest Runner",
+  "displayTitle": "Tempest Runner",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593358993"
+    }
+  ],
   "editions": [
     {
       "extent": 592,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-03-15T00:00:00.000Z"
+    },
+    {
+      "extent": 592,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780593358993",
+      "kind": "print",
+      "onsale": "2022-03-15T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -231,
     "startYear": -231
   },
-  "releaseDate": "2021-08-31T00:00:00.000Z",
+  "releaseDate": "2022-03-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-tempest-runner",
   "synopsis": "Tempest Runner Lourna Dee has long been loyal to the Nihil and their cause. But things are about to change.",
-  "title": "The High Republic: Tempest Runner"
+  "title": "Tempest Runner"
 }

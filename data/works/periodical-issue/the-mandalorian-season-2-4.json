@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Season 2 #4",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "parentWorkSlug": "the-mandalorian-season-2-part-1-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-09-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-season-2-4",
+  "synopsis": "Issue 4 of 8 from the Marvel Comics The Mandalorian Season 2 Adaptation\nTHE SIEGE!\nTHE MANDALORIAN rejoins old allies for a new mission. Featuring the DARK TROOPERS!",
+  "title": "The Mandalorian: Season 2 #4"
+}

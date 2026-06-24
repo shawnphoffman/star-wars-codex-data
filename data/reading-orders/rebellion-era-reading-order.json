@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "note": "Kanan and Hera meet - the spark for Rebels.",
+      "priority": "essential",
+      "workSlug": "a-new-dawn"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "thrawn-alliances"
+    },
+    {
+      "note": "The whole war through two childhood friends.",
+      "priority": "essential",
+      "workSlug": "lost-stars"
+    },
+    {
+      "note": "The Rebellion from the mud.",
+      "priority": "recommended",
+      "workSlug": "battlefront-twilight-company"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "leia-princess-of-alderaan"
+    },
+    {
+      "note": "Jyn Erso before Rogue One.",
+      "priority": "recommended",
+      "workSlug": "rebel-rising"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "guardians-of-the-whills"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "battlefront-ii-inferno-squad"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "thrawn-treason"
+    }
+  ],
+  "slug": "rebellion-era-reading-order",
+  "summary": "Spies, soldiers, smugglers, and one doomed data heist - the canon novels of the Galactic Civil War, in in-universe order.",
+  "title": "Rebellion-Era Novels"
+}

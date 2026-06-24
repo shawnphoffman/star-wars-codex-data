@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #21",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-06-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-21",
+  "synopsis": "Doctor Aphra 21 is the twenty-first issue of the Marvel canon comic book series Star Wars: Doctor Aphra (2020)\nThe SPARK ETERNAL corrupts everything it touches, and DOCTOR APHRA is no exception!  Face-to-face with an ancient, malevolent presence, SANA STARROS will have to make a choice… Can she save Aphra? Can she even save herself?",
+  "title": "Doctor Aphra (2020) #21"
+}

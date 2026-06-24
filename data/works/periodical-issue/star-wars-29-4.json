@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "artist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #29: Yoda's Secret War, Part IV",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": -33
+  },
+  "parentWorkSlug": "satr-wars-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-29-4",
+  "synopsis": "With one member of the rebel crew captured and imprisoned, we turn once more to the journals of Ben Kenobi and a legendary adventure with Jedi Master...Yoda!",
+  "title": "Star Wars (2015) #29: Yoda's Secret War, Part IV"
+}

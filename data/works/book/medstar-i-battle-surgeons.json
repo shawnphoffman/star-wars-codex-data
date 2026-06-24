@@ -14,14 +14,31 @@
     }
   ],
   "displayTitle": "MedStar I: Battle Surgeons",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345463104"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 309,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345463104",
+      "kind": "print",
+      "onsale": "2004-06-29T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
   "releaseDate": "2004-06-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "medstar-i-battle-surgeons",
+  "synopsis": "On the jungle world of Drongar, a group of healers work tirelessly to save as many as they can from the deadly effects of the galaxy-wide war.",
   "title": "MedStar I: Battle Surgeons"
 }

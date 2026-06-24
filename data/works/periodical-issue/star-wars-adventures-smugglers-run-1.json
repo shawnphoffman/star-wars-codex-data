@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alec Worley",
+      "role": "writer",
+      "slug": "alec-worley"
+    },
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Ingo Römling",
+      "role": "artist",
+      "slug": "ingo-romling"
+    }
+  ],
+  "displayTitle": "Adventures: Smuggler's Run #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-adventures-smuggler-s-run-tpb",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2020-12-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-smugglers-run-1",
+  "synopsis": "Star Wars Adventures Smugglers Run #1 is the first issue of the Star Wars Adventures Smugglers Run comic series,\nThe series is an adaptation of Greg Rucka's 2015 junior novel Smuggler's Run: A Han Solo & Chewbacca Adventure.\nAfter the Battle of Yavin, Han Solo and Chewbacca intend to use their reward to settle their debts. But Princess Leia asks them to accept a secret mission for the Resistance. Mortal dangers, traitorous enemies, and thorny situations mark the path of these two heroes of the Star Wars saga.",
+  "title": "Star Wars Adventures: Smuggler's Run #1"
+}

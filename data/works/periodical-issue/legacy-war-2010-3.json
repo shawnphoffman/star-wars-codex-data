@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy: War #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 138
+  },
+  "parentWorkSlug": "legacy-war-2010",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-02-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-war-2010-3",
+  "title": "Legacy: War #3"
+}

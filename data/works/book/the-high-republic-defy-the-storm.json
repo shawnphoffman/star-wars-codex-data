@@ -3,12 +3,17 @@
   "canonStatus": "canon",
   "creators": [
     {
+      "name": "Tessa Gratton",
+      "role": "writer",
+      "slug": "tessa-gratton"
+    },
+    {
       "name": "Justina Ireland",
       "role": "writer",
       "slug": "justina-ireland"
     }
   ],
-  "displayTitle": "The High Republic: Defy The Storm",
+  "displayTitle": "Defy the Storm",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,13 +26,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781368095167",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-03-05T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -228
   },
   "releaseDate": "2024-03-05T00:00:00.000Z",
@@ -35,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-defy-the-storm",
   "synopsis": "Jedi Knight Vernestra Rwoh seeks the help of Avon Starros to find her Padawan, who may still be alive and trapped behind the Nihil’s Occlusion Zone.",
-  "title": "The High Republic: Defy The Storm"
+  "title": "Defy the Storm"
 }

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #13: Ready to Die",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2007-06-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-13-ready-to-die",
+  "title": "Legacy #13: Ready to Die"
+}

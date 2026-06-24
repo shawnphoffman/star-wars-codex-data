@@ -13,7 +13,7 @@
       "slug": "justina-ireland"
     }
   ],
-  "displayTitle": "The High Republic: Path of Deceit",
+  "displayTitle": "Path of Deceit",
   "editionIds": [
     {
       "type": "isbn10",
@@ -26,18 +26,24 @@
   ],
   "editions": [
     {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2022-10-04T00:00:00.000Z"
+    },
+    {
       "extent": 352,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368076122",
       "isbn13": "9781368076128",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-10-04T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -382,
     "startYear": -382
   },
   "releaseDate": "2022-10-04T00:00:00.000Z",
@@ -45,5 +51,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-path-of-deceit",
   "synopsis": "The Jedi’s arrival on the planet Dalna is not going to yield the results they were expecting when their journey began.",
-  "title": "The High Republic: Path of Deceit"
+  "title": "Path of Deceit"
 }

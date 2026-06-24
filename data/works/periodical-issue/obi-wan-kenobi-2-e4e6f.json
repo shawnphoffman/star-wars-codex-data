@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "Obi-Wan Kenobi #3",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "obi-wan-kenobi-comics",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-11-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-kenobi-2-e4e6f",
+  "synopsis": "Issue 3 of 6 of the Marvel Comics Obi-Wan Kenobi adaptation miniseries. This issue is an adaptation of the third episode of the television series Obi-Wan Kenobi.\nESCAPE FROM PLANET MAPUZO!\nAs OBI-WAN searches for allies to help him evade THE EMPIRE…he must face his greatest failure: DARTH VADER!",
+  "title": "Obi-Wan Kenobi #3"
+}

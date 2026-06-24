@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
   "displayTitle": "The Last Jedi: Expanded Edition",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1524797138",
       "isbn13": "9781524797133",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-03-06T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2018-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-expanded-edition",
   "synopsis": "Luke Skywalker has been found. But as Rey is about to discover, it’s not going to be easy to convince him to join yet another fight against tyranny.",

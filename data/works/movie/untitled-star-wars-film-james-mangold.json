@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Mangold",
+      "role": "director",
+      "slug": "james-mangold"
+    },
+    {
+      "name": "David S. Goyer",
+      "role": "writer",
+      "slug": "david-s-goyer"
+    }
+  ],
+  "displayTitle": "Untitled Dawn of the Jedi Film",
+  "era": "dawnOfTheJedi",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": -25000
+  },
+  "movie": {
+    "movieType": "theatrical"
+  },
+  "releaseDisplayState": "announced",
+  "releaseStatus": "announced",
+  "slug": "untitled-star-wars-film-james-mangold",
+  "title": "Untitled Dawn of the Jedi Film"
+}

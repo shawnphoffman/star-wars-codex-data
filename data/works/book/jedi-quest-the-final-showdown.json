@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Final Showdown",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339261"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 151,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339261",
+      "kind": "print",
+      "onsale": "2004-11-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -23
+  },
+  "releaseDate": "2004-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-final-showdown",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker are hunting for Granta Omega before he can unleash terror into the galaxy. But the strengthening presence of the dark side of the Force might make this one of their most dangerous missions yet.",
+  "title": "Jedi Quest: The Final Showdown"
+}

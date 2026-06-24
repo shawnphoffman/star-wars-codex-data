@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "writer",
+      "slug": "walt-simonson"
+    },
+    {
+      "name": "Louise Jones",
+      "role": "writer",
+      "slug": "louise-jones"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #57: Hello, Bespin, Good-bye!",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1981-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-57",
+  "title": "Star Wars (1977) #57: Hello, Bespin, Good-bye!"
+}

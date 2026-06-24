@@ -3,9 +3,9 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Tara Phillips",
-      "role": "coverArtist",
-      "slug": "tara-phillips"
+      "name": "E.K. Johnston",
+      "role": "writer",
+      "slug": "e-k-johnston"
     }
   ],
   "displayTitle": "Queen's Shadow",
@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368024254",
       "isbn13": "9781368024259",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2019-03-05T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -28,
     "startYear": -28
   },
   "releaseDate": "2019-03-05T00:00:00.000Z",

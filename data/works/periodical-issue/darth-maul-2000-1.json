@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    }
+  ],
+  "displayTitle": "Darth Maul (2000) #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "parentWorkSlug": "darth-maul-graphic-novel-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2000-09-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-2000-1",
+  "title": "Darth Maul (2000) #1"
+}

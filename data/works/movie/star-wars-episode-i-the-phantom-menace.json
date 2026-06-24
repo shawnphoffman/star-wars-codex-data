@@ -3,18 +3,18 @@
   "creators": [
     {
       "name": "George Lucas",
-      "role": "writer",
+      "role": "director",
       "slug": "george-lucas"
-    },
-    {
-      "name": "Rick McCallum",
-      "role": "producer",
-      "slug": "rick-mccallum"
     },
     {
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
     }
   ],
   "displayTitle": "Episode I: The Phantom Menace",
@@ -24,7 +24,9 @@
     "startYear": -32
   },
   "movie": {
-    "movieType": "theatrical"
+    "movieType": "theatrical",
+    "mpaaRating": "pg",
+    "runtimeMinutes": 136
   },
   "releaseDate": "1999-05-19T00:00:00.000Z",
   "releaseDisplayState": "released",

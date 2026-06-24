@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Age Of Resistance: Villains",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2019-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-resistance-villains",
+  "synopsis": "This collection of character-focused one-shots focused on sequel-trilogy villains is a satisfying blend of being entertaining and informative. It fills in the gaps, answers “what if…” and “what about…” questions about the likes of Kyo Ren, Supreme Leader Snoke, Captain Phasma, and General Hux. Travel from the shiny hallways of a First Order Star Destroyer to the mirky swamps of Dagobah and deep into the recesses of villainy with these characters we’ve been dying to learn more about!",
+  "title": "Age Of Resistance: Villains"
+}

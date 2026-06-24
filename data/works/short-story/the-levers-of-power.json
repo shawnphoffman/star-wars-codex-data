@@ -11,9 +11,9 @@
   "era": "ageOfRebellion",
   "format": "shortStory",
   "inUniverseDate": {
-    "endYear": 4,
     "startYear": 4
   },
+  "parentWorkSlug": "the-rise-of-the-empire",
   "releaseDate": "2015-10-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

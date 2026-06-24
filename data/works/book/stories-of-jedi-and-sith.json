@@ -1,6 +1,58 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    },
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Sarwat Chadda",
+      "role": "writer",
+      "slug": "sarwat-chadda"
+    },
+    {
+      "name": "Karen Strong",
+      "role": "writer",
+      "slug": "karen-strong"
+    },
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Vera Strange",
+      "role": "writer",
+      "slug": "vera-strange"
+    },
+    {
+      "name": "Sam Maggs",
+      "role": "writer",
+      "slug": "sam-maggs"
+    },
+    {
+      "name": "Tessa Gratton",
+      "role": "writer",
+      "slug": "tessa-gratton"
+    },
+    {
+      "name": "Roseanne A. Brown",
+      "role": "writer",
+      "slug": "roseanne-a-brown"
+    }
+  ],
   "displayTitle": "Stories of Jedi and Sith",
   "editionIds": [
     {
@@ -19,14 +71,17 @@
       "isPrimary": true,
       "isbn10": "1368080545",
       "isbn13": "9781368080545",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-06-07T00:00:00.000Z"
     }
   ],
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -234
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2022-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "stories-of-jedi-and-sith",
   "synopsis": "An anthology filled with original stories chronicling the epic confrontations between the Jedi and Sith.",

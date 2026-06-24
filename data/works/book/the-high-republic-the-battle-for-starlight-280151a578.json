@@ -8,7 +8,7 @@
       "slug": "george-mann"
     }
   ],
-  "displayTitle": "The High Republic: The Battle for Starlight",
+  "displayTitle": "The Battle for Starlight",
   "editionIds": [
     {
       "type": "isbn10",
@@ -17,6 +17,10 @@
     {
       "type": "isbn13",
       "value": "9781368069854"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368079396"
     }
   ],
   "editions": [
@@ -26,13 +30,20 @@
       "isPrimary": true,
       "isbn10": "1368069851",
       "isbn13": "9781368069854",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "isbn13": "9781368079396",
+      "kind": "print",
+      "onsale": "2022-02-01T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -230,
     "startYear": -230
   },
   "releaseDate": "2022-02-01T00:00:00.000Z",
@@ -40,5 +51,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-the-battle-for-starlight-280151a578",
   "synopsis": "The Jedi must work together to do the impossible: save as many people as they can as Starlight Beacon falls.",
-  "title": "The High Republic: The Battle for Starlight"
+  "title": "The Battle for Starlight"
 }

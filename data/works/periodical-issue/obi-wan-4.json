@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Cantwell",
+      "role": "writer",
+      "slug": "christopher-cantwell"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Obi-Wan #4",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "parentWorkSlug": "obi-wan",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-08-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-4",
+  "synopsis": "The  fourth issue of the Marvel Comics Obi-Wan Mini-Series\nAs the sandstorm overtakes his home, Obi-Wan has more time to reflect in – and on – the darkness.He looks back on a time when he and Anakin Skywalker were pulled off the front lines of the Clone Wars to confront a lost soul from Kenobi's wartime past.Can the two Jedi bring a man back from the heart of darkness to which he has fallen?",
+  "title": "Obi-Wan #4"
+}

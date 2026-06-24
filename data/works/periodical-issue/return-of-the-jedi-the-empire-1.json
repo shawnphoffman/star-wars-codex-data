@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: The Empire #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "episode-vi-return-of-the-jedi-hardcover-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-the-empire-1",
+  "synopsis": "Is a one-shot canon comic part of the Marvel Comics Return of the Jedi One-Shot Miniseries\nWHAT WOULD YOU DO IF THE EMPIRE TOOK OVER?\nAs operations begin to take shape on the moon of ENDOR, a technician must figure out how to live under the control of THE EMPIRE. But if he can't stay out of trouble, what will the Empire do with him?' Continuing the 40TH ANNIVERSARY celebration of RETURN OF THE JEDI, JODY HOUSER & JETHRO MORALES pull back the curtain of the Empire like never before!",
+  "title": "Return of the Jedi: The Empire #1"
+}

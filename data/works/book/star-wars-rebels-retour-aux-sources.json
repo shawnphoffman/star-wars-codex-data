@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars Rebels: Retour aux Sources",
+  "creators": [
+    {
+      "name": "Vanessa Rubio-Barreau",
+      "role": "writer",
+      "slug": "vanessa-rubio-barreau"
+    }
+  ],
+  "displayTitle": "Rebels: Retour aux Sources",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "2011801478",
       "isbn13": "9782011801470",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-11-30T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2016-11-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-retour-aux-sources",
   "synopsis": "Sabine attempts to recruit a group of Mandalorians to the rebel cause, while Zeb makes a surprising discovery.",

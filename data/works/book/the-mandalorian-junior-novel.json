@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joe Schreiber",
+      "role": "writer",
+      "slug": "joe-schreiber"
+    }
+  ],
   "displayTitle": "The Mandalorian Junior Novel",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1368057136",
       "isbn13": "9781368057134",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2021-01-05T00:00:00.000Z"
     }
   ],
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 9,
     "startYear": 9
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-junior-novel",
   "synopsis": "Relive the events of Star Wars: The Mandalorian in this fast-paced novelization for young readers.",

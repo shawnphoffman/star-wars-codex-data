@@ -8,7 +8,7 @@
       "slug": "tessa-gratton"
     }
   ],
-  "displayTitle": "The High Republic: Temptation of the Force",
+  "displayTitle": "Temptation of the Force",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,13 +21,13 @@
       "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9780593723098",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-06-11T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -228
   },
   "releaseDate": "2024-06-11T00:00:00.000Z",
@@ -35,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-temptation-of-the-force",
   "synopsis": "Finally together again, Jedi Masters Avar and Elzar must decide if their loyalty to the Jedi Order is more important than their devotion to each other – or if they might be able to have both.",
-  "title": "The High Republic: Temptation of the Force"
+  "title": "Temptation of the Force"
 }

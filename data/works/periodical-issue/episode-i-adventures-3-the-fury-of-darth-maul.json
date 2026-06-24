@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures #3: The Fury of Darth Maul",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-adventures-graphic-novel",
+  "periodical": {
+    "imprint": "Scholastic",
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1999-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-3-the-fury-of-darth-maul",
+  "synopsis": "Darth Sidious recruits the help of another Sith Lord to take back something that belongs to him.",
+  "title": "Episode I Adventures #3: The Fury of Darth Maul"
+}

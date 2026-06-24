@@ -21,13 +21,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780606352840",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
   "releaseDate": "2014-08-05T00:00:00.000Z",

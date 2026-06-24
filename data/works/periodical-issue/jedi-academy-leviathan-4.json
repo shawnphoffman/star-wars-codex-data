@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Jedi Academy: Leviathan #4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 12
+  },
+  "parentWorkSlug": "jedi-academy-leviathan-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1999-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-academy-leviathan-4",
+  "title": "Jedi Academy: Leviathan #4"
+}

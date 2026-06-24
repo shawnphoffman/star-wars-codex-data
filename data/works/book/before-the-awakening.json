@@ -6,11 +6,6 @@
       "name": "Greg Rucka",
       "role": "writer",
       "slug": "greg-rucka"
-    },
-    {
-      "name": "Phil Noto",
-      "role": "artist",
-      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Before the Awakening",
@@ -31,7 +26,8 @@
       "isPrimary": true,
       "isbn10": "1368108210",
       "isbn13": "9781368108218",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",

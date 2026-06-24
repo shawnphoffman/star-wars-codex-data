@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "artist",
+      "slug": "rod-reis"
+    }
+  ],
+  "displayTitle": "Thrawn: Alliances #4",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -19
+  },
+  "parentWorkSlug": "thrawn-alliances-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-04-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "thrawn-alliances-4",
+  "synopsis": "Issue 4 of 4 from Marvel Comics Thrawn: Alliances miniseries",
+  "title": "Thrawn: Alliances #4"
+}

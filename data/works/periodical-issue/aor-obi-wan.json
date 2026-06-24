@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Wilton Santos",
+      "role": "artist",
+      "slug": "wilton-santos"
+    }
+  ],
+  "displayTitle": "Age Of Republic: Obi-Wan Kenobi",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -29
+  },
+  "parentWorkSlug": "age-of-republic",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-01-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-obi-wan",
+  "synopsis": "Obi-Wan is dispatched to retrieve a rare artifact from the Dallenor, but he is reluctant to bring along his impulsive young apprentice, Anakin. After the death of his master, Qui-on, Obi-Wan struggles to believe he can be a good teacher for Anakin. But on Dallenor Anakin proves to be quite the resourceful Jedi student.",
+  "title": "Age Of Republic: Obi-Wan Kenobi"
+}

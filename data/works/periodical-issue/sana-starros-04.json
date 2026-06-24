@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    }
+  ],
+  "displayTitle": "Sana Starros #04",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "sana-starros-tpb",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sana-starros-04",
+  "synopsis": "Issue 4 of 5 of the Marvel Comics Sana Starros miniseries\nDANGEROUS SIBLING RIVALRY! SANA must take on her brother PHEL or all is lost! But will it be DEVA LOMPOP who destroys the Starros family?",
+  "title": "Sana Starros #04"
+}

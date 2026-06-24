@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    }
+  ],
+  "displayTitle": "Empire #14: The Savage Heart",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-legends-empire-omnibus-vol-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2003-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-14-the-savage-heart",
+  "title": "Empire #14: The Savage Heart"
+}

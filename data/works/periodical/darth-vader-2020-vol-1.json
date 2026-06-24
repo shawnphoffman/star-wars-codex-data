@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) Vol. 01: Dark Heart of the Sith",
+  "era": "ageOfRebellion",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2020-11-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-vol-1",
+  "synopsis": "“JOIN ME, AND TOGETHER, WE CAN RULE THE GALAXY AS FATHER AND SON!” “THE TRAGEDY OF DARTH VADER CONTINUES!”",
+  "title": "Darth Vader (2020) Vol. 01: Dark Heart of the Sith"
+}

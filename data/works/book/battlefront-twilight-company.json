@@ -6,11 +6,6 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
-    },
-    {
-      "name": "Aaron McBride",
-      "role": "coverArtist",
-      "slug": "aaron-mcbride"
     }
   ],
   "displayTitle": "Battlefront: Twilight Company",
@@ -26,7 +21,8 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345511218",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-11-03T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",

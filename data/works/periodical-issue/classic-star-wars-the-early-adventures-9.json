@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "writer",
+      "slug": "rick-hoberg"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Early Adventures #9",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "classic-star-wars-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1995-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-early-adventures-9",
+  "title": "Classic Star Wars: The Early Adventures #9"
+}

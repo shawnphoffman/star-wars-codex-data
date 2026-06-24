@@ -1,21 +1,30 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brook Vitale",
+      "role": "writer",
+      "slug": "brook-vitale"
+    }
+  ],
   "displayTitle": "TIE Fighter Trouble",
   "editions": [
     {
       "extent": 24,
       "imprint": "Scholastic India",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-11-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tie-fighter-trouble",
   "synopsis": "Ezra and Zeb are on an important mission – but they have to avoid running into the Empire in order to succeed.",

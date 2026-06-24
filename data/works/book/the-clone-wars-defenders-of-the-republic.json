@@ -8,15 +8,32 @@
       "slug": "rob-valois"
     }
   ],
-  "displayTitle": "The Clone Wars: Defenders Of The Republic",
+  "displayTitle": "The Clone Wars: Defenders of the Republic",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448454641"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448454641",
+      "kind": "print",
+      "onsale": "2010-10-07T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -21,
-    "startYear": -21
+    "startYear": -22
   },
   "releaseDate": "2010-10-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-defenders-of-the-republic",
-  "title": "The Clone Wars: Defenders Of The Republic"
+  "synopsis": "The story of a group of clone troopers who, as cadets, must rise through the ranks of the Republic army to become ARC Troopers.",
+  "title": "The Clone Wars: Defenders of the Republic"
 }

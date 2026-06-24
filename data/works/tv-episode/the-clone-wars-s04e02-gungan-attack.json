@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E02: Gungan Attack",
+  "displayTitle": "Gungan Attack",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2011-09-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e02-gungan-attack",
   "synopsis": "Anakin Skywalker and the rest of his Jedi team have been overrun by the Separatist surprise attacks led by Riff Tamson while Prince Lee-Char and Ahsoka must evade capture on their own. Unable to summon more Republic aid, Yoda calls upon the help of the powerful and amphibious Gungan Grand Army, but whether they will be enough to stop the Separatist siege is uncertain. An incensed Tamson doubles his efforts in tracking down Prince Lee-Char, unleashing the reinforcements given to him by Count Dooku in an assault that churns the oceans.",
-  "title": "The Clone Wars S04E02: Gungan Attack"
+  "title": "Gungan Attack"
 }

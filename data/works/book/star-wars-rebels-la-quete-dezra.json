@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars Rebels: La Quête d'Ezra",
+  "creators": [
+    {
+      "name": "Vanessa Rubio-Barreau",
+      "role": "writer",
+      "slug": "vanessa-rubio-barreau"
+    }
+  ],
+  "displayTitle": "Rebels: La Quête d'Ezra",
   "editionIds": [
     {
       "type": "isbn10",
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "2011801176",
       "isbn13": "9782011801173",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-10-19T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2016-10-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-la-quete-dezra",
   "synopsis": "Ezra’s strange dreams lead him back to Lothal, but he might not like the answers waiting for him there.",

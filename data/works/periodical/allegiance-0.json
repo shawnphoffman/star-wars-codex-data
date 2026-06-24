@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
+    }
+  ],
+  "displayTitle": "Allegiance",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "pageCount": 103,
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "allegiance-0",
+  "synopsis": "BEFORE THE EXCITING EVENTS OF STAR WARS: THE RISE OF SKYWALKER!",
+  "title": "Allegiance"
+}

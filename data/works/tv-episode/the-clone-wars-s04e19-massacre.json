@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E19: Massacre",
+  "displayTitle": "Massacre",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2010-02-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e19-massacre",
   "synopsis": "Asajj Ventress returns to Dathomir to become a true Nightsister. But then Count Dooku orders General Grievous to wipe out Mother Talzin and her entire clan of witches.",
-  "title": "The Clone Wars S04E19: Massacre"
+  "title": "Massacre"
 }

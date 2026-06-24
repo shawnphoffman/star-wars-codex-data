@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Republic Commando: Triple Zero",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593722169"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 393,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593722169",
+      "kind": "print",
+      "onsale": "2006-02-28T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -21,
-    "startYear": -21
+    "startYear": -22
   },
   "releaseDate": "2006-02-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-commando-triple-zero",
+  "synopsis": "The elite group of clone troopers known as Omega Squad is sent on a new mission – perhaps one of the most dangerous yet since the beginning of the war.",
   "title": "Republic Commando: Triple Zero"
 }

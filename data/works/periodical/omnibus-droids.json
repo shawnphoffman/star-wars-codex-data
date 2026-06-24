@@ -1,0 +1,18 @@
+{
+  "canonStatus": "non-canon",
+  "displayTitle": "Omnibus: Droids",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -4,
+    "startYear": -5
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "omnibus"
+  },
+  "releaseDate": "2008-06-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omnibus-droids",
+  "title": "Omnibus: Droids"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "Boba Fett: Enemy of the Empire #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "parentWorkSlug": "boba-fett-enemy-of-the-empire-1999",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1999-02-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-enemy-of-the-empire-1999-2",
+  "title": "Boba Fett: Enemy of the Empire #2"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    }
+  ],
+  "displayTitle": "Battle of Jakku: Republic Under Siege #02",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 5
+  },
+  "parentWorkSlug": "battle-of-jakku-republic-under-siege",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-11-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battle-of-jakku-republic-under-siege-02",
+  "synopsis": "Issue 6 of 12 from the Marvel Comics Battle of Jakku maxi-series\nLuke and Doctor Aphra join forces to fight off a surprise attack as the remaining Imperials plot their next attack! Luke Skywalker must battle his way through a gang of Force-focused zealots! A faction of Imperial survivors plot to return the Empire to its past glory – and hint at a huge struggle to come! Can Luke survive against a giant…swamp rat?! As the defiant Imperial consolidates his power and allegiances – he discovers a traitor!",
+  "title": "Battle of Jakku: Republic Under Siege #02"
+}

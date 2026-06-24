@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    },
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: Dark Lords of the Sith #1: Masters and Students of the Force",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3996
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-dark-lords-of-the-sith-1-masters-and-students-of-the-force",
+  "title": "Tales of the Jedi: Dark Lords of the Sith #1: Masters and Students of the Force"
+}

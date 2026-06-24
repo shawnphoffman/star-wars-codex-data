@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shawn Levy",
+      "role": "director",
+      "slug": "shawn-levy"
+    },
+    {
+      "name": "Jonathan Tropper",
+      "role": "writer",
+      "slug": "jonathan-tropper"
+    },
+    {
+      "name": "Thomas Newman",
+      "role": "composer",
+      "slug": "thomas-newman"
+    }
+  ],
+  "displayTitle": "Starfighter",
+  "era": "riseOfTheFirstOrder",
+  "format": "movie",
+  "inUniverseDate": {
+    "startYear": 40
+  },
+  "releaseDate": "2027-05-26T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "starfighter",
+  "synopsis": "An original story set approximately five years after the events of Star Wars: The Rise of Skywalker.",
+  "title": "Starfighter"
+}

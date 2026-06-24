@@ -1,7 +1,14 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Star Wars: Galaxy's Edge: A Batuu Adventure!",
+  "creators": [
+    {
+      "name": "Jeneanne DeBois",
+      "role": "writer",
+      "slug": "jeneanne-debois"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: A Batuu Adventure!",
   "editionIds": [
     {
       "type": "isbn13",
@@ -14,15 +21,17 @@
       "imprint": "Golden Books",
       "isPrimary": true,
       "isbn13": "9780736445269",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-02-25T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2025-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-galaxys-edge-a-batuu-adventure",
   "synopsis": "What begins as a simple refueling stop quickly turns into an epic Batuu adventure no one will forget.",

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    }
+  ],
+  "displayTitle": "Adventures (2017) Free Comic Book Day 2018",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -9
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventur",
+  "synopsis": "Star Wars Adventures Free Comic Book Day 2018 is a one-shot issue of Star Wars Adventures. Written by Cavan Scott and illustrated by Derek Charm, the comic features \"Hunter vs Hunted,\" a Han Solo story that leads into Star Wars Adventures (2017) 10. The issue was released as a Free Comic Book Day silver title on May 5, 2018.",
+  "title": "Star Wars Adventures (2017) Free Comic Book Day 2018"
+}

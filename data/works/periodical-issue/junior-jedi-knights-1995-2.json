@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Nancy Richardson",
+      "role": "writer",
+      "slug": "nancy-richardson"
+    }
+  ],
+  "displayTitle": "Junior Jedi Knights #2: Lyric's World",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 22
+  },
+  "parentWorkSlug": "junior-jedi-knights-1995",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1996-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "junior-jedi-knights-1995-2",
+  "title": "Junior Jedi Knights #2: Lyric's World"
+}

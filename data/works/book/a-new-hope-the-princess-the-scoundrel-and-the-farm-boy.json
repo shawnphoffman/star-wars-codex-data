@@ -9,12 +9,29 @@
     }
   ],
   "displayTitle": "A New Hope: The Princess, the Scoundrel, and the Farm Boy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484712252"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Disney Publishing Worldwide",
+      "isPrimary": true,
+      "isbn13": "9781484712252",
+      "kind": "print"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 0,
     "startYear": 0
   },
+  "relatedWorkSlugs": [
+    "return-of-the-jedi-beware-the-power-of-the-dark-side",
+    "star-wars-the-empire-strikes-back-so-you-want-to-be-a-jedi"
+  ],
   "releaseDate": "2015-09-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

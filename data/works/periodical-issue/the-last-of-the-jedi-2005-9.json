@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi #9: Master of Deception",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "parentWorkSlug": "the-last-of-the-jedi-2005",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2008-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-9",
+  "title": "The Last of the Jedi #9: Master of Deception"
+}

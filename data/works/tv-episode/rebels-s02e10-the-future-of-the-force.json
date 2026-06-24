@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E10: The Future Of The Force",
+  "displayTitle": "The Future Of The Force",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2015-12-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e10-the-future-of-the-force",
   "synopsis": "Ezra and Kanan are sent to investigate the retrievals being made by the Inquisitors, learning of their plot to capture Force-sensitive infants.",
-  "title": "Rebels S02E10: The Future Of The Force"
+  "title": "The Future Of The Force"
 }

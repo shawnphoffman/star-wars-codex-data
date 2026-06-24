@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Chadwick",
+      "role": "writer",
+      "slug": "paul-chadwick"
+    }
+  ],
+  "displayTitle": "Empire #08: Darklighter, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "parentWorkSlug": "star-wars-legends-empire-omnibus-vol-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2003-05-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-08-darklighter-part-1",
+  "title": "Empire #08: Darklighter, Part 1"
+}

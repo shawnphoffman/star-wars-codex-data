@@ -6,32 +6,39 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
-    },
-    {
-      "name": "Douglas Wheatley",
-      "role": "coverArtist",
-      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "A New Dawn",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "055339147X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553391473"
+    }
+  ],
   "editions": [
     {
       "extent": 400,
       "imprint": "Random House Worlds",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "055339147X",
+      "isbn13": "9780553391473",
+      "kind": "print",
+      "onsale": "2014-09-02T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -11,
     "startYear": -11
   },
   "releaseDate": "2014-09-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-new-dawn",
-  "synopsis": "Former Jedi Padawan Kanan Jarrus has been hiding in plain sight since Order 66. He’s been doing whatever he can to survive — including staying out of touch with the Force.\n\nBut things are about to change. Like many Jedi before him, Kanan will soon realize it’s better to stand up and fight than to stay silent and let the world burn.",
+  "synopsis": "Former Jedi Padawan Kanan Jarrus has been hiding in plain sight since Order 66. He’s been doing whatever he can to survive — including staying out of touch with the Force. But things are about to change. Like many Jedi before him, Kanan will soon realize it’s better to stand up and fight than to stay silent and let the world burn.",
   "title": "A New Dawn"
 }

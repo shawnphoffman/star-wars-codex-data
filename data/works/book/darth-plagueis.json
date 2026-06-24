@@ -26,9 +26,11 @@
       "isPrimary": true,
       "isbn10": "1846056780",
       "isbn13": "9781846056789",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2012-01-10T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "endYear": -32,

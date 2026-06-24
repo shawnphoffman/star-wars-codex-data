@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "Galaxy of Fear #9: Spore",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "galaxy-of-fear-1997",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1998-03-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxy-of-fear-1997-9",
+  "title": "Galaxy of Fear #9: Spore"
+}

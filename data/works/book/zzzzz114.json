@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 16: The Call to Vengeance",
+  "displayTitle": "Jedi Apprentice: The Call to Vengeance",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139359",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-12-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -41,
     "startYear": -41
   },
   "releaseDate": "2001-12-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz114",
   "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
-  "title": "Jedi Apprentice 16: The Call to Vengeance"
+  "title": "Jedi Apprentice: The Call to Vengeance"
 }

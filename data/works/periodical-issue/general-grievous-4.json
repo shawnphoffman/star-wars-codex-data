@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chuck Dixon",
+      "role": "writer",
+      "slug": "chuck-dixon"
+    }
+  ],
+  "displayTitle": "General Grievous #4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "parentWorkSlug": "general-grievous-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2005-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "general-grievous-4",
+  "title": "General Grievous #4"
+}

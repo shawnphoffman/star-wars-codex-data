@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Fico Ossio",
+      "role": "artist",
+      "slug": "fico-ossio"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures : Quest of the Jedi",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-2023-quest-of-the-jedi",
+  "synopsis": "Is a one-shot comic and part of Phase II of the multimedia project.\nOn the ancient world of Angcord, the Force works in mysterious ways…\nWhen a pair of Jedi arrive on the mysterious world, seeking ancient artifacts of the Force, the quickly find more than they were bargaining for.\nBut just what is the mysterious Echo Stone, and what does its existence mean for the continued survival of all those who call Angcord home?",
+  "title": "The High Republic Adventures : Quest of the Jedi"
+}

@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Republic Commando: True Colors",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345498007"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 482,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345498007",
+      "kind": "print",
+      "onsale": "2007-10-30T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
   "releaseDate": "2007-10-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-commando-true-colors",
+  "synopsis": "As Omega Squad continues their ruthless fight against the Separatists, they begin to question whether or not they’re really fighting the right enemy.",
   "title": "Republic Commando: True Colors"
 }

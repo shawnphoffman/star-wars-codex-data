@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Daywait",
+      "role": "writer",
+      "slug": "drew-daywait"
+    }
+  ],
   "displayTitle": "BB-8 on the Run",
   "editionIds": [
     {
@@ -19,12 +26,13 @@
       "isPrimary": true,
       "isbn10": "1484705084",
       "isbn13": "9781484705087",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-09-01T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
   "releaseDate": "2017-09-01T00:00:00.000Z",

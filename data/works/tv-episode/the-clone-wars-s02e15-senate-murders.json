@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E15: Senate Murders",
+  "displayTitle": "Senate Murders",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2010-03-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e15-senate-murders",
   "synopsis": "When Senator Onaconda Farr dies under suspicious circumstances, Padmé sets out to find the person responsible for the death of her favorite 'uncle'.",
-  "title": "The Clone Wars S02E15: Senate Murders"
+  "title": "Senate Murders"
 }

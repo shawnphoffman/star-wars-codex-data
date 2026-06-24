@@ -26,16 +26,16 @@
       "isPrimary": true,
       "isbn10": "1368003052",
       "isbn13": "9781368003056",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-06-13T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -1,
-    "startYear": -1
+    "startYear": 0
   },
-  "releaseDate": "2016-04-07T00:00:00.000Z",
+  "releaseDate": "2017-06-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "bounty-hunt",

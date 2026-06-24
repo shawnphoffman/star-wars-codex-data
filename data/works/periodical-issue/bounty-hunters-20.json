@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #20",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "bounty-hunters-vol-4-crimson-reign-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-01-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-20",
+  "synopsis": "\"\nIs the twentieth issue of the canon comic book series Star Wars: Bounty Hunters.\nFORLORN FOR 4-LOM!\nT'ONGA and her bounty hunters are desperate to recover 4-LOM for their mission...but the upgraded killer droid is the one hunting them aboard a ghost ship.\nCan ZUCKUSS survive a reunion with his onetime partner?\nMeanwhile, VUKORAH makes her move…and the criminal underworld will never be the same!",
+  "title": "Bounty Hunters #20"
+}

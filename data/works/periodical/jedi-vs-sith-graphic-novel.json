@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Jedi vs. Sith",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -1000
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2002-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-vs-sith-graphic-novel",
+  "title": "Jedi vs. Sith"
+}

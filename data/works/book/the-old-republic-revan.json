@@ -21,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345511348",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2011-11-15T00:00:00.000Z"
     }
   ],
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3950,
-    "startYear": -3950
+    "startYear": -3954
   },
   "releaseDate": "2011-11-15T00:00:00.000Z",
   "releaseDisplayState": "released",

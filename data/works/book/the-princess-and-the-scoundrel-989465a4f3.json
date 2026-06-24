@@ -21,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780593498491",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-08-16T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 4,
     "startYear": 4
   },
   "releaseDate": "2022-08-16T00:00:00.000Z",

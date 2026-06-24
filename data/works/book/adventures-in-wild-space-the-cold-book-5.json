@@ -6,19 +6,9 @@
       "name": "Cavan Scott",
       "role": "writer",
       "slug": "cavan-scott"
-    },
-    {
-      "name": "David M. Buisán",
-      "role": "artist",
-      "slug": "david-m-buisan"
-    },
-    {
-      "name": "Lucy Ruth Cummins",
-      "role": "coverArtist",
-      "slug": "lucy-ruth-cummins"
     }
   ],
-  "displayTitle": "Adventures in Wild Space: The Cold (Book 5)",
+  "displayTitle": "Adventures in Wild Space: The Cold",
   "editionIds": [
     {
       "type": "isbn10",
@@ -36,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368003087",
       "isbn13": "9781368003087",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-10-24T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
   "releaseDate": "2017-10-24T00:00:00.000Z",
@@ -50,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-cold-book-5",
   "synopsis": "Milo and Lina Graf are stranded on a faraway world, and their hopes of finding their kidnapped parents are starting to fade.",
-  "title": "Adventures in Wild Space: The Cold (Book 5)"
+  "title": "Adventures in Wild Space: The Cold"
 }

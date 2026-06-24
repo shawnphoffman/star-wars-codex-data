@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368093779",
       "isbn13": "9781368093774",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-07-26T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -41,
     "startYear": -41
   },
   "releaseDate": "2022-07-26T00:00:00.000Z",

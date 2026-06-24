@@ -1,0 +1,38 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "The Clone Wars",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345508980"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345508980",
+      "kind": "print",
+      "onsale": "2008-07-26T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "releaseDate": "2008-07-26T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-the-clone-wars",
+  "synopsis": "Re-experience the events of the animated film Star Wars: The Clone Wars in this fast-paced novelization featuring Anakin Skywalker, Ahsoka Tano, and a cast of brand-new characters from the animated series.",
+  "title": "Star Wars: The Clone Wars"
+}

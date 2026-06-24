@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Miles Lane",
+      "role": "writer",
+      "slug": "miles-lane"
+    }
+  ],
+  "displayTitle": "Episode III: Revenge of the Sith #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "episodeiii-revenge-of-the-sith-hardcover-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2005-03-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-iii-revenge-of-the-sith-2",
+  "title": "Episode III: Revenge of the Sith #2"
+}

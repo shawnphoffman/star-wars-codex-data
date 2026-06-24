@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Daniele Orlandini",
+      "role": "artist",
+      "slug": "daniele-orlandini"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Curiel",
+      "role": "artist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Guiseppe Camuncoli",
+      "role": "artist",
+      "slug": "guiseppe-camuncoli"
+    }
+  ],
+  "displayTitle": "Darth Vader: Dark Lord of the Sith 09: The Dying Light, Part III",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-1-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-dark-lord-of-the-sith-9-the-dying-light-part-iii",
+  "synopsis": "As the threat of the Jedi continues to menace the fledgling Empire, Vader finds himself on the trail of a Jedi his master has commanded him…to keep alive?",
+  "title": "Darth Vader: Dark Lord of the Sith 09: The Dying Light, Part III"
+}

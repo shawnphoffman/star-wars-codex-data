@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E14: Duchess of Mandalore",
+  "displayTitle": "Duchess of Mandalore",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2010-02-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e14-duchess-of-mandalore",
   "synopsis": "On Coruscant, word reaches Duchess Satine that Death Watch is mobilizing, sparking a pre-emptive Republic invasion. On the run from Republic authorities, Satine and Obi-Wan set off to discover the group's true motives.",
-  "title": "The Clone Wars S02E14: Duchess of Mandalore"
+  "title": "Duchess of Mandalore"
 }

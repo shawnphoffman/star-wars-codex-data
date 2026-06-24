@@ -8,15 +8,32 @@
       "slug": "rob-valois"
     }
   ],
-  "displayTitle": "The Clone Wars: Warriors Of The Deep",
+  "displayTitle": "The Clone Wars: Warriors of the Deep",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448457277"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448457277",
+      "kind": "print",
+      "onsale": "2011-10-27T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -20,
-    "startYear": -20
+    "startYear": -21
   },
   "releaseDate": "2011-10-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-warriors-of-the-deep",
-  "title": "The Clone Wars: Warriors Of The Deep"
+  "synopsis": "This novelization retells the many stories of Star Wars: The Clone Wars Season 4, featuring Anakin Skywalker and the others fighting to win the war.",
+  "title": "The Clone Wars: Warriors of the Deep"
 }

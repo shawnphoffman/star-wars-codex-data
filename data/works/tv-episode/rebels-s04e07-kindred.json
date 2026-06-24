@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E07: Kindred",
+  "displayTitle": "Kindred",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2017-11-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e07-kindred",
   "synopsis": "Tracked back to their hidden base by a mysterious Imperial agent, the rebels must trust some seemingly dangerous native creatures, who are far more than meets the eye.",
-  "title": "Rebels S04E07: Kindred"
+  "title": "Kindred"
 }

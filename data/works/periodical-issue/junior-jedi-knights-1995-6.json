@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Junior Jedi Knights #6: Kenobi's Blade",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 22
+  },
+  "parentWorkSlug": "junior-jedi-knights-1995",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "junior-jedi-knights-1995-6",
+  "title": "Junior Jedi Knights #6: Kenobi's Blade"
+}

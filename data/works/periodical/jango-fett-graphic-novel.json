@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    }
+  ],
+  "displayTitle": "Jango Fett",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2002-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett-graphic-novel",
+  "synopsis": "JANGO FETT EMBARKS ON A BRAND-NEW MISSION!",
+  "title": "Jango Fett"
+}

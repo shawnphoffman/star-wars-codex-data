@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knight Errant: Deluge #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1032
+  },
+  "parentWorkSlug": "knight-errant-deluge-2011",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-08-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knight-errant-deluge-2011-1",
+  "title": "Knight Errant: Deluge #1"
+}

@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 06: The Uncertain Path",
+  "displayTitle": "Jedi Apprentice: The Uncertain Path",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590519694",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-02-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -44,
     "startYear": -44
   },
   "releaseDate": "2000-02-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz105",
   "synopsis": "Obi-Wan Kenobi thought he was on the right side of a revolution. But now that everything is going wrong, and his master has returned to the Jedi Temple without him, he’s going to have to find a way out of trouble all on his own.",
-  "title": "Jedi Apprentice 06: The Uncertain Path"
+  "title": "Jedi Apprentice: The Uncertain Path"
 }

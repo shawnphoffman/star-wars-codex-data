@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E10: The Phantom Apprentice",
+  "displayTitle": "The Phantom Apprentice",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e10-the-phantom-apprentice",
   "synopsis": "Ahsoka leads Republic clones to confront Maul's forces on Mandalore. Maul senses the impending chaos and makes a calculated play to ensure his own survival.",
-  "title": "The Clone Wars S07E10: The Phantom Apprentice"
+  "title": "The Phantom Apprentice"
 }

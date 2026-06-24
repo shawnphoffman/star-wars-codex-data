@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S05E20: The Wrong Jedi",
+  "displayTitle": "The Wrong Jedi",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-5",
   "releaseDate": "2013-03-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s05e20-the-wrong-jedi",
   "synopsis": "Ahsoka Tano is put on trial by the Jedi Council and must face the Galactic Senate. Anakin searches for a way to prove his Padawan's innocence by pursuing Asajj Ventress.",
-  "title": "The Clone Wars S05E20: The Wrong Jedi"
+  "title": "The Wrong Jedi"
 }

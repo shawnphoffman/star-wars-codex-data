@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1484780817",
       "isbn13": "9781484780817",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-05-02T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
   "releaseDate": "2017-05-02T00:00:00.000Z",

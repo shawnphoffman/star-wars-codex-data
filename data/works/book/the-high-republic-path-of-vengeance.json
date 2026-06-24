@@ -8,7 +8,7 @@
       "slug": "cavan-scott"
     }
   ],
-  "displayTitle": "The High Republic: Path of Vengeance",
+  "displayTitle": "Path of Vengeance",
   "editionIds": [
     {
       "type": "isbn10",
@@ -17,6 +17,10 @@
     {
       "type": "isbn13",
       "value": "9781368082884"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368095402"
     }
   ],
   "editions": [
@@ -26,13 +30,20 @@
       "isPrimary": true,
       "isbn10": "1368082882",
       "isbn13": "9781368082884",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-05-02T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "isbn13": "9781368095402",
+      "kind": "print",
+      "onsale": "2023-05-02T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -382,
     "startYear": -382
   },
   "releaseDate": "2023-05-02T00:00:00.000Z",
@@ -40,5 +51,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-path-of-vengeance",
   "synopsis": "The Path of the Open Hand’s Yana and Marda have long pledged their loyalty to the group that raised them. But what if things don’t have to stay the way they’ve always been?",
-  "title": "The High Republic: Path of Vengeance"
+  "title": "Path of Vengeance"
 }

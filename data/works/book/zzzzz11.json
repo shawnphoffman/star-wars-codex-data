@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 11: The Deadly Hunter",
+  "displayTitle": "Jedi Apprentice: The Deadly Hunter",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,18 +21,19 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139304",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-12-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -42,
-    "startYear": -42
+    "startYear": -43
   },
   "releaseDate": "2000-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "zzzzz11",
   "synopsis": "A friend of Jedi Master Qui-Gon Jinn has become the target of a dangerous bounty hunter, and he’ll need the help of his apprentice, Obi-Wan Kenobi, to save the day.",
-  "title": "Jedi Apprentice 11: The Deadly Hunter"
+  "title": "Jedi Apprentice: The Deadly Hunter"
 }

@@ -6,11 +6,6 @@
       "name": "Chuck Wendig",
       "role": "writer",
       "slug": "chuck-wendig"
-    },
-    {
-      "name": "Christopher M. Zucker",
-      "role": "coverArtist",
-      "slug": "christopher-m-zucker"
     }
   ],
   "displayTitle": "Aftermath: Life Debt",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1101966955",
       "isbn13": "9781101966952",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-07-12T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 5,
     "startYear": 5
   },
   "releaseDate": "2016-07-12T00:00:00.000Z",

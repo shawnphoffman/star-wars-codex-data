@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "artist",
+      "slug": "guiu-vilanova"
+    }
+  ],
+  "displayTitle": "Darth Vader (2020) #19",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "darth-vader-2020-vol-3-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-12-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-2020-19",
+  "synopsis": "DARK ORDER!\nIn the bowels of Bespin, DARTH VADER told his son he wanted to bring order to the galaxy.\nNow Vaders' promise is put to the test as he leads an unlikely crew of heroes and assassins against the criminal organization known as CRIMSON DAWN.\nWhat does \"order\" mean to a DARK LORD OF THE SITH? How far will he go to fight for it as the depth of Crimson Dawns' infiltration becomes clearer?\nAnd what fate awaits the heroes who follow him into battle?",
+  "title": "Darth Vader (2020) #19"
+}

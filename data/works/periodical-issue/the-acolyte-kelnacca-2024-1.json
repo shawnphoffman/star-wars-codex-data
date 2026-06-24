@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "The Acolyte: Kelnacca #1",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -133,
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-acolyte-kelnacca-2024",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-acolyte-kelnacca-2024-1",
+  "synopsis": "A one-shot comic featuring Jedi Master Kelnacca from the Star Wars Acolyte TV Series",
+  "title": "The Acolyte: Kelnacca #1"
+}

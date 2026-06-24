@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stephanie Philips",
+      "role": "writer",
+      "slug": "stephanie-philips"
+    },
+    {
+      "name": "Álvaro López",
+      "role": "artist",
+      "slug": "alvaro-lopez"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: Lando #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "episode-vi-return-of-the-jedi-hardcover-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-lando-1",
+  "synopsis": "Is a one-shot canon comic in the Marvel Comics Return of the Jedi  One-Shot Miniseries.\nTHE 40TH ANNIVERSARY CELEBRATION OF RETURN OF THE JEDI\nWhen Lando Calrissian and Chewbacca find themselves on a perilous mission to steal from Jabba himself, a dangerous figure from Lando’s past threatens their plans and their lives.\nChewie finds that putting his trust in Calrissian is a gamble that just might pay off, as Lando calls on his skills as a smuggler to make it out alive.",
+  "title": "Return of the Jedi: Lando #1"
+}

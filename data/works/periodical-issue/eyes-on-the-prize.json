@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Bob Molesworth",
+      "role": "artist",
+      "slug": "bob-molesworth"
+    }
+  ],
+  "displayTitle": "Eyes on the Prize",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "parentWorkSlug": "star-wars-rebels-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-06-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "eyes-on-the-prize",
+  "synopsis": "\"Eyes on the Prize\" is a comic strip published in the sixth issue of the Star Wars Rebels Magazine. The story was written by Jeremy Barlow, illustrated by Bob Molesworth and edited by Gunther Nickel. It was published on June 17, 2015.\nAccording to Barlow, the story takes place between the Star Wars Rebels episodes \"Gathering Forces\" and \"Path of the Jedi.\"",
+  "title": "Eyes on the Prize"
+}

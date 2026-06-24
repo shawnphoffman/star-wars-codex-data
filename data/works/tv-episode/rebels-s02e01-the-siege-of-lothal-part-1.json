@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E01: The Siege Of Lothal Part 1",
+  "displayTitle": "The Siege Of Lothal Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2015-06-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e01-the-siege-of-lothal-part-1",
   "synopsis": "Now a part of Phoenix Squadron, the Ghost crew joins a mission to steal shield generators from an Imperial freighter. Under pressure from Darth Vader, an Imperial defector leads the Sith Lord to battle with Kanan and Ezra.",
-  "title": "Rebels S02E01: The Siege Of Lothal Part 1"
+  "title": "The Siege Of Lothal Part 1"
 }

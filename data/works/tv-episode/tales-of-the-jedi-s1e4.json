@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "The SIth Lord",
+  "era": "fallOfTheJedi",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "parentWorkSlug": "tales-of-the-jedi-s1",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-s1e4",
+  "synopsis": "A Jedi master makes a troubling discovery.",
+  "title": "The SIth Lord"
+}

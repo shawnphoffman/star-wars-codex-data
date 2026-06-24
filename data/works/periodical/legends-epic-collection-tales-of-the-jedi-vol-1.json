@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legends Epic Collection: Tales of the Jedi Vol. 1",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -25792,
+    "startYear": -25793
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2020-12-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legends-epic-collection-tales-of-the-jedi-vol-1",
+  "title": "Legends Epic Collection: Tales of the Jedi Vol. 1"
+}

@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James S. A. Corey",
+      "role": "writer",
+      "slug": "james-s-a-corey"
+    },
+    {
+      "name": "Joe Corroney",
+      "role": "writer",
+      "slug": "joe-corroney"
+    }
+  ],
   "displayTitle": "Silver and Scarlet",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
   "releaseDate": "2014-03-11T00:00:00.000Z",

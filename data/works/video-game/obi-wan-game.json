@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
+  "displayTitle": "Obi-Wan",
+  "format": "videoGame",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "releaseDate": "2001-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "obi-wan-game",
+  "synopsis": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+  "title": "Obi-Wan"
+}

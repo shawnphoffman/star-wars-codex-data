@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "Omnibus: X-Wing Rogue Squadron Volume 2",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "omnibus"
+  },
+  "releaseDate": "2006-10-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "omnibus-x-wing-rogue-squadron-volume-2",
+  "title": "Omnibus: X-Wing Rogue Squadron Volume 2"
+}

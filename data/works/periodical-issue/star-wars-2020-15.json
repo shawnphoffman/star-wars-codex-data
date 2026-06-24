@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #15",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-2020-vol-03-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-15",
+  "synopsis": "Star Wars (2020) #15 is the fifteenth issue of the comic series Star Wars (2020) and and is part of War of the Bounty Hunters cross-over event\n\"FRIENDS AND ENEMIES\" LUKE SKYWALKER embarks upon an epic mission with WEDGE ANTILLES and the brave pilots of STARLIGHT SQUADRON to rescue a lost division of the REBEL FLEET. LEIA ORGANA, CHEWBACCA and LANDO CALRISSIAN attempt to save HAN SOLO from the evil clutches of BOBA FETT. But what hidden vision will the Force send to Luke about the troubles to come?",
+  "title": "Star Wars (2020) #15"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #25: The Hidden Temple, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2008-06-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-25-the-hidden-temple-part-1",
+  "title": "Legacy #25: The Hidden Temple, Part 1"
+}

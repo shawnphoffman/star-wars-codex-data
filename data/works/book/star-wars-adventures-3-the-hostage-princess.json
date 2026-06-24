@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439458818",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2002-12-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -23,
     "startYear": -23
   },
   "releaseDate": "2002-12-01T00:00:00.000Z",

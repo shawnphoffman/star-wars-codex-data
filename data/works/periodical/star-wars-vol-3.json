@@ -1,0 +1,36 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Vol. 3: Rebel Jail",
+  "era": "ageOfRebellion",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2016-08-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-vol-3",
+  "synopsis": "One of the best things in Star Wars Canon is seeing characters both original and new coming together to create a seamless universe where everything can coexist in the best intergalactic story ever told. Rebel Jail is a great example of that as Princess Leia encounters the notorious Doctor Aphra while Luke and Han go on an adventure of their own.",
+  "title": "Star Wars (2015) Vol. 3: Rebel Jail"
+}

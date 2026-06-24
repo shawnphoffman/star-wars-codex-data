@@ -21,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345511324",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2010-07-20T00:00:00.000Z"
     }
   ],
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3643,
-    "startYear": -3643
+    "startYear": -3543
   },
   "releaseDate": "2010-07-20T00:00:00.000Z",
   "releaseDisplayState": "released",

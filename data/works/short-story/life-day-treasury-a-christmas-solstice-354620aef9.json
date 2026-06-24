@@ -1,10 +1,21 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "A Coruscant Solstice",
   "era": "highRepublic",
   "format": "shortStory",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
   "releaseDate": "2021-09-07T00:00:00.000Z",

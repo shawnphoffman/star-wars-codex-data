@@ -1,0 +1,57 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "artist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Adi Granov",
+      "role": "artist",
+      "slug": "adi-granov"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #03: Vader, Part III",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-1-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-03-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-3-part-3",
+  "synopsis": "When a Dark Lord needs help, who can he turn to? Meet Aphra-the galaxy's foremost raider of lost weaponry! Plus: could these be the deadly droids she's looking for?",
+  "title": "Darth Vader (2015) #03: Vader, Part III"
+}

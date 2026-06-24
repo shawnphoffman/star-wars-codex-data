@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron #13: The Gathering Storm, Part VI",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "poe-dameron-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "poe-dameron-13",
+  "synopsis": "It's Terex's army versus Black Squadron — and Black Squadron is outnumbered! Plus, Poe is stranded with only a battle-reluctant commando droid between him and his enemies. Snap Wexley may have a trick or two up his sleeve to help Black Leader fight!",
+  "title": "Poe Dameron #13: The Gathering Storm, Part VI"
+}

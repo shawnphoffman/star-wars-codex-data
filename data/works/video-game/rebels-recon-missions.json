@@ -2,6 +2,10 @@
   "canonStatus": "canon",
   "displayTitle": "Rebels: Recon Missions",
   "format": "videoGame",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -5
+  },
   "releaseDate": "2015-03-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

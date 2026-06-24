@@ -1,0 +1,31 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    },
+    {
+      "name": "Ingo Römling",
+      "role": "artist",
+      "slug": "ingo-romling"
+    }
+  ],
+  "displayTitle": "Return of the Slavers",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-05-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-slavers",
+  "synopsis": "\"Return of the Slavers\" is a comic strip published in the fifth issue of the Star Wars Rebels Magazine series by Egmont UK Ltd. It was written by Martin Fisher, illustrated by Ingo Römling and edited by Gunther Nickel. The comic was published on May 20, 2015.",
+  "title": "Return of the Slavers"
+}

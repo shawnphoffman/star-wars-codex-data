@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emma Carlson Berne",
+      "role": "writer",
+      "slug": "emma-carlson-berne"
+    }
+  ],
   "displayTitle": "Forces of Destiny: The Rey Chronicles",
   "editionIds": [
     {
@@ -19,14 +26,17 @@
       "isPrimary": true,
       "isbn10": "1368011195",
       "isbn13": "9781368011198",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-03-06T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2018-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny-the-rey-chronicles",
   "synopsis": "Follow Rey across three separate adventures based on the Star Wars: Forces of Destiny micro-series.",

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S03E20: Twin Suns",
+  "displayTitle": "Twin Suns",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -2,
     "startYear": -2
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-3",
   "releaseDate": "2017-03-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s03e20-twin-suns",
   "synopsis": "Reacting to a vision of Maul, Ezra defies Hera and Kanan to travel to a remote planet in hopes of stopping the former Sith lord from carrying out his plans.",
-  "title": "Rebels S03E20: Twin Suns"
+  "title": "Twin Suns"
 }

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Grek Pak",
+      "role": "writer",
+      "slug": "grek-pak"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Age Of Rebellion: Grand Moff Tarkin",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "aor-villans",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-04-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "aor-tarkin",
+  "synopsis": "Author Greg Pak does an outstanding job showcasing one of fiction's most diabolical villains. This installment to the Age of Rebellion series expands on Tarkin's monstrous thoughts and actions that we miss out on in the films.",
+  "title": "Age Of Rebellion: Grand Moff Tarkin"
+}

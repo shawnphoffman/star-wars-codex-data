@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Solo: A Star Wars Story Adaptation #1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -10,
+    "startYear": -13
+  },
+  "parentWorkSlug": "solo-a-star-wars-story-adaptation",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-10-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "solo-a-star-wars-story-adaptation-1",
+  "synopsis": "Solo: A Star Wars Story Adaptation 1 is the first issue of the canon comic book miniseries Solo: A Star Wars Story Adaptation, which adapts the film of the same name. The issue was written by Robbie Thompson, illustrated by Will Sliney, and published by Marvel Comics.\nFEATURING BACKSTORY AND SCENES NOT SEEN IN THEATERS! After leaving the IMPERIAL NAVY, a young HAN SOLO seeks adventure by joining a gang of galactic mercenaries — including a 196-year-old [sic] Wookiee named CHEWBACCA and a notorious gambler named LANDO CALRISSIAN. But there's more to the story of the galaxy's most beloved scoundrel than what you saw in theaters. Why does BECKETT trust him? And what is the connection between the woman who stole Han's heart and one of Han's closest friends?",
+  "title": "Solo: A Star Wars Story Adaptation #1"
+}

@@ -2,6 +2,10 @@
   "canonStatus": "canon",
   "displayTitle": "Andor",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "endYear": -1,
+    "startYear": -5
+  },
   "releaseDate": "2022-09-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

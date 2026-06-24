@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Legacy #50: Extremes, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 138
+  },
+  "parentWorkSlug": "legacy-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-08-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-50-extremes-part-3",
+  "title": "Legacy #50: Extremes, Part 3"
+}

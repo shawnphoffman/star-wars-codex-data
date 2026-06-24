@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Legacy #39: Tatooine, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 137
+  },
+  "parentWorkSlug": "legacy-vol-8",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2009-08-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "legacy-39-tatooine-part-3",
+  "title": "Legacy #39: Tatooine, Part 3"
+}

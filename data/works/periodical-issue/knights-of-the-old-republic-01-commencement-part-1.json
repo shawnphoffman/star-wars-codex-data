@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #01: Commencement, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3964
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-2-flashpoint-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2006-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-01-commencement-part-1",
+  "title": "Knights of the Old Republic #01: Commencement, Part 1"
+}

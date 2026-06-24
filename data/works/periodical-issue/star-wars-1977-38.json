@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Michael Golden",
+      "role": "writer",
+      "slug": "michael-golden"
+    }
+  ],
+  "displayTitle": "Star Wars (1977) #38: Riders in the Void",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1980-05-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-38",
+  "title": "Star Wars (1977) #38: Riders in the Void"
+}

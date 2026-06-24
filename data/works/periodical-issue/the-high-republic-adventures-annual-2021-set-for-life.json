@@ -1,0 +1,72 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Sam Beck",
+      "role": "artist",
+      "slug": "sam-beck"
+    },
+    {
+      "name": "Jesse Lonegran",
+      "role": "artist",
+      "slug": "jesse-lonegran"
+    },
+    {
+      "name": "Jason Loo",
+      "role": "artist",
+      "slug": "jason-loo"
+    },
+    {
+      "name": "Yael Nathan",
+      "role": "artist",
+      "slug": "yael-nathan"
+    },
+    {
+      "name": "Stefano Simeone",
+      "role": "artist",
+      "slug": "stefano-simeone"
+    }
+  ],
+  "displayTitle": "Set For Life",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -233
+  },
+  "parentWorkSlug": "the-high-republic-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-annual-2021-set-for-life",
+  "synopsis": "Is the first annual edition of the Star Wars: The High Republic Adventures comic series. It features stories from all five authors of the Star Wars: The High Republic multimedia project\nJoin all five High Republic authors, together in one book for the FIRST TIME EVER, as they each explore different corners of the galaxy during the height of the Galactic Republic. From daring Jedi, to the always adventurous Geode, and nefarious Nihil, The High Republic Adventures Annual has it all!",
+  "title": "Set For Life"
+}

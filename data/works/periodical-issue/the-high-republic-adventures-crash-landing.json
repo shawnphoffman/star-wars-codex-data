@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Rachele Aragno",
+      "role": "artist",
+      "slug": "rachele-aragno"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Crash Landing",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "the-high-republic-2023-phase-iii-vol-1",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2024-03-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-crash-landing",
+  "synopsis": "A one-shot comic, part of The High Republic Phase 3 Series\n\"Crash\" Ongwa and her ragtag crew have been fighting against anyone who had a hand in the Nihil infiltration that plunged her home planet of Corellia into chaos. Even though an uneasy peace has been reached, if they don't continue to fight, everything they sacrificed for could slip away. Now, Crash has a lead on the person behind the entire Nihil plot—if her crew can accomplish this mission, could true peace be on their horizon?",
+  "title": "The High Republic Adventures: Crash Landing"
+}

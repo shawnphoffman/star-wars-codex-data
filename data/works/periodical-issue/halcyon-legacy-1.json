@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Halcyon Legacy #1",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -231
+  },
+  "parentWorkSlug": "halcyon-legacy",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "halcyon-legacy-1",
+  "synopsis": "Is the first issue of the Star Wars: Halcyon Legacy comic book miniseries from Marvel Comics.\nTHE VOYAGES OF THE GREATEST OF ALL-STAR CRUISERS!\nAs the legendary HALCYON embarks on a momentous…cruise, the ship heads toward a confrontation with THE FIRST ORDER!\nBut what secret from THE HIGH REPUBLIC ERA can help the passengers and crew all these years later?\nAnd how did JEDI NIBS and BURRY fend off a NIHIL attack on one of the ship's first ever voyages?",
+  "title": "Halcyon Legacy #1"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Qui-Gon & Obi-Wan: Last Stand On Ord Mantell #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -37
+  },
+  "parentWorkSlug": "qui-gon-obi-wan-last-stand-on-ord-mantell-2000",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2000-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "qui-gon-obi-wan-last-stand-on-ord-mantell-2000-1",
+  "title": "Qui-Gon & Obi-Wan: Last Stand On Ord Mantell #1"
+}

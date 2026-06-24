@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Halcyon Legacy #3",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "parentWorkSlug": "halcyon-legacy",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-05-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "halcyon-legacy-3",
+  "synopsis": "Is the third issue of the Star Wars: Halcyon Legacy comic book mini-series from Marvel Comics.\nSPY INTRIGUE IN THE CLONE WARS ERA!\nANAKIN and PADMÉ are in disguise aboard the HALCYON tracking a senator suspected of having separatist ties!\nBut their secret mission will put them on a collision course with ASAJJ VENTRESS!\nAnd, fifty years later, the ship's crew risks a desperate escape through a deadly solar storm!",
+  "title": "Halcyon Legacy #3"
+}

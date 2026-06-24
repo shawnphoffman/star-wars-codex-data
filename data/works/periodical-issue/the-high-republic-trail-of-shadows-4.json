@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "David Wachter",
+      "role": "artist",
+      "slug": "david-wachter"
+    }
+  ],
+  "displayTitle": "The High Republic: Trail of Shadows #4",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-trail-of-shadows-trade-paperback-35198afd11",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-01-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-trail-of-shadows-4",
+  "synopsis": "The fourth issue of the Marvel comic book miniseries Star Wars: The High Republic: Trail of Shadows.",
+  "title": "The High Republic: Trail of Shadows #4"
+}

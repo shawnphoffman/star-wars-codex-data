@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Bisson",
+      "role": "writer",
+      "slug": "terry-bisson"
+    }
+  ],
+  "displayTitle": "Boba Fett #1: The Fight to Survive",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "parentWorkSlug": "blood-ties-volume-1",
+  "periodical": {
+    "imprint": "Scholastic",
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-1-the-fight-to-survive",
+  "synopsis": "When young Boba Fett finds himself completely alone in the galaxy, he must use the skills and lessons his father taught him to stay alive.",
+  "title": "Boba Fett #1: The Fight to Survive"
+}

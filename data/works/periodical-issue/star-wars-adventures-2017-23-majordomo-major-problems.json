@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ian Flynn",
+      "role": "writer",
+      "slug": "ian-flynn"
+    },
+    {
+      "name": "Tony Fleecs",
+      "role": "artist",
+      "slug": "tony-fleecs"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #23 - A Race For Answers",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-7",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-07-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-23-majordomo-major-problems",
+  "synopsis": "Join Lando Calrissian and Chewbacca aboard the Millennium Falcon for another rollicking mission on behalf of the Rebel Alliance!",
+  "title": "Star Wars Adventures (2017) #23 - A Race For Answers"
+}

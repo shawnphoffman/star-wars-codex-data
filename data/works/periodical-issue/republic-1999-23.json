@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pat Mills",
+      "role": "writer",
+      "slug": "pat-mills"
+    }
+  ],
+  "displayTitle": "Republic #23: Infinity's End part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -31
+  },
+  "parentWorkSlug": "republic-1999",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2000-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-1999-23",
+  "title": "Republic #23: Infinity's End part 1"
+}

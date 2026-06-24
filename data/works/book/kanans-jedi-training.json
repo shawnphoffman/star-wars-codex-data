@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
   "displayTitle": "Kanan's Jedi Training",
   "editionIds": [
     {
@@ -14,15 +21,17 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781484705636",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-08-04T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2015-08-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "kanans-jedi-training",
   "synopsis": "Kanan is about to take on a whole new kind of mission: training a new Jedi Padawan named Ezra.",

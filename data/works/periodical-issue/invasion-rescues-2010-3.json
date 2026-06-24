@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Invasion: Rescues #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 25
+  },
+  "parentWorkSlug": "invasion-rescues-2010",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "invasion-rescues-2010-3",
+  "title": "Invasion: Rescues #3"
+}

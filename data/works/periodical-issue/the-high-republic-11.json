@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The High Republic (2021) #11",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -231
+  },
+  "parentWorkSlug": "the-high-republic-vol-02-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-11",
+  "synopsis": "This is the eleventh issue of the Marvel comic book series Star Wars: The High Republic.\nTHE HUNT FOR LOURNA DEE CONTINUES!\nThe NIHIL have unleashed a unknown terror against the Jedi. MARSHAL AVAR KRISS is more determined than ever to bring LOURNA DEE to justice, but does STELLAN GIOS and the JEDI COUNCIL agree?\nAs KEEVE TRENNIS struggles with what she experienced on the Nihil base, the Jedi prepare for war.\nPLUS, the truth about SSKEER is finally revealed – but what does it mean for his future?",
+  "title": "The High Republic (2021) #11"
+}

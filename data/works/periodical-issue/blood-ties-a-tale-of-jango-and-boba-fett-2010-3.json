@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    }
+  ],
+  "displayTitle": "Blood Ties: A Tale of Jango and Boba Fett #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -2,
+    "startYear": -22
+  },
+  "parentWorkSlug": "blood-ties-a-tale-of-jango-and-boba-fett-2010",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-10-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "blood-ties-a-tale-of-jango-and-boba-fett-2010-3",
+  "title": "Blood Ties: A Tale of Jango and Boba Fett #3"
+}

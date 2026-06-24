@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
+  "displayTitle": "The Path Of Fear",
+  "era": "fallOfTheJedi",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "parentWorkSlug": "tales-of-the-empire-s1",
+  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-empire-s1e1",
+  "synopsis": "Young Morgan Elsbeth seeks revenge after losing everything.",
+  "title": "The Path Of Fear"
+}

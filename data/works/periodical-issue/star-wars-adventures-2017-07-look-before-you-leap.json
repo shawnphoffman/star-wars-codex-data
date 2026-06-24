@@ -1,0 +1,62 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sholly Fisch",
+      "role": "writer",
+      "slug": "sholly-fisch"
+    },
+    {
+      "name": "Paul Crilley",
+      "role": "writer",
+      "slug": "paul-crilley"
+    },
+    {
+      "name": "Sean Galloway",
+      "role": "artist",
+      "slug": "sean-galloway"
+    },
+    {
+      "name": "Phil Murphy",
+      "role": "artist",
+      "slug": "phil-murphy"
+    },
+    {
+      "name": "Cassey Kuo",
+      "role": "artist",
+      "slug": "cassey-kuo"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "artist",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Luis Antonio Delgado",
+      "role": "artist",
+      "slug": "luis-antonio-delgado"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "artist",
+      "slug": "wes-dzioba"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #07 - Look Before You Leap",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2018-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-07-look-before-you-leap",
+  "synopsis": "The Empire has taken a sacred bird that is central to an important planet's belief system. It's up to the rebel crew of the Ghost to retrieve the creature, but little do they know it is also sought by space pirate Hondo Ohnaka.",
+  "title": "Star Wars Adventures (2017) #07 - Look Before You Leap"
+}

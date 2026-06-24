@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #65: The Scourging Of Shu-Torun Part IV",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "star-wars-vol-9",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-65-4",
+  "synopsis": "\"THE SCOURGING OF SHU-TORUN\" PART 4. Her planet under threat, a heroic princess battles to save it! Not Leia – it's QUEEN TRIOS OF SHU-TORUN, ally to Darth Vader and the Empire! PRINCESS LEIA'S plan begins to unfold. But some members of her strike team have schemes of their own. When will Leia realize just what she's set in motion?!",
+  "title": "Star Wars (2015) #65: The Scourging Of Shu-Torun Part IV"
+}

@@ -14,14 +14,31 @@
     }
   ],
   "displayTitle": "Jedi Trial",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345461148"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345461148",
+      "kind": "print",
+      "onsale": "2004-10-26T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -20,
-    "startYear": -20
+    "startYear": -22
   },
   "releaseDate": "2004-10-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-trial",
+  "synopsis": "Jedi Padawan Anakin Skywalker travels on a mission with a renowned master in hopes of finally being granted the rank of Knight.",
   "title": "Jedi Trial"
 }

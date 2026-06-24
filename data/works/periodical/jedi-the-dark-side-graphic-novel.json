@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Scott Allie",
+      "role": "writer",
+      "slug": "scott-allie"
+    }
+  ],
+  "displayTitle": "Jedi: The Dark Side",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -53
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "other"
+  },
+  "releaseDate": "2012-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-the-dark-side-graphic-novel",
+  "title": "Jedi: The Dark Side"
+}

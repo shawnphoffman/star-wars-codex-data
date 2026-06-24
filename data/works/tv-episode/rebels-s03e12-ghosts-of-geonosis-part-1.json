@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S03E12: Ghosts Of Geonosis Part 1",
+  "displayTitle": "Ghosts Of Geonosis Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -2,
     "startYear": -2
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-3",
   "releaseDate": "2017-01-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s03e12-ghosts-of-geonosis-part-1",
   "synopsis": "After finding a missing rebel team member, the Ghost crew discovers another surprise on Geonosis and works to conceal it from Imperial forces.",
-  "title": "Rebels S03E12: Ghosts Of Geonosis Part 1"
+  "title": "Ghosts Of Geonosis Part 1"
 }

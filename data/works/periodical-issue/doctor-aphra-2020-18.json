@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2020) #18",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "doctor-aphra",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-01-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-2020-18",
+  "synopsis": "Is the eighteenth issue of the canon comic series Star Wars: Doctor Aphra. (2020)\n\"CONJURATIONS!\"\nWith STRANGE RITUAL MURDERS on the rise, DOCTOR APHRA and SANA STARROS' hunt for ASCENDANT ARTIFACTS is growing dire!\nTheir leads keep turning up dead, and they're running out of time!\nThey'll have to delve deep into the secrets of an ANCIENT TECH CULT if they plan to catch the killer!",
+  "title": "Doctor Aphra (2020) #18"
+}

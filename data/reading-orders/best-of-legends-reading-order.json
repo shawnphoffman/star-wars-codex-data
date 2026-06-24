@@ -1,0 +1,62 @@
+{
+  "entries": [
+    {
+      "note": "The 1991 novel that launched the Expanded Universe.",
+      "priority": "essential",
+      "workSlug": "heir-to-the-empire"
+    },
+    {
+      "priority": "essential",
+      "workSlug": "dark-force-rising"
+    },
+    {
+      "note": "The Thrawn Trilogy concludes.",
+      "priority": "essential",
+      "workSlug": "the-last-command"
+    },
+    {
+      "note": "The Sith Rule of Two is born, ~1000 BBY.",
+      "priority": "recommended",
+      "workSlug": "darth-bane-path-of-destruction"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "darth-bane-rule-of-two"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "darth-bane-dynasty-of-evil"
+    },
+    {
+      "note": "The master Palpatine murdered.",
+      "priority": "recommended",
+      "workSlug": "darth-plagueis"
+    },
+    {
+      "note": "Mace Windu's Heart of Darkness.",
+      "priority": "optional",
+      "workSlug": "shatterpoint"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "outbound-flight"
+    },
+    {
+      "note": "For the KOTOR faithful.",
+      "priority": "optional",
+      "workSlug": "the-old-republic-revan"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "i-jedi"
+    },
+    {
+      "note": "The high point of the New Jedi Order.",
+      "priority": "optional",
+      "workSlug": "traitor"
+    }
+  ],
+  "slug": "best-of-legends-reading-order",
+  "summary": "Before the 2014 reset, decades of novels built their own galaxy. The essential Legends shelf - hand-picked, just the stories that defined the old Expanded Universe.",
+  "title": "Best of Legends"
+}

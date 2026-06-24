@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Robinson",
+      "role": "writer",
+      "slug": "james-robinson"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "artist",
+      "slug": "tony-harris"
+    }
+  ],
+  "displayTitle": "C-3PO #1: The Phantom Limb",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 33
+  },
+  "parentWorkSlug": "c-3po-2016",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-04-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "c-3po-2016-1",
+  "synopsis": "Stranded on a violent planet with a group of other random droids, we finally learn how C-3PO came to have his red arm in The Force Awakens.",
+  "title": "C-3PO #1: The Phantom Limb"
+}

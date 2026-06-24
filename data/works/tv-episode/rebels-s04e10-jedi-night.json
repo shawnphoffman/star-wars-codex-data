@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E10: Jedi Night",
+  "displayTitle": "Jedi Night",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2018-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e10-jedi-night",
   "synopsis": "The Ghost Crew infiltrates the Imperial headquarters on Lothal to save one of their own.",
-  "title": "Rebels S04E10: Jedi Night"
+  "title": "Jedi Night"
 }

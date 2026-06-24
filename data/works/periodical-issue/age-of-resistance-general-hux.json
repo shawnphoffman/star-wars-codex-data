@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Age Of Resistance: General Hux",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 33
+  },
+  "parentWorkSlug": "age-of-resistance",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-08-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-resistance-general-hux",
+  "synopsis": "MAROONED! GENERAL HUX and KYLO REN crash-land on a far-off planet. With no hope of rescue, the two are forced to work together to survive. But can they survive each other?",
+  "title": "Age Of Resistance: General Hux"
+}

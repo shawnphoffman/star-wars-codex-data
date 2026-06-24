@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "artist",
+      "slug": "salva-espin"
+    }
+  ],
+  "displayTitle": "Dark Droids: D-Squad #4",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "dark-droids-d-squad-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-droids-d-squad-4",
+  "synopsis": "Issue 4 of 4 of the Marvel Comics Dark Droids: D-Squad miniseries.\nINTRODUCING THE ALL-NEW, ALL-DIFFERENT D-SQUAD! – A DARK DROIDS TIE-IN!\nThe D-SQUAD's mission takes them into the palace of JABBA THE HUTT!\nR2-D2 and QT-KT take on the malevolent torture droid EV-9D9!\nThis issue ties directly into DARK DROIDS! Not to be missed!",
+  "title": "Dark Droids: D-Squad #4"
+}

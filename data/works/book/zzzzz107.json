@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 08: The Day of Reckoning",
+  "displayTitle": "Jedi Apprentice: The Day of Reckoning",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590520799",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -44,
     "startYear": -44
   },
   "releaseDate": "2000-06-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz107",
   "synopsis": "When Qui-Gon Jinn and his Padawan Obi-Wan Kenobi are framed for a crime they did not commit, they must work together to survive on a planet where they’re more unsafe than ever.",
-  "title": "Jedi Apprentice 08: The Day of Reckoning"
+  "title": "Jedi Apprentice: The Day of Reckoning"
 }

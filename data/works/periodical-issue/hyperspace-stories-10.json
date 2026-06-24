@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "artist",
+      "slug": "andrea-mutti"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #10",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-10",
+  "synopsis": "Issue 10 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nJedi masters Yoda and Mace Windu escort a Republic delegation to an archaeological dig, rumored to be the site of a cache of ancient Jedi artifacts. But the lure of the Force is strong, and it's not long before the party comes under attack by marauders intent on taking the relics for themselves, even if they have to go through two Jedi to do it!",
+  "title": "Hyperspace Stories #10"
+}

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Resistance S01E09: The Phantom Classic",
+  "displayTitle": "The Platform Classic",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "parentWorkSlug": "resistance",
+  "parentWorkSlug": "resistance-season-1",
   "releaseDate": "2018-11-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s01e09-the-phantom-classic",
   "synopsis": "An upcoming race reunites Yeager with his estranged brother, Marcus - who needs to win to pay off his debt to the Guavian Death Gang.",
-  "title": "Resistance S01E09: The Phantom Classic"
+  "title": "The Platform Classic"
 }

@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
   "displayTitle": "The Rebellion Begins",
   "editionIds": [
     {
@@ -14,15 +21,17 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781484717004",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-10-21T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2014-10-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rebellion-begins",
   "synopsis": "Ezra Bridger accidentally runs into a group of rebels in the middle of one of their missions … and finds himself caught up in the chaos.",

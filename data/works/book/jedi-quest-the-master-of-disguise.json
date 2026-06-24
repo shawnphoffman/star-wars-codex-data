@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Master of Disguise",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339209"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339209",
+      "kind": "print",
+      "onsale": "2002-11-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -25
+  },
+  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-master-of-disguise",
+  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi must work together to defeat an unseen enemy.",
+  "title": "Jedi Quest: The Master of Disguise"
+}

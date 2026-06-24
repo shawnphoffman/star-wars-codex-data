@@ -14,14 +14,14 @@
       "extent": 48,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-11-03T00:00:00.000Z"
     }
   ],
-  "era": "newRepublic",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 25,
-    "startYear": 25
+    "startYear": 9
   },
   "releaseDate": "2020-11-03T00:00:00.000Z",
   "releaseDisplayState": "released",

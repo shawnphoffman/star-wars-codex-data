@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Caitlin Kennedy",
+      "role": "writer",
+      "slug": "caitlin-kennedy"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: Jedi Training",
   "editionIds": [
     {
@@ -19,12 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368090982",
       "isbn13": "9781368090988",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-05-02T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
   "releaseDate": "2023-05-02T00:00:00.000Z",

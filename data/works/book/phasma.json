@@ -31,7 +31,8 @@
       "isPrimary": true,
       "isbn10": "1524796336",
       "isbn13": "9781524796334",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-09-01T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",

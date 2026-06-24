@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Mario del Pennino",
+      "role": "artist",
+      "slug": "mario-del-pennino"
+    },
+    {
+      "name": "David M. Buisán",
+      "role": "artist",
+      "slug": "david-m-buisan"
+    }
+  ],
+  "displayTitle": "Adventures (2017) #30 - The Lost Stories part 1",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "parentWorkSlug": "adventures-vol-9-fight-the-empire",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2020-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-30",
+  "synopsis": "\"Loyalty Test\" is a comic story featuring Kylo Ren and Armitage Hux.\n\"The Lost Stories, Part 1\" is a comic story featuring Emil Graf and the crew of the Star Herald.",
+  "title": "Star Wars Adventures (2017) #30 - The Lost Stories part 1"
+}

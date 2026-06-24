@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S03E06: The Academy",
+  "displayTitle": "The Academy",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-3",
   "releaseDate": "2010-10-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s03e06-the-academy",
   "synopsis": "Ahsoka Tano is assigned to teach a class at a leadership academy on Mandalore. Soon after she arrives, Duchess Satine's zealous nephew -- Korkie Kryze -- and his classmates uncover a nefarious plot. Prime Minister Almec is revealed to be an active part of the Mandalorian black market conspiracy on Mandalore, and he attempts to permanently silence Duchess Satine and the cadets before they expose his corruption. Ahsoka and the cadets defeat Almec before he can succeed.",
-  "title": "The Clone Wars S03E06: The Academy"
+  "title": "The Academy"
 }

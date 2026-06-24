@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "Practice Makes Perfect",
+  "era": "fallOfTheJedi",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -21
+  },
+  "parentWorkSlug": "tales-of-the-jedi-s1",
+  "releaseDate": "2022-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-s1e5",
+  "synopsis": "A Jedi Padawan is given a seemingly impossible exercise.",
+  "title": "Practice Makes Perfect"
+}

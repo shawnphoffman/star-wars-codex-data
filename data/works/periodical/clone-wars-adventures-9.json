@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Fillbach",
+      "role": "writer",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "writer",
+      "slug": "shawn-fillbach"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures Volume 9",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2007-10-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-adventures-9",
+  "title": "Clone Wars Adventures Volume 9"
+}

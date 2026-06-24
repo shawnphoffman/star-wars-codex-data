@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "artist",
+      "slug": "rachael-stott"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: Saber for Hire",
+  "era": "highRepublic",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "periodical": {
+    "imprint": "Dark Horse Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2025-01-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-saber-for-hire-trade-paperback",
+  "synopsis": "Fan-favorite saber-for-hire Ty Yorrick returns in her most dangerous—and personal—mission yet.",
+  "title": "The High Republic Adventures: Saber for Hire"
+}

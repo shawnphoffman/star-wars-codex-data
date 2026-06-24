@@ -1,0 +1,21 @@
+{
+  "canonStatus": "canon",
+  "displayTitle": "Age Of Rebellion Special",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": 3,
+    "startYear": 0
+  },
+  "parentWorkSlug": "age-of-rebellion",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-rebellion-special",
+  "synopsis": "This issue is a compilation of three separate stories about IG-88, Yoda, and X-Wing pilots Biggs and Porkins, written by Simon Spurrier, Marc Guggenheim, and Jon Adams, respectively.",
+  "title": "Age Of Rebellion Special"
+}

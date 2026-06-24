@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Justine Fontes",
+      "role": "writer",
+      "slug": "justine-fontes"
+    },
+    {
+      "name": "Ron Fontes",
+      "role": "writer",
+      "slug": "ron-fontes"
+    }
+  ],
   "displayTitle": "Anakin's Pit Droid",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -32,
     "startYear": -32
   },
   "releaseDate": "2000-03-28T00:00:00.000Z",

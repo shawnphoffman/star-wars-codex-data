@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E22: Twilight Of The Appentice Part 2",
+  "displayTitle": "Twilight Of The Appentice Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2016-03-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e22-twilight-of-the-appentice-part-2",
   "synopsis": "After gaining information about the Sith, Kanan, Ezra and Ahsoka battle the Inquisitors with the help of a new ally, but are overmatched when Vader arrives.",
-  "title": "Rebels S02E22: Twilight Of The Appentice Part 2"
+  "title": "Twilight Of The Appentice Part 2"
 }

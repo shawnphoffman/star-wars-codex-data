@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "displayTitle": "Splinter of the Mind's Eye",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "1978-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "splinter-of-the-minds-eye-graphic-novel",
+  "title": "Splinter of the Mind's Eye"
+}

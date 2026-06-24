@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Episode I Adventures 8: Trouble on Tatooine",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439147422"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 97,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439147422",
+      "kind": "print",
+      "onsale": "2000-04-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "releaseDate": "2000-04-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "episode-i-adventures-8-trouble-on-tatooine-2000",
+  "synopsis": "Young Anakin Skywalker and his friends must outrun a group of hunters and save the day – all on their own.",
+  "title": "Episode I Adventures 8: Trouble on Tatooine"
+}

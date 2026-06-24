@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Crimson Empire #2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "parentWorkSlug": "crimson-empire-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1998-01-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-2-3",
+  "title": "Crimson Empire #2"
+}

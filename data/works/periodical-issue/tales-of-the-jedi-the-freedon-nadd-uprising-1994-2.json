@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: The Freedon Nadd Uprising #2: Initiates of the Sith",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3998
+  },
+  "parentWorkSlug": "tales-of-the-jedi-the-freedon-nadd-uprising-1994",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-the-freedon-nadd-uprising-1994-2",
+  "title": "Tales of the Jedi: The Freedon Nadd Uprising #2: Initiates of the Sith"
+}

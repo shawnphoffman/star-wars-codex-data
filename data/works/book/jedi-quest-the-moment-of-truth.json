@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Moment of Truth",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339230"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339230",
+      "kind": "print",
+      "onsale": "2003-11-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -25
+  },
+  "releaseDate": "2003-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-moment-of-truth",
+  "synopsis": "Obi-Wan Kenobi and Anakin Skywalker have embarked on plenty of missions before, but this time, their devastating separation could have serious consequences.",
+  "title": "Jedi Quest: The Moment of Truth"
+}

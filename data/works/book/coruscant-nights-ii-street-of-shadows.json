@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Coruscant Nights II: Street of Shadows",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477545"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 308,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477545",
+      "kind": "print",
+      "onsale": "2009-08-26T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "releaseDate": "2008-08-26T00:00:00.000Z",
+  "releaseDate": "2009-08-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "coruscant-nights-ii-street-of-shadows",
+  "synopsis": "Private investigator Jedi Jax Pavan takes on a case unlike any he’s encountered before …",
   "title": "Coruscant Nights II: Street of Shadows"
 }

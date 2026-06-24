@@ -1,6 +1,63 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Lou Anders",
+      "role": "writer",
+      "slug": "lou-anders"
+    },
+    {
+      "name": "Preeti Chhibber",
+      "role": "writer",
+      "slug": "preeti-chhibber"
+    },
+    {
+      "name": "Anne Ursu",
+      "role": "writer",
+      "slug": "anne-ursu"
+    },
+    {
+      "name": "Yoon Ha Lee",
+      "role": "writer",
+      "slug": "yoon-ha-lee"
+    },
+    {
+      "name": "Tom Angleberger",
+      "role": "writer",
+      "slug": "tom-angleberger"
+    },
+    {
+      "name": "Zoraida Córdova",
+      "role": "writer",
+      "slug": "zoraida-cordova"
+    },
+    {
+      "name": "Rebecca Roanhorse",
+      "role": "writer",
+      "slug": "rebecca-roanhorse"
+    },
+    {
+      "name": "Sarah Beth Durst",
+      "role": "writer",
+      "slug": "sarah-beth-durst"
+    },
+    {
+      "name": "Greg van Eekhout",
+      "role": "writer",
+      "slug": "greg-van-eekhout"
+    },
+    {
+      "name": "E. Anne Convery",
+      "role": "writer",
+      "slug": "e-anne-convery"
+    }
+  ],
   "displayTitle": "The Clone Wars: Stories of Light and Dark",
   "editionIds": [
     {
@@ -19,14 +76,17 @@
       "isPrimary": true,
       "isbn10": "1368057292",
       "isbn13": "9781368057295",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-08-25T00:00:00.000Z"
     }
   ],
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2020-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-stories-of-light-and-dark",
   "synopsis": "Epic tales from The Clone Wars come to life through an anthology of stories recounting the conflicts between the Republic, Separatists, Jedi, and Sith.",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Scott Allie",
+      "role": "writer",
+      "slug": "scott-allie"
+    }
+  ],
+  "displayTitle": "Jedi: The Dark Side #5",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -53
+  },
+  "parentWorkSlug": "jedi-the-dark-side-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2011-09-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-the-dark-side-5",
+  "title": "Jedi: The Dark Side #5"
+}

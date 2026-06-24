@@ -6,37 +6,50 @@
       "name": "Tom Huddleston",
       "role": "writer",
       "slug": "tom-huddleston"
-    },
-    {
-      "name": "David M. Buisán",
-      "role": "artist",
-      "slug": "david-m-buisan"
-    },
-    {
-      "name": "Lucy Ruth Cummins",
-      "role": "coverArtist",
-      "slug": "lucy-ruth-cummins"
     }
   ],
-  "displayTitle": "Adventures in Wild Space: The Nest (Book 2)",
+  "displayTitle": "Adventures in Wild Space: The Nest",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368003168"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368003162"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368008938"
+    }
+  ],
   "editions": [
     {
       "extent": 160,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1368003168",
+      "isbn13": "9781368003162",
+      "kind": "print",
+      "onsale": "2017-01-03T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney Book Group",
+      "isPrimary": false,
+      "isbn13": "9781368008938",
+      "kind": "print",
+      "onsale": "2017-01-03T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
   "releaseDate": "2017-01-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-nest-book-2",
-  "synopsis": "Milo and Lina Graf travel to a jungle world, still searching for their parents and not knowing what waits for them at their next destination.",
-  "title": "Adventures in Wild Space: The Nest (Book 2)"
+  "synopsis": "A long time ago, in a galaxy far, far away...When the parents of Milo and Lina Graf are abducted by agents of the evil Empire, the children must undertake a perilous journey across the unknown reaches of wild space to rescue them - and to discover hope for the future. In this second full-length adventure, Milo and Lina trace their latest clue to a remote jungle world - where a terrifying beast lies in wait...",
+  "title": "Adventures in Wild Space: The Nest"
 }

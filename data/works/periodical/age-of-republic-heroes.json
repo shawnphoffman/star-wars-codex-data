@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
+  "displayTitle": "Age Of Republic: Heroes",
+  "era": "fallOfTheJedi",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": -20,
+    "startYear": -34
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2019-05-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-republic-heroes",
+  "synopsis": "This trade paperback collects four issues from Marvel's Star Wars: Age of Republic series. Readers are treated to never-before-seen adventures that add depth and nuance to Qui-Got, Obi-Wan, Anakin, and Padme as well as two short stories from the Age of Republic Special.",
+  "title": "Age Of Republic: Heroes"
+}

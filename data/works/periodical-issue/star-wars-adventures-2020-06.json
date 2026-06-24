@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Cook",
+      "role": "writer",
+      "slug": "katie-cook"
+    },
+    {
+      "name": "Shaun Manning",
+      "role": "writer",
+      "slug": "shaun-manning"
+    },
+    {
+      "name": "Cara McGee",
+      "role": "artist",
+      "slug": "cara-mcgee"
+    },
+    {
+      "name": "Fico Ossio",
+      "role": "artist",
+      "slug": "fico-ossio"
+    }
+  ],
+  "displayTitle": "Adventures (2020) #6 - The Gaze Electric",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -232
+  },
+  "parentWorkSlug": "star-wars-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2020-06",
+  "synopsis": "\"The Gaze Electric\" is a High Republic-set short comic adventure that featured as the back up story in Star Wars Adventures (2020) #6, published by IDW.",
+  "title": "Star Wars Adventures (2020) #6 - The Gaze Electric"
+}

@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matthew Rosenberg",
+      "role": "writer",
+      "slug": "matthew-rosenberg"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
+  "displayTitle": "Jedi Fallen Order: Dark Temple #5",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": -14,
+    "startYear": -23
+  },
+  "parentWorkSlug": "jedi-fallen-order-dark-temple-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-12-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-fallen-order-dark-temple-5",
+  "synopsis": "ONE AGAINST A WORLD\nJedi Master Eno Cordova will have to use all his wits and training if he hopes to survive the mysteries of the Dark Temple!\nMeanwhile Jedi Padawan Cere Junda strikes a blow in the hopes of ending the battle with the Daa Corporation's army. But was it too late?\nIf Cordova and Junda hope to survive they're going to need to get off Ontotho. And they can't do that alone!\nIt all ends here! Read the shocking conclusion to the epic comic series featuring characters from the videogame STAR WARS JEDI: FALLEN ORDER.",
+  "title": "Jedi Fallen Order: Dark Temple #5"
+}

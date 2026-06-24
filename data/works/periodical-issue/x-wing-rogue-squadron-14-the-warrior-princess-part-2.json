@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Scott Tolson",
+      "role": "writer",
+      "slug": "scott-tolson"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #14: The Warrior Princess, Part 2",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-2",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-14-the-warrior-princess-part-2",
+  "title": "X-Wing Rogue Squadron #14: The Warrior Princess, Part 2"
+}

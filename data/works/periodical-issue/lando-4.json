@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Alex Maleev",
+      "role": "artist",
+      "slug": "alex-maleev"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Lando, Part IV",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "lando-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-09-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lando-4",
+  "synopsis": "It is a time for cunning and guile. LANDO CALRISSIAN, along with his team of longtime cohort LOBOT, alien clone warriors Aleskin and Pavol, and antiquity specialist Sava Korin Pers, was tasked with stealing the ''Imperialis'', a luxury yacht, in order to pay off a past debt. Unfortunately for the team, the ship belongs to EMPEROR PALPATINE.\nA central chamber held a treasure trove of ancient Sith artifacts - but it was protected by two members of Palpatine's elite Imperial Guard, who gravely injured Lobot. Aleskin and Pavol held off the Guards, ultimately them, while Korin and Lando rushed Lobot to the safety of a bacta tank.\nIt seems that the danger could be over...but the Emperor has assigned his personal fixer, CHANATH CHA, to re-take his ship at any cost, and the merciless hunter is drawing near...",
+  "title": "Lando, Part IV"
+}

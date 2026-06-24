@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "David Wachter",
+      "role": "artist",
+      "slug": "david-wachter"
+    }
+  ],
+  "displayTitle": "The High Republic: Trail of Shadows #5",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -230
+  },
+  "parentWorkSlug": "the-high-republic-trail-of-shadows-trade-paperback-35198afd11",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-02-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-trail-of-shadows-5",
+  "synopsis": "The fifth and final issue of the Marvel comic book miniseries Star Wars: The High Republic: Trail of Shadows.\nIt all comes crashing together in this finale as Emerick and Sian come face to face with mystery they've been hunting.\nWho will survive?\nPhase one of Star Wars: The High Republic culminates in this crashing conclusion.",
+  "title": "The High Republic: Trail of Shadows #5"
+}

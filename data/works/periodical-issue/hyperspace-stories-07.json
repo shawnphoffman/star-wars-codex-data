@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "artist",
+      "slug": "andrea-mutti"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #07",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "parentWorkSlug": "hyperspace-stories-tides-of-terror",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-08-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-07",
+  "synopsis": "Issue 7 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nBoba Fett. The name strikes fear across the galaxy; the most skilled and ruthless bounty hunter alive, who always gets his prey. But on the planet Ridley, Fett finds a job unlike any he's taken in his long career. But other bounty hunters have taken notice, and soon the Mandalorian finds himself defending himself and his client from Bossk and his gang of ruthless Trandoshan hunters!",
+  "title": "Hyperspace Stories #07"
+}

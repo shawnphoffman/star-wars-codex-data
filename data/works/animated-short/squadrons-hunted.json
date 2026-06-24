@@ -4,9 +4,11 @@
   "era": "newRepublic",
   "format": "animatedShort",
   "inUniverseDate": {
-    "endYear": 4,
     "startYear": 4
   },
+  "relatedWorkSlugs": [
+    "squadrons"
+  ],
   "releaseDate": "2020-09-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

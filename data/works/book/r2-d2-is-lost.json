@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Caitlin Kennedy",
+      "role": "writer",
+      "slug": "caitlin-kennedy"
+    }
+  ],
   "displayTitle": "R2-D2 is LOST!",
   "editionIds": [
     {
@@ -19,14 +26,17 @@
       "isPrimary": true,
       "isbn10": "1368053289",
       "isbn13": "9781368053280",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-02-11T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2020-02-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "r2-d2-is-lost",
   "synopsis": "On Endor, there is plenty for C-3PO, R2-D2, and BB-8 to explore. But everything starts to go terribly wrong when R2 finds himself lost and separated from his friends.",

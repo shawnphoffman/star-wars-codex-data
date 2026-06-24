@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "Republic #05: Prelude to Rebellion, Part 5",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1999-04-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-05-prelude-to-rebellion-part-5",
+  "title": "Republic #05: Prelude to Rebellion, Part 5"
+}

@@ -3,12 +3,12 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Gerry Duggan",
+      "name": "Nate Millici",
       "role": "writer",
-      "slug": "gerry-duggan"
+      "slug": "nate-millici"
     }
   ],
-  "displayTitle": "Chewie And The Courageous Kid",
+  "displayTitle": "Chewie and the Courageous Kid",
   "editionIds": [
     {
       "type": "isbn10",
@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368016316",
       "isbn13": "9781368016315",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-04-17T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 0,
     "startYear": 0
   },
   "releaseDate": "2018-04-17T00:00:00.000Z",
@@ -40,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "chewie-and-the-courageous-kid",
   "synopsis": "Zarro’s father needs help! It’s up to the mighty Chewbacca to save the day.",
-  "title": "Chewie And The Courageous Kid"
+  "title": "Chewie and the Courageous Kid"
 }

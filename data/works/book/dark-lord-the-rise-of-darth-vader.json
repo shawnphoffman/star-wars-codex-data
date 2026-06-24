@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Dark Lord: The Rise of Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477323"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477323",
+      "kind": "print",
+      "onsale": "2005-11-22T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2005-11-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-lord-the-rise-of-darth-vader",
+  "synopsis": "The Jedi survivors of Order 66 discover their greatest threat isn’t the Empire itself, but the enemies hunting them down in order to serve it.",
   "title": "Dark Lord: The Rise of Darth Vader"
 }

@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    },
+    {
+      "name": "Mike Beidler",
+      "role": "writer",
+      "slug": "mike-beidler"
+    }
+  ],
+  "displayTitle": "Empire's End #2: Rage of the Emperor",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1995-11-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "empire-s-end-2-rage-of-the-emperor",
+  "title": "Empire's End #2: Rage of the Emperor"
+}

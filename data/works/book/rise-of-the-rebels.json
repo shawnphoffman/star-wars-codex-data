@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1405275804",
       "isbn13": "9781405275804",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
   "releaseDate": "2014-08-05T00:00:00.000Z",

@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
   "displayTitle": "The Last Jedi: Bomber Command",
   "editionIds": [
     {
@@ -14,15 +21,17 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780794440848",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
     "startYear": 34
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-bomber-command",
   "synopsis": "A complete guide to everything you need to know about the Resistance’s Cobalt Squadron.",

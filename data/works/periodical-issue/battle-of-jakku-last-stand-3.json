@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Battle of Jakku: Last Stand #3",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 5
+  },
+  "parentWorkSlug": "battle-of-jakku-last-stand",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2025-01-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "battle-of-jakku-last-stand-3",
+  "synopsis": "Issue 11 of 12 from the Marvel Comics Battle of Jakku maxi-series\nTHE BATTLE OF JAKKU UNLEASHED!\nLUKE must enter the underworld to strike a deadly bargain! THE SPICE RUNNERS OF KIJIMI play a deadly wild card — with shocking consequences! As unseen forces move to disrupt the BATTLE OF JAKKU, the NEW REPUBLIC must fight a war on two fronts! LUKE takes on the new threat directly — putting everything at risk!",
+  "title": "Battle of Jakku: Last Stand #3"
+}

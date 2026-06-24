@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S01E18: Mystery of a Thousand Moons",
+  "displayTitle": "Mystery of a Thousand Moons",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-1",
   "releaseDate": "2009-02-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s01e18-mystery-of-a-thousand-moons",
   "synopsis": "The fatal Blue Shadow Virus is released, infecting Ahsoka, Padmé and many Clone Troopers - and giving Anakin and Obi-Wan just 48 hours to find the antidote on a mysterious planet from which no visitor has ever returned.",
-  "title": "The Clone Wars S01E18: Mystery of a Thousand Moons"
+  "title": "Mystery of a Thousand Moons"
 }

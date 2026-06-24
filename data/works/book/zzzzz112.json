@@ -8,7 +8,7 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice 14: The Ties That Bind",
+  "displayTitle": "Jedi Apprentice: The Ties That Bind",
   "editionIds": [
     {
       "type": "isbn13",
@@ -21,12 +21,13 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780439139335",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2001-08-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -41,
     "startYear": -41
   },
   "releaseDate": "2001-08-01T00:00:00.000Z",
@@ -34,5 +35,5 @@
   "releaseStatus": "released",
   "slug": "zzzzz112",
   "synopsis": "Qui-Gon Jinn and his fellow Jedi Knight Tahl have a seemingly unbreakable bond. A bond that will be tested when the two Jedi and Obi-Wan Kenobi embark on a mission against the will of the Jedi Council.",
-  "title": "Jedi Apprentice 14: The Ties That Bind"
+  "title": "Jedi Apprentice: The Ties That Bind"
 }

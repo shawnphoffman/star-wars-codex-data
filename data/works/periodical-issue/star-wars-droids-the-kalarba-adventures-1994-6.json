@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    }
+  ],
+  "displayTitle": "Star Wars Droids: The Kalarba Adventures #6",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-the-kalarba-adventures-1994-6",
+  "title": "Star Wars Droids: The Kalarba Adventures #6"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Jedi vs. Sith #3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1000
+  },
+  "parentWorkSlug": "jedi-vs-sith-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2001-06-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-vs-sith-3",
+  "title": "Jedi vs. Sith #3"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Chestney",
+      "role": "writer",
+      "slug": "robert-chestney"
+    }
+  ],
+  "displayTitle": "The Old Republic #3: Threat of Peace, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3653
+  },
+  "parentWorkSlug": "the-old-republic-threat-of-peace",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-3-threat-of-peace-part-3",
+  "title": "The Old Republic #3: Threat of Peace, Part 3"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "Hidden Empire #3",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "hidden-empire-trade-paperback-817ee",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-02-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hidden-empire-3",
+  "synopsis": "Issue 3 of 5 of the Marvel Comics Hidden Empire Miniseries\nAll of Lady Qi'ra's plans to destroy the Sith hang in the balance, but she is not alone in her desire to destroy the Dark Lords. Witness a battle decades in the making, as Darth Vader faces off against an adversary who has spent her entire life training for this one, final shot at revenge.",
+  "title": "Hidden Empire #3"
+}

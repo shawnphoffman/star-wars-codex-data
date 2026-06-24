@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Kev Walker",
+      "role": "artist",
+      "slug": "kev-walker"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Antonio Fabela",
+      "role": "artist",
+      "slug": "antonio-fabela"
+    },
+    {
+      "name": "Kamome Shirahama",
+      "role": "artist",
+      "slug": "kamome-shirahama"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (2016) #03: Aphra, Part III",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "parentWorkSlug": "doctor-aphra-volume-1-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-01-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "doctor-aphra-3-aphra-part-iii",
+  "synopsis": "Aphra's hunt for the Ordu Aspectu has led to the last place she wants to be…\n…an Imperial encampment!\nThe good doctor, her deadly droids and her Wookiee companion are in for trouble…",
+  "title": "Doctor Aphra (2016) #03: Aphra, Part III"
+}

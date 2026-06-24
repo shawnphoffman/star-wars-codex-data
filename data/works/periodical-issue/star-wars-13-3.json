@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "artist",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "artist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) #13: Vader Down, Part III",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-vol-3",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-12-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-13-3",
+  "synopsis": "Two of the biggest titles in comics collide in the first crossover of the new Marvel age of Star Wars! When Darth Vader accidentally finds himself facing off against the Rebel Fleet on his own, he is sent crashing onto a nearby planet. Will the Rebels seize this opportunity to put an end to one of their greatest enemies - or will they be made to feel the full power of the Dark Side? The Sith Lord may be down, he isn't out!",
+  "title": "Star Wars (2015) #13: Vader Down, Part III"
+}

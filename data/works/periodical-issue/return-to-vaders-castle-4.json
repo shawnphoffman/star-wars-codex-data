@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "artist",
+      "slug": "nicoletta-baldari"
+    }
+  ],
+  "displayTitle": "Adventures: Return to Vader's Castle #4",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "return-to-vaders-castle-6",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-10-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-to-vaders-castle-4",
+  "synopsis": "Star Wars Adventures: Return to Vader's Castle 4 is the fourth issue of the canon comic book miniseries Star Wars Adventures: Return to Vader's Castle.",
+  "title": "Star Wars Adventures: Return to Vader's Castle #4"
+}

@@ -6,11 +6,6 @@
       "name": "Cavan Scott",
       "role": "writer",
       "slug": "cavan-scott"
-    },
-    {
-      "name": "Elsa Charretier",
-      "role": "artist",
-      "slug": "elsa-charretier"
     }
   ],
   "displayTitle": "Choose Your Destiny: An Obi-Wan & Anakin Adventure",
@@ -31,14 +26,14 @@
       "isPrimary": true,
       "isbn10": "1368043372",
       "isbn13": "9781368043373",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2019-03-19T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -27,
-    "startYear": -27
+    "startYear": -26
   },
   "releaseDate": "2019-03-19T00:00:00.000Z",
   "releaseDisplayState": "released",

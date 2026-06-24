@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Quest: The Changing of the Guard",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439339247"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439339247",
+      "kind": "print",
+      "onsale": "2004-03-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -24
+  },
+  "releaseDate": "2004-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-quest-the-changing-of-the-guard",
+  "synopsis": "The evil scientist Jenna Zan Arbor must be stopped – and it seems only the Jedi will be able to accomplish the task.",
+  "title": "Jedi Quest: The Changing of the Guard"
+}

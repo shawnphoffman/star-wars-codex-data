@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "writer",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Torunn Grønbekk",
+      "role": "writer",
+      "slug": "torunn-gr-nbekk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
+  "displayTitle": "Darth Vader: Black, White & Red #3",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "darth-vader-black-white-red-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-black-white-red-3",
+  "synopsis": "3 of 4 issues of the Marvel Comics Darth Vader Black, White & Red Miniseries\nDANIEL WARREN JOHNSON HELPS BRING DARTH VADER TO LIFE LIKE NEVER BEFORE!\nMARC BERNARDIN brings us along with Vader on a mission you won't soon forget! PLUS: The penultimate chapter of JASON AARON & LEONARD KIRK's Vader deconstruction!",
+  "title": "Darth Vader: Black, White & Red #3"
+}

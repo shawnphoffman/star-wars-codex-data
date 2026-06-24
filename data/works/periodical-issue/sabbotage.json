@@ -1,0 +1,30 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "artist",
+      "slug": "jordie-bellaire"
+    }
+  ],
+  "displayTitle": "SaBBotage",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sabbotage",
+  "title": "SaBBotage"
+}

@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Rise of Kylo Ren:",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 28
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2020-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-kylo-ren",
+  "synopsis": "“WITH BEN SOLO’S FALL…COMES KYLO REN’S RISE!”",
+  "title": "The Rise of Kylo Ren:"
+}

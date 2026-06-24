@@ -1,0 +1,31 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures 2: The Bartokk Assassins",
+  "editions": [
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-10-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "episode-i-adventures-2-the-bartokk-assassins-1999",
+  "synopsis": "A group of deadly assassins with Trade Federation weapons is bad enough. Now they’ve kidnapped a child – and only the Jedi can save the day.",
+  "title": "Episode I Adventures 2: The Bartokk Assassins"
+}

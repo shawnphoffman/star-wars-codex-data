@@ -9,6 +9,9 @@
   ],
   "displayTitle": "The Mandalorian",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "releaseDate": "2019-11-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

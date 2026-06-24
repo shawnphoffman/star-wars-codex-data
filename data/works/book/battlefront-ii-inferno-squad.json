@@ -26,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1524796824",
       "isbn13": "9781524796822",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-07-25T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 0,
     "startYear": 0
   },
   "releaseDate": "2017-07-25T00:00:00.000Z",

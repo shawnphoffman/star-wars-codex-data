@@ -9,6 +9,10 @@
   ],
   "displayTitle": "The Bad Batch",
   "format": "tvSeries",
+  "inUniverseDate": {
+    "endYear": -18,
+    "startYear": -19
+  },
   "releaseDate": "2021-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

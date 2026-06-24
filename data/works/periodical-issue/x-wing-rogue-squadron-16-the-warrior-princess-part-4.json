@@ -1,0 +1,30 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Scott Tolson",
+      "role": "writer",
+      "slug": "scott-tolson"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron #16: The Warrior Princess, Part 4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "omnibus-x-wing-rogue-squadron-volume-3",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1997-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-rogue-squadron-16-the-warrior-princess-part-4",
+  "title": "X-Wing Rogue Squadron #16: The Warrior Princess, Part 4"
+}

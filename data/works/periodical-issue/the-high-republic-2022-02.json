@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    }
+  ],
+  "displayTitle": "The High Republic (2022) #02",
+  "era": "highRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "parentWorkSlug": "the-high-republic-2022-v-balance-of-the-force-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-11-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-2022-02",
+  "synopsis": "The second issue of the Marvel comic book series Star Wars: The High Republic (2022) from Phase 2 of The High Republic\nA Jedi lies dead in an ancient shrine, another on the trail of the murderer.\nWho is using ancient Force powers on the streets of the holy city, and why are sacred relics going missing?\nAnd why do all roads lead to the Temple of the Whills?",
+  "title": "The High Republic (2022) #02"
+}

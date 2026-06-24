@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    }
+  ],
+  "displayTitle": "Star Wars (2020) #13",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "star-wars-2020-vol-03-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-05-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2020-13",
+  "synopsis": "Star Wars (2020 #13 is the thirteenth issue of the canon comic series Star Wars (2020) and is part of War of the Bounty Hunters cross-over event.\nPRELUDE TO WAR OF THE BOUNTY HUNTERS: \"THE HUNT FOR HAN\" CHEWBACCA has heard from an old friend with intelligence on the location of notorious bounty hunter BOBA FETT, known to be in possession of HAN SOLO. Along with LUKE SKYWALKER, the loyal Wookiee sets off in search of his lost friend, on an adventure to Nar Shadaa…[sic] the SMUGGLER'S MOON! But will this mission prevent plucky astromech droid ARTOO DETOO from passing along a crucial message to Luke, one that will affect the fate of the entire Jedi Order…?",
+  "title": "Star Wars (2020) #13"
+}

@@ -9,14 +9,31 @@
     }
   ],
   "displayTitle": "Imperial Commando: 501st",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511133"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 449,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511133",
+      "kind": "print",
+      "onsale": "2009-10-27T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
   "releaseDate": "2009-10-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "imperial-commando-501st",
+  "synopsis": "The former members of Omega Squad must decide where their true loyalties lie now that the Empire has replaced the government they once fought to protect.",
   "title": "Imperial Commando: 501st"
 }

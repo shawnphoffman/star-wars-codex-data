@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "His Majesty the King",
+      "role": "writer",
+      "slug": "his-majesty-the-king"
+    }
+  ],
   "displayTitle": "The Vow of Silver Dawn",
   "editions": [
     {
@@ -10,12 +17,12 @@
       "kind": "print"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -200,
     "startYear": -200
   },
-  "releaseDisplayState": "tba",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-vow-of-silver-dawn",
   "synopsis": "Without his master, and stranded on a strange and unfamiliar world, Jedi Padawan Sean will face a kind of darkness he has never encountered before.",

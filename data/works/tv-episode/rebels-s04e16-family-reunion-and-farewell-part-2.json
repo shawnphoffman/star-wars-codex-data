@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E16: Family Reunion - and Farewell Part 2",
+  "displayTitle": "Family Reunion - and Farewell Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2018-03-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e16-family-reunion-and-farewell-part-2",
   "synopsis": "Ezra's team takes drastic action to free Lothal, entering Imperial HQ, and Thrawn returns to stop them;",
-  "title": "Rebels S04E16: Family Reunion - and Farewell Part 2"
+  "title": "Family Reunion - and Farewell Part 2"
 }

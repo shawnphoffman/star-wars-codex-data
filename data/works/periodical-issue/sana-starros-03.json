@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    }
+  ],
+  "displayTitle": "Sana Starros #03",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "sana-starros-tpb",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-04-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sana-starros-03",
+  "synopsis": "Issue 3 of 5 of the Marvel Comics Sana Starros miniseries\nSana has just run into one of the roughest bounty hunters in the galaxy: DEVA LOMPOP!\nBut what does she want with Sana?\nAnd why is Sana on a RANCOR?!",
+  "title": "Sana Starros #03"
+}

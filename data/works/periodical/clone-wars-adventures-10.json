@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "The Fillbach Brothers",
+      "role": "writer",
+      "slug": "the-fillbach-brothers"
+    },
+    {
+      "name": "Chris Avellone",
+      "role": "writer",
+      "slug": "chris-avellone"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures Volume 10",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2007-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "clone-wars-adventures-10",
+  "title": "Clone Wars Adventures Volume 10"
+}

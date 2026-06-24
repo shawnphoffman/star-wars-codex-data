@@ -8,11 +8,19 @@
       "slug": "george-mann"
     }
   ],
-  "displayTitle": "The High Republic: The Eye of Darkness",
+  "displayTitle": "The Eye of Darkness",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593597931"
+    },
     {
       "type": "isbn13",
       "value": "9780593597934"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593597941"
     }
   ],
   "editions": [
@@ -20,14 +28,22 @@
       "extent": 416,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593597931",
       "isbn13": "9780593597934",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-11-14T00:00:00.000Z"
+    },
+    {
+      "imprint": "Random House Worlds",
+      "isPrimary": false,
+      "isbn13": "9780593597941",
+      "kind": "print",
+      "onsale": "2023-11-14T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -229,
     "startYear": -229
   },
   "releaseDate": "2023-11-14T00:00:00.000Z",
@@ -35,5 +51,5 @@
   "releaseStatus": "released",
   "slug": "the-eye-of-darkness",
   "synopsis": "A year after the fall of Starlight Beacon, the battle to navigate in and out of the Occlusion Zone is just beginning.",
-  "title": "The High Republic: The Eye of Darkness"
+  "title": "The Eye of Darkness"
 }

@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Dash Aaron",
+      "role": "writer",
+      "slug": "dash-aaron"
+    },
+    {
+      "name": "Simone Bianchi",
+      "role": "artist",
+      "slug": "simone-bianchi"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Sorrentino",
+      "role": "artist",
+      "slug": "andrea-sorrentino"
+    }
+  ],
+  "displayTitle": "Star Wars (2015): From the Journals of Obi-Wan Kenobi",
+  "era": "ageOfRebellion",
+  "format": "periodical",
+  "inUniverseDate": {
+    "endYear": 0,
+    "startYear": -33
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2020-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-the-journals-of-obi-wan-kenobi",
+  "synopsis": "Lost tales of the Jedi, revealed! Obi-Wan has slowly adjusted to his life of exile on Tatooine, secretly protecting young Luke Skywalker. But now injustice reigns as villainous scum run rampant, extorting moisture farmers and wreaking havoc. Will \"Old Ben\" risk revealing himself to do what's right? And when Jabba the Hutt hires a bounty hunter to find out who's been thwarting his men, Obi-Wan must take on the galaxy's deadliest Wookiee, Black Krrsantan! Plus, years earlier, when Obi-Wan was still a Padawan, Master Yoda found himself trapped on a savage world with a hidden power. Yoda must learn the secret of the stones - and his struggle in the past will affect Luke in the present! And can Obi-Wan save a young Tusken Raider?",
+  "title": "Star Wars (2015): From the Journals of Obi-Wan Kenobi"
+}

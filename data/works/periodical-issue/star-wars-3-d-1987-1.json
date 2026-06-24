@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Len Wein",
+      "role": "writer",
+      "slug": "len-wein"
+    }
+  ],
+  "displayTitle": "Star Wars 3-D #1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "star-wars-3-d-1987",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "1987-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-3-d-1987-1",
+  "title": "Star Wars 3-D #1"
+}

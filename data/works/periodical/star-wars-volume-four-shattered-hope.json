@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Zack Whedon",
+      "role": "writer",
+      "slug": "zack-whedon"
+    }
+  ],
+  "displayTitle": "Volume 4 : A Shattered Hope",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2014-10-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-volume-four-shattered-hope",
+  "title": "Star Wars Volume 4 : A Shattered Hope"
+}

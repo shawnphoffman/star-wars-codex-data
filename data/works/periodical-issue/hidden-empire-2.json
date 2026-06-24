@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    }
+  ],
+  "displayTitle": "Hidden Empire #2",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "parentWorkSlug": "hidden-empire-trade-paperback-817ee",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2022-12-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hidden-empire-2",
+  "synopsis": "Issue 2 of 5 of the Marvel Comics Hidden Empire Miniseries\nThe plans of LADY QI'RA to use an ancient Dark Side weapon known as the FERMATA CAGE to destroy the Sith are falling apart, and she has lost many of her primary resources and allies, with DARTH VADER drawing ever nearer. Can she salvage victory from certain defeat?",
+  "title": "Hidden Empire #2"
+}

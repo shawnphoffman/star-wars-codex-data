@@ -14,21 +14,6 @@
       ],
       "type": "string"
     },
-    "comic": {
-      "additionalProperties": false,
-      "properties": {
-        "comicType": {
-          "type": "string"
-        },
-        "imprint": {
-          "type": "string"
-        },
-        "pageCount": {
-          "type": "number"
-        }
-      },
-      "type": "object"
-    },
     "creators": {
       "items": {
         "additionalProperties": false,
@@ -167,6 +152,24 @@
     },
     "parentWorkSlug": {
       "type": "string"
+    },
+    "periodical": {
+      "additionalProperties": false,
+      "properties": {
+        "imprint": {
+          "type": "string"
+        },
+        "pageCount": {
+          "type": "number"
+        },
+        "publicationKind": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        }
+      },
+      "type": "object"
     },
     "relatedWorkSlugs": {
       "items": {

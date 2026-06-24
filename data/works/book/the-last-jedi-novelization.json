@@ -17,6 +17,9 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "releaseDate": "2018-03-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

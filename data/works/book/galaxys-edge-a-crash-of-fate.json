@@ -1,15 +1,18 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Galaxy's Edge: A Crash of Fate",
-  "editions": [
+  "creators": [
     {
-      "imprint": "Disney Lucasfilm Press",
-      "isPrimary": true,
-      "kind": "print"
+      "name": "Zoraida Córdova",
+      "role": "writer",
+      "slug": "zoraida-cordova"
     }
   ],
+  "displayTitle": "Galaxy's Edge: A Crash of Fate",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "releaseDate": "2019-08-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

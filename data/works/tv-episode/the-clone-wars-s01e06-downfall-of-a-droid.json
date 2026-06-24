@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S01E06: Downfall of a Droid",
+  "displayTitle": "Downfall of a Droid",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -22,
     "startYear": -22
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-1",
   "releaseDate": "2008-11-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s01e06-downfall-of-a-droid",
   "synopsis": "R2-D2 is lost during a fierce space battle - and Anakin, along with Ahsoka and a replacement droid, R3-S6, must find him before the Separatists discover the Jedi military secrets locked in his memory banks.",
-  "title": "The Clone Wars S01E06: Downfall of a Droid"
+  "title": "Downfall of a Droid"
 }

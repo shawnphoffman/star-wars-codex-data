@@ -11,9 +11,9 @@
   "era": "riseOfTheFirstOrder",
   "format": "shortStory",
   "inUniverseDate": {
-    "endYear": 29,
     "startYear": 29
   },
+  "parentWorkSlug": "the-force-awakens-novelization",
   "releaseDate": "2015-11-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S02E07: Legacy of Terror",
+  "displayTitle": "Legacy of Terror",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-2",
   "releaseDate": "2009-11-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s02e07-legacy-of-terror",
   "synopsis": "When Luminara goes missing, Obi-Wan and Anakin lead a platoon of clones in search of her. When the search leads to a mysterious lair, the Jedi are faced with a horde of undead warriors.",
-  "title": "The Clone Wars S02E07: Legacy of Terror"
+  "title": "Legacy of Terror"
 }

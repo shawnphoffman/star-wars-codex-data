@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "David Wachter",
+      "role": "artist",
+      "slug": "david-wachter"
+    }
+  ],
+  "displayTitle": "The High Republic: Trail of Shadows",
+  "era": "highRepublic",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -230
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2022-04-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-trail-of-shadows-trade-paperback-35198afd11",
+  "synopsis": "JEDI KNIGHT AND PRIVATE EYE TEAM UP TO UNCOVER A MYSTERY",
+  "title": "The High Republic: Trail of Shadows"
+}

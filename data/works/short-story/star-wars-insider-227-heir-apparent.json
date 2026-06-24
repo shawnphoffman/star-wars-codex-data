@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    }
+  ],
+  "displayTitle": "Chronicles Of Corellia: Heir Apparent",
+  "era": "highRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "parentWorkSlug": "star-wars-insider-227",
+  "releaseDate": "2024-08-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-insider-227-heir-apparent",
+  "synopsis": "A High Republic Phase III prose short story by Alyssa Wong, part of the Chronicles of Corellia.",
+  "title": "Chronicles Of Corellia: Heir Apparent"
+}

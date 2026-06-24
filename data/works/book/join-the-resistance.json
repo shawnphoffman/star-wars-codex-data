@@ -31,14 +31,14 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781484706077",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-03-07T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 34,
-    "startYear": 34
+    "startYear": 33
   },
   "releaseDate": "2017-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",

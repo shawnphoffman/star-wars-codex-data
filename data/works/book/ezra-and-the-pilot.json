@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Haddle",
+      "role": "writer",
+      "slug": "jennifer-haddle"
+    }
+  ],
   "displayTitle": "Ezra and the Pilot",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "148470486X",
       "isbn13": "9781484704868",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -5,
     "startYear": -5
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2014-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ezra-and-the-pilot",
   "synopsis": "Ezra goes to investigate a nearby crashed TIE fighter.",

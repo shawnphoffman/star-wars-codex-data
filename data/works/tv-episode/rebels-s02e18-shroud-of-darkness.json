@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E18: Shroud Of Darkness",
+  "displayTitle": "Shroud Of Darkness",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2016-03-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e18-shroud-of-darkness",
   "synopsis": "Kanan, Ezra, and Ahsoka return to the Lothal Jedi Temple to find out how the Inquisitors have continually been able to track the rebels.",
-  "title": "Rebels S02E18: Shroud Of Darkness"
+  "title": "Shroud Of Darkness"
 }

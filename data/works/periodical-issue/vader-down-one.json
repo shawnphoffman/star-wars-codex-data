@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "artist",
+      "slug": "mike-deodato-jr"
+    }
+  ],
+  "displayTitle": "Vader Down #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "vader-down",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2015-11-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vader-down-one",
+  "synopsis": "It is a period of unrest in the galaxy. The Sith\nLord Darth Vader, enforcer of the Galactic\nEmpire, has learned that it was Luke Skywalker\nwho was the rebel pilot responsible for blowing\nup the Death Star. Vader is now more\ndetermined than ever to track down his son and\nturn him to the dark side.",
+  "title": "Vader Down #1"
+}

@@ -19,15 +19,17 @@
       "isPrimary": true,
       "isbn10": "1368104568",
       "isbn13": "9781368104562",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-07-23T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -233,
     "startYear": -233
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2024-07-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-the-charhound-chase",
   "synopsis": "Bell Zettifar’s best friend Ember is lost! Kai will need to learn to trust the Force as he searches for the beloved charhound.",

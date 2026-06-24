@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Season 1 Part 1",
+  "era": "newRepublic",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "periodical": {
+    "imprint": "Marvel Comics",
+    "publicationKind": "comic",
+    "type": "graphicNovel"
+  },
+  "releaseDate": "2022-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-vol-1-trade-paperback",
+  "synopsis": "For the first time, THE MANDALORIAN arrives in comics!",
+  "title": "The Mandalorian: Season 1 Part 1"
+}

@@ -14,14 +14,31 @@
     }
   ],
   "displayTitle": "MedStar II: Jedi Healer",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345463111"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 302,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345463111",
+      "kind": "print",
+      "onsale": "2004-09-28T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
   "releaseDate": "2004-09-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "medstar-ii-jedi-healer",
+  "synopsis": "As the Clone Wars rage on, Padawan Barriss Offee prepares to face her greatest test yet.",
   "title": "MedStar II: Jedi Healer"
 }

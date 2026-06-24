@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dennis Hallum",
+      "role": "writer",
+      "slug": "dennis-hallum"
+    },
+    {
+      "name": "Geraldo Borges",
+      "role": "artist",
+      "slug": "geraldo-borges"
+    }
+  ],
+  "displayTitle": "Vader: Dark Visions #5",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "dark-visions-gn",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-06-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-visions-5",
+  "synopsis": "A backwater jungle planet teeming with poisonous plants. The search for a device that can track the REBELS.  A psychedelic nightmare triggered by the local flora — with a terror known as DARTH VADER!",
+  "title": "Vader: Dark Visions #5"
+}

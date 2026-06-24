@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Lan Medina",
+      "role": "artist",
+      "slug": "lan-medina"
+    }
+  ],
+  "displayTitle": "Bounty Hunters #35",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "parentWorkSlug": "bounty-hunters-vol-5-the-raid-on-the-vermillion-trade-paperback",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2023-06-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-35",
+  "synopsis": "Is the thirty-fifth issue of the Marvel Comics Bounty Hunters Series",
+  "title": "Bounty Hunters #35"
+}

@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "Adventures in Wild Space: The Heist",
   "editionIds": [
     {
@@ -19,15 +26,17 @@
       "isPrimary": true,
       "isbn10": "1532143206",
       "isbn13": "9781532143205",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-04-11T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -18,
     "startYear": -18
   },
-  "releaseDisplayState": "tba",
+  "releaseDate": "2017-04-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-heist",
   "synopsis": "Milo and Lina Graf head to Lothal to continue the search for their missing parents.",

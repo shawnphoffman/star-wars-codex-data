@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sam Maggs",
+      "role": "writer",
+      "slug": "sam-maggs"
+    },
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    },
+    {
+      "name": "Liana Kangas",
+      "role": "artist",
+      "slug": "liana-kangas"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    }
+  ],
+  "displayTitle": "Adventures (2020) #07 - The Crimson Corsair And The Crime Lord Of The Barren Rim",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 31
+  },
+  "parentWorkSlug": "star-wars-adventures",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2021-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2020-07-the-princess-and-the-bog-part-1",
+  "synopsis": "The Empire has been defeated, but that doesn't mean that the adventures are over for Luke and Leia, who find themselves in a tricky situation that they have to work together to get out of! Plus, the Crimson Corsair and his band of pirates make their Star Wars Adventures debut!",
+  "title": "Star Wars Adventures (2020) #07 - The Crimson Corsair And The Crime Lord Of The Barren Rim"
+}

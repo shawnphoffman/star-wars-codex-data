@@ -6,11 +6,6 @@
       "name": "Kevin Hearne",
       "role": "writer",
       "slug": "kevin-hearne"
-    },
-    {
-      "name": "Larry Rostant",
-      "role": "coverArtist",
-      "slug": "larry-rostant"
     }
   ],
   "displayTitle": "Heir to the Jedi",
@@ -26,13 +21,13 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780099594277",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-03-03T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 0,
     "startYear": 0
   },
   "releaseDate": "2015-03-03T00:00:00.000Z",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Old Republic #4: Blood of the Empire, Part 1",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3678
+  },
+  "parentWorkSlug": "the-old-republic-blood-of-the-empire",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2010-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-old-republic-4-blood-of-the-empire-part-1",
+  "title": "The Old Republic #4: Blood of the Empire, Part 1"
+}

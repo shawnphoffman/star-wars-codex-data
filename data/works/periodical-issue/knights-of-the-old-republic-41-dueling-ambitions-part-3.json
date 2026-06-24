@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Knights of the Old Republic #41: Dueling Ambitions, Part 3",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3963
+  },
+  "parentWorkSlug": "knights-of-the-old-republic-volume-7-duelling-ambitions-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2009-05-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "knights-of-the-old-republic-41-dueling-ambitions-part-3",
+  "title": "Knights of the Old Republic #41: Dueling Ambitions, Part 3"
+}

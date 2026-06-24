@@ -6,14 +6,9 @@
       "name": "Claudia Gray",
       "role": "writer",
       "slug": "claudia-gray"
-    },
-    {
-      "name": "Daniel Bolling Walsh",
-      "role": "coverArtist",
-      "slug": "daniel-bolling-walsh"
     }
   ],
-  "displayTitle": "Leia, Princess of Alderaan",
+  "displayTitle": "Leia: Princess of Alderaan",
   "editionIds": [
     {
       "type": "isbn10",
@@ -31,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "136802663X",
       "isbn13": "9781368026635",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2017-09-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -3,
     "startYear": -3
   },
   "releaseDate": "2017-09-01T00:00:00.000Z",
@@ -45,5 +40,5 @@
   "releaseStatus": "released",
   "slug": "leia-princess-of-alderaan",
   "synopsis": "For Leia Organa, turning sixteen is more than a measure of the passing of time. A sacred tradition means she is about to declare her loyalty to Alderaan and its people for life.",
-  "title": "Leia, Princess of Alderaan"
+  "title": "Leia: Princess of Alderaan"
 }

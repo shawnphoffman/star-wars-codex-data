@@ -6,12 +6,16 @@
       "name": "Cathy East Dubowski",
       "role": "writer",
       "slug": "cathy-east-dubowski"
+    },
+    {
+      "name": "Paul Dini",
+      "role": "writer",
+      "slug": "paul-dini"
     }
   ],
   "displayTitle": "The Shadow Stone: An Ewok Adventure",
   "format": "book",
   "inUniverseDate": {
-    "endYear": 3,
     "startYear": 3
   },
   "releaseDate": "1986-04-01T00:00:00.000Z",

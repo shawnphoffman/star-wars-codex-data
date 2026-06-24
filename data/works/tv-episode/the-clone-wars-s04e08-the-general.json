@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E08: The General",
+  "displayTitle": "The General",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2011-11-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e08-the-general",
   "synopsis": "General Krell orders Captain Rex and the clone troopers of the 501st Legion to conquer a heavily fortified Umbaran airbase, and will not accept anything less than victory. It is an almost certain suicide mission, unless the clones can use their ingenuity to defeat their new enemy.",
-  "title": "The Clone Wars S04E08: The General"
+  "title": "The General"
 }

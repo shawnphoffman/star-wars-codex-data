@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "note": "Qui-Gon, a young Obi-Wan, and a Jedi's doubts.",
+      "priority": "essential",
+      "workSlug": "master-and-apprentice"
+    },
+    {
+      "note": "Obi-Wan, solo and uncertain.",
+      "priority": "recommended",
+      "workSlug": "padawan"
+    },
+    {
+      "note": "Padmé from queen to senator.",
+      "priority": "recommended",
+      "workSlug": "queens-shadow"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "queens-peril"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "queens-hope"
+    },
+    {
+      "note": "Obi-Wan and Anakin at the war's outset.",
+      "priority": "essential",
+      "workSlug": "brotherhood"
+    },
+    {
+      "note": "Quinlan Vos and Ventress; from unmade Clone Wars episodes.",
+      "priority": "essential",
+      "workSlug": "dark-disciple"
+    },
+    {
+      "note": "Galen Erso and the seeds of the Death Star.",
+      "priority": "essential",
+      "workSlug": "catalyst-a-rogue-one-novel"
+    },
+    {
+      "note": "Between the Clone Wars and Rebels.",
+      "priority": "essential",
+      "workSlug": "ahsoka"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "tarkin"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "lords-of-the-sith"
+    },
+    {
+      "priority": "recommended",
+      "workSlug": "thrawn"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "thrawn-ascendancy-chaos-rising"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "thrawn-ascendancy-greater-good"
+    },
+    {
+      "priority": "optional",
+      "workSlug": "thrawn-ascendancy-lesser-evil"
+    }
+  ],
+  "slug": "prequel-era-reading-order",
+  "summary": "The novels that deepen the prequels and the Clone Wars - from Qui-Gon's heresies to the dawn of the Empire.",
+  "title": "Fall of the Republic - Prequel-Era Novels"
+}

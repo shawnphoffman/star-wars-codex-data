@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S02E07: Wings Of The Master",
+  "displayTitle": "Wings Of The Master",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -4,
     "startYear": -4
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-2",
   "releaseDate": "2015-11-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s02e07-wings-of-the-master",
   "synopsis": "Hera goes on a dangerous mission to acquire a new ship, the B-Wing.",
-  "title": "Rebels S02E07: Wings Of The Master"
+  "title": "Wings Of The Master"
 }

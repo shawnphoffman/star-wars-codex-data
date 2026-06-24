@@ -8,18 +8,18 @@
       "slug": "george-mann"
     }
   ],
-  "displayTitle": "The High Republic: Haunted Starlight",
+  "displayTitle": "Haunted Starlight",
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-03-06T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -228,
     "startYear": -228
   },
   "releaseDate": "2025-03-06T00:00:00.000Z",
@@ -27,5 +27,5 @@
   "releaseStatus": "released",
   "slug": "the-high-republic-haunted-starlight",
   "synopsis": "The Jedi must travel down to where what remains of Starlight Beacon rests at the bottom of the ocean. But they soon discover they’re not alone…",
-  "title": "The High Republic: Haunted Starlight"
+  "title": "Haunted Starlight"
 }

@@ -1,6 +1,13 @@
 {
   "bookType": "yaNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "E.K. Johnston",
+      "role": "writer",
+      "slug": "e-k-johnston"
+    }
+  ],
   "displayTitle": "Queen's Peril",
   "editionIds": [
     {
@@ -19,13 +26,13 @@
       "isPrimary": true,
       "isbn10": "1368077196",
       "isbn13": "9781368077194",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-06-02T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -32,
     "startYear": -32
   },
   "releaseDate": "2020-06-02T00:00:00.000Z",

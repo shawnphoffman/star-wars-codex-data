@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "note": "The war begins.",
+      "priority": "essential",
+      "workSlug": "star-wars-episode-ii-attack-of-the-clones-1"
+    },
+    {
+      "note": "2008 theatrical lead-in.",
+      "priority": "recommended",
+      "workSlug": "the-clone-wars"
+    },
+    {
+      "note": "The heart of the era.",
+      "priority": "essential",
+      "workSlug": "the-clone-wars-series"
+    },
+    {
+      "note": "Side stories for Dooku and Ahsoka.",
+      "priority": "optional",
+      "workSlug": "tales-of-the-jedi"
+    },
+    {
+      "note": "Order 66.",
+      "priority": "essential",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "note": "The immediate aftermath.",
+      "priority": "recommended",
+      "workSlug": "the-bad-batch"
+    }
+  ],
+  "slug": "clone-wars-era-viewing-order",
+  "summary": "The war that broke the Republic, in watch order - the films that bracket it and the animated series that fill the gap.",
+  "title": "The Clone Wars Era"
+}

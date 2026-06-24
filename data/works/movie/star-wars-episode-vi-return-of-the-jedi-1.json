@@ -39,12 +39,14 @@
     "startYear": 4
   },
   "movie": {
-    "movieType": "theatrical"
+    "movieType": "theatrical",
+    "mpaaRating": "pg",
+    "runtimeMinutes": 132
   },
   "releaseDate": "1983-05-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-vi-return-of-the-jedi-1",
-  "synopsis": "In the epic conclusion of the saga, the Empire prepares to crush the Rebellion with a more powerful Death Star while the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts his father Darth Vader in a final climactic duel before the evil Emperor. In the last second, Vader makes a momentous choice: he destroys the Emperor and saves his son. The Empire is finally defeated, the Sith are destroyed, and Anakin Skywalker is thus redeemed. At long last, freedom is restored to the galaxy.",
+  "synopsis": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
   "title": "Episode VI: Return Of The Jedi"
 }

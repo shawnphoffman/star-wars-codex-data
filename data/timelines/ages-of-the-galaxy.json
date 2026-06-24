@@ -1,0 +1,85 @@
+{
+  "entries": [
+    {
+      "kind": "divider",
+      "label": "The High Republic",
+      "markerDate": {
+        "startYear": -232
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-high-republic-light-of-the-jedi"
+    },
+    {
+      "kind": "divider",
+      "label": "Fall of the Jedi",
+      "markerDate": {
+        "endYear": -19,
+        "startYear": -32
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-iii-revenge-of-the-sith"
+    },
+    {
+      "kind": "divider",
+      "label": "Reign of the Empire",
+      "markerDate": {
+        "endYear": -1,
+        "startYear": -19
+      }
+    },
+    {
+      "kind": "event",
+      "label": "The Galactic Empire is founded",
+      "markerDate": {
+        "startYear": -19
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "solo-a-star-wars-story"
+    },
+    {
+      "kind": "divider",
+      "label": "Age of Rebellion",
+      "markerDate": {
+        "endYear": 4,
+        "startYear": -1
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "star-wars-episode-iv-a-new-hope-7"
+    },
+    {
+      "kind": "divider",
+      "label": "The New Republic",
+      "markerDate": {
+        "endYear": 28,
+        "startYear": 5
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "the-mandalorian"
+    },
+    {
+      "kind": "divider",
+      "label": "Rise of the First Order",
+      "markerDate": {
+        "endYear": 35,
+        "startYear": 28
+      }
+    },
+    {
+      "kind": "work",
+      "workSlug": "episode-7"
+    }
+  ],
+  "slug": "ages-of-the-galaxy",
+  "summary": "The whole saga at a glance - every era from the High Republic to the First Order, anchored by one defining story apiece. A map, not a marathon.",
+  "title": "Ages of the Galaxy"
+}

@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S01E12: The Gungan General",
+  "displayTitle": "The Gungan General",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -21,
     "startYear": -21
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-1",
   "releaseDate": "2009-01-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s01e12-the-gungan-general",
   "synopsis": "While negotiating Count Dooku's ransom, Anakin and Obi-Wan are taken prisoner. The Jedi and Sith form an unlikely alliance in a bid to escape, with Jar Jar Binks as their only hope.",
-  "title": "The Clone Wars S01E12: The Gungan General"
+  "title": "The Gungan General"
 }

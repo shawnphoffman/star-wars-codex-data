@@ -6,11 +6,6 @@
       "name": "Justina Ireland",
       "role": "writer",
       "slug": "justina-ireland"
-    },
-    {
-      "name": "Annie Wu",
-      "role": "artist",
-      "slug": "annie-wu"
     }
   ],
   "displayTitle": "Lando's Luck",
@@ -26,13 +21,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781368043489",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2018-10-02T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -11,
     "startYear": -11
   },
   "releaseDate": "2018-10-02T00:00:00.000Z",

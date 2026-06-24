@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I Adventures 1: Search for the Lost Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101387"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101387",
+      "kind": "print",
+      "onsale": "1999-09-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "releaseDate": "1999-09-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "episode-i-adventures-1-search-for-the-lost-jedi-1999",
+  "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it’s too late?",
+  "title": "Episode I Adventures 1: Search for the Lost Jedi"
+}

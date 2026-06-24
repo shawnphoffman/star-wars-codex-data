@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S04E11: Kidnapped",
+  "displayTitle": "Kidnapped",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-4",
   "releaseDate": "2011-11-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s04e11-kidnapped",
   "synopsis": "Zygerrian slavers are behind the sudden disappearance of an entire colony of people on the planet Kiros. As Anakin and Ahsoka rush to defuse a series of bombs planted by the slavers, Obi-Wan must fight with their imposing leader.",
-  "title": "The Clone Wars S04E11: Kidnapped"
+  "title": "Kidnapped"
 }

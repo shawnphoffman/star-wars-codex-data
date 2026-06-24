@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    }
+  ],
+  "displayTitle": "Crimson Empire III: Empire Lost #4",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 13
+  },
+  "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2012-02-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-iii-empire-lost-2011-4",
+  "title": "Crimson Empire III: Empire Lost #4"
+}

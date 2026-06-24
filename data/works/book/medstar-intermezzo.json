@@ -1,10 +1,21 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    },
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
   "displayTitle": "MedStar: Intermezzo",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -20,
     "startYear": -20
   },
   "releaseDate": "2005-07-20T00:00:00.000Z",

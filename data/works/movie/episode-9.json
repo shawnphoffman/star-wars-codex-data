@@ -30,6 +30,9 @@
   "displayTitle": "Episode IX: The Rise of Skywalker",
   "era": "riseOfTheFirstOrder",
   "format": "movie",
+  "inUniverseDate": {
+    "startYear": 35
+  },
   "movie": {
     "movieType": "theatrical",
     "runtimeMinutes": 142

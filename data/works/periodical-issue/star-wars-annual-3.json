@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Latour",
+      "role": "writer",
+      "slug": "jason-latour"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "artist",
+      "slug": "michael-walsh"
+    }
+  ],
+  "displayTitle": "Star Wars (2015) Annual 3",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "satr-wars-vol-5",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-annual-3",
+  "synopsis": "The Rebel Alliance is on the lookout for a new secret base!\nRebellion leader Princess Leia goes with Han Solo to scope out a secret hideout only he knows…\n…as well as the group of killers who want him dead!",
+  "title": "Star Wars (2015) Annual 3"
+}

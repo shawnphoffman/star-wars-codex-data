@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    }
+  ],
+  "displayTitle": "Age Of Rebellion: Boba Fett #1",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "parentWorkSlug": "aor-villans",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2019-05-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "age-of-rebellion-boba-fett-1-2",
+  "synopsis": "Bounty Hunters like Boba Fett are in it for the money, not the morality. But this issue shows Boba going after the bounty on another hunter whose cruelty he finds despicable. Fett goes toe-to-toe with none other than Zingo Gambit…",
+  "title": "Age Of Rebellion: Boba Fett #1"
+}

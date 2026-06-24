@@ -1,0 +1,38 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Bisson",
+      "role": "writer",
+      "slug": "terry-bisson"
+    }
+  ],
+  "displayTitle": "Boba Fett: The Fight to Survive",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439548809"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439548809",
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "boba-fett-the-fight-to-survive",
+  "synopsis": "When young Boba Fett finds himself completely alone in the galaxy, he must use the skills and lessons his father taught him to stay alive.",
+  "title": "Boba Fett: The Fight to Survive"
+}

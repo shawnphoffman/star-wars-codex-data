@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Duane Swierczynski",
+      "role": "writer",
+      "slug": "duane-swierczynski"
+    },
+    {
+      "name": "Fernando Blanco",
+      "role": "artist",
+      "slug": "fernando-blanco"
+    },
+    {
+      "name": "Julian Torino Tedesco",
+      "role": "artist",
+      "slug": "julian-torino-tedesco"
+    }
+  ],
+  "displayTitle": "Rogue One - Cassian & K-2SO Special 1",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "parentWorkSlug": "rogue-one-graphic-novel-adaptation",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2017-08-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rogue-one-cassian-k2so-special",
+  "synopsis": "Rogue One introduced two dynamic partners to the Rebel Alliance: a morally grey spy who will do whatever it takes to get the job done and a former imperial spy Droid who says wherever is on his mind without a second thought about how his painfully honest remarks will be received. This comic is the story of how their partnership began. Looking forward to the new Cassian and K2 Disney+ TV show? Start here!",
+  "title": "Rogue One - Cassian & K-2SO Special 1"
+}

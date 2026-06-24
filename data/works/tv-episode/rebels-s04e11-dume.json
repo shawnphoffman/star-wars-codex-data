@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "Rebels S04E11: DUME",
+  "displayTitle": "DUME",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -1,
     "startYear": -1
   },
-  "parentWorkSlug": "rebels",
+  "parentWorkSlug": "rebels-season-4",
   "releaseDate": "2018-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-s04e11-dume",
   "synopsis": "Reeling from a devastating loss, the Ghost Crew rallies together to find a new purpose and resolve.",
-  "title": "Rebels S04E11: DUME"
+  "title": "DUME"
 }

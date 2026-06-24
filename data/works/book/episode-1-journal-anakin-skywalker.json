@@ -21,13 +21,14 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780590520935",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "1999-05-01T00:00:00.000Z"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "endYear": -32,
-    "startYear": -32
+    "startYear": -3
   },
   "releaseDate": "1999-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",

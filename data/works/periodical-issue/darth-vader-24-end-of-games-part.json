@@ -1,0 +1,42 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "artist",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "artist",
+      "slug": "edgar-delgado"
+    }
+  ],
+  "displayTitle": "Darth Vader (2015) #24: End of Games, Part V",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "parentWorkSlug": "darth-vader-volume-4-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic",
+    "type": "singleIssue"
+  },
+  "releaseDate": "2016-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-24-end-of-games-part",
+  "synopsis": "Vader is lost in his inner mindscape, lost in visions of the Force! Is he truly more machine now than man? Or can he fight his way back from the brink?",
+  "title": "Darth Vader (2015) #24: End of Games, Part V"
+}

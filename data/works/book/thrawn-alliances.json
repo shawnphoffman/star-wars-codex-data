@@ -1,13 +1,33 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Thrawn: Alliances",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "052548048X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780525480488"
+    }
+  ],
   "editions": [
     {
       "extent": 342,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "052548048X",
+      "isbn13": "9780525480488",
+      "kind": "print",
+      "onsale": "2018-07-24T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

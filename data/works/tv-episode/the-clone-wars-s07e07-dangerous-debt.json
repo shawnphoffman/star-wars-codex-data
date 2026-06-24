@@ -1,17 +1,16 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Clone Wars S07E07: Dangerous Debt",
+  "displayTitle": "Dangerous Debt",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {
-    "endYear": -19,
     "startYear": -19
   },
-  "parentWorkSlug": "the-clone-wars-series",
+  "parentWorkSlug": "the-clone-wars-season-7",
   "releaseDate": "2020-04-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-s07e07-dangerous-debt",
   "synopsis": "Taken prisoner by the Pykes, Ahsoka and the Martez sisters attempt to escape.",
-  "title": "The Clone Wars S07E07: Dangerous Debt"
+  "title": "Dangerous Debt"
 }
