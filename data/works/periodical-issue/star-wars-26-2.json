@@ -24,10 +24,9 @@
     "endYear": 0,
     "startYear": -33
   },
-  "parentWorkSlug": "satr-wars-vol-5",
+  "parentWorkSlug": "star-wars-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2017-01-25T00:00:00.000Z",
   "releaseDisplayState": "released",

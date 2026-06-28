@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 4
   },
-  "parentWorkSlug": "dark-droids-trade-paperback",
+  "parentWorkSlug": "dark-droids",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2023-11-15T00:00:00.000Z",
   "releaseDisplayState": "released",

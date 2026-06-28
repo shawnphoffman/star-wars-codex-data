@@ -33,10 +33,9 @@
   "inUniverseDate": {
     "startYear": -11
   },
-  "parentWorkSlug": "lando-double-or-nothing-gn",
+  "parentWorkSlug": "lando-double-or-nothing",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2018-07-25T00:00:00.000Z",
   "releaseDisplayState": "released",

@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": -22
   },
-  "parentWorkSlug": "omnibus-boba-fett",
+  "parentWorkSlug": "boba-fett",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2003-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",

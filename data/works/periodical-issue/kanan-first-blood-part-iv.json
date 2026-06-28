@@ -44,10 +44,9 @@
     "endYear": -5,
     "startYear": -22
   },
-  "parentWorkSlug": "kanan-volume-2-first-blood-graphic-novel",
+  "parentWorkSlug": "kanan",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2016-01-27T00:00:00.000Z",
   "releaseDisplayState": "released",

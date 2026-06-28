@@ -43,10 +43,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "darth-vader-volume-2-graphic-novel",
+  "parentWorkSlug": "darth-vader-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2015-02-25T00:00:00.000Z",
   "releaseDisplayState": "released",

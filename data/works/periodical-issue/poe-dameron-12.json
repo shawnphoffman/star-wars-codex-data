@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 34
   },
-  "parentWorkSlug": "poe-dameron-volume-2",
+  "parentWorkSlug": "poe-dameron",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2017-03-15T00:00:00.000Z",
   "releaseDisplayState": "released",

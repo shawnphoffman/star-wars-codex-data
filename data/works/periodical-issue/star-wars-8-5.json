@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "star-wars-vol-3",
+  "parentWorkSlug": "star-wars-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2015-11-18T00:00:00.000Z",
   "releaseDisplayState": "released",

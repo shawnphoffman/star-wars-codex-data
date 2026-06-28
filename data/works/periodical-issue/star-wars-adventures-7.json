@@ -48,10 +48,9 @@
   "inUniverseDate": {
     "startYear": -2
   },
-  "parentWorkSlug": "star-wars-adventures-vol-5",
+  "parentWorkSlug": "star-wars-adventures-2017",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2018-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",

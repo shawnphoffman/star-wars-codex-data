@@ -33,10 +33,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "princess-leia-graphic-novel",
+  "parentWorkSlug": "princess-leia",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2015-03-04T00:00:00.000Z",
   "releaseDisplayState": "released",

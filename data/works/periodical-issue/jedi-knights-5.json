@@ -2,10 +2,9 @@
   "canonStatus": "other",
   "displayTitle": "Jedi Knights #5",
   "format": "periodicalIssue",
-  "parentWorkSlug": "star-wars-jedi-knights-vol-2",
+  "parentWorkSlug": "jedi-knights",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "other"
+    "publicationKind": "comic"
   },
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "rebellion-volume-3",
+  "parentWorkSlug": "rebellion",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2008-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",

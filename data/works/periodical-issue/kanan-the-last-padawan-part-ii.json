@@ -44,10 +44,9 @@
     "endYear": -5,
     "startYear": -19
   },
-  "parentWorkSlug": "kanan-volume-1-the-last-padwan-graphic-novel",
+  "parentWorkSlug": "kanan",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2015-05-06T00:00:00.000Z",
   "releaseDisplayState": "released",

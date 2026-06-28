@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": 2
   },
-  "parentWorkSlug": "classic-star-wars-volume-1",
+  "parentWorkSlug": "classic-star-wars",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "1994-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",

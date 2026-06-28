@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "dark-times-volume-4",
+  "parentWorkSlug": "dark-times",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2010-06-30T00:00:00.000Z",
   "releaseDisplayState": "released",

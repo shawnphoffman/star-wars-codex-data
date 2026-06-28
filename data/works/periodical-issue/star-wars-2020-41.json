@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 4
   },
-  "parentWorkSlug": "star-wars-2020-vol-05-trade-paperback",
+  "parentWorkSlug": "star-wars-2020",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2023-12-06T00:00:00.000Z",
   "releaseDisplayState": "released",

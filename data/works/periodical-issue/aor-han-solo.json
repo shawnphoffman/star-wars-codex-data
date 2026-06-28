@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "aor-heroes",
+  "parentWorkSlug": "age-of-rebellion",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2019-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",

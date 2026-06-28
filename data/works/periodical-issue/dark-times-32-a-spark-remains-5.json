@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "dark-times-volume-6",
+  "parentWorkSlug": "dark-times",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2013-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",

@@ -1,23 +1,34 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Jody Houser",
       "role": "writer",
       "slug": "jody-houser"
+    },
+    {
+      "name": "Ig Guara",
+      "role": "penciler",
+      "slug": "ig-guara"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
     }
   ],
   "displayTitle": "TIE Fighter",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
-    "startYear": 3
+    "startYear": 4
   },
   "periodical": {
-    "imprint": "Marvel Comics",
-    "publicationKind": "comic",
-    "type": "other"
+    "imprint": "Marvel",
+    "pageCount": 118,
+    "publicationKind": "comic"
   },
-  "releaseDate": "1994-07-01T00:00:00.000Z",
+  "releaseDate": "2019-10-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tie-fighter",

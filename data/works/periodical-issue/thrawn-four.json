@@ -19,10 +19,9 @@
     "endYear": -2,
     "startYear": -14
   },
-  "parentWorkSlug": "thrawn-graphic-novel",
+  "parentWorkSlug": "thrawn-2",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2018-05-09T00:00:00.000Z",
   "releaseDisplayState": "released",

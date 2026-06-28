@@ -43,6 +43,10 @@
   "inUniverseDate": {
     "startYear": 3
   },
+  "movie": {
+    "mpaaRating": "pg",
+    "runtimeMinutes": 124
+  },
   "releaseDate": "1980-05-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

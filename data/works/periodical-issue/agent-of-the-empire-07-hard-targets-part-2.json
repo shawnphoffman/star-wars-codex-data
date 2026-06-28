@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": -3
   },
-  "parentWorkSlug": "agent-of-the-empire-volume-2",
+  "parentWorkSlug": "agent-of-the-empire",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2012-11-21T00:00:00.000Z",
   "releaseDisplayState": "released",

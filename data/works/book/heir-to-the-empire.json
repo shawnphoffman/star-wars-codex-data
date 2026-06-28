@@ -17,6 +17,12 @@
   ],
   "editions": [
     {
+      "extent": 468,
+      "imprint": "Ballantine Books",
+      "isPrimary": false,
+      "kind": "print"
+    },
+    {
       "extent": 361,
       "imprint": "Bantam Spectra",
       "isPrimary": true,

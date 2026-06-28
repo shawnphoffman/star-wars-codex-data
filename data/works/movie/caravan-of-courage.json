@@ -11,19 +11,32 @@
       "name": "Bob Carrau",
       "role": "writer",
       "slug": "bob-carrau"
+    },
+    {
+      "name": "John Korty",
+      "role": "director",
+      "slug": "john-korty"
+    },
+    {
+      "name": "Peter Bernstein",
+      "role": "composer",
+      "slug": "peter-bernstein"
     }
   ],
-  "displayTitle": "Caravan Of Courage",
+  "displayTitle": "Caravan of Courage: An Ewok Adventure",
   "format": "movie",
   "inUniverseDate": {
     "startYear": 3
   },
   "movie": {
-    "movieType": "directToVideo"
+    "movieType": "tvMovie",
+    "mpaaRating": "unrated",
+    "runtimeMinutes": 97
   },
   "releaseDate": "1984-11-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "caravan-of-courage",
-  "title": "Caravan Of Courage"
+  "synopsis": "Wicket the Ewok and his friends agree to help two shipwrecked human children, Mace and Cindel, on a quest to find their parents.",
+  "title": "Caravan of Courage: An Ewok Adventure"
 }

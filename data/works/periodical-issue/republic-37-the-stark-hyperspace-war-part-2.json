@@ -13,10 +13,9 @@
     "endYear": -30,
     "startYear": -44
   },
-  "parentWorkSlug": "omnibus-clone-wars-republic-goes-to-war",
+  "parentWorkSlug": "republic-1999",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2001-12-19T00:00:00.000Z",
   "releaseDisplayState": "released",

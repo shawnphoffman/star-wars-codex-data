@@ -38,10 +38,9 @@
   "inUniverseDate": {
     "startYear": -22
   },
-  "parentWorkSlug": "star-wars-adventures-2017-trade-paperback-volume-01-heroes-of-the-galaxy",
+  "parentWorkSlug": "star-wars-adventures-2017",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2017-09-06T00:00:00.000Z",
   "releaseDisplayState": "released",

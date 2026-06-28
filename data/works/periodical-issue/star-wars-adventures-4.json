@@ -53,10 +53,9 @@
   "inUniverseDate": {
     "startYear": 1
   },
-  "parentWorkSlug": "star-wars-adventures-vol-4",
+  "parentWorkSlug": "star-wars-adventures-2017",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2017-11-29T00:00:00.000Z",
   "releaseDisplayState": "released",

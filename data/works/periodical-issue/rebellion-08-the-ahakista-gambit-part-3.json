@@ -17,10 +17,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "rebellion-volume-2",
+  "parentWorkSlug": "rebellion",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2007-07-11T00:00:00.000Z",
   "releaseDisplayState": "released",

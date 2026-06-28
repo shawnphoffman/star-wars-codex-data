@@ -18,12 +18,11 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "crimson-reign-trade-paperback",
+  "parentWorkSlug": "crimson-reign",
   "periodical": {
     "imprint": "Marvel",
     "pageCount": 23,
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2022-03-09T00:00:00.000Z",
   "releaseDisplayState": "released",

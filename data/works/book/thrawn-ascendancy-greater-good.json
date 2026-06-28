@@ -11,6 +11,10 @@
   "displayTitle": "Thrawn Ascendancy: Greater Good",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593158296"
+    },
+    {
       "type": "isbn13",
       "value": "9780593158296"
     }
@@ -20,6 +24,7 @@
       "extent": 416,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593158296",
       "isbn13": "9780593158296",
       "kind": "print",
       "onsale": "2021-04-27T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "thrawn-ascendancy-greater-good",
-  "synopsis": "Thrawn may have won his previous battle, but the Chiss Ascendancy will soon depend on him more than ever before.",
+  "synopsis": "When a mysterious enemy strikes at the very foundation of the Ascendancy by widening the rifts between the Nine Ruling Families and Forty Great Houses, Thrawn and his allies must decide what matters most--the security of their family or the survival of the Ascendancy itself.",
   "title": "Thrawn Ascendancy: Greater Good"
 }

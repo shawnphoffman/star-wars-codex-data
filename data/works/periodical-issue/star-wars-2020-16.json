@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "star-wars-2020-vol-03-trade-paperback",
+  "parentWorkSlug": "star-wars-2020",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2021-08-18T00:00:00.000Z",
   "releaseDisplayState": "released",

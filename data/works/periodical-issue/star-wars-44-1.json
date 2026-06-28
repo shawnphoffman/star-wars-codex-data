@@ -38,10 +38,9 @@
   "inUniverseDate": {
     "startYear": 2
   },
-  "parentWorkSlug": "star-wars-vol-8",
+  "parentWorkSlug": "star-wars-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2018-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",

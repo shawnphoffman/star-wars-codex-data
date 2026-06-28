@@ -30,6 +30,21 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Joseph Williams",
+      "role": "writer",
+      "slug": "joseph-williams"
+    },
+    {
+      "name": "Annie Arbogast",
+      "role": "writer",
+      "slug": "annie-arbogast"
+    },
+    {
+      "name": "Ben Burtt",
+      "role": "writer",
+      "slug": "ben-burtt"
     }
   ],
   "displayTitle": "Episode VI: Return Of The Jedi",

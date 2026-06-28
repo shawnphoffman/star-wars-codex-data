@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": -1
   },
-  "parentWorkSlug": "target-vader-7",
+  "parentWorkSlug": "target-vader",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2019-07-03T00:00:00.000Z",
   "releaseDisplayState": "released",

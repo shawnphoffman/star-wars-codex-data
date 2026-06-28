@@ -15,6 +15,11 @@
       "name": "George Lucas",
       "role": "writer",
       "slug": "george-lucas"
+    },
+    {
+      "name": "Rick McCallum",
+      "role": "producer",
+      "slug": "rick-mccallum"
     }
   ],
   "displayTitle": "Episode I: The Phantom Menace",
@@ -32,6 +37,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-i-the-phantom-menace",
-  "synopsis": "Stranded on the desert planet Tatooine after rescuing young Queen Amidala from the impending invasion of Naboo, Jedi apprentice Obi-Wan Kenobi and his Jedi Master Qui-Gon Jinn discover nine-year-old Anakin Skywalker, a young slave unusually…",
+  "synopsis": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
   "title": "Episode I: The Phantom Menace"
 }

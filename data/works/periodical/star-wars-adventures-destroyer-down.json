@@ -1,52 +1,15 @@
 {
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Scott Beatty",
-      "role": "writer",
-      "slug": "scott-beatty"
-    },
-    {
-      "name": "Derek Charm",
-      "role": "artist",
-      "slug": "derek-charm"
-    },
-    {
-      "name": "Jon Sommariva",
-      "role": "artist",
-      "slug": "jon-sommariva"
-    },
-    {
-      "name": "Sean Parsons",
-      "role": "artist",
-      "slug": "sean-parsons"
-    },
-    {
-      "name": "Tom B. Long",
-      "role": "artist",
-      "slug": "tom-b-long"
-    },
-    {
-      "name": "Matt Herms",
-      "role": "artist",
-      "slug": "matt-herms"
-    }
-  ],
-  "displayTitle": "Adventures (2017) Destroyer Down",
+  "displayTitle": "Adventures: Destroyer Down",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
-  "inUniverseDate": {
-    "startYear": 33
-  },
   "periodical": {
     "imprint": "IDW Publishing",
-    "publicationKind": "comic",
-    "type": "graphicNovel"
+    "publicationKind": "comic"
   },
-  "releaseDate": "2017-12-20T00:00:00.000Z",
+  "releaseDate": "2018-11-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-destroyer-down",
-  "synopsis": "On sweltering Jakku in the days before The Force Awakens, explore with Rey as she races to uncover the secrets inside a crashed Star Destroyer!\nSwallowed by the shifting sands, the Imperial Star Destroyer Spectral has been lost for two decades, giving rise to rumors of hauntings and buried treasure. But an epic sandstorm has revealed the ruins of the starship, and renowned scavenger Rey now leads the race to claim whatever lies within!\nContains:\nMain story: \"Destroyer Down\"\nBackup story: \"The Ghost Ship\"",
-  "title": "Star Wars Adventures (2017) Destroyer Down"
+  "title": "Star Wars Adventures: Destroyer Down"
 }

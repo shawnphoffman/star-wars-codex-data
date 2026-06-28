@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": -29
   },
-  "parentWorkSlug": "obi-wan-and-anakin",
+  "parentWorkSlug": "obi-wan-anakin",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2016-03-23T00:00:00.000Z",
   "releaseDisplayState": "released",

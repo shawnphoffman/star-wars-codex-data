@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": 2
   },
-  "parentWorkSlug": "splinter-of-the-minds-eye-graphic-novel",
+  "parentWorkSlug": "splinter-of-the-minds-eye",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "1996-04-23T00:00:00.000Z",
   "releaseDisplayState": "released",

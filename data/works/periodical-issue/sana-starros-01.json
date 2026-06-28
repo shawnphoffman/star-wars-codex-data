@@ -18,10 +18,9 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "sana-starros-tpb",
+  "parentWorkSlug": "sana-starros",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2023-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",

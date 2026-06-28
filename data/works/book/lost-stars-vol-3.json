@@ -1,0 +1,29 @@
+{
+  "bookType": "manga",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Yusaku Komiyama",
+      "role": "artist",
+      "slug": "yusaku-komiyama"
+    }
+  ],
+  "displayTitle": "Lost Stars: Vol. 3 (Manga)",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": 5,
+    "startYear": 3
+  },
+  "releaseDate": "2019-10-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-stars-vol-3",
+  "synopsis": "Not a single heartstring is spared in this epic finale to the Lost Stars manga series. Watch the exciting conclusion to the complicated but spicy relationship between Ciena Ree and Thane Kyrell with your very own eyes in an art style that just works so well for this story. Really, whoever came up with this idea is a genius.",
+  "title": "Lost Stars: Vol. 3 (Manga)"
+}

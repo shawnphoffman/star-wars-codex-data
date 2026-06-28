@@ -11,6 +11,10 @@
   "displayTitle": "Thrawn Ascendancy: Chaos Rising",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593157680"
+    },
+    {
       "type": "isbn13",
       "value": "9780593157688"
     }
@@ -20,6 +24,7 @@
       "extent": 400,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593157680",
       "isbn13": "9780593157688",
       "kind": "print",
       "onsale": "2020-09-01T00:00:00.000Z"

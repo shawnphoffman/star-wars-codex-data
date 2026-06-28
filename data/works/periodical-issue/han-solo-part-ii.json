@@ -38,10 +38,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "han-solo-graphic-novel",
+  "parentWorkSlug": "han-solo",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2016-07-06T00:00:00.000Z",
   "releaseDisplayState": "released",

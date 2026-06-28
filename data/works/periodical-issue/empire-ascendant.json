@@ -38,10 +38,9 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "star-wars-vol-9",
+  "parentWorkSlug": "star-wars-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2019-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",

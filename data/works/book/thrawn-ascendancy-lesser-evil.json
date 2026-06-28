@@ -11,15 +11,20 @@
   "displayTitle": "Thrawn Ascendancy: Lesser Evil",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593158326"
+    },
+    {
       "type": "isbn13",
       "value": "9780593158326"
     }
   ],
   "editions": [
     {
-      "extent": 576,
+      "extent": 560,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593158326",
       "isbn13": "9780593158326",
       "kind": "print",
       "onsale": "2021-11-16T00:00:00.000Z"

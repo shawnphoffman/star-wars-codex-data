@@ -4,8 +4,7 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
-    "publicationKind": "magazine",
-    "type": "singleIssue"
+    "publicationKind": "magazine"
   },
   "releaseDate": "2024-10-29T00:00:00.000Z",
   "releaseDisplayState": "released",

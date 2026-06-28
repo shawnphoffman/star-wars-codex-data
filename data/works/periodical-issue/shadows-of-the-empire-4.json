@@ -12,10 +12,9 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "shadows-of-the-empire-graphic-novel",
+  "parentWorkSlug": "shadows-of-the-empire",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "1996-08-07T00:00:00.000Z",
   "releaseDisplayState": "released",

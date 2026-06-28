@@ -25,6 +25,21 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "J.J. Abrams",
+      "role": "director",
+      "slug": "j-j-abrams"
+    },
+    {
+      "name": "Derek Connolly",
+      "role": "writer",
+      "slug": "derek-connolly"
+    },
+    {
+      "name": "Colin Trevorrow",
+      "role": "writer",
+      "slug": "colin-trevorrow"
     }
   ],
   "displayTitle": "Episode IX: The Rise of Skywalker",
@@ -35,12 +50,13 @@
   },
   "movie": {
     "movieType": "theatrical",
+    "mpaaRating": "pg13",
     "runtimeMinutes": 142
   },
   "releaseDate": "2019-12-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-9",
-  "synopsis": "Lucasfilm and director J.J. Abrams join forces once again to take viewers on an epic journey to a galaxy far, far away with Star Wars: The Rise of Skywalker, the riveting conclusion of the seminal Skywalker saga, where new legends will be born and the final battle for freedom is yet to come.",
+  "synopsis": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
   "title": "Episode IX: The Rise of Skywalker"
 }

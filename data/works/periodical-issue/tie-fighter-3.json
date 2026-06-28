@@ -10,6 +10,16 @@
       "name": "Roge Antonio",
       "role": "artist",
       "slug": "roge-antonio"
+    },
+    {
+      "name": "Geraldo Borges",
+      "role": "penciler",
+      "slug": "geraldo-borges"
+    },
+    {
+      "name": "Tommy Lee Edwards",
+      "role": "coverArtist",
+      "slug": "tommy-lee-edwards"
     }
   ],
   "displayTitle": "TIE Fighter #3",
@@ -20,8 +30,9 @@
   },
   "parentWorkSlug": "tie-fighter",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "imprint": "Marvel",
+    "pageCount": 24,
+    "publicationKind": "comic"
   },
   "releaseDate": "2019-06-19T00:00:00.000Z",
   "releaseDisplayState": "released",

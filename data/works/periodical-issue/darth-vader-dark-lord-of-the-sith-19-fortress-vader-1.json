@@ -23,10 +23,9 @@
   "inUniverseDate": {
     "startYear": -14
   },
-  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith-volume-3-graphic-novel",
+  "parentWorkSlug": "darth-vader-dark-lord-of-the-sith",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2018-08-08T00:00:00.000Z",
   "releaseDisplayState": "released",

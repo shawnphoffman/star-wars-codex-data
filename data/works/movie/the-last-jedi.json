@@ -20,6 +20,11 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Rian Johnson",
+      "role": "director",
+      "slug": "rian-johnson"
     }
   ],
   "displayTitle": "Episode VIII: The Last Jedi",

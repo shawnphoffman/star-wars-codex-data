@@ -50,6 +50,8 @@
   },
   "movie": {
     "movieType": "theatrical",
+    "mpaaRating": "pg13",
+    "runtimeMinutes": 133,
     "subtitle": "A Star Wars Story"
   },
   "releaseDate": "2016-12-15T00:00:00.000Z",

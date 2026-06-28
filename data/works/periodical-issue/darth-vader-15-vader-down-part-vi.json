@@ -23,10 +23,9 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "darth-vader-volume-3-graphic-novel",
+  "parentWorkSlug": "darth-vader-2015",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "publicationKind": "comic"
   },
   "releaseDate": "2016-01-06T00:00:00.000Z",
   "releaseDisplayState": "released",

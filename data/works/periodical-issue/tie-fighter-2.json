@@ -20,8 +20,8 @@
   },
   "parentWorkSlug": "tie-fighter",
   "periodical": {
-    "publicationKind": "comic",
-    "type": "singleIssue"
+    "pageCount": 23,
+    "publicationKind": "comic"
   },
   "releaseDate": "2019-05-15T00:00:00.000Z",
   "releaseDisplayState": "released",
