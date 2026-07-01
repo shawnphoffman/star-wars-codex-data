@@ -18,6 +18,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #10: Behemoth from the World Below",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -30,5 +31,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-10",
+  "synopsis": "The Behemoth, a giant reptilian monster, is on the rampage and Han Slo [sic] may be a small village's only hope.",
   "title": "Star Wars (1977) #10: Behemoth from the World Below"
 }

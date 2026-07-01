@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #100",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2008-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-100",
+  "synopsis": "Star Wars Insider 100 is the 100th issue of the Star Wars Insider magazine, and the 8th issue to be published by Titan Magazines. To celebrate the 100th issue, Titan Magazines published the magazine with 100 pages and hosted the \"[http://comp.titanmagazines.com/competitions/Sstar-wars-insider-100-sweepstakes Star Wars Insider 100 Sweepstakes].\"",
   "title": "Insider #100"
 }

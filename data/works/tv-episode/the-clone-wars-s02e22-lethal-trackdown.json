@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Lethal Trackdown",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

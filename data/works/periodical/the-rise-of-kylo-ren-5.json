@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
   "displayTitle": "The Rise of Kylo Ren",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-rise-of-kylo-ren-5",
+  "synopsis": "Star Wars: The Rise of Kylo Ren is a canon comic book miniseries written by Charles Soule and drawn by Will Sliney. The story explores the backstory of Kylo Ren and the Knights of Ren. The four-part series began on December 18, 2019.",
   "title": "The Rise of Kylo Ren"
 }

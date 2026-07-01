@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #188",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-188",
+  "synopsis": "Issue 188 of Star Wars Insider continues our countdown to the closing chapter in the Skywalker Saga, with an in-depth look at the finale of the prequel trilogy-Star Wars: Revenge of the Sith! We also track the history of Star Wars board games, from Kenner's \"Destroy the Death Star\" to Fantasy Flight's immersive RPG; find out more about General Grievous, and bring you a special guide to getting the most out of Star Wars Celebration 2019. With all the latest news, in-depth features, and exclusive interviews, Star Wars Insider is your gateway to a galaxy far, far, away.",
   "title": "Insider #188"
 }

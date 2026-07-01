@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Tyrant's Test",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 16
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tyrants-test",
+  "synopsis": "In the wake of a shattered alliance, the New Republic fights a relentless new enemy in an all-new adventure in the bestselling Star Wars saga&hellip; Faced with an alarming image of Han as a battered hostage of the Yevetha, Chewbacca takes on an urgent mission. Meanwhile, Leia calls upon the Senate to take a stand and eliminate the Yevetha threat&mdash;even at the cost of Han's life. As a former Imperial governor takes his battle to the runaway Qella spaceship, Luke's continuing search for his mother brings him dangerously close to Nil Spaar's deadly forces. And as the Yevetha close in on the ",
   "title": "Tyrant's Test"
 }

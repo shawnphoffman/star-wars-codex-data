@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Apprentice",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-apprentice",
+  "synopsis": "As the New Republic takes devastating losses in the ongoing war with the scattered remnants of the Empire, the galaxy's future depends on three small children&mdash;among them the Jedi twins&mdash;born to incredible powers and perils, as an extraordinary new Star Wars saga unfolds&hellip;. While the New Republic struggles to decide what to do with the deadly Sun Crusher&mdash;a new doomsday weapon stolen from the Empire by Han Solo&mdash;the renegade Imperial Admiral Daala uses her fleet of Star Destroyers to conduct guerrilla warfare on peaceful planets. And now she threatens the watery homew",
   "title": "Dark Apprentice"
 }

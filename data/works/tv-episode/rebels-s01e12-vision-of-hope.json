@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "Charles Murray",
+      "role": "writer",
+      "slug": "charles-murray"
+    }
+  ],
   "displayTitle": "Vision Of Hope",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

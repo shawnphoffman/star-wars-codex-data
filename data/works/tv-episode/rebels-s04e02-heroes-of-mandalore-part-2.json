@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    }
+  ],
   "displayTitle": "Heroes Of Mandalore Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

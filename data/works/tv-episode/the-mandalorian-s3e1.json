@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    }
+  ],
   "displayTitle": "The Apostate",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e1",
+  "synopsis": "The Mandalorian begins an important journey.",
   "title": "The Apostate"
 }

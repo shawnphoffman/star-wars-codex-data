@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rick Famuyiwa",
+      "role": "writer",
+      "slug": "rick-famuyiwa"
+    },
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    }
+  ],
   "displayTitle": "The Prisoner",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-one",
   "releaseDate": "2019-12-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s1e6",
+  "synopsis": "The Mandalorian joins a crew of mercenaries on a dangerous mission.",
   "title": "The Prisoner"
 }

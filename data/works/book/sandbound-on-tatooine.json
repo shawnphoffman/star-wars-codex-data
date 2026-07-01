@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Sandbound on Tatooine",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "sandbound-on-tatooine",
+  "synopsis": "\"Sandbound on Tatooine\" was a short story written for Star Wars Galaxy Magazine 10. It was written by Peter M. Schweighofer and illustrated by Jeff Rebner. Platt Okeefe, the infamous smuggler, had crashed on Tatooine, and encountered a number of local wildlife while escaping from the Dune Sea.",
   "title": "Sandbound on Tatooine"
 }

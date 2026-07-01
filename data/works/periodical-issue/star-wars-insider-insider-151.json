@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #151",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-07-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-151",
+  "synopsis": "With Star Wars Rebels just around the corner we talk to Vanessa Marshall, who plays Hera the Rebel pilot who's always at the center of the action!\nComic creator Jeffrey Brown talks about his latest Star Wars books, Goodnight Darth Vader and revisiting Jedi Academy! The amazing behind the scenes story of Dark Horse Comics' Tales of the Jedi series is revealed and we investigate how Star Wars won geek girl love!",
   "title": "Insider #151"
 }

@@ -1,6 +1,13 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: The Charhound Chase",
   "editionIds": [
     {

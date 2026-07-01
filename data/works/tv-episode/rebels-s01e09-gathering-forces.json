@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Gathering Forces",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

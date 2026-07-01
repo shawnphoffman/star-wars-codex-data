@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels Magazine",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +10,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-magazine-2015",
+  "synopsis": "Star Wars Rebels Magazine (Star Wars Rebels Magazin in Germany and Star Wars Rebels le magazine officiel in France) was a magazine series published by Titan Magazines in the United States, Egmont UK Ltd in the United Kingdom and Panini in Germany. The magazine features information and comics based on the animated television series Star Wars Rebels. The first issue was published in the UK on January 28, 2015,",
   "title": "Star Wars Rebels Magazine"
 }

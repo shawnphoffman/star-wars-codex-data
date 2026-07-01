@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #200",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-02-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-200",
+  "synopsis": "Star Wars Insider #200 is an unmissable homage to all that we love about Star Wars. Anthony Daniels writes a one-off edition of his unique 'Wonder Column' which appeared in the magazine's early issues; cast and creatives involved in the saga reveal their personal reasons for loving the galaxy far, far away; and past Insider Editors reminisce on the last 200 issues.",
   "title": "Insider #200"
 }

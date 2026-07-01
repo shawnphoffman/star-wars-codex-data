@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Force Unleashed II",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-force-unleashed-ii",
+  "synopsis": "As ruthless apprentice to Darth Vader, Starkiller was mercilessly schooled in the ways of the dark side, commanded to exterminate the last of the purged Jedi Order, and groomed for the ultimate Sith power play: assassination of the Emperor. He served without question, killed without remorse, and lost his heart without warning to beautiful Imperial fighter pilot Juno Eclipse, never suspecting that he was just a tool in the schemes of his masters&mdash;until it was too late to escape their lethal betrayal. Juno mourned Starkiller as dead&mdash;but now he is back, purged of all memories and progr",
   "title": "The Force Unleashed II"
 }

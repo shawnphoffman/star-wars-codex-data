@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Trespass",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

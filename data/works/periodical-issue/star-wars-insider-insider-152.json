@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #152",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-152",
+  "synopsis": "Defy Imperial Tyranny with Star Wars Insider 100-Page Star Wars Rebels Special Issue&mdash;guest-edited by the cast and crew of Star Wars Rebels! Secrets of the show will be revealed, including first look episode previews, cast and crew interviews, and behind-the-scenes exclusives directly from the makers of the new Star Wars animated series! Plus: Exclusive! A New Dawn&mdash;creating the stunning cover art for the Rebels prequel novel; Paul Hirsch, the editor of A New Hope and The Empire Strikes Back on piecing together the action; Episode VII The Force Awakens&mdash;The latest updates on the new Star Wars movie, and Tales of the Jedi&mdash;the making of a comic book classic with previously unseen sketches and rare artwork!",
   "title": "Insider #152"
 }

@@ -1,11 +1,13 @@
 {
   "canonStatus": "other",
   "displayTitle": "The Rise of Skywalker #5",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "parentWorkSlug": "the-rise-of-skywalker-comics",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2020-04-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-5",

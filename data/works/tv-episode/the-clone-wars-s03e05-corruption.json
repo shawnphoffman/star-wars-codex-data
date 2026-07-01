@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cameron Litvack",
+      "role": "writer",
+      "slug": "cameron-litvack"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "The Clone Wars S03E05: Corruption",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

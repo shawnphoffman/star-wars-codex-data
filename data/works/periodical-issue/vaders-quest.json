@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    }
+  ],
+  "displayTitle": "Vader's Quest (1999)",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "vaders-quest",
+  "synopsis": "After Darth Vader's narrow escape from the destruction of the Death Star, the Dark Lord is consumed with a desire to find the Force-strong young pilot who fired the fatal shot. For Luke Skywalker represents the heart and soul of the Alliance, and perhaps, for Vader, he represents much, much more. The book's first printing features a foil-stamped logo and special bonus fold-out poster by Gibbons and Angus McKie.",
+  "title": "Vader's Quest (1999)"
+}

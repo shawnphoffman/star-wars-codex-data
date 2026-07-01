@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #71",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2003-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-71",
+  "synopsis": "Star Wars Insider 71 is the seventy-first issue of Star Wars Insider magazine. It was released to newsstands in October 2003. The subscriber-exclusive edition of issue 71 included the fifth volume of Bantha Tracks, the Official Star Wars Fan Club newsletter.",
   "title": "Insider #71"
 }

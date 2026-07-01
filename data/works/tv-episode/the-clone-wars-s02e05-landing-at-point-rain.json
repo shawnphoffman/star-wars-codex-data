@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Larsen",
+      "role": "writer",
+      "slug": "brian-larsen"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Landing at Point Rain",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

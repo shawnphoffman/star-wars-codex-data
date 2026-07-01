@@ -1,12 +1,57 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "artist",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Jo Mi-Gyeong",
+      "role": "artist",
+      "slug": "jo-mi-gyeong"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "artist",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "artist",
+      "slug": "elisa-romboli"
+    }
+  ],
   "displayTitle": "The High Republic Adventures Phase III: The Wedding Spectacular",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-phase-iii-the-wedding-spectacular-2",
+  "synopsis": "Save the date! Guests from across the galaxy are arriving on Eriadu to witness Lula Talisola and Zeen Mrala, the young freedom fighters who are championing the resistance against the Nihil, join hands in marriage. Friends and family from throughout the High Republic will be joining in the celebration of light, life, and love. You won't want to miss it, so RSVP soon! Just know that the dress code calls for ball gowns as well as blaster rifles because war could break out at any moment!",
   "title": "The High Republic Adventures Phase III: The Wedding Spectacular"
 }

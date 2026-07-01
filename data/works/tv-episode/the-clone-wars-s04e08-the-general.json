@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Walter Murch",
+      "role": "director",
+      "slug": "walter-murch"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
   "displayTitle": "The General",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

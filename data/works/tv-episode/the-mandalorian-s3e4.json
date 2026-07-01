@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "director",
+      "slug": "carl-weathers"
+    }
+  ],
   "displayTitle": "The Foundling",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-03-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e4",
+  "synopsis": "Din Djarin returns to the hidden Mandalorian covert.",
   "title": "The Foundling"
 }

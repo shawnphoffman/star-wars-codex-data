@@ -1,12 +1,112 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "The High Republic Adventures",
+      "role": "writer",
+      "slug": "the-high-republic-adventures"
+    },
+    {
+      "name": "Crash and the Crew Do What They Do",
+      "role": "writer",
+      "slug": "crash-and-the-crew-do-what-they-do"
+    },
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "No Stone Unturned",
+      "role": "writer",
+      "slug": "no-stone-unturned"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "First Mission",
+      "role": "writer",
+      "slug": "first-mission"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "The Haul",
+      "role": "writer",
+      "slug": "the-haul"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Set For Life",
+      "role": "writer",
+      "slug": "set-for-life"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    },
+    {
+      "name": "Sam Beck",
+      "role": "artist",
+      "slug": "sam-beck"
+    },
+    {
+      "name": "Jesse Lonergan",
+      "role": "artist",
+      "slug": "jesse-lonergan"
+    },
+    {
+      "name": "Jason Loo",
+      "role": "artist",
+      "slug": "jason-loo"
+    },
+    {
+      "name": "Yael Nathan",
+      "role": "artist",
+      "slug": "yael-nathan"
+    },
+    {
+      "name": "Stefano Simeone",
+      "role": "artist",
+      "slug": "stefano-simeone"
+    }
+  ],
   "displayTitle": "The High Republic Adventures (2021)",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-02-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-2021",
+  "synopsis": "An even longer time ago, in a galaxy far, far away, the adventures continue for Lula and her fellow Padawans in the Republic's golden age! The High Republic is an unexplored period in Star Wars history, set hundreds of years before the events of the Skywalker Saga—when the Jedi were at their height and Master Yoda was much younger, and still training Padawans in the field. It is here where we find Jedi Padawans Farzala and Qort, who are taking a break from the ongoing battle against the dangerous marauders known as the Nihil. As part of a secret mission, they join an aging Jedi Knight on the s",
   "title": "The High Republic Adventures (2021)"
 }

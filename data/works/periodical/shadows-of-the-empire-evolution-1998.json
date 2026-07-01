@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    },
+    {
+      "name": "Ron Randall",
+      "role": "artist",
+      "slug": "ron-randall"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "artist",
+      "slug": "p-craig-russell"
+    }
+  ],
   "displayTitle": "Shadows of the Empire: Evolution",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-evolution-1998",
+  "synopsis": "Star Wars: Shadows of the Empire: Evolution was a sequel to the original story by the author of the Star Wars: Shadows of the Empire novel, Steve Perry. The series was the first foray into comics by the best-selling Perry. The story is set in 4 ABY, which sets it one year after The Empire Strikes Back, and more or less shortly after the events of Return of the Jedi. Xizor, the leader of Black Sun, has been killed by Darth Vader, and Guri, a beautiful Human replica droid and Xizor's personal assassin, is left wondering what her future will hold now that she no longer has anyone to answer to. Th",
   "title": "Shadows of the Empire: Evolution"
 }

@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Dawn of the Jedi: Force War",
+  "era": "dawnOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-war-2013",
+  "synopsis": "Star Wars: Dawn of the Jedi: Force War is a five-issue comic book miniseries that is the third story arc in Star Wars: Dawn of the Jedi, a comic book series published by Dark Horse Comics and written by the creative team of John Ostrander and Jan Duursema. Set one year after the events of the previous story arc, The Prisoner of Bogan, Force War deals with the invasion of the Tython system by the Infinite Empire of the Rakata species. As the miniseries opens, the Rakata have conquered half of the Tython system, and the Je'daii use the Forcesabers&mdash;the dark side weapons of the Rakata&mdash;",
   "title": "Dawn of the Jedi: Force War"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Paradise Snare",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -10
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-paradise-snare",
+  "synopsis": "Before the Star Wars movies, before the titanic battles that freed the galaxy from the iron grip of the Empire, here is the never-before-told story of the young Han Solo. In Book One of this exciting new trilogy, the famed rogue, con man, smuggler, and thief struggles to survive on a sinister world where the chief export is slavery. He was a child without a past, a Corellian street urchin, abandoned, foraging for scraps of food, when the cruel Garris Shrike whisked him away to a nomadic band of spacefaring criminals. Now, years later, chafing under Shrike's sadistic tyranny, driven by dreams o",
   "title": "The Paradise Snare"
 }

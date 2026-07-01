@@ -1,12 +1,32 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Dawn of the Jedi",
   "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dawn-of-the-jedi",
+  "synopsis": "Star Wars: Dawn of the Jedi is a comic book series from Dark Horse Comics, written by John Ostrander and pencilled by Jan Duursema, the creative team behind Dark Horse's critically-acclaimed Star Wars: Legacy series. Dawn of the Jedi is set almost 26,000 years before Star Wars: Episode IV A New Hope, and the series focuses on the Je'daii Order, a group of Force-sensitives on the planet Tython who are the predecessors to the Jedi Order. Aside from the beginning of the first issue, Dawn of the Jedi is primarily set in the year 25,793 BBY, in a time before the polarization of the light and dark s",
   "title": "Dawn of the Jedi"
 }

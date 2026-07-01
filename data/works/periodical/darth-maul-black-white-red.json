@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Benjamin Percy",
+      "role": "writer",
+      "slug": "benjamin-percy"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    }
+  ],
   "displayTitle": "Darth Maul: Black, White & Red",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-04-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "darth-maul-black-white-red",
+  "synopsis": "DARTH MAUL STARS IN HIS VERY OWN HORROR BLOCKBUSTER! A prison ship &ndash; transporting a cult known as the FINAL OCCULTATION &ndash; goes offline, and DARTH MAUL is sent by PALPATINE to investigate. What he finds on board is the stuff of nightmares!!! It's up to him to stop this profoundly dark and unstable force that wishes to bring chaos to the galaxy.",
   "title": "Darth Maul: Black, White & Red"
 }

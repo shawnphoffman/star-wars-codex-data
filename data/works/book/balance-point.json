@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Balance Point",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 26
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "balance-point",
+  "synopsis": "The New Jedi Order: Balance Point was the sixth novel in the New Jedi Order series. It was written by Kathy Tyers and was published by Del Rey on October 31, 2000. Narration for the audio version was performed by Michael Cumpsty.",
   "title": "Balance Point"
 }

@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    }
+  ],
   "displayTitle": "Blood Ties: Boba Fett is Dead",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-boba-fett-is-dead-2012",
+  "synopsis": "Star Wars: Blood Ties is a comic miniseries by Dark Horse Comics focusing on Jango and Boba Fett. It was followed by a sequel miniseries, Star Wars: Blood Ties: Boba Fett is Dead.",
   "title": "Blood Ties: Boba Fett is Dead"
 }

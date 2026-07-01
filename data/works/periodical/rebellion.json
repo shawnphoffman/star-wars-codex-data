@@ -1,11 +1,61 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "artist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "artist",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "artist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Rebellion",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2006-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "rebellion",
   "title": "Rebellion"
 }

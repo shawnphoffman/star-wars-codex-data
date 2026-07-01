@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "yaNovel",
   "canonStatus": "canon",
   "creators": [
     {
@@ -22,6 +22,7 @@
   "inUniverseDate": {
     "startYear": -200
   },
+  "releaseDate": "2020-12-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-vow-of-silver-dawn",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-baby-ewoks-picnic-surprise",
+  "synopsis": "The Baby Ewoks' Picnic Surprise is a 1984 children's book written by Melinda Luke and illustrated by Pat Paris. It was published by Random House.",
   "title": "The Baby Ewoks' Picnic Surprise"
 }

@@ -1,6 +1,29 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "artist",
+      "slug": "federico-dallocchio"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "artist",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Mark Kenna",
+      "role": "artist",
+      "slug": "mark-kenna"
+    }
+  ],
   "displayTitle": "Knight Errant: Aflame",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +32,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010",
+  "synopsis": "It is a time of great darkness in the galaxy. The Republic has been beaten back time and again by the various Sith factions, who for now battle amongst each other in the Outer Rim. Into the chaos comes a group of Jedi Knights, determined to help the innocents caught up in the conflict to the best of their ability. Among them is Kerra Holt, who has only recently knighted, and is now returning to her native territory for the first time since childhood. Now, as she encounters the Sith Lord whose lust for war robbed her of everything, she will be tested in ways she could not have imagined!",
   "title": "Knight Errant: Aflame"
 }

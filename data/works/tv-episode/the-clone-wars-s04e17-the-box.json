@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    },
+    {
+      "name": "Brent V. Friedman",
+      "role": "writer",
+      "slug": "brent-v-friedman"
+    }
+  ],
   "displayTitle": "The Box",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

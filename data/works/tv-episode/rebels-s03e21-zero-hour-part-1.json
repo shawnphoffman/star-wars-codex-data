@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Justin Ridgeway",
+      "role": "director",
+      "slug": "justin-ridgeway"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
   "displayTitle": "Zero Hour Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    }
+  ],
   "displayTitle": "The Bad Batch S01E09: Bounty Lost",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

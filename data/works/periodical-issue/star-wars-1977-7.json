@@ -13,6 +13,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #07: New Planets, New Perils!",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -25,5 +26,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-7",
+  "synopsis": "Han and Chewie head out to pay their debt to Jabba, when they're attacked by pirates!",
   "title": "Star Wars (1977) #07: New Planets, New Perils!"
 }

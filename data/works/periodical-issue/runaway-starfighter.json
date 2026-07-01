@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Runaway Starfighter",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "runaway-starfighter",
+  "synopsis": "The explosive ore of the moon of the planet Themis can provide a valuable power source for the Republic &ndash; or for the Separatists! Some tough negotiations lie in store for our Jedi heroes in the latest issue's comic strip story &ndash; can Anakin and Obi-Wan hold their nerve in the face of provocation and find a way to win over the planet's dignitaries?",
+  "title": "Runaway Starfighter"
+}

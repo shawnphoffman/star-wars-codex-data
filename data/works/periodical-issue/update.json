@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Update",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "update",
+  "synopsis": "\"Update\" is a short comic story that was published in the magazine Star Wars: The Clone Wars Comic 6.53 in 2014.",
+  "title": "Update"
+}

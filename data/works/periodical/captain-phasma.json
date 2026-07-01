@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
   "displayTitle": "Captain Phasma",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

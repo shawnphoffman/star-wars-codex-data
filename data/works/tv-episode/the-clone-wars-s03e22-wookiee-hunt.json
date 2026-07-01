@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bonnie Mark",
+      "role": "writer",
+      "slug": "bonnie-mark"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Wookiee Hunt",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

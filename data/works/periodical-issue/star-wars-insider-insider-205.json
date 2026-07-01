@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #205",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-09-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-205",
+  "synopsis": "INTERVIEW WITH PAUL SUN-HYUNG LEE (STAR WARS: THE MANDALORIAN)\nFeatures brand new Star Wars: The High Republic exclusive fiction.\nDiscover how a new audience reacted to seeing Star Wars: A New Hope for the first time!\nPlus much more!",
   "title": "Insider #205"
 }

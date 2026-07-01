@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Chris Collins",
+      "role": "writer",
+      "slug": "chris-collins"
+    }
+  ],
   "displayTitle": "Revival",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

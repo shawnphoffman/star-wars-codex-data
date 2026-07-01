@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 18: Rogue Squadron to the Rescue",
+  "displayTitle": "Missions 18: Rogue Squadron to the Rescue",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-18-rogue-squadron-to-the-rescue",
+  "synopsis": "The Empire has seized a Corellian Action IV bulk freighter. As a member of Rogue Squadron, you must find out why the Imperial forces have taken the vessel. Then you must stop them. Your mission: to free the freighter's crew from their detention cells, and to infiltrate the hijacked craft. May the Force be with you.",
   "title": "Star Wars Missions 18: Rogue Squadron to the Rescue"
 }

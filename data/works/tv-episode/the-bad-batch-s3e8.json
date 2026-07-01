@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    }
+  ],
   "displayTitle": "Bad Territory",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-03-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e8",
+  "synopsis": "Desperate for intel, Hunter and Wrecker track down a dangerous bounty hunter.",
   "title": "Bad Territory"
 }

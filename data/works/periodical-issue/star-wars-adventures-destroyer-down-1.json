@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Scott Beatty",
+      "role": "writer",
+      "slug": "scott-beatty"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "artist",
+      "slug": "jon-sommariva"
+    },
+    {
+      "name": "Sean Parsons",
+      "role": "artist",
+      "slug": "sean-parsons"
+    }
+  ],
   "displayTitle": "Adventures: Destroyer Down #1",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
@@ -11,5 +33,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-destroyer-down-1",
+  "synopsis": "Swallowed by the shifting sands of Jakku, the Imperial Star Destroyer Spectral has been lost for two decades, giving rise to rumors of hauntings and buried treasure. But an epic sandstorm has revealed the ruins of the starship, and renowned scavenger Rey now leads the race to claim whatever lies within!",
   "title": "Star Wars Adventures: Destroyer Down #1"
 }

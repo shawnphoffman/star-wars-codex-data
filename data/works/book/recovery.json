@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Recovery",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 26
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "recovery",
+  "synopsis": "As the forces of darkness threaten to engulf the galaxy, one last defiant spark remains&hellip;. Though the Yuuzhan Vong were victorious in their savage conquest of the planet Duro, they failed to extract sensitive information from Leia Organa Solo, who now barely clings to life after enduring the enemies' torture. Unless she receives medical attention soon, the badly wounded Princess and former head of the New Republic will surely die. Pursued by bounty hunters, Han Solo begins a race against time, only to find his urgent pleas for help rejected by planet after planet, as the Jedi are blamed ",
   "title": "Recovery"
 }

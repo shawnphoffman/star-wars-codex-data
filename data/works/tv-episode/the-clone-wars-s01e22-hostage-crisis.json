@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Eoghan Mahony",
+      "role": "writer",
+      "slug": "eoghan-mahony"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "Hostage Crisis",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

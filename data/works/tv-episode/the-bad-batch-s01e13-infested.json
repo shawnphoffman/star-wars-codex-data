@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
   "displayTitle": "Infested",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

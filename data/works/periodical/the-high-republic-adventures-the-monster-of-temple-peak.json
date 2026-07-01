@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "artist",
+      "slug": "rachael-stott"
+    }
+  ],
   "displayTitle": "The High Republic Adventures - The Monster of Temple Peak",
+  "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "IDW Publishing",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Shadow Games",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadow-games",
+  "synopsis": "Some games are played for life or death. Javul Charn is the most famous pop star in the galaxy &ndash; and the runaway bride of a violent lieutenant in Black Sun, the crime syndicate commanded by Prince Xizor. Or so Javul says. Soon after Dash Rendar, broke and desperate, agrees to be Javul's bodyguard, he realizes that openness is not her strong suit &ndash; and that murder is stalking her tour. Between the discovery of dead bodies in a cargo hold and an attack by an unidentified warship, Dash and co-pilot Eaden Vrill desperately try to understand who is terrorizing Javul's tour and why. When",
   "title": "Shadow Games"
 }

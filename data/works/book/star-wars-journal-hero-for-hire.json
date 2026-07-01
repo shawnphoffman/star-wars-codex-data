@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "donna-tauscher"
     }
   ],
-  "displayTitle": "Star Wars Journal: Hero for Hire",
+  "displayTitle": "Journal: Hero for Hire",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-journal-hero-for-hire",
+  "synopsis": "In this book, Han Solo records his trials and adventures in Jabba the Hutt's dungeon.",
   "title": "Star Wars Journal: Hero for Hire"
 }

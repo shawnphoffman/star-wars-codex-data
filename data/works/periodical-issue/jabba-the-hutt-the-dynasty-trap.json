@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Woodring",
+      "role": "writer",
+      "slug": "jim-woodring"
+    }
+  ],
+  "displayTitle": "Jabba the Hutt: The Dynasty Trap",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jabba-the-hutt-the-dynasty-trap",
+  "synopsis": "Jabba has got a hot freighter on his hands and he's looking to unload it, quickly and discreetly. Enter Cabrool Nuum, a second-hand ship trader whose reputation for discretion is as long as his many years in the business. Unfortunately for Jabba, the years seem to have caught up with Cabrool, and his murderous offspring have taken advantage of the old man's dotage, just as they plan to take advantage of Jabba's impending arrival! In a seedy corner of the galaxy, on a planet of back-stabbing opportunists, Jabba the Hutt is about to land face first in The Dynasty Trap!",
+  "title": "Jabba the Hutt: The Dynasty Trap"
+}

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Jennifer Muro",
+      "role": "writer",
+      "slug": "jennifer-muro"
+    }
+  ],
   "displayTitle": "BB-8 Bandits",
+  "era": "multiEra",
   "format": "animatedShort",
   "parentWorkSlug": "forces-of-destiny",
   "releaseDate": "2017-07-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny-s01e02-bb-8-bandits",
+  "synopsis": "Rey and BB-8 take off on a speeder to flee scavenger thugs who want to steal BB-8. This episode takes place during Star Wars: Episode VII The Force Awakens between the time BB-8 is rescued by Rey and then taken to Niima Outpost.",
   "title": "BB-8 Bandits"
 }

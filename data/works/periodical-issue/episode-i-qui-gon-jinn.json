@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Episode I: Qui-Gon Jinn",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-qui-gon-jinn",
+  "synopsis": "Though he has been branded a maverick, a troublesome Jedi with a propensity to follow his own aptitude for the Force in all living things, Qui-Gon Jinn is undoubtedly a Jedi Knight of the first order. But his greatest critic is his own student, Obi-Wan Kenobi, and Qui-Gon knows that now is the time for him to prove the strength of his own convictions, for nothing less than the fate of the galaxy rests upon his shoulders!",
+  "title": "Episode I: Qui-Gon Jinn"
+}

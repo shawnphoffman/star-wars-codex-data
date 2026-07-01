@@ -1,11 +1,47 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "artist",
+      "slug": "stphane-roux"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "artist",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "artist",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "artist",
+      "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "artist",
+      "slug": "christian-dalla-vecchia"
+    }
+  ],
   "displayTitle": "Agent of the Empire",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-12-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "agent-of-the-empire",
+  "synopsis": "Star Wars: Agent of the Empire is a comic book series from Dark Horse Comics written by John Ostrander. Set between 3 BBY and 0 BBY, the miniseries follows the Imperial Intelligence agent Jahan Cross and his droid IN-GA 44 whose undercover assignments for the Empire take them across the galaxy to exotic locales, filled with danger and intrigue. The first issue was published on December 14, 2011 and the final issue was published on February 27, 2013. In April 2013, it was revealed that there were no further issues planned for the series. On Twitter, Cavan Scott expressed interest in writing a c",
   "title": "Agent of the Empire"
 }

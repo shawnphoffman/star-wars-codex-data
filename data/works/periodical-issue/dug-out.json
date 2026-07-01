@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Dug Out",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-04-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dug-out",
+  "synopsis": "\"Dug Out\" is a comic story published in Star Wars: The Clone Wars Comic 6.19. The story was continued in \"Outgunned\" in the following issue and later published in Star Wars: The Clone Wars Magazine 6.",
+  "title": "Dug Out"
+}

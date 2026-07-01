@@ -1,6 +1,44 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Ray-Anthony Height",
+      "role": "artist",
+      "slug": "ray-anthony-height"
+    },
+    {
+      "name": "Robert Gill",
+      "role": "artist",
+      "slug": "robert-gill"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    },
+    {
+      "name": "Federico Sabbatini",
+      "role": "artist",
+      "slug": "federico-sabbatini"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "artist",
+      "slug": "victor-olazaba"
+    }
+  ],
   "displayTitle": "Doctor Aphra (2020)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 0

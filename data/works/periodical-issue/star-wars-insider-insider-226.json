@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #226",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-06-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-226",
+  "synopsis": "This issue we're celebrating a quarter century of LEGO Star Wars with an in depth look at how the range was originally devised, and the ins and outs of creating the very latest sets. We also explore the natural history of purrgil, the hyperspace traveling space whales recently seen in Star Wars: Ahsoka. We talk to author Alexander Freed about his storytelling contributions to Star Wars, and actor Amanda Lawrence about her role as Commander Larma D'Acy in the sequel trilogy.\nPlus, we talk to Leslye Headland, the creator of Star Wars: The Acolyte, about the incredible new series currently streaming on Disney+, and there's all-new and exclusive The High Republic fiction by Lydia Kang.",
   "title": "Insider #226"
 }

@@ -1,12 +1,31 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "artist",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "David Messina",
+      "role": "artist",
+      "slug": "david-messina"
+    }
+  ],
   "displayTitle": "Dark Droids: D-Squad",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-droids-d-squad",
   "title": "Dark Droids: D-Squad"
 }

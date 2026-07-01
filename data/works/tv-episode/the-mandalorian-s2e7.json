@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rick Famuyiwa",
+      "role": "writer",
+      "slug": "rick-famuyiwa"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    }
+  ],
   "displayTitle": "The Believer",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-two",
   "releaseDate": "2020-12-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s2e7",
+  "synopsis": "To move against the Empire, the Mandalorian needs the help of an old enemy.",
   "title": "The Believer"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #206",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-11-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-206",
+  "synopsis": "THIS ISSUE FOCUSES ON THE BEST OF BOBA FETT.\nFeatures an exclusive INTERVIEW WITH TEMUERA MORRISON!\nLUCASFILM AT 50 &mdash; Writer: Kristin Baver looks back on Five Decades of Amazing Adventures Includes brand new and exclusive Star Wars: The High Republic Fiction Plus much more!",
   "title": "Insider #206"
 }

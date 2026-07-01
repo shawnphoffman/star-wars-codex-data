@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dan Gilroy",
+      "role": "writer",
+      "slug": "dan-gilroy"
+    },
+    {
+      "name": "Susanna White",
+      "role": "director",
+      "slug": "susanna-white"
+    }
+  ],
   "displayTitle": "The Axe Forgets",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-season-1",
   "releaseDate": "2022-10-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s1e5",
+  "synopsis": "Cassian must carefully navigate the distrust inherent in being the new member of a secret operation.",
   "title": "The Axe Forgets"
 }

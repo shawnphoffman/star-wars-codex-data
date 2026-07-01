@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Arkin",
+      "role": "writer",
+      "slug": "daniel-arkin"
+    },
+    {
+      "name": "Duwayne Dunham",
+      "role": "director",
+      "slug": "duwayne-dunham"
+    }
+  ],
   "displayTitle": "Pursuit of Peace",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Battle At Teth",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-battle-at-teth",
+  "synopsis": "The war between the Galactic Republic and the Separatist army rages on. On the planet of Teth, one brave clone captain leads his troops into battle against an overwhelming droid army. This is his story.",
   "title": "The Clone Wars: Battle At Teth"
 }

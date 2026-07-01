@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Queen of the Empire",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "queen-of-the-empire",
+  "synopsis": "A DANGEROUS EXPERIMENT. A SHOCKING MARRIAGE. AND THE REAPPEARANCE OF AN OLD ENEMY. The battle against the evil Empire rages on as heroic men, women, and aliens of the Rebel Alliance continue their struggle to end the era of darkness. But the ultimate defeat of the Imperial forces could come from within the Empire itself. The Imperial grand moffs are in revolt against the Prophets of the Dark Side. As the Alliance struggles with its latest weapon, Project Decoy, Princess Leia is kidnapped by an old enemy, then menaced by the surprise of another evil foe &ndash; one obsessed with turning Leia to",
   "title": "Queen of the Empire"
 }

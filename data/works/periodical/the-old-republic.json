@@ -1,11 +1,31 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Erickson",
+      "role": "writer",
+      "slug": "daniel-erickson"
+    },
+    {
+      "name": "Jeff Dobson",
+      "role": "artist",
+      "slug": "jeff-dobson"
+    },
+    {
+      "name": "Arnie Jorgensen",
+      "role": "artist",
+      "slug": "arnie-jorgensen"
+    }
+  ],
   "displayTitle": "The Old Republic",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2010-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-old-republic",
   "title": "The Old Republic"
 }

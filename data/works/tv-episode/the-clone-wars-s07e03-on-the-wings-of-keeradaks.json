@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Brent V. Friedman",
+      "role": "writer",
+      "slug": "brent-v-friedman"
+    }
+  ],
   "displayTitle": "On The Wings Of Keeradaks",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

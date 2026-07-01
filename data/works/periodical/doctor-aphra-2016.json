@@ -1,12 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kev Walker",
+      "role": "artist",
+      "slug": "kev-walker"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
   "displayTitle": "Doctor Aphra (2016)",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "doctor-aphra-2016",
+  "synopsis": "Rogue archaeologist Doctor Aphra barely escaped Darth Vader's wrath. If the Dark Lord of the Sith ever learns that she still lives, he'll hunt her to the ends of the galaxy. But for now, it's time for a return to what Aphra does best! With killer droids Triple-Zero and BeeTee-One in tow, she's off in search of the rarest of artifacts — as long as she can stay one step ahead of the Empire, bounty hunters…and just about everyone else! But soon, archaeologist and rebel pilot stand side-by-side when Aphra persuades Luke Skywalker to join her in a journey to the heart of the Screaming Citadel! What",
   "title": "Doctor Aphra (2016)"
 }

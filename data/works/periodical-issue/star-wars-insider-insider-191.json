@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #191",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-191",
+  "synopsis": "Star Wars Insider journey through the Skywalker saga reaches the climax of the original trilogy, as we examine Star Wars: Return of the Jedi! Take a sideways look at the Rebellion era through the lens of Nintendo's Super Star Wars video game trilogy, discover the bio-diversity of the galaxy, and check out the boldest Star Wars tattoos! Plus, the launch of Star Wars Insider Skywalker Saga Survey-your chance to vote for your favorite heroes, villains, events, and more from Episodes I to IX.",
   "title": "Insider #191"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Steven G. Lee",
+      "role": "director",
+      "slug": "steven-g-lee"
+    }
+  ],
   "displayTitle": "Fighter Flight",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

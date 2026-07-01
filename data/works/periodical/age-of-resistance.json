@@ -1,6 +1,54 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "G. Willow Wilson",
+      "role": "writer",
+      "slug": "g-willow-wilson"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "artist",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "artist",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Javier Pina",
+      "role": "artist",
+      "slug": "javier-pina"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "artist",
+      "slug": "cory-hamscher"
+    }
+  ],
   "displayTitle": "Age of Resistance",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

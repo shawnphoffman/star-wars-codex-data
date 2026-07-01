@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Steph Green",
+      "role": "director",
+      "slug": "steph-green"
+    }
+  ],
   "displayTitle": "Toil and Trouble",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-08-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e2",
+  "synopsis": "Ahsoka and General Hera Syndulla travel to New Republic shipyards and make an unexpected discovery.",
   "title": "Toil and Trouble"
 }

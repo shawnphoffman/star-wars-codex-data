@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Tancharoen",
+      "role": "director",
+      "slug": "kevin-tancharoen"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    }
+  ],
   "displayTitle": "The Gathering Storm",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2022-01-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-book-of-boba-fett-s1e4",
+  "synopsis": "Boba Fett partners with Fennec Shand.",
   "title": "The Gathering Storm"
 }

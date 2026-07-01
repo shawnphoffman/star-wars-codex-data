@@ -1,0 +1,22 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Fillbach Brothers",
+      "role": "writer",
+      "slug": "fillbach-brothers"
+    }
+  ],
+  "displayTitle": "Life Below",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "life-below",
+  "synopsis": "\"Life Below\" is a comic story in Star Wars: Clone Wars Adventures Volume 9.",
+  "title": "Life Below"
+}

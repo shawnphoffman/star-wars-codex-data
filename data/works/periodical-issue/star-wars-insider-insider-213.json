@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #213",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-213",
+  "synopsis": "Twenty-five years ago, on a ranch not so far from San Francisco, a famous filmmaker decided he hadn't quite finished with that space movie he'd released two decades previously. It could do with a spruce up, to fix a few shots he'd never been fully happy with and to ensure the film would be enjoyed in tip-top condition for generations to come. And while he was at it, he might as well add a little stardust to its two sequels too! So began the saga of the Star Wars Special Editions. It was a big job for those involved, and this issue we celebrate their dedication to the task with an in-depth chat with some of the creatives that made it possible.\nWe'll also be taking you on a tour of Great Britain's Star Wars filming locations, retrace the turning points in Obi-Wan Kenobi's life from Padawan to Force spirit, and you're certain to enjoy our all-new short story by top Star Wars author George Mann featuring everyone's favorite galactic chef, Dexter Jettster.",
   "title": "Insider #213"
 }

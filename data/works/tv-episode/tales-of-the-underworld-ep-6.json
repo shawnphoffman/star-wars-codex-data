@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "One Good Deed",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
@@ -11,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-underworld-ep-6",
+  "synopsis": "Cad Bane and his gang return home to settle a score.",
   "title": "One Good Deed"
 }

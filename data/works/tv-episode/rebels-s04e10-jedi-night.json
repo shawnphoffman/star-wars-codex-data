@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Jedi Night",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

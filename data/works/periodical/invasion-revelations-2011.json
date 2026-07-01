@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    }
+  ],
   "displayTitle": "Invasion: Revelations",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-revelations-2011",
+  "synopsis": "This new story arc sees the heroes of the Galfridian family step into their new roles as combatants in the middle of the biggest war the Star Wars galaxy has ever seen. Finn Galfridian has already lost his father and his homeworld to the Yuuzhan Vong, and now he offer himself for Jedi training by Master Dray -- who just might be insane. Elsewhere, Finn's mother and sister reach the Imperial outpost of Shramar, where refugees from their home planet hope to reunite with their family members. But a mystery turns dangerous and threatens violent conflict between the New Republic and the Empire!",
   "title": "Invasion: Revelations"
 }

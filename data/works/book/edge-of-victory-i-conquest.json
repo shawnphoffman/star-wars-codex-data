@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Edge of Victory I: Conquest",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 26
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "edge-of-victory-i-conquest",
+  "synopsis": "The dazzling Star Wars space adventure The New Jedi Order continues as Luke Skywalker, Anakin Solo, Mara Jade Skywalker, and others battle their deadliest enemy in a tale of nonstop action, shadowy evil, and spectacular triumph&hellip; No longer content with the destruction the Yuuzhan Vong have already sown, Warmaster Tsavong Lah has demanded the heads of all the Jedi. Now the Jedi Knights are in terrible danger&mdash;and none more so than the young students at the Jedi academy on Yavin 4. Already the sympathizers known as the Peace Brigade are in the Yavin system&mdash;and a Yuuzhan Vong fle",
   "title": "Edge of Victory I: Conquest"
 }

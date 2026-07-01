@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Kenix Kil",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bounty-hunters-kenix-kil",
+  "synopsis": "Kir Kanos, the last surviving member of the Emperor's Royal Guard, is the most wanted man in the galaxy. How do you hide when every bounty hunter in every system is on your trail? For Kanos, the answer is to disguise himself as one of the hunters. From Star Wars: Crimson Empire, the untold tale of how Kir Kanos became bounty hunter Kenix Kil!",
+  "title": "The Bounty Hunters: Kenix Kil"
+}

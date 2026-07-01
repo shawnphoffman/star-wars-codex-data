@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ring-the-witch-and-the-crystal-an-ewok-adventure",
+  "synopsis": "The Ring, the Witch, and the Crystal: An Ewok Adventure was a children's book that was released in 1986 and tied in with the TV movie, Ewoks: The Battle for Endor.",
   "title": "The Ring, the Witch, and the Crystal: An Ewok Adventure"
 }

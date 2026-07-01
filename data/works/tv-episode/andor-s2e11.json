@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Bissell",
+      "role": "writer",
+      "slug": "tom-bissell"
+    },
+    {
+      "name": "Alonso Ruizpalacios",
+      "role": "director",
+      "slug": "alonso-ruizpalacios"
+    }
+  ],
   "displayTitle": "Who Else Knows?",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-05-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e11",
+  "synopsis": "Cassian returns to Coruscant for one last extraction.",
   "title": "Who Else Knows?"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Douglas Petrie",
+      "role": "writer",
+      "slug": "douglas-petrie"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "Death Trap",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

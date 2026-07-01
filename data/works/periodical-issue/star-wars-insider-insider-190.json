@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #190",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-06-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-190",
+  "synopsis": "Featuring the latest news, in-depth articles, and exclusive interviews, Star Wars Insider is your link to a galaxy far, far, away! We reach the mid-point in our exploration of the Skywalker saga, featuring exclusive new interviews with Star Wars: The Empire Strikes Back bad guys Jeremy Bulloch (Boba Fett) and Julian Glover (General Veers), we reveal how Fett and his bounty hunting cohorts were created, and look at the complex relationships between heroes and father figures in Star Wars. Plus, go backstage at Star Wars Celebration Chicago, and discover Bacta-basics with the galaxy's medical tech.",
   "title": "Insider #190"
 }

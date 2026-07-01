@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    },
+    {
+      "name": "Chris Collins",
+      "role": "writer",
+      "slug": "chris-collins"
+    }
+  ],
   "displayTitle": "The Lawless",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

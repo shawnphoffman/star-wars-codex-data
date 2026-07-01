@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Murray",
+      "role": "writer",
+      "slug": "charles-murray"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Together Again",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

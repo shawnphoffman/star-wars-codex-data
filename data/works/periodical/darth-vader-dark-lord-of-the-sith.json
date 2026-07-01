@@ -1,12 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "writer",
+      "slug": "jordie-bellaire"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    }
+  ],
   "displayTitle": "Darth Vader: Dark Lord of the Sith",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "darth-vader-dark-lord-of-the-sith",
+  "synopsis": "The most fearsome villain of all time returns with an all-new series! When Anakin Skywalker fell, both to the pull of the dark side and to the blade of Obi-Wan Kenobi, he rose back up,…",
   "title": "Darth Vader: Dark Lord of the Sith"
 }

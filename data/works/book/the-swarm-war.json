@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Swarm War",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 36
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-swarm-war",
+  "synopsis": "In the explosive conclusion to the Dark Nest trilogy, Luke Skywalker summons the heroes of the New Jedi Order from near and far as the Star Wars galaxy teeters on the edge of eternal war. Yet even the combined powers of the formidable Jedi may not be enough to vanquish the deadly perils confronting them. Luke Skywalker summons Jedi Knights from all over the galaxy as war starts. Yet even the combined might of the Jedi Order may not be enough against the deadly perils confronting them. The Chiss-Killik border confrontration is threatening to engulf the entire galaxy in yet another galactic war.",
   "title": "The Swarm War"
 }

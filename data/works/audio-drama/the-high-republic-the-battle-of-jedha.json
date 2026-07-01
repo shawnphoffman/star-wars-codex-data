@@ -1,0 +1,50 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "The Battle of Jedha",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593597897"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593597903"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593597897",
+      "kind": "print",
+      "onsale": "2023-02-14T00:00:00.000Z"
+    },
+    {
+      "imprint": "Random House Worlds",
+      "isPrimary": false,
+      "isbn13": "9780593597903",
+      "kind": "print",
+      "onsale": "2023-02-14T00:00:00.000Z"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "audioDrama",
+  "inUniverseDate": {
+    "startYear": -382
+  },
+  "releaseDate": "2023-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-the-battle-of-jedha",
+  "synopsis": "The Festival of Balance is normally a peaceful gathering on Jedha, but one religious cult is about to change that.",
+  "title": "The Battle of Jedha"
+}

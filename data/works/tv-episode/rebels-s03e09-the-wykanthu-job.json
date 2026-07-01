@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Nicole Dubuc",
+      "role": "writer",
+      "slug": "nicole-dubuc"
+    }
+  ],
   "displayTitle": "The Wykanthu Job",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

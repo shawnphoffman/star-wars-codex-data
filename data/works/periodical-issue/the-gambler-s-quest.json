@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Rath",
+      "role": "writer",
+      "slug": "robert-rath"
+    }
+  ],
+  "displayTitle": "The Gambler's Quest",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-gambler-s-quest",
+  "synopsis": "\"The Gambler&#39;s Quest\" is a short comic that appeared in Star Wars Kids (1999) 12. It was written and drawn by Robert Rath.",
+  "title": "The Gambler's Quest"
+}

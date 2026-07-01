@@ -1,12 +1,77 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Vita Ayala",
+      "role": "writer",
+      "slug": "vita-ayala"
+    },
+    {
+      "name": "Danny Lore",
+      "role": "writer",
+      "slug": "danny-lore"
+    },
+    {
+      "name": "Sam Maggs",
+      "role": "writer",
+      "slug": "sam-maggs"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Dave Scheidt",
+      "role": "writer",
+      "slug": "dave-scheidt"
+    },
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    },
+    {
+      "name": "Michael Avon Oeming",
+      "role": "artist",
+      "slug": "michael-avon-oeming"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Devaun Dowdy",
+      "role": "artist",
+      "slug": "devaun-dowdy"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "artist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Liana Kangas",
+      "role": "artist",
+      "slug": "liana-kangas"
+    },
+    {
+      "name": "Stefano Simeone",
+      "role": "artist",
+      "slug": "stefano-simeone"
+    }
+  ],
   "displayTitle": "Adventures (2020)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2020-10-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures",
+  "synopsis": "Brand-new middle-grade stories featuring all your favorite characters from the far reaches of the Star Wars galaxy, spanning the entire Skywalker Saga and beyond! To be a Jedi is to project peace and embody order in the face of conflict and chaos. But there's no conflict like the conflict between siblings—and Luke and Leigh [sic] don't even know that's what they are! Can they keep their cool in a feverish fray in Bogano's swamplands? Mace Windu is a Master of the Jedi Order, but even he can be ruffled, when an entire planet goes dark, leading Mace and the clones of Lightning Squad [sic] to a g",
   "title": "Star Wars Adventures (2020)"
 }

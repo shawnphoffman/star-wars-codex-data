@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #23",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-23",
+  "synopsis": "Star Wars Insider 23 is the twenty-third issue of Star Wars Insider magazine. It bills itself as the premiere issue of Star Wars Insider, as the magazine was previously known as The Lucasfilm Fan Club Magazine for issues 1 through 22. Issue 23 was published in Fall 1994.",
   "title": "Insider #23"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "A Quick Salvage Run",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e02",
+  "synopsis": "With the Colossus in need of hyperfuel, Kaz suggests they take it from a downed First Order ship, but the salvage mission is quickly compromised when the First Order shows up.",
   "title": "A Quick Salvage Run"
 }

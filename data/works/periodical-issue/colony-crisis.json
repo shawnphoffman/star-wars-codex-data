@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Colony Crisis",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-06-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "colony-crisis",
+  "synopsis": "\"Colony Crisis\" is a short comic story that was published in the magazine Star Wars: The Clone Wars Comic 6.48 in 2013.",
+  "title": "Colony Crisis"
+}

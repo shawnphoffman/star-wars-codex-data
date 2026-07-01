@@ -1,6 +1,18 @@
 {
   "bookType": "yaNovel",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Heddle",
+      "role": "writer",
+      "slug": "jennifer-heddle"
+    },
+    {
+      "name": "Ksenia Zelentsova",
+      "role": "artist",
+      "slug": "ksenia-zelentsova"
+    }
+  ],
   "displayTitle": "The Clone Wars Anthology: Stories of Light and Dark",
   "era": "fallOfTheJedi",
   "format": "book",

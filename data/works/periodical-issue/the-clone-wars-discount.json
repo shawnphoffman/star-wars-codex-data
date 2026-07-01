@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Discount",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2008-11-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-discount",
+  "synopsis": "The Clone Wars: Discount is a six-page webcomic leading directly into the The Clone Wars episode \"Duel of the Droids.\"",
+  "title": "The Clone Wars: Discount"
+}

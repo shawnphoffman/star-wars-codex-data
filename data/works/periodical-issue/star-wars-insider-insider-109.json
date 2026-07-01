@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #109",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2009-04-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-109",
+  "synopsis": "Star Wars Insider 109 is the 109th issue of the Star Wars Insider magazine, and the 17th issue to be published by Titan Magazines. It features one newsstand cover, in addition to the Exclusive Limited Edition Collectors' Cover.",
   "title": "Insider #109"
 }

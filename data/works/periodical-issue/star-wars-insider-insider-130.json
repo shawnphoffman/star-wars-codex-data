@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #130",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-12-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-130",
+  "synopsis": "This issue Captain Rex takes command as Dee Bradley Baker talks to Insider! Plus: 'Unlearn what you have learned' &ndash; why it's not always wise to follow The Force.",
   "title": "Insider #130"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "canon",
   "creators": [
     {
@@ -16,6 +16,7 @@
       "kind": "print"
     }
   ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

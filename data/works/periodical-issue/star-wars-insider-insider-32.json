@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #32",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-32",
+  "synopsis": "Star Wars Insider 32 is the thirty-second issue of Star Wars Insider magazine. It was published in Winter 1997. Issue 32 celebrated the theatrical release of The Star Wars Trilogy Special Edition as well as the twentieth anniversary of the Star Wars franchise. This issue unveiled a new design for the magazine, including a new Star Wars Insider logo, which lasted through issue 76 in Spring 2004.",
   "title": "Insider #32"
 }

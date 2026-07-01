@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Ackbar's Underwater Army",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-ackbars-underwater-army",
+  "synopsis": "The watery world of Mon Calamari is under attack! Can Captain Ackbar save his species?",
   "title": "The Clone Wars: Ackbar's Underwater Army"
 }

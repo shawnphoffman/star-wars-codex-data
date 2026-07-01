@@ -1,6 +1,14 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Lance Garcia",
+      "role": "writer",
+      "slug": "adam-lance-garcia"
+    }
+  ],
   "displayTitle": "Failing Of The Light",
+  "era": "fallOfTheJedi",
   "format": "shortStory",
   "inUniverseDate": {
     "startYear": -19

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Woodring",
+      "role": "writer",
+      "slug": "jim-woodring"
+    }
+  ],
+  "displayTitle": "Jabba the Hutt: The Gaar Suppoon Hit",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-04-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jabba-the-hutt-the-gaar-suppoon-hit",
+  "synopsis": "Jabba the Hutt lives to negotiate, and the art of the deal is his only discipline. But the goods he trades are the lives of others, and in that line of business you can't lose your head. In this self-contained story, Jabba finds himself bartering with Gaar Suppoon, rumored to be an absolute devil at the negotiating table. There's a valuable lesson to be learned here: In a deal with the devil, you can always refuse. In a deal with Jabba, it's not advised.",
+  "title": "Jabba the Hutt: The Gaar Suppoon Hit"
+}

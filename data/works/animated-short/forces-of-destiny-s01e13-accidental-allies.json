@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Jennifer Muro",
+      "role": "writer",
+      "slug": "jennifer-muro"
+    }
+  ],
   "displayTitle": "Forces Of Destiny S01E13: Accidental Allies",
   "era": "reignOfTheEmpire",
   "format": "animatedShort",

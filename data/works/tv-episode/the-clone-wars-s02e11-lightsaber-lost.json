@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "Lightsaber Lost",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

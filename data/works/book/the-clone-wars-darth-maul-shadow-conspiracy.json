@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -31,7 +31,8 @@
     "startYear": -20
   },
   "releaseDate": "2013-02-04T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-clone-wars-darth-maul-shadow-conspiracy",
   "synopsis": "Darth Maul and Savage Opress put together a plan to lure Jedi Obi-Wan Kenobi to them so that Maul can finally have his revenge.",
   "title": "The Clone Wars: Darth Maul: Shadow Conspiracy"

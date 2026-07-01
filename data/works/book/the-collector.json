@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "yaNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Collector",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-collector",
+  "synopsis": "\"The Collector\" is a short comic story published in Star Wars: The Clone Wars Comic 6.42 and Star Wars: The Clone Wars Magazine 16.",
   "title": "The Collector"
 }

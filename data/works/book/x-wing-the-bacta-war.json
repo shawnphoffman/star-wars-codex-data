@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: The Bacta War",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-the-bacta-war",
+  "synopsis": "While the Alliance fleet mounts a major campaign against a deadly warlord, Ysanne Isard has seized control of Thyferra, intending to use its precious supply of bacta to destabilize and destroy the New Republic. It falls to Rogue Squadron - undermanned, deprived of Alliance support and even weapons - to oppose Isard's dangerous designs, defeat her powerful complement of Star Destroyers, and free Thyferra from her iron rule. But when Isard discovers the Squadron's secret base, its ragtag group of pilots must scramble for survival in a winner-take-all battle against Isard's overwhelming and seemi",
   "title": "X-Wing: The Bacta War"
 }

@@ -1,11 +1,27 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terry Austin",
+      "role": "writer",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "artist",
+      "slug": "chris-sprouse"
+    }
+  ],
   "displayTitle": "Splinter of the Mind's Eye",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1978-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "splinter-of-the-minds-eye",
+  "synopsis": "As a young but already seasoned fighter pilot, Luke Skywalker expected trouble when he volunteered to accompany Princess Leia on a diplomatic mission to Circarpous to enlist their Rebel Underground in the battle against the Empire. But the former farm boy from Tatooine hadn't counted on an unscheduled crash-landing in the swamplands of Mimban&hellip;a landing that destroyed their ships. Nor had he counted on any of the things they would find on that strange planet.\nFirst, unknown to anyone, a secret base of Imperial Stormtroopers was thriving on Mimban. As if that weren't trouble enough, there was the Kaiburr crystal, a mysterious gem that would give the one who possessed it such powers over the Force that he would be all but invincible. In the wrong hands, the crystal could be deadly.\nSo Luke had to find the Kaiburr crystal, and find it fast.\nAccompanied by Artoo Detoo and See Threepio&mdash;his two faithful 'droids&mdash;Luke and the Princess set out for the Temple of Pomojema and for a desperate confrontation deep beneath the surface of an alien world with the most fearsome villain in the galaxy!",
   "title": "Splinter of the Mind's Eye"
 }

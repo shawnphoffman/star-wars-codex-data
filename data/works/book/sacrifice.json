@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Sacrifice",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 40
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "sacrifice",
+  "synopsis": "Legacy of the Force: Sacrifice is a Star Wars Legends novel and the fifth volume in the Star Wars: Legacy of the Force series. It was written by Karen Traviss and first published by Del Rey in hardcover on May 29, 2007. The first paperback edition was released on April 29, 2008 and includes the novella Boba Fett: A Practical Man by Traviss.",
   "title": "Sacrifice"
 }

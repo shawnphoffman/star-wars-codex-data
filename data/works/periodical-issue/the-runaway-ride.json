@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "The Runaway Ride",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-08-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-runaway-ride",
+  "synopsis": "\"The Runaway Ride\" is a short comic story published in Star Wars: The Clone Wars Comic 6.50. It was also later released in the twenty-first edition of the Star Wars: The Clone Wars Magazine.",
+  "title": "The Runaway Ride"
+}

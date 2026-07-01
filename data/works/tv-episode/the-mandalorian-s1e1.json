@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Mandalorian",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-one",
   "releaseDate": "2019-11-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s1e1",
+  "synopsis": "A Mandalorian bounty hunter tracks a target for a well-paying client.",
   "title": "The Mandalorian"
 }

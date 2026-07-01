@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Vincenzo Acunzo",
+      "role": "artist",
+      "slug": "vincenzo-acunzo"
+    }
+  ],
   "displayTitle": "Knight Errant: Escape",
+  "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-escape-2012",
+  "synopsis": "Jedi Knight Kerra Holt's next mission starts with a very personal and ultrasecret investigation! But with the dark realities of Sith territory surrounding her, something unexpected may be taking hold of the lone Jedi! As she takes the first step toward her goal, Kerra knows there will be no turning back!",
   "title": "Knight Errant: Escape"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Peyton Reed",
+      "role": "director",
+      "slug": "peyton-reed"
+    }
+  ],
   "displayTitle": "The Rescue",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-two",
   "releaseDate": "2020-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s2e8",
+  "synopsis": "The Mandalorian and his allies attempt a daring rescue.",
   "title": "The Rescue"
 }

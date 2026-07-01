@@ -1,0 +1,42 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace ½",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "parentWorkSlug": "episodei-the-phantom-menance-hardcover-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-the-phantom-menace-1-2",
+  "synopsis": "\"The adventures you didn't see\" around The Phantom Menace: Anakin/Qui-Gon on Tatooine after the Podrace, Anakin/Obi-Wan at Qui-Gon's funeral, and Jar Jar/Padme traveling to Coruscant aboard the Royal Starship.",
+  "title": "Episode I: The Phantom Menace ½"
+}

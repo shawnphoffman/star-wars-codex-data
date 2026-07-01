@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Charles Murray",
+      "role": "writer",
+      "slug": "charles-murray"
+    }
+  ],
   "displayTitle": "Empire Day",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

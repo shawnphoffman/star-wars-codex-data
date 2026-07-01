@@ -1,12 +1,52 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "artist",
+      "slug": "nico-leon"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "artist",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "artist",
+      "slug": "ibraim-roberson"
+    }
+  ],
   "displayTitle": "Yoda",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "yoda",
+  "synopsis": "Star Wars: Yoda is a canon comic miniseries by Marvel Comics that was written by Cavan Scott, Jody Houser, and Marc Guggenheim, and illustrated by Nico Leon, Luke Ross, and Alessandro Miracolo. The first issue was published on November 23, 2022 and the series concluded with its tenth issue in August 2, 2023.",
   "title": "Yoda"
 }

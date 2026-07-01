@@ -1,5 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Brent V. Friedman",
+      "role": "writer",
+      "slug": "brent-v-friedman"
+    }
+  ],
   "displayTitle": "The Clone Wars S07E02: A Distant Echo",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

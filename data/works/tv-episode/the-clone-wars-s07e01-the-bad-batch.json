@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    },
+    {
+      "name": "Brent V. Friedman",
+      "role": "writer",
+      "slug": "brent-v-friedman"
+    }
+  ],
   "displayTitle": "The Bad Batch",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

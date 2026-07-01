@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "Kidnapped",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

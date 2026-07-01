@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Life and Legend of Obi-Wan Kenobi",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": 9,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-life-and-legend-of-obi-wan-kenobi",
+  "synopsis": "Overlooked as a Padawan, he was to become one of the most revered Masters of all. Sworn to serve the Galactic Republic and the Jedi Order, his own apprentice would bring about their destruction. Powerless to retrieve Darth Vader from the dark side, he would train the only one who could. This is the legendary story of Obi-Wan Kenobi, from his first meeting with Anakin Skywalker to his final meeting with Darth Vader&mdash;and beyond....",
   "title": "The Life and Legend of Obi-Wan Kenobi"
 }

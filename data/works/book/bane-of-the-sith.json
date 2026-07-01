@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Bane of the Sith",
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1000
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "bane-of-the-sith",
+  "synopsis": "\"Bane of the Sith\" is a short story by Kevin J. Anderson originally published in Star Wars Gamer #3, and since released on Hyperspace. It concerns the events surrounding Darth Bane's life shortly after those depicted in Star Wars: Jedi vs. Sith and Darth Bane: Path of Destruction. Bane of the Sith served as Anderson's final contribution to Star Wars Legends.",
   "title": "Bane of the Sith"
 }

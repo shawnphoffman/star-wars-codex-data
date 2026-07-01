@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Ezra W. Nachman",
+      "role": "writer",
+      "slug": "ezra-w-nachman"
+    }
+  ],
   "displayTitle": "A Different Approach",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-02-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e4",
+  "synopsis": "Stranded in dangerous territory, Omega and Crosshair must work together.",
   "title": "A Different Approach"
 }

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom DeFalco",
+      "role": "writer",
+      "slug": "tom-defalco"
+    }
+  ],
+  "displayTitle": "The Professional!",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-professional",
+  "synopsis": "\"The Professional!\" is a short comic story published in Star Wars: The Clone Wars Comic 6.12.",
+  "title": "The Professional!"
+}

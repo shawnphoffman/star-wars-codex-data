@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    }
+  ],
+  "displayTitle": "Ghosts of Vader's Castle #2",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "ghosts-of-vaders-castle",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-09-29T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "ghosts-of-vaders-castle-2",
+  "synopsis": "The epic five week event miniseries Star Wars Adventures: Ghosts of Vader's Castle continues!\nIn issue #2, Lina searches for the now missing Milo and Crater and runs into... Jaxxon! He reveals that he, too, has been having nightmares, but of vicious Wookiees bigger than mountains! It seems the GHOSTS OF VADER'S CASTLE are haunting everyone's dreams…",
+  "title": "Ghosts of Vader's Castle #2"
+}

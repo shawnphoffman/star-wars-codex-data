@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Boba Fett: Agent of Doom",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-agent-of-doom",
+  "synopsis": "Some jobs are too much of a risk for even the best bounty hunters&mdash;but that never stopped Boba Fett! The Imperial \"Death Ship\" Azgoghk, designed for the sole purpose of exterminating alien species, continues its duties long after the Empire has fallen apart. Now it's time for justice and REVENGE. When the last member of a dying species seeks to exact revenge on the Azgoghk and its crew, there's only one man he can turn to&mdash;BOBA FETT!",
+  "title": "Boba Fett: Agent of Doom"
+}

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #162",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-12-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-162",
+  "synopsis": "The movie event on the decade is finally here! What better way to commemorate the release of Star Wars: The Force Awakens than with a spectacular issue of Star Wars Insider celebrating the new blockbuster movie from J.J. Abrams? With three exciting covers to collect, all featuring both new and returning characters from the movie, it's an unmissable guide to the new movie!",
   "title": "Insider #162"
 }

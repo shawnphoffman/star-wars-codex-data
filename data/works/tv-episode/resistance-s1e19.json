@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "No Escape: Part 1",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s1e19",
+  "synopsis": "Kaz, Neeku, Torra devise a plan to free their friends, but it’s upended when Kaz bears witness to the full might of the First Order.",
   "title": "No Escape: Part 1"
 }

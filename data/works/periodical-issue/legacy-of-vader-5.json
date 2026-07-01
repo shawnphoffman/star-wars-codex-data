@@ -1,11 +1,13 @@
 {
   "canonStatus": "other",
   "displayTitle": "Legacy of Vader #5",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "parentWorkSlug": "legacy-of-vader",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2025-02-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-of-vader-5",

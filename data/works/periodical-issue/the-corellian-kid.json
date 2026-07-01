@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "The Corellian Kid",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-corellian-kid",
+  "synopsis": "Han Solo and Chewbacca crash the damaged Millennium Falcon on an Outer Rim planet; the story reveals Han had posed as a bounty hunter (\"the Corellian Kid\") to deceive two Hutt crime lords who'd put a bounty on him, outwitting them and stranding them in the desert.",
+  "title": "The Corellian Kid"
+}

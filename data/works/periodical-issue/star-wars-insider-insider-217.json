@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #217",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-03-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-217",
+  "synopsis": "In #217 we begin our celebrations of the 40th anniversary of the original trilogy's epic conclusion. We explore how Star Wars: Return of the Jedi (1983) seeded themes, ideas, and plots that have unfolded in movies and television series ever since. Speaking of which, we also have interviews with Giancarlo Esposito (Moff Gideon in The Mandalorian), Grant Feely (Luke Skywalker in Obi-Wan Kenobi), and Industrial Light and Magic's illustrious special-effects wizard John Knoll. What with our Andor Season 1 companion, and behind-the-scenes chat with the authors of Star Wars: Timelines, there's a lot packed into this 100-page issue!",
   "title": "Insider #217"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #181",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-181",
+  "synopsis": "In this issue we celebrate the movie's release with a host of Solo-related features, as well as an interview with comics legend Roy Thomas, who wrote the very Han and Chewie comic strips that sustained my Star Wars obsession way back when.",
   "title": "Insider #181"
 }

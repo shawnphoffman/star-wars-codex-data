@@ -1,12 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Paris Alleyne",
+      "role": "artist",
+      "slug": "paris-alleyne"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone",
+  "synopsis": "This graphic novel collects the entire Dispatches from the Occlusion Zone miniseries, which tells thrilling stories of Jedi and their allies trapped behind enemy lines as they prepare for their climactic battle against the nefarious Nihil! The marauders known as the Nihil have stranded hundreds of worlds in a part of the galaxy known as the Occlusion Zone. With communications blocked and ships unable to enter, Jedi Knights Keeve Trennis and Elzar Mann have turned to centuries-old technology to send messages of hope into the Zone. The messages they receive in return tell stories of a growing re",
   "title": "The High Republic Adventures: Dispatches from the Occlusion Zone"
 }

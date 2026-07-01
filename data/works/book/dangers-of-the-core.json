@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dangers of the Core",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dangers-of-the-core",
+  "synopsis": "An exciting adventure for Obi-Wan Kenobi, Qui-Gon Jinn, and Jar Jar Binks as they journey through the dangerous core of the planet Naboo.",
   "title": "Dangers of the Core"
 }

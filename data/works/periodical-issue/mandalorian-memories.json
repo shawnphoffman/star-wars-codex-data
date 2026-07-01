@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Mandalorian Memories",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-12-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "mandalorian-memories",
+  "synopsis": "\"Mandalorian Memories\" is a short comic story published in Star Wars: The Clone Wars Comic 6.41. It served as a prequel to \"Bounty,\" an episode from Season Four of the Star Wars: The Clone Wars television series.",
+  "title": "Mandalorian Memories"
+}

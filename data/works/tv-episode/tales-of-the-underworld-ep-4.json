@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Good Life",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
@@ -11,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-underworld-ep-4",
+  "synopsis": "Two young friends get caught up in a gangster's scheme.",
   "title": "The Good Life"
 }

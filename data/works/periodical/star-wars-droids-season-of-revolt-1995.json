@@ -1,6 +1,29 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "artist",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "artist",
+      "slug": "keith-williams"
+    },
+    {
+      "name": "Rich Perrotta",
+      "role": "artist",
+      "slug": "rich-perrotta"
+    }
+  ],
   "displayTitle": "Droids: Season of Revolt",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +32,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-season-of-revolt-1995",
+  "synopsis": "Star Wars: Droids: Season of Revolt is a trade paperback collecting the final four issues from Star Wars: Droids (1995). The Paperback was only released in the UK, with Boxtree co-publishing it with Dark Horse Comics.",
   "title": "Star Wars Droids: Season of Revolt"
 }

@@ -1,6 +1,34 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "artist",
+      "slug": "nicoletta-baldari"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    }
+  ],
   "displayTitle": "Adventures: Shadow of Vader's Castle",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"

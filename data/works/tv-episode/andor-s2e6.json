@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Beau Willimon",
+      "role": "writer",
+      "slug": "beau-willimon"
+    },
+    {
+      "name": "Ariel Kleiman",
+      "role": "director",
+      "slug": "ariel-kleiman"
+    }
+  ],
   "displayTitle": "What a Festive Evening",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-04-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e6",
+  "synopsis": "Vel and Cinta to Ghorman. Cassian home to Bix. An argument. A heist. A party. Everything at risk.",
   "title": "What a Festive Evening"
 }

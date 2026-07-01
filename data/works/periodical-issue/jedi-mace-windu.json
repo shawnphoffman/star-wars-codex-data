@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Jedi: Mace Windu",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-02-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-mace-windu",
+  "synopsis": "As the Jedi's top general in the galaxy-wide Clone Wars, Mace Windu must oversee battles on many fronts. But the struggle that concerns him most is that within the Jedi Order itself. With the outbreak of hostilities, many Jedi are unwilling to commit themselves to the war&mdash;either because of their ambivalence toward the Republic, or because they have actively joined the Separatists! On a quest to reunite the divided ranks of the Jedi, Mace Windu is forced to confront the same Jedi sword-master whom he had tutored in the legendary lightsaber regimen known as Vaapad!",
+  "title": "Jedi: Mace Windu"
+}

@@ -6,7 +6,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "war-of-the-bounty-hunters-4-lom-zuckuss",
   "title": "War of the Bounty Hunters: 4-LOM & Zuckuss"
 }

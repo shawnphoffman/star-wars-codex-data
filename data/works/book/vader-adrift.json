@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Vader Adrift",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "vader-adrift",
+  "synopsis": "\"Vader Adrift\" is a short story written by Ryder Windham and published in the magazine Star Wars Insider Special Edition 2012. Its events take place in the aftermath of Star Wars (1977) 52.",
   "title": "Vader Adrift"
 }

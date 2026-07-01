@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Lando Calrissian Adventures",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": -3,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-lando-calrissian-adventures",
+  "synopsis": "Star Wars: The Lando Calrissian Adventures is a Legends novel series from author L. Neil Smith. It includes The Mindharp of Sharu, The Flamewind of Oseon, and The Starcave of ThonBoka, which were published by Del Rey in 1983. The complete series was compiled in The Lando Calrissian Adventures (1994).",
   "title": "The Lando Calrissian Adventures"
 }

@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Rucka",
+      "role": "writer",
+      "slug": "greg-rucka"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    }
+  ],
   "displayTitle": "Shattered Empire",
   "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "shattered-empire",
+  "synopsis": "Emperor Palpatine's twenty-year reign of terror came to an abrupt and fiery end in the skies above the forest moon of Endor. A decisive victory for the Rebel Alliance, to be sure, but even with the loss of its leadership, the Empire's Moffs and regional governors retained their hold on important systems from the Core to the Outer Rim, thanks to the might of the Imperial Starfleet. Now, with a power vacuum atop the Empire, those Moffs will jockey for position and control, and the heroes of the Rebel Alliance will soon discover that a wounded and fractious Empire may be more dangerous than any t",
   "title": "Shattered Empire"
 }

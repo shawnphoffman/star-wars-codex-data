@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Han Solo At Stars' End",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solo-at-stars-end",
+  "synopsis": "Han Solo was a trampfreighter captain, a smuggler and a free-lance lawbender when it suited him. Together with his Wookiee pal, Chewbacca, he roamed the galaxy in the starship Millennium Falcon, owing nothing to anyone&mdash;human, 'droid or otherwise. If the Authority took a dim view of some of his activities, well, that was the Authority's problem. Or so Han Solo thought. Then the Authority informed him he would have to bring the Millennium Falcon up to certain specific technical standards. \"Safety standards,\" they had said&mdash;but Han knew better. He also knew a safe planet where Doc fixe",
   "title": "Han Solo At Stars' End"
 }

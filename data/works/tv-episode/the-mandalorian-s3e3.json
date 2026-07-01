@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Lee Isaac Chung",
+      "role": "director",
+      "slug": "lee-isaac-chung"
+    },
+    {
+      "name": "Noah Kloor",
+      "role": "writer",
+      "slug": "noah-kloor"
+    }
+  ],
   "displayTitle": "The Convert",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-03-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e3",
+  "synopsis": "On Coruscant, former Imperials find amnesty in the New Republic.",
   "title": "The Convert"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Death Star Pirates",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "death-star-pirates",
+  "synopsis": "\"Death Star Pirates\" is a five part comic written by Henry Gilroy and illustrated by Glen Murakami, and was originally published in issues #16-#20 of the Star Wars Kids magazine and later collected in Star Wars Tales 8. It takes place in 0 ABY.",
   "title": "Death Star Pirates"
 }

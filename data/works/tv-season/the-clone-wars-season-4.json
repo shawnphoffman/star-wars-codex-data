@@ -1,14 +1,17 @@
 {
   "canonStatus": "canon",
   "displayTitle": "The Clone Wars - Season 4",
+  "era": "fallOfTheJedi",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -19,
     "startYear": -22
   },
   "parentWorkSlug": "the-clone-wars-series",
+  "releaseDate": "2011-09-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-season-4",
+  "synopsis": "Escalating and expanding into uncharted corners of the galaxy, the scope and scale of Star Wars: The Clone Wars continues to grow. Fearsome foes from the past return to settle old scores, and unexpected alliances are formed on both sides of the battle.",
   "title": "The Clone Wars - Season 4"
 }

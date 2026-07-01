@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    }
+  ],
   "displayTitle": "The Holocrons Of Fate",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

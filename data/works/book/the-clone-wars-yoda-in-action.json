@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Yoda In Action",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-yoda-in-action",
+  "synopsis": "The Clone Wars: Yoda in Action! is a young readers Level 3 novel by DK Readers. It is based on the series premiere of the television series titled \"Ambush\" and was adapted by Heather Scott.",
   "title": "The Clone Wars: Yoda In Action"
 }

@@ -1,6 +1,29 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Pat Olliffe",
+      "role": "artist",
+      "slug": "pat-olliffe"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "artist",
+      "slug": "andrea-di-vito"
+    }
+  ],
   "displayTitle": "Thrawn: Alliances (comics)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

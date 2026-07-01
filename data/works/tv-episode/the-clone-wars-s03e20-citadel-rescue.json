@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
   "displayTitle": "The Clone Wars S03E20: Citadel Rescue",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

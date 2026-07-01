@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Danny Keller",
+      "role": "director",
+      "slug": "danny-keller"
+    },
+    {
+      "name": "Jose Molina",
+      "role": "writer",
+      "slug": "jose-molina"
+    }
+  ],
   "displayTitle": "Prisoners",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

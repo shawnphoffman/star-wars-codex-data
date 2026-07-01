@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Empire and Rebellion: Honor Among Thieves",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-and-rebellion-honor-among-thieves",
+  "synopsis": "===Hardcover=== Back cover When the Empire threatens the galaxy's new hope, will Han, Luke, and Leia become its last chance? Internal flap When the mission is to extract a high-level rebel spy from the very heart of the Empire, Leia Organa knows the best man for the job is Han Solo&mdash;something the princess and the smuggler can finally agree on. After all, for a guy who broke into an Imperial cell block and helped destroy the Death Star, the assignment sounds simple enough. But when Han locates the brash rebel agent, Scarlet Hark, she's determined to stay behind enemy lines. A pirate plans ",
   "title": "Empire and Rebellion: Honor Among Thieves"
 }

@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    }
+  ],
   "displayTitle": "The Mandalorian",
   "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-07-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-mandalorian-9",
+  "synopsis": "The Mandalorian Season Two is the second season of the American web television series Star Wars: The Mandalorian. It premiered on Disney+ on October 30, 2020.",
   "title": "The Mandalorian"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 3: Attack on Delrakkin",
+  "displayTitle": "Missions 3: Attack on Delrakkin",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-3-attack-on-delrakkin",
+  "synopsis": "Imperial troops are bombarding the planet of Delrakkin—disguised as Rebel forces! The Empire wants the Rebel Alliance to be blamed for the attack. The Rebels must stop this evil deception. Your mission: to defend Delrakkin&hellip;and save the Rebellion. May the Force be with you.",
   "title": "Star Wars Missions 3: Attack on Delrakkin"
 }

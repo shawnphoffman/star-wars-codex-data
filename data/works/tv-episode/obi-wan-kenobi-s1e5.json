@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joby Harold",
+      "role": "writer",
+      "slug": "joby-harold"
+    },
+    {
+      "name": "Andrew Stanton",
+      "role": "writer",
+      "slug": "andrew-stanton"
+    },
+    {
+      "name": "Deborah Chow",
+      "role": "director",
+      "slug": "deborah-chow"
+    }
+  ],
   "displayTitle": "Part V",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-s1e5",
+  "synopsis": "Obi-Wan plans his next move as the Empire, closing in, tries to draw him out.",
   "title": "Part V"
 }

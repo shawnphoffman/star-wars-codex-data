@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Toby Haynes",
+      "role": "director",
+      "slug": "toby-haynes"
+    },
+    {
+      "name": "Tony Gilroy",
+      "role": "writer",
+      "slug": "tony-gilroy"
+    }
+  ],
   "displayTitle": "Reckoning",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-season-1",
   "releaseDate": "2022-09-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s1e3",
+  "synopsis": "Cassian's desperation to avoid arrest leads him to a mysterious man with unknown connections.",
   "title": "Reckoning"
 }

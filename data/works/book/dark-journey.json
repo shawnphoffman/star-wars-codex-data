@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Journey",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-journey",
+  "synopsis": "The New Jedi Order continues as Jaina Solo struggles with anger and despair after the Jedi Knights' harrowing adventure behind enemy lines. Though the Jedi strike force completed its deadly mission into Yuuzhan Vong territory, the price of success was tragedy: not everyone made it out alive. In a daring getaway, hotshot pilot Jaina Solo stole an enemy ship, taking along her fellow survivors&mdash;and leaving behind a huge piece of her heart. With the enemy in hot pursuit, Jaina is forced to seek haven in the unprotected, unfriendly Hapes Cluster, where the Jedi are held responsible for a past ",
   "title": "Dark Journey"
 }

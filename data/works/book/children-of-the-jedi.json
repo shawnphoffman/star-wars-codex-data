@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Children of the Jedi",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 12
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "children-of-the-jedi",
+  "synopsis": "===Hardcover=== Princess Leia, Han Solo, and Chewbacca set out on a mission vital to the survival of the fragile New Republic. They are searching for the long-lost children of the Jedi, a quest that takes them to the once vibrant stronghold of Belsavis&mdash;a nearly forgotten frozen world. Leia has heard tales of a Jedi exodus from the dark crypts below the planet's surface. She has also heard that since the time of the exodus no one entering the crypts has returned alive. Halfway across the galaxy, Luke Skywalker has undertaken an equally dangerous expedition that, if it fails, could have fa",
   "title": "Children of the Jedi"
 }

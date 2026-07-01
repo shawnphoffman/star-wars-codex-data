@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Changing Seasons",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "changing-seasons",
+  "synopsis": "\"Changing Seasons\" was a short story written by Timothy Zahn that appeared in two parts: Guardian of the People in Star Wars Insider 76, and People of the Guardian in Star Wars Insider 77. It was also included in a Czech-language anthology Setkání v mlze.",
   "title": "Changing Seasons"
 }

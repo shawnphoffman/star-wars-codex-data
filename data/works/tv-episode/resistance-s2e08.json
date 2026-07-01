@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "Rendezvous Point",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e08",
+  "synopsis": "Doza attempts to meet a Resistance pilot from his past, but the pilot has been captured by the First Order.",
   "title": "Rendezvous Point"
 }

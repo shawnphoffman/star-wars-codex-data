@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Julia Cooperman",
+      "role": "writer",
+      "slug": "julia-cooperman"
+    }
+  ],
   "displayTitle": "Call to Oblivion",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e7",
+  "synopsis": "As enemies close in, Maul is forced to make a stand.",
   "title": "Call to Oblivion"
 }

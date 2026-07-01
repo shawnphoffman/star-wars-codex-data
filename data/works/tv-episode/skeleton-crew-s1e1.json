@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Watts",
+      "role": "writer",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "writer",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "Jon Watts",
+      "role": "director",
+      "slug": "jon-watts"
+    }
+  ],
   "displayTitle": "This Could Be a Real Adventure",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2024-12-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e1",
+  "synopsis": "Kids from an ordinary planet discover a surprising secret.",
   "title": "This Could Be a Real Adventure"
 }

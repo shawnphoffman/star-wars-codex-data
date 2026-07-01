@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Against the Empire",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2007-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-8",
+  "synopsis": "As the Empire's power grows, rebels face a choice: give in&hellip; or fight. Some form pockets of resistance on battleground planets. Some go undercover, trying to fight the Empire from within. Others watch and wait.\nFor Ferus Olin, hatred of the Empire is personal. The things that have been closest to him have been destroyed. The Jedi Order he once belonged to has been decimated. And the future isn't looking much brighter&hellip;\nUnless a true Rebellion can be born.\nThe thrilling new series from The New York Times bestselling author of Jedi Apprentice and Jedi Quest.",
+  "title": "The Last of the Jedi: Against the Empire"
+}

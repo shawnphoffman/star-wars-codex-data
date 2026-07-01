@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dawn Of The Jedi: Eruption",
+  "era": "dawnOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -25793
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-eruption",
+  "synopsis": "\"Eruption\" is a short story written by John Ostrander that appeared in Star Wars Insider 141. The story is a pre&ndash;Dawn of the Jedi: Into the Void story starring Hawk Ryo and Lanoree Brock. The audio version is included with the Dawn of the Jedi: Into the Void audiobook narrated by January LaVoy.",
   "title": "Dawn Of The Jedi: Eruption"
 }

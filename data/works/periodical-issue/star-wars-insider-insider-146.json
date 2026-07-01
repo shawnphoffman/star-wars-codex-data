@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #146",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-146",
+  "synopsis": "Star Wars Insider will be presenting the third and final part of their guide to Star Wars roleplaying games. Plus, they'll have the very latest news on Star Wars: Episode VII The Force Awakens and Star Wars: Rebels!",
   "title": "Insider #146"
 }

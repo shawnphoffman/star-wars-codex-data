@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    },
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    }
+  ],
   "displayTitle": "In The Name Of The Rebellion Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

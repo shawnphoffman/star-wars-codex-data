@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Jar Jar's Big Day",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-jar-jars-big-day",
+  "synopsis": "Has Jar Jar Binks become a Jedi? That's what everyone thinks as he sets out on a dangerous mission to rescue his friends Padmé Amidala and C-3PO from the clutches of the evil Separatist Alliance. Will the Force be with Jar Jar?",
   "title": "The Clone Wars: Jar Jar's Big Day"
 }

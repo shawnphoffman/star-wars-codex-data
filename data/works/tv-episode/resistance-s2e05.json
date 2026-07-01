@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "Sarah Carbiener",
+      "role": "writer",
+      "slug": "sarah-carbiener"
+    },
+    {
+      "name": "Erica Rosbe",
+      "role": "writer",
+      "slug": "erica-rosbe"
+    }
+  ],
   "displayTitle": "The Engineer",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e05",
+  "synopsis": "Kaz and Neeku discover Nena, a Nikto engineer in need of assistance who barely escaped a First Order attack.",
   "title": "The Engineer"
 }

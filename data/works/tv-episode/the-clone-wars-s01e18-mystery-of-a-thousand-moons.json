@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Larsen",
+      "role": "writer",
+      "slug": "brian-larsen"
+    },
+    {
+      "name": "Jesse Yeh",
+      "role": "director",
+      "slug": "jesse-yeh"
+    }
+  ],
   "displayTitle": "Mystery of a Thousand Moons",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Assault at Selonia",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 18
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "assault-at-selonia",
+  "synopsis": "Imprisoned on the planet Corellia, Han Solo finds himself at the mercy of his evil cousin, Thracken Sal-Solo [sic]. Thracken [sic] plans to restore the Imperial system and seize total power&mdash;no matter what the cost. Han has one chance to stop him. But to do so he must turn his back on his human cousin and join forces with a female alien. Dracmus was arrested as a ringleader in a plot against the corrupt Human League. Now she and Han will attempt a daring escape to Selonia in time to warn Leia, Luke Skywalker, and Lando of Thracken's [sic] plan. But can Han trust the alien to keep her word",
   "title": "Assault at Selonia"
 }

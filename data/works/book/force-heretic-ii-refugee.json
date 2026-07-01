@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Force Heretic II: Refugee",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-heretic-ii-refugee",
+  "synopsis": "Swift and deadly, the Yuuzhan Vong have blasted their way across the galaxy&mdash;and now stand on the threshold of total victory. Yet a courageous few still dare to oppose them&hellip; Rife with hostile cultures and outright enemies, the Unknown Regions hold many perils for Luke Skywalker and the Jedi searching for Zonama Sekot, the living planet that may hold the key to dealing with the Yuuzhan Vong once and for all. Meanwhile, on the edge of the galaxy and in the heart of a trusted ally, old enemies are stirring. The Yuuzhan Vong have inflamed long-forgotten vendettas that are even now buil",
   "title": "Force Heretic II: Refugee"
 }

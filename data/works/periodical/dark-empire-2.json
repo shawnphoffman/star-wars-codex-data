@@ -1,11 +1,26 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    }
+  ],
   "displayTitle": "Dark Empire",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1991-12-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-empire-2",
   "title": "Dark Empire"
 }

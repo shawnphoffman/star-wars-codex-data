@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "director",
+      "slug": "bryce-dallas-howard"
+    }
+  ],
   "displayTitle": "Guns for Hire",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-04-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e6",
+  "synopsis": "The Mandalorian visits an opulent world.",
   "title": "Guns for Hire"
 }

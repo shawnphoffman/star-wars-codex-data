@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Trigon Unleashed",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-trigon-unleashed",
+  "synopsis": "Thall Joben and R2-D2 set out to destroy the Trigon One superweapon while C-3PO looks after Kea Moll; C-3PO intercepts a transmission revealing the Fromm family has dispatched Vlix to capture them.",
   "title": "The Trigon Unleashed"
 }

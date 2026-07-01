@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #168",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-09-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-168",
+  "synopsis": "The hero's journey continues as we explore Rey's part in The Force Awakens and her role the saga. The countdown to Rogue One begins and we'll also be offering an in-depth look at a classic episode of Star Wars: The Clone Wars, 'Water War', and explore the exciting new Star Wars Battlefront content with a trip to Bespin's beautiful Cloud City! Don't miss the latest comics, books, and collectibles!",
   "title": "Insider #168"
 }

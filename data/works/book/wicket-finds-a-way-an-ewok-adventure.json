@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Wicket Finds a Way: An Ewok Adventure",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-finds-a-way-an-ewok-adventure",
+  "synopsis": "Wicket Finds a Way: An Ewok Adventure is a 1984 children's book written by Melinda Luke and published by Random House.",
   "title": "Wicket Finds a Way: An Ewok Adventure"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 5: The Hunt for Han Solo",
+  "displayTitle": "Missions 5: The Hunt for Han Solo",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-5-the-hunt-for-han-solo",
+  "synopsis": "You are a bounty hunter. Your target is Han Solo. Both Jabba the Hutt and the Empire want him &ndash; dead or alive. He is on his way to Tatooine to deliver something very important to Jabba. You must reach him first. Your mission: to hunt down Han Solo before he gets away. Good luck.",
   "title": "Star Wars Missions 5: The Hunt for Han Solo"
 }

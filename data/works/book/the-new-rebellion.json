@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The New Rebellion",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 17
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-new-rebellion",
+  "synopsis": "Somewhere in the galaxy, millions suddenly perish&mdash;a disruption of the Force so shocking it is felt by Luke at his Jedi academy and by Leia on Coruscant. While Leia must deal with an assassination attempt, a rumored plot against the New Republic, and allegations that Han Solo is involved, Luke seeks out a former Jedi student who may hold the key to the mass destruction. But Brakiss is only the bait in a deadly trap set by a master of the dark side who is determined to rule as emperor. He's targeted Luke, Leia, and Leia's Jedi children to die. Then billions will follow, in a holocaust uneq",
   "title": "The New Rebellion"
 }

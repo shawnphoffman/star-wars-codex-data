@@ -1,6 +1,44 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Ryan Kelly",
+      "role": "artist",
+      "slug": "ryan-kelly"
+    },
+    {
+      "name": "Facundo Percio",
+      "role": "artist",
+      "slug": "facundo-percio"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "artist",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "artist",
+      "slug": "julien-hugonnard-bert"
+    }
+  ],
   "displayTitle": "Star Wars (2013)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +47,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-2013",
+  "synopsis": "Star Wars is a comic book series published by Dark Horse Comics that began in January 2013. It concluded with issue 20 on August 13, 2014. The series takes place between Star Wars: Episode IV A New Hope and Star Wars: Episode V The Empire Strikes Back, dating itself to two months after the Battle of Yavin. However, it heavily conflicts with the preexisting timeline of the Rebel Alliance post-Yavin; per The New Essential Chronology and other sources, the Alliance was trapped on Yavin by the Yavin blockade for the first six months after the battle, but the comics instead depict the Alliance base",
   "title": "Star Wars (2013)"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Bill Wolkoff",
+      "role": "writer",
+      "slug": "bill-wolkoff"
+    }
+  ],
   "displayTitle": "Relics Of The Old Republic",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "The Missing Agent",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e12",
+  "synopsis": "Kaz, Yeager and Synara trace a distress call to a planet where a Resistance agent has gone missing. Things only get worse as a mysterious bounty hunter starts hunting them.",
   "title": "The Missing Agent"
 }

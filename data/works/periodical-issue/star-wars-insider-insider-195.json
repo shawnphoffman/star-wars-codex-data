@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #195",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2020-02-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-195",
+  "synopsis": "The best of the official Star Wars Insider magazine content, celebrating the complete Star Wars experience, from movies to books, video games to comic books, and more! Featuring rare cast and crew interviews, and exclusive behind the scenes pictures, this is an essential read for Star Wars fans of all ages.",
   "title": "Insider #195"
 }

@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
   "displayTitle": "The High Republic (2023)",
+  "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

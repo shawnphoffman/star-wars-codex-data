@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    }
+  ],
   "displayTitle": "Rebels S02E05: Always Two There Are",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Galaxies: The Ruins of Dantooine",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 1
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-galaxies-the-ruins-of-dantooine",
+  "synopsis": "It is a time of great turmoil. The oppressive Empire is close to seizing complete control of the galaxy. The ragtag guerrilla army of the Rebel Alliance fights on, striking wherever it can, but now something has come to light that could spell certain doom. Hidden in the Jedi ruins of Dantooine is a Holocron containing a list of high-level Rebel sympathizers. If that list were to fall into the hands of Darth Vader, the Rebel Alliance would lose its most valued support&mdash;and possibly the war itself. As an Imperial bioengineer who frequently visits other worlds, Dusque Mistflier is the perfec",
   "title": "Galaxies: The Ruins of Dantooine"
 }

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Podracing Tales",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "podracing-tales",
+  "synopsis": "\"Podracing Tales\" was an online comic published on StarWars.com on December 19, 2000, as \"a special holiday treat\" for fans, courtesy of the Official Star Wars Website and Dark Horse Comics. It consists of eight vignettes featuring the Boonta Eve Classic podracers from Star Wars: Episode I The Phantom Menace.",
+  "title": "Podracing Tales"
+}

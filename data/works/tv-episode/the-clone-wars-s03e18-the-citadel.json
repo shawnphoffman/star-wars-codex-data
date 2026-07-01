@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Citadel",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

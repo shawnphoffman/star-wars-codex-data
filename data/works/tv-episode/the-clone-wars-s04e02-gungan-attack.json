@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    },
+    {
+      "name": "Jose Molina",
+      "role": "writer",
+      "slug": "jose-molina"
+    }
+  ],
   "displayTitle": "Gungan Attack",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

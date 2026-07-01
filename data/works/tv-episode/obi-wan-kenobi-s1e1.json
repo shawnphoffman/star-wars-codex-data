@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joby Harold",
+      "role": "writer",
+      "slug": "joby-harold"
+    },
+    {
+      "name": "Stuart Beattie",
+      "role": "writer",
+      "slug": "stuart-beattie"
+    },
+    {
+      "name": "Hossein Amini",
+      "role": "writer",
+      "slug": "hossein-amini"
+    },
+    {
+      "name": "Deborah Chow",
+      "role": "director",
+      "slug": "deborah-chow"
+    }
+  ],
   "displayTitle": "Part I",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-s1e1",
+  "synopsis": "Obi-Wan Kenobi lives a humble existence on Tatooine. Despite the dangers of being a Jedi survivor at the height of the Empire, Kenobi is forced to emerge from hiding.",
   "title": "Part I"
 }

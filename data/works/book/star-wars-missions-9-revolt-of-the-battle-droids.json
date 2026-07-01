@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 9: Revolt of the Battle Droids",
+  "displayTitle": "Missions 9: Revolt of the Battle Droids",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-9-revolt-of-the-battle-droids",
+  "synopsis": "You are an Imperial soldier. A revolt has begun on Boonda the Hutt's moon. The leader of the revolution is the devious droid Wuntoo Force Forwun. His army is made up of hundreds of droids... and they are all prepared to kill on sight. Your mission: to stop the battle droids before they take on the Empire. Good luck.",
   "title": "Star Wars Missions 9: Revolt of the Battle Droids"
 }

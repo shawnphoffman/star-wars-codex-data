@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "Spoils of War",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-01-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e1",
+  "synopsis": "The Bad Batch plans a risky heist.",
   "title": "Spoils of War"
 }

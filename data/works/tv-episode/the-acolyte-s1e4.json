@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Garcia Lopez",
+      "role": "director",
+      "slug": "alex-garcia-lopez"
+    },
+    {
+      "name": "Kor Adana",
+      "role": "writer",
+      "slug": "kor-adana"
+    },
+    {
+      "name": "Claire Kiechel",
+      "role": "writer",
+      "slug": "claire-kiechel"
+    }
+  ],
   "displayTitle": "Day",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e4",
+  "synopsis": "Racing to the next target, the Jedi head to a new world as they close in on the clever assassin.",
   "title": "Day"
 }

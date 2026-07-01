@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    },
+    {
+      "name": "Kevin Burke",
+      "role": "writer",
+      "slug": "kevin-burke"
+    },
+    {
+      "name": "Chris Wyatt",
+      "role": "writer",
+      "slug": "chris-wyatt"
+    }
+  ],
   "displayTitle": "The Triple Dark",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",

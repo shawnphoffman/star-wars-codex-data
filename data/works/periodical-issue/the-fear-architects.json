@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "The Fear Architects",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-fear-architects",
+  "synopsis": "Something strange is happening on the moon of Gyndine in the latest issue's Star Wars: The Clone Wars comic strip adventure-squads of Battle droids are making terrified Republic clone troopers give in before shots are even fired. Can General Kenobi help remove the fear factor?",
+  "title": "The Fear Architects"
+}

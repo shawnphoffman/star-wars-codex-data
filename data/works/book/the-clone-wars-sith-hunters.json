@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Sith Hunters",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-sith-hunters",
+  "synopsis": "\"Would-be Sith Savage Opress has located his long-lost brother, Darth Maul! Now the two of them have embarked on a killing spree, cutting a deadly swath through the Outer Rim planets. Determined to stop the brothers, the Jedi Council sends a task force of skilled Jedi to hunt them down and bring them to justice. But when you're hunting Sith, be careful . . . You might just catch them! Cover art by Dave Filoni, the supervising director of the TV show The Clone Wars!\"",
   "title": "The Clone Wars: The Sith Hunters"
 }

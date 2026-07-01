@@ -1,7 +1,20 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    },
+    {
+      "name": "Fabio Laguna",
+      "role": "artist",
+      "slug": "fabio-laguna"
+    }
+  ],
   "displayTitle": "The Story of the Faithful Wookiee (Little Golden Book)",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 1
@@ -10,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-story-of-the-faithful-wookiee-little-golden-book",
+  "synopsis": "An all-new Little Golden Book based on the cartoon from the Star Wars Holiday Special from 1978—featuring Chewbacca and the first appearance of Boba Fett! While on a mission to save Han Solo, the Rebel hero Luke Skywalker, droids C-3PO and R2-D2, and faithful Wookiee Chewbacca encounter an armored stranger who offers to help them. But is the mysterious Boba Fett a friend—or a foe? The Story of the Faithful Wookiee, the animated segment from the 1978 Star Wars Holiday Special, is retold in the iconic Little Golden Book format. It is perfect for Star Wars--and Little Golden Book--fans of all age",
   "title": "The Story of the Faithful Wookiee (Little Golden Book)"
 }

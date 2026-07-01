@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Agents of Chaos II: Jedi Eclipse",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agents-of-chaos-ii-jedi-eclipse",
+  "synopsis": "A string of smashing victories by the forces of the sinister aliens known as the Yuuzhan Vong has left New Republic resources and morale stretched to the breaking point. Leia Organa Solo, estranged from her husband, Han, oversees the evacuation of refugees on planets in the path of the merciless invaders. Luke Skywalker struggles to hold the fractious Jedi Knights together, even while one of them undertakes a bold but reckless undercover mission. Manipulating their alliance with the amoral Hutts, the Yuuzhan Vong leave a cunning trail of vital information where New Republic agents are sure to ",
   "title": "Agents of Chaos II: Jedi Eclipse"
 }

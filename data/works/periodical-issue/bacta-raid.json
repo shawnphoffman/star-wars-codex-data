@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Bacta Raid",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "bacta-raid",
+  "synopsis": "In this issue's all new The Clone Wars comic adventure, 'Bacta Raid,' you might think that a journey on a medical ship would be a fairly quiet one, surrounded by wounded troopers, healing in their bacta tanks. But not for General Kenobi, when another ship laden with injured soldiers sets its sights on their valuable bacta cargo!",
+  "title": "Bacta Raid"
+}

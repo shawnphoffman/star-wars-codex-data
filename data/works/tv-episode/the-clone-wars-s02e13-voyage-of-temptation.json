@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paul Dini",
+      "role": "writer",
+      "slug": "paul-dini"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Voyage of Temptation",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

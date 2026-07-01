@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    },
+    {
+      "name": "Brent V. Friedman",
+      "role": "writer",
+      "slug": "brent-v-friedman"
+    }
+  ],
   "displayTitle": "Deception",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

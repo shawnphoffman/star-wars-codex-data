@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    }
+  ],
   "displayTitle": "Stealth Strike",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

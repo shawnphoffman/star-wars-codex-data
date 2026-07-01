@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,7 @@
       "slug": "daniel-wallace"
     }
   ],
-  "displayTitle": "Star Wars: Imperial Handbook: A Commander's Guide",
+  "displayTitle": "Imperial Handbook: A Commander's Guide",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-imperial-handbook-a-commander-s-guide",
+  "synopsis": "As the Galactic Empire expands, high-ranking officials from each branch of the Imperial Military have set down tactical guidelines and procedures for all newly ascending commanders. Set in-universe, this compendium of ordinance, mission reports, and Imperial philosophy was intercepted by members of the Rebel Alliance, some of whom also left commentary scribbled in the margins. Housed in a deluxe case that opens with lights and sounds, this never-before-seen Imperial Handbook is perfect for Star Wars fans&mdash;no matter which side of the Civil War they're on.",
   "title": "Star Wars: Imperial Handbook: A Commander's Guide"
 }

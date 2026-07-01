@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #75: Tidal",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-75",
+  "synopsis": "The search for Han Solo is cut short as the rebels find themselves facing death on a planet of Water Breathers.",
   "title": "Star Wars (1977) #75: Tidal"
 }

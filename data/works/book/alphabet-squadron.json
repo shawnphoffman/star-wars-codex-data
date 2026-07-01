@@ -11,8 +11,20 @@
   "displayTitle": "Alphabet Squadron",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B07J4BKDRC"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593128249"
+    },
+    {
       "type": "isbn10",
       "value": "1984821989"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593128244"
     },
     {
       "type": "isbn13",
@@ -20,6 +32,16 @@
     }
   ],
   "editions": [
+    {
+      "asin": "B07J4BKDRC",
+      "extent": 576,
+      "imprint": "Random House Publishing Group",
+      "isPrimary": false,
+      "isbn10": "0593128249",
+      "isbn13": "9780593128244",
+      "kind": "print",
+      "onsale": "2019-06-11T00:00:00.000Z"
+    },
     {
       "extent": 432,
       "imprint": "Del Rey",

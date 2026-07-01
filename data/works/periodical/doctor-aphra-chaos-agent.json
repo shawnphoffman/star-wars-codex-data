@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cherish Chen",
+      "role": "writer",
+      "slug": "cherish-chen"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    }
+  ],
   "displayTitle": "Doctor Aphra - Chaos Agent (2025)",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

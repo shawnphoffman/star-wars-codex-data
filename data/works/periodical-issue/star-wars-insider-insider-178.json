@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #178",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-01-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-178",
+  "synopsis": "Star Wars Insider #178 lifts the lid of secrecy on the next chapter in the Star Wars saga! Learn about the new stars, creatures and starships, plus continue the epic journey with Luke, Rey, Finn and Poe! Insider brings you the latest news, interviews photos and more!",
   "title": "Insider #178"
 }

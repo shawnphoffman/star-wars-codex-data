@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Mixed up Droid",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 8
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mixed-up-droid",
+  "synopsis": "When the normally eloquent C-3PO begins to malfunction, Princess Leia and R2-D2 must figure out how to cure his problem before he insults important visitors from another planet, in a multivoice dramatization, complete with sound effects and music.",
   "title": "The Mixed up Droid"
 }

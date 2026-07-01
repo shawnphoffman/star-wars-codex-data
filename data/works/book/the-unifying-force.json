@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Unifying Force",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 29
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-unifying-force",
+  "synopsis": "At long last, the New York Times bestselling series that launched the Star Wars saga into the next generation and into thrilling new territory reaches its spectacular finale. Side by side, Luke Skywalker, Han Solo, Leia Organa Solo, their children, and their comrades in the Galactic Alliance rally for their last stand against the enemy that threatens not only the galaxy, but the Force itself. The Galactic Alliance's hard-won success in countering the Yuuzhan Vong onslaught has proven all too brief&mdash;and the tide has turned once more to the invaders' advantage. Having overcome the sabotage ",
   "title": "The Unifying Force"
 }

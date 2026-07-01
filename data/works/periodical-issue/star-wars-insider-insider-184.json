@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #184",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-10-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-184",
+  "synopsis": "News, interviews, and the latest Star Wars merchandise and publishing! In issue 184 of Star Wars Insider we continue to explore the new corners of the galaxy revealed in Solo: A Star Wars Story, as we consider the repercussions of L3-37's droid uprising-and what it tells us about the ethics of creating sentient machines! We take a ride in hot rod speeders, and discover how the natural history of a galaxy far, far away takes inspiration from life on Earth.",
   "title": "Insider #184"
 }

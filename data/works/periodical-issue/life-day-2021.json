@@ -1,0 +1,25 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "artist",
+      "slug": "megan-levens"
+    }
+  ],
+  "displayTitle": "Life Day",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-11-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "life-day-2021",
+  "title": "Life Day"
+}

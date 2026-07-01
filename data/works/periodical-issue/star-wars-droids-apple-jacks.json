@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Droids: (Apple Jacks)",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-apple-jacks",
+  "synopsis": "\"Star Wars: Droids\" is a short one-page comic strip released by Kellogg's as an Apple Jacks promotion.",
+  "title": "Star Wars Droids: (Apple Jacks)"
+}

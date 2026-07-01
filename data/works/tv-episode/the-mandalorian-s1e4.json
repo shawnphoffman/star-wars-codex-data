@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "director",
+      "slug": "bryce-dallas-howard"
+    }
+  ],
   "displayTitle": "Sanctuary",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-one",
   "releaseDate": "2019-11-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s1e4",
+  "synopsis": "The Mandalorian teams up with an ex-soldier to protect a village from raiders.",
   "title": "Sanctuary"
 }

@@ -1,0 +1,78 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kia Asamiya",
+      "role": "writer",
+      "slug": "kia-asamiya"
+    },
+    {
+      "name": "Garth Ennis",
+      "role": "writer",
+      "slug": "garth-ennis"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Scott Allie",
+      "role": "writer",
+      "slug": "scott-allie"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Amanda Connor",
+      "role": "artist",
+      "slug": "amanda-connor"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "artist",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "artist",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Herring",
+      "role": "artist",
+      "slug": "brian-herring"
+    },
+    {
+      "name": "David McCaig",
+      "role": "artist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jimmy Palmiotti",
+      "role": "artist",
+      "slug": "jimmy-palmiotti"
+    }
+  ],
+  "displayTitle": "Tales #11",
+  "era": "multiEra",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-tales",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-03-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-tales-11",
+  "synopsis": "It can't be easy being Han Solo...one minute he's winning the Millennium Falcon from his buddy Lando, the next he's being chased across the galaxy by Boba Fett and running afoul of Darth Vader. It seems like Han is always getting into trouble, but it's nothing a resourceful guy like Solo can't handle. This issue of Star Wars Tales puts the spotlight on Mr. Solo featuring various adventures, including a rare \"young Han Solo\" tale by Jan Duursema! Adventure and mayhem abound in issue #11 of Star Wars Tales!",
+  "title": "Star Wars Tales #11"
+}

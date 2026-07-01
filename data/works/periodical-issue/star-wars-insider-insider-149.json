@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #149",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-149",
+  "synopsis": "General Grievous takes center stage in issue #149 as we look at the life and times of the sinister Separatist! Best-selling Star Wars author John Jackson Miller nominates five amazing Expanded Universe characters! Get the latest, exclusive news from the making of Star Wars: Rebels and Star Wars: Episode VII The Force Awakens! Plus all the hottest books, comics, and collectibles coming your way!",
   "title": "Insider #149"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #134",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-06-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-134",
+  "synopsis": "Creating the Hoth Battle: an exclusive interview with the assistant art director of visual effects on The Empire Strikes Back! Plus, Insider celebrates 10 years of the Republic's amazing army and a never-before-seen tale!",
   "title": "Insider #134"
 }

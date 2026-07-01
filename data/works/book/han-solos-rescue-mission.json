@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Han Solo's Rescue Mission",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 1
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solos-rescue-mission",
+  "synopsis": "Han Solo's Rescue Mission is a young children's book telling a story about Han Solo rescuing a group of Ithorians. It was written by John Whitman and illustrated by Kilian Plunkett and published in March 1998. As a Cruise Along Book, the book came packaged with a Micro Machines X-Ray Fleet miniature Millennium Falcon.",
   "title": "Han Solo's Rescue Mission"
 }

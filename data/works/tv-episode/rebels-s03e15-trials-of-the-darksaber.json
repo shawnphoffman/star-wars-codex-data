@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    },
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    }
+  ],
   "displayTitle": "Trials of The Darksaber",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

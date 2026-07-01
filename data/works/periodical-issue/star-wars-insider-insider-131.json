@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #131",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-131",
+  "synopsis": "Star Wars Insider celebrates the release of Star Wars: Episode I The Phantom Menace in 3-D! Insider looks at the appeal of the villains whose brief screen time translates into popularity; all-new fiction and Jar Jar Binks.",
   "title": "Insider #131"
 }

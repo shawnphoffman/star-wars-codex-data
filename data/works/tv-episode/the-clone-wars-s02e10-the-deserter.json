@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robert Dalva",
+      "role": "director",
+      "slug": "robert-dalva"
+    },
+    {
+      "name": "Carl Ellsworth",
+      "role": "writer",
+      "slug": "carl-ellsworth"
+    }
+  ],
   "displayTitle": "The Deserter",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

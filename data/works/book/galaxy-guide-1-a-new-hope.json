@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "galaxy-guide-1-a-new-hope",
+  "synopsis": "Here it is! A definitive collection of backgrounds, statistics, and information on the heroes and villains from the original Star Wars movie! This comprehensive guide to the Star Wars galaxy details the aliens, Imperials and Rebels that figured in those crucial weeks leading up to the Battle of Yavin. First in a series of guides to the greatest space fantasy film of all time, A New Hope includes character histories and never-related-before information that makes this volume a must for movie fans and players of the Star Wars game.",
   "title": "Galaxy Guide 1: A New Hope"
 }

@@ -1,11 +1,51 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "artist",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Ramón Pérez",
+      "role": "artist",
+      "slug": "ramn-prez"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "artist",
+      "slug": "brian-koschak"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "The Clone Wars",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2008-09-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-clone-wars-2",
   "title": "The Clone Wars"
 }

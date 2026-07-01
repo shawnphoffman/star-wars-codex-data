@@ -1,6 +1,39 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "artist",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "artist",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "artist",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "artist",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "artist",
+      "slug": "david-jacob-beckett"
+    }
+  ],
   "displayTitle": "Tales of the Jedi: The Sith War",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +42,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-sith-war-1995",
+  "synopsis": "Star Wars: Tales of the Jedi – The Sith War is a story arc of the Star Wars: Tales of the Jedi comic book series. It ran from August 1, 1995 to January 1, 1996 and was published by Dark Horse Comics.",
   "title": "Tales of the Jedi: The Sith War"
 }

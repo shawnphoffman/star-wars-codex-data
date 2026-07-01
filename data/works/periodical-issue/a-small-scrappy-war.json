@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "A Small Scrappy War!",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-small-scrappy-war",
+  "synopsis": "Captain Rex and Sergeant Coric are sent to the Outer Rim agri-planet of Biitu in this issue's awesome new Star Wars: The Clone Wars comic strip. The population there has found a way to turn the endless toil of battle into cold, hard profit. But is there something amiss about their resourceful operation?",
+  "title": "A Small Scrappy War!"
+}

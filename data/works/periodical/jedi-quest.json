@@ -1,11 +1,31 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Pop Mhan",
+      "role": "artist",
+      "slug": "pop-mhan"
+    },
+    {
+      "name": "Norman Lee",
+      "role": "artist",
+      "slug": "norman-lee"
+    }
+  ],
   "displayTitle": "Jedi Quest",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2001-09-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-quest",
   "title": "Jedi Quest"
 }

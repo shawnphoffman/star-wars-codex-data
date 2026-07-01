@@ -1,14 +1,13 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
-  "creators": [
+  "displayTitle": "The Clone Wars: Destroy Malevolence",
+  "editionIds": [
     {
-      "name": "Kirsten Mayer",
-      "role": "writer",
-      "slug": "kirsten-mayer"
+      "type": "isbn13",
+      "value": "9781409302100"
     }
   ],
-  "displayTitle": "The Clone Wars: Destroy Malevolence",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +16,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-destroy-malevolence",
+  "synopsis": "Padme Amidala and C-3PO are taken hostage aboard the Separatist warship Malevolence by General Grievous; Anakin and Obi-Wan must rescue the Senator.",
   "title": "The Clone Wars: Destroy Malevolence"
 }

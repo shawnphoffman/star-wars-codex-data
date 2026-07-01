@@ -1,5 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Murray",
+      "role": "writer",
+      "slug": "charles-murray"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Dangerous Debt",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

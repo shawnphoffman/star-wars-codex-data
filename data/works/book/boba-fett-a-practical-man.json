@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Boba Fett: A Practical Man",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-a-practical-man",
+  "synopsis": "On the surface, it seems like just another routine contract for Boba Fett and his Mandalorian commandos, but the mystery client who hires them to start a small war is more dangerous than any of them can possibly imagine. When the Yuuzhan Vong invasion force sweeps into the galaxy, the Mandalorians find they’re on the wrong side–fighting for an alien culture that will bring about the end of their own. Now Fett has to choose between his honor and the survival of his people. Since he’ s a practical man, he’s determined help the resistance beat the Yuuzhan Vong—even if it means working with a Jedi",
   "title": "Boba Fett: A Practical Man"
 }

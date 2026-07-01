@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    }
+  ],
+  "displayTitle": "Full of Surprises",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "full-of-surprises",
+  "synopsis": "Full of Surprises was the first Hasbro/Toys \"R\" Us&ndash;exclusive comic published in 2002.",
+  "title": "Full of Surprises"
+}

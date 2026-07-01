@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "Shadows of Tantiss",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-02-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e3",
+  "synopsis": "Omega and Crosshair hatch a daring plan.",
   "title": "Shadows of Tantiss"
 }

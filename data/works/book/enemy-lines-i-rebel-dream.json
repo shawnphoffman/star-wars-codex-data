@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Enemy Lines I: Rebel Dream",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "enemy-lines-i-rebel-dream",
+  "synopsis": "As the Yuuzhan Vong's devastating conquests continue unchecked, Luke Skywalker, Han and Leia Solo, and Wedge Antilles are forced to destroy what they have risked their lives to create&hellip; Scattering after the Yuuzhan Vong's invasion of Coruscant, the panic-stricken members of the New Republic Advisory Council pause just long enough to set up a mock defense on nearby Borleias&mdash;an attempt to buy time that fools no one, least of all the Jedi. Leia and Han Solo travel from world to world to foment rebellion against the New Republic's disastrous appeasement policies. But Luke Skywalker has",
   "title": "Enemy Lines I: Rebel Dream"
 }

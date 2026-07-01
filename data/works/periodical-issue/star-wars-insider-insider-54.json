@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #54",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2001-06-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-54",
+  "synopsis": "Star Wars Insider 54 is the fifty-fourth issue of Star Wars Insider magazine. It was released to newsstands on June 14, 2001. This marked the final Star Wars Insider issue produced by Jeff Quick, who had assumed chief editorial duties of the magazine with issue 52 upon Wizards of the Coast becoming the new publisher of Star Wars Insider.",
   "title": "Insider #54"
 }

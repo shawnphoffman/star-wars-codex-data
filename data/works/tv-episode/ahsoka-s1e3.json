@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Steph Green",
+      "role": "director",
+      "slug": "steph-green"
+    }
+  ],
   "displayTitle": "Time to Fly",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-08-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e3",
+  "synopsis": "Hera tangles with New Republic politics while Ahsoka and Sabine Wren voyage to a distant planet.",
   "title": "Time to Fly"
 }

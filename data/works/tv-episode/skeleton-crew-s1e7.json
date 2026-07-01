@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Watts",
+      "role": "writer",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "writer",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "Lee Isaac Chung",
+      "role": "director",
+      "slug": "lee-isaac-chung"
+    }
+  ],
   "displayTitle": "We're Gonna Be in So Much Trouble",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2025-01-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e7",
+  "synopsis": "Our heroes have never felt further from home.",
   "title": "We're Gonna Be in So Much Trouble"
 }

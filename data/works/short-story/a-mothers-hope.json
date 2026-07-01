@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    }
+  ],
+  "displayTitle": "A Mother's Hope",
+  "era": "oldRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -3630
+  },
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-mothers-hope",
+  "synopsis": "\"A Mother's Hope\" is a short story written by Drew Karpyshyn and published in the developer blog for Star Wars: The Old Republic on November 17, 2016. It features Senya Tirall and her daughter Vaylin engaging in a duel on the planet Ord Mantell in the aftermath of the Battle of Odessen, as seen in the cinematic trailer Betrayed.",
+  "title": "A Mother's Hope"
+}

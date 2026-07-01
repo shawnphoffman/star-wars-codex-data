@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "The Bad Batch S01E07: Battle Scars",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

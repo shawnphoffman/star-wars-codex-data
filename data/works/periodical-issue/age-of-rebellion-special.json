@@ -1,5 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Adams",
+      "role": "writer",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Bryan Young",
+      "role": "writer",
+      "slug": "bryan-young"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "artist",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Caspar Winjngaard",
+      "role": "artist",
+      "slug": "caspar-winjngaard"
+    }
+  ],
   "displayTitle": "Age Of Rebellion Special",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",

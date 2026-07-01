@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rob Coleman",
+      "role": "director",
+      "slug": "rob-coleman"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
   "displayTitle": "Liberty on Ryloth",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

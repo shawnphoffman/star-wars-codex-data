@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #34",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-34",
+  "synopsis": "Star Wars Insider 34 is the thirty-fourth issue of Star Wars Insider magazine. It was published in Summer 1997. Issue 34 marked the conclusion of Star Wars Insider original quarterly publication schedule; with issue 35, the magazine began publishing bi-monthly.",
   "title": "Insider #34"
 }

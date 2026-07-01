@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Thomas Hodges",
+      "role": "writer",
+      "slug": "thomas-hodges"
+    }
+  ],
+  "displayTitle": "The Clone Wars: The Valsedian Operation",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-09-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-valsedian-operation",
+  "synopsis": "The Clone Wars: The Valsedian Operation is a webcomic in The Clone Wars webcomic series taking place right after the events of The Clone Wars: Act on Instinct. It was released concurrently with The Clone Wars television series' third season. It began on September 14, 2010 and its final issue was published on April 29, 2011.",
+  "title": "The Clone Wars: The Valsedian Operation"
+}

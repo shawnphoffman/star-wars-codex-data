@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Katie Kaniewski",
+      "role": "writer",
+      "slug": "katie-kaniewski"
+    },
+    {
+      "name": "Shellie Kvilvang",
+      "role": "director",
+      "slug": "shellie-kvilvang"
+    },
+    {
+      "name": "Julius Harper Jr.",
+      "role": "writer",
+      "slug": "julius-harper-jr"
+    }
+  ],
   "displayTitle": "Yoda's Mission",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-s1e2",
+  "synopsis": "Nash's Jedi friends help her compete in a race. The young Jedi find a long-lost Jedi ship.",
   "title": "Yoda's Mission"
 }

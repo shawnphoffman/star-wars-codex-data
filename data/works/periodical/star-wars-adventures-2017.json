@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nick Brokenshire",
+      "role": "writer",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Alain Mauricet",
+      "role": "artist",
+      "slug": "alain-mauricet"
+    }
+  ],
   "displayTitle": "Adventures (2017)",
   "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-03-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-adventures-2017",
+  "synopsis": "Legendary General Obi-Wan Kenobi undertakes a daring mission for the Republic Army during the Clone Wars! Guest-starring Captain Rex!",
   "title": "Star Wars Adventures (2017)"
 }

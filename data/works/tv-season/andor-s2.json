@@ -1,14 +1,17 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Andor - Season 2",
+  "era": "reignOfTheEmpire",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -1,
     "startYear": -5
   },
   "parentWorkSlug": "andor",
+  "releaseDate": "2025-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2",
+  "synopsis": "In season 2, Cassian Andor transforms from soldier to leader to hero on the way to his epic destiny. His story has activated an ever-widening ensemble of allies and enemies. These relationships will intensify as the horizon of galactic war draws near.Everyone will be tested and, as the stakes rise, the betrayals, sacrifices, and conflicting agendas will become profound. Who will live to see their dream realized? Who will realize what that dream cost?",
   "title": "Andor - Season 2"
 }

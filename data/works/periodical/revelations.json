@@ -1,12 +1,51 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Emma Kubert",
+      "role": "artist",
+      "slug": "emma-kubert"
+    },
+    {
+      "name": "Justin Mason",
+      "role": "artist",
+      "slug": "justin-mason"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "artist",
+      "slug": "paul-fry"
+    },
+    {
+      "name": "Wayne Faucher",
+      "role": "artist",
+      "slug": "wayne-faucher"
+    }
+  ],
   "displayTitle": "Revelations",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "revelations",
   "title": "Revelations"
 }

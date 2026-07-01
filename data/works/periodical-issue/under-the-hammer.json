@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Under the Hammer",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "under-the-hammer",
+  "synopsis": "\"Under the Hammer\" is a comic strip written by Robin Etherington that was originally published in the sixth issue of the Star Wars Comic magazine released May 2014. It was later reprinted in Star Wars Magazine 3.",
+  "title": "Under the Hammer"
+}

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "director",
+      "slug": "bryce-dallas-howard"
+    },
+    {
+      "name": "Myung Joh Wesner",
+      "role": "writer",
+      "slug": "myung-joh-wesner"
+    }
+  ],
   "displayTitle": "Zero Friends Again",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2024-12-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e6",
+  "synopsis": "Relationships fray under the pressures of a difficult journey.",
   "title": "Zero Friends Again"
 }

@@ -1,7 +1,20 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Wheat",
+      "role": "writer",
+      "slug": "jim-wheat"
+    },
+    {
+      "name": "Ken Wheat",
+      "role": "writer",
+      "slug": "ken-wheat"
+    }
+  ],
   "displayTitle": "Ewoks: The Battle For Endor",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -10,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ewoks-the-battle-for-endor",
+  "synopsis": "Ewoks: The Battle for Endor is a 1985 television film written and directed by brothers Jim and Ken Wheat from a story by George Lucas. It focuses on Cindel, a little girl who joins her friends Noa, Wicket and the other Ewoks in facing off against a band of Marauders. The film is a follow-up to 1984's Caravan of Courage: An Ewok Adventure.",
   "title": "Ewoks: The Battle For Endor"
 }

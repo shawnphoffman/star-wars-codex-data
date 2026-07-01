@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #194",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-12-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-194",
+  "synopsis": "Must-read interviews, news, articles and reviews from a galaxy far, far away! This issue is the Episode IX movie special - join us as we dig in to The Rise of Skywalker, the grand climax of the Star Wars saga! Plus, we reveal the results of Insider's Skywalker Saga Survey, take a look at the Meaning of Masks from Vader to Kylo Ren, and discover Life After Skywalker - how to cope with the end of a saga!",
   "title": "Insider #194"
 }

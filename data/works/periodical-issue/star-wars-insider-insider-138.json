@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #138",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-12-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-138",
+  "synopsis": "Insider takes a rare look inside the writers' room of Star Wars: The Clone Wars as we interview the masterminds, who ensure that every episode is intriguing and exciting! Discover what makes a great episode, which is the most difficult character to write for, and get some hints as to where the story is going next! We look ahead to 2013 as Insider previews what's coming up from a galaxy far far away. Additionally, included is a never-before-published interview from the Archives as we continue our look at the making of the original trilogy, a full report from Celebration VI, and the latest books, comics, and toys previewed!",
   "title": "Insider #138"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Wild Space",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-wild-space",
+  "synopsis": "The Clone Wars have exploded across the galaxy as Republic forces and Separatists struggle to gain the upper hand. But while the Jedi generals work tirelessly to defeat Count Dooku and his rebels, Supreme Chancellor Palpatine is hatching his own dark plans. The Separatists have launched a sneak attack on Coruscant. Obi-Wan Kenobi, wounded in battle, insists that Anakin Skywalker and his rookie Padawan Ahsoka leave on a risky mission against General Grievous. But when Senator Bail Organa reveals explosive intelligence that could turn the tide of war in the Republic's favor, the Jedi Master agre",
   "title": "The Clone Wars: Wild Space"
 }

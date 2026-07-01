@@ -1,12 +1,122 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "David Baldeón",
+      "role": "artist",
+      "slug": "david-baldeon"
+    },
+    {
+      "name": "Ray-Anthony Height",
+      "role": "artist",
+      "slug": "ray-anthony-height"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "artist",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "David Messina",
+      "role": "artist",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Luca Pizzari",
+      "role": "artist",
+      "slug": "luca-pizzari"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "artist",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Federico Sabbatini",
+      "role": "artist",
+      "slug": "federico-sabbatini"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "artist",
+      "slug": "guiu-vilanova"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Kei Zama",
+      "role": "artist",
+      "slug": "kei-zama"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "artist",
+      "slug": "victor-olazaba"
+    }
+  ],
   "displayTitle": "War of the Bounty Hunters",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "war-of-the-bounty-hunters",
+  "synopsis": "Star Wars: War of the Bounty Hunters is a canon comic book crossover event and miniseries from Marvel Comics. The comics were announced on February 16, 2021 and began publication with the release of War of the Bounty Hunters Alpha 1 on May 5, 2021. Issues of the ongoing series Star Wars: Bounty Hunters, Star Wars: Darth Vader, Star Wars: Doctor Aphra, and Star Wars are included in the crossover event that also began in the month of May. The five issue miniseries by Charles Soule and Luke Ross began publication in June 2021 and concluded in November. War of the Bounty Hunters re-introduces the ",
   "title": "War of the Bounty Hunters"
 }

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom DeFalco",
+      "role": "writer",
+      "slug": "tom-defalco"
+    }
+  ],
+  "displayTitle": "Night Moves!",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "night-moves",
+  "synopsis": "\"Night Moves!\" is a short comic included with Star Wars: The Clone Wars Comic 6.27.",
+  "title": "Night Moves!"
+}

@@ -1,0 +1,43 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
+    }
+  ],
+  "displayTitle": "Episode I Adventures: The Ghostling Children",
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "imprint": "Scholastic",
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "episode-i-adventures-1-search-for-the-lost-jedi",
+    "episode-i-adventures-10-festival-of-warriors",
+    "episode-i-adventures-11-pirates-from-beyond-the-sea",
+    "episode-i-adventures-12-the-bongo-rally",
+    "episode-i-adventures-13-danger-on-naboo",
+    "episode-i-adventures-14-podrace-to-freedom",
+    "episode-i-adventures-15-the-final-battle",
+    "episode-i-adventures-2-the-bartokk-assassins",
+    "episode-i-adventures-3-the-fury-of-darth-maul",
+    "episode-i-adventures-4-jedi-emergency",
+    "episode-i-adventures-6-the-hunt-for-anakin-skywalker",
+    "episode-i-adventures-7-capture-arawynne",
+    "episode-i-adventures-8-trouble-on-tatooine",
+    "episode-i-adventures-9-rescue-in-the-core"
+  ],
+  "releaseDate": "2000-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-5-the-ghostling-children",
+  "synopsis": "The Ghostling children have been captured and brought to the strange, hostile world of Tatooine. Their only hope of escape is a young slave named Anakin Skywalker.",
+  "title": "Episode I Adventures: The Ghostling Children"
+}

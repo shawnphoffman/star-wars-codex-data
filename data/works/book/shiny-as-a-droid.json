@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shiny-as-a-droid",
+  "synopsis": "Young children will find that outer space is no farther than their fingertips when they stroke a serpent's scaly stomach, touch a strange hairy plant, scratch and sniff an alien fungus&mdash;and more&mdash;while helping Artoo-Detoo and See-Threepio search for the crystal they need to fix their spacecraft.",
   "title": "Shiny as a Droid"
 }

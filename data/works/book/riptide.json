@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Riptide",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 41
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "riptide",
+  "synopsis": "When a ship full of Sith warriors arrived in Galactic Alliance space, the fight to destroy it accidentally uncovered a deadly menace: a long-hidden group of clones, secretly created as insidious weapons capable of wielding the Force and heedless of the differences between light side and dark side. Now the clones have escaped -- and evidence suggests they are flawed by genetic disease and violent madness. Jedi Knight Jaden Korr pursues the clones, hoping to heal them but prepared to destroy them. What he doesn't know is that Sith agents are hot on his heels, determined not only to recover the c",
   "title": "Riptide"
 }

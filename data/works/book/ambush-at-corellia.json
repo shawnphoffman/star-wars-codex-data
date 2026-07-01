@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Ambush at Corellia",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 18
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ambush-at-corellia",
+  "synopsis": "A trade summit on Corellia brings Han Solo back to the home world he left many years before. Arriving on the distant planet with Leia, their children, and Chewbacca, Han finds Corellia overrun with agents of the New Republic Intelligence and finds himself part of a deceptive plan whose aim not even he understands. One thing is clear: the five inhabited worlds of the sector are on the brink of civil war and the once peaceful co-existence of the three leading races&mdash;human, Selonian, and Drallan&mdash;has come to an end. Suddenly all that Han, Leia, and others of the Alliance have fought for",
   "title": "Ambush at Corellia"
 }

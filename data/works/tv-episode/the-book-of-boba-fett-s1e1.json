@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robert Rodriguez",
+      "role": "director",
+      "slug": "robert-rodriguez"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    }
+  ],
   "displayTitle": "Stranger in a Strange Land",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2021-12-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-book-of-boba-fett-s1e1",
+  "synopsis": "Boba Fett holds court.",
   "title": "Stranger in a Strange Land"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #222",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-222",
+  "synopsis": "The big news this issue is the return of The High Republic short fiction to Insider, and we welcome author Lydia Kang to the fold with the first part of her new run of stories &ndash; illustrated by Star Wars concept artist Jake Lunt Davies! &ndash; that kick off Phase III of the Lucasfilm Publishing initiative. There's also the final story in our Star Wars: Return of the Jedi -adjacent \"Galactic Tales,\" and this time the focus falls on some desperate inhabitants of Jabba the Hutt's palace in an all-new story by Richard Dinnick.\nThis issue we speak to Admiral Ackbar himself, puppeteer Tim Rose, who performed the character in Return of the Jedi. There's a fascinating interview with Star Wars: Ahsoka composer, Kevin Kiner, and his collaborators (and children) Sean and Deana. Plus, an indispensable The Mandalorian season three companion and the concluding part of our interview with Industrial Light & Magic's Dennis Muren and Ken Ralston.",
   "title": "Insider #222"
 }

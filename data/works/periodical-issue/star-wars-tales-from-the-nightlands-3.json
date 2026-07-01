@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "artist",
+      "slug": "robert-hack"
+    }
+  ],
   "displayTitle": "Tales From the Nightlands #3",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
@@ -11,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands-3",
+  "synopsis": "As the First Order spreads fear across the galaxy, Leia, Rey, Chewie, and Finn rush to deliver aid to a Twi'lek colony. But upon arriving, they find something much worse than Stormtroopers: the terrifying Nightlander! The heroes must scramble to stop the otherworldly fiend, lest it escape into the land of the living and make the galaxy its ghastly domain!",
   "title": "Star Wars: Tales From the Nightlands #3"
 }

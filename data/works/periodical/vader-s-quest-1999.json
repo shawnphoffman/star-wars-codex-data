@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    },
+    {
+      "name": "Dave Gibbons",
+      "role": "artist",
+      "slug": "dave-gibbons"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "artist",
+      "slug": "p-craig-russell"
+    }
+  ],
   "displayTitle": "Vader's Quest",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "vader-s-quest-1999",
+  "synopsis": "After Darth Vader's narrow escape from the destruction of the Death Star, the Dark Lord is consumed with a desire to find the Force-strong young pilot who fired the fatal shot. For Luke Skywalker represents the heart and soul of the Alliance, and perhaps, for Vader, he represents much, much more. The book's first printing features a foil-stamped logo and special bonus fold-out poster by Gibbons and Angus McKie.",
   "title": "Vader's Quest"
 }

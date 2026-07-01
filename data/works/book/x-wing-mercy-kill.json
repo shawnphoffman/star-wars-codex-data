@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: Mercy Kill",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 44
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-mercy-kill",
+  "synopsis": "X-Wing: Mercy Kill is a Star Wars Legends novel and the tenth and final volume in the Star Wars: X-Wing series. It was written by Aaron Allston and first published by Del Rey in hardcover on August 7, 2012. The first paperback edition was released on June 25, 2013.",
   "title": "X-Wing: Mercy Kill"
 }

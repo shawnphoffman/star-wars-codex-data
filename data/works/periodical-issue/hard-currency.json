@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Hard Currency",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hard-currency",
+  "synopsis": "\"Hard Currency\" was a four-part comic appearing in Dark Horse Extra #21-#24 which was published by Dark Horse Comics. Published March 2000. It was a follow-up to Star Wars: Crimson Empire II: Council of Blood, and is a lead-in to Star Wars: Crimson Empire III: Empire Lost. It was written by Randy Stradley, drawn by Isaac Buckminster Owens, lettered by Michael Taylor, and colored by Jason Hvam.",
+  "title": "Hard Currency"
+}

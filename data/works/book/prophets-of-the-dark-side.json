@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Prophets of the Dark Side",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "prophets-of-the-dark-side",
+  "synopsis": "A JEDI PRINCE.' A DEVASTATING BETRAYAL. AND THE DESTRUCTION OF THE LOST CITY? The battle against the evil Empire rages on as heroic men, women, and aliens of the Rebel Alliance continue their struggle to end the era of darkness. But by rescuing an Imperial prisoner, have the Rebels brought disaster upon themselves? While on a perilous quest in the mushroom forest of Arzid, Luke and Ken are captured by Kadann, Supreme Imperial Prophet. Having tempted the young Jedi Prince into revealing the location of the Lost City of the Jedi, the Supreme Prophet plans to steal the ancient knowledge of the Je",
   "title": "Prophets of the Dark Side"
 }

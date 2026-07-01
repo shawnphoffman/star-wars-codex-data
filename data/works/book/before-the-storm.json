@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Before the Storm",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 16
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "before-the-storm",
+  "synopsis": "In the blockbuster bestselling tradition of Heir to the Empire comes this thrilling addition to the Star Wars saga, as peace gives way to a dire new threat&hellip; It is a time of tranquillity for the New Republic. The remnants of the Empire now lie in complete disarray, and the reemergence of the Jedi Knights has brought power and prestige to the fledgling government on Coruscant. Yesterday's Rebels have become today's administrators and diplomats, and the factions that fought against Imperial tyranny seem united in savoring the fruits of peace. But the peace is short-lived. A restless Luke m",
   "title": "Before the Storm"
 }

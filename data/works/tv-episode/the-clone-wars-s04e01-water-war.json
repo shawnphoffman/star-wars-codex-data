@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Duwayne Dunham",
+      "role": "director",
+      "slug": "duwayne-dunham"
+    },
+    {
+      "name": "Jose Molina",
+      "role": "writer",
+      "slug": "jose-molina"
+    }
+  ],
   "displayTitle": "Water War",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Forces: Rebel Agent",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-forces-rebel-agent",
+  "synopsis": "Dark Forces: Rebel Agent is the second volume in the Dark Forces trilogy of novellas written by William C. Dietz. It was released March 11, 1998 by Dark Horse Comics and Berkley Boulevard, and both the hardcover and trade paperback contain twenty-five full-color illustrations by Ezra Tucker.",
   "title": "Dark Forces: Rebel Agent"
 }

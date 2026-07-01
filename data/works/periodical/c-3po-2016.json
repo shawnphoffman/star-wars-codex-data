@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Robinson",
+      "role": "writer",
+      "slug": "james-robinson"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "artist",
+      "slug": "tony-harris"
+    }
+  ],
   "displayTitle": "C-3PO",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "c-3po-2016",
+  "synopsis": "3PO droids were designed for the service of royalty, diplomats, and politicians. Its century long operating life is a good example of the excellent design of this series.",
   "title": "C-3PO"
 }

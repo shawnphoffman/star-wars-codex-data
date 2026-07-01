@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #158",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-06-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-158",
+  "synopsis": "This issue, Han Solo takes center stage as we profile the life and times of the man who goes from rogue to rebel! We'll be reporting on all of the big news from Star Wars Celebration: Anaheim and bringing you exclusive interviews with the stars!\nAnd as the countdown to Star Wars: Episode VII-The Force Awakens continues, we'll have the latest news on the hotly anicipated movie, plus exclusive all-new Star Wars fiction!\nPlus: 'The Costumes of Return of the Jedi' reaches its final part as we reveal more unseen images of Leia, Jabba's henchmen, and some strange, strange creatures!",
   "title": "Insider #158"
 }

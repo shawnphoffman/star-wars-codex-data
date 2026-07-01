@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #139",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-139",
+  "synopsis": "Season Five of Star Wars: The Clone Wars intensifies as Obi-Wan Kenobi joins forces with the Mandalorians. We preview the all-new episodes. We're also taking a look behind the scenes on the Making of Return of the Jedi, with exclusive content from J. W. Rinzler's forthcoming book. Exclusive classic behind-the-scenes material, and exclusive fiction continues with all-new art!",
   "title": "Insider #139"
 }

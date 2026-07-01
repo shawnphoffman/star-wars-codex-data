@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Ahsoka's Ark",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ahsoka-s-ark",
+  "synopsis": "In this issue's all new Star Wars: The Clone Wars comic adventure Ahsoka's Ark, Ahsoka is stuck on a babysitting duty aboard a ship carrying farm animals to terraformed planets. It may seem a strange job for a Jedi, but when the ship is overtaken by a group of angry farmers, can Ahsoka protect her noisy, smelly cargo?",
+  "title": "Ahsoka's Ark"
+}

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Children Of The Force",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-children-of-the-force",
+  "synopsis": "\"Based on season two of the hit animated series Star Wars: The Clone Wars, this full-color, 32-page, 8x8 storybook follows the adventures of Anakin and Ahsoka as they try to stop a ruthless bounty hunter who has been kidnapping children who show signs of the Force.\"",
   "title": "The Clone Wars: Children Of The Force"
 }

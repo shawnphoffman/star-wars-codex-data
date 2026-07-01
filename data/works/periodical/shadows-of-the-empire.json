@@ -1,11 +1,31 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "artist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "artist",
+      "slug": "p-craig-russell"
+    }
+  ],
   "displayTitle": "Shadows of the Empire",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1996-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "shadows-of-the-empire",
   "title": "Shadows of the Empire"
 }

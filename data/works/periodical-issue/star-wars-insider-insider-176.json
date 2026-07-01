@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #176",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-176",
+  "synopsis": "Features the very best interviews and articles about the greatest space adventure of all time! Discover amazing features you never knew! Insider is the ultimate guide to the timeless saga!",
   "title": "Insider #176"
 }

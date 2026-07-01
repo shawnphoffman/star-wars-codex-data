@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -25,6 +25,7 @@
       "onsale": "2011-01-25T00:00:00.000Z"
     }
   ],
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1032

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "The Disappeared",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s1e17",
+  "synopsis": "Kaz and Torra investigate the disappearance of a friend and plan to free them from the First Order.",
   "title": "The Disappeared"
 }

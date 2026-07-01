@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Jedi Masquerade",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-masquerade",
+  "synopsis": "Young Jedi Knight Jyl Somtay adopts a dangerous strategy in the latest issue's brand new and exclusive The Clone Wars comic strip - disguising herself as the deadly bounty hunter Aurra Sing. Will the plan pay off?",
+  "title": "Jedi Masquerade"
+}

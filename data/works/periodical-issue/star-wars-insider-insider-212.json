@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #212",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-08-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-212",
+  "synopsis": "In this issue of Star Wars Insider, there's an exclusive interview with Carey Jones, the actor inside the Krrsantan costume in The Book of Boba Fett (2021), and we also take a speculative look at how life on Endor might have been changed for the Ewoks by the presence of the Empire. Other highlights include interviews with Hugh Quarshie (Captain Panaka in 1999's The Phantom Menace), Star Wars: Shadow of the Sith author Adam Christopher, and Industrial Light & Magic matte painting veteran Craig Barron. Plus, there's exclusive new fiction by Rodney Barnes starring Jedi Master Mace Windu.",
   "title": "Insider #212"
 }

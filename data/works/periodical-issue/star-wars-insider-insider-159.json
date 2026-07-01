@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #159",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-07-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-159",
+  "synopsis": "Asajj Ventress, the evil Sith warrior from Star Wars: The Clone Wars, takes center stage as she stars in an all-new tale!\nPlus, we look back on her life and times! With the first episode of the second season of Star Wars Rebels debuting at Star Wars Celebration 2015, we tease the new season and talk to the cast.\nWith Star Wars topping the comic charts, we look at Marvel's new series and how it came to smash records!\nPlus, the countdown to The Force Awakens continues!",
   "title": "Insider #159"
 }

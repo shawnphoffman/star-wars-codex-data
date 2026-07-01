@@ -1,11 +1,37 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "artist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "artist",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    }
+  ],
   "displayTitle": "Dark Times",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2006-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-times",
+  "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series. The story begins shortly after Purge, and intertwines with the events of Dark Lord: The Rise of Darth Vader. In July 2008, the line was paused for eight months to give precedence to the C",
   "title": "Dark Times"
 }

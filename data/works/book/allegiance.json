@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -30,12 +30,14 @@
       "onsale": "2007-01-02T00:00:00.000Z"
     }
   ],
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
   "releaseDate": "2007-01-02T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "allegiance",
   "synopsis": "Hugo-winning author Timothy Zahn has already established himself a major luminary in the Star Wars universe with his Thrawn novels and iOutbound Flight/i. The attributes that earned him that reputation are easy to describe: Vivid characterization; strong plot momentum; memorable stories. All of those elements pop before our eyes in iStar Wars Allegiance,/i a novel set immediately after the events of iStar Wars: A New Order/i. This fiction features some of iStar Wars/i' most popular characters (Luke Skywalker, Princess Leia Organa, Hans Solo) and a fresh new face: Mara Jade, the Force-sensitive young woman destined to become the wife of Luke Skywalker. A major new constellation.",
   "title": "Allegiance"

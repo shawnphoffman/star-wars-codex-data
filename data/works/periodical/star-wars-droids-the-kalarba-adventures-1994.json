@@ -1,6 +1,34 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "artist",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "artist",
+      "slug": "andy-mushynsky"
+    }
+  ],
   "displayTitle": "Droids: The Kalarba Adventures",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +37,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-the-kalarba-adventures-1994",
+  "synopsis": "Star Wars: Droids: The Kalarba Adventures is a trade paperback published by Dark Horse Comics in June 1995. With an introduction by Anthony Daniels, The Kalarba Adventures collects the Droids Special, the six issues of Star Wars: Droids (1994), the short comic issue \"Artoo's Day Out\", and production sketches from Droids.",
   "title": "Star Wars Droids: The Kalarba Adventures"
 }

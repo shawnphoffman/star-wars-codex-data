@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #86",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2006-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-86",
+  "synopsis": "Star Wars Insider 86 is the 86th issue of Star Wars Insider. It began shipping to subscribers the week of February 13, and shipped to newsstands on February 21, 2006. It saw the departure of editor-in-chief Brett Rector and associate art directory Gregory Harsh, with Frank Parisi taking over as editor in the next issue.",
   "title": "Insider #86"
 }

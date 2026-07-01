@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "All That's Left",
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3626
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "all-that-s-left",
+  "synopsis": "Without her master's guidance, Padawan Sa'har Kateen must face her most difficult trial yet: forgiveness.",
   "title": "All That's Left"
 }

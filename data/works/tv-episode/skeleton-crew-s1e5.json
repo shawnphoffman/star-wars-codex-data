@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jake Schreier",
+      "role": "director",
+      "slug": "jake-schreier"
+    },
+    {
+      "name": "Myung Joh Wesner",
+      "role": "writer",
+      "slug": "myung-joh-wesner"
+    }
+  ],
   "displayTitle": "You Have a Lot to Learn About Pirates",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2024-12-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e5",
+  "synopsis": "A seemingly pleasant world will test our heroes like no other.",
   "title": "You Have a Lot to Learn About Pirates"
 }

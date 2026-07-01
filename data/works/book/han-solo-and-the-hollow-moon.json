@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "jeremy-barlow"
     }
   ],
-  "displayTitle": "Star Wars Adventures: Han Solo And The Hollow Moon Of Khorya",
+  "displayTitle": "Adventures: Han Solo And The Hollow Moon Of Khorya",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solo-and-the-hollow-moon",
+  "synopsis": "A smuggler's life is never easy. Han Solo and his first mate, Chewbacca, learned that long before joining Luke Skywalker, Princess Leia, and their Rebel Alliance. In their quest to pay off a debt, Han and Chewie are caught between gangsters and the Empire. Chewie is held as collateral and forced to fight for survival, while Han is joined by his former partner, Billal Batross - an experienced, shady, con artist - to complete an errand that will wipe out both Han and Billal's obligations to the mob. What could go wrong?",
   "title": "Star Wars Adventures: Han Solo And The Hollow Moon Of Khorya"
 }

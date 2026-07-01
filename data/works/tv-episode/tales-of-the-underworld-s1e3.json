@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "One Warrior to Another",
+  "era": "multiEra",
   "format": "tvEpisode",
   "parentWorkSlug": "tales-of-the-underworld-season-1",
   "releaseDate": "2025-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-underworld-s1e3",
+  "synopsis": "Ventress finds herself in the middle of a local dispute on a backwater planet.",
   "title": "One Warrior to Another"
 }

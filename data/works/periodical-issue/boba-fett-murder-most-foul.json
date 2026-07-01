@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "Boba Fett: Murder Most Foul",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-08-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-murder-most-foul",
+  "synopsis": "Gorga may want to call off the hit&mdash;the target being his father-in-law and Gorga's wife being suddenly pregnant and all&mdash;but Boba Fett was promised a contract, and he doesn't do last-minute cancellations. It's a knockdown, drag-out roustabout in Boba Fett: Murder Most Foul!",
+  "title": "Boba Fett: Murder Most Foul"
+}

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Tide I: Onslaught",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-tide-i-onslaught",
+  "synopsis": "It is a perilous time for the New Republic. Just when unity is needed most, mistrust is on the rise. Even the Jedi feel the strain, as rogue elements rebel against Luke Skywalker's leadership. When alien invaders known as the Yuuzhan Vong strike without warning, the New Republic is thrown on the defensive. Luke must wield all the awesome powers of a Jedi Master to defeat the gravest threat since Emperor Palpatine. As Leia Organa Solo and Gavin Darklighter lead desperate refugees in a fighting retreat from Yuuzhan Vong forces, Mara Jade Skywalker, Jedi apprentices Jacen and Anakin Solo, and Jed",
   "title": "Dark Tide I: Onslaught"
 }

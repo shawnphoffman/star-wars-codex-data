@@ -1,6 +1,24 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    }
+  ],
   "displayTitle": "The Last Jedi - The Storms of Crait",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-the-storms-of-crait-2017",
+  "synopsis": "This December, the soon-to-be thrilling Star Wars: The Last Jedi rocks movie screens across the world...and the reverberations are felt all around a galaxy far, far away! First up, learn the secret of the mineral planet Crait! Long before it became a battleground between the Resistance and the First Order, Luke Skywalker and Leia Organa led the Rebellion there in search of a new home! From writers Ben Acker & Ben Blacker (Star Wars Join the Resistance) and artist Marco Checchetto (Star Wars: Shattered Empire) comes the backstory to this winter's biggest adventure!",
   "title": "The Last Jedi - The Storms of Crait"
 }

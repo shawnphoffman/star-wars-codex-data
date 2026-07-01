@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Revenge",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Crystal Star",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 14
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-crystal-star",
+  "synopsis": "Princess Leia is dealt a crushing blow when her three children&mdash;Anakin and the twins Jaina and Jacen&mdash;are kidnapped. Leia's advisers counsel her to wait for a ransom note, but waiting is the hardest thing for a mother to do when her children are in danger&mdash;and worse than waiting is her discovery that she cannot sense her children through the Force. Ultimately, the princess has no choice. She, Chewbacca, and Artoo-Detoo track the kidnappers, following their trail to a disabled refugee ship where the answers provided by Rillao, a mysterious fugitive, only provoke more questions. T",
   "title": "The Crystal Star"
 }

@@ -1,6 +1,74 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marc Bernardin",
+      "role": "writer",
+      "slug": "marc-bernardin"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "artist",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "David Baldeón",
+      "role": "artist",
+      "slug": "david-baldeon"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "artist",
+      "slug": "salva-espin"
+    }
+  ],
   "displayTitle": "Revelations (2023)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +77,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "revelations-2023",
+  "synopsis": "FROM THE HIGH REPUBLIC TO THE ORIGINAL TRILOGY AND BEYOND! JABBA THE HUTT! DARTH VADER! MACE WINDU! KEEVE TRENNIS, THRAWN AND MORE! Introducing new characters, new twists and new turns across all of Marvel's STAR WARS line! This star-studded issue puts the pieces on the board for what's to come in a galaxy far, far away!",
   "title": "Revelations (2023)"
 }

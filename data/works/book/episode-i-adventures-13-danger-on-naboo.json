@@ -1,0 +1,42 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "A.L. Singer",
+      "role": "writer",
+      "slug": "a-l-singer"
+    }
+  ],
+  "displayTitle": "Episode I Adventures: Danger on Naboo",
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "episode-i-adventures-1-search-for-the-lost-jedi",
+    "episode-i-adventures-10-festival-of-warriors",
+    "episode-i-adventures-11-pirates-from-beyond-the-sea",
+    "episode-i-adventures-12-the-bongo-rally",
+    "episode-i-adventures-14-podrace-to-freedom",
+    "episode-i-adventures-15-the-final-battle",
+    "episode-i-adventures-2-the-bartokk-assassins",
+    "episode-i-adventures-3-the-fury-of-darth-maul",
+    "episode-i-adventures-4-jedi-emergency",
+    "episode-i-adventures-5-the-ghostling-children",
+    "episode-i-adventures-6-the-hunt-for-anakin-skywalker",
+    "episode-i-adventures-7-capture-arawynne",
+    "episode-i-adventures-8-trouble-on-tatooine",
+    "episode-i-adventures-9-rescue-in-the-core"
+  ],
+  "releaseDate": "2000-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-adventures-13-danger-on-naboo",
+  "synopsis": "The planet of Naboo has been blockaded. Obi-Wan Kenobi and Qui-Gon Jinn have been sent as Jedi emissaries to establish peace. But they find war instead.\nNaboo needs their help.",
+  "title": "Episode I Adventures: Danger on Naboo"
+}

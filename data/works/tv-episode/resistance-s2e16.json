@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "No Place Safe",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e16",
+  "synopsis": "Kaz decides to join up with Poe and the Resistance, but things go awry when he discovers the First Order has located the Colossus.",
   "title": "No Place Safe"
 }

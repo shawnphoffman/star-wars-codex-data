@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #01",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-1",
+  "synopsis": "It's the adaptation of A New Hope! Meet Luke Skywalker, Princess Leia, Obi-Wan and the villianous [sic] Darth Vader!",
   "title": "Star Wars (1977) #01"
 }

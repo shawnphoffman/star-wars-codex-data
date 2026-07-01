@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Enemy Within",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -21
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-enemy-within",
+  "synopsis": "Spearheading a bold, covert mission intended to bring an end to the fighting on a war-torn world, a platoon of Clone troopers find their plans undone by faulty intelligence and bad luck, and themselves stranded deep inside hostile territory. With no choice but to see their flawed mission through to its end, the ragged soldiers make their final push toward their target, unaware that their victory could spell disaster for the Republic!",
   "title": "The Clone Wars: The Enemy Within"
 }

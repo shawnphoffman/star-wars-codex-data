@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "gamebook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Jedi's Honor",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-s-honor",
+  "synopsis": "After the Battle of Yavin, the Alliance needed a secure site to base their operations. Luke's dual mission: to search for a world the Empire has overlooked, and to observe local systems along the way. But in the Sil'Lume Asteroid Belt, the search takes on a personal twist- a local agitator taken prisoner by the Empire is reputed to be the son of a Jedi Knight! Should Luke pursue the rumor, or is his mission for the Alliance paramount? Luke Skywalker&mdash;Jedi-in-training, Hero of Yavin&mdash;stars in this fast-paced tale of quick wits and tough decisions. You'll choose his best options and fi",
   "title": "Jedi's Honor"
 }

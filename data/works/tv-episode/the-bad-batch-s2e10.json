@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Moisés Zamora",
+      "role": "writer",
+      "slug": "moiss-zamora"
+    }
+  ],
   "displayTitle": "Retrieval",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-02-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e10",
+  "synopsis": "Attempting to recover a lost asset, the Batch must learn to trust a thief.",
   "title": "Retrieval"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #236",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-02-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-236",
+  "synopsis": "NEWS, EXCLUSIVE FICTION, AND MORE!\nFEATURING: STAR WARS: MAUL - SHADOW LORD! Sam Witwer discusses his return as the villainous former Sith\nROGUE ONE: A STAR WARS STORY 10TH ANNIVERSARY! Gareth Edwards, John Knoll, and Garry Whitta talk about the making of the movie\nINTERVIEWS: Andor and Rogue One's Alistair Petrie (General Draven) and LEGO Star Wars: Rebuild the Galaxy director Chris Buckley\nEXCLUSIVE STAR WARS SHORT FICTION By Lucasfilm's Phil Szostak",
   "title": "Insider #236"
 }

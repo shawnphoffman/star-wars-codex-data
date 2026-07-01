@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #107",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2009-01-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-107",
+  "synopsis": "Star Wars Insider 107 is the 107th issue of the Star Wars Insider magazine, the 15th issue to be published by Titan Magazines and the first to be edited by Jonathan Wilkins. It features one newsstand cover, in addition to the Exclusive Limited Edition Collectors' Cover.",
   "title": "Insider #107"
 }

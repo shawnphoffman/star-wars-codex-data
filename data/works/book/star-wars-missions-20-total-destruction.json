@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 20: Total Destruction",
+  "displayTitle": "Missions 20: Total Destruction",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-20-total-destruction",
+  "synopsis": "You are a Rebel. On a distant planet in the Unknown Regions, the Empire is setting up a device that will allow them to control all hyperspace travel. If they succeed, the Rebellion will be crushed &ndash; and the Empire will dominate the galaxy forevermore. You are the Rebellion's only hope. Your mission: to destroy the Imperial device &ndash; and thwart Darth Vader's sinister plans. May the Force be with you.",
   "title": "Star Wars Missions 20: Total Destruction"
 }

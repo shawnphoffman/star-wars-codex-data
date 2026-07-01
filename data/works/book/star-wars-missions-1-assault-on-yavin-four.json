@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 1: Assault on Yavin Four",
+  "displayTitle": "Missions 1: Assault on Yavin Four",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-1-assault-on-yavin-four",
+  "synopsis": "The first Death Star has been destroyed. But the Empire remains. An Imperial cruiser has landed on Yavin Four. The Rebel base is threatened. Your mission: to prevent the assault on Yavin Four&hellip;at any cost. May the Force be with you.",
   "title": "Star Wars Missions 1: Assault on Yavin Four"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #61",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2002-08-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-61",
+  "synopsis": "Star Wars Insider 61 is the sixty-first issue of Star Wars Insider magazine. It was released to newsstands on August 6, 2002. This was the final Star Wars Insider issue published by Wizards of the Coast.",
   "title": "Insider #61"
 }

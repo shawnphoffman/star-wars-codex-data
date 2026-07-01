@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #96",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2007-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-96",
+  "synopsis": "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.' We take an in-depth look at the rise of the Empire, featuring everything you wanted to know about the Empire but were afraid to ask! Plus, all the latest news, exclusive interviews and much, much more! Available in Newsstand and Previews Exclusive cover editions!\"",
   "title": "Insider #96"
 }

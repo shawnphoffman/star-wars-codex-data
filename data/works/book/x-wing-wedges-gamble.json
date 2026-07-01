@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: Wedge's Gamble",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 6
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-wedges-gamble",
+  "synopsis": "It is the evil heart of a battered and reeling Empire: Coruscant, the giant city-world from whose massive towers the Imperial High Command directs the war. The Rebels will invade this mighty citadel in a daring move to bring the Empire to its knees. But first Wedge Antilles and his X-wing pilots must infiltrate Coruscant to gain vital intelligence information. Capture means death, or worse&mdash;enslavement by the vicious leader known as \"Iceheart,\" Ysanne Isard, now Emperor in all but name. And one of Rogue Squadron's own is already her slave, a traitor hidden behind a mask of innocence, work",
   "title": "X-Wing: Wedge's Gamble"
 }

@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Kennedy",
+      "role": "writer",
+      "slug": "mike-kennedy"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "artist",
+      "slug": "howard-m-shum"
+    }
+  ],
   "displayTitle": "Qui-Gon & Obi-Wan: The Aurorient Express",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "qui-gon-obi-wan-the-aurorient-express-2002",
+  "synopsis": "Star Wars: Qui-Gon and Obi-Wan: The Aurorient Express is a comic miniseries written by Mike Kennedy and drawn by Lucas Marangon, starring Qui-Gon Jinn and Obi-Wan Kenobi. The series is composed of 2 issues released in February and June 2002.",
   "title": "Qui-Gon & Obi-Wan: The Aurorient Express"
 }

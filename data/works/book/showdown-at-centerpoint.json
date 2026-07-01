@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Showdown at Centerpoint",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 18
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "showdown-at-centerpoint",
+  "synopsis": "When a loyalist ship approaching Selonia is blasted out of space, Han Solo quickly realizes that rebel forces are turning planetary repulsors into weapons of immense destruction. Meanwhile, Luke Skywalker and Lando Calrissian manage to discover the terrifying secret of Centerpoint Station. It is the infamous Starbuster itself, and its next programmed nova, hard-wired in, is set to annihilate a chosen star, its inhabited worlds, and millions of innocent lives. There's only one way to stop it: blow up the station. But as a massive rebel fleet closes in on Centerpoint, Han, Luke and their friends",
   "title": "Showdown at Centerpoint"
 }

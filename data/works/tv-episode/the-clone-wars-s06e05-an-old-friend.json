@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Taylor",
+      "role": "writer",
+      "slug": "christian-taylor"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Clone Wars S06E05: An Old Friend",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

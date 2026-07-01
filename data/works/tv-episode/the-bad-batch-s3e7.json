@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "Extraction",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-03-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e7",
+  "synopsis": "As enemies close in, the Batch must evacuate a stronghold.",
   "title": "Extraction"
 }

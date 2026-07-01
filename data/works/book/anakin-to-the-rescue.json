@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Anakin to the Rescue",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "anakin-to-the-rescue",
+  "synopsis": "\"ALWAYS HELP OTHERS.\" In Anakin to the Rescue, Anakin is supposed to wait for Qui-Gon outside the Jedi Temple. But Anakin hates waiting! And when he and Jar Jar find a lost little boy, Anakin knows he must help him. He wants to be brave and good, just like a Jedi Knight!",
   "title": "Anakin to the Rescue"
 }

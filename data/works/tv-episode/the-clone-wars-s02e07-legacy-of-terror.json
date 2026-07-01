@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Eoghan Mahony",
+      "role": "writer",
+      "slug": "eoghan-mahony"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "Legacy of Terror",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

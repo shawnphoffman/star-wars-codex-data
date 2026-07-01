@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Ambush",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-ambush",
+  "synopsis": "In this full-color graphic novel, Jedi Master Yoda is on a secret diplomatic mission when his ship is ambushed by Count Dooku. The diminutive Jedi Master and three clone troopers must then face off against Dooku's dreaded assassin Ventress and her massive droid army.",
   "title": "The Clone Wars: Ambush"
 }

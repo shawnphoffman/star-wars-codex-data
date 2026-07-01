@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Jennifer Getzinger",
+      "role": "director",
+      "slug": "jennifer-getzinger"
+    }
+  ],
   "displayTitle": "Far, Far Away",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-09-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e6",
+  "synopsis": "The search for Grand Admiral Thrawn reaches beyond the limits of the galaxy.",
   "title": "Far, Far Away"
 }

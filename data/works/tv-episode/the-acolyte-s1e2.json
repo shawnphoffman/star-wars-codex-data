@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Leslye Headland",
+      "role": "director",
+      "slug": "leslye-headland"
+    },
+    {
+      "name": "Jason A. Micallef",
+      "role": "writer",
+      "slug": "jason-a-micallef"
+    },
+    {
+      "name": "Charmaine DeGraté",
+      "role": "writer",
+      "slug": "charmaine-degrat"
+    }
+  ],
   "displayTitle": "Revenge / Justice",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e2",
+  "synopsis": "An assassin strikes again, but this time the Jedi are there to attempt capture.",
   "title": "Revenge / Justice"
 }

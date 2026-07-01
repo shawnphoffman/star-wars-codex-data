@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Anakin: Apprentice",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": -22,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "anakin-apprentice",
+  "synopsis": "Nineteen-year-old Anakin Skywalker, apprentice to Obi-Wan Kenobi, remembers some of his past adventures in which he raced swoop bikes, built androids, and found crystals to complete his lightsaber.",
   "title": "Anakin: Apprentice"
 }

@@ -1,11 +1,15 @@
 {
   "canonStatus": "non-canon",
   "displayTitle": "Classic Star Wars",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1992-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "classic-star-wars",
+  "synopsis": "Classic Star Wars was an expansive comic book series published by Dark Horse that re-released several Star Wars comics of the original trilogy era, including the daily Star Wars strip by Archie Goodwin and Al Williamson, as well as several from Star Wars (1977) series of the '70s and '80s. The entire series was published from 1992 to 2003. The original strips were edited and retouched, while some continuity repetitions were removed in order to form a seamless narrative. Minimalist coloring was added to the black and white drawings by Russ Manning, as the traditional four-color comic book feel ",
   "title": "Classic Star Wars"
 }

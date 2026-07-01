@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Luke Skywalker's Race Against Time",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 1
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "luke-skywalkers-race-against-time",
+  "synopsis": "Luke Skywalker's Race Against Time was a young children's book telling a story about Luke Skywalker flying his X-wing against an Imperial ship headed to a Rebel base. It was written by John Whitman and illustrated by Kilian Plunkett. As a Cruise Along Book, the book came packaged with a Micro Machines X-Ray Fleet miniature X-wing fighter.",
   "title": "Luke Skywalker's Race Against Time"
 }

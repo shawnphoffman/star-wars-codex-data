@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Christian Taylor",
+      "role": "writer",
+      "slug": "christian-taylor"
+    }
+  ],
   "displayTitle": "Ghosts of Mortis",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

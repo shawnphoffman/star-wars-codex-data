@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) Annual #1: The Long Hunt",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-annual-1977-1",
+  "synopsis": "Star Wars Annual 1 is the first Annual issue in Marvel's Star Wars series of comics.",
   "title": "Star Wars (1977) Annual #1: The Long Hunt"
 }

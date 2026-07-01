@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #166",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-06-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-166",
+  "synopsis": "Two heroes take center stage in the latest issue of Star Wars Insider: supercool Resistance pilot Poe Dameron and the legendary arm tearing, mouse droid-scaring Wookiee, Chewbacca! We'll be looking at Marvel Comics' all-new Star Wars: Poe Dameron comic book with interviews with the artist and writers behind the epic new tale.\nChewbacca will be making his presence felt as we look at his 50 greatest moments from the movies, the comic books, novels, and beyond!",
   "title": "Insider #166"
 }

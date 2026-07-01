@@ -1,6 +1,14 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    }
+  ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",
+  "synopsis": "The team that brought you Star Wars: Hyperspace Stories: The Bad Batch—Ghost Agents returns with this thrilling follow-up series, collected in graphic novel format! The Bad Batch is back! When a Separatist scientist and his dangerous invention go missing during the Clone Wars, Clone Force 99 is sent to track him down and prevent the device from falling into the wrong hands. But as Hunter, Wrecker, Crosshair, and Tech arrive at the scientist’s abandoned laboratory, they quickly realize that they aren’t the only ones on his trail…and that this mission will be different than any that they’ve face",
   "title": "Hyperspace Stories: The Bad Batch: Rogue Agents"
 }

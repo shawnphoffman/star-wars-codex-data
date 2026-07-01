@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    }
+  ],
   "displayTitle": "The Last Battle",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

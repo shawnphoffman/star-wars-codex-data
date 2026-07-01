@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #230",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-230",
+  "synopsis": "Welcome to the first issue of Star Wars Insider for 2025!\nAnthony Daniels recently hosted a revival of Star Wars: A Musical Journey for several nights at the Walt Disney Concert Hall in Los Angeles. In this issue of Insider we speak with the C-3PO actor about the original concert series, its new iteration, and his personal thoughts on Williams' incredible music.\nAlso in this issue, Joonas Suotamo tells us about shooting his big action scene as Kelnacca in Star Wars: The Acolyte; the effects artists at Tippett Studios reveal how they created a stop-motion creature for Star Wars: Skeleton Crew; and Star Wars: A New Hope set decorator Roger Christian details how some of Star Wars most iconic objects came to be. All this and exclusive The High Republic fiction from Lydia Kang too!",
   "title": "Insider #230"
 }

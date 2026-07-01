@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kogonada",
+      "role": "director",
+      "slug": "kogonada"
+    },
+    {
+      "name": "Jasmyne Flournoy",
+      "role": "writer",
+      "slug": "jasmyne-flournoy"
+    },
+    {
+      "name": "Charmaine DeGraté",
+      "role": "writer",
+      "slug": "charmaine-degrat"
+    },
+    {
+      "name": "Jen Richards",
+      "role": "writer",
+      "slug": "jen-richards"
+    }
+  ],
   "displayTitle": "Choice",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e7",
+  "synopsis": "A bitter truth is revealed.",
   "title": "Choice"
 }

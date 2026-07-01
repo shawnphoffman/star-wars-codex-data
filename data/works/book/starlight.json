@@ -1,10 +1,26 @@
 {
   "bookType": "shortStory",
   "canonStatus": "canon",
-  "displayTitle": "Starlight",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "Insider: The High Republic: Starlight Stories",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781787738652"
+    }
+  ],
+  "era": "highRepublic",
   "format": "book",
+  "releaseDate": "2022-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "starlight",
-  "title": "Starlight"
+  "synopsis": "High Republic-era short tales told from the satellite station Starlight Beacon, centuries before the films at the height of the Jedi Order; gathers the Insider \"Starlight\" shorts for the first time with illustrations and architect interviews.",
+  "title": "Star Wars Insider: The High Republic: Starlight Stories"
 }

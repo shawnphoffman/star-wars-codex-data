@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Kinberg",
+      "role": "writer",
+      "slug": "simon-kinberg"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Rebels S01E13: Call To Action",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

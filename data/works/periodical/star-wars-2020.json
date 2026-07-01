@@ -1,12 +1,82 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "artist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Jan Bazaldúa",
+      "role": "artist",
+      "slug": "jan-bazalda"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "artist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Andrés Genolet",
+      "role": "artist",
+      "slug": "andrs-genolet"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "artist",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Daniele Orlandini",
+      "role": "artist",
+      "slug": "daniele-orlandini"
+    }
+  ],
   "displayTitle": "Star Wars (2020)",
   "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2020-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-2020",
+  "synopsis": "Star Wars is a Star Wars comic book series written by Charles Soule and published by Marvel Comics, beginning in January of 2020. It features the characters Luke Skywalker, Leia Organa, Lando Calrissian, Chewbacca, C-3PO, and R2-D2, and takes place between the events of Star Wars: Episode V The Empire Strikes Back and Star Wars: Episode VI Return of the Jedi. It is a relaunch of the concluded comic series of the same name that ran from 2015 to 2019. Eventually, Marvel announced they would resume their publishing line on May 27, 2020, and the series resumed publication in August 2020 with issue 5.",
   "title": "Star Wars (2020)"
 }

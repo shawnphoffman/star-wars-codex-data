@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Younglings",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-09-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "younglings",
+  "synopsis": "Even in the middle of war, the training of the next generation of Jedi can't be overlooked&hellip; When a nocturnal expedition takes an unexpected turn in the latest issue's brand new comic strip, Anakin needs the help of some 'Younglings'!",
+  "title": "Younglings"
+}

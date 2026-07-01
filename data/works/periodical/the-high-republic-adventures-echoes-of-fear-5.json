@@ -1,12 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-04-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-echoes-of-fear-5",
+  "synopsis": "A pair of Jedi investigate the strange and powerful Echo Stones in the hopes of defeating the Nameless. What they discover is a legendary story that spans the galaxy’s history! When Jedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo are charged with delving into the Jedi Archives to learn more about the mysterious Echo Stones, they’re not expecting to find themselves starting out on a dangerous quest that will eventually see them going after one of the stones themselves, in the form of the mystical Rod of Ages. But first, they must learn everything they can about the origin of these stran",
   "title": "The High Republic Adventures: Echoes of Fear"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Luke Skywalker and the Shadows of Mindor",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "luke-skywalker-and-the-shadows-of-mindor",
+  "synopsis": "Luke Skywalker and the Shadows of Mindor is a standalone novel by Matthew Stover that chronicles the Battle of Mindor. It was originally scheduled to be released in hardcover in February 2008 by Del Rey, but was later moved to October 21 before being eventually released on December 30. The paperback was released on February 23, 2010.",
   "title": "Luke Skywalker and the Shadows of Mindor"
 }

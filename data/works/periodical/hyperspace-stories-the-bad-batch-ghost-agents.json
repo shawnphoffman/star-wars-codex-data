@@ -1,11 +1,31 @@
 {
   "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "artist",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "artist",
+      "slug": "elisabetta-damico"
+    }
+  ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDisplayState": "announced",
+  "releaseStatus": "announced",
   "slug": "hyperspace-stories-the-bad-batch-ghost-agents",
+  "synopsis": "After a daring operation on the planet Kessel, the Bad Batch have caught up with the masked thief who stole vital intel from Coruscant. But be careful what you wish for, clones! Because this burglar is no ordinary crook: they are a dark side Force user who wields a lightsaber with deadly precision. Can the Bad Batch get close enough to unveil their mysterious foe and retrieve the intel?",
   "title": "Hyperspace Stories: The Bad Batch: Ghost Agents"
 }

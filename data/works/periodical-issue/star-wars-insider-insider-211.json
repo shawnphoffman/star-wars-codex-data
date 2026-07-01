@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #211",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-211",
+  "synopsis": "WITH A NEW ADVENTURE FOR OBI-WAN KENOBI COMING TO DISNEY+ IN 2022, WE TRACE THE MAJOR EVENTS IN THE LIFE OF THE JEDI KNIGHT TURNED TATOOINE HERMIT.\nThe Academy Award winning set decorator Roger Christian talks about his work on Star Wars: A New Hope!",
   "title": "Insider #211"
 }

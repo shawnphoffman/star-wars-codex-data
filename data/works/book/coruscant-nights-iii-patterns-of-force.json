@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Coruscant Nights III: Patterns of Force",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -19
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "coruscant-nights-iii-patterns-of-force",
+  "synopsis": "After the Empire's bloody purge of the Jedi, one lone Knight still fights for those who can't, unaware that he's about to be swept into a cataclysmic battle against the Master of Darkness himself. Throughout the galaxy, a captured Jedi is a dead Jedi, even in Coruscant's most foul subterranean slums, where Jedi Knight Jax Pavan champions the causes of the oppressed with the help of hard-nosed reporter Den Dhur and the wisecracking droid I-5YQ. But Jax is also involved in another struggle -- to unlock the secrets of his father's death and his own past. While Jax believes that I-5YQ holds some o",
   "title": "Coruscant Nights III: Patterns of Force"
 }

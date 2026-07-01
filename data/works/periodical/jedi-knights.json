@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    }
+  ],
   "displayTitle": "Jedi Knights",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-knights",
+  "synopsis": "Star Wars: Jedi Knights is a canon 2025 ongoing comic book series written by Marc Guggenheim and illustrated by Madibek Musabekov and Luis Guerrero. The series takes place before the events of Star Wars: Episode I The Phantom Menace, with each issue following two different Jedi on a different mission with an overarching threat that binds the stories together. The first issue was published by Marvel Comics on March 5, 2025. and officially announced on October 18, 2024.",
   "title": "Jedi Knights"
 }

@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Seeds of Starlight",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2024-11-14T00:00:00.000Z"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "audioDrama",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "releaseDate": "2024-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-seeds-of-starlight",
+  "synopsis": "Something strange is happening on the planet Eiram, and a group of Jedi are about to risk their own lives to save the lives of others.",
+  "title": "Seeds of Starlight"
+}

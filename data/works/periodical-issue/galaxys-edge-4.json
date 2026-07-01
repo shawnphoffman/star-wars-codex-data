@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge #4",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "galaxys-edge",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-07-31T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxys-edge-4",
+  "synopsis": "THE GREATER OF TWO EVILS! As the elite RED FURY stormtroopers of THE FIRST ORDER edge closer, KENDOH and her crew are running out of time to run their heist. But what does the mysterious score have to do with a DOCTOR APHRA mission 30 years in the past? Only Dok-Ondar knows the secret, and he may have to kill to keep it!",
+  "title": "Galaxy's Edge #4"
+}

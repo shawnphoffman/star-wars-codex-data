@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #185",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-11-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-185",
+  "synopsis": "News, interviews, and the latest Star Wars merchandise and publishing! Take a tour of Hoth as we explore shooting locations in Finse, Norway! Discover the hidden treasures of Rancho Obi-Wan, the \"Smithsonian of Star Wars\"! And as Darth Maul returns, we snag an exclusive interview with actor Ray Park!",
   "title": "Insider #185"
 }

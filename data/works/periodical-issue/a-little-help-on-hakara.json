@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom DeFalco",
+      "role": "writer",
+      "slug": "tom-defalco"
+    }
+  ],
+  "displayTitle": "A Little Help on Hakara",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-little-help-on-hakara",
+  "synopsis": "\"A Little Help on Hakara\" is a short comic story published in Star Wars: The Clone Wars Comic 6.9.",
+  "title": "A Little Help on Hakara"
+}

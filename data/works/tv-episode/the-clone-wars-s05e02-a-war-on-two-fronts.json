@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Collins",
+      "role": "writer",
+      "slug": "chris-collins"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Clone Wars S05E02: A War on Two Fronts",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

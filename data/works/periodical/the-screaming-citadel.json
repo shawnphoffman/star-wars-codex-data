@@ -1,12 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    }
+  ],
   "displayTitle": "The Screaming Citadel",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-05-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-screaming-citadel",
+  "synopsis": "Star Wars: The Screaming Citadel, stylized as Star Wars: Screaming Citadel, is a five-issue Marvel comic-book crossover event between the series Star Wars and Star Wars: Doctor Aphra. The crossover event takes place between Star Wars: Episode IV A New Hope and Star Wars: Episode V The Empire Strikes Back.",
   "title": "The Screaming Citadel"
 }

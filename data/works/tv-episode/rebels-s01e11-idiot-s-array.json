@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Simon Kinberg",
+      "role": "writer",
+      "slug": "simon-kinberg"
+    }
+  ],
   "displayTitle": "Idiot's Array",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

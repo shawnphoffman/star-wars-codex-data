@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    }
+  ],
   "displayTitle": "The Honourable Ones",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

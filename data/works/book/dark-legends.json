@@ -1,11 +1,24 @@
 {
   "bookType": "shortStory",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Grant Griffin",
+      "role": "artist",
+      "slug": "grant-griffin"
+    }
+  ],
   "displayTitle": "Dark Legends",
   "format": "book",
   "releaseDate": "2020-07-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-legends",
+  "synopsis": "Read on if you dare! This unique in-world collection hallows the spooky tales and ghost stories that would have kept young Luke and Leia up at night. Created by George Mann and Grant Griffin&mdash;the same team behind the stunning Star Wars: Myths & Fables&mdash;these six [sic] frightful fables have been carefully woven from the expansive fabric that is the Star Wars galaxy (including the thrilling landscape from Galaxy's Edge at Disneyland and Disney World), and beautifully painted in a lush illustrative style that feels intergalactic yet innately archetypal and timeless.",
   "title": "Dark Legends"
 }

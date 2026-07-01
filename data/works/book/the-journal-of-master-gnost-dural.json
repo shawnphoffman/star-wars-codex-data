@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -18,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-journal-of-master-gnost-dural",
+  "synopsis": "The Journal of Master Gnost-Dural is a book by Rob Chestney that represents an in-universe work of the same name. The book was published by Chronicle Books in 2011 and shipped in December of that year as a pack-in with the preorder collector's edition of the massively multiplayer online roleplaying game (MMORPG) Star Wars: The Old Republic.",
   "title": "The Journal of Master Gnost-Dural"
 }

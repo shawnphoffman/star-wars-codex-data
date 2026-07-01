@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 15: Voyage to the Underworld",
+  "displayTitle": "Missions 15: Voyage to the Underworld",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-15-voyage-to-the-underworld",
+  "synopsis": "Imperial stormtroopers are on your trail—and there's only one place for you to hide. Coruscant's underworld is a bizarre maze of danger and fear. But in order to survive, you must find the strange wise man at its center. Your Mission: to travel to the heart of the underworld and escape your pursuers. May the Force be with you.",
   "title": "Star Wars Missions 15: Voyage to the Underworld"
 }

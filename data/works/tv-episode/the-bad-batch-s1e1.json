@@ -1,11 +1,40 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "Aftermath",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s1e1",
+  "synopsis": "The clones of The Bad Batch find themselves in a changing galaxy after The Clone Wars.",
   "title": "Aftermath"
 }

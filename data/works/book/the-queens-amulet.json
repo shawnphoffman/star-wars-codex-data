@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Queen's Amulet",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-queens-amulet",
+  "synopsis": "The planet of Naboo is surrounded by dark and powerful forces, and it is up to the young, strong, and beautiful Queen Amidala to save it. Readers will thrill to this epic tale of adventure set in the faraway, long-ago galaxy of Star Wars: Episode I. Colorfully illuminated with detailed illustrations and featuring a replica of Amidala's treasured amulet, this keepsake jewelry box, hardcover book, and necklace is a fun gift for Star Wars fans of all ages.",
   "title": "The Queen's Amulet"
 }

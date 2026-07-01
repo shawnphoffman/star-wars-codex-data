@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    }
+  ],
   "displayTitle": "Strange Allies",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e9",
+  "synopsis": "Trust is tested as newly forged allies navigate the only way out.",
   "title": "Strange Allies"
 }

@@ -1,6 +1,29 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "artist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jim Amash",
+      "role": "artist",
+      "slug": "jim-amash"
+    }
+  ],
   "displayTitle": "Boba Fett: Enemy of the Empire",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +32,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-enemy-of-the-empire-1999",
+  "synopsis": "Star Wars: Boba Fett: Enemy of the Empire is a miniseries of comics in the Boba Fett series written by John Wagner and published by Dark Horse Comics from January 27 to April 28, 1999.",
   "title": "Boba Fett: Enemy of the Empire"
 }

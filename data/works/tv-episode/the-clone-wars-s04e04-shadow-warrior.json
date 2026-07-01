@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Arkin",
+      "role": "writer",
+      "slug": "daniel-arkin"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Shadow Warrior",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

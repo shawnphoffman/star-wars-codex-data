@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 11: Bounty Hunters vs. Battle Droids",
+  "displayTitle": "Missions 11: Bounty Hunters vs. Battle Droids",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-11-bounty-hunters-vs-battle-droids",
+  "synopsis": "You are a bounty hunter. You are engaged in a fight to the death against a lethal squadron of battle droids. The droids' leader, Wuntoo Forcee Forwun, will stop at nothing in his quest to rule the galaxy. You must stand in his way. But be careful &mdash; the droids are not your only enemies. Other bounty hunters want to get to Forwun before you do. The reward is high &mdash; and the risks are extraordinary. Good luck.",
   "title": "Star Wars Missions 11: Bounty Hunters vs. Battle Droids"
 }

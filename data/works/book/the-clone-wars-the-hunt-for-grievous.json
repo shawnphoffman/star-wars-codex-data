@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Hunt For Grievous",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-the-hunt-for-grievous",
+  "synopsis": "The Clone Wars: The Hunt for Grievous is a young reader's book based on Star Wars: The Clone Wars TV series. It was released in July 2010.",
   "title": "The Clone Wars: The Hunt For Grievous"
 }

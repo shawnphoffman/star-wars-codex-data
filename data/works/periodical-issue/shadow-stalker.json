@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Shadow Stalker",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-11-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shadow-stalker",
+  "synopsis": "Darth Vader has a covert agent to take care of his dirty work: Jix. Vader dispatches Jix to take care of an Imperial governor who has defected to the Rebel Alliance. But Jix finds a different, more important traitor, and winds up in a one-man war against a legion of stormtroopers. This one-shot collects the hit serial from Topps' Star Wars Galaxy magazine.",
+  "title": "Shadow Stalker"
+}

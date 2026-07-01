@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Enemy Lines II: Rebel Stand",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "enemy-lines-ii-rebel-stand",
+  "synopsis": "Not since Emperor Palpatine have the Jedi battled such monstrous evil. Unless they succeed against staggering odds, the galaxy is doomed. Luke Skywalker's daring mission to halt the Yuuzhan Vong's nefarious plot to overthrow the New Republic is struggling on all fronts. And time is slipping away for Han and Leia Organa Solo, trapped on a small planet whose rulers are about to yield to Yuuzhan Vong pressure to give up the Jedi rebels. On Coruscant, Luke and Mara Jade Skywalker have made a shocking discovery that is preventing the Yuuzhan Vong from exerting complete control. But when the enemy t",
   "title": "Enemy Lines II: Rebel Stand"
 }

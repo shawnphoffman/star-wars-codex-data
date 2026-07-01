@@ -1,12 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "artist",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Jacopo Camagni",
+      "role": "artist",
+      "slug": "jacopo-camagni"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    }
+  ],
   "displayTitle": "Kanan",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "kanan",
+  "synopsis": "Star Wars: Kanan, originally titled Star Wars: Kanan - The Last Padawan, is a canon Star Wars comic series first released on April 1, 2015. It was published by Marvel Comics and centers on Kanan Jarrus, one of the protagonists of the Star Wars Rebels TV series. The two arcs, The Last Padawan and First Blood are written by Greg Weisman and penciled by Pepe Larraz. The Last Padawan takes place during Order 66, while First Blood depicts Kanan's first foray into the Clone Wars. The series concluded with the publication of Kanan 12 on March 16, 2016. Parts of the comic series are contradicted by th",
   "title": "Kanan"
 }

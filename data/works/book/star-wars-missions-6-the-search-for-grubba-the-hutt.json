@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 6: The Search for Grubba the Hutt",
+  "displayTitle": "Missions 6: The Search for Grubba the Hutt",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-6-the-search-for-grubba-the-hutt",
+  "synopsis": "Grubba the Hutt is missing&hellip;and Jabba the Hutt is angry. If Han Solo wants to live, he and his friends will have to find the young Hutt and bring him back to Jabba's palace&mdash;immediately. The bounty hunters who have taken Grubba will not give him up easily. Your mission: to track down Grubba and keep Jabba happy&hellip;or else. May the Force be with you.",
   "title": "Star Wars Missions 6: The Search for Grubba the Hutt"
 }

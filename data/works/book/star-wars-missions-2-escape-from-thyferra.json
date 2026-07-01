@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 2: Escape from Thyferra",
+  "displayTitle": "Missions 2: Escape from Thyferra",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-2-escape-from-thyferra",
+  "synopsis": "The Rebel forces have found an Imperial conspiracy involving contaminated bacta, a deadly substance that can poison entire planets. In order to stop the Empire, the Rebels travel to Thyferra&hellip;where they are trapped by a squadron of stormtroopers! Your mission: to escape from Thyferra&hellip;before it's too late. May the Force be with you.",
   "title": "Star Wars Missions 2: Escape from Thyferra"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #167",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-07-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-167",
+  "synopsis": "Insider presents our dazzling new look issue! With all-new features, amazing interviews, and a few new surprises, this unmissable issue features: New Star Wars heroes Finn and Rey profiled! Star Wars: The Force Awakens Doug Chiang on creating designs for the Star Wars galaxy! Set Decorator Roger Christian reveals secrets of the saga as he offers a tour of the Millennium Falcon! And don't miss our amazing all-new fiction!",
   "title": "Insider #167"
 }

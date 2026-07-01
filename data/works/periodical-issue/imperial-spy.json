@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Imperial Spy",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "imperial-spy",
+  "synopsis": "\"Imperial Spy\" is a five part comic written by Mike W. Barr and illustrated by Ken Steacy and Glen Mullaly, and was published in issues #11-#15 of the Star Wars Kids magazine. It tells the story of an Imperial spy who stalls the Rebel Alliance's evacuation of Yavin 4.",
+  "title": "Imperial Spy"
+}

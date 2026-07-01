@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #57",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2001-12-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-57",
+  "synopsis": "Star Wars Insider 57 is the fifty-seventh issue of Star Wars Insider magazine. It was released to newsstands on December 4, 2001. Issue 57 was the first overseen by chief editor Dave Gross.",
   "title": "Insider #57"
 }

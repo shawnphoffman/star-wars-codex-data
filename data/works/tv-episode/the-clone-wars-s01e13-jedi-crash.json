@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Rob Coleman",
+      "role": "director",
+      "slug": "rob-coleman"
+    }
+  ],
   "displayTitle": "Jedi Crash",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,11 +1,25 @@
 {
   "bookType": "shortStory",
   "canonStatus": "canon",
-  "displayTitle": "Tales From The Occlusion Zone",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    }
+  ],
+  "displayTitle": "Insider: The High Republic: Survivors of the Stormwall",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781806184019"
+    }
+  ],
   "format": "book",
-  "releaseDisplayState": "released",
-  "releaseStatus": "released",
+  "releaseDate": "2026-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "announced",
   "slug": "tales-from-the-occlusion-zone",
-  "synopsis": "",
-  "title": "Tales From The Occlusion Zone"
+  "synopsis": "A Phase III short-story collection on life inside the Occlusion Zone after Starlight Beacon's destruction and the rise of Marchion Ro's Stormwall; follows the crew of the Republic Longbeam Aurie, lost in the Zone, while a Jedi Padawan searches for a route through the barrier.",
+  "title": "Star Wars Insider: The High Republic: Survivors of the Stormwall"
 }

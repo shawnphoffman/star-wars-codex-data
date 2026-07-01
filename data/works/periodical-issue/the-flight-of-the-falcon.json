@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Parkhouse",
+      "role": "writer",
+      "slug": "steve-parkhouse"
+    }
+  ],
+  "displayTitle": "The Flight of the Falcon",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1982-05-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-flight-of-the-falcon",
+  "synopsis": "\"The Flight of the Falcon\" is a comic story originally published in Marvel UK's The Empire Strikes Back Monthly 157, written by Steve Parkhouse. It was later reprinted and colorized in Classic Star Wars: Devilworlds 1. The comic has no direct relation to the video game Star Wars: Flight of the Falcon.",
+  "title": "The Flight of the Falcon"
+}

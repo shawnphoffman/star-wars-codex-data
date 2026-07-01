@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Joiner King",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 35
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-joiner-king",
+  "synopsis": "After triumphing in Star Wars: The Unifying Force, the heroes of the New Jedi Order return in a dazzling new adventure! Luke Skywalker is worried: A handful of Jedi Knights, including his nephew and niece, Jaina and Jacen Solo, have disappeared into the Unknown Regions in response to a strange cry for help that only they could hear. Now the alien Chiss have angrily lodged a formal complaint, accusing the missing Jedi of meddling in a border dispute between the Chiss and an unidentified aggressor. Luke has no choice but to head to the Unknown Regions for serious damage control. Han and Leia fol",
   "title": "The Joiner King"
 }

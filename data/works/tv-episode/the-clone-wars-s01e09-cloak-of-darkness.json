@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paul Dini",
+      "role": "writer",
+      "slug": "paul-dini"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Clone Wars S01E09: Cloak of Darkness",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

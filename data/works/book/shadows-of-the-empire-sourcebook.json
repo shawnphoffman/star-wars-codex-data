@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Shadows of the Empire Sourcebook",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-sourcebook",
+  "synopsis": "The Official Companion to the Novel Shadows of the Empire After his defeat on Cloud City, Luke Skywalker finds himself a pawn in a deadly game between Darth Vader and the mysterious and dangerous leader of the criminal organization Black Sun. Confronted by bounty hunters and his own worst fears, Luke must must [sic] lead a daring rescue mission to Emperor Palpatine's throne world of Coruscant, where he will confront the foes who lurk in the Shadows of the Empire&hellip;",
   "title": "Shadows of the Empire Sourcebook"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Truce at Bakura",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-truce-at-bakura",
+  "synopsis": "Timothy Zahn's New York Times bestselling Star Wars trilogy reopened the door to George Lucas's dazzling universe, drawing millions of readers into the lives of the beloved movie characters and the struggle of the Rebel Alliance. Now, in The Truce at Bakura, Kathy Tyers takes readers back to the fateful days following the events in Return of the Jedi. No sooner has Darth Vader's funeral pyre burned to ashes on Endor than the Alliance intercepts a call for help from a far-flung Imperial outpost. Bakura is on the edge of known space and the first to meet the Ssi-ruuk, cold-blooded reptilian inva",
   "title": "The Truce at Bakura"
 }

@@ -1,6 +1,29 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "artist",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "artist",
+      "slug": "randy-emberlin"
+    }
+  ],
   "displayTitle": "Crimson Empire II: Council of Blood",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +32,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-ii-council-of-blood-1998",
+  "synopsis": "Following the death of Imperial Guard turncoat Carnor Jax at the hand of the last Guard, Kir Kanos, the Galactic Empire suddenly finds itself devoid of a leader, and an Interim Council is assembled to rule the Empire until a new Emperor can be selected. But when Council members become targets for assassination, Kanos becomes the prime suspect and again stands at the center of a storm!",
   "title": "Crimson Empire II: Council of Blood"
 }

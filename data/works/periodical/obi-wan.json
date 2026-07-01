@@ -1,6 +1,39 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher Cantwell",
+      "role": "writer",
+      "slug": "christopher-cantwell"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "artist",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "artist",
+      "slug": "madibek-musabekov"
+    },
+    {
+      "name": "Adriana Melo",
+      "role": "artist",
+      "slug": "adriana-melo"
+    }
+  ],
   "displayTitle": "Obi-Wan",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -32

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    }
+  ],
+  "displayTitle": "Episode I: Anakin Skywalker",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-anakin-skywalker",
+  "synopsis": "There will soon come a day when the future of the galaxy hinges on the fate of one boy... though he does not yet know it. Growing up on the desert world Tatooine, Anakin Skywalker never thought he would venture beyond the small life he has. Simple, boyhood pursuits seem like the only things he should be concerned with. But destiny has other things in mind...",
+  "title": "Episode I: Anakin Skywalker"
+}

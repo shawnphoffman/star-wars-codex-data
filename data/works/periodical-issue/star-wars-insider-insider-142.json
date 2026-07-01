@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #142",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-06-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-142",
+  "synopsis": "This issue we'll be continuing our exclusive look into the Lucasfilm Archives and delving behind the scenes of Return of the Jedi. There'll be amazing, all-new fiction, with stunning art that you can only see in the pages of Star Wars Insider. We also look at what makes Padmé tick and go behind the scenes with a previously unpublished interview from the team at ILM. With the big party fast approaching, we'll be previewing Celebration Europe II&hellip;",
   "title": "Insider #142"
 }

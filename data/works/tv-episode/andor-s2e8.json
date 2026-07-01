@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dan Gilroy",
+      "role": "writer",
+      "slug": "dan-gilroy"
+    },
+    {
+      "name": "Janus Metz",
+      "role": "director",
+      "slug": "janus-metz"
+    }
+  ],
   "displayTitle": "Who Are You?",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-05-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e8",
+  "synopsis": "Imperial manipulation. Ghorman frustration. Cassian and Syril center stage as Palmo erupts.",
   "title": "Who Are You?"
 }

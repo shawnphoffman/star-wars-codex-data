@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    }
+  ],
   "displayTitle": "The Dark Revenge",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e1",
+  "synopsis": "In the criminal underworld of Janix, Maul enacts a plan to consolidate his power.",
   "title": "The Dark Revenge"
 }

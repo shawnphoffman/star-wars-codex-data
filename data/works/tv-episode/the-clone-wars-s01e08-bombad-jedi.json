@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "Jesse Yeh",
+      "role": "director",
+      "slug": "jesse-yeh"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
   "displayTitle": "The Clone Wars S01E08: Bombad Jedi",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

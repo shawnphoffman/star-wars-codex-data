@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Deep Spoilers",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -31
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "deep-spoilers",
+  "synopsis": "\"Deep Spoilers\" is a short story written by Ryder Windham, with illustrations by Ole Sørensen. It was originally published in Star Wars Gamer 4 in 2001 and was made available on Hyperspace on May 26, 2006.",
   "title": "Deep Spoilers"
 }

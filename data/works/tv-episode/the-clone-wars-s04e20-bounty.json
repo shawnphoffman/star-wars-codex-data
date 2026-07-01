@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Clone Wars S04E20: Bounty",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

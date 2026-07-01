@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #119",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2010-07-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-119",
+  "synopsis": "This issue features our 30th Anniversary celebration of Star Wars: Episode V The Empire Strikes Back with the cast and crew recalling the making of a movie classic and Irvin Kershner discussing his role as director. Billy Dee Williams also talks about playing Lando Calrissian. As a special edition, it features six different covers: three newsstand covers, one exclusively available at conventions, one subscriber cover, and one exclusively available at comic stores.",
   "title": "Insider #119"
 }

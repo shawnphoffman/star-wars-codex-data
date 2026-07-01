@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #148",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-148",
+  "synopsis": "The Empire's loyal soldiers invade the pages of Star Wars Insider! But who are the men beneath the masks? Where do they come from? Who are the most notable troops? We'll chart their history and look to their future. We'll also be previewing the latest exciting developments as Episode VII The Force Awakens begins shooting and presenting the latest installment in our Star Wars: Rebels updates. For fans of the original trilogy, we'll be taking a look back on the history of Industrial Light and Magic, and as ever, there will be an exclusive new story, with stunning all-new art! We'll also be paying tribute to Archie Goodwin and Al Williamson's work on the Star Wars newspaper comic strip. Plus, we'll be previewing the latest books, comics, and merchandise that you'll not want to miss!",
   "title": "Insider #148"
 }

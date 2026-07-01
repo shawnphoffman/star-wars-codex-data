@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    },
+    {
+      "name": "Tatyana Drewry Carvin",
+      "role": "director",
+      "slug": "tatyana-drewry-carvin"
+    }
+  ],
   "displayTitle": "Inquisition",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e5",
+  "synopsis": "Captain Lawson faces a sobering new reality.",
   "title": "Inquisition"
 }

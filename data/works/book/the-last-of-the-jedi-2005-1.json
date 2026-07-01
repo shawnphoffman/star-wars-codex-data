@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: The Desperate Mission",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2005-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-1",
+  "synopsis": "The Empire has risen. The Jedi Order has been destroyed. As far as the Emperor is concerned, the Jedi are all but extinct.\nBut on the remote planet of Tatooine, one Jedi Master remains: Obi-Wan Kenobi. Devastated by the loss of his fellow Jedi&mdash;and the betrayal of his former apprentice Anakin&mdash;Obi-Wan has been left with one last task: to watch over and protect a young child named Luke.\nWhen Obi-Wan finds out that a former Jedi apprentice has survived, he must make a painful decision: whether to stay on Tatooine or go on one last, desperate mission&mdash;right into the heart of the Empire.\nThe thrilling new series from The New York Times bestselling author of Jedi Apprentice and Jedi Quest.",
+  "title": "The Last of the Jedi: The Desperate Mission"
+}

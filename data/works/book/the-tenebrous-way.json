@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Tenebrous Way",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -66
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-tenebrous-way",
+  "synopsis": "\"The Tenebrous Way\" is a short story written by Matthew Stover and illustrated by Brian Rood for Star Wars Insider 130. It introduces Darth Plagueis's Sith Master, Darth Tenebrous, who later appeared briefly in James Luceno's novel Darth Plagueis.",
   "title": "The Tenebrous Way"
 }

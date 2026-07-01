@@ -1,0 +1,42 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Wheat",
+      "role": "director",
+      "slug": "jim-wheat"
+    },
+    {
+      "name": "Jim Wheat",
+      "role": "writer",
+      "slug": "jim-wheat"
+    },
+    {
+      "name": "Ken Wheat",
+      "role": "writer",
+      "slug": "ken-wheat"
+    },
+    {
+      "name": "Ken Wheat",
+      "role": "director",
+      "slug": "ken-wheat"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
+  "displayTitle": "Ewoks: The Battle for Endor",
+  "era": "ageOfRebellion",
+  "format": "movie",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1985-11-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ewoks-the-battle-for-endor-1985",
+  "synopsis": "The army of the Marauders, led by King Terak and the witch Charal, attack the Ewoks village, killing Cindel's family. Cindel and the Ewok Wicket escape and meet Teek in the forest, a naughty and very fast animal. Teek takes them to a house in which an old man, Noa, lives. Like Cindel, he also crashed with his Starcruiser on Endor. Together they fight Terak and Charal.",
+  "title": "Ewoks: The Battle for Endor"
+}

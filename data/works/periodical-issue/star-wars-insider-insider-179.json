@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #179",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-179",
+  "synopsis": "We follow the villainous journey of Kylo Ren in Star Wars: The Last Jedi.\nRebel Romance – The war-torn love of Star Wars Rebel's Kanan and Hera.\nExclusive red carpet coverage from the London premiere of The Last Jedi.\nDroids and Ewoks writer Paul Dini talks about bringing back Boba Fett.\nA Classic archive interview with The Empire Strikes Back director Irvin Kershner.",
   "title": "Insider #179"
 }

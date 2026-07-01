@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "Into the Unknown",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e01",
+  "synopsis": "After being launched into space by Kaz and crew, the Colossus encounters engineering problems, which are made worse by a mysterious stowaway.",
   "title": "Into the Unknown"
 }

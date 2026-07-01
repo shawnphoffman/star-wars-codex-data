@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "The Creeping Fear",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e8",
+  "synopsis": "A hasty escape plan proves dangerous, while an isolated Maul regroups.",
   "title": "The Creeping Fear"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Peter Ramsey",
+      "role": "director",
+      "slug": "peter-ramsey"
+    }
+  ],
   "displayTitle": "The Pirate",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-03-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e5",
+  "synopsis": "The people of Nevarro need protection from rampant pirate attacks.",
   "title": "The Pirate"
 }

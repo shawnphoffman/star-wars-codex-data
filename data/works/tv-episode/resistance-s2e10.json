@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "Eugene Son",
+      "role": "writer",
+      "slug": "eugene-son"
+    }
+  ],
   "displayTitle": "Kaz's Curse",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e10",
+  "synopsis": "A pirate curses Kaz, causing him danger at every turn. Kaz is soon forced to seek Mika Grey for help, but Kaz's curse gets worse when the Guavian Death Gang appears.",
   "title": "Kaz's Curse"
 }

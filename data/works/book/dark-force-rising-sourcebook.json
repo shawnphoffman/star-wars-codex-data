@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Force Rising Sourcebook",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-force-rising-sourcebook",
+  "synopsis": "\"I rule the Empire now. Not some long-dead Emperor...\" Grand Admiral Thrawn's plan to restore the Empire to absolute power proceeds with horrifying efficiency. Only the bravery and skill of Princess Leia, Han Solo and Luke Skywalker can stop him from delivering a killing stroke to the New Republic! While Thrawn's schemes unfold, Luke Skywalker confronts the mad Dark Jedi, Joruus C'baoth, in a struggle for the fate of the Jedi Knights and the galaxy itself! Return to the wonder and excitement of a far-off galaxy in this companion volume to Timothy Zahn's best-selling novel Dark Force Rising. Th",
   "title": "Dark Force Rising Sourcebook"
 }

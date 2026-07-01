@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Anakin in Action!",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-anakin-in-action",
+  "synopsis": "Get your child hooked on reading as they meet the Jedi Knight Anakin from the new Star Wars Clone Wars series. Designed to engage even the most reluctant reader, this fun-packed Clone Wars Reader is all about your child's favorite hero, Jedi Knight Anakin. Watch as your child meets Anakin and his young apprentice Ahsoka. They'll find out all about their dangerous missions battling fearsome foes from battle droids to the Sith Assassin, Ventress. Plus, they'll meet the Jedi, the clone soldiers who fight alongside them and check out the Clone Wars vehicles, spaceships and much more. Packed with p",
   "title": "The Clone Wars: Anakin in Action!"
 }

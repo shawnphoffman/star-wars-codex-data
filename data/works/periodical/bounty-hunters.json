@@ -1,12 +1,56 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "artist",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Natacha Bustos",
+      "role": "artist",
+      "slug": "natacha-bustos"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "artist",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Lan Medina",
+      "role": "artist",
+      "slug": "lan-medina"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "artist",
+      "slug": "davide-tinto"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
   "displayTitle": "Bounty Hunters",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2020-03-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "bounty-hunters",
   "title": "Bounty Hunters"
 }

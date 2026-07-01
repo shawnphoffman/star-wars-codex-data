@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge #5",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "galaxys-edge",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-08-28T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxys-edge-5",
+  "synopsis": "A DOUBLE-EDGED SWORD! KENDOH'S crew of mercenaries spring their heist to steal one of the rarest relics in the universe - the hilt of the fabled SWORD OF KHASHYUN from DOK-ONDAR'S DEN OF ANTIQUITIES. But with the FIRST ORDER tightening its grip on BLACK SPIRE OUTPOST and the notorious RED FURY STORMTROOPERS on their trail, can these master thieves survive long enough to collect their prize? And does Dok-Ondar have one last gambit to play?",
+  "title": "Galaxy's Edge #5"
+}

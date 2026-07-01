@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #202",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-04-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-202",
+  "synopsis": "In Star Wars Insider #202 we're celebrating Star Wars fiction &ndash; starting with an exclusive interview with Timothy Zahn on the 30th anniversary of the release of his novel Star Wars: Heir to the Empire! Author Claudia Gray discusses her High Republic novel, Into the Dark and Kristin Baver reveals how she wrote the ultimate Star Wars biography, Skywalker: A Family at War. And of course, there's our exclusive fiction, part two of The High Republic: First Duty by Cavan Scott!\nDroid builder Lee Towersey and R2-D2 performer Hassan Taj take us beneath the dome of the galaxy's most resourceful astromech; we go behind-the-scenes of Star Wars: Tales from the Galaxy's Edge, ILMxLAB's stunning VR experience; relive the adventures of Mando and Grogo [sic] in our companion to Season Two of The Mandalorian; and much, much more!",
   "title": "Insider #202"
 }

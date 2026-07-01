@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Taylor",
+      "role": "writer",
+      "slug": "christian-taylor"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    }
+  ],
   "displayTitle": "The Bad Batch S01E04: Cornered",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

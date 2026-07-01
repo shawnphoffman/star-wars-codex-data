@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #196",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2020-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-196",
+  "synopsis": "GO BEHIND-THE SCENES OF THE LATEST STAR WARS FILM INSTALLMENT THE RISE OF SKYWALKER!\nFeaturing:",
   "title": "Insider #196"
 }

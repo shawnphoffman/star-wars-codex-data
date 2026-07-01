@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "Monster",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

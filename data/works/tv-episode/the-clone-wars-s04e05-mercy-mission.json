@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bonnie Mark",
+      "role": "writer",
+      "slug": "bonnie-mark"
+    },
+    {
+      "name": "Danny Keller",
+      "role": "director",
+      "slug": "danny-keller"
+    }
+  ],
   "displayTitle": "Mercy Mission",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

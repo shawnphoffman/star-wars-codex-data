@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    },
+    {
+      "name": "Jake Lunt Davies",
+      "role": "artist",
+      "slug": "jake-lunt-davies"
+    }
+  ],
   "displayTitle": "Tales From The Occlusion Zone: The Will To Fight",
   "era": "highRepublic",
   "format": "shortStory",

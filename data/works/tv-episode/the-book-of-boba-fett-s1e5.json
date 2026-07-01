@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "director",
+      "slug": "bryce-dallas-howard"
+    }
+  ],
   "displayTitle": "Return of the Mandalorian",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2022-01-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-book-of-boba-fett-s1e5",
+  "synopsis": "An unexpected ally emerges.",
   "title": "Return of the Mandalorian"
 }

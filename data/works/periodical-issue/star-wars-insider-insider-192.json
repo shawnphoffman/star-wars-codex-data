@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #192",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-09-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-192",
+  "synopsis": "The Force Awakens in The Skywalker Saga: Our ongoing journey through the Star Wars movies continues! Han Solo - A Matter of Life and Death: from Corellia to Starkiller Base, we trace the life of the reluctant good guy. False Economies of Scale: Why do the Empire and First Order keep on building big bad weapons? Bar Wars: A tour of galactic watering holes filled with scum and villainy. Plus all the latest Star Wars news, interviews, books, and merchandise.",
   "title": "Insider #192"
 }

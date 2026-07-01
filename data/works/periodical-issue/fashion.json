@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Fashion",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fashion",
+  "synopsis": "A vast leisure satellite high above the towering spires of Coruscant gives the heroes of the Republic a chance to recharge their batteries. The ever-stylish Padmé Amidala spots a familiar caped figure while watching a fashion show &ndash; and she's not there for the clothes! Can Mace Windu thwart the Sith infiltrator?",
+  "title": "Fashion"
+}

@@ -1,0 +1,57 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Binder",
+      "role": "director",
+      "slug": "steve-binder"
+    },
+    {
+      "name": "Pat Proft",
+      "role": "writer",
+      "slug": "pat-proft"
+    },
+    {
+      "name": "Leonard Ripps",
+      "role": "writer",
+      "slug": "leonard-ripps"
+    },
+    {
+      "name": "Rod Warren",
+      "role": "writer",
+      "slug": "rod-warren"
+    },
+    {
+      "name": "Mitzie Welch",
+      "role": "writer",
+      "slug": "mitzie-welch"
+    },
+    {
+      "name": "Bruce Vilanch",
+      "role": "writer",
+      "slug": "bruce-vilanch"
+    },
+    {
+      "name": "Ian Fraser",
+      "role": "composer",
+      "slug": "ian-fraser"
+    }
+  ],
+  "displayTitle": "The Star Wars Holiday Special",
+  "era": "ageOfRebellion",
+  "format": "movie",
+  "movie": {
+    "movieType": "tvMovie",
+    "mpaaRating": "pg",
+    "runtimeMinutes": 97
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1978-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-holiday-special",
+  "synopsis": "Luke Skywalker and Han Solo battle evil Imperial forces to help Chewbacca reach his imperiled family on the Wookiee planet - in time for Life Day, their most important day of the year!",
+  "title": "The Star Wars Holiday Special"
+}

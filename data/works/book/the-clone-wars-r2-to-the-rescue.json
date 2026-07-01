@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,12 @@
     }
   ],
   "displayTitle": "The Clone Wars: R2 To The Rescue",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448455792"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -21
@@ -17,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-r2-to-the-rescue",
+  "synopsis": "R2-D2 must rescue C-3PO from bounty hunter Cad Bane.",
   "title": "The Clone Wars: R2 To The Rescue"
 }

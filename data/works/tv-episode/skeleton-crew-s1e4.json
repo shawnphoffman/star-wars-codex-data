@@ -1,11 +1,35 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Watts",
+      "role": "writer",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "writer",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "Daniel Kwan",
+      "role": "director",
+      "slug": "daniel-kwan"
+    },
+    {
+      "name": "Daniel Scheinert",
+      "role": "director",
+      "slug": "daniel-scheinert"
+    }
+  ],
   "displayTitle": "Can't Say I Remember No At Attin",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2024-12-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e4",
+  "synopsis": "Our heroes face a surprise in a familiar setting.",
   "title": "Can't Say I Remember No At Attin"
 }

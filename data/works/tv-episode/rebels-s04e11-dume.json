@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher L. Yost",
+      "role": "writer",
+      "slug": "christopher-l-yost"
+    },
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    }
+  ],
   "displayTitle": "DUME",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

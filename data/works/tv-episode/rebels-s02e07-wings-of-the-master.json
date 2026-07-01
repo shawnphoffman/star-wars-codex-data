@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "Wings Of The Master",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

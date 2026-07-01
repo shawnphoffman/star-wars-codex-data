@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #35",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1997-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-35",
+  "synopsis": "Star Wars Insider 35 is the thirty-fifth issue of Star Wars Insider magazine and was the first published by Fantastic Media It was released in September 1997. Starting with issue 35, Star Wars Insider began bimonthly publication. Issue 35 was also the first Star Wars Insider issue to offer multiple cover variants to readers: a newsstand version featuring a Tusken Raider and a subscriber-exclusive version featuring a TIE fighter pilot.",
   "title": "Insider #35"
 }

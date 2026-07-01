@@ -1,0 +1,32 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "artist",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "artist",
+      "slug": "shawn-fillbach"
+    }
+  ],
+  "displayTitle": "Pathways",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-06-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "pathways",
+  "synopsis": "ee \"Pathways\" is a comic story in Star Wars: Clone Wars Adventures Volume 8 about a lost battle droid.",
+  "title": "Pathways"
+}

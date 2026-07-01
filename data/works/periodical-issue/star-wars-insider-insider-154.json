@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #154",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-154",
+  "synopsis": "Following up Insider 50 Greatest Things to Love from the Prequel Trilogy featured in Star Wars Insider #147, we've asked the great and the good to nominate their favorite things from Episodes IV-VI for Insider 50 Greatest Reasons to Love from the Original Trilogy! We're also looking at the amazing costumes of the original trilogy, previewing the latest episodes of Star Wars Rebels, and discovering who's coming to Star Wars Celebration Anaheim, which is shaping up to being the biggest Star Wars convention to date! Plus: As it's the Holiday season, we'll be looking at what to get the Star Wars fan who has everything!",
   "title": "Insider #154"
 }

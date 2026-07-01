@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tim Burns",
+      "role": "writer",
+      "slug": "tim-burns"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Destroy Malevolence",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

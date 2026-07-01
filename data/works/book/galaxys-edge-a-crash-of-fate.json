@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "yaNovel",
   "canonStatus": "canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Galaxy's Edge: A Crash of Fate",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

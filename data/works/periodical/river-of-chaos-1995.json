@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Louise Simonson",
+      "role": "writer",
+      "slug": "louise-simonson"
+    },
+    {
+      "name": "June Brigman",
+      "role": "artist",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "artist",
+      "slug": "roy-richardson"
+    }
+  ],
   "displayTitle": "River of Chaos",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "river-of-chaos-1995",
+  "synopsis": "Star Wars: River of Chaos was a four-issue series of comics published in 1995 by Dark Horse Comics.",
   "title": "River of Chaos"
 }

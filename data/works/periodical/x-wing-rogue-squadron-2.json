@@ -1,11 +1,87 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Scott Tolson",
+      "role": "writer",
+      "slug": "scott-tolson"
+    },
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "artist",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "artist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "artist",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Steve Crespo",
+      "role": "artist",
+      "slug": "steve-crespo"
+    },
+    {
+      "name": "Jim Hall",
+      "role": "artist",
+      "slug": "jim-hall"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "artist",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "artist",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Chip Wallace",
+      "role": "artist",
+      "slug": "chip-wallace"
+    },
+    {
+      "name": "Gary Martin",
+      "role": "artist",
+      "slug": "gary-martin"
+    }
+  ],
   "displayTitle": "X-Wing Rogue Squadron",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1996-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-2",
+  "synopsis": "They are sleek, swift, and deadly. They are the X-wing fighters. And as the struggle rages across the vastness of space, the fearless men and women who pilot them risk both their lives and their machines. Their mission: to defend the Rebel Alliance against a still-powerful and battle-hardened Imperial foe in a last-ditch effort to control the stars!\nIts very name strikes fear into enemy hearts. So when Rebel hero Wedge Antilles rebuilds the legendary Rogue Squadron, he seeks out only the best-the most skilled, the most daring X-wing pilots. Through arduous training and dangerous missions, he weeds out the weak from the strong, assembling a group of hard-bitten warriors to fight, ready to die. Antilles knows the grim truth: that even with the best X-wing jockeys in the galaxy, many will not survive their near-suicidal missions. But when Rogue Squadron is ordered to assist in the assault on the heavily fortified Imperial stronghold of Black Moon, even the bravest must wonder if any at all will survive&hellip;",
   "title": "X-Wing Rogue Squadron"
 }

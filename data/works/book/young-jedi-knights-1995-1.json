@@ -1,0 +1,46 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Young Jedi Knights: Heirs of the Force",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 23
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "young-jedi-knights-1995-10",
+    "young-jedi-knights-1995-11",
+    "young-jedi-knights-1995-12",
+    "young-jedi-knights-1995-13",
+    "young-jedi-knights-1995-14",
+    "young-jedi-knights-1995-2",
+    "young-jedi-knights-1995-3",
+    "young-jedi-knights-1995-4",
+    "young-jedi-knights-1995-5",
+    "young-jedi-knights-1995-6",
+    "young-jedi-knights-1995-7",
+    "young-jedi-knights-1995-8",
+    "young-jedi-knights-1995-9"
+  ],
+  "releaseDate": "1995-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-knights-1995-1",
+  "synopsis": "Star Wars: Young Jedi Knights is a Legends young-adult novel series from authors Kevin J. Anderson and Rebecca Moesta. The series is set in 23 ABY and follows the adventures of Jedi twins Jacen and Jaina Solo. Star Wars: Young Jedi Knights comprises fourteen volumes that were published between 1995 and 1998 by Berkley Boulevard. A companion series titled Star Wars: Junior Jedi Knights was published concurrently.",
+  "title": "Young Jedi Knights: Heirs of the Force"
+}

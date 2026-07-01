@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
   "displayTitle": "Thrawn",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-02-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "thrawn-2",
+  "synopsis": "\"I study the art of war. Work to perfect it.\" &mdash;Grand Admiral Thrawn\nOne of the most cunning and ruthless warriors in the history of the Galactic Empire, Grand Admiral Thrawn is also one of the most captivating characters in Star Wars . From his introduction in bestselling author Timothy Zahn's classic Heir to the Empire, through his continuing adventures in Dark Force Rising, The Last Command, and beyond, Grand Admiral Thrawn has earned an iconic status among Star Wars<nowiki>'</nowiki> greatest villains. But Thrawn's origins and the story of his rise in the Imperial ranks have remained mysterious. Now, in Star Wars: Thrawn, Timothy Zahn chronicles the fateful events that launched the blue-skinned, red-eyed master of military strategy and lethal warfare into the highest realms of power&mdash;and infamy.\nAfter Thrawn is rescued from exile by Imperial soldiers, his deadly ingenuity and keen tactical abilities swiftly capture the attention of Emperor Palpatine. And just as quickly, Thrawn proves to be as indispensable to the Empire as he is ambitious; as devoted as its most loyal servant, Darth Vader; and a brilliant warrior never to be underestimated. On missions to rout smugglers, snare spies, and defeat pirates, he triumphs time and again&mdash;even as his renegade methods infuriate superiors while inspiring ever greater admiration from the Empire. As one promotion follows another in his rapid ascension to greater power, he schools his trusted aide, Ensign Eli Vanto, in",
   "title": "Thrawn"
 }

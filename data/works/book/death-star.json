@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Death Star",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 0,
@@ -23,5 +24,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "death-star",
+  "synopsis": "The Death Star's name says it all, with bone-chilling accuracy. It is a virtual world unto itself&mdash;equipped with uncanny power for a singularly brutal purpose: to obliterate entire planets in the blink of an eye. Its annihilation of the planet Alderaan, at the merciless command of Grand Moff Tarkin, lives in infamy. And its own ultimate destruction, at the hands of Luke Skywalker, is the stuff of legend. But what is the whole story, and who are the players, behind the creation of this world-killing satellite of doom? The near extermination of the Jedi Order cleared the way for Palpatine&m",
   "title": "Death Star"
 }

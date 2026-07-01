@@ -1,14 +1,25 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Jane Herbstman",
+      "name": "Judy Herbstman",
       "role": "writer",
       "slug": "jane-herbstman"
+    },
+    {
+      "name": "Pat Paris",
+      "role": "artist",
+      "slug": "pat-paris"
     }
   ],
   "displayTitle": "The Ewoks' Hang-Gliding Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394863559"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ewoks-hang-gliding-adventure",
+  "synopsis": "Two young Ewoks go hang-gliding; a storm carries them far from their village.",
   "title": "The Ewoks' Hang-Gliding Adventure"
 }

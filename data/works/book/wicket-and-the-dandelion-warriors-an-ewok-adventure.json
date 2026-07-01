@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-and-the-dandelion-warriors-an-ewok-adventure",
+  "synopsis": "Wicket and the Dandelion Warriors: An Ewok Adventure is a 1985 children's book adaptation of the fourth episode of the Ewoks TV series, entitled \"To Save Deej.\"",
   "title": "Wicket and the Dandelion Warriors: An Ewok Adventure"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Beau Willimon",
+      "role": "writer",
+      "slug": "beau-willimon"
+    },
+    {
+      "name": "Ariel Kleiman",
+      "role": "director",
+      "slug": "ariel-kleiman"
+    }
+  ],
   "displayTitle": "Ever Been to Ghorman?",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-04-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e4",
+  "synopsis": "Cassian and Bix adjust to a Luthen safehouse. All eyes are on Ghorman. Wilmon visits Saw Gerrera.",
   "title": "Ever Been to Ghorman?"
 }

@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Return of the Jedi #2: The Emperor Commands",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "return-of-the-jedi-2-the-emperor-commands",
+  "synopsis": "Luke Skywalker returns to Dagobah while Emperor Palpatine plots to bring him to the dark side of the Force.",
   "title": "Return of the Jedi #2: The Emperor Commands"
 }

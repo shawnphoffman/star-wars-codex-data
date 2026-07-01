@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Krstic",
+      "role": "writer",
+      "slug": "george-krstic"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    }
+  ],
   "displayTitle": "Storm Over Ryloth",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Clone Wars S03E07: Assassin",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

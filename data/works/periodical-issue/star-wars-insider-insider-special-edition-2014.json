@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2014",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2014",
+  "synopsis": "We've collected the very best material from Star Wars Insider and included some all-new surprises to bring you an amazing 148-page spectacular! The big three: Luke Skywalker, Princess Leia, and Han Solo (AKA Mark Hamill, Carrie Fisher, and Harrison Ford) are interviewed along with brilliant features about the classic movies, the prequels, The Clone Wars, and more! Plus! We meet the man behind the amazing poster art for The Empire Strikes Back and quiz celebrity Star Wars fans about the saga!",
   "title": "Insider - Special Edition 2014"
 }

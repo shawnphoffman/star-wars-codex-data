@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "Faster",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-01-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e4",
+  "synopsis": "The team enters the colorful and dangerous world of racing.",
   "title": "Faster"
 }

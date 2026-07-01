@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Vector Prime",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "vector-prime",
+  "synopsis": "With the exciting arrival of The New Jedi Order series, the next era of Star Wars history is about to begin. Here, fantasy and science fiction's most acclaimed authors propel the legendary epic into the next millennium, introducing us to a rich cast of characters that features old favorites&mdash;Luke Skywalker, Han Solo, and Leia Organa Solo&mdash;along with the next generation of Jedi and never-before-seen creatures, droids, and deadly agents of darkness. In Vector Prime, the launch novel for this thrilling new saga, New York Times bestselling author R. A. Salvatore takes the Star Wars unive",
   "title": "Vector Prime"
 }

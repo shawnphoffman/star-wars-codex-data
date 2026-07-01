@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven G. Lee",
+      "role": "director",
+      "slug": "steven-g-lee"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
   "displayTitle": "Rebels S01E06: Breaking Ranks",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

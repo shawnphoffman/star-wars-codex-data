@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #171",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-02-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-171",
+  "synopsis": "The amazing new-look issue of Star Wars Insider is here! Don't miss this exciting new chapter in the history of the official magazine of the Star Wars saga!\nThis issue features amazing new features, an essential guide to the great Star Wars collectibles released this month, behind-the-scenes info on the latest Star Wars movie, Rogue One, plus some surprises you won't want to miss!",
   "title": "Insider #171"
 }

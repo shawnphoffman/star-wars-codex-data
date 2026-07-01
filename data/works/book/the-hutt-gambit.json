@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Hutt Gambit",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "endYear": -4,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-hutt-gambit",
+  "synopsis": "Here is the second novel in the blockbuster new trilogy that reveals the never-before-told story of the young Han Solo. Set before the Star Wars movie adventures, these books chronicle the coming-of-age of the galaxy's most famous con man, smuggler and thief. Once one of the Academy's brightest stars, Han Solo is now a fugitive from the Imperial Navy. But he has made a valuable friend in a former Wookiee slave named Chewbacca, who has sworn Han a life debt. Han will need all the help he can get. For the Ylesian Hutts have dispatched the dreaded bounty hunter Boba Fett to track down the man who",
   "title": "The Hutt Gambit"
 }

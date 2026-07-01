@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Craig W. Van Sickle",
+      "role": "writer",
+      "slug": "craig-w-van-sickle"
+    },
+    {
+      "name": "Brian Kalin O'Connell",
+      "role": "director",
+      "slug": "brian-kalin-oconnell"
+    },
+    {
+      "name": "Steven Long Mitchell",
+      "role": "writer",
+      "slug": "steven-long-mitchell"
+    }
+  ],
   "displayTitle": "Evil Plans",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

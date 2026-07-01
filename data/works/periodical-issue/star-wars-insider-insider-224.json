@@ -1,13 +1,17 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #224",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "pageCount": 84,
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-03-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-224",
+  "synopsis": "In this issue of Star Wars Insider we profile the kind of individuals who either strove to rule the galaxy far, far, away; were thrust into such a position; or struck their own paths leading crime gangs and other nefarious groups. On a lighter note, we get arty with creature concept designer Jake Lunt Davies; meet Ethan Sacks, the writer behind Marvel Comics' thrilling Bounty Hunter series; and get the Max Rebo Band back together to remember their heady days on the set of Return of the Jedi as the biggest musical act in the galaxy.\nWe also begin a two-part retrospective of The Bad Batch with the creative team behind its three-season run, and speak to the showrunner and writers of Young Jedi Adventures. Plus, the Adrens board a derelict Nihil ship in an all-new and exclusive The High Republic short story from Lydia Kang!",
   "title": "Insider #224"
 }

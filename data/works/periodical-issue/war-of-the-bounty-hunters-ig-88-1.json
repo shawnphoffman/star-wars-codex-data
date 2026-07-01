@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "artist",
+      "slug": "guiu-vilanova"
+    }
+  ],
   "displayTitle": "War of the Bounty Hunters: IG-88 #1",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Atsushi Takeuchi",
+      "role": "director",
+      "slug": "atsushi-takeuchi"
+    }
+  ],
   "displayTitle": "Lair of Grievous",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,0 +1,46 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Young Jedi Knights: Jedi Bounty",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 24
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "young-jedi-knights-1995-1",
+    "young-jedi-knights-1995-11",
+    "young-jedi-knights-1995-12",
+    "young-jedi-knights-1995-13",
+    "young-jedi-knights-1995-14",
+    "young-jedi-knights-1995-2",
+    "young-jedi-knights-1995-3",
+    "young-jedi-knights-1995-4",
+    "young-jedi-knights-1995-5",
+    "young-jedi-knights-1995-6",
+    "young-jedi-knights-1995-7",
+    "young-jedi-knights-1995-8",
+    "young-jedi-knights-1995-9"
+  ],
+  "releaseDate": "1997-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-knights-1995-10",
+  "synopsis": "Lowbacca has left the Jedi academy and traveled to the planet Ryloth, headquarters of the Diversity Alliance, to see what the Diversity Alliance is really all about.\nOn Yavin 4, Jacen, Jaina and the other young Jedi Knights have already discovered one truth about the Alliance&mdash;once you go to Ryloth, you either join or you die. Lowie is in great danger, and they must rescue him. But what can a small group of humans do against a planet full of hostile aliens?",
+  "title": "Young Jedi Knights: Jedi Bounty"
+}

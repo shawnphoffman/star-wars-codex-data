@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "writer",
+      "slug": "anthony-daniels"
+    }
+  ],
+  "displayTitle": "Droids: The Protocol Offensive",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-protocol-offensive",
+  "synopsis": "Plotted by Star Wars novelist Brian Daley (Han Solo at Stars' End) and written by See-Threepio actor Anthony Daniels and Droids writer Ryder Windham, with painted illustrations by Tales of the Marvels artist Igor Kordey. It's See-Threepio and Artoo-Detoo saving the planet Tahlboor, in an adventure set years before Star Wars: A New Hope! This prestige-format one-shot has it all.",
+  "title": "Droids: The Protocol Offensive"
+}

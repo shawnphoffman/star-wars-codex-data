@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #30",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1996-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-30",
+  "synopsis": "Star Wars Insider 30 is the thirtieth issue of Star Wars Insider magazine. It was published in Summer 1996. This is the first issue to feature the writing of Scott Chernoff, who would become a fixture for the next 30 issues and go on to become the magazine's Managing Editor.",
   "title": "Insider #30"
 }

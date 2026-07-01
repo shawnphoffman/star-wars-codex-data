@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Taylor",
+      "role": "writer",
+      "slug": "christian-taylor"
+    },
+    {
+      "name": "Danny Keller",
+      "role": "director",
+      "slug": "danny-keller"
+    }
+  ],
   "displayTitle": "The Clone Wars S05E09: A Necessary Bond",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 8: Togorian Trap",
+  "displayTitle": "Missions 8: Togorian Trap",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-8-togorian-trap",
+  "synopsis": "You are a bounty hunter. The Galactic Empire has sent you to Togoria to trap the Rebels Han Solo, Princess Leia, and Luke Skywalker. To find them, you must travel through the wilds of Togoria, where fierce creatures stalk their prey. A great reward awaits you &ndash; if you can survive. Your mission: to ensnare the Rebels and bring glory to the Empire. Good luck.",
   "title": "Star Wars Missions 8: Togorian Trap"
 }

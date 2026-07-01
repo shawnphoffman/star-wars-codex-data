@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Purge: Seconds to Die",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "purge-seconds-to-die",
+  "synopsis": "After Order 66, the Jedi purge led by the dark and fearsome Sith Lord Darth Vader, most of the remaining Jedi are hiding to survive&mdash;but not all. Sha Koon, niece of the esteemed Plo Koon, has narrowly escaped the attack on the Jedi Temple, and has been left full of questions about the dark side. Sha Koon will not hide; she will find another way to continue being a Jedi&mdash;one that will place her directly in the path of Darth Vader and the Emperor!",
+  "title": "Purge: Seconds to Die"
+}

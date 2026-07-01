@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Wookiee Storybook",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-wookiee-storybook",
+  "synopsis": "Lumpy's descent to the nother world [sic] on his jungle planet to hunt for special berries for his father's homecoming becomes a scary adventure.",
   "title": "The Wookiee Storybook"
 }

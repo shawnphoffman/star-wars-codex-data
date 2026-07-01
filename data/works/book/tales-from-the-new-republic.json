@@ -1,7 +1,15 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    }
+  ],
   "displayTitle": "Tales from the New Republic",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 18,
@@ -11,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-new-republic",
+  "synopsis": "Written by some of today's leading science fiction writers, these tales sweep us into a world where the only laws are cunning, force, and power&mdash;and only the bravest, craziest, and deadliest dare to tread. Here mercs and smugglers, gangsters and warriors fight toe to toe, side by side, and behind each other's backs in the backwaters of a universe ripped apart by war.... On Zelos II a man and a woman are held prisoner in a dark cell, each fighting in their own way for survival at the hands of Imperial captors&mdash;and a chance for escape that could cost one of them their life. On the tort",
   "title": "Tales from the New Republic"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dan Gilroy",
+      "role": "writer",
+      "slug": "dan-gilroy"
+    },
+    {
+      "name": "Janus Metz",
+      "role": "director",
+      "slug": "janus-metz"
+    }
+  ],
   "displayTitle": "Messenger",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-05-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e7",
+  "synopsis": "Yavin is growing. Wilmon comes for help. Dedra’s on Ghorman. Cassian heeds the call.",
   "title": "Messenger"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Destiny's Way",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "destinys-way",
+  "synopsis": "The time of reckoning is close at hand. Events in the New York Times bestselling Star Wars The New Jedi Order series take a decisive turn, as the heroes of the New Republic prepare for their most volatile clash yet with the enemy&mdash;from without and from within. In the war against the ruthless Yuuzhan Vong, the fall of Coruscant leaves New Republic divided by internal strife and on the verge of bowing to conquest. But those who steadfastly refuse to consider surrender&mdash;Luke Skywalker, Han Solo, Leia Organa Solo, and their children and comrades-in-arms&mdash;are determined to seize vict",
   "title": "Destiny's Way"
 }

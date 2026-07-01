@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #16: The Hunter",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-16",
+  "synopsis": "When a nefarious bounter hunter [sic] mistakes another teenager for Skywalker, a battle ensues!",
   "title": "Star Wars (1977) #16: The Hunter"
 }

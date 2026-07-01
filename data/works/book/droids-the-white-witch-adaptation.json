@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,13 +9,21 @@
     }
   ],
   "displayTitle": "Droids: The White Witch (Adaptation)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780583311694"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
-  "releaseDate": "1995-06-09T00:00:00.000Z",
+  "releaseDate": "1987-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "droids-the-white-witch-adaptation",
+  "synopsis": "C-3PO and R2-D2, abandoned in the deserts of Ingo, are picked up by mechanic Thall Joben; they join Thall, Jord, and Kea Moll against the Fromm crime family.",
   "title": "Droids: The White Witch (Adaptation)"
 }

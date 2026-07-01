@@ -1,11 +1,24 @@
 {
   "bookType": "shortStory",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Grant Griffin",
+      "role": "artist",
+      "slug": "grant-griffin"
+    }
+  ],
   "displayTitle": "Life Day Treasury",
   "format": "book",
   "releaseDate": "2021-09-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "life-day-treasury",
+  "synopsis": "Cozy up with this collection of holiday-themed midwinter stories from throughout the galaxy far, far away! From George Mann and Grant Griffin, the same team that brought us the stunning Star Wars: Myths & Fables and Star Wars: Dark Legends–with the addition of best-selling author Cavan Scott–this collection of eight myths and fables told around winter fires and high-tech heating pods across the galaxy will bring holiday joy to young and old Star Wars fans alike. From Jedi in the city to Ewoks in the forest, from Wookiees to droids, in this charming collection you will find holiday feasts, ghos",
   "title": "Life Day Treasury"
 }

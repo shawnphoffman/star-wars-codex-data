@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Sabotage",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-09-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "sabotage",
+  "synopsis": "In this issue's all-new Star Wars: The Clone Wars comic adventure, the Separatists attempt to highjack the funeral of the valiant Roonan Halsey. With no transport or comlink, how can Obi-Wan possibly warn everyone in time? There's only one way to find out&hellip;",
+  "title": "Sabotage"
+}

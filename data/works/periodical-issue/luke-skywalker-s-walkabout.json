@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Phill Norwood",
+      "role": "writer",
+      "slug": "phill-norwood"
+    }
+  ],
+  "displayTitle": "Luke Skywalker's Walkabout",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -6
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-08-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "luke-skywalker-s-walkabout",
+  "synopsis": "Though Luke Skywalker feels that his life on a moisture farm on Tatooine is boring, the events seen in Star Wars: Episode IV A New Hope are neither young Luke's first adventure, nor his first meeting with the mysterious Ben Kenobi. In this story, based on events in the Star Wars Radio Drama, Luke and his friend Windy learn for the first time that the Jundland Wastes are not to be traveled lightly...",
+  "title": "Luke Skywalker's Walkabout"
+}

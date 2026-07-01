@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Master and Apprentice",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-08-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e1",
+  "synopsis": "A valuable prisoner escapes New Republic custody; a search for answers reunites two old friends.",
   "title": "Master and Apprentice"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-goes-fishing-an-ewok-adventure",
+  "synopsis": "Wicket Goes Fishing: An Ewok Adventure is a softback children's book by Melinda Luke and illustrated by A. O. Williams. It was published in 1986 by Happy House, an imprint of Random House.",
   "title": "Wicket Goes Fishing: An Ewok Adventure"
 }

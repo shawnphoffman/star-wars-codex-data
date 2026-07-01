@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Master of Deception",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8"
+  ],
+  "releaseDate": "2008-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-9",
+  "synopsis": "The planet of Alderaan is a peaceful one&hellip;and Senator Bail Organa wants to keep it that way. But the presence of the Empire is starting to cast a shadow over their tranquility &mdash; as spies and traitors infiltrate the corridors of power.\nAlderaan holds a secret &mdash; a secret on which the future existence of the Jedi depends. Under strict instructions from the Emperor, double agent Ferus Olin must both uncover this secret and protect it. What he discovers raises dark questions from his own past &mdash; and puts him in direct conflict with another former Jedi&hellip;the sinister Dark Lord of the Sith, Darth Vader.\nThe thrilling series from the New York Times best-selling author of Jedi Apprentice and Jedi Quest'.",
+  "title": "The Last of the Jedi: Master of Deception"
+}

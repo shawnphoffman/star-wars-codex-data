@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    }
+  ],
+  "displayTitle": "Special: The Constancia Affair",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-special-the-constancia-affair",
+  "synopsis": "Star Wars Special: The Constancia Affair was a free exclusive comic book available from KB Toys in 1998, published by Dark Horse Comics. It collected a story from the 1979 Star Wars comic strip, written and illustrated by Russ Manning. It was one of only two of Manning's strips that were not collected as part of Classic Star Wars: The Early Adventures, and was not officially named until it was reprinted here.",
+  "title": "Star Wars Special: The Constancia Affair"
+}

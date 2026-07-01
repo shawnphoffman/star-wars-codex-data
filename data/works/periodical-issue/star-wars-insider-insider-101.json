@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #101",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2008-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-101",
+  "synopsis": "Star Wars Insider 101 is the 101st issue of the Star Wars Insider magazine, and the 9th issue to be published by Titan Magazines. It saw an overhaul of the Jawa's Corner department into the Blaster department as part of the overall overhaul of the magazine.",
   "title": "Insider #101"
 }

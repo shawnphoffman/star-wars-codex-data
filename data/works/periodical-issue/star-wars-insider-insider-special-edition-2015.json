@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2015",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2015",
+  "synopsis": "This incredible 148-page special edition magazine is the perfect way to immerse yourself into the Star Wars galaxy. We've looked back and chosen some of the greatest features and interviews from the pages of Insider, from the classic movies to the Expanded Universe. This special edition includes a new interview with Dee Bradley Baker, the actor who voiced the clone army in Star Wars: The Clone Wars; a talk with the supporting players from A New Hope about their time on the set of the very first Star Wars movie; and an in-depth chat with Star Wars: Episode VI Return of the Jedi creature consultant Chris Walas.",
   "title": "Insider - Special Edition 2015"
 }

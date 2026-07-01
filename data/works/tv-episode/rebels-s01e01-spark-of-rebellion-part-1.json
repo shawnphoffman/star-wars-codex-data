@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven G. Lee",
+      "role": "director",
+      "slug": "steven-g-lee"
+    },
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    }
+  ],
   "displayTitle": "Spark of Rebellion Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

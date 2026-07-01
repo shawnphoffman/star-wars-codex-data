@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #225",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-225",
+  "synopsis": "May the 4th be with You!\n2024 is the 25th anniversary of when it all came storming back into our lives. Star Wars: The Phantom Menace arrived in theaters on May 19, 1999, and this issue we remember the incredible expectation and excitement that swept over fans ahead of the movie's release. Elsewhere in this issue, we take another trip into the past to explore the history of Star Tours, the Disney Parks attraction that has been taking guests on breakneck voyages to the galaxy far, far away since 1987. Plus, we have an interview with the legendary Billy Dee Williams, the actor who lent Lando Calrissian his suave sophistication and sense of style.",
   "title": "Insider #225"
 }

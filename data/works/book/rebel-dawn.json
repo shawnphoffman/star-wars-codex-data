@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Rebel Dawn",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-dawn",
+  "synopsis": "The Millennium Falcon is \"the fastest hunk of junk in the galaxy.\" So when Han Solo wins it in a game of sabacc, he and Chewbacca become kings of the smugglers—uncatchable, unstoppable. But with the Empire clamping down, Han knows his luck can't last. Still, when an old flame of Han's, who is now the leader of an insurgent Rebel group, offers him a shot at an incredible fortune, Han can't resist. The plan seems a sure thing. The resistance will be light, the take enormous. Han and his friends will divide it equally with the Rebels. Too bad for Han that the planet of Ylesia is far from a pushov",
   "title": "Rebel Dawn"
 }

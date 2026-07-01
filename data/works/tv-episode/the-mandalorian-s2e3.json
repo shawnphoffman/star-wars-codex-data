@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "director",
+      "slug": "bryce-dallas-howard"
+    }
+  ],
   "displayTitle": "The Heiress",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-two",
   "releaseDate": "2020-11-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s2e3",
+  "synopsis": "The Mandalorian braves high seas and meets unexpected allies.",
   "title": "The Heiress"
 }

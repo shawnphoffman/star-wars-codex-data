@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Dave Bullock",
+      "role": "director",
+      "slug": "dave-bullock"
+    }
+  ],
   "displayTitle": "The Clone Wars S01E01: Ambush",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

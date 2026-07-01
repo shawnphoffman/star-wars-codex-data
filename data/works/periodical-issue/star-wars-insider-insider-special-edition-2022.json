@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2022",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-11-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2022",
+  "synopsis": "The Star Wars Insider Yearly Annual is here!\nPacked with over 140 pages of exciting features, interviews, and highlights from a galaxy far, far away!!",
   "title": "Insider - Special Edition 2022"
 }

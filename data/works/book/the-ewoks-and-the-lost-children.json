@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,13 @@
     }
   ],
   "displayTitle": "The Ewoks and the Lost Children",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394871868"
+    }
+  ],
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +24,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ewoks-and-the-lost-children",
+  "synopsis": "Two human children stranded on the forest moon of Endor are aided by the Ewoks as they try to rescue their parents from the Gorax, the most feared creature on Endor.",
   "title": "The Ewoks and the Lost Children"
 }

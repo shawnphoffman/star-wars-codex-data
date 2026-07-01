@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lamont Magee",
+      "role": "writer",
+      "slug": "lamont-magee"
+    },
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Michael Olson",
+      "role": "writer",
+      "slug": "michael-olson"
+    },
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    }
+  ],
   "displayTitle": "The Young Jedi",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-s1e1",
+  "synopsis": "Jedi younglings Kai, Lys, and Nubs go on their first adventure. Yoda gives the younglings a mission.",
   "title": "The Young Jedi"
 }

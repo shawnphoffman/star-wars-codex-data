@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "yaNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Rise and Fall of Darth Vader",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": 4,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rise-and-fall-of-darth-vader",
+  "synopsis": "This is the legendary story of Anakin Skywalker as it's never been told before - through his eyes&hellip; From rise to fall, from light to dark, and back again. Born a slave. Raised a Jedi. Feared by a Galaxy.",
   "title": "The Rise and Fall of Darth Vader"
 }

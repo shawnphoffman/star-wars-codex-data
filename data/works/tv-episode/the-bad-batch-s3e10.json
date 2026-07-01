@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
   "displayTitle": "Identity Crisis",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-04-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e10",
+  "synopsis": "Emerie confronts the dark secrets behind Hemlock’s scientific research.",
   "title": "Identity Crisis"
 }

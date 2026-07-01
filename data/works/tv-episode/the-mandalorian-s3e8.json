@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    }
+  ],
   "displayTitle": "The Return",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-three",
   "releaseDate": "2023-04-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s3e8",
+  "synopsis": "The Mandalorian and his allies confront their enemies.",
   "title": "The Return"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "I, Jedi",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "i-jedi",
+  "synopsis": "From New York Times beststelling author Michael A. Stackpole, one of the acclaimed masters of imaginative fiction, comes a stirring new tale set in the Star Wars universe, the story of Corran Horn, a heroic X-wing pilot who faces the greatest challenge of his life: trying to come to terms with his Jedi heritage and learning to use the Force&mdash;without succumbing to the dark side. Corran Horn was an officer in the Corellian Security Force before casting his lot with the New Republic. As the grandson of a legendary Jedi hero, he has latent Force powers that have yet to be developed. But he ha",
   "title": "I, Jedi"
 }

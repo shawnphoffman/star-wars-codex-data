@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #237",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-237",
+  "synopsis": "THE FINAL EVER ISSUE OF STAR WARS INSIDER\nINSIDE THIS ISSUE: KATHLEEN KENNEDY Exclusive Interview with the departing Lucasfilm President!\nThe Mandalorian and Grogu Preview The SFX of Star Wars\nINTERVIEWS Andor editor John Gilroy The Star Wars creature shop’s Neal Scanlan on Andor Season Two\nEXCLUSIVE STAR WARS SHORT FICTION!",
   "title": "Insider #237"
 }

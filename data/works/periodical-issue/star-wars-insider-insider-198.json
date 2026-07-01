@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #198",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2020-11-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-198",
+  "synopsis": "THE COUNTDOWN TO INSIDER #200 BEGINS! GREG GRUNBERG - ace Resistance pilot Snap Wexley - opens up about his love for the saga. ELIZABETH GRULLON discusses her experience playing JEDI: FALLEN ORDER's villainous Second Sister. We count down EMPEROR PALPATINE'S top 5 apprentices - Plus, all the latest news from every sector of the Star Wars galaxy!",
   "title": "Insider #198"
 }

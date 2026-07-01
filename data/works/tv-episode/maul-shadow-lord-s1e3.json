@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Julia Cooperman",
+      "role": "writer",
+      "slug": "julia-cooperman"
+    }
+  ],
   "displayTitle": "Whispers in the Unknown",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e3",
+  "synopsis": "As Maul's plans come together, Devon considers her options.",
   "title": "Whispers in the Unknown"
 }

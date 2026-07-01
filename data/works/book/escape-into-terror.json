@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Escape Into Terror",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "escape-into-terror",
+  "synopsis": "Escape Into Terror is a 1987 children's book adaptation of the Star Wars Droids episode entitled \"Escape Into Terror.\" It was written by Emily James.",
   "title": "Escape Into Terror"
 }

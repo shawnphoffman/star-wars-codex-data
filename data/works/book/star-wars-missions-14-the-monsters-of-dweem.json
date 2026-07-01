@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 14: The Monsters of Dweem",
+  "displayTitle": "Missions 14: The Monsters of Dweem",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-14-the-monsters-of-dweem",
+  "synopsis": "The monsters of Dweem do not take any prisoners. They are the color of ice, and can appear at any moment with their jagged teeth bared. You are an Imperial soldier who has traveled to Dweem in search of Han Solo and his Rebel friends. You will be lucky to get off the planet alive. Your mission: to trap the Rebels before the monsters of Dweem trap you. Good luck.",
   "title": "Star Wars Missions 14: The Monsters of Dweem"
 }

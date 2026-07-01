@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    }
+  ],
   "displayTitle": "Droids: Rebellion",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-rebellion-1995",
+  "synopsis": "Olag Greck is a con man and arch criminal, and he's hiding out exactly where you might expect: among his own wretched kind on the smuggler moon Nar Shaddaa. But knowing where he is and actually arresting him are two completely different matters, as the newly deputized Artoo-Detoo and See-Threepio discover!",
   "title": "Star Wars Droids: Rebellion"
 }

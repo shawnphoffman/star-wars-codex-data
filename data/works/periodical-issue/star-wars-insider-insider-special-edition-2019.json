@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2019",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-11-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2019",
+  "synopsis": "The latest yearly collection of amazing Star Wars content is here, packed with the very best articles, interviews, and behind-the-scenes peeks from a galaxy far, far away!!",
   "title": "Insider - Special Edition 2019"
 }

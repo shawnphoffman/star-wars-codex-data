@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "how-the-ewoks-saved-the-trees-an-old-ewok-legend",
+  "synopsis": "Wicket and Kneesaa, two furry woklings who live on the tiny moon Endor, catch a pair of giant Phlogs in the act of cutting down the ancient forest trees revered by the Ewoks.",
   "title": "How the Ewoks Saved the Trees: An Old Ewok Legend"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "Nightsisters",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

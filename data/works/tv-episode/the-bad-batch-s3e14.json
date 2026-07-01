@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "writer",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "Flash Strike",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e14",
+  "synopsis": "Odds are against the Batch as they operate behind enemy lines.",
   "title": "Flash Strike"
 }

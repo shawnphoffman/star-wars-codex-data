@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #108",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2009-03-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-108",
+  "synopsis": "Star Wars Insider 108 is the 108th issue of the Star Wars Insider magazine, and the 16th issue to be published by Titan Magazines. It features one newsstand cover, in addition to the Exclusive Limited Edition Collectors' Cover.",
   "title": "Insider #108"
 }

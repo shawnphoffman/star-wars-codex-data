@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Darksaber",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 12
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darksaber",
+  "synopsis": "Kevin James Anderson is a prolific science-fiction author and the author of The Jedi Academy Trilogy of books, which told the story of Luke Skywalker's attempts to begin training Jedi on Yavin 4; and introduced characters such as Kyp Durron and Admiral Daala. He also co-wrote the Young Jedi Knights series with his wife, Rebecca Moesta. During the writing of his early Star Wars novels, he communicated with fans as a member of the FidoNet Star Wars Echo. Additionally, Anderson contributed to the Star Wars: Tales of the Jedi comic series, and has written numerous short stories.",
   "title": "Darksaber"
 }

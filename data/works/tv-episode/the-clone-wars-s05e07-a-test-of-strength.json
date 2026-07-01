@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Taylor",
+      "role": "writer",
+      "slug": "christian-taylor"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    }
+  ],
   "displayTitle": "The Clone Wars S05E07: A Test of Strength",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

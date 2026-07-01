@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paul Dini",
+      "role": "writer",
+      "slug": "paul-dini"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "Holocron Heist",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

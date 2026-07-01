@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    }
+  ],
+  "displayTitle": "Tilotny Throws a Shape",
+  "era": "oldRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1982-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tilotny-throws-a-shape",
+  "synopsis": "\"Tilotny Throws a Shape\" is a comic story written by Alan Moore and originally published in Marvel UK's The Empire Strikes Back Monthly 154. It was later reprinted and colorized in Classic Star Wars: Devilworlds 2.",
+  "title": "Tilotny Throws a Shape"
+}

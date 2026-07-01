@@ -1,6 +1,29 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "artist",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "George Freeman",
+      "role": "artist",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "artist",
+      "slug": "mark-mckenna"
+    }
+  ],
   "displayTitle": "The Old Republic: The Lost Suns",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +32,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-the-lost-suns-2011",
+  "synopsis": "The Lost Suns is set approximately 3,600 years before the movies. It stars Republic spy Theron Shan, son of Jedi Master Satele Shan, and packs explosive revelations relating to the events of the game.",
   "title": "The Old Republic: The Lost Suns"
 }

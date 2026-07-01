@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Edge of Victory II: Rebirth",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 26
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "edge-of-victory-ii-rebirth",
+  "synopsis": "The brutal Yuuzhan Vong are scouring the universe for Jedi to slaughter. With no help from the divided New Republic, the Jedi stand alone against their seemingly invincible foe. Han Solo and Leia Organa Solo risk deadly consequences with their controversial tactics to bolster the Jedi resistance. After uncovering a new Yuuzhan Vong menace, Anakin and Tahiri find themselves wanted for murder by the Peace Brigade. To avoid capture, they jump into hyperspace&hellip; and into trouble far graver. Hunted by the Yuuzhan Vong, wanted as criminals by the New Republic, and with unrest stirring within th",
   "title": "Edge of Victory II: Rebirth"
 }

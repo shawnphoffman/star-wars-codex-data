@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #135",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-135",
+  "synopsis": "Star Wars Insider celebrates 30 years of Star Wars video games from The Empire Strikes Back to The Old Republic. Insider parties on and previews Celebration VI, plus all-new fiction as Insider reveals an exclusive tale with amazing art! There is a complete guide to the X-wing fighter. Also, the latest news on Season Five of Star Wars: The Clone Wars!",
   "title": "Insider #135"
 }

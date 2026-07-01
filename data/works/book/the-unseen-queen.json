@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Unseen Queen",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 36
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-unseen-queen",
+  "synopsis": "The epic Star Wars odyssey enters a new frontier as the heroes of the New Jedi Order confront a monstrous evil-insidious, unseen, and insatiable.... Though the insectoid Killiks have been given new worlds, they have not found peace yet. Their new colonies are under attack from a mysterious foe and the furious Killiks blame the Jedi. Racing back to the Unknown Regions to investigate, the Skywalkers and Solos discover a threat more familiar and terrifying than they had ever expected. Worse, the Dark Nest wants to kill Mara Jade. Will Jacen's apocalyptic vision create yet another galactic war or ",
   "title": "The Unseen Queen"
 }

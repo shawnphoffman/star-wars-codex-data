@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2013",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2013",
+  "synopsis": "Whether you're a young fan who's just discovered the epic Star Wars saga or you've been there from the start, this is your ticket to totally immerse yourself in the amazing Star Wars universe. Discover secrets from Boba Fett's past; meet the man who made Darth Vader's fearsome costume, and discover who the greatest warriors of the saga are! We'll uncover the story of Dark Horse Comics' successful ongoing Star Wars title; hear from the cast and crew of The Empire Strikes Back, collect Ewoks, and much more.",
   "title": "Insider - Special Edition 2013"
 }

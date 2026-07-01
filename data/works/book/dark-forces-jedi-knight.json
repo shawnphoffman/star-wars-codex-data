@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Forces: Jedi Knight",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-forces-jedi-knight",
+  "synopsis": "Dark Forces: Jedi Knight is the third and final volume in the Dark Forces trilogy of novellas written by William C. Dietz. It was originally released on October 14, 1998 by Dark Horse Comics and Boulevard. Both the hardcover and trade paperback include twenty-five full-color illustrations by Dave Dorman.",
   "title": "Dark Forces: Jedi Knight"
 }

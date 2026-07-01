@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #50",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2000-07-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-50",
+  "synopsis": "Star Wars Insider 50 is the fiftieth issue of Star Wars Insider magazine, which began publication in 1987. Issue 50 was released to newsstands in July 2000 and introduced actor Hayden Christensen as the new Anakin Skywalker in the Star Wars prequel trilogy.",
   "title": "Insider #50"
 }

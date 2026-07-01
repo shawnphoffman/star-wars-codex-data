@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Larsen",
+      "role": "writer",
+      "slug": "brian-larsen"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Clone Wars S2E16: Cat and Mouse",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

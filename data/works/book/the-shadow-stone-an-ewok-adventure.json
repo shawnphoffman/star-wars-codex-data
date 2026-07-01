@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Shadow Stone: An Ewok Adventure",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-shadow-stone-an-ewok-adventure",
+  "synopsis": "The Shadow Stone: An Ewok Adventure is a 1986 children's book adaptation of the ninth episode of the Ewoks TV series, entitled \"Sunstar vs. Shadowstone.\"",
   "title": "The Shadow Stone: An Ewok Adventure"
 }

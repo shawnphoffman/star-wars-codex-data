@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    }
+  ],
   "displayTitle": "Tales From the Nightlands #2",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
@@ -11,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands-2",
+  "synopsis": "After his defeat on Cloud City, Luke Skywalker is tormented by Darth Vader's revelation. Is the Dark Lord of the Sith really his father? When a nightmare suggests otherwise, Luke can't resist the opportunity to investigate&hellip;and comes face-to-face with&hellip;the Nightlander!",
   "title": "Star Wars: Tales From the Nightlands #2"
 }

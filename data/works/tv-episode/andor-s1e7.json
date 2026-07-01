@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stephen Schiff",
+      "role": "writer",
+      "slug": "stephen-schiff"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "director",
+      "slug": "benjamin-caron"
+    }
+  ],
   "displayTitle": "Announcement",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-season-1",
   "releaseDate": "2022-10-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s1e7",
+  "synopsis": "The repercussions of the Aldhani heist reach all the way to Coruscant, while Cassian returns home.",
   "title": "Announcement"
 }

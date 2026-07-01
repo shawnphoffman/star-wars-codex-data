@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justin Ridgeway",
+      "role": "director",
+      "slug": "justin-ridgeway"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    }
+  ],
   "displayTitle": "Twin Suns",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

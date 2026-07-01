@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "Drone Alone",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "drone-alone",
+  "synopsis": "\"Drone Alone\" is a comic story by Christopher Cooper featured in the tenth issue of Star Wars Comic magazine, released in September of 2014. The story, set shortly after Star Wars: Episode V The Empire Strikes Back, features Luke Skywalker, Wedge Antilles, Chewbacca and Lando Calrissian on a mission to steal hyperdrive components from the Galactic Empire.",
+  "title": "Drone Alone"
+}

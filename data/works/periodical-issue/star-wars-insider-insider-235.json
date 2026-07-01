@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #235",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-235",
+  "synopsis": "NEWS, EXCLUSIVE FICTION, AND MORE!\nFEATURING: A celebration of the 10th anniversary of THE FORCE AWAKENS with:\nAn exclusive look at Industrial Light & Magic’s special effects An original fiction tie-in story\nPLUS: INTERVIEWS Skeleton Crew’s Ryan Kiera Armstrong Andor’s Robert Emms AND:\nANDOR SEASON 2 COMPOSER BRANDON ROBERTS",
   "title": "Insider #235"
 }

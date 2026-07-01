@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    },
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    }
+  ],
   "displayTitle": "Iron Squadron",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

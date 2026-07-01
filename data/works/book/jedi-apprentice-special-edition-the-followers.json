@@ -25,13 +25,17 @@
       "onsale": "2002-04-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -39
   },
+  "relatedWorkSlugs": [
+    "jedi-apprentice-special-edition-deceptions"
+  ],
   "releaseDate": "2002-04-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-apprentice-special-edition-the-followers",
   "synopsis": "Ten years ago, Qui-Gon Jinn and Obi-Wan Kenobi fought against a group of Sith followers studying the dark side of the Force. Now, he and his apprentice, Anakin Skywalker, are about to do the same. But they’ll need the help of someone they’re not sure they can trust.",
   "title": "Jedi Apprentice Special Edition: The Followers"

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Episode I: Queen Amidala",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-i-queen-amidala",
+  "synopsis": "Her world has been blockaded and her people imprisoned, but the Young Queen Amidala, so recently elected to the throne of Naboo, is a teenager of uncommon wisdom. Exiled from her home and spirited away by a pair of Jedi, Amidala will look upon every experience as a potential key to her world's problems. But her salvation may rest in the hands of another&hellip;perhaps where she least expects it!",
   "title": "Episode I: Queen Amidala"
 }

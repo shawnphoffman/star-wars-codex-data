@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Russ Manning",
+      "role": "writer",
+      "slug": "russ-manning"
+    }
+  ],
+  "displayTitle": "The Kashyyyk Depths",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1979-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-kashyyyk-depths",
+  "synopsis": "\"The Kashyyyk Depths\" is a Star Wars newspaper comic strip distributed by the Los Angeles Times Syndicate and published in U.S. and Canadian newspapers on Sundays from July 15 to September 9, 1979. The series was written by Russ Manning. It was among the strip's first five story arcs, which were licensed by the short-lived Lucasfilm subsidiary Black Falcon",
+  "title": "The Kashyyyk Depths"
+}

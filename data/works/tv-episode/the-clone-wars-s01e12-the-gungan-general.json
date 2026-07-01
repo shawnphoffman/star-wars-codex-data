@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "Julie Siege",
+      "role": "writer",
+      "slug": "julie-siege"
+    }
+  ],
   "displayTitle": "The Gungan General",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

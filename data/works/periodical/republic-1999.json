@@ -1,6 +1,49 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    },
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Pat Mills",
+      "role": "writer",
+      "slug": "pat-mills"
+    },
+    {
+      "name": "Doug Petrie",
+      "role": "writer",
+      "slug": "doug-petrie"
+    },
+    {
+      "name": "Scott Allie",
+      "role": "writer",
+      "slug": "scott-allie"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
   "displayTitle": "Republic",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"

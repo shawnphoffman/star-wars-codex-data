@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    }
+  ],
   "displayTitle": "Rise Of The Old Masters",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

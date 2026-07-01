@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "The Kingdom of Ice",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1979-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-kingdom-of-ice",
+  "synopsis": "\"The Kingdom of Ice\" was originally an incomplete seven-part serialized comic story. It was first published in the Marvel Comics magazine Pizzazz #10–16 from July 1978 to January 1979. There were six pages (two parts) remaining to be published when Pizzazz was canceled. After Marvel UK Star Wars Weekly reprinted the first chapters in issues #57–59, the six final pages of the story, titled Pursuit!, saw print in April 1979 in issue #60. When it was finally released in the US as part of Marvel Illustrated Books' Star Wars in November 1981, Pursuit! was reprinted under the title War on Ice!.",
+  "title": "The Kingdom of Ice"
+}

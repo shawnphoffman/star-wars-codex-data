@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Jennifer Muro",
+      "role": "writer",
+      "slug": "jennifer-muro"
+    }
+  ],
   "displayTitle": "Sands Of Jakku",
+  "era": "multiEra",
   "format": "animatedShort",
   "parentWorkSlug": "forces-of-destiny",
   "releaseDate": "2017-07-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny-s01e01-sands-of-jakku",
+  "synopsis": "Rey fends off a creature that wants to devour her new friend, BB-8. The episode takes place during Star Wars: Episode VII The Force Awakens between the time BB-8 is rescued by Rey and then taken to Niima Outpost.",
   "title": "Sands Of Jakku"
 }

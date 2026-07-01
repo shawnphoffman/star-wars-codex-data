@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire Trilogy",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-trilogy",
+  "synopsis": "thumb|left|300px|Luke Skywalker in his father's armor with World Devastators and Star Destroyers in the background Six years after the Battle of Endor, the fight for freedom rages on. Darth Vader is dead, but a reborn Empire&mdash;under a mysterious new leader&mdash;strikes back at the struggling Rebel Alliance. Massive World Devastators, more powerful and unstoppable than the Death Star, ravage entire planets, while the ruthless heirs of Jabba the Hutt place a monumental price on the heads of Princess Leia and her husband, Han Solo. Along with Lando, Chewbacca, Artoo, Threepio, and other old ",
+  "title": "Dark Empire Trilogy"
+}

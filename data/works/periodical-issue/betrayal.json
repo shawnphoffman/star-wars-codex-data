@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "Betrayal",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 40
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2006-05-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "betrayal",
+  "synopsis": "Legacy of the Force: Betrayal is a Star Wars Legends novel and the first volume in the Star Wars: Legacy of the Force series. It was written by Aaron Allston and first published by Del Rey in hardcover on May 30, 2006. The first paperback edition was released on May 1, 2007 and includes the short stories \"In His Image\" and \"A Two-Edged Sword\" by Karen Traviss.",
+  "title": "Betrayal"
+}

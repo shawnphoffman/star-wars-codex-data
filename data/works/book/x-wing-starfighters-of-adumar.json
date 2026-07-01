@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: Starfighters of Adumar",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 12
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-starfighters-of-adumar",
+  "synopsis": "The X-wing fighter pilots have earned their reputation as the Rebel Alliance's ultimate strike force by overwhelming enemies with their rapid-fire assaults. But now they are about to embark on a diplomatic mission that will prove to be even more hazardous than all-out combat.... The neutral world of Adumar has decided to pick a side in the war to control the galaxy. Delegates from both the New Republic and the Empire have been invited to Adumar, and each camp will be given a chance to plead its government's case. But there is one small catch: since the Adumari prize military skill above all el",
   "title": "X-Wing: Starfighters of Adumar"
 }

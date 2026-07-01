@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: A Jedi Adventure in 3D",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-a-jedi-adventure-in-3d",
+  "synopsis": "This amazing 3-D storybook told from the point of view of Jedi Padawan Ahsoka Tano features the best battles and action scenes from The Clone Wars animated series. Complete with perforated 3-D glasses, this 64-page storybook adds a whole new dimension to the Star Wars universe.",
   "title": "The Clone Wars: A Jedi Adventure in 3D"
 }

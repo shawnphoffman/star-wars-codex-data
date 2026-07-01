@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "The Jabba Tape",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-jabba-tape",
+  "synopsis": "With Jabba the Hutt dead, a swarm of greedy Hutt relatives descend on Tatooine ready to claim their piece of Jabba's vast criminal empire. But Big Gizz and Spiker, Jabba's swoop-riding thugs, have their own agenda for a hidden ship full of Jabba's most precious art treasures. Unfortunately, the ship is protected with a security program modeled on Jabba himself! Collecting the serialization from Topps' Star Wars Galaxy Magazine.",
+  "title": "The Jabba Tape"
+}

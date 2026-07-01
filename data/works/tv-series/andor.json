@@ -1,6 +1,29 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tony Gilroy",
+      "role": "writer",
+      "slug": "tony-gilroy"
+    },
+    {
+      "name": "Brandon Roberts",
+      "role": "composer",
+      "slug": "brandon-roberts"
+    },
+    {
+      "name": "David Girvan",
+      "role": "writer",
+      "slug": "david-girvan"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Andor",
+  "era": "reignOfTheEmpire",
   "format": "tvSeries",
   "inUniverseDate": {
     "endYear": -1,

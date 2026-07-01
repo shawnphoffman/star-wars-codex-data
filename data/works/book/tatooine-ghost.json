@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Tatooine Ghost",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 8
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tatooine-ghost",
+  "synopsis": "Han Solo and Leia Organa take center stage, and stunning revelations from the past play a critical role in shaping the future, as the New York Times bestselling author of Star Wars: The New Jedi Order: Star by Star now turns to a crucial chapter in the classic Star Wars saga. The deaths of Darth Vader and Emperor Palpatine and victory at the Battle of Endor by no means spelled the end of the Empire. In the aftermath, the New Republic has faced a constant struggle to survive and grow. And now a new threat looms: a masterpiece of Alderaanian art, lost in transit after the planet's destruction, h",
   "title": "Tatooine Ghost"
 }

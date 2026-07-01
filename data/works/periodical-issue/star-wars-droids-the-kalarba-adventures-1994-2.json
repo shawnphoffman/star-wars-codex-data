@@ -7,7 +7,8 @@
       "slug": "dan-thorsland"
     }
   ],
-  "displayTitle": "Star Wars Droids: The Kalarba Adventures #2",
+  "displayTitle": "Droids: The Kalarba Adventures #2",
+  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-the-kalarba-adventures-1994-2",
+  "synopsis": "A gang of interplanetary thieves steal See-Threepio and Artoo-Detoo from the Pitareeze family, and take the droids to Kalarba's moon, Indobok. The droids meet a nefarious character from their past, and realize that their troubles have just begun!",
   "title": "Star Wars Droids: The Kalarba Adventures #2"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Leslye Headland",
+      "role": "director",
+      "slug": "leslye-headland"
+    },
+    {
+      "name": "Leslye Headland",
+      "role": "writer",
+      "slug": "leslye-headland"
+    }
+  ],
   "displayTitle": "Lost / Found",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e1",
+  "synopsis": "The Jedi pursue a suspect after a shocking crime.",
   "title": "Lost / Found"
 }

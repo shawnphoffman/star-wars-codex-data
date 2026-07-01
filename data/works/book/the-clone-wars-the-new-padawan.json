@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The New Padawan",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-the-new-padawan",
+  "synopsis": "Now that Anakin Skywalker is a full-fledged Jedi Knight, his days of being a Padawan learner are behind him. But the Jedi Council has assigned him a Padawan of his own. Her name is Ahsoka, and this young girl just might be more than the Jedi can handle.",
   "title": "The Clone Wars: The New Padawan"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jesse Yeh",
+      "role": "director",
+      "slug": "jesse-yeh"
+    },
+    {
+      "name": "Julie Siege",
+      "role": "writer",
+      "slug": "julie-siege"
+    }
+  ],
   "displayTitle": "Dooku Captured",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

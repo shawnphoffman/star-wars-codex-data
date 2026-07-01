@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Charles Boyd",
+      "role": "writer",
+      "slug": "charles-boyd"
+    }
+  ],
+  "displayTitle": "Chasing Copero",
+  "era": "oldRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -3629
+  },
+  "releaseDate": "2017-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "chasing-copero",
+  "synopsis": "\"Chasing Copero\" is a short story written by Charles Boyd and published in the developer blog for Star Wars: The Old Republic on November 16, 2017. It serves as a prelude to the Flashpoint: A Traitor Among the Chiss.",
+  "title": "Chasing Copero"
+}

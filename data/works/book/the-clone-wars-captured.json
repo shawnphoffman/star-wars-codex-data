@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Captured",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-captured",
+  "synopsis": "Not only have Anakin Skywalker and Obi-Wan Kenobi been captured by space pirates, but their archenemy, Count Dooku, has been captured as well. Now this unlikely team must work together to escape from their captors, before their differences get the better of them.",
   "title": "The Clone Wars: Captured"
 }

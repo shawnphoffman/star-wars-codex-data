@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #124",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-03-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-124",
+  "synopsis": "Star Wars Insider 124 is the 102nd issue of the magazine Star Wars Insider and the 32nd published by Titan Magazines. It was released on March 15, 2011.",
   "title": "Insider #124"
 }

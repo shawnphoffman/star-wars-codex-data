@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Scott Beatty",
+      "role": "writer",
+      "slug": "scott-beatty"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "artist",
+      "slug": "jon-sommariva"
+    }
+  ],
   "displayTitle": "Adventures: Destroyer Down",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
@@ -11,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-destroyer-down",
+  "synopsis": "On sweltering Jakku in the days before The Force Awakens, explore with Rey as she races to uncover the secrets inside the crashed Star Destroyer! Swallowed by the shifting sands, the Imperial Star Destroyer Spectral has been lost for two decades, giving rise to rumors of hauntings and buried treasure. But an epic sandstorm has revealed the ruins of the starship, and renowned scavenger Rey now leads the race to claim whatever lies within! Also includes a backup story depicting the battle of Jakku, revealing how the Star Destroyer Spectral met its fate during the last days of the Empire. Collect",
   "title": "Star Wars Adventures: Destroyer Down"
 }

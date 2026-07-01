@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Corin Howell",
+      "role": "artist",
+      "slug": "corin-howell"
+    }
+  ],
+  "displayTitle": "Tales from Vader's Castle #3",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "tales-from-vaders-castle",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-10-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "tales-from-vaders-castle-3-2",
+  "synopsis": "Star Wars Adventures: Tales from Vader's Castle 3 is the third issue of the comic book miniseries Star Wars Adventures: Tales from Vader's Castle. The comic was written by Cavan Scott, illustrated by Derek Charm and Corin Howell, and published on October 17, 2018 by IDW Publishing.",
+  "title": "Tales from Vader's Castle #3"
+}

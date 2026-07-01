@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    }
+  ],
   "displayTitle": "Rebels S02E12: A Princess On Lothal",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

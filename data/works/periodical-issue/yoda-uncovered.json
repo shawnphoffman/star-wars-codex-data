@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "Yoda Uncovered",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "yoda-uncovered",
+  "synopsis": "\"Yoda Uncovered\" is a comic story by Martin Fisher featured in the eighth issue of Star Wars Comic magazine, released in July of 2014. The comic was reprinted in Star Wars Adventures 12, which firmly established the comic as a Legends tale through a Legends banner.",
+  "title": "Yoda Uncovered"
+}

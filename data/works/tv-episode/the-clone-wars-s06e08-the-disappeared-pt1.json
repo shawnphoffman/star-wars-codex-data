@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Disappeared pt1",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

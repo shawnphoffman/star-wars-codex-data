@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Reckoning",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -18
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2008-05-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-10",
+  "synopsis": "When Ferus Olin was a young Jedi apprentice, his rival was a headstrong student named Anakin Skywalker.\nNow Ferus is older, trying to save the Jedi Order from extinction. His enemy, however, remains the same. Because Anakin Skywalker is now Darth Vader&hellip;and Darth Vader wants Ferus Olin destroyed.\nThis is their final encounter.\nThe fate of the galaxy hangs in the balance.\nThe thrilling series from The New York Times bestselling author of Jedi Apprentice and Jedi Quest.",
+  "title": "The Last of the Jedi: Reckoning"
+}

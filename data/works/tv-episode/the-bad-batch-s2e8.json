@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Damani Johnson",
+      "role": "writer",
+      "slug": "damani-johnson"
+    }
+  ],
   "displayTitle": "Truth and Consequences",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-02-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e8",
+  "synopsis": "Brought into a risky mission, the Batch must use stealth to survive.",
   "title": "Truth and Consequences"
 }

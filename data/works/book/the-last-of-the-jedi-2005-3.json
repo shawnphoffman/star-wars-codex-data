@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Underworld",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2005-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-3",
+  "synopsis": "Star Wars: Underworld was the working title of a cancelled live-action television series that would have been set during the timespan between the films Star Wars: Episode III Revenge of the Sith and Star Wars: Episode IV A New Hope. George Lucas first announced the series at 2005's Celebration III. Over the next few years, a variety of writers were hired, over fifty scripts were written and art designers worked on visualizing Lucas' ideas. However, in 2010, Lucas announced that the series was on hold due to budget constraints.",
+  "title": "The Last of the Jedi: Underworld"
+}

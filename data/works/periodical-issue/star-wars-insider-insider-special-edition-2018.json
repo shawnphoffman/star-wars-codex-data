@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2018",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-12-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2018",
+  "synopsis": "The latest yearly collection of great Star Wars content is here! Learn secrets of the Dark Side from Kylo Ren himself (otherwise known as Adam Driver), and explore the Saga from the classic era of the original movies to Star Wars Rebels and Rogue One: A Star Wars Story!",
   "title": "Insider - Special Edition 2018"
 }

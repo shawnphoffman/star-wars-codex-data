@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Roll of the Dice",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 44
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "roll-of-the-dice-317379eb71",
+  "synopsis": "\"Roll of the Dice\" is a short story by Karen Miller that appeared in Star Wars Insider 135. The story takes place immediately prior to the events of the novel X-Wing: Mercy Kill, which Miller was allowed to read prior to its release as reference for her story. Her idea for the story was approved by March 28, 2012, and Miller had half of the first draft written the next day. The story was submitted by April 11.",
   "title": "Roll of the Dice"
 }

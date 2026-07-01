@@ -1,9 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Hideo Itoyanagi",
+      "role": "showrunner",
+      "slug": "hideo-itoyanagi"
+    }
+  ],
   "displayTitle": "Roll Out",
+  "era": "riseOfTheFirstOrder",
   "format": "tvSeries",
+  "releaseDate": "2019-08-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "roll-out",
+  "synopsis": "Star Wars Roll Out is a series of whimsical animated shorts featuring new adventures in a charming and unique animation style. Join Rey, Chewbacca, BB-8, the porgs, and other favorite characters from a galaxy far, far away, in a bright and colorful art style perfect for children and adults!",
   "title": "Roll Out"
 }

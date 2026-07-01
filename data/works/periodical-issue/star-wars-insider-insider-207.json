@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #207",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-12-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-207",
+  "synopsis": "A long time ago (in 1971), George Lucas founded Lucasfilm, the motion picture company that celebrates its 50th anniversary on December 10, 2021. In doing so, he joined a long line of cinematic innovators that began with the Lumière brothers in 1895 with their groundbreaking invention, the Cinématographe, that had people queueing around the block for a glimpse at the wonder of moving pictures.\nWith such an auspicious occasion to commemorate, this issue of Star Wars Insider brings you a fascinating account of the company's 50-year story from Lucasfilm historians Pete Vilmur and Lucas O. Seastrom, but that's not the only anniversary we're celebrating. We trace the unique history and impact of Star Wars: The Old Republic, the MMORPG that arrived a decade ago and is still going strong. We also speak to Drew Struzan about his iconic Star Wars poster art, get codebreaking with Star Wars: The Rise of Skywalker (2019) actor Dominic Monaghan, and find out why a part in The Mandalorian (2019-present) was such a big deal for guest star Diana Lee Inosanto.\nPlus, all-new and exclusive Star Wars: The High Republic fiction with part one of 'Shadows Remain' by Justina Ireland!",
   "title": "Insider #207"
 }

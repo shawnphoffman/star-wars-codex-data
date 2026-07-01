@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Zorba the Hutt's Revenge",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "zorba-the-hutts-revenge",
+  "synopsis": "Han Solo is thinking of getting married. Trioculus has found his queen. But the father of Jabba the Hutt is about to shatter their plans. The battle to defeat the forces of the evil Galactic Empire rages on. Throughout the vastness of space, heroic men, women, and aliens of the Rebel Alliance fight valiantly to keep alive the hopes for freedom and to restore the ways of the Old Republic with its wise Senate and noble line of Jedi Knights. But a feud between two powerful villains may prove disastrous for the Alliance. Trioculus is determined to steal away Princess Leia from Han Solo and make he",
   "title": "Zorba the Hutt's Revenge"
 }

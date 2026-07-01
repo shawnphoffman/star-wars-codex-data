@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Miles Lane",
+      "role": "writer",
+      "slug": "miles-lane"
+    }
+  ],
+  "displayTitle": "Free Comic Book Day 2005 Special",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "brothers-in-arms",
+  "synopsis": "A Clone Wars-era one-shot set about 4.5 months before Revenge of the Sith, right after the Obsession mini-series, featuring Anakin and Obi-Wan.",
+  "title": "Star Wars - Free Comic Book Day 2005 Special"
+}

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: The Krytos Trap",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-the-krytos-trap",
+  "synopsis": "The Rebels have taken Coruscant, but their problems are far from over. A killer virus called Krytos is wiping out the indigenous population, and a counter-revolution is exploding. At the center of the storm is the highly charged treason trial of Rebel hero Tycho Celchu. While agents provocateurs carry out their acts of terrorism, the fledging state can be defended only by the blood and courage of Rogue Squadron. As the X-wing fighters scramble to save the Rebellion, Corran Horn, given up for dead in Ysanne Isard's inescapable prison, discovers he alone holds the key to freeing Coruscant from t",
   "title": "X-Wing: The Krytos Trap"
 }

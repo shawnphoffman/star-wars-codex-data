@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "artist",
+      "slug": "davide-tinto"
+    }
+  ],
+  "displayTitle": "Adventures: The Clone Wars - Battle Tales #4",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-adventures-the-clone-wars",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-08-26T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-adventures-the-clone-wars-4",
+  "synopsis": "This exciting weekly series explores a time of great upheaval in the galaxy&mdash;the Clone Wars! While Obi-Wan Kenobi, Anakin Skywalker, and other Jedi Knights fight against incredible odds, Commander Cody, Captain Rex, and other clones, pinned down for the duration, swap war stories that feature your favorite characters from The Clone Wars animated series, such as Padmé Amidala, General Grievous, and many more!",
+  "title": "Star Wars Adventures: The Clone Wars - Battle Tales #4"
+}

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #103",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2008-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-103",
+  "synopsis": "Star Wars Insider 103, the Clone Wars special, is the 103rd issue of the Star Wars Insider magazine, and the 11th issue to be published by Titan Magazines.",
   "title": "Insider #103"
 }

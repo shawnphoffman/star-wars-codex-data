@@ -1,6 +1,14 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    }
+  ],
   "displayTitle": "Battle of Jakku - Last Stand",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

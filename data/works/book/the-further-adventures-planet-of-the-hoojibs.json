@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Further Adventures: Planet of the Hoojibs",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-further-adventures-planet-of-the-hoojibs",
+  "synopsis": "The Further Adventures: Planet of the Hoojibs was a book-and-record in the Star Wars: The Further Adventures series. It was an adaptation of Star Wars (1977) 55 by David Michelinie. The book was adapated by Jymn Magon as part of Buena Vista Records' Read-Along Adventures and featured new artwork by Greg Winters. It was produced by Ted Kryczko and released in 1983 as book with 7\" 33 ⅓ rpm record and Cassette tape It is unknown who narrated the record as credits were not provided along with the book or record.",
   "title": "The Further Adventures: Planet of the Hoojibs"
 }

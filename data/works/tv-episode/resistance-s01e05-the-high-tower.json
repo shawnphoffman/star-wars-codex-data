@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "Stephany Folsom",
+      "role": "writer",
+      "slug": "stephany-folsom"
+    }
+  ],
   "displayTitle": "The High Tower",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",

@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    }
+  ],
   "displayTitle": "Invasion: Rescues",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010",
+  "synopsis": "New and vital knowledge sends Finn Galfridian with Jacen and Jaina Solo on a mission to the planet of Artorias. Though Finn does not know if his father, Caled, lives, if there is any chance, he must be warned of new dangers. It's a hot and dangerous ride to Artorias, and the occupying Yuuzhan Vong are ready with a toothsome, ravaging welcome&hellip; Meanwhile, Kaye and Nina, board their newly acquired Vong ship, embark on their own mission. It's one they can't refuse: rescuing captives held on a dead planet. There is no telling what peril will meet the rescue party&hellip;",
   "title": "Invasion: Rescues"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Mandalorian Armor",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 4,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-armor",
+  "synopsis": "He's the most feared and successful bounty hunter in the galaxy. He is Boba Fett, and even the most hardened criminals tremble at his name. Now he faces the deadliest challenge of his infamous career—an all-out war against his most dangerous enemies. As the Rebellion gathers force, Prince Xizor proposes a cunning plan to the Emperor and Darth Vader: smash the power of the Bounty Hunters Guild by turning its members against each other. Only the strongest and most ruthless will survive, and they can be used against the Rebellion. It's a job for the fiercely independent Boba Fett, who jumps at th",
   "title": "The Mandalorian Armor"
 }

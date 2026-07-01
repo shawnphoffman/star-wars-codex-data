@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Emissary of the Void (Parts IV V VI)",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 26
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "emissary-of-the-void-parts-iv-v-vi",
+  "synopsis": "An NJO-era tale during the Yuuzhan Vong War following rescue pilot Uldir Lochett and hunted Jedi Klin-Fa Gi; begins after Edge of Victory I: Conquest and weaves through Edge of Victory II: Rebirth.",
   "title": "Emissary of the Void (Parts IV V VI)"
 }

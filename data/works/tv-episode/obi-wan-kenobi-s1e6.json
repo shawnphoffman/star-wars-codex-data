@@ -1,5 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joby Harold",
+      "role": "writer",
+      "slug": "joby-harold"
+    },
+    {
+      "name": "Andrew Stanton",
+      "role": "writer",
+      "slug": "andrew-stanton"
+    },
+    {
+      "name": "Hossein Amini",
+      "role": "writer",
+      "slug": "hossein-amini"
+    },
+    {
+      "name": "Stuart Beattie",
+      "role": "writer",
+      "slug": "stuart-beattie"
+    },
+    {
+      "name": "Deborah Chow",
+      "role": "director",
+      "slug": "deborah-chow"
+    }
+  ],
   "displayTitle": "Part VI",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +35,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-s1e6",
+  "synopsis": "Obi-Wan is drawn into a confrontation with Vader, as Luke's fate hangs in the balance.",
   "title": "Part VI"
 }

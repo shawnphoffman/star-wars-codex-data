@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "Temple of Phantoms",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -29
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "temple-of-phantoms",
+  "synopsis": "\"Temple of Phantoms\" is a comic story by Christopher Cooper featured in the ninth issue of the Star Wars Comic magazine, released in August of 2014. The story centers on a young Anakin Skywalker fighting a dark-side entity inside the Jedi Temple.",
+  "title": "Temple of Phantoms"
+}

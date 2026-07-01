@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Andres Ponce",
+      "role": "artist",
+      "slug": "andres-ponce"
+    }
+  ],
+  "displayTitle": "Deadly Allies",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "deadly-allies",
+  "synopsis": "\"Deadly Allies\" was the comic strip/story in the 20th edition of the Star Wars: The Clone Wars Magazine and comic included with Star Wars: The Clone Wars Comic 6.51.",
+  "title": "Deadly Allies"
+}

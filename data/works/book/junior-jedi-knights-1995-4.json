@@ -1,0 +1,33 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Junior Jedi Knights: Anakin's Quest",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "junior-jedi-knights-1995-1",
+    "junior-jedi-knights-1995-2",
+    "junior-jedi-knights-1995-3",
+    "junior-jedi-knights-1995-5",
+    "junior-jedi-knights-1995-6"
+  ],
+  "releaseDate": "1997-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "junior-jedi-knights-1995-4",
+  "synopsis": "Star Wars: Junior Jedi Knights was a series of six young reader novels written between 1995 and 1997 by Nancy Richardson and Rebecca Moesta. The novels are set in 22 ABY and detail the adventures of Anakin Solo, Tahiri Veila, the Kushiban Jedi Master Ikrit, and Uldir Lochett. The series was published by both Berkley Boulevard and Berkley Jam.",
+  "title": "Junior Jedi Knights: Anakin's Quest"
+}

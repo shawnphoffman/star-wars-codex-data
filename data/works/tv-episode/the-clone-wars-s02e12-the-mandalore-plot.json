@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Mandalore Plot",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

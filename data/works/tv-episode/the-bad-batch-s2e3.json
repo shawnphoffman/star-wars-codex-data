@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
   "displayTitle": "The Solitary Clone",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-01-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e3",
+  "synopsis": "Clones battle against a Separatist hold out.",
   "title": "The Solitary Clone"
 }

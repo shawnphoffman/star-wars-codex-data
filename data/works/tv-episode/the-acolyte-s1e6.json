@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Hanelle M. Culpepper",
+      "role": "director",
+      "slug": "hanelle-m-culpepper"
+    },
+    {
+      "name": "Leslye Headland",
+      "role": "writer",
+      "slug": "leslye-headland"
+    },
+    {
+      "name": "Jocelyn Bioh",
+      "role": "writer",
+      "slug": "jocelyn-bioh"
+    }
+  ],
   "displayTitle": "Teach / Corrupt",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e6",
+  "synopsis": "On a distant island, unsettling questions about identity and destiny arise.",
   "title": "Teach / Corrupt"
 }

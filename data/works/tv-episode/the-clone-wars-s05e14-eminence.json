@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Collins",
+      "role": "writer",
+      "slug": "chris-collins"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "Eminence",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

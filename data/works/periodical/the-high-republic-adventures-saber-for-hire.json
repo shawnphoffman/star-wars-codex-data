@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "artist",
+      "slug": "rachael-stott"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Saber for Hire",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-06-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-saber-for-hire",
+  "synopsis": "Ty Yorrick versus the Nihil. The former Jedi turned monster hunter comes face-to-face with a Child of the Storm, but who&hellip;or what&hellip;is behind the villainous Nihil's cowl? Meanwhile, Ty's aggrieved apprentice initiates a mission of his own: to rescue the Republic Chancellor's son!",
   "title": "The High Republic Adventures: Saber for Hire"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #231",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-04-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-231",
+  "synopsis": "John Knoll and John Goodson discuss bringing traditional visual effects skills to the delightful Star Wars: The Skeleton Crew\nStar Wars: Visions executive producer James Waugh talks about Lucasfilm Animation’s collaboration with some of the finest filmmakers on the planet\nand Tom Spina writes about the art of concept maquettes and the artists behind them.\nNot to mention the penultimate installment of The High Republic short fiction, an interview with Charles Soule, and a preview of Andor Season Two.",
   "title": "Insider #231"
 }

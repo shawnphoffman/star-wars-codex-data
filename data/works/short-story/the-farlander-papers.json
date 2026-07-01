@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rusel DeMaria",
+      "role": "writer",
+      "slug": "rusel-demaria"
+    }
+  ],
+  "displayTitle": "The Farlander Papers",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-farlander-papers",
+  "synopsis": "The Farlander Papers is a companion book found only in the \"Limited Edition\" version of the Star Wars: X-Wing video game (the original floppy disk based release) written by Rusel DeMaria. The book contained a novella about Keyan Farlander's assignment in the Alliance to Restore the Republic.",
+  "title": "The Farlander Papers"
+}

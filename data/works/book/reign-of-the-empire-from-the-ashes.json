@@ -1,0 +1,22 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Fran Wilde",
+      "role": "writer",
+      "slug": "fran-wilde"
+    }
+  ],
+  "displayTitle": "Reign of the Empire: From the Ashes",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "releaseStatus": "announced",
+  "slug": "reign-of-the-empire-from-the-ashes",
+  "synopsis": "Reign of the Empire: From the Ashes is an upcoming novel and the final entry in the Star Wars: Reign of the Empire trilogy written by Fran Wilde and set to be published by Random House Worlds in summer 2027.",
+  "title": "Reign of the Empire: From the Ashes"
+}

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Collins",
+      "role": "writer",
+      "slug": "chris-collins"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    }
+  ],
   "displayTitle": "Tipping Points",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

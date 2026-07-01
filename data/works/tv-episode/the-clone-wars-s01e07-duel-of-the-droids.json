@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rob Coleman",
+      "role": "director",
+      "slug": "rob-coleman"
+    },
+    {
+      "name": "Kevin D. Campbell",
+      "role": "writer",
+      "slug": "kevin-d-campbell"
+    }
+  ],
   "displayTitle": "Duel of the Droids",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

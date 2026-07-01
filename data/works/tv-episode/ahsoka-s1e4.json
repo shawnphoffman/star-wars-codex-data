@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Peter Ramsey",
+      "role": "director",
+      "slug": "peter-ramsey"
+    }
+  ],
   "displayTitle": "Fallen Jedi",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-09-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e4",
+  "synopsis": "Hera risks her career to help her friends while Ahsoka and Sabine confront enemies.",
   "title": "Fallen Jedi"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Jennifer Muro",
+      "role": "writer",
+      "slug": "jennifer-muro"
+    }
+  ],
   "displayTitle": "Tracker Trouble",
+  "era": "multiEra",
   "format": "animatedShort",
   "parentWorkSlug": "forces-of-destiny",
   "releaseDate": "2017-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny-s01e11-tracker-trouble",
+  "synopsis": "Ahsoka learns to fight with two lightsabers as she spars with Master Yoda.",
   "title": "Tracker Trouble"
 }

@@ -1,7 +1,8 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "displayTitle": "Brothers",
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3636
@@ -10,5 +11,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "brothers",
+  "synopsis": "\"Brothers\" is a short story published in the developer blog for Star Wars: The Old Republic on July 28, 2015. It is set during the events depicted in the cinematic trailer Sacrifice, and depicts from Thexan's perspective the night after Arcann was injured in battle.",
   "title": "Brothers"
 }

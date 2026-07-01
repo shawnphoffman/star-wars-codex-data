@@ -1,0 +1,33 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alex Wheeler",
+      "role": "writer",
+      "slug": "alex-wheeler"
+    }
+  ],
+  "displayTitle": "Rebel Force: Hostage",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "rebel-force-2008-1",
+    "rebel-force-2008-3",
+    "rebel-force-2008-4",
+    "rebel-force-2008-5",
+    "rebel-force-2008-6"
+  ],
+  "releaseDate": "2009-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-force-2008-2",
+  "synopsis": "It is a critical moment in the struggle between the Rebels and the Empire: the Force itself hangs in the balance, and all the hopes of the galaxy depend on the adventures of Luke Skywalker, Princess Leia, Han Solo, and a host of other heroes.",
+  "title": "Rebel Force: Hostage"
+}

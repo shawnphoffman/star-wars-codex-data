@@ -1,12 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Owens",
+      "role": "writer",
+      "slug": "matt-owens"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "artist",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "artist",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "artist",
+      "slug": "roberto-poggi"
+    },
+    {
+      "name": "Scott Hanna",
+      "role": "artist",
+      "slug": "scott-hanna"
+    }
+  ],
   "displayTitle": "Jedi of the Republic-Mace Windu",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-of-the-republic-mace-windu-2",
+  "synopsis": "For over a thousand generations, the Jedi have been the peacekeepers of the galaxy&hellip;but now, at the dawn of the Clone Wars, they find themselves in a new role: generals in the Army of the Republic. As Mace Windu, one of the Jedi's greatest warriors, leads a small unit of Jedi into battle shortly after the war begins, the Jedi must make peace with their new role, or be lost to the violence around them!",
   "title": "Jedi of the Republic-Mace Windu"
 }

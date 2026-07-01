@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: R2-D2's Adventure",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-r2-d2s-adventure",
+  "synopsis": "R2-D2 has been captured! Now it’s up to his friends Anakin Skywalker and Ahsoka Tano to rescue him before the evil General Grievous gets to the top-secret information that is locked away inside his electronic brain.",
   "title": "The Clone Wars: R2-D2's Adventure"
 }

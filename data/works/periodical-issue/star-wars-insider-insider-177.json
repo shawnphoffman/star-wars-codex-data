@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #177",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-11-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-177",
+  "synopsis": "Star Wars Insider 177 is the 155th issue of the Star Wars Insider magazine and the eighty-fifth issue published by Titan Magazines. It was released on November 28, 2017. Among other things, it covers rare production photos revealed for the first time from the vault, coverage on the musical score by John Williams, a Jedi Quiz Master section, facts about the Star Wars saga, coverage of The Last Jedi, including reveals about the heroes and villains of the film, and some story coverage of Star Wars Battlefront II.",
   "title": "Insider #177"
 }

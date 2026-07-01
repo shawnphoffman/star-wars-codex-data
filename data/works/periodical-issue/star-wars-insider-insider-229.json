@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #229",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-229",
+  "synopsis": "This issue we're delighted to speak to the actor who turned a bit part into a Star Wars legend, Denis Lawson! We also talk to Dee Bradley Baker, who voiced countless clone troopers including Rex, the ultimate clone sidekick to several Jedi; while Meredith Salenger tells us about reprising her outsider role as Bariss Offee in Tales of the Empire. Star Wars: Skeleton Crew showrunners Jon Watts and Christopher Ford introduce us to an all-new bunch of heroes. Plus, we celebrate 40 years of Caravan of Courage: An Ewok Adventure, and all new The High Republic fiction from Lydia Kang.",
   "title": "Insider #229"
 }

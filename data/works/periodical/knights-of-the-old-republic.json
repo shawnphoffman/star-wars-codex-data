@@ -1,11 +1,72 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "artist",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "artist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "artist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "artist",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "artist",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "artist",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Dean Zachary",
+      "role": "artist",
+      "slug": "dean-zachary"
+    },
+    {
+      "name": "Ron Chan",
+      "role": "artist",
+      "slug": "ron-chan"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Joe Pimentel",
+      "role": "artist",
+      "slug": "joe-pimentel"
+    }
+  ],
   "displayTitle": "Knights of the Old Republic",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2006-01-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "knights-of-the-old-republic",
+  "synopsis": "Star Wars: Knights of the Old Republic, also known as simply Knights of the Old Republic or KotOR, is a monthly comic book series published by Dark Horse Comics that ran for four years, beginning January 25, 2006 and ending with its fiftieth issue on February 17, 2010. Written by John Jackson Miller, Knights of the Old Republic saw a variety of different artists and cover artists draw various issues of the series, and KotOR serves as a sequel to the earlier Star Wars: Tales of the Jedi comic series and a prequel to the popular Star Wars: Knights of the Old Republic video game. Set in 3964 BBY ",
   "title": "Knights of the Old Republic"
 }

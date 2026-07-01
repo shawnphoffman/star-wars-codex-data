@@ -1,12 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "artist",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "artist",
+      "slug": "kelley-jones"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "artist",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "artist",
+      "slug": "nicoletta-baldari"
+    },
+    {
+      "name": "Charles Paul Wilson III",
+      "role": "artist",
+      "slug": "charles-paul-wilson-iii"
+    }
+  ],
   "displayTitle": "Adventures: Return to Vader's Castle",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-adventures-return-to-vaders-castle",
+  "synopsis": "Star Wars Adventures: Return to Vader's Castle is a canon comic book series written by Cavan Scott. It was published during October 2019. The stories featured Darth Maul, Asajj Ventress, Jabba the Hutt, Darth Vader, and Grand Moff Tarkin.",
   "title": "Star Wars Adventures: Return to Vader's Castle"
 }

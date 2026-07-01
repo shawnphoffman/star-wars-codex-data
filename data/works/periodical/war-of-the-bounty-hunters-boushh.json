@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "David Baldeón",
+      "role": "artist",
+      "slug": "david-baldeon"
+    }
+  ],
   "displayTitle": "War of the Bounty Hunters: Boushh",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-09-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "war-of-the-bounty-hunters-boushh",
+  "synopsis": "THE SECRET ORIGIN OF BOUSHH! A \"WAR OF THE BOUNTY HUNTERS\" TIE-IN! Before PRINCESS LEIA acquired his armor to infiltrate Jabba the Hutt's palace, BOUSHH roamed the galaxy as a bounty hunter. He and his team of lethal warriors were exiled from their homeworld; but what horrible event from Boushh's past doomed them all to wander with no hope of ever returning? Desperate to survive, Boushh takes a suspicious job from a shadowy organization to assassinate DOMINA TAGGE, the leader of the powerful Tagge Family &mdash; a galactic dynasty stretching back countless generations. But Domina is the most d",
   "title": "War of the Bounty Hunters: Boushh"
 }

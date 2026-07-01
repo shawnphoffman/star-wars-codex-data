@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #182",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-07-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-182",
+  "synopsis": "Star Wars Insider #182 takes a sneak peek at what to expect from Disney Park's Star Wars Galaxy's Edge, and takes a look at some of the best Star Wars childrens books ever published.\nPlus, all the latest movie, TV, and merchandise news!",
   "title": "Insider #182"
 }

@@ -1,6 +1,34 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "artist",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "artist",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "artist",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "artist",
+      "slug": "david-jacob-beckett"
+    }
+  ],
   "displayTitle": "Tales of the Jedi: The Fall of the Sith Empire",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +37,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-fall-of-the-sith-empire-1997",
+  "synopsis": "Jori Daragon is on trial for offenses against Empress Teta's government. But far from being a lawbreaker, Jori is trying to reach the Empress, to warn her of the dark plans of the Sith Empire. If she is found guilty, she will be confined to a colony planet. And then nothing will stand between the Empress and the Sith.",
   "title": "Tales of the Jedi: The Fall of the Sith Empire"
 }

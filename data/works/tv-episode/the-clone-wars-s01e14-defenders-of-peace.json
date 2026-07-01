@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bill Canterbury",
+      "role": "writer",
+      "slug": "bill-canterbury"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "Defenders of Peace",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

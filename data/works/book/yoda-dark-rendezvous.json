@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Yoda: Dark Rendezvous",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "yoda-dark-rendezvous",
+  "synopsis": "The savage Clone Wars have forced the Republic to the edge of collapse. During the height of battle, one Jedi Knight escapes the carnage to deliver a message to Yoda on Coruscant. It appears that Dooku wants peace and demands a rendezvous. Chances are slim that the treacherous Count is sincere, but with a million lives at stake, Yoda has no choice. The meeting will take place on Vjun, a planet steeped in evil. The challenge could not be more difficult. Can Yoda win back his once promising pupil from the dark side, or will Count Dooku unleash his sinister forces against his former mentor? Eithe",
   "title": "Yoda: Dark Rendezvous"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Damani Johnson",
+      "role": "writer",
+      "slug": "damani-johnson"
+    }
+  ],
   "displayTitle": "War Mantle",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

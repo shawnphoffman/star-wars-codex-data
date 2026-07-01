@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #73",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-73",
+  "synopsis": "Star Wars Insider 73 is the seventy-third issue of Star Wars Insider magazine. It was released to newsstands on January 13, 2004. The subscriber-exclusive edition of issue 73 included the sixth volume of Bantha Tracks, the Official Star Wars Fan Club newsletter.",
   "title": "Insider #73"
 }

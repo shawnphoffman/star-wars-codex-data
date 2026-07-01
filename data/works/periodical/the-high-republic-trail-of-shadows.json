@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "David Wachter",
+      "role": "artist",
+      "slug": "david-wachter"
+    }
+  ],
   "displayTitle": "The High Republic: Trail of Shadows",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-trail-of-shadows",
+  "synopsis": "Star Wars: The High Republic: Trail of Shadows is a comic miniseries written by Daniel José Older, drawn by David Wachter and published by Marvel Comics as part of the Star Wars: The High Republic multimedia project. It features the characters Emerick Caphtor and Sian Holt.",
   "title": "The High Republic: Trail of Shadows"
 }

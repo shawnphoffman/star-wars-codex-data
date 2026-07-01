@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "Friends",
+  "era": "multiEra",
   "format": "tvEpisode",
   "parentWorkSlug": "tales-of-the-underworld-season-1",
   "releaseDate": "2025-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-underworld-s1e2",
+  "synopsis": "A risky opportunity puts Ventress in the crosshairs of the Empire.",
   "title": "Friends"
 }

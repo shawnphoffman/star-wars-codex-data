@@ -1,6 +1,294 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Andrew Fischer",
+      "role": "writer",
+      "slug": "andrew-fischer"
+    },
+    {
+      "name": "Gary Astleford",
+      "role": "writer",
+      "slug": "gary-astleford"
+    },
+    {
+      "name": "John Dunn",
+      "role": "writer",
+      "slug": "john-dunn"
+    },
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Tim Huckelberry",
+      "role": "writer",
+      "slug": "tim-huckelberry"
+    },
+    {
+      "name": "Jason Marker",
+      "role": "writer",
+      "slug": "jason-marker"
+    },
+    {
+      "name": "Erfian Asafat",
+      "role": "artist",
+      "slug": "erfian-asafat"
+    },
+    {
+      "name": "Cristi Balanescu",
+      "role": "artist",
+      "slug": "cristi-balanescu"
+    },
+    {
+      "name": "Tiziano Baracchi",
+      "role": "artist",
+      "slug": "tiziano-baracchi"
+    },
+    {
+      "name": "Chris Beck",
+      "role": "artist",
+      "slug": "chris-beck"
+    },
+    {
+      "name": "Sara Betsy",
+      "role": "artist",
+      "slug": "sara-betsy"
+    },
+    {
+      "name": "Madeline Boni",
+      "role": "artist",
+      "slug": "madeline-boni"
+    },
+    {
+      "name": "Jon Bosco",
+      "role": "artist",
+      "slug": "jon-bosco"
+    },
+    {
+      "name": "Matt Bradbury",
+      "role": "artist",
+      "slug": "matt-bradbury"
+    },
+    {
+      "name": "Christopher Burdett",
+      "role": "artist",
+      "slug": "christopher-burdett"
+    },
+    {
+      "name": "Milivoj Ceran",
+      "role": "artist",
+      "slug": "milivoj-ceran"
+    },
+    {
+      "name": "Stacey Diana Clark",
+      "role": "artist",
+      "slug": "stacey-diana-clark"
+    },
+    {
+      "name": "Alexandre Dainche",
+      "role": "artist",
+      "slug": "alexandre-dainche"
+    },
+    {
+      "name": "Christina Davis",
+      "role": "artist",
+      "slug": "christina-davis"
+    },
+    {
+      "name": "Sacha Diener",
+      "role": "artist",
+      "slug": "sacha-diener"
+    },
+    {
+      "name": "Allen Douglas",
+      "role": "artist",
+      "slug": "allen-douglas"
+    },
+    {
+      "name": "Anthony Foti",
+      "role": "artist",
+      "slug": "anthony-foti"
+    },
+    {
+      "name": "Mariusz Gandzel",
+      "role": "artist",
+      "slug": "mariusz-gandzel"
+    },
+    {
+      "name": "Zachary Graves",
+      "role": "artist",
+      "slug": "zachary-graves"
+    },
+    {
+      "name": "Louis Green",
+      "role": "artist",
+      "slug": "louis-green"
+    },
+    {
+      "name": "David Griffith",
+      "role": "artist",
+      "slug": "david-griffith"
+    },
+    {
+      "name": "Joel Hustak",
+      "role": "artist",
+      "slug": "joel-hustak"
+    },
+    {
+      "name": "Lukasz Jaskolski",
+      "role": "artist",
+      "slug": "lukasz-jaskolski"
+    },
+    {
+      "name": "Andrew Johanson",
+      "role": "artist",
+      "slug": "andrew-johanson"
+    },
+    {
+      "name": "Jeff Lee Johnson",
+      "role": "artist",
+      "slug": "jeff-lee-johnson"
+    },
+    {
+      "name": "Jason Juta",
+      "role": "artist",
+      "slug": "jason-juta"
+    },
+    {
+      "name": "David Kegg",
+      "role": "artist",
+      "slug": "david-kegg"
+    },
+    {
+      "name": "Leonid Kozienko",
+      "role": "artist",
+      "slug": "leonid-kozienko"
+    },
+    {
+      "name": "Adam Lane",
+      "role": "artist",
+      "slug": "adam-lane"
+    },
+    {
+      "name": "Ignacio Bazán Lazcano",
+      "role": "artist",
+      "slug": "ignacio-bazn-lazcano"
+    },
+    {
+      "name": "Henning Ludvigsen",
+      "role": "artist",
+      "slug": "henning-ludvigsen"
+    },
+    {
+      "name": "Raven Mimura",
+      "role": "artist",
+      "slug": "raven-mimura"
+    },
+    {
+      "name": "Mark Molnar",
+      "role": "artist",
+      "slug": "mark-molnar"
+    },
+    {
+      "name": "Scott Murphy",
+      "role": "artist",
+      "slug": "scott-murphy"
+    },
+    {
+      "name": "Jake Murray",
+      "role": "artist",
+      "slug": "jake-murray"
+    },
+    {
+      "name": "David Auden Nash",
+      "role": "artist",
+      "slug": "david-auden-nash"
+    },
+    {
+      "name": "Mike Nash",
+      "role": "artist",
+      "slug": "mike-nash"
+    },
+    {
+      "name": "Andrew Olson",
+      "role": "artist",
+      "slug": "andrew-olson"
+    },
+    {
+      "name": "Mike Sass",
+      "role": "artist",
+      "slug": "mike-sass"
+    },
+    {
+      "name": "Adam Schumpert",
+      "role": "artist",
+      "slug": "adam-schumpert"
+    },
+    {
+      "name": "Greg Semkow",
+      "role": "artist",
+      "slug": "greg-semkow"
+    },
+    {
+      "name": "Cynthia Sheppard",
+      "role": "artist",
+      "slug": "cynthia-sheppard"
+    },
+    {
+      "name": "Matthew Starbuck",
+      "role": "artist",
+      "slug": "matthew-starbuck"
+    },
+    {
+      "name": "Nicholas Stohlman",
+      "role": "artist",
+      "slug": "nicholas-stohlman"
+    },
+    {
+      "name": "Alexander Tooth",
+      "role": "artist",
+      "slug": "alexander-tooth"
+    },
+    {
+      "name": "Charles Urbach",
+      "role": "artist",
+      "slug": "charles-urbach"
+    },
+    {
+      "name": "Magali Villeneuve",
+      "role": "artist",
+      "slug": "magali-villeneuve"
+    },
+    {
+      "name": "Tyler Walpole",
+      "role": "artist",
+      "slug": "tyler-walpole"
+    },
+    {
+      "name": "Thomas Wievegg",
+      "role": "artist",
+      "slug": "thomas-wievegg"
+    },
+    {
+      "name": "Jarreau Wimberly",
+      "role": "artist",
+      "slug": "jarreau-wimberly"
+    },
+    {
+      "name": "Ben Wootten",
+      "role": "artist",
+      "slug": "ben-wootten"
+    },
+    {
+      "name": "Ben Zweifel",
+      "role": "artist",
+      "slug": "ben-zweifel"
+    }
+  ],
   "displayTitle": "Age of Rebellion",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

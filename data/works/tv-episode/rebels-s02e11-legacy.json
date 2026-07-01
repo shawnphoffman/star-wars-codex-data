@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "Legacy",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

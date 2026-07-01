@@ -1,0 +1,27 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    },
+    {
+      "name": "Tyler Scarlet",
+      "role": "artist",
+      "slug": "tyler-scarlet"
+    }
+  ],
+  "displayTitle": "All Creatures Great and Small",
+  "era": "newRepublic",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "all-creatures-great-and-small",
+  "synopsis": "\"All Creatures Great and Small\" is a short story by Landry Q. Walker that was published as an eBook on November 30, 2015, and was published in print inside the anthology Tales from a Galaxy Far, Far Away: Aliens: Volume I on April 5, 2016. The story is written in the style of a fable.",
+  "title": "All Creatures Great and Small"
+}

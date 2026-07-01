@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
   "displayTitle": "Decommissioned",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

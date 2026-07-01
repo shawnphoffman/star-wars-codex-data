@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Jedi Search",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-search",
+  "synopsis": "As the war between the Republic and the scattered remnants of the Empire continues, two children&mdash;the Jedi twins&mdash;will come into their powers in a universe on the brink of vast changes and challenges. In this time of turmoil and discovery, an extraordinary new Star Wars saga begins&hellip;. While Luke Skywalker takes the first step toward setting up an academy to train a new order of Jedi Knights, Han Solo and Chewbacca are taken prisoner on the planet Kessel and forced to work in the fathomless depths of a spice mine. But when Han and Chewie break away, they flee desperately to a se",
   "title": "Jedi Search"
 }

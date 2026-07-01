@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tony Gilroy",
+      "role": "writer",
+      "slug": "tony-gilroy"
+    },
+    {
+      "name": "Ariel Kleiman",
+      "role": "director",
+      "slug": "ariel-kleiman"
+    }
+  ],
   "displayTitle": "Harvest",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e3",
+  "synopsis": "Time is running out for everyone.",
   "title": "Harvest"
 }

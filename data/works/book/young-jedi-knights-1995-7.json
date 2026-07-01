@@ -1,0 +1,46 @@
+{
+  "bookType": "yaNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Young Jedi Knights: Shards of Alderaan",
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 24
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "young-jedi-knights-1995-1",
+    "young-jedi-knights-1995-10",
+    "young-jedi-knights-1995-11",
+    "young-jedi-knights-1995-12",
+    "young-jedi-knights-1995-13",
+    "young-jedi-knights-1995-14",
+    "young-jedi-knights-1995-2",
+    "young-jedi-knights-1995-3",
+    "young-jedi-knights-1995-4",
+    "young-jedi-knights-1995-5",
+    "young-jedi-knights-1995-6",
+    "young-jedi-knights-1995-8",
+    "young-jedi-knights-1995-9"
+  ],
+  "releaseDate": "1997-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "young-jedi-knights-1995-7",
+  "synopsis": "When the Empire died, they were born&mdash;a new hope for the New Republic. The young twins of Han Solo and Princess Leia have taken their first steps as Jedi Knights, defeating the evil minions of the Shadow Academy. Now, with their friends Tenel Ka and Lowbacca the Wookiee, the future heroes of an already legendary saga continue their training.\nJacen and Jaina set off for the Alderaan system, determined to salvage a piece of the shattered planet as a gift for their mother. But amid the ghosts of a dead world, the twins are in for a deadly surprise: some ghosts still live. A long-lost enemy of the Solo family is about to return&hellip;",
+  "title": "Young Jedi Knights: Shards of Alderaan"
+}

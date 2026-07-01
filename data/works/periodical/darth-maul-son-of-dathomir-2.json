@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Juan Frigeri",
+      "role": "artist",
+      "slug": "juan-frigeri"
+    },
+    {
+      "name": "Mauro Vargas",
+      "role": "artist",
+      "slug": "mauro-vargas"
+    }
+  ],
   "displayTitle": "Darth Maul: Son of Dathomir",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-05-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "darth-maul-son-of-dathomir-2",
+  "synopsis": "Getting cut in half by Obi-Wan Kenobi and being rejected by his former Sith Master Darth Sidious isn't going to defeat Darth Maul. In fact, it only makes him mad enough to take on the galaxy&mdash;with an army of Mandalorians~ After forming the Shadow Collective&mdash;a criminal organization composed of the Hutts, Black Sun, the Mandalorians, and the fearsome Nightbrothers&mdash;Maul wages war against Darth Sidious and his generals, Count Dooku and General Grievous! Adapted from unproduced screenplays for Season 6 of The Clone Wars television show, this is the final chapter planned for Darth M",
   "title": "Darth Maul: Son of Dathomir"
 }

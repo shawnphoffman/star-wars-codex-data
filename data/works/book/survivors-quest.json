@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Survivor's Quest",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "survivors-quest",
+  "synopsis": "===Hardcover=== A dangerous mission to salvage a piece of Jedi past threatens to make Luke and Mara Jade Skywalker history&hellip;. Sometimes it seems a Jedi's work is never done, and Luke and Mara Jade Skywalker know this only too well. Despite the bond they share in the Force, after three years of marriage the Jedi Master and his wife are still learning the ropes of being a couple—and struggling to find time together between the constant demands of duty. But all that will change when they're united on an unexpected mission—and must pool their exceptional skills to combat an insidious enemy&h",
   "title": "Survivor's Quest"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    }
+  ],
   "displayTitle": "The Clone Wars S04E21: Brothers",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

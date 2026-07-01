@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rob Coleman",
+      "role": "director",
+      "slug": "rob-coleman"
+    },
+    {
+      "name": "George Krstic",
+      "role": "writer",
+      "slug": "george-krstic"
+    }
+  ],
   "displayTitle": "The Clone Wars S02E02: Cargo Of Doom",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

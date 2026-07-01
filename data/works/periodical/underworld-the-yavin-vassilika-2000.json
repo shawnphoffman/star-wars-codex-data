@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Kennedy",
+      "role": "writer",
+      "slug": "mike-kennedy"
+    },
+    {
+      "name": "Carlos Meglia",
+      "role": "artist",
+      "slug": "carlos-meglia"
+    }
+  ],
   "displayTitle": "Underworld: The Yavin Vassilika",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "underworld-the-yavin-vassilika-2000",
+  "synopsis": "When three Hutts place a wager on who can raise the most successful squad of henchmen to procure a highly valuable, mythical treasure, the most conniving rogues of the Star Wars Galaxy are recruited to get the dirty work done. Three teams comprising the galaxy's most scandalous scoundrels&mdash;including Boba Fett, Han Solo, Chewbacca, Lando Calrissian, Dengar, and IG-88&mdash;set out to be the first to find the mysterious Yavin Vassilika, but staying alive and ahead of each other is harder than any of these toughs might imagine... and with the unforeseen addition of a fourth secret investor a",
   "title": "Underworld: The Yavin Vassilika"
 }

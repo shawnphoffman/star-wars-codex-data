@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Meet Ahsoka Tano",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-meet-ahsoka-tano",
+  "synopsis": "Meet Ahsoka Tano, a new Padawan on her very first mission. The galaxy is a big place and there are many adventures ahead for this young Jedi in training.",
   "title": "The Clone Wars: Meet Ahsoka Tano"
 }

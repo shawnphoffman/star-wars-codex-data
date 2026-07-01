@@ -1,6 +1,54 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Adam DeKraker",
+      "role": "artist",
+      "slug": "adam-dekraker"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "artist",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "artist",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Kajo Baldisimo",
+      "role": "artist",
+      "slug": "kajo-baldisimo"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "artist",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Legacy",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +57,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2006",
+  "synopsis": "Star Wars: Legacy is a comic book series written by John Ostrander, primarily pencilled and co-scripted by Jan Duursema, and inked by Dan Parsons. Published by Dark Horse Comics, Legacy first issues were released in June 2006 following Dark Horse's revamp of its Star Wars line earlier in the year. Its initial tagline was \"All new Sith Order! All new Empire! All new Skywalker!\" The series is set in the Legacy era, predominantly at 137 ABY. Its chief protagonist is Cade Skywalker, a descendant of the Skywalker family who has given up his Jedi heritage to pursue a life as a bounty hunter. Cade's ",
   "title": "Legacy"
 }

@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "artist",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Pierluigi Baldassini",
+      "role": "artist",
+      "slug": "pierluigi-baldassini"
+    }
+  ],
   "displayTitle": "Lost Tribe of the Sith: Spiral",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-spiral-2012",
+  "synopsis": "On a planet ruled by a tribe of Sith—marooned thousands of years ago and cut off from the galaxy—the throne holder is about to be challenged by a power-hungry Sith rebel from the slums . . . and a thwarted royal Sith princess! Their few shared interests set them on a quest together—but most certainly not as partners!",
   "title": "Lost Tribe of the Sith: Spiral"
 }

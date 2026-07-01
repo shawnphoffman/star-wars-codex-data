@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Guillermo Sanna",
+      "role": "artist",
+      "slug": "guillermo-sanna"
+    }
+  ],
   "displayTitle": "The High Republic: Eye of the Storm",
+  "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

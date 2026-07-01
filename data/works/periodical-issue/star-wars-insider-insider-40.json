@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #40",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1998-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-40",
+  "synopsis": "Star Wars Insider 40 is the fortieth issue of Star Wars Insider magazine. It was published in October/November 1998. Two cover variants were available for issue 40: a newsstand version featuring a Y-wing battle and a subscriber-exclusive cover featuring a battle droid.",
   "title": "Insider #40"
 }

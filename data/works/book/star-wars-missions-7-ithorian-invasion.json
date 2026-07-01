@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 7: Ithorian Invasion",
+  "displayTitle": "Missions 7: Ithorian Invasion",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-7-ithorian-invasion",
+  "synopsis": "Bounty hunters have taken Grubba the Hutt to the planet Ithor. You must get him back. The Ithorian leader Momaw Nadon has offered to help you. But in return you must aid him in his revolt against the Empire. Imperial forces have taken control of Ithor's center, the Tafanda Bay. Your Mission: to liberate the Ithorians&mdash;and find Grubba the Hutt&mdash;before it is to late. May the Force be with you.",
   "title": "Star Wars Missions 7: Ithorian Invasion"
 }

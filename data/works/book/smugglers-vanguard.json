@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Smuggler's Vanguard",
+  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3660
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "smugglers-vanguard",
+  "synopsis": "\"The Old Republic: Smuggler's Vanguard\" is a short story written by Robert Chestney that was published exclusively on StarWars.com on March 25, 2010. On October 1, 2012, it was republished on the Del Rey Website. The story is set in 3660 BBY during the Great Galactic War, and focuses on the Mirialan smuggler Hylo Visz, tying into the Star Wars: The Old Republic video game.",
   "title": "Smuggler's Vanguard"
 }

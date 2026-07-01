@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Lando Calrissian and the Mindharp of Sharu",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -4
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lando-calrissian-and-the-mindharp-of-sharu",
+  "synopsis": "Gambler, rogue, and con-artiste, Lando Calrissian was born with a well-developed taste for the good life. More comfortable at the dealer's end of a fast shuffle than at the rear end of a blaster, Lando always had his sensors scanning for the chance to pick up easy credits. So when he heard that the planets of the Rafa System were practically buried in ancient alien treasure, he hopped aboard the Millennium Falcon and brushed up on his rusty astrogation. He never stopped to think that someone might be conning the con man&hellip;",
   "title": "Lando Calrissian and the Mindharp of Sharu"
 }

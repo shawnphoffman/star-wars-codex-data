@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider",
+  "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "magazine"
@@ -9,5 +10,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-insider",
+  "synopsis": "Star Wars Insider was the official periodical Star Wars magazine and traced its lineage back to the Official Star Wars Fan Club Newsletter and its successor, Bantha Tracks.",
   "title": "Star Wars Insider"
 }

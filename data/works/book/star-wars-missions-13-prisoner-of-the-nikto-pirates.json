@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 13: Prisoner of the Nikto Pirates",
+  "displayTitle": "Missions 13: Prisoner of the Nikto Pirates",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-13-prisoner-of-the-nikto-pirates",
+  "synopsis": "The Millennium Falcon has been damaged and captured by bloodthirsty Nikto pirates. You are trapped in the pirates' Predator-class vessel&hellip;with only one chance to break free. Time is already running out. Your mission: to steal the parts needed to fix the Falcon, repair your ship, and make a daring escape. May the Force be with you.",
   "title": "Star Wars Missions 13: Prisoner of the Nikto Pirates"
 }

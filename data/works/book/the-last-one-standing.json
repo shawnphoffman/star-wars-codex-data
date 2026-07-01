@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Last One Standing",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -19
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-one-standing",
+  "synopsis": "\"The Last One Standing\" is a short story written by Jude Watson and appearing in the Legacy of the Jedi/Secrets of the Jedi omnibus.",
   "title": "The Last One Standing"
 }

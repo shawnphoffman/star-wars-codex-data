@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Droids: Artoo's Day Out",
+  "era": "reignOfTheEmpire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -5
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-droids-artoo-s-day-out",
+  "synopsis": "\"Artoo's Day Out\" is an 8-page comic written by Ryder Windham from Star Wars Galaxy Magazine 1 which was published by Topps in Fall 1994.",
+  "title": "Star Wars: Droids: Artoo's Day Out"
+}

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "pearls-in-the-sand",
+  "synopsis": "\"Pearls in the Sand\" is a short story written by Voronica Whitney-Robinson for Star Wars Insider 74. It takes place shortly before the events of Star Wars Galaxies: The Ruins of Dantooine, presumably in 1 ABY.",
   "title": "Pearls in the Sand"
 }

@@ -1,6 +1,39 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "artist",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "artist",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "artist",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "artist",
+      "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Stan Woch",
+      "role": "artist",
+      "slug": "stan-woch"
+    }
+  ],
   "displayTitle": "Tales of the Jedi: The Golden Age of the Sith",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +42,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-golden-age-of-the-sith-1996",
+  "synopsis": "The history of the Old Republic has become legend: how the bold explorations of young Gav and Jori Daragon brought two galactic empires crashing together, how Odan-Urr became a powerful Jedi, and how the seven worlds of the Koros system were finally united by the wise and skilled Empress Teta. Five millennia before the birth of Luke Skywalker and the fall of Palpatine's Empire, our story unfolds&hellip;",
   "title": "Tales of the Jedi: The Golden Age of the Sith"
 }

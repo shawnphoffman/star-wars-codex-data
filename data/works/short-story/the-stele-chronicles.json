@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rusel DeMaria",
+      "role": "writer",
+      "slug": "rusel-demaria"
+    },
+    {
+      "name": "Ocean Quigley",
+      "role": "artist",
+      "slug": "ocean-quigley"
+    }
+  ],
+  "displayTitle": "The Stele Chronicles",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-stele-chronicles",
+  "synopsis": "The Stele Chronicles is a short booklet included in the package of the game Star Wars: TIE Fighter and is the counterpart of The Farlander Papers. It was written by Rusel DeMaria. It describes Maarek Stele's life and his recruitment to the Galactic Empire, beginning with the events of 3 ABY.",
+  "title": "The Stele Chronicles"
+}

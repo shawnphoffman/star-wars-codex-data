@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J. P. Rutter",
+      "role": "writer",
+      "slug": "j-p-rutter"
+    }
+  ],
+  "displayTitle": "Hypermatters",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hypermatters",
+  "synopsis": "\"Hypermatters\" is an original short comic story written by J. P. Rutter with art by Will Sliney that was published in Star Wars: The Clone Wars Comic 6.40 and Star Wars: The Clone Wars Magazine 15.",
+  "title": "Hypermatters"
+}

@@ -1,0 +1,39 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
+  "displayTitle": "Tempest Breaker",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593723418"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 512,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780593723418",
+      "kind": "print",
+      "onsale": "2025-05-13T00:00:00.000Z"
+    }
+  ],
+  "era": "highRepublic",
+  "format": "audioDrama",
+  "inUniverseDate": {
+    "startYear": -228
+  },
+  "releaseDate": "2025-05-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-tempest-breaker",
+  "synopsis": "Lourna Dee’s newfound freedom as a Tempest Breaker has landed her in front of the Jedi Order. This time, though, they’re asking for her help.",
+  "title": "Tempest Breaker"
+}

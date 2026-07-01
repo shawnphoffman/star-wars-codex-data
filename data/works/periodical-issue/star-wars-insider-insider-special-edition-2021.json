@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2021",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2021",
+  "synopsis": "From movies and television shows to books, comics, collectibles, and more the Star Wars saga has stood the test of time for more than 40 years, enticing fans to continually return to the galaxy far, far away.\nThis specially curated souvenir edition is designed to show off some of the very best of these projects. So, find an optimal reading spot and prepare to go behind the scenes to meet the talented people responsible for such endeavors as Forces of Destiny, the Marvel Comics Star Wars line, and the movies at the core of the franchise.\nHighlights include:\nIn conversation with Mark Hamill, 1978 – a vintage interview with the man who portrayed Luke Skywalker.\nJeremy Bulloch discusses playing the galaxy's most feared bounty hunter, Boba Fett.\nAuthor Keiron Gillen [sic] on writer [sic] Marvel's Darth Vader series.\nUnder the hood – a service history of the Millennium Falcon.",
   "title": "Insider - Special Edition 2021"
 }

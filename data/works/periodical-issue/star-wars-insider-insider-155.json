@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #155",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-01-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-155",
+  "synopsis": "As the second half of season 1 of Star Wars Rebels continues, we'll be previewing what's coming up in the show and beyond! It's a big year ahead for Star Wars fans, so we will be presenting an indispensable month-by-month guide to what's coming up, culminating in the hotly anticipated release of Star Wars: Episode VII.\nWe'll also be previewing Star Wars Celebration: Anaheim with a guide to getting the best out of the convention experience! Plus, an exclusive behind-the-scenes look at the making of the latest epic Star Wars novel, Heir to the Jedi, and we take an exclusive look at the costumes of The Empire Strikes Back.",
   "title": "Insider #155"
 }

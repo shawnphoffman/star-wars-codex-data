@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Lando Calrissian and the Starcave of ThonBoka",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lando-calrissian-and-the-starcave-of-thonboka",
+  "synopsis": "For a year Lando Calrissian and Vuffi Raa, his five-armed robot astrogator, had roamed space in the Millennium Falcon, seeking or creating opportunities to turn an easy, but not too dishonest, credit. But now their partnership seemed doomed&mdash;for Lando's uncharacteristic impulse to help a race of persecuted aliens had suddenly made him and Vuffi vulnerable to several sets of their own enemies&hellip;not least of whom was the evil Rokur Gepta, the Sorcerer of Tund!",
   "title": "Lando Calrissian and the Starcave of ThonBoka"
 }

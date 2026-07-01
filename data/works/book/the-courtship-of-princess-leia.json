@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Courtship of Princess Leia",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 8
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-courtship-of-princess-leia",
+  "synopsis": "Darth Vader and the Emperor are dead, but the Empire lives on and the Alliance must continue the struggle with dwindling supplies of cash and resources. Princess Leia, seeking rich, powerful allies to bring into the Alliance and a new planet as a home for the influential refugees of Alderaan, considers a proposal that could tip the balance of power against the evil Empire. The Hapes consortium, a cluster of sixty-three high-tech worlds, is ruled by the Queen Mother, who wants Leia to marry her son, the dashing and wealthy Prince Isolder. When Han Solo hears the news of Leia's impending nuptial",
   "title": "The Courtship of Princess Leia"
 }

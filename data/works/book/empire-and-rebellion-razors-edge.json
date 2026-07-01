@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Empire and Rebellion: Razor's Edge",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-and-rebellion-razors-edge",
+  "synopsis": "===Hardcover=== Back cover When Rebels clash with renegades, it's the Empire that may claim the final victory. Internal flap Times are desperate for the Rebel Alliance. Harassment by the Empire and a shortage of vital supplies are hindering completion of a new secret base on the ice planet Hoth. So when Mid Rim merchants offer much-needed materials for sale, Princess Leia Organa and Han Solo lead an Alliance delegation to negotiate a deal. But when treachery forces the rebel ship to flee into territory controlled by pirates, Leia makes a shocking discovery: the fierce marauders come from Leia'",
   "title": "Empire and Rebellion: Razor's Edge"
 }

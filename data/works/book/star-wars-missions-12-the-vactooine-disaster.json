@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 12: The Vactooine Disaster",
+  "displayTitle": "Missions 12: The Vactooine Disaster",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-12-the-vactooine-disaster",
+  "synopsis": "The planet Vactooine is in grave danger&mdash;a squadron of ruthless battle droids is about to attack. The droids are part of a sinister conspiracy to control the galaxy. As a member of the Rebel Alliance, you must protect the innocent planet from certain doom. Your mission: to prevent the Vactooine Disaster! May the Force be with you.",
   "title": "Star Wars Missions 12: The Vactooine Disaster"
 }

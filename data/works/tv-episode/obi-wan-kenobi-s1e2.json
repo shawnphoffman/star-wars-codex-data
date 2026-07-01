@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joby Harold",
+      "role": "writer",
+      "slug": "joby-harold"
+    },
+    {
+      "name": "Hossein Amini",
+      "role": "writer",
+      "slug": "hossein-amini"
+    },
+    {
+      "name": "Stuart Beattie",
+      "role": "writer",
+      "slug": "stuart-beattie"
+    },
+    {
+      "name": "Deborah Chow",
+      "role": "director",
+      "slug": "deborah-chow"
+    }
+  ],
   "displayTitle": "Part II",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-s1e2",
+  "synopsis": "Obi-Wan’s mission brings him to a crime-ridden world, home to all manner of scum and villainy.",
   "title": "Part II"
 }

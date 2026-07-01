@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Gursimran Sandhu",
+      "role": "writer",
+      "slug": "gursimran-sandhu"
+    }
+  ],
   "displayTitle": "Cut And Run",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

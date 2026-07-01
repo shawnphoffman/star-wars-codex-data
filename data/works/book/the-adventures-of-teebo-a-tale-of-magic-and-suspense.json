@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-adventures-of-teebo-a-tale-of-magic-and-suspense",
+  "synopsis": "Teebo the daydreaming Ewok finds the peace of his village destroyed when Vulgarr the Dulok reports that Teebo's sister, Malani, has been stolen by the giant Grudakk.",
   "title": "The Adventures of Teebo: A Tale of Magic and Suspense"
 }

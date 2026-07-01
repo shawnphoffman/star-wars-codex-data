@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Katie Lucas",
+      "role": "writer",
+      "slug": "katie-lucas"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "The Academy",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

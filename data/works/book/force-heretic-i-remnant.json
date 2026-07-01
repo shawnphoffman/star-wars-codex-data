@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Force Heretic I: Remnant",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-heretic-i-remnant",
+  "synopsis": "As the bloodied and weary galaxy faces battle once more, the Jedi take on the formidable task of bringing the last of the Empire into the light&hellip;. From the ashes of the New Republic&mdash;torn to shreds by the savage Yuuzhan Vong forces&mdash;the newly formed Galactic Alliance has risen, determined to bring peace to the entire galaxy. But first the Yuuzhan Vong must be contained once and for all. And so Luke Skywalker seeks a world long lost to legend: Zonama Sekot, a sentient planet believed to have repelled an invasion by the Yuuzhan Vong decades ago. Deciphering the enigmatic secrets ",
   "title": "Force Heretic I: Remnant"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #133",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-133",
+  "synopsis": "Star Wars Insider goes behind enemy lines to find out what the greatest battles are in the Star Wars saga. Plus, Wicket the Ewok, Willow Ufgood, and now the star of the hit TV Show Life's Too Short, Warwick Davis, drops by to answer your questions.",
   "title": "Insider #133"
 }

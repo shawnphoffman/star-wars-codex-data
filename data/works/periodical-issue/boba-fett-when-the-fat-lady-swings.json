@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    }
+  ],
+  "displayTitle": "Boba Fett: When the Fat Lady Swings",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "boba-fett-when-the-fat-lady-swings",
+  "synopsis": "Throughout the vast reaches of the galaxy&mdash;wherever fugitives meet or lawbreakers conspire&mdash;one name is always uttered in hushed tones, a name guaranteed to strike fear into the stoutest heart: Boba Fett. His prices are exorbitant, but if you're looking for revenge, or if you're looking for protection, he'll get the job done. And if you're looking to reclaim your kidnapped fiancé, the heiress to a Hutt's fortune, no price is too exorbitant.",
+  "title": "Boba Fett: When the Fat Lady Swings"
+}

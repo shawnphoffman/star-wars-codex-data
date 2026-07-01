@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "Leia's Trust",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "leia-s-trust",
+  "synopsis": "\"Leia's Trust\" is a comic story featured in the twelfth issue of the Star Wars Comic magazine, released in December 2014. The story includes the characters Leia Organa and Silam Dunerz.",
+  "title": "Leia's Trust"
+}

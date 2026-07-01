@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #219",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-06-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-219",
+  "synopsis": "Here at Star Wars Insider we're huge fans of Lucasfilm Animation's Star Wars: The Bad Batch (2021-), so in issue 219 we go behind the scenes to learn how an episode of this incredible series is made, from initial story meetings to final edits. And it's such a complex process that we could only fit in half of the story into this issue!\nAmong the other delights you'll find in this issue, we talk to Phil Szostack about the history of The Art of Star Wars books, meet some of the saga's Twi'leks, and The High Republic author Zoraida Córdova tells us about her Star Wars novels. Plus, we end our Phase II short fiction with a final Tales of Enlightenment story from George Mann.",
   "title": "Insider #219"
 }

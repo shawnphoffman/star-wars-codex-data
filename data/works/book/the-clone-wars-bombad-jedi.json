@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Bombad Jedi",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-bombad-jedi",
+  "synopsis": "In this easy-to-read storybook, Jar Jar Binks is mistaken as a Jedi as he and C-3PO attempt a daring, and quite comical, rescue of Padmé Amidala, who has been captured by the Separatist Alliance.",
   "title": "The Clone Wars: Bombad Jedi"
 }

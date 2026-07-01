@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Last Command Sourcebook",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-command-sourcebook",
+  "synopsis": "Finally! The stunning conclusion to Timothy Zahn's three-book cycle is adapted for Star Wars: The Roleplaying Game. The New Republic faces a grave challenge from a reunited Empire, as the infamous Imperial Grand Admiral Thrawn takes the battle to Coruscant, the very heart of the New Republic! As Thrawn plans his final stunning campaign, the New Republic's bravest heroes race across Wayland in a desperate attempt to destroy the Emperor's cloning chambers at Mount Tantiss! Learn the story-behind-the-story of this climactic showdown between the Republic and the evil Galactic Empire. Return to the",
   "title": "The Last Command Sourcebook"
 }

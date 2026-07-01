@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels - Season 2",
+  "era": "ageOfRebellion",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -1,
@@ -11,5 +12,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-season-2",
+  "synopsis": "The Ghost crew leave Lothal and become a part of a galaxy-wide rebellion.",
   "title": "Rebels - Season 2"
 }

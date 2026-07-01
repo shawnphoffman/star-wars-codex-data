@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "And Leebo Makes Three",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "and-leebo-makes-three",
+  "synopsis": "\"And Leebo Makes Three\" is a short story written by Michael Reaves and Maya Kaathryn Bohnhoff that appeared in Star Wars Insider 128. The story serves as a prelude for the novel Shadow Games.",
   "title": "And Leebo Makes Three"
 }

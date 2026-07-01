@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: Wraith Squadron",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-wraith-squadron",
+  "synopsis": "They are the galaxy's most elite fighting force. And as the battle against the Empire rages, the X-wing pilots risk life and machine to protect the Rebel Alliance. Now they must go on a daring undercover mission&mdash;as the crew of an Imperial warship. It is Wedge Antilles' boldest creation: a covert-action unit of X-wing fighters, its pilots drawn from the dregs of other units, castoffs and rejects given one last chance. But before the new pilots can complete their training, the squadron's base is attacked by former Imperial Admiral Trigit, and Wraith Squadron is forced to swing into action&",
   "title": "X-Wing: Wraith Squadron"
 }

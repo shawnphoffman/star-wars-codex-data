@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Heir to the Empire Sourcebook",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heir-to-the-empire-sourcebook",
+  "synopsis": "\"Beware the Dark Side\"...a warning for Luke Skywalker, and a call to arms for all forces of good and order in the New Republic. The Evil Empire and Darth Vader have been defeated and the Galactic Civil War seems won, but the heroes of the New Republic must now battle new enemies. Join Luke, Han Solo, and Princess Leia as they face new challenges to galactic peace and fight the forces of evil in this companion reference to Timothy Zahn's best-selling novel Heir to the Empire! This volume includes complete information and game statistics on all of the characters, aliens, vehicles, Droids, and st",
   "title": "Heir to the Empire Sourcebook"
 }

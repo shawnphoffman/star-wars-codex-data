@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Darth Maul: Saboteur",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-saboteur",
+  "synopsis": "A dazzling new short story featuring Darth Maul, merciless apprentice of evil&hellip; On the distant planet Dorvalla, precious ore is mined by two competing companies: InterGalactic Ore and Lommite Limited. Neither rival suspects that they are central to a sinister plot masterminded by Darth Sidious, Lord of the Sith, himself. Dispatched by Sidious on his very first solo mission, Darth Maul infiltrates Lommite Limited. There, his unique gifts of deception and subterfuge will set off an explosive chain of events that could destroy both companies, leaving them ripe for takeover by the Trade Fede",
   "title": "Darth Maul: Saboteur"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-fair-trade",
+  "synopsis": "\"A Fair Trade\" is a short story that was written by Paul S. Kemp and published in the magazine Star Wars Insider 129.",
   "title": "A Fair Trade"
 }

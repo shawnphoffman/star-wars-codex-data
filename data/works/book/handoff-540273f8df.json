@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Handoff",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "handoff-540273f8df",
+  "synopsis": "\"Handoff\" is a short story by Timothy Zahn. The story, which features Mara Jade, Zakarisz Ghent and Talon Karrde, was originally published in Star Wars Gamer 10 in 2002 and was made available on Hyperspace on June 2, 2004. The story takes place on the Mid Rim planet of Chibias and tells of the first meeting between Jade and Ghent.",
   "title": "Handoff"
 }

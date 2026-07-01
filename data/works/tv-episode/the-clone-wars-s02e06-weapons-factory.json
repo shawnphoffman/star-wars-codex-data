@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Larsen",
+      "role": "writer",
+      "slug": "brian-larsen"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "Weapons Factory",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

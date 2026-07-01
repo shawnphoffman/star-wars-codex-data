@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 10: Showdown in Mos Eisley",
+  "displayTitle": "Missions 10: Showdown in Mos Eisley",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-10-showdown-in-mos-eisley",
+  "synopsis": "You are a swoop biker working for Jabba the Hutt. Your base is a cantina in Mos Eisley, one of the most dangerous spaceport cities in the galaxy. And now things have become even more dangerous. Battle droids have attacked your cantina, injuring your friends&hellip;and threatening Jabba himself. Your Mission: to save Jabba from the deadly droids&hellip;or else. Good luck.",
   "title": "Star Wars Missions 10: Showdown in Mos Eisley"
 }

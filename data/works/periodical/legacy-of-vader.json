@@ -1,6 +1,24 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    }
+  ],
   "displayTitle": "Legacy of Vader",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

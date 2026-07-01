@@ -1,14 +1,20 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Kirsten Mayer",
+      "name": "Eoghan Mahony",
       "role": "writer",
-      "slug": "kirsten-mayer"
+      "slug": "eoghan-mahony"
     }
   ],
   "displayTitle": "The Clone Wars: Legacy Of Terror",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781409390220"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-legacy-of-terror",
+  "synopsis": "Anakin and Ahsoka discover a plot to build a weapons factory on Geonosis and must destroy it and bring the responsible Separatist to justice.",
   "title": "The Clone Wars: Legacy Of Terror"
 }

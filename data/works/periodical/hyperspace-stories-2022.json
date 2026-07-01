@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amanda Deibert",
+      "role": "writer",
+      "slug": "amanda-deibert"
+    },
+    {
+      "name": "Riccardo Facinni",
+      "role": "artist",
+      "slug": "riccardo-facinni"
+    }
+  ],
   "displayTitle": "Hyperspace Stories",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-2022",
+  "synopsis": "From the darkest days of the Clone Wars, comes a tale of evil and intrigue. Dispatched by the nefarious Count Dooku, the Sith assassin Asajj Ventress stalks her prey from the Outer Rim all the way to the tranquil world of Naboo. But just what is her target? And can even the Jedi stand in her way? Take a walk on the Dark Side, in Star Wars: Hyperspace Stories #5!",
   "title": "Hyperspace Stories"
 }

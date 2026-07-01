@@ -1,6 +1,13 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Vision of the Future",
   "editionIds": [
     {
@@ -9,7 +16,7 @@
     },
     {
       "type": "isbn13",
-      "value": "978-0553108507"
+      "value": "9780553108507"
     }
   ],
   "editions": [

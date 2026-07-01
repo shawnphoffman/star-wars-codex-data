@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Speaking Silently",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "speaking-silently-09848b96c3",
+  "synopsis": "\"Speaking Silently\" is a Clone Wars short story written by Jason Fry with art by Tom Hodges. Originally planned as part of The Essential Guide to Warfare, it was cut before publication and reworked to be published in January 2013's Star Wars Insider 139.",
   "title": "Speaking Silently"
 }

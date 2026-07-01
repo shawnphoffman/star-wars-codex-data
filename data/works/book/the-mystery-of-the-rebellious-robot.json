@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mystery-of-the-rebellious-robot",
+  "synopsis": "Luke Skywalker and his companions are puzzled by the sudden bizarre behavior of their robots and the malfunction of their machines.",
   "title": "The Mystery of the Rebellious Robot"
 }

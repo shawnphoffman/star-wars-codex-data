@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Agents of Chaos I: Hero's Trial",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agents-of-chaos-i-heros-trial",
+  "synopsis": "Merciless attacks by invincible alien force have left the New Republic reeling. Dozens of worlds have succumbed to occupation or annihilation, and even the Jedi Knights have tasted defeat. In these darkest of times, the noble Chewbacca is laid to rest, having died as heroically as he lived&mdash;and a grief-stricken Han Solo is left to fit the pieces of his shattered life back together before he loses everything: friends, family, and faith. Refusing help from Leia or Luke, Han becomes the loner he once was, seeking to escape the pain of his partner's death in adventure&hellip;and revenge. When",
   "title": "Agents of Chaos I: Hero's Trial"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #215",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-215",
+  "synopsis": "In this issue of Star Wars Insider, we investigate how Beru and Owen Lars, a modest couple from Tatooine, coped with the twin demands of protecting Luke Skywalker from the Empire and an even more daunting task: parenthood! We also speak to Troy Kotsur, who played a Tusken Raider in The Mandalorian and developed the galactic sign language Din Djarin used to communicate with them, and chat to Obi-Wan Kenobi composer Natalie Holt about scoring the series. Actor Guy Henry reveals how he became Grand Moff Tarkin in Rogue One: A Star Wars Story, and droid and creature performer Chris Bartless talks about his on-set experiences on The Mandalorian and The Book of Boba Fett. Plus, all-new and exclusive The High Republic fiction from George Mann!",
   "title": "Insider #215"
 }

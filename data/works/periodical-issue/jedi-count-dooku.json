@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Jedi: Count Dooku",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-count-dooku",
+  "synopsis": "Liberator. Tyrant. Hero. Villain. Renegade. Visionary. Jedi. Sith Lord. The enigmatic, charismatic Count Dooku is all of these things. Posing as a renegade from the Republic, Jedi Quinlan Vos has been given the assignment to earn Dooku's trust and learn his secrets. When he discovers that Dooku's targets include Vos' birth planet of Kiffu and his own people, the Guardians, Quin must decide how far he is willing to go to protect his cover. Dooku, ever the master manipulator, always has another card to play, and his goal is not always what it seems. This is a story of the Clone Wars and the Jedi",
+  "title": "Jedi: Count Dooku"
+}

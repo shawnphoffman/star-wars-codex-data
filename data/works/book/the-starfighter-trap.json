@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Starfighter Trap",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-starfighter-trap",
+  "synopsis": "\"The Starfighter Trap\" was a short story by Steve Miller set in 33 BBY, between Padmé Amidala becoming queen and the Invasion of Naboo. It was published by Wizards of the Coast in the premier issue of Star Wars Gamer in 2000. The story was inspired by the Star Wars: Starfighter game. Before it was printed in Star Wars Gamer, it was available in three parts online.",
   "title": "The Starfighter Trap"
 }

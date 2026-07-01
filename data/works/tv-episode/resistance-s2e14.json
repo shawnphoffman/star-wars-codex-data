@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Mairghread Scott",
+      "role": "writer",
+      "slug": "mairghread-scott"
+    }
+  ],
   "displayTitle": "The Mutiny",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e14",
+  "synopsis": "Kragan buys a secret weapon to capture the Colossus and take over. When Synara discovers this plan, she tries to warn Kaz and crew, but it may be too late.",
   "title": "The Mutiny"
 }

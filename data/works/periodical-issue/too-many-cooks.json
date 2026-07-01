@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Cooper",
+      "role": "writer",
+      "slug": "chris-cooper"
+    }
+  ],
+  "displayTitle": "Too Many Cooks",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -23
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "too-many-cooks",
+  "synopsis": "\"Too Many Cooks\" is a comic story featured in the fourth issue of Star Wars Comic magazine, released on April 3, 2014. The story includes the characters Jar Jar Binks, Gregar Typho, and Palpatine.",
+  "title": "Too Many Cooks"
+}

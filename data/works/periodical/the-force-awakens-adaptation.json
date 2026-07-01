@@ -1,6 +1,24 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
   "displayTitle": "The Force Awakens (comics)",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    }
+  ],
   "displayTitle": "The Jedi, the Witch, and the Warlord",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-10-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e8",
+  "synopsis": "The heroes race to prevent Grand Admiral Thrawn's escape.",
   "title": "The Jedi, the Witch, and the Warlord"
 }

@@ -1,12 +1,31 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Bernardin",
+      "role": "writer",
+      "slug": "marc-bernardin"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "artist",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "artist",
+      "slug": "dexter-vines"
+    }
+  ],
   "displayTitle": "Mace Windu",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-02-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "mace-windu",
   "title": "Mace Windu"
 }

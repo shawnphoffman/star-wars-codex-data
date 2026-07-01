@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #125",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-125",
+  "synopsis": "Join us this issue for the trip of a lifetime as the popular Disney theme park attraction, Star Tours, strikes back with an all-new look and all-new space adventures! Also: Star Wars set builder Norman Reynolds on designing a classic...",
   "title": "Insider #125"
 }

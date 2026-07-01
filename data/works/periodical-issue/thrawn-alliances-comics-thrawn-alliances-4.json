@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "artist",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "Pat Olliffe",
+      "role": "artist",
+      "slug": "pat-olliffe"
+    }
+  ],
+  "displayTitle": "Thrawn: Alliances #4",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "thrawn-alliances-comics",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-04-10T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "thrawn-alliances-comics-thrawn-alliances-4",
+  "synopsis": "THE CLIMACTIC CONCLUSION! DARTH VADER and THRAWN must find the solution to their problem&hellip; &hellip;but where does that leave THRAWN and ANAKIN?",
+  "title": "Thrawn: Alliances #4"
+}

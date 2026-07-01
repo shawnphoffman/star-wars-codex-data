@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "X-Wing: Isard's Revenge",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-isards-revenge",
+  "synopsis": "Sleek, swift, and deadly, the famed X-wing fighters have earned their reputation as the Rebel Alliance's ultimate strike force the hard way&mdash;first in battle, the last line of defense. Now they must make a deal with the devil herself&mdash;an enemy whose ultimate goal is their total annihilation. It's the kind of mission only Wedge Antilles and the Rogue Squadron would dare to undertake. Against impossible odds they will stage a daring raid into an enemy stronghold&mdash;only to be rescued from certain destruction by an unexpected ally. Ysanne Isard, the ruthless Imperial commander, has ap",
   "title": "X-Wing: Isard's Revenge"
 }

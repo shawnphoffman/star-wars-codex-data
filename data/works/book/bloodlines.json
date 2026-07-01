@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Bloodlines",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 40
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "bloodlines",
+  "synopsis": "A new era of exciting adventures and shocking revelations continues to unfold, as the legendary Star Wars saga sweeps forward into astonishing new territory. Civil war looms as the fledgling Galactic Alliance confronts a growing number of rebellious worlds-and the approaching war is tearing the Skywalker and Solo families apart. Han and Leia return to Han's homeworld, Corellia, the heart of the resistance. Their children, Jacen and Jaina, are soldiers in the Galactic Alliance's campaign to crush the insurgents. Jacen, now a complete master of the Force, has his own plans to bring order to the ",
   "title": "Bloodlines"
 }

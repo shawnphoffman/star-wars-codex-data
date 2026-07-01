@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "Frozen Out!",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-05-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "frozen-out",
+  "synopsis": "In this issue's all-new The Clone Wars comic adventure, 'Frozen Out', Obi-Wan and Jar Jar are forced to land on a frrrr-reezing planet! Stuck between a squadron of battle droids and a herd of rampaging wampas, how will our heroes possibly escape? There's only one way to find out&hellip;",
+  "title": "Frozen Out!"
+}

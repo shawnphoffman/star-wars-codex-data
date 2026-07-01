@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #136",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2012-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-136",
+  "synopsis": "Get ready to celebrate as Star Wars Insider commemorates some major Star Wars milestones! We'll be looking back on 35 years of the original Star Wars with new interviews and an exclusive never-before-published interview with Princess Leia herself, Carrie Fisher. It's also a staggering 10 years since Star Wars: Episode II Attack of the Clones introduced audiences to the clones and their 'father,' Jango Fett. And as Star Wars: The Clone Wars embarks on its fifth season we'll be celebrating with a look back at the first four seasons and a sneak peek at what's coming up!",
   "title": "Insider #136"
 }

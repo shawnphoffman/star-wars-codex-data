@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Heroes in Hiding",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heroes-in-hiding",
+  "synopsis": "R2-D2 and C-3PO must cross the city, avoiding the Imperial stormtroopers, to rejoin Luke Skywalker on the Millennium Falcon",
   "title": "Heroes in Hiding"
 }

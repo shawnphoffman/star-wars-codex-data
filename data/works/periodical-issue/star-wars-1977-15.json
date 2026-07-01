@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #15: Star Duel",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-15",
+  "synopsis": "When the Millenium Falcon [sic] is disabled, Han will have to outduel space pirates to survive!",
   "title": "Star Wars (1977) #15: Star Duel"
 }

@@ -1,14 +1,21 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Kirsten Mayer",
+      "name": "James Allan Evans",
       "role": "writer",
-      "slug": "kirsten-mayer"
+      "slug": "james-allan-evans"
     }
   ],
   "displayTitle": "The Clone Wars: Downfall Of A Droid",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781409302131"
+    }
+  ],
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +24,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-downfall-of-a-droid",
+  "synopsis": "Anakin loses R2-D2 in a battle over Bothawui; paired with R3, he and Ahsoka must recover R2 before the Separatists extract the Jedi secrets in his memory banks.",
   "title": "The Clone Wars: Downfall Of A Droid"
 }

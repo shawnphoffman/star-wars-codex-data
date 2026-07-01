@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
   "displayTitle": "Solo: A Star Wars Story Adaptation",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2018-10-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "solo-a-star-wars-story-adaptation",
+  "synopsis": "FEATURING BACKSTORY AND SCENES NOT SEEN IN THEATERS! After leaving the IMPERIAL NAVY, a young HAN SOLO seeks adventure by joining a gang of galactic mercenaries &mdash; including a 190-year-old [sic] Wookiee named CHEWBACCA and a notorious gambler named LANDO CALRISSIAN. But there's more to the story of the galaxy's most beloved scoundrel than what you saw in theaters. Why does BECKETT trust him? And what is the connection between the woman who stole Han's heart and one of Han's closest friends?",
   "title": "Solo: A Star Wars Story Adaptation"
 }

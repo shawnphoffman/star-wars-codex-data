@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Star Wars Missions 16: Imperial Jailbreak",
+  "displayTitle": "Missions 16: Imperial Jailbreak",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-16-imperial-jailbreak",
+  "synopsis": "A powerful weapon is being held at the Imperial prison on Merakai. You must retrieve it... or face severe punishment. The hitch? You must break into and then back out of the prison &ndash; without getting caught. Your mission: to engineer the biggest jailbreak in Merakai history! Good luck.",
   "title": "Star Wars Missions 16: Imperial Jailbreak"
 }

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron: In the Empire's Service",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "xwing-rogue-squadron-in-the-empires-service",
+  "synopsis": "Star Wars: X-Wing Rogue Squadron: In the Empire's Service was the sixth story arc in the Star Wars: X-Wing Rogue Squadron comics, and the first of the \"Rise of Isard\" arc. It ran from August 6 to November 5, 1997.",
+  "title": "X-Wing Rogue Squadron: In the Empire's Service"
+}

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #221",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-09-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-221",
+  "synopsis": "In this issue of Insider, we celebrate the space moms and mother figures of Star Wars by exploring the trials, tribulations, and sacrifices they made for their (sometimes ungrateful – we're looking at you, Ben Solo!) younglings.\nInsider went behind the scenes of Star Wars Celebration Europe 2023's LIVE! Stream to discover how the Lucasfilm Online team put on such an entertaining show. We also talk to designers of Kenner's original toy line and its revival in the form of Hasbro's Retro Collection. But that's not all: Industrial Light & Magic legends Dennis Muren and Ken Ralston tell us about their work on Return of the Jedi, while Skywalker Sound's David Collins talks about galactic soundscapes of the modern era, and The High Republic author Tessa Gratton reveals her Star Wars story.\nPlus, \"Lost in the Woods,\" an all-new and exclusive original trilogy story from S.T. Bende!",
   "title": "Insider #221"
 }

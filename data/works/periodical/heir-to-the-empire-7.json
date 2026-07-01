@@ -1,11 +1,32 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "artist",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "artist",
+      "slug": "fred-blanchard"
+    }
+  ],
   "displayTitle": "Heir to the Empire",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1991-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "heir-to-the-empire-7",
+  "synopsis": "Here is the science fiction publishing event of the year: the exciting continuation of the legendary Star Wars saga. Picking up where the movie trilogy left off, Heir to the Empire reveals the tumultuous events that take place after the most popular series in motion-picture history&mdash;masterfully told by Hugo Award&ndash;winning author Timothy Zahn.\nIn spring 1977 a film called Star Wars was released&mdash;and a cultural phenomenon was born. Its epic story, about a young man named Luke Skywalker, whose destiny was to save the galaxy from conquest, caught the imaginations of millions and broke all box-office records. Today Star Wars and its sequels, The Empire Strikes Back and Return of the Jedi, are acknowledged as the most popular series in movie history, and rank among the top ten films of all time.\nThe three Star Wars films form a spectacular saga of bold imagination and high adventure. But the stories of its characters did not end there. Now for the first time, Lucasfilm, producer of the Star Wars movies, has authorized the continuation of this beloved story. In an astounding three-book cycle, Timothy Zahn continues the tale of Luke Skywalker, Princess Leia, Han Solo, and the other characters made world famous by Star Wars, as he brilliantly expands upon George Lucas's stunning vision, \"a long time ago in a galaxy far, far away.\"\nHeir to the Empire begins five years after the end of Return of the Jedi: the Rebel Alliance has destroyed the Death Star, defeated Darth Vad",
   "title": "Heir to the Empire"
 }

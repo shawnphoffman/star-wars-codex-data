@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    }
+  ],
   "displayTitle": "Ghosts Of Geonosis Part 2",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

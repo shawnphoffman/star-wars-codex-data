@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "A Good Turn",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
@@ -11,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-underworld-ep-5",
+  "synopsis": "Bane reunites with an old friend who is on the opposite side of the law.",
   "title": "A Good Turn"
 }

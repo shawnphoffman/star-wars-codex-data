@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Rebel Thief",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rebel-thief",
+  "synopsis": "\"The Rebel Thief\" is a five part comic written by Ryder Windham and illustrated by Gary Erskine, and was published in issues #1-#5 of the magazine, Star Wars Kids. It tells the story of how the Rebel Alliance was able to finance replacement X-wings for the ones they lost at the Battle of Yavin.",
+  "title": "The Rebel Thief"
+}

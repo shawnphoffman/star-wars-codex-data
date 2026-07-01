@@ -1,6 +1,14 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    }
+  ],
   "displayTitle": "The High Republic Adventures (2023)",
+  "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Dark Horse Comics",

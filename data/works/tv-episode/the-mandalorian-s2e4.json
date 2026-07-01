@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Carl Weathers",
+      "role": "director",
+      "slug": "carl-weathers"
+    }
+  ],
   "displayTitle": "The Siege",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-two",
   "releaseDate": "2020-11-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s2e4",
+  "synopsis": "The Mandalorian rejoins old allies for a new mission.",
   "title": "The Siege"
 }

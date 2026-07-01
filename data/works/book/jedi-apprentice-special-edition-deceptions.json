@@ -25,13 +25,17 @@
       "onsale": "2001-07-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -44
   },
+  "relatedWorkSlugs": [
+    "jedi-apprentice-special-edition-the-followers"
+  ],
   "releaseDate": "2001-07-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-apprentice-special-edition-deceptions",
   "synopsis": "Jedi Knight Obi-Wan Kenobi has been keeping a secret from his Padawan, Anakin Skywalker. Now, the master’s past is about to catch up to him in a dangerously, maybe even deadly way.",
   "title": "Jedi Apprentice Special Edition: Deceptions"

@@ -7,7 +7,8 @@
       "slug": "dan-thorsland"
     }
   ],
-  "displayTitle": "Star Wars Droids: The Kalarba Adventures #3",
+  "displayTitle": "Droids: The Kalarba Adventures #3",
+  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-the-kalarba-adventures-1994-3",
+  "synopsis": "In a deadly case of mistaken identity, See-Threepio and Artoo-Detoo become entangled in an illegal operation on the Hosk moon, and are forced to enter a droid battle arena.",
   "title": "Star Wars Droids: The Kalarba Adventures #3"
 }

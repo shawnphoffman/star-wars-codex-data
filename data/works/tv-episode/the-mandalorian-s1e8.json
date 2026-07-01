@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Taika Waititi",
+      "role": "director",
+      "slug": "taika-waititi"
+    }
+  ],
   "displayTitle": "Redemption",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-mandalorian-season-one",
   "releaseDate": "2019-12-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-mandalorian-s1e8",
+  "synopsis": "The Mandalorian comes face-to-face with an unexpected enemy.",
   "title": "Redemption"
 }

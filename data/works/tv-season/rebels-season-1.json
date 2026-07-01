@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels - Season 1",
+  "era": "ageOfRebellion",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -1,
@@ -11,5 +12,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-season-1",
+  "synopsis": "A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights.",
   "title": "Rebels - Season 1"
 }

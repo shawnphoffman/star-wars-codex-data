@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "A New Hope: The Life of Luke Skywalker",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "endYear": 4,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-new-hope-the-life-of-luke-skywalker",
+  "synopsis": "Hidden away at birth, he would believe himself an orphan. Watched over by a mysterious hermit, he would discover incredible abilities. And by finding hope where others found only evil, he would restore balance to the galaxy. This is the legendary story of Luke Skywalker, from his childhood on Tatooine to his fierce battle with his toughest enemy&mdash;himself.",
   "title": "A New Hope: The Life of Luke Skywalker"
 }

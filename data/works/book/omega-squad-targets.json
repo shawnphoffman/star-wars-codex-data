@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "omega-squad-targets",
+  "synopsis": "A group of terrorists has taken a senator hostage on Coruscant, and it's up to a crack team of clone commandos to defuse the dangerous situation.",
   "title": "Omega Squad: Targets"
 }

@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matthew Rosenberg",
+      "role": "writer",
+      "slug": "matthew-rosenberg"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    }
+  ],
   "displayTitle": "Jedi Fallen Order: Dark Temple",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-fallen-order-dark-temple",
+  "synopsis": "Star Wars: Jedi Fallen Order - Dark Temple is a canon comic book miniseries published by Marvel Comics. The series, written by Matthew Rosenberg with art by Paolo Villanelli, is a prequel to the Respawn Entertainment video game Star Wars Jedi: Fallen Order.",
   "title": "Jedi Fallen Order: Dark Temple"
 }

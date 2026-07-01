@@ -1,6 +1,24 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "artist",
+      "slug": "stefano-raffaele"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
   "displayTitle": "Battle of Jakku - Republic Under Siege",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

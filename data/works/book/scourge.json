@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Scourge",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 19
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "scourge",
+  "synopsis": "Scourge is a Star Wars Legends novel by author Jeff Grubb that adapts the events of the Star Wars Roleplaying Game adventure Tempest Feud from Wizards of the Coast, which was co-written by Grubb and Owen K.C. Stephens. Scourge was published by Del Rey in paperback on April 24, 2012, while the Science Fiction Book Club released an exclusive hardcover edition.",
   "title": "Scourge"
 }

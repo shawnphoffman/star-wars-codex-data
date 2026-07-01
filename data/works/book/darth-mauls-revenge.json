@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Darth Maul's Revenge",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-mauls-revenge",
+  "synopsis": "Dispatched by the shadowy Lord Sidious, Darth Maul is a weapon forged by rigorous training and devotion to evil Sith disciplines. Longing to have revenge against the Jedi order for decimating the Sith centuries ago, Darth Maul finally gets his chance when sent on a mission to track down the missing Queen of Naboo.",
   "title": "Darth Maul's Revenge"
 }

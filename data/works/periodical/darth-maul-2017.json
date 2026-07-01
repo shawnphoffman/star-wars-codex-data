@@ -1,12 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cullen Bunn",
+      "role": "writer",
+      "slug": "cullen-bunn"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "writer",
+      "slug": "jordie-bellaire"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
   "displayTitle": "Darth Maul (2017)",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "darth-maul-2017",
+  "synopsis": "Raised on hate, fear, and anger&hellip;steeped in the ways of darkness&hellip;and trained to kill! Darth Maul's time as apprentice to Darth Sidious has long been cloaked in shadows - but at last we will reveal his tale of revenge! It's a story of rage unleashed as Darth Maul prepares for his first encounter with the hated Jedi. But when a Jedi Padawan is captured by sinister forces, why is Maul so determined to find her? And what role will a band of bounty hunters, including Cad Bane and Aurra Sing, play? Get to know the galaxy's deadliest Zabrak like never before! COLLECTING: Star Wars: Darth",
   "title": "Darth Maul (2017)"
 }

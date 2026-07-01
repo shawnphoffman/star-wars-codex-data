@@ -1,0 +1,29 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Perry",
+      "role": "writer",
+      "slug": "steve-perry"
+    }
+  ],
+  "displayTitle": "Shadows of the Empire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553574135"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shadows-of-the-empire-1996",
+  "synopsis": "It is a time of crisis. Han Solo, frozen in carbonite, is being taken to the vile gangster Jabba the Hutt. As Princess Leia mounts a rescue mission and Darth Vader scours the Galaxy for Luke Skywalker, another sinister figure emerges. Cunning and ruthless, leader of a powerful crime syndicate, he will pit himself against Vader for the favor of their mutual master...the dreaded Emperor.",
+  "title": "Shadows of the Empire"
+}

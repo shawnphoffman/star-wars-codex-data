@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Millennium Falcon",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": 43,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "millennium-falcon",
+  "synopsis": "===Back cover=== Climb aboard, buckle up, and prepare to jump to hyperspace for the ultimate flight of the ship that launched a thousand fates.",
   "title": "Millennium Falcon"
 }

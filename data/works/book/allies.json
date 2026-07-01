@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Allies",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 44
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "allies",
+  "synopsis": "Fate of the Jedi: Allies is a Star Wars Legends novel and the fifth volume in the Star Wars: Fate of the Jedi series. It was written by Christie Golden and first published by Del Rey in hardcover on May 25, 2010. The first paperback edition was released on April 26, 2011.",
   "title": "Allies"
 }

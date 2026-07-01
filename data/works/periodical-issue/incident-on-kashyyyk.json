@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Incident on Kashyyyk",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-08-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "incident-on-kashyyyk",
+  "synopsis": "This issue's all-new Star Wars: The Clone Wars comic adventure takes place on the planet of Kashyyyk, homeworld of the mighty Wookiees! As rumors surface that some Wookiees aren't happy to be allied with the Republic, Obi-Wan and Yoda attend a conference on Kashyyyk to provide security, but it's not the Separatists that they should be worrying about this time!",
+  "title": "Incident on Kashyyyk"
+}

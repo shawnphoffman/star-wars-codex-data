@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron: Battleground Tatooine",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "xwing-rogue-squadron-battleground-tatooine",
+  "synopsis": "Star Wars: X-Wing Rogue Squadron: Battleground: Tatooine was the third story-arc in the Star Wars: X-Wing Rogue Squadron comics. It ran from July 1 to September 1, 1996.",
+  "title": "X-Wing Rogue Squadron: Battleground Tatooine"
+}

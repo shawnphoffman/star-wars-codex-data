@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rik Hoskin",
+      "role": "writer",
+      "slug": "rik-hoskin"
+    }
+  ],
+  "displayTitle": "My Spaceship, My Enemy",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "my-spaceship-my-enemy",
+  "synopsis": "\"My Spaceship, My Enemy\" is a comic story written by Rik Hoskin featured in the seventh issue of Star Wars Comic magazine, released in June of 2014. The story focuses on Han Solo and Chewbacca and follows up on the events of the fifth issue's comic Repairs.",
+  "title": "My Spaceship, My Enemy"
+}

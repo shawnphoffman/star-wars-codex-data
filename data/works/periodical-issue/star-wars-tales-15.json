@@ -1,0 +1,93 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Nathan Walker",
+      "role": "writer",
+      "slug": "nathan-walker"
+    },
+    {
+      "name": "Jim Beard",
+      "role": "writer",
+      "slug": "jim-beard"
+    },
+    {
+      "name": "Jay Laird",
+      "role": "writer",
+      "slug": "jay-laird"
+    },
+    {
+      "name": "Scott Lobdell",
+      "role": "writer",
+      "slug": "scott-lobdell"
+    },
+    {
+      "name": "Brian Augustyn",
+      "role": "writer",
+      "slug": "brian-augustyn"
+    },
+    {
+      "name": "Sunny Lee",
+      "role": "artist",
+      "slug": "sunny-lee"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "artist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Todd Nauck",
+      "role": "artist",
+      "slug": "todd-nauck"
+    },
+    {
+      "name": "Timothy II",
+      "role": "artist",
+      "slug": "timothy-ii"
+    },
+    {
+      "name": "Sean Gordon Murphy",
+      "role": "artist",
+      "slug": "sean-gordon-murphy"
+    },
+    {
+      "name": "Paco Medina",
+      "role": "artist",
+      "slug": "paco-medina"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "artist",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Jamie Mendoza",
+      "role": "artist",
+      "slug": "jamie-mendoza"
+    },
+    {
+      "name": "Joe Sanchez",
+      "role": "artist",
+      "slug": "joe-sanchez"
+    }
+  ],
+  "displayTitle": "Tales #15",
+  "era": "multiEra",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-tales",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-03-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-tales-15",
+  "synopsis": "Luke and Leia. The heroics of the Skywalker kids are legendary throughout the galaxy. Star Wars Tales #15 spotlights the adventures of the siblings through all manners of high adventure! Follow a young Luke as he becomes lost on Tatooine and must fight his way out of a deadly sandstorm! And witness Leia as she and a strike force of gorgeous alien commandos storm an Imperial stronghold! This is one issue of Star Wars Tales you won't want to miss.",
+  "title": "Star Wars Tales #15"
+}

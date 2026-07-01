@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "artist",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Raul Fernandez",
+      "role": "artist",
+      "slug": "raul-fernandez"
+    }
+  ],
   "displayTitle": "Starfighter: Crossbones",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "starfighter-crossbones-2002",
+  "synopsis": "Star Wars: Starfighter: Crossbones was a three-issue series of comics published by Dark Horse Comics between January 9, 2002 and March 13, 2002. It is set in 24 BBY. This spin-off was based on the successful video game Star Wars: Starfighter. This series has not been collected as a trade paperback, but was eventually collected in Star Wars Omnibus: Menace Revealed. It tells the story of the pirate captain Nym and his hunt of his nemesis Sol Sixxa on the planet Maramere.",
   "title": "Starfighter: Crossbones"
 }

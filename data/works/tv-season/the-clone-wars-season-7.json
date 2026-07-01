@@ -1,14 +1,17 @@
 {
   "canonStatus": "canon",
   "displayTitle": "The Clone Wars - Season 7",
+  "era": "fallOfTheJedi",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -19,
     "startYear": -22
   },
   "parentWorkSlug": "the-clone-wars-series",
+  "releaseDate": "2020-02-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-season-7",
+  "synopsis": "The seventh season of Star Wars: The Clone Wars, subtitled The Final Season, consists of twelve episodes. Story arcs include the Bad Batch, Ahsoka's Journey, and the Siege of Mandalore, the series finale.",
   "title": "The Clone Wars - Season 7"
 }

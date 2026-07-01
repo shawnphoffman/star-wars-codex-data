@@ -1,11 +1,67 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    },
+    {
+      "name": "Andy Mangels",
+      "role": "writer",
+      "slug": "andy-mangels"
+    },
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "artist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Carlos Ezquerra",
+      "role": "artist",
+      "slug": "carlos-ezquerra"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "artist",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "artist",
+      "slug": "jordi-ensign"
+    }
+  ],
   "displayTitle": "Boba Fett",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1995-12-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "boba-fett",
+  "synopsis": "Star Wars: Boba Fett was a series of one-shots and a miniseries written between 1995 and 2006. It tells the story of the hunts of Boba Fett.",
   "title": "Boba Fett"
 }

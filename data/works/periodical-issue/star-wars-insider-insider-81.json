@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #81",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2005-03-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-81",
+  "synopsis": "Star Wars Insider 81 is the eighty-first issue of Star Wars Insider, released in March 2005. It started shipping to subscribers on March 11, and began shipping to newsstands on March 28.",
   "title": "Insider #81"
 }

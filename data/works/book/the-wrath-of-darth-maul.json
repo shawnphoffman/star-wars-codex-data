@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Wrath of Darth Maul",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": -20,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-wrath-of-darth-maul",
+  "synopsis": "Forged by rage Taken as a child and trained in the ways of the Sith, he became the apprentice to the greatest evil the galaxy has ever known&hellip;. Honed by the dark side After years of plotting in secrecy, he and his Master will take revenge on the Jedi Order&mdash;and the once-mighty Republic will tremble&hellip;. The savage story of Darth Maul has been shrouded in mystery&mdash;until now.",
   "title": "The Wrath of Darth Maul"
 }

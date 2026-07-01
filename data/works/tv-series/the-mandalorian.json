@@ -5,9 +5,20 @@
       "name": "Jon Favreau",
       "role": "writer",
       "slug": "jon-favreau"
+    },
+    {
+      "name": "Joseph Shirley",
+      "role": "composer",
+      "slug": "joseph-shirley"
+    },
+    {
+      "name": "Ludwig Göransson",
+      "role": "composer",
+      "slug": "ludwig-gransson"
     }
   ],
   "displayTitle": "The Mandalorian",
+  "era": "newRepublic",
   "format": "tvSeries",
   "inUniverseDate": {
     "startYear": 9

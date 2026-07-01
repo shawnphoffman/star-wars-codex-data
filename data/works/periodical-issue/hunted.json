@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J. P. Rutter",
+      "role": "writer",
+      "slug": "j-p-rutter"
+    }
+  ],
+  "displayTitle": "Hunted",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hunted",
+  "synopsis": "\"Hunted\" is a short comic story published in Star Wars: The Clone Wars Comic 6.16.",
+  "title": "Hunted"
+}

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #145",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-10-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-145",
+  "synopsis": "In Star Wars Insider, we'll be solving the riddle of Darth Vader. Is he the Star Wars saga's most dastardly villain, or its greatest hero? We'll be asking the experts. You'll never look at him the same way again!",
   "title": "Insider #145"
 }

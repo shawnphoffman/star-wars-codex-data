@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Crisis of Faith",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 8
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crisis-of-faith",
+  "synopsis": "\"Crisis of Faith\" is a novella by Timothy Zahn released on September 6, 2011, included in Heir to the Empire: The 20th Anniversary Edition and features Grand Admiral Thrawn.\"",
   "title": "Crisis of Faith"
 }

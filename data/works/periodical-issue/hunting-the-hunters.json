@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Hunting the Hunters",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hunting-the-hunters",
+  "synopsis": "\"Hunting the Hunters\" is a short story published in Star Wars Galaxy Magazine 6, and later on Hyperspace. It was written by Bill Smith and illustrated by Omaha Pérez.",
+  "title": "Hunting the Hunters"
+}

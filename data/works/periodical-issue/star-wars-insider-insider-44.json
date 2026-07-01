@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #44",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1999-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-44",
+  "synopsis": "Star Wars Insider 44 is the forty-fourth issue of Star Wars Insider magazine. It was published in June/July 1999. The barcode on the cover mislabeled this issue as issue 39.",
   "title": "Insider #44"
 }

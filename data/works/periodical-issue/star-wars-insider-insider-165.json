@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #165",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-165",
+  "synopsis": "It's the biggest Star Wars movie ever, but how well do you know Star Wars: The Force Awakens? Insider presents 100 amazing things you might have missed from the hit movie! Plus, the cast and crew reflect on the making of the film and we print your thoughts on the movie!\nWe're also looking back on Star Wars Rebels amazing second season, looking forward to the big new movie, Star Wars Rogue One, and have an amazing exclusive tale-only in Star Wars Insider!",
   "title": "Insider #165"
 }

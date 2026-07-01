@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -13,7 +13,8 @@
       "slug": "k-d-burkett"
     }
   ],
-  "displayTitle": "Star Wars Science Adventures: Journey Across Planet X",
+  "displayTitle": "Science Adventures: Journey Across Planet X",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-science-adventures-journey-across-planet",
+  "synopsis": "ONLY SCIENCE CAN SAVE THEM! Trapped on a mysterious planet, Artoo-Detoo, See-Threepio, Forbee-X, and a young Rebel named Stuart Zissu must summon all their courage &mdash; and knowledge &mdash; in order to survive. Strange creatures, weird weather, and killer twisters stand in their way. There's only one chance at rescue. Will the Rebels make it in time?",
   "title": "Star Wars Science Adventures: Journey Across Planet X"
 }

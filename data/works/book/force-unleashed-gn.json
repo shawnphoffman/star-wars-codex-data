@@ -9,6 +9,13 @@
     }
   ],
   "displayTitle": "The Force Unleashed Graphic Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781593078911"
+    }
+  ],
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
@@ -17,5 +24,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-unleashed-gn",
+  "synopsis": "Scripted by the game's author, reveals the origins of Darth Vader's secret apprentice, his missions hunting surviving Jedi, and the pivotal decision he is ultimately forced to make. (Distinct from the Sean Williams prose novelization.)",
   "title": "The Force Unleashed Graphic Novel"
 }

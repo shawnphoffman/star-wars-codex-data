@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Blind Jedi's Bluff",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-01-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "blind-jedi-s-bluff",
+  "synopsis": "Obi-Wan's solo mission to get information from a Separatist traitor leads him straight into a trap in the latest Star Wars: The Clone Wars Comic Adventure. A flash-bomb leaves him temporarily blind in the throes of combat&mdash;but will disability prove a barrier to victory?",
+  "title": "Blind Jedi's Bluff"
+}

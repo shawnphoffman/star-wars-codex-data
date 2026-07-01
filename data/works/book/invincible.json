@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Invincible",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 41
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invincible",
+  "synopsis": "No war can last forever. Now, in the long and punishing battle between the defiant champions of the New Jedi Order and the juggernaut that is the Galactic Alliance, the endgame is finally at hand. With so much lost&mdash;and nothing less than the course of the future still at stake&mdash;there can be no turning back. No matter the consequences. The rebel cause is losing ground under the twin blows of Admiral Gilad Pellaeon's assassination and the death of Mara Jade Skywalker. At the same time, having gained the support of the Imperial Remnant and its ruthlessly efficient forces, the Galactic A",
   "title": "Invincible"
 }

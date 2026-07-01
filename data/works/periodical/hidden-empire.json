@@ -1,12 +1,62 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Natacha Bustos",
+      "role": "artist",
+      "slug": "natacha-bustos"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "artist",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "artist",
+      "slug": "paul-fry"
+    }
+  ],
   "displayTitle": "Hidden Empire",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "hidden-empire",
+  "synopsis": "Star Wars: Hidden Empire is a canon comic book miniseries and crossover event created by Marvel Comics. It was written by Charles Soule and illustrated by Steven Cummings. The series serves as the final entry in a trilogy focusing on the character Qi'ra and the criminal organization Crimson Dawn. The series is scheduled to be published by Marvel Comics in 2022 after the conclusion of the second series in the trilogy, Star Wars: Crimson Reign. In his monthly newsletter for January 2022, Soule stated that the series would run from June to November. The series was, however, not included in solici",
   "title": "Hidden Empire"
 }

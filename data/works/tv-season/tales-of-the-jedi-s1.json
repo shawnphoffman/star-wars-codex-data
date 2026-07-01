@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Tales of the Jedi Season 1",
+  "era": "multiEra",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -3,
@@ -11,5 +12,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-s1",
+  "synopsis": "Star Wars: Tales of the Jedi is a series of animated anthology shorts, released as six episodes on October 26, 2022. Each episode featured Jedi from the era of the prequel trilogy; half of the season focused on Count Dooku, while the other half focused on Ahsoka Tano, with other Jedi featuring as supporting characters in the episodes. Created and written by Dave Filoni, the series is animated in the style of Star Wars: The Clone Wars and Star Wars: The Bad Batch. A part of the Star Wars Tales television series, a sequel season, Star Wars: Tales of the Empire, was released on May 4, 2024.",
   "title": "Tales of the Jedi Season 1"
 }

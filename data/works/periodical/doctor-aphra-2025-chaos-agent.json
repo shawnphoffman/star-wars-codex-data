@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cherish Chen",
+      "role": "writer",
+      "slug": "cherish-chen"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    }
+  ],
   "displayTitle": "Doctor Aphra (2025): Chaos Agent",
   "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-06-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "doctor-aphra-2025-chaos-agent",
+  "synopsis": "OUT FROM THE SHADOW OF DARTH VADER, DOCTOR APHRA RETURNS! An all-new ongoing series featuring the rogue archaeologist as she makes her way through the galaxy in the era of the NEW REPUBLIC! APHRA must team up with LUKE SKYWALKER to track down a rare artifact! And what will she do when her tattoos no longer function?!",
   "title": "Doctor Aphra (2025): Chaos Agent"
 }

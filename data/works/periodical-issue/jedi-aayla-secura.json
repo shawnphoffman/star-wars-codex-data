@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    }
+  ],
+  "displayTitle": "Jedi: Aayla Secura",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-08-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-aayla-secura",
+  "synopsis": "Beautiful Twi'lek Jedi Aayla Secura goes undercover to ferret out a Separatist enclave. But when her cover is blown, Aayla finds herself going up against famed bounty hunter (and infamous Jedi killer) Aurra Sing! This is the battle that Star Wars fans have been begging for, by the creative team that was born to bring it to them!",
+  "title": "Jedi: Aayla Secura"
+}

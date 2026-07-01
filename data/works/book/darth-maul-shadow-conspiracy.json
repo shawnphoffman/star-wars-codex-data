@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Darth Maul: Shadow Conspiracy",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-shadow-conspiracy",
+  "synopsis": "Fueled by vengeance and rage, the newly reunited brothers Darth Maul and Savage Opress spread terror and violence. As they forcibly recruit criminals from the darkest corners of the Outer Rim to join their army, the brothers begin to consolidate their new criminal empire in an effort to bring out Darth Maul's most hated enemy: Obi-Wan Kenobi. With the backing of an army composed of the galaxy's most vicious criminal organizations, there is nothing that stands in Maul's way that he cannot crush. Will Darth Maul have his vengeance against Obi-Wan Kenobi, or will the Jedi Knight escape his grasp?",
   "title": "Darth Maul: Shadow Conspiracy"
 }

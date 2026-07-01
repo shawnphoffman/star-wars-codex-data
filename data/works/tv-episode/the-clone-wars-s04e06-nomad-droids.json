@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Craig W. Van Sickle",
+      "role": "writer",
+      "slug": "craig-w-van-sickle"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Steven Long Mitchell",
+      "role": "writer",
+      "slug": "steven-long-mitchell"
+    }
+  ],
   "displayTitle": "Nomad Droids",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

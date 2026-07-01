@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Toby Haynes",
+      "role": "director",
+      "slug": "toby-haynes"
+    },
+    {
+      "name": "Beau Willimon",
+      "role": "writer",
+      "slug": "beau-willimon"
+    }
+  ],
   "displayTitle": "Nobody's Listening!",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-season-1",
   "releaseDate": "2022-11-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s1e9",
+  "synopsis": "Under intense scrutiny while imprisoned, Cassian makes allies plan an impossible escape.",
   "title": "Nobody's Listening!"
 }

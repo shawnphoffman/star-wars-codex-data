@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Star by Star",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-by-star",
+  "synopsis": "The New York Times bestselling Star Wars series The New Jedi Order enthralls readers with its epic drama and thrilling adventure. Now readers will pierce the very heart of darkness, as those fascinating figures in that galaxy far, far away&mdash;Han Solo, Luke Skywalker, Leia Organa Solo, as well as their children&mdash;spring to vivid life to battle their deadliest adversaries. It is a solemn time for the New Republic, as the merciless Yuuzhan Vong continue their ruthless campaign of terror and destruction. The brutal enemy has unleashed a savage creature capable of finding&mdash;and killing&",
   "title": "Star by Star"
 }

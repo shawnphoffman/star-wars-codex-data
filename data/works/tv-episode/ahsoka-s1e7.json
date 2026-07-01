@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Geeta Patel",
+      "role": "director",
+      "slug": "geeta-patel"
+    }
+  ],
   "displayTitle": "Dreams and Madness",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "ahsoka-season-one",
   "releaseDate": "2023-09-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ahsoka-s1e7",
+  "synopsis": "Hera must answer to the New Republic, while far, far away, a reunion takes place.",
   "title": "Dreams and Madness"
 }

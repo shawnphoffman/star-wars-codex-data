@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Lost Prince: A Droid Adventure",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-lost-prince-a-droid-adventure",
+  "synopsis": "The Lost Prince: A Droid Adventure is a 1985 children's-book adaptation of the Star Wars Droids episode entitled \"The Lost Prince.\" It was written by Ellen Weiss and illustrated by Amador.",
   "title": "The Lost Prince: A Droid Adventure"
 }

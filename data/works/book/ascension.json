@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Ascension",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 44
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ascension",
+  "synopsis": "Fate of the Jedi: Ascension is a Star Wars Legends novel and the penultimate volume in the nine-part Star Wars: Fate of the Jedi series. It was written by Christie Golden and first published by Del Rey in hardcover on August 9, 2011. The first paperback edition was released on November 27, 2012.",
   "title": "Ascension"
 }

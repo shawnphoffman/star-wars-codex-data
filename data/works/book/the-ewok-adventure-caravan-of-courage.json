@@ -1,7 +1,15 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
+    }
+  ],
   "displayTitle": "The Ewok Adventure (Caravan of Courage)",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -10,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ewok-adventure-caravan-of-courage",
+  "synopsis": "The Ewok Adventure was a book-and-record set published as part of Buena Vista Records' Read-Along Adventures series. It was an adaptation of the TV movie Caravan of Courage: An Ewok Adventure. It was produced by Ted Kryczko and released in 1984 as story book with 7\" 33 ⅓ rpm record and Cassette tape. It is unknown who narrated the record as credits were not provided along with the book or record.",
   "title": "The Ewok Adventure (Caravan of Courage)"
 }

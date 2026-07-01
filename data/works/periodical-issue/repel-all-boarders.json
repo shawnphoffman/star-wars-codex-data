@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robin Etherington",
+      "role": "writer",
+      "slug": "robin-etherington"
+    }
+  ],
+  "displayTitle": "Repel All Boarders!",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-03-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "repel-all-boarders",
+  "synopsis": "\"Repel All Boarders!\" is a short comic story published in Star Wars: The Clone Wars Comic 6.18. It follows the events of a battle between Ahsoka Tano, Obi-Wan Kenobi and the 38th Armored Division versus their Separatist pursuers after a battle lost by the Republic Navy. It was later published in Star Wars: The Clone Wars Magazine 5 as well.",
+  "title": "Repel All Boarders!"
+}

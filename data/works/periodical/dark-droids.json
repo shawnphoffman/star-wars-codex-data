@@ -1,12 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "artist",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    }
+  ],
   "displayTitle": "Dark Droids",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-08-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-droids",
+  "synopsis": "Star Wars: Dark Droids is a Star Wars canon comic crossover event published by Marvel Comics. The event included a five issue limited series written by Charles Soule, illustrated by Luke Ross, with the first issue published on August 2, 2023. The series also includes issues from the ongoing series Star Wars: Bounty Hunters, Star Wars: Darth Vader, Star Wars: Doctor Aphra, and Star Wars. A spinoff miniseries titled Star Wars: Dark Droids: D-Squad, written by Marc Guggenheim and illustrated by Salva Espín, is also part of the event. At San Diego Comic Con 2023, Soule described the event as if, i",
   "title": "Dark Droids"
 }

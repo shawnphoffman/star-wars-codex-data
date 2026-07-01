@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels - Season 3",
+  "era": "ageOfRebellion",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -1,
@@ -11,5 +12,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-season-3",
+  "synopsis": "Sometime after the events on Malachor, Ezra must struggle with his temptation towards the dark side. The Ghost crew helps build up the rebellion on Atollon.",
   "title": "Rebels - Season 3"
 }

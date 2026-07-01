@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #180",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-04-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-180",
+  "synopsis": "Star Wars Insider 180 is the 158th issue of the Star Wars Insider magazine and the eighty-eighth issue published by Titan Magazines. It was published on April 17, 2018.",
   "title": "Insider #180"
 }

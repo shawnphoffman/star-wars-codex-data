@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #147",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2014-01-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-147",
+  "synopsis": "Do you love epic battles? Compelling characters? Galactic tragedy? And Jar Jar Binks?\n Insider distinguished team of Star Wars experts reveal the 50 greatest reasons to love the Star Wars prequels!\nPlus, we'll be looking at what to expect from the forthcoming animated show, Star Wars Rebels, and Imperial officer Chief Bewil, AKA actor Milton Johns, shares some stories from the Cloud City carbon freezing chamber. And we'll have an amazing new tale from the Star Wars Galaxy that can only be read in Star Wars Insider!",
   "title": "Insider #147"
 }

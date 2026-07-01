@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Empire Sourcebook",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 10
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-sourcebook",
+  "synopsis": "The Dark Empire Sourcebook is a supplement published by West End Games for their version of Star Wars: The Roleplaying Game. It was written by Michael Allen Horne and first published in June 1993. The book summarizes and details the events of the Star Wars: Dark Empire comic books and gives stats for the roleplaying game of the characters, starships, vehicles, droids and weapons seen in the comics. It also includes new information that helps tie the events of those comics to the rest of the Expanded Universe.",
   "title": "Dark Empire Sourcebook"
 }

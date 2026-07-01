@@ -1,11 +1,66 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    },
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "artist",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "David Roach",
+      "role": "artist",
+      "slug": "david-roach"
+    },
+    {
+      "name": "Tony Akins",
+      "role": "artist",
+      "slug": "tony-akins"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "artist",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "artist",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Mike Barreiro",
+      "role": "artist",
+      "slug": "mike-barreiro"
+    },
+    {
+      "name": "Bill Black",
+      "role": "artist",
+      "slug": "bill-black"
+    },
+    {
+      "name": "Andrew Pepoy",
+      "role": "artist",
+      "slug": "andrew-pepoy"
+    }
+  ],
   "displayTitle": "Tales of the Jedi",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1993-10-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "tales-of-the-jedi-2",
   "title": "Tales of the Jedi"
 }

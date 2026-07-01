@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 17: Darth Vader's Return",
+  "displayTitle": "Missions 17: Darth Vader's Return",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-17-darth-vaders-return",
+  "synopsis": "Darth Vader has returned to Coruscant after the destruction of the first Death Star. There, he discovers his next mission. In the days before Grand Moff Tarkin's death, Tarkin recorded a top secret holotape... complete with information that would enable the Empire to dominate hyperspace. Your mission: to retrieve the missing holotape and bring glory to the Emperor. Good luck.",
   "title": "Star Wars Missions 17: Darth Vader's Return"
 }

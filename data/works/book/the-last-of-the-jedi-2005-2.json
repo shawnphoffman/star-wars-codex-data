@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Dark Warning",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2005-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-2",
+  "synopsis": "Who Are the Last of the Jedi?\nObi-Wan Kenobi is on a mission. Along with the former Jedi apprentice Ferus Olin and a headstrong kid named Trever, he is trying to keep the Jedi's most important secret safe from the inquisitive Empire. With Boba Fett on their trail and time running out, Obi-Wan, Ferus, and Trever must make some daring and desperate escapes&hellip;into even more danger.\nAlong the way, they discover some incredible news: Obi-Wan and Yoda are not the only Jedi to have survived the Emperor's annihilation of the Order. There is at least one other&hellip;and he is hiding in the Caves of Ilum, a place where nightmares become reality and dark warnings tell of conflicts yet to come.\nThe thrilling new series from The New York Times bestselling author of Jedi Apprentice and Jedi Quest.",
+  "title": "The Last of the Jedi: Dark Warning"
+}

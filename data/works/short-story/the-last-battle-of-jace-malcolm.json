@@ -1,0 +1,23 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexander Freed",
+      "role": "writer",
+      "slug": "alexander-freed"
+    }
+  ],
+  "displayTitle": "The Last Battle of Colonel Jace Malcom",
+  "era": "oldRepublic",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -3640
+  },
+  "releaseDate": "2012-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-battle-of-jace-malcolm",
+  "synopsis": "Around 3640 BBY, after the Battle of Corellia: Colonel Jace Malcom (father of the SWTOR Trooper) fights his last frontline battle before being recalled to the Core. He debates Sith tactics with a fellow soldier, navigates fog-covered canyons, and drops a targeting beacon so Republic fighters destroy an Imperial-held spaceport, advising a young commander before leaving.",
+  "title": "The Last Battle of Colonel Jace Malcom"
+}

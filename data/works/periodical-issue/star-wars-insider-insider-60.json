@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #60",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2002-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-60",
+  "synopsis": "Star Wars Insider 60 is the sixtieth issue of Star Wars Insider magazine. It was released to newsstands on June 4, 2002. This issue came packaged with promotional trading cards for the Wizards of the Coast Attack of the Clones trading card game and the Topps Attack of the Clones silver foil-stamped movie card set, while the newsstand version was available in an exclusive polybag. It's also the last issue to feature the writing of longtime contributor (and former Managing Editor) Scott Chernoff, who left to pursue a career in writing for television.",
   "title": "Insider #60"
 }

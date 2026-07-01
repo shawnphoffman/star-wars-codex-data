@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cameron Litvack",
+      "role": "writer",
+      "slug": "cameron-litvack"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "The Clone Wars S03E02: ARC Troopers",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

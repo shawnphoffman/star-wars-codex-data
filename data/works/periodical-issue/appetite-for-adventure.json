@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Fillbach Brothers",
+      "role": "writer",
+      "slug": "fillbach-brothers"
+    },
+    {
+      "name": "The Fillbach Brothers",
+      "role": "artist",
+      "slug": "the-fillbach-brothers"
+    }
+  ],
+  "displayTitle": "Appetite for Adventure",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "appetite-for-adventure",
+  "synopsis": "\"Appetite for Adventure\" is an eighteen-page comic published October 31, 2007 by Dark Horse Comics in Star Wars: Clone Wars Adventures Volume 9, part of the digest-sized Star Wars: Clone Wars Adventures graphic novels comic series.",
+  "title": "Appetite for Adventure"
+}

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Apprentice",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-apprentice",
+  "synopsis": "\"The Apprentice\" is a short story written by Elaine Cunningham and is the thirteenth installment of the New Jedi Order series set in the Star Wars universe. Set during the events of Dark Journey, this short story expands upon details briefly mentioned in The New Jedi Order: Dark Journey. The story by Elaine Cunningham was first published in Star Wars Gamer 8 on the 1st of January 2002 by Wizards of the Coast and was shortlisted for the Prix de la Plume Noire by the French Committee for Experimental Literature.",
   "title": "The Apprentice"
 }

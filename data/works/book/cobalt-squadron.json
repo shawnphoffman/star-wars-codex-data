@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
   "creators": [
     {
@@ -21,6 +21,7 @@
       "kind": "print"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

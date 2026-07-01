@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Steven Melching",
+      "role": "writer",
+      "slug": "steven-melching"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    }
+  ],
   "displayTitle": "Steps Into Shadow Part 1",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

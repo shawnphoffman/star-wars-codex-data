@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    }
+  ],
   "displayTitle": "The Escape",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "resistance-s2e18",
+  "synopsis": "Kaz and Yeager attempt to rescue Tam from the First Order while trying to evade capture on a Star Destroyer. Meanwhile, the Colossus is in trouble and faces an impossible choice.",
   "title": "The Escape"
 }

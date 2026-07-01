@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "C-3PO's Big Adventure",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "c-3pos-big-adventure",
+  "synopsis": "A droid made out of spare parts can sometimes be a very helpful friend. Anakin built C-3PO to help with housework, but C-3PO knows he can do much more! C-3PO has a chance to help Anakin win a race that would change the boy's life. Can C-3PO prove how important he is?",
   "title": "C-3PO's Big Adventure"
 }

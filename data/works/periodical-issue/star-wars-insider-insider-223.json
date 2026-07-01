@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #223",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-12-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-223",
+  "synopsis": "In #223, in preparation for the final series &ndash; coming to Disney+ in the New Year &ndash; we catch up with the events of Season Two of The Bad Batch, that left Clone Force 99 down another member, and Omega in the hands of the Empire! To lighten the mood, we get glamorous with a feature on the couture of the galaxy far, far, away, reviewing the Star Wars fashions that are a long way from the used aesthetic of your average scruffy-looking, nerf-herding scoundrel. We interview Tait Fletcher, the performer inside the Paz Vizsla armor in The Mandalorian, and find out about the art of modelmaking from former Industrial Light & Magic expert Fon Davis.\nPlus, the latest installment of our The High Republic short fiction series, and an investigation into why the Emperor's Death Star stratagem failed so spectacularly in Return of the Jedi!",
   "title": "Insider #223"
 }

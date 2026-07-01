@@ -1,11 +1,20 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "showrunner",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "The Clone Wars",
+  "era": "fallOfTheJedi",
   "format": "tvSeries",
   "inUniverseDate": {
     "endYear": -19,
     "startYear": -22
   },
+  "releaseDate": "2008-10-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-series",

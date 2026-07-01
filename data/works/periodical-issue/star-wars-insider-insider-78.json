@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #78",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-10-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-78",
+  "synopsis": "Star Wars Insider 78 is the seventy-eighth issue of Star Wars Insider magazine. It was released to newsstands on October 5, 2004. This issue came packaged with promotional card P1 from the Topps trading card set 2004 Topps Star Wars Heritage.",
   "title": "Insider #78"
 }

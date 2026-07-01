@@ -1,6 +1,18 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    },
+    {
+      "name": "Erik Doescher",
+      "role": "artist",
+      "slug": "erik-doescher"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: Snowy Mountain Rescue",
   "editionIds": [
     {

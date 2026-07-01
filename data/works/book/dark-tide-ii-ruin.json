@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Dark Tide II: Ruin",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-tide-ii-ruin",
+  "synopsis": "New York Times bestselling author Michael A. Stackpole continues The New Jedi Order epic with DARK TIDE II: RUIN, a thrilling Star Wars adventure in which the Jedi Knights must fight their most treacherous battle&mdash;against an unrelenting evil intent on devouring the galaxy&hellip; The alien Yuuzhan Vong have launched an attack on the worlds of the Outer Rim. They are merciless, without regard for life&mdash;and they stand utterly outside the Force. Their ever-changing tactics stump the New Republic military. Even the Jedi, once the greatest guardians of peace in the galaxy, are rendered he",
   "title": "Dark Tide II: Ruin"
 }

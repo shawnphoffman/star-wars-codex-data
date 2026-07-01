@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -31,7 +31,8 @@
     "startYear": -22
   },
   "releaseDate": "2003-10-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "boba-fett-hunted",
   "synopsis": "Young Boba Fett wants nothing more than to become a bounty hunter like his father. But first, he’ll have to find a way to impress notorious crime lord Jabba the Hutt.",
   "title": "Boba Fett: Hunted"

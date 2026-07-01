@@ -1,6 +1,13 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emeli Juhlin",
+      "role": "writer",
+      "slug": "emeli-juhlin"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures: The Harvest Feast",
   "editionIds": [
     {

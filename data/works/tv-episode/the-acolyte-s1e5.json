@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Garcia Lopez",
+      "role": "director",
+      "slug": "alex-garcia-lopez"
+    },
+    {
+      "name": "Kor Adana",
+      "role": "writer",
+      "slug": "kor-adana"
+    },
+    {
+      "name": "Cameron Squires",
+      "role": "writer",
+      "slug": "cameron-squires"
+    }
+  ],
   "displayTitle": "Night",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e5",
+  "synopsis": "In a dense jungle, the Jedi are put to the test when they confront a rising darkness.",
   "title": "Night"
 }

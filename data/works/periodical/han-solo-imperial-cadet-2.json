@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Gerry Duggan",
+      "role": "writer",
+      "slug": "gerry-duggan"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    }
+  ],
   "displayTitle": "Han Solo: Imperial Cadet",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-05-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "han-solo-imperial-cadet-2",
+  "synopsis": "Untold adventures of a young Han Solo! You've seen Han escape the mean streets of Corellia by joining the Imperial Navy. But how does a thief used to the chaos of back alley brawls adjust to the order and discipline of the military? Not very well! And Han's dream of becoming a pilot is quickly grounded as he realizes he may not even survive basic training. After a wild sequence of events lands him in the brig overnight, Han is given one last shot at flight school. Will Han be top gun - or will he crash and burn? And who is his mysterious rival, ripped from the pages of classic Star Wars comics",
   "title": "Han Solo: Imperial Cadet"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Champions of the Force",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "champions-of-the-force",
+  "synopsis": "As the New Republic continues its struggle for survival, a scattered but powerful remnant of the shattered Empire seeks to destroy three precious children&mdash;among them Han and Leia's Jedi twins&mdash;who represent the next generation of Jedi Knights, in this third and final novel of the Jedi Academy Trilogy&hellip; Suspended helplessly between life and death, Luke Skywalker lies in state at the Jedi academy. But on the spirit plane, Luke fights desperately for survival, reaching out physically to the Jedi twins. At the same time, Leia is on a life-and-death mission of her own, a race again",
   "title": "Champions of the Force"
 }

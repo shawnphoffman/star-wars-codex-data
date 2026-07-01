@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "meltdown-on-hoth",
+  "synopsis": "Meltdown on Hoth was a children's book written by Jane Mason and illustrated by Chris Trevas. It tells a story set just before The Empire Strikes Back, when C-3PO and R2-D2 deal with a problem of heat in Princess Leia's Echo Base quarters, as mentioned in the opening scenes of the film.",
   "title": "Meltdown on Hoth"
 }

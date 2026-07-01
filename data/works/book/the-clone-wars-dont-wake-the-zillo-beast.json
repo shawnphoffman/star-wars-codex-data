@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Don't Wake The Zillo Beast",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-dont-wake-the-zillo-beast",
+  "synopsis": "More Star Wars action for young readers! These DK Readers are great for those reluctant readers as well as devoted Star Wars fans. Don't Wake the Zillo Beast introduces the very youngest readers to the fearsome Zillo Beast of the planet Malastare, and the destruction it unleashes when it's woken from its slumber.",
   "title": "The Clone Wars: Don't Wake The Zillo Beast"
 }

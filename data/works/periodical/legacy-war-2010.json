@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Legacy: War",
+  "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-war-2010",
+  "synopsis": "You can't keep a bad Sith down! Darth Krayt has returned from the \"dead,\" stronger, more evil, and more determined than ever to crush the galaxy under his heel. With Emperor Roan Fel's Imperials, the Galactic Alliance, the Jedi, and even some of his own Sith followers arrayed against him, Krayt would seem overmatched&mdash;but his enemies have not reckoned with the power of the dark side! If Cade Skywalker was ever going to run from his legacy, now would be the time!",
   "title": "Legacy: War"
 }

@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "artist",
+      "slug": "jethro-morales"
+    }
+  ],
   "displayTitle": "The High Republic: The Blade",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-12-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-the-blade",
+  "synopsis": "Star Wars: The High Republic — The Blade is a comic miniseries featuring Jedi Porter Engle published as part of Phase II of the Star Wars: The High Republic multimedia project. The series was written by Charles Soule and the first issue was published by Marvel Comics on December 28, 2022. Set around 382 BBY, it focuses on the involvement of Jedi Masters Porter Engle and Barash Silvain in the attack on Firevale, a conflict that occurred on the planet Gansevor.",
   "title": "The High Republic: The Blade"
 }

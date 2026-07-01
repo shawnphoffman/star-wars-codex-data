@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -8,7 +8,8 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars Missions 19: Bounty on Bonadan",
+  "displayTitle": "Missions 19: Bounty on Bonadan",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-missions-19-bounty-on-bonadan",
+  "synopsis": "You are a bounty hunter. The Empire has hired you to track down an Imperial engineer who has been arrested by the deadly Corporate Sector Authority security police. If you rescue the prisoner, you will be handsomely rewarded. If you don't, you will have to face the wrath of Darth Vader. Your mission: to win the bounty...and keep your life. Good luck.",
   "title": "Star Wars Missions 19: Bounty on Bonadan"
 }

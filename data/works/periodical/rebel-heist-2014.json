@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matt Kindt",
+      "role": "writer",
+      "slug": "matt-kindt"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    }
+  ],
   "displayTitle": "Rebel Heist",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-heist-2014",
+  "synopsis": "Star Wars: Rebel Heist is a four-issue comic miniseries written by Matt Kindt and illustrated by Marco Castiello. It debuted in April 2014.",
   "title": "Rebel Heist"
 }

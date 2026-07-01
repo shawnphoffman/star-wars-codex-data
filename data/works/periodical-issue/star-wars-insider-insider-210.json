@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #210",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-210",
+  "synopsis": "Welcome to Star Wars Insider #210\nThis issue celebrates the 20th anniversary of the release of Star Wars: Attack of the Clones (2002)! Insider speaks to Rena Owen, the actor who played Kaminoan cloner Taun We, about the making of the movie and her recent return in The Bad Batch (2021-present), and takes a look at how Attack of the Clones drew upon medieval storytelling for the epic romance between Anakin Skywalker and Padmé Amidala. There's also an exclusive interview with prequel concept artist Iain McCaig, including some inspirational advice for budding Star Wars artists.\nPlus, get the lowdown on Star Wars: Galactic Starcruiser from Disney's top Imagineers, explore every episode of Star Wars: Visions (2021), and General Grievous is back in a thrilling and exclusive new story by Richard Dinnick!\nMay the Fourth be With You!",
   "title": "Insider #210"
 }

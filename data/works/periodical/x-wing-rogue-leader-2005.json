@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Tomás Giorello",
+      "role": "artist",
+      "slug": "toms-giorello"
+    }
+  ],
   "displayTitle": "X-Wing: Rogue Leader",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-leader-2005",
+  "synopsis": "Star Wars: X-Wing: Rogue Leader is a three-issue series of comics published by Dark Horse Comics. It takes place one week after the Battle of Endor. The first issue came out on September 28, 2005. This comic series comes directly before the series X-Wing Rogue Squadron.",
   "title": "X-Wing: Rogue Leader"
 }

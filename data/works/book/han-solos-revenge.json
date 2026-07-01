@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Han Solo's Revenge",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solos-revenge",
+  "synopsis": "For once Han Solo was going straight. He and his Wookiee sidekick Chewbacca had abandoned interstellar smuggling for the safe, legitimate enterprise of running a holotheater for the insectoid natives of Kamar. They should have stayed illegal. When they put on the wrong show, the Kamarites destroyed the holoprojector and nearly did the same for Chewie and Han, who had to blast off in their starship Millennium Falcon seconds ahead of a raging mob. They were dead broke. But there's always work for a space-going freighter captain who doesn't ask awkward questions, and Han quickly got a job that wo",
   "title": "Han Solo's Revenge"
 }

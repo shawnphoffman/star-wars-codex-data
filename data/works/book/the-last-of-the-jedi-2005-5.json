@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: A Tangled Web",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-6",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2006-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-5",
+  "synopsis": "Who Are the Last of the Jedi?\nSince evil Emperor Palpatine destroyed the Jedi Knights and seized power, his reign has been absolute. He controls the Senate. He controls the Imperial Army. He controls the galaxy. He is a Sith.\nAnd now, for mysterious reasons, he wants to control Ferus Olin, ex-Padawan.\nFerus does not want to aid the Empire in any way. But when the Emperor threatens the lives of the people closest to him, Ferus doesn't have a choice. He agrees to go on a secret mission for Palpatine&mdash;to become a double-agent&mdash;and somehow keep his allegiance to the fallen Jedi Order.\nCan he succeed? Or are the Emperor and his henchman Darth Vader too powerful to overcome?\nThe thrilling new series from The New York Times bestselling author of Jedi Apprentice and Jedi Quest.",
+  "title": "The Last of the Jedi: A Tangled Web"
+}

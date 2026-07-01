@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    }
+  ],
+  "displayTitle": "Way of the Wookiee!",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1979-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "way-of-the-wookiee",
+  "synopsis": "\"Way of the Wookiee!\" was a story published in 1979 in three parts in Marvel UK's Star Wars Weekly 94&ndash;96, and written by Archie Goodwin. It was reprinted in 1981 in Marvel Illustrated Books' Star Wars. It was named after the first part of the comic, originally published in Star Wars Weekly 94. The other two original parts are \"Chewbacca Fights Alone!\" and \"Switch!\" Way of the Wookiee! tells the story of a botched Kessel Run of Han Solo's (which preceded the one that landed him in trouble with Jabba the Hutt).",
+  "title": "Way of the Wookiee!"
+}

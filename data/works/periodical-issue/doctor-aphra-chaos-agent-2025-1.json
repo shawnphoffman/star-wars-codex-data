@@ -1,11 +1,25 @@
 {
   "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Cherish Chen",
+      "role": "writer",
+      "slug": "cherish-chen"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    }
+  ],
   "displayTitle": "Doctor Aphra - Chaos Agent (2025) #1",
+  "era": "newRepublic",
   "format": "periodicalIssue",
   "parentWorkSlug": "doctor-aphra-chaos-agent",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2025-06-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "doctor-aphra-chaos-agent-2025-1",

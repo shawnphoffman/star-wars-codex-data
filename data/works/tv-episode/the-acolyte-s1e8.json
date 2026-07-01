@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Hanelle M. Culpepper",
+      "role": "director",
+      "slug": "hanelle-m-culpepper"
+    },
+    {
+      "name": "Jason A. Micallef",
+      "role": "writer",
+      "slug": "jason-a-micallef"
+    }
+  ],
   "displayTitle": "The Acolyte",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +20,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e8",
+  "synopsis": "Confrontation and revelation await.",
   "title": "The Acolyte"
 }

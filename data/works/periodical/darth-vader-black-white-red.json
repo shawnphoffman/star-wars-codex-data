@@ -1,12 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "writer",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Torunn Grønbekk",
+      "role": "writer",
+      "slug": "torunn-gr-nbekk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Klaus Janson",
+      "role": "artist",
+      "slug": "klaus-janson"
+    }
+  ],
   "displayTitle": "Darth Vader: Black, White & Red",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "darth-vader-black-white-red",
+  "synopsis": "THE DARK LORD OF THE SITH LIKE YOU'VE NEVER SEEN HIM BEFORE! Following the successful Black, White & Red series produced by Marvel Comics, DARTH VADER now takes the spotlight for tales of terror by some of the industry's most talented creators! PEACH MOMOKO will spin a story only she can bring to life! PLUS, the return of JASON AARON to the world of STAR WARS with Part One of his Vader tale spanning all four issues!",
   "title": "Darth Vader: Black, White & Red"
 }

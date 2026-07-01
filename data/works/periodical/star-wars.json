@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alex Segura",
+      "role": "writer",
+      "slug": "alex-segura"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
   "displayTitle": "Star Wars (2025)",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "artist",
+      "slug": "marika-cresta"
+    }
+  ],
   "displayTitle": "The High Republic: Fear of the Jedi",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-fear-of-the-jedi",
+  "synopsis": "BLOCKADE OVER ERIADU! Lines are drawn as KEEVE TRENNIS' STORMWALL DEFENSE FLEET joins the fight against the NIHIL. Can Keeve remain true to the Light as she leads her team into battle? Meanwhile, heartbreak is relived as the past catches up with one of LOURNA DEE'S crew.",
   "title": "The High Republic: Fear of the Jedi"
 }

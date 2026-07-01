@@ -1,0 +1,29 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    }
+  ],
+  "displayTitle": "Splinter of the Mind's Eye",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345275660"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1978-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "splinter-of-the-minds-eye-1978",
+  "synopsis": "As a young but already seasoned fighter pilot, Luke Skywalker expected trouble when he volunteered to accompany Princess Leia on a diplomatic mission to Circarpous to enlist their Rebel Underground in the battle against the Empire. But the former farm boy from Tatooine hadn't counted on an unscheduled crash-landing in the swamplands of Mimban&hellip;a landing that destroyed their ships.",
+  "title": "Splinter of the Mind's Eye"
+}

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    },
+    {
+      "name": "Nicole Dubuc",
+      "role": "writer",
+      "slug": "nicole-dubuc"
+    }
+  ],
   "displayTitle": "The Antilles Extraction",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

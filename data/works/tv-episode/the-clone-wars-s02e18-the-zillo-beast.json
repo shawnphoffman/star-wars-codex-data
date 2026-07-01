@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Craig Titley",
+      "role": "writer",
+      "slug": "craig-titley"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "The Zillo Beast",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

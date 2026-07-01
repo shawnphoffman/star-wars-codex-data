@@ -13,6 +13,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #08: Eight for Aduba-3",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -25,5 +26,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-8",
+  "synopsis": "Han and Chewie take a new job defending a moisture farmer from a local gang known as the Cloud-Riders.",
   "title": "Star Wars (1977) #08: Eight for Aduba-3"
 }

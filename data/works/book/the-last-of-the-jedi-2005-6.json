@@ -1,0 +1,37 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "The Last of the Jedi: Return of the Dark Side",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "the-last-of-the-jedi-2005-1",
+    "the-last-of-the-jedi-2005-10",
+    "the-last-of-the-jedi-2005-2",
+    "the-last-of-the-jedi-2005-3",
+    "the-last-of-the-jedi-2005-4",
+    "the-last-of-the-jedi-2005-5",
+    "the-last-of-the-jedi-2005-7",
+    "the-last-of-the-jedi-2005-8",
+    "the-last-of-the-jedi-2005-9"
+  ],
+  "releaseDate": "2006-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-of-the-jedi-2005-6",
+  "synopsis": "Years ago, when they were both Jedi apprentices, Ferus Olin and Anakin Skywalker were rivals. Now their paths are about to cross again....\nAbandoning the Jedi Order saved Ferus's life. As a result, he is the only one who can track down and save Jedi who have survived the rise of the Galactic Empire. He has rebellion on his mind, and hopes to bring about the fall of the Emperor.\nOnly Darth Vader stands in his way. Ferus might not realize it, but his old rival is now his new deadly enemy.\nThe thrilling new series from the New York Times bestselling author of Jedi Apprentice and Jedi Quest'.",
+  "title": "The Last of the Jedi: Return of the Dark Side"
+}

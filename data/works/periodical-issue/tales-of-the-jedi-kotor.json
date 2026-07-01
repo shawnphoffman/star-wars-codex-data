@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi: Knights of the Old Republic",
+  "era": "oldRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -4000
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-kotor",
+  "synopsis": "Four thousand years before Luke Skywalker stood as the final Jedi, his predecessors wandered the universe, each playing his own role in keeping the peace and holding back the forces of the dark side. This 136-page collection focuses on Ulic Qel-Droma and Nomi Sunrider, two young novices training to become Jedi warriors. Their training, however, turns into a trial by fire when they prematurely have to face off against reigning crimelord Great Bogga, a Hutt who has killed one of the universe's most powerful Jedi Knights.",
+  "title": "Tales of the Jedi: Knights of the Old Republic"
+}

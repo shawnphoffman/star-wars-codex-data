@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Double Cross on Ord Mantell",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "double-cross-on-ord-mantell",
+  "synopsis": "\"Double Cross on Ord Mantell\" is a short story by Michael Mikaelian that originally appeared in Star Wars Galaxy Magazine 5. It was added to Hyperspace on October 15, 2004.",
   "title": "Double Cross on Ord Mantell"
 }

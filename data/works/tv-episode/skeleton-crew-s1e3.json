@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Watts",
+      "role": "writer",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "writer",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "David Lowery",
+      "role": "director",
+      "slug": "david-lowery"
+    }
+  ],
   "displayTitle": "Very Interesting, as an Astrogation Problem",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "skeleton-crew-season-1",
   "releaseDate": "2024-12-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-s1e3",
+  "synopsis": "A mysterious stranger offers to help our heroes.",
   "title": "Very Interesting, as an Astrogation Problem"
 }

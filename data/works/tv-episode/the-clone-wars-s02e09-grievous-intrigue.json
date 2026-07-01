@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Edlund",
+      "role": "writer",
+      "slug": "ben-edlund"
+    },
+    {
+      "name": "Giancarlo Volpe",
+      "role": "director",
+      "slug": "giancarlo-volpe"
+    }
+  ],
   "displayTitle": "Grievous Intrigue",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

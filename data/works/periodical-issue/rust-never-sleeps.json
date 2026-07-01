@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alan Moore",
+      "role": "writer",
+      "slug": "alan-moore"
+    }
+  ],
+  "displayTitle": "Rust Never Sleeps",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1982-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rust-never-sleeps",
+  "synopsis": "\"Rust Never Sleeps\" is a comic first published in The Empire Strikes Back Monthly 156, written by Alan Moore. It was later reprinted and colorized in Classic Star Wars: Devilworlds 2.",
+  "title": "Rust Never Sleeps"
+}

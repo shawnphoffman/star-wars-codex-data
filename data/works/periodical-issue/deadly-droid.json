@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "Deadly Droid",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-03-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "deadly-droid",
+  "synopsis": "A crucial meeting of the Galactic Senate draws dignitaries from all over the Republic&mdash;as well as those who would destroy them&hellip; A deadly droid threatens to disrupt the Council and damage the war effort in the new Star Wars: The Clone Wars comic strip adventure.",
+  "title": "Deadly Droid"
+}

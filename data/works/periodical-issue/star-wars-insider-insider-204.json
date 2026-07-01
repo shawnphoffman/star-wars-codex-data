@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #204",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-204",
+  "synopsis": "This issue of Star Wars Insider is spectacularly era-encompassing, from the first part of our exclusive interview with prequel producer Rick McCallum to our summary of the top ten life lessons we learned from The Rise of Skywalker (2019). We also speak to Bonnie Piesse, soon to reprise her role as Beru Lars for the upcoming Obi-Wan Kenobi series, about her experiences filming the prequels. And with the latest instalment [sic] of our exclusive The High Republic fiction from Justina Ireland, every day is Star Wars Day!",
   "title": "Insider #204"
 }

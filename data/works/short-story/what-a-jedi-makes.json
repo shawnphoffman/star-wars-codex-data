@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "artist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "What A Jedi Makes",
   "era": "highRepublic",
   "format": "shortStory",

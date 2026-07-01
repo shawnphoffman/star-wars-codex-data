@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "gamebook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Jedi Dawn (Lost Jedi Adventure Game Book)",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-dawn-lost-jedi-adventure-game-book",
+  "synopsis": "The Lost Jedi Adventure Game Book is a \"choose your own adventure\"&ndash;style roleplaying story, written by Paul Cockburn and published, in the United Kingdom only, by Boxtree in 1995. Collecting the individual books Jedi Dawn and The Bounty Hunter, each published in 1993, The Lost Jedi chronicles the adventures of Havet Storm, the lone surviving descendant of slain Jedi Morvet Storm.",
   "title": "Jedi Dawn (Lost Jedi Adventure Game Book)"
 }

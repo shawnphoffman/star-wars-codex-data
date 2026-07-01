@@ -1,12 +1,31 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jim Woodring",
+      "role": "writer",
+      "slug": "jim-woodring"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "artist",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Monty Sheldon",
+      "role": "artist",
+      "slug": "monty-sheldon"
+    }
+  ],
   "displayTitle": "War of the Bounty Hunters: Jabba the Hutt",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "war-of-the-bounty-hunters-jabba-the-hutt",
   "title": "War of the Bounty Hunters: Jabba the Hutt"
 }

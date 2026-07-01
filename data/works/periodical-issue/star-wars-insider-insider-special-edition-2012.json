@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2012",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2012",
+  "synopsis": "These 148 pages are packed with the very best interviews and features from Star Wars Insider, plus some all-new surprises! Discover amazing secrets about the movies! Delve into the Expanded Universe! Go behind the scenes on the groundbreaking series, Star Wars: The Clone Wars! Witness some of the wildest and coolest collectibles!",
   "title": "Insider - Special Edition 2012"
 }

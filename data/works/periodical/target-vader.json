@@ -1,12 +1,52 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "artist",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Cris Bolson",
+      "role": "artist",
+      "slug": "cris-bolson"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "artist",
+      "slug": "stefano-landini"
+    },
+    {
+      "name": "Roberto Di Salvo",
+      "role": "artist",
+      "slug": "roberto-di-salvo"
+    },
+    {
+      "name": "Marco Failla",
+      "role": "artist",
+      "slug": "marco-failla"
+    },
+    {
+      "name": "Georges Duarte",
+      "role": "artist",
+      "slug": "georges-duarte"
+    }
+  ],
   "displayTitle": "Target Vader",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-07-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "target-vader",
+  "synopsis": "Star Wars: Target Vader is a Marvel Comics miniseries focusing on the character Beilert Valance during his time as a bounty hunter. The series is written by Robbie Thompson with art by Marc Laming and was published starting July 2019.",
   "title": "Target Vader"
 }

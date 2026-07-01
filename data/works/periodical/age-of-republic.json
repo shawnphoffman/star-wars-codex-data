@@ -1,6 +1,24 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "artist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Cory Smith",
+      "role": "artist",
+      "slug": "cory-smith"
+    }
+  ],
   "displayTitle": "Age of Republic",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

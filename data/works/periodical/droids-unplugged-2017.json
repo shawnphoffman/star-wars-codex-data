@@ -1,6 +1,14 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    }
+  ],
   "displayTitle": "Droids Unplugged",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "droids-unplugged-2017",
+  "synopsis": "Collecting three stories featuring everyone's favorite droids! What adventures did the probe droids in The Phantom Menace get into when Darth Maul wasn't looking? Luke's got a mission for R2-D2! But can the astromech complete it in time? And all BB-8 wants is to help&hellip;two Resistance soldiers fall in love!",
   "title": "Droids Unplugged"
 }

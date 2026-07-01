@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Wind Raiders of Taloraan",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-wind-raiders",
+  "synopsis": "Jedi Knights Anakin and Obi-Wan, with Padawan Ahsoka, travel to the planet Taloraan in hopes of gaining some useful allies for the Galactic Republic. But the two ruling groups on the planet are not particularly interested in making a treaty - the Denfrandi are already more sympathetic toward the Separatists, and the Wind Raiders are simply unfriendly to everyone! It may be a merely impossible mission for the Jedi, or one that might end in disaster!",
   "title": "The Clone Wars: The Wind Raiders of Taloraan"
 }

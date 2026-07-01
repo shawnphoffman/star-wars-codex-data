@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Glove of Darth Vader",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-glove-of-darth-vader",
+  "synopsis": "The Death Star has been destroyed. The Empire is in ruins. But the Dark Side lives on. Luke Skywalker, Princess Leia, Han Solo, and the Rebel Alliance have fought valiantly against the evil Galactic Empire. Together they have kept alive the hopes for freedom, and helped restore the ways of the Old Republic with its wise Senate and noble line of Jedi Knights. But now a new threat awaits the Alliance. Within the evil Empire, the surviving Imperial warlords have been fighting among themselves for power. No one knows who will seize control, but the Prophets of the Dark Side have foretold that soon",
   "title": "The Glove of Darth Vader"
 }

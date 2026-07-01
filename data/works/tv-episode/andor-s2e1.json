@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tony Gilroy",
+      "role": "writer",
+      "slug": "tony-gilroy"
+    },
+    {
+      "name": "Ariel Kleiman",
+      "role": "director",
+      "slug": "ariel-kleiman"
+    }
+  ],
   "displayTitle": "One Year Later",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-s2",
   "releaseDate": "2025-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s2e1",
+  "synopsis": "An undercover mission. A sanctuary threatened. A Chandrilan wedding. A chilling Imperial plan.",
   "title": "One Year Later"
 }

@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels - Season 4",
+  "era": "ageOfRebellion",
   "format": "tvSeason",
   "inUniverseDate": {
     "endYear": -1,
@@ -11,5 +12,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebels-season-4",
+  "synopsis": "After a devastating battle on Atollon, the Ghost crew and the rebellion continue the fight against the Imperial Forces.",
   "title": "Rebels - Season 4"
 }

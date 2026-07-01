@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -19,6 +19,7 @@
     }
   ],
   "displayTitle": "The Truce at Bakura Sourcebook",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
@@ -27,5 +28,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-truce-at-bakura-sourcebook",
+  "synopsis": "The Official Guide to Kathy Tyers' Novel The Truce at Bakura Cold-blooded invaders from beyond known space; a desperate alliance with tattered Imperial forces; a fight for the survival of the Rebel Alliance itself! Kathy Tyers' exciting Star Wars novel comes to life in this hardcover sourcebook. The Truce at Bakura Sourcebook is the official reference companion to the best-selling novel!",
   "title": "The Truce at Bakura Sourcebook"
 }

@@ -1,12 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "artist",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "artist",
+      "slug": "chris-eliopoulos"
+    }
+  ],
   "displayTitle": "Vader Down",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-11-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "vader-down-2",
+  "synopsis": "Star Wars: Vader Down is a Marvel comic book crossover event. The six-issue run began with Vader Down 1 and continues in the comic series Star Wars and Star Wars: Darth Vader. Vader Down is considered the third story arc in the Star Wars series, and is written by Jason Aaron, author of Star Wars, and Kieron Gillen, author of Darth Vader. The crossover event brings together characters from both series as Darth Vader is forced to face off against the Rebel Alliance on his own.",
   "title": "Vader Down"
 }

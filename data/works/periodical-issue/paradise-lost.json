@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher Cooper",
+      "role": "writer",
+      "slug": "christopher-cooper"
+    }
+  ],
+  "displayTitle": "Paradise Lost",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "paradise-lost",
+  "synopsis": "\"Paradise Lost\" is a short comic story published in Star Wars: The Clone Wars Comic 6.52. It was also later released in the 21st edition of the Star Wars: The Clone Wars Magazine.",
+  "title": "Paradise Lost"
+}

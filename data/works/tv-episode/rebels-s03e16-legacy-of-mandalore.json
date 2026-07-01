@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Nicole Dubuc",
+      "role": "writer",
+      "slug": "nicole-dubuc"
+    }
+  ],
   "displayTitle": "Legacy Of Mandalore",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

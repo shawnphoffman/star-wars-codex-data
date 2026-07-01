@@ -1,12 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "artist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "artist",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "artist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "artist",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "artist",
+      "slug": "megan-levens"
+    }
+  ],
   "displayTitle": "Adventures: Ghosts of Vader's Castle",
   "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-09-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-adventures-ghosts-of-vaders-castle",
+  "synopsis": "Star Wars Adventures: Ghosts of Vader's Castle is a comic book miniseries published by IDW Publishing. A follow-up to the one-shot Star Wars Adventures: Shadow of Vader's Castle, the series, written by Cavan Scott, consists of five issues and follows up on the heroes of the earlier Vader's Castle miniseries. Francesco Francavilla illustrates the framing stories, which will focus on Vaneé, while Derek Charm, Megan Levens, Chris Fenoglio, and Robert Hack will also provide artwork.",
   "title": "Star Wars Adventures: Ghosts of Vader's Castle"
 }

@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
   "displayTitle": "The Rise of Skywalker (comics)",
+  "era": "riseOfTheFirstOrder",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel Comics",

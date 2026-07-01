@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heist",
+  "synopsis": "\"Heist\" is a short story written by Timothy Zahn that was published in Star Wars Insider 138. The story is a pre-Scoundrels story about Bink and Tavia.",
   "title": "Heist"
 }

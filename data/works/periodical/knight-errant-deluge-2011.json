@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "artist",
+      "slug": "ivan-rodriguez"
+    }
+  ],
   "displayTitle": "Knight Errant: Deluge",
+  "era": "oldRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-deluge-2011",
+  "synopsis": "In answer to a distress call, Kerra returns to her Sith-controlled homeworld for a daring rescue . . . but her arrival on the planet coincides with an ambush from a Hutt mastermind! The clash with his invasion and a number of other unexpected surprises place Kerra's small-scale rescue into a hot spot. She has to troubleshoot fast—and, as always, alone!",
   "title": "Knight Errant: Deluge"
 }

@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Luis Morocho",
+      "role": "artist",
+      "slug": "luis-morocho"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "artist",
+      "slug": "le-beau-underwood"
+    }
+  ],
   "displayTitle": "Hyperspace Stories: Tides of Terror",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-07-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "hyperspace-stories-tides-of-terror-2",
+  "synopsis": "Jedi Master Kit Fisto has been sent to the ocean planet Tordus, alongside Mace Windu and Shaak Ti, to investigate a controversial underwater research facility. The facility is in danger of flooding and being crushed into rubble, and if that's not enough, there are giant monsters circling them. With disaster looming, his diplomatic excursion quickly becomes a rescue mission! Kit Fisto and his fellow Jedi must race against the clock to save innocent lives from the hungry leviathans that fill the depths. This standalone story is full of murky intrigue and ancient abyssal nightmares. Can the Jedi ",
   "title": "Hyperspace Stories: Tides of Terror"
 }

@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "writer",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "The Dark Lord",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "maul-shadow-lord-s1e10",
+  "synopsis": "One last test, one last chance to escape and survive.",
   "title": "The Dark Lord"
 }

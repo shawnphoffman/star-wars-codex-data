@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    },
+    {
+      "name": "Gursimran Sandhu",
+      "role": "writer",
+      "slug": "gursimran-sandhu"
+    }
+  ],
   "displayTitle": "The Bad Batch S01E10: Common Ground",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

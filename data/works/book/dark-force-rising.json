@@ -1,6 +1,13 @@
 {
   "bookType": "adultNovel",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
   "displayTitle": "Dark Force Rising",
   "editions": [
     {

@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "artist",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Mark Morales",
+      "role": "artist",
+      "slug": "mark-morales"
+    }
+  ],
   "displayTitle": "The High Republic (2021)",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-2021",
+  "synopsis": "Star Wars: The High Republic: There is No Fear is the first story arc of Marvel Comics' ongoing 2021 series Star Wars: The High Republic. The arc began with the publication of the first issue in the series, released on January 6, 2021 and concluded with the release of the fifth issue on May 12, 2021.",
   "title": "The High Republic (2021)"
 }

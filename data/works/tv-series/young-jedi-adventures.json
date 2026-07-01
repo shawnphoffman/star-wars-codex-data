@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Olson",
+      "role": "showrunner",
+      "slug": "michael-olson"
+    }
+  ],
   "displayTitle": "Young Jedi Adventures",
   "era": "highRepublic",
   "format": "tvSeries",

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Fisher",
+      "role": "writer",
+      "slug": "martin-fisher"
+    }
+  ],
+  "displayTitle": "The Masked Racer",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-masked-racer",
+  "synopsis": "\"The Masked Racer\" is a comic story written by Martin Fisher featured in the third issue of Star Wars Comic magazine, released on March 6 2014. The story includes the characters Anakin Skywalker, Ahsoka Tano, and Drez Unlin.",
+  "title": "The Masked Racer"
+}

@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joby Harold",
+      "role": "writer",
+      "slug": "joby-harold"
+    },
+    {
+      "name": "Hannah Friedman",
+      "role": "writer",
+      "slug": "hannah-friedman"
+    },
+    {
+      "name": "Deborah Chow",
+      "role": "director",
+      "slug": "deborah-chow"
+    }
+  ],
   "displayTitle": "Part IV",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
@@ -8,5 +25,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-s1e4",
+  "synopsis": "Obi-Wan Kenobi plots a daring mission into enemy territory.",
   "title": "Part IV"
 }

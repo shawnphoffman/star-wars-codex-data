@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    }
+  ],
+  "displayTitle": "Dark Empire III: Empire's End",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 11
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-09-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire-iii",
+  "synopsis": "Emperor Palpatine has a new weapon&mdash;one that can annihilate a planet. But he's not targeting a planet&mdash;he's targeting the future of the Jedi, Leia's children. It looks like a hopeless situation for Luke Skywalker, who has the critical task of protecting the children. But it's not the first time Luke has found hope where none existed. The finale to the Dark Empire trilogy is collected here.",
+  "title": "Dark Empire III: Empire's End"
+}

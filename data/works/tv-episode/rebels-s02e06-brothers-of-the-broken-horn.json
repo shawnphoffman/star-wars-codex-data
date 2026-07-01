@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    }
+  ],
   "displayTitle": "Rebels S02E06: Brothers Of The Broken Horn",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

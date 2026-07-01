@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #38",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-38",
+  "synopsis": "Star Wars Insider 38 is the thirty-eighth issue of Star Wars Insider magazine. It was published in June/July 1998. This issue is notable as the first issue in which regular writer Scott Chernoff became Managing Editor.",
   "title": "Insider #38"
 }

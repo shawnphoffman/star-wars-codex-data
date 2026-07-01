@@ -1,10 +1,29 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Filoni",
+      "role": "showrunner",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Jennifer Muro",
+      "role": "showrunner",
+      "slug": "jennifer-muro"
+    },
+    {
+      "name": "Nicole Dubuc",
+      "role": "showrunner",
+      "slug": "nicole-dubuc"
+    }
+  ],
   "displayTitle": "Forces of Destiny",
+  "era": "multiEra",
   "format": "tvSeries",
   "releaseDate": "2017-07-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "forces-of-destiny",
+  "synopsis": "An animated micro-series starring Rey, Jyn Erso, Princess Leia, Ahsoka Tano, and more. Small moments and everyday decisions shape a larger heroic saga.",
   "title": "Forces of Destiny"
 }

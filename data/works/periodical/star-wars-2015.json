@@ -1,12 +1,86 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Star Wars",
+      "role": "writer",
+      "slug": "star-wars"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "writer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Star Wars Annual",
+      "role": "writer",
+      "slug": "star-wars-annual"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Simone Bianchi",
+      "role": "artist",
+      "slug": "simone-bianchi"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "artist",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "artist",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Andrea Sorrentino",
+      "role": "artist",
+      "slug": "andrea-sorrentino"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "artist",
+      "slug": "phil-noto"
+    }
+  ],
   "displayTitle": "Star Wars (2015)",
   "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2015-01-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-2015",
   "title": "Star Wars (2015)"
 }

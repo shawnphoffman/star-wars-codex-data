@@ -1,7 +1,15 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
+    }
+  ],
   "displayTitle": "To Save Deej",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
@@ -10,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "to-save-deej",
+  "synopsis": "To Save Deej was a children's book based on the Ewoks animated series episode of the same name. Published by Dragon Picture Books in the UK in September 1987, the book was illustrated with images from the episode. The title on the book reads \"2. To Save Deej,\" indicating it is the second book in the series.",
   "title": "To Save Deej"
 }

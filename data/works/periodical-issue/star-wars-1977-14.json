@@ -8,6 +8,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #14: The Sound of Armageddon",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
@@ -20,5 +21,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-14",
+  "synopsis": "Space pirates are using a sonic jammer to take down any and all ships, whether they're Rebel or Imperial!",
   "title": "Star Wars (1977) #14: The Sound of Armageddon"
 }

@@ -1,6 +1,13 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    }
+  ],
   "displayTitle": "Tales of the Bounty Hunters",
   "format": "book",
   "inUniverseDate": {
@@ -10,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-bounty-hunters",
+  "synopsis": "In a wild and battle-scarred galaxy, assassins, pirates, smugglers, and cutthroats of every description roam at will, fearing only the professional bounty hunters—amoral adventurers who track down the scum of the universe&hellip;for a fee. When Darth Vader seeks to strike at the heart of the Rebellion by targeting Han Solo and the Millennium Falcon, he calls upon six of the most successful—and feared—hunters, including the merciless Boba Fett. They all have two things in common: lust for profit and contempt for life.&hellip; Featuring original stories by Kevin J. Anderson, M. Shayne Bell, Dani",
   "title": "Tales of the Bounty Hunters"
 }

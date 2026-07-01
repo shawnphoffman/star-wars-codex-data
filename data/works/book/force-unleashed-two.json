@@ -9,6 +9,13 @@
     }
   ],
   "displayTitle": "The Force Unleashed II Graphic Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781595825537"
+    }
+  ],
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
@@ -17,5 +24,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-unleashed-two",
+  "synopsis": "Expands the second game's story - treachery, deception, and manipulation of the Force as the Emperor and Vader execute their plans before galactic civil war; centers on Starkiller's continued story. (Distinct from the Sean Williams prose novelization.)",
   "title": "The Force Unleashed II Graphic Novel"
 }

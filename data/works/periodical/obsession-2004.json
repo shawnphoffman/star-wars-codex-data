@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "artist",
+      "slug": "brian-ching"
+    }
+  ],
   "displayTitle": "Obsession",
+  "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obsession-2004",
+  "synopsis": "Star Wars: Obsession is a series of comics published by Dark Horse Comics. It ran from November 24, 2004 to May 18, 2005. The concept of the series was to lead directly into Episode III, but publication delays prolonged the release of the final issue until the day before the release of the film.",
   "title": "Obsession"
 }

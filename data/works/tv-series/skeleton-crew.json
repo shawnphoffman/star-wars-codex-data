@@ -1,6 +1,34 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stuart Kiczek",
+      "role": "writer",
+      "slug": "stuart-kiczek"
+    },
+    {
+      "name": "Joshua R. Pangborn",
+      "role": "writer",
+      "slug": "joshua-r-pangborn"
+    },
+    {
+      "name": "Stuart Kiczek",
+      "role": "director",
+      "slug": "stuart-kiczek"
+    },
+    {
+      "name": "Joshua R. Pangborn",
+      "role": "director",
+      "slug": "joshua-r-pangborn"
+    },
+    {
+      "name": "Ashley Monique Menard",
+      "role": "director",
+      "slug": "ashley-monique-menard"
+    }
+  ],
   "displayTitle": "Skeleton Crew",
+  "era": "newRepublic",
   "format": "tvSeries",
   "inUniverseDate": {
     "startYear": 9

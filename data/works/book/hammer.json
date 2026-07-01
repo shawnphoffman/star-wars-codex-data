@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -17,5 +17,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hammer",
+  "synopsis": "\"Hammer\" is a short story by Edward M. Erdelac that was released in Star Wars Insider 147.",
   "title": "Hammer"
 }

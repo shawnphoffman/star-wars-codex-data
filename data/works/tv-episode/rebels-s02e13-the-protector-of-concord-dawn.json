@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Melchior Zwyer",
+      "role": "director",
+      "slug": "melchior-zwyer"
+    },
+    {
+      "name": "Bill Wolkoff",
+      "role": "writer",
+      "slug": "bill-wolkoff"
+    }
+  ],
   "displayTitle": "The Protector Of Concord Dawn",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Crucible",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 45
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crucible",
+  "synopsis": "Han Solo, Luke Skywalker, and Princess Leia have spent a lifetime fighting wars, bringing the Jedi back from extinction, raising families, and saving the galaxy more times than they can count. They've earned the right to rest on their laurels and let the younger generation shoulder the burden--but fate has another adventure in store for our heroes, a quest only they can tackle and hope to survive...",
   "title": "Crucible"
 }

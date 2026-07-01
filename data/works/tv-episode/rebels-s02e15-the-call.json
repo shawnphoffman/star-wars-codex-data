@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "The Call",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

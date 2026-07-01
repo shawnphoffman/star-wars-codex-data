@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Soo Lee",
+      "role": "artist",
+      "slug": "soo-lee"
+    }
+  ],
   "displayTitle": "Tales From the Nightlands #1",
   "era": "highRepublic",
   "format": "periodicalIssue",
@@ -11,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands-1",
+  "synopsis": "On Ryloth, Twi'leks whisper about the Nightlands, the realm where their spirits retire after death. Legend says that on nights when the veil is thinnest, you can speak with the shades who reside there.\nOn one such night, Anakin Skywalker and his Twi'lek friend Daesha try to summon the ghost of a much-loved relative for a final goodbye. But when Anakin makes contact with the Nightlands, the answer is anything but friendly&hellip;\nEnter: The Nightlander, a Star Wars boogeyman that seeks to possess a living host and bring chaos to the galaxy!",
   "title": "Star Wars: Tales From the Nightlands #1"
 }

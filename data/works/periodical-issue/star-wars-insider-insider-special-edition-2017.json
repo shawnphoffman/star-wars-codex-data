@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2017",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-11-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-special-edition-2017",
+  "synopsis": "The eighth volume of Star Wars Insider's yearly collections of material includes classic features including interviews with actor John Boyega (Finn in Star Wars: Episode VII The Force Awakens) and writer Lawrence Kasdan (Star Wars: Episode VII The Force Awakens) alongside all-new material exclusive to this collection!",
   "title": "Insider - Special Edition 2017"
 }

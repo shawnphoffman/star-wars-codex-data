@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Arkin",
+      "role": "writer",
+      "slug": "daniel-arkin"
+    },
+    {
+      "name": "Kyle Dunlevy",
+      "role": "director",
+      "slug": "kyle-dunlevy"
+    }
+  ],
   "displayTitle": "Heroes on Both Sides",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

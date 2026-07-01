@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #102",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2008-06-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-102",
+  "synopsis": "Star Wars Insider 102, the creature special, is the 102nd issue of the Star Wars Insider magazine, and the 10th issue to be published by Titan Magazines.",
   "title": "Insider #102"
 }

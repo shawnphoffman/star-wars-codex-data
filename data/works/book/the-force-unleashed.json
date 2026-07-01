@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Force Unleashed",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-force-unleashed",
+  "synopsis": "\"The Sith always betray one another....I'm sure you'll learn that soon enough.\" The overthrow of the Republic is complete. The Separatist forces have been smashed, the Jedi Council nearly decimated, and the rest of the Order all but destroyed. Now absolute power rests in the iron fist of Darth Sidious&mdash;the cunning Sith Lord better known as the former Senator, now Emperor, Palpatine. But more remains to be done. Pockets of resistance in the galaxy must still be defeated and missing Jedi accounted for&hellip;and dealt with. These crucial tasks fall to the Emperor's ruthless enforcer, Darth ",
   "title": "The Force Unleashed"
 }

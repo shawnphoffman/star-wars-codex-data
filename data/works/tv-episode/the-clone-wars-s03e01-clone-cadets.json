@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cameron Litvack",
+      "role": "writer",
+      "slug": "cameron-litvack"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Clone Wars S03E01: Clone Cadets",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

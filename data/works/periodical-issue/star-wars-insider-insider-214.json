@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #214",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-214",
+  "synopsis": "Darth Vader is probably the angriest character in any science fiction and fantasy franchise. Would a few anger management sessions have helped? Too little, too late? After all, the flaws in his temperament were brewing even when he was going by the name of Anakin Skywalker and getting into fights with young Rodians on Tatooine. In this issue of Star Wars Insider, we'll examine what we thought we knew about Darth Vader through the lens of the character's deeds in the Kenobi series, take a wider look at the events of the show in general, and discuss the perils of being chosen to train as a Jedi in the first place.\nPlus, we discover how much fun it can be to play a Jawa in a Star Wars production; speak to Jim Swearingen, the design guru behind Kenner's original toy range; and return to The High Republic with all-new short fiction from George Mann.",
   "title": "Insider #214"
 }

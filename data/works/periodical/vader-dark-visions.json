@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dennis Hallum",
+      "role": "writer",
+      "slug": "dennis-hallum"
+    },
+    {
+      "name": "Stephen Mooney",
+      "role": "artist",
+      "slug": "stephen-mooney"
+    }
+  ],
   "displayTitle": "Vader: Dark Visions",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-05-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "vader-dark-visions",
+  "synopsis": "NEVER MESS WITH THE BEST! We all know DARTH VADER as THE EMPEROR'S iron fist, but as any rebel can tell you, he's also a terror in a TIE Fighter. What does it feel like in that X-WING cockpit when you're nose-to-nose with the EMPIRE'S deadliest pilot? Will you even live to tell the tale, hotshot?",
   "title": "Vader: Dark Visions"
 }

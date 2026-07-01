@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Tamara Becher",
+      "role": "writer",
+      "slug": "tamara-becher"
+    }
+  ],
   "displayTitle": "Devil's Deal",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",

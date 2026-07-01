@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #187",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-02-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-187",
+  "synopsis": "The latest news, in-depth features, and exclusive interviews for Star Wars fans! Continue the year-long countdown to Skywalker Saga's finale, as we tackle the tumultuous events of Star Wars: Attack of the Clones. With the return of Star Wars: The Clone Wars on the horizon, we profile famous clone troopers, and ask what went wrong for the Jedi Knights as the Republic came crashing down.",
   "title": "Insider #187"
 }

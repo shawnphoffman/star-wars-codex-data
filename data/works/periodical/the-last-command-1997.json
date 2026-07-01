@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "artist",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Eric Shanower",
+      "role": "artist",
+      "slug": "eric-shanower"
+    }
+  ],
   "displayTitle": "The Last Command",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-command-1997",
+  "synopsis": "Heir to the Empire was a number-one New York Times bestseller and the science-fiction publishing event of the year. Dark Force Rising continued the gripping new adventures of Luke Skywalker, Princess Leia, Han Solo, and the other heroes of the most popular trilogy in movie history. Now the saga concludes with The Last Command, the climactic volume of a three-book cycle authorized by Lucasfilm and written by Hugo Award&ndash;winning author Timothy Zahn.\nIt is five years after the events of Return of the Jedi. The fragile New Republic reels from the attacks of Grand Admiral Thrawn, who has not only rallied the remaining Imperial forces but has driven the rebels back with an abominable new technology: clone soldiers.\nHopes are dim as Thrawn mounts a final siege against the Republic. While Han and Chewbacca struggle to form a wary alliance of smugglers in a last-ditch attack against the Empire, Leia keeps the Alliance together and prepares for the birth of her Jedi twins. But the Empire has too many ships and too many clones to combat. The Republic's only hope lies in sending a small force, led by Luke, into the very stronghold that houses Thrawn's terrible cloning machines.\nThere a final danger awaits. The Dark Jedi C'baoth schemes in his secret fortress, directing the battle against the rebels, nursing his insanity, and building his strength to finish what he had already started&mdash;the destruction of Luke Skywalker.\nAn odyssey of fast-paced action, stunning revelation, and f",
   "title": "The Last Command"
 }

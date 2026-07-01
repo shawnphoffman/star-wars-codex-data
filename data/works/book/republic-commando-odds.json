@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Republic Commando: Odds",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -21
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-commando-odds",
+  "synopsis": "\"Odds\" is a short story which appeared in Star Wars Insider 87, written by Karen Traviss and illustrated by Robert Hendrickson. It is set 65 to 67 standard days after the end of Republic Commando: Triple Zero, 460 standard days after the First Battle of Geonosis, and features Mereel, Atin, Kal Skirata, and Prudii. It was reprinted as a bonus story in Republic Commando: True Colors, under the extended title of \"Republic Commando: Odds\".",
   "title": "Republic Commando: Odds"
 }

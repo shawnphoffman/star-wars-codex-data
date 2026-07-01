@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tom Veitch",
+      "role": "writer",
+      "slug": "tom-veitch"
+    },
+    {
+      "name": "Mike Beidler",
+      "role": "writer",
+      "slug": "mike-beidler"
+    },
+    {
+      "name": "Jim Baikie",
+      "role": "artist",
+      "slug": "jim-baikie"
+    }
+  ],
   "displayTitle": "Empire's End",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-s-end-1995",
+  "synopsis": "Emperor Palpatine has a new weapon&mdash;one that can annihilate a planet. But he's not targeting a planet&mdash;he's targeting the future of the Jedi, Leia's children. It looks like a hopeless situation for Luke Skywalker, who has the critical task of protecting the children. But it's not the first time Luke has found hope where none existed. The finale to the Dark Empire trilogy is collected here.",
   "title": "Empire's End"
 }

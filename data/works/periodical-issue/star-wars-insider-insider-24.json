@@ -1,13 +1,17 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #24",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "pageCount": 67,
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1994-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-24",
+  "synopsis": "Star Wars Insider 24 is the twenty-fourth issue of Star Wars Insider magazine. It was published in December 1994.",
   "title": "Insider #24"
 }

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #141",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-141",
+  "synopsis": "As the big anniversary of 30 years of Return of the Jedi approaches, Insider takes an exclusive look behind the scenes with rare images and unseen poster art. We'll be taking cover as we countdown 10 Star Wars shoot-outs you won't want to miss! We'll also be looking back at the early years of Marvel Comics' series as we continue our profiles exploring the creators who took the saga beyond the movies.",
   "title": "Insider #141"
 }

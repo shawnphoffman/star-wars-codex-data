@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Or Die Trying",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "or-die-trying",
+  "synopsis": "\"Or Die Trying\" is a short story by Sean Williams and Shane Dix that features the Jedi Knight Jaina Solo infiltrating the headquarters of Onadax Droid Technologies on the planet Onadax. The company has manufactured a Human replica droid (HRD) that betrayed the citizens of Bakura, and Solo hopes to bring them to justice for the crimes committed by their clients. She confronts an HRD named Stanton Rendar and engages him in a discussion regarding the moral implications of immortality and near-invincibility, but ultimately remains firm in her convictions and prepares to apprehend him. Rendar loose",
   "title": "Or Die Trying"
 }

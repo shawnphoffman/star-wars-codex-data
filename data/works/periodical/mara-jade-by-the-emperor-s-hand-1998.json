@@ -1,6 +1,24 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Carlos Ezquerra",
+      "role": "artist",
+      "slug": "carlos-ezquerra"
+    }
+  ],
   "displayTitle": "Mara Jade: By the Emperor's Hand",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +27,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "mara-jade-by-the-emperor-s-hand-1998",
+  "synopsis": "Star Wars: Mara Jade – By the Emperor's Hand was a six-issue series of comics published between 1998 and 1999.",
   "title": "Mara Jade: By the Emperor's Hand"
 }

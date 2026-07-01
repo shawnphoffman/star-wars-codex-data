@@ -1,0 +1,47 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Caitlin Kennedy",
+      "role": "writer",
+      "slug": "caitlin-kennedy"
+    }
+  ],
+  "displayTitle": "C-3PO Does NOT Like Sand!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368043461"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368043465"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368043461",
+      "isbn13": "9781368043465",
+      "kind": "print",
+      "onsale": "2019-06-04T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-06-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "c-3po-does-not-like-sand",
+  "synopsis": "The protocol droid C-3PO struggles to navigate his latest mission through the unbearable sands of Tatooine while his fellow droids, R2-D2 and BB-8, choose fun over focusing on finishing the mission.",
+  "title": "C-3PO Does NOT Like Sand!"
+}

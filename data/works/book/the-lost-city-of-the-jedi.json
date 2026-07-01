@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "The Lost City of the Jedi",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-lost-city-of-the-jedi",
+  "synopsis": "Trioculus has assumed power. The Empire has been reborn. And a young Jedi is about to be discovered. The battle to defeat the forces of the evil Galactic Empire rages on. Throughout the vastness of space, heroic men, women, and aliens of the Rebel Alliance fight valiantly to keep alive the hopes for freedom and to restore the ways of the Old Republic with its wise Senate and noble line of Jedi Knights. But now a sinister plot is about to befall the Alliance. Having secured the glove of Darth Vader, Trioculus receives a warning that a Jedi Prince will be a threat to his reign and must be destro",
   "title": "The Lost City of the Jedi"
 }

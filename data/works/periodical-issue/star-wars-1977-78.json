@@ -13,6 +13,7 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #78: Hoth Stuff!",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
@@ -25,5 +26,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-1977-78",
+  "synopsis": "A flashback sequence involving an old friend of Luke's from the planet of ice, Hoth.",
   "title": "Star Wars (1977) #78: Hoth Stuff!"
 }

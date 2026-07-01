@@ -1,12 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "artist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Ornella Savarese",
+      "role": "artist",
+      "slug": "ornella-savarese"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: The Nameless Terror",
   "era": "highRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2023-02-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-high-republic-adventures-the-nameless-terror",
+  "synopsis": "Star Wars: The High Republic Adventures – The Nameless Terror is a comic miniseries that published as part of Phase II of the Star Wars: The High Republic multimedia project. The series was written by George Mann and published by Dark Horse Comics.",
   "title": "The High Republic Adventures: The Nameless Terror"
 }

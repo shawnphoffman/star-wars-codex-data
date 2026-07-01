@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Planet of Twilight",
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 13
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "planet-of-twilight",
+  "synopsis": "Nam Chorios is a barren backwater world&mdash;once a dreaded prison colony, now home to a fanatic religious cult. It is here that Princess Leia has been taken captive by a ruthless and charismatic warlord bent on destroying the New Republic. Meanwhile, Luke lands on a mysterious planet in search of his lost love, Callista, only to discover the Force is his own worst enemy. But worst of all, as Han, Chewie, and Lando leave Coruscant on a desperate rescue mission, a strange life-form, unlike any the galaxy has ever seen, awakens...a life-form so malevolent it will destroy everything&mdash;both E",
   "title": "Planet of Twilight"
 }

@@ -1,12 +1,92 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "artist",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Natacha Bustos",
+      "role": "artist",
+      "slug": "natacha-bustos"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "artist",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "artist",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "artist",
+      "slug": "raffaele-ienco"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "artist",
+      "slug": "minkyu-jung"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "artist",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "artist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "artist",
+      "slug": "guiu-vilanova"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "artist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "artist",
+      "slug": "victor-olazaba"
+    }
+  ],
   "displayTitle": "Crimson Reign",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-12-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "crimson-reign",
+  "synopsis": "Star Wars: Crimson Reign is a canon comic-book miniseries and crossover event created by Marvel Comics. It is written by Charles Soule and drawn by Steven Cummings. The story focuses on Crimson Dawn and Qi'ra after the events of Star Wars: War of the Bounty Hunters. The five-part series began publication on December 8, 2021. The series concluded 6 months later in June of 2022",
   "title": "Crimson Reign"
 }

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    },
+    {
+      "name": "Ezra W. Nachman",
+      "role": "writer",
+      "slug": "ezra-w-nachman"
+    }
+  ],
   "displayTitle": "Juggernaut",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-three",
   "releaseDate": "2024-04-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s3e12",
+  "synopsis": "While seeking an unexpected source, the Batch must make a daring escape.",
   "title": "Juggernaut"
 }

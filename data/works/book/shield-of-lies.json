@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Shield of Lies",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 16
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shield-of-lies",
+  "synopsis": "The New Republic's triumph grows ever more precarious in the face of an arrogant race bent on war, as the bestselling Star Wars saga continues.... As Leia must deal with a new threat to the fragile alliance that binds the New Republic, Lando becomes a prisoner aboard a runaway spacecraft of unknown origin. Luke continues his quest to learn more about his mother among the Fallanassi, where his every belief about the use of the Force is about to be challenged. And while Leia ponders a diplomatic solution to the aggression of the fierce Yevetha race, Han pilots a spy ship into the heart of Yeveth",
   "title": "Shield of Lies"
 }

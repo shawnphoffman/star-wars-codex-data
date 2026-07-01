@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
+  "displayTitle": "Jedi: Yoda",
+  "era": "fallOfTheJedi",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2004-07-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-yoda",
+  "synopsis": "He is arguably the most respected Jedi Master of all time, but even the great Yoda cannot predict or control the outcome of every situation. As the violence of the Clone Wars spreads across the galaxy, Yoda is called upon to lead a clone army against the forces of a king who befriended him two hundred years before. Seeking a peaceful resolution by following the Force, Yoda is hampered by suicidal enemy soldiers, hot-headed young Jedi, single-minded Clone Commanders, and by the unwavering beliefs held by his one-time friend. It's the diminutive Jedi's most dangerous mission yet&mdash;where a si",
+  "title": "Jedi: Yoda"
+}

@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #47",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2000-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-47",
+  "synopsis": "Star Wars Insider 47 is the forty-seventh issue of Star Wars Insider magazine. It was published in January 2000. Issue 47 featured the first \"flesh and blood\" image of Star Wars Legends character Mara Jade, as portrayed by model Shannon McRandle for Decipher's Star Wars Customizable Card Game.",
   "title": "Insider #47"
 }

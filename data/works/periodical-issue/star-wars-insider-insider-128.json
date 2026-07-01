@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #128",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-128",
+  "synopsis": "To celebrate the arrival of Star Wars on Blu-ray, this issue ships with 3 collectable covers and contains a complete guide to the Saga in High Definition! We take an in-depth look at the bonus content, the making of the special features and where to begin your Blu-Ray saga. Plus, Fanboys director Kyle Newman shares with us his love of The Phantom Menace!",
   "title": "Insider #128"
 }

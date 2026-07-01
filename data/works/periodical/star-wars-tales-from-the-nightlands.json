@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "Tales From the Nightlands",
   "era": "multiEra",
   "format": "periodical",
@@ -11,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands",
+  "synopsis": "Cavan Scott, Star Wars master of the macabre, conjures an all-new Halloween special from a galaxy far, far away in this original graphic novel. Contained herein is a trio of terrifying tales that span the Skywalker saga! On the planet Ryloth, Twi’leks speak in hushed tones about the Nightlands, the spectral realm where their spirits retire after death. According to legend, there are certain nights when the veil between that haunted place and the land of the living is so thin that one can communicate with the other side. It was on one such night that young Padawan Anakin Skywalker, while visiti",
   "title": "Star Wars: Tales From the Nightlands"
 }

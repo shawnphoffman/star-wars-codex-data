@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Restraint",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -39
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "restraint",
+  "synopsis": "\"Restraint\" is a short story written by James Luceno. It was published in the second edition of Darth Maul: Shadow Hunter which was published by Del Rey in December 27, 2011. It features Darth Maul, Talzin, Meltch Krakko, Trezza, and Palpatine. It helped connect major changes in Maul's and Asajj Ventress's origins that were introduced in the third season of Star Wars: The Clone Wars.",
   "title": "Restraint"
 }

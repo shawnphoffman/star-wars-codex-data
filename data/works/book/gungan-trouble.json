@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Gungan Trouble!",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "gungan-trouble",
+  "synopsis": "The Gungans' underwater world is in danger. The Trade Federation is about to attack. Boss Nass must lead the Gungans' escape.",
   "title": "Gungan Trouble!"
 }

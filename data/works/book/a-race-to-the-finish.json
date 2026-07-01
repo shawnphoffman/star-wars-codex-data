@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,13 +14,15 @@
     }
   ],
   "displayTitle": "A Race to the Finish",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
-  "releaseDate": "1995-06-09T00:00:00.000Z",
+  "releaseDate": "1987-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-race-to-the-finish",
+  "synopsis": "C-3PO, R2-D2, Thall Joben, Kea Moll and Jord Dusat head to the Boonta Speeder Race in the Sand Sloth; villains Tig and Vlix plant a thermal detonator on the White Witch timed to detonate on the tenth lap.",
   "title": "A Race to the Finish"
 }

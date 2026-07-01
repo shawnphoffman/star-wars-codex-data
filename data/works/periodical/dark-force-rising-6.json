@@ -1,11 +1,32 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "artist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Kevin Nowlan",
+      "role": "artist",
+      "slug": "kevin-nowlan"
+    }
+  ],
   "displayTitle": "Dark Force Rising",
+  "era": "newRepublic",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1992-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-force-rising-6",
+  "synopsis": "The number-one New York Times bestselling Heir to the Empire was the publishing event of the year, the first novel to continue the adventures of Luke Skywalker, Princess Leia, and Han Solo, beyond the events of the most popular trilogy in movie history. Now comes Dark Force Rising, the second volume of a three-book cycle authorized by Lucasfilm and written by Hugo Award&ndash;winning author Timothy Zahn.\nFive years after the events of Return of the Jedi, the fragile Republic that was born with the defeat of Darth Vader, the Emperor, and the infamous Death Star stands threatened from within and without. The dying Empire's most cunning and ruthless warlord&mdash;Grand Admiral Thrawn&mdash;has taken command of the remnants of the Imperial fleet and launched a massive campaign aimed at the Republic's destruction. With the aid of unimaginable weapons long hidden away by the Emperor on a backwater planet, Thrawn plans to turn the tide of the battle, overwhelm the New Republic, and impose his iron rule throughout the galaxy.\nMeanwhile, dissension and personal ambition threaten to tear the Republic apart. As Princess Leia&mdash;pregnant with Jedi twins&mdash;risks her life to bring a proud and lethal alien race into alliance with the Republic, Han and Lando Calrissian race against time to find proof of treason inside the highest Republic Council&mdash;only to discover instead a ghostly fleet of warships that could bring doom to their friends and victory to their enemies.\nBut most dan",
   "title": "Dark Force Rising"
 }

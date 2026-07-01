@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Katie Kaniewski",
+      "role": "writer",
+      "slug": "katie-kaniewski"
+    },
+    {
+      "name": "Shellie Kvilvang",
+      "role": "director",
+      "slug": "shellie-kvilvang"
+    },
+    {
+      "name": "Casey Love",
+      "role": "director",
+      "slug": "casey-love"
+    },
+    {
+      "name": "Christian Streaty",
+      "role": "writer",
+      "slug": "christian-streaty"
+    }
+  ],
   "displayTitle": "The New Droid Friends",
   "era": "highRepublic",
   "format": "tvEpisode",
@@ -8,5 +30,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-s3e1",
+  "synopsis": "The Jedi recover a stolen part from a troublemaking droidsmith; Kai loses a package on Batuu.",
   "title": "The New Droid Friends"
 }

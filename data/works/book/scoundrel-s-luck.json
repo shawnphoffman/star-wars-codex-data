@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "gamebook",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Scoundrel's Luck",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "scoundrel-s-luck",
+  "synopsis": "It started as a simple planetfall on Ord Mantell for some rest and relaxation. Han wanted to gamble his reward money into a sum large enough to pay off Jabba the Hutt. Leia preferred more sophisticated entertainment. But now the princess is missing, and a knee-high Droid is challenging the smuggler to a transgalactic race—with Leia's life as the prize! What will Han do? Han Solo—mercenary smuggler, reluctant hero, and pilot extraordinaire—stars in this fast-paced tale of quick wits and tough decisions. You'll chose his best options and fight his opponents. Sometimes logic is your best tool as ",
   "title": "Scoundrel's Luck"
 }

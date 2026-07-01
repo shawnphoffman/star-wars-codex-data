@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #193",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2019-10-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-193",
+  "synopsis": "Our ongoing journey through the Skywalker Saga reaches its penultimate chapter! Plus: visit Ahch-To, as we make the trip to the real-life filming locations in Ireland. Discover the Secret Life of Porgs, as we find out more about their biology and how they were created for the movie. Learn the history behind some of the galaxy's more exotic names, and how you can create your own. And separate the truths from the white lies of the Star Wars universe in a special fact-or-fiction file!",
   "title": "Insider #193"
 }

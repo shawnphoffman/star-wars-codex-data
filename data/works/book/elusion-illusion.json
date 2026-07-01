@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "shortStory",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Elusion Illusion",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "elusion-illusion",
+  "synopsis": "\"Elusion Illusion\" is a short story written by Michael A. Stackpole, available in Star Wars Insider 66, Star Wars Magazine UK 54, and on Hyperspace. It chronicles the Mission to Corellia, seven days after the First Battle of Geonosis.",
   "title": "Elusion Illusion"
 }

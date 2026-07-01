@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Holocron Heist",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-the-holocron-heist",
+  "synopsis": "The ruthless bounty hunter Cad Bane infiltrates the Jedi Temple and attempts to steal the Order's most guarded secret. It's up to Anakin and Ahsoka to stop Bane before he can use the secret to bring an end to the Jedi forever.",
   "title": "The Clone Wars: The Holocron Heist"
 }

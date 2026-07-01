@@ -1,6 +1,34 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "Max Fiumara",
+      "role": "artist",
+      "slug": "max-fiumara"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "artist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "artist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Gerry Alanguilan",
+      "role": "artist",
+      "slug": "gerry-alanguilan"
+    }
+  ],
   "displayTitle": "Darth Vader (2015)",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"

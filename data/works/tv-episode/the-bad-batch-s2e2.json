@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Gina Lucita Monreal",
+      "role": "writer",
+      "slug": "gina-lucita-monreal"
+    }
+  ],
   "displayTitle": "Ruins of War",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-01-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e2",
+  "synopsis": "The Batch must decide who to trust as they plan their escape.",
   "title": "Ruins of War"
 }

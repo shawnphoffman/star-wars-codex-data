@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Danny Keller",
+      "role": "director",
+      "slug": "danny-keller"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    }
+  ],
   "displayTitle": "Escape from Kadavo",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

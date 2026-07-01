@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Brooke Roberts",
+      "role": "writer",
+      "slug": "brooke-roberts"
+    }
+  ],
   "displayTitle": "The Crossing",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "the-bad-batch-season-two",
   "releaseDate": "2023-02-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s2e9",
+  "synopsis": "The team tackles a risky mission on a hostile world.",
   "title": "The Crossing"
 }

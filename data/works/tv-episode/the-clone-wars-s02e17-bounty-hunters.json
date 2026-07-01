@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Carl Ellsworth",
+      "role": "writer",
+      "slug": "carl-ellsworth"
+    },
+    {
+      "name": "Steward Lee",
+      "role": "director",
+      "slug": "steward-lee"
+    }
+  ],
   "displayTitle": "The Clone Wars S02E17: Bounty Hunters",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

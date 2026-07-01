@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #126",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-06-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-126",
+  "synopsis": "This issue, Star Wars Insider tells you exclusively why Star Wars: The Old Republic will rock your galaxy! Star Tours, creating the trip of a lifetime. Plus, the Star Wars Blu-rays special features revealed!",
   "title": "Insider #126"
 }

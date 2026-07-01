@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -14,6 +14,7 @@
     }
   ],
   "displayTitle": "Force Heretic III: Reunion",
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
@@ -22,5 +23,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-heretic-iii-reunion",
+  "synopsis": "The Jedi move one step closer to saving the embattled galaxy&mdash;only to confront a formidable wall of resistance&hellip; The harrowing search for Zonama Sekot is finally over for Luke Skywalker, Jacen Solo, and the others aboard the Jade Shadow. But joy turns to alarm when the living planet sends a defiant message: it refuses to follow them back to a galaxy full of war, exploitation, and misery. While Luke works feverishly to persuade the elusive planet to reconsider, the Yuuzhan Vong launch a full-scale attack aimed at the heart of the new alliance. Sent to defend a major communications ba",
   "title": "Force Heretic III: Reunion"
 }

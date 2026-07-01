@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rob Coleman",
+      "role": "director",
+      "slug": "rob-coleman"
+    },
+    {
+      "name": "George Krstic",
+      "role": "writer",
+      "slug": "george-krstic"
+    }
+  ],
   "displayTitle": "Downfall of a Droid",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

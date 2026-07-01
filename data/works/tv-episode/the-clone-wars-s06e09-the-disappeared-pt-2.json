@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "The Disappeared pt 2",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",

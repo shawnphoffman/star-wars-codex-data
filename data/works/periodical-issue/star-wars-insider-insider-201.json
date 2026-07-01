@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #201",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2021-03-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-201",
+  "synopsis": "Fresh from the celebratory awesomeness of #200, we have some real treats in store for you in #201! This issue includes the first part of an all-new Star Wars: The High Republic short story from Cavan Scott! We begin our two-part guide to the first season of Star Wars: The Mandalorian &ndash; packed with fascinating facts and trivia! Joonas Suotamo, Neil Scanlan [sic], and Tom Spina uncover the behind-the-scenes story of the mighty Chewbacca, and we have an exclusive interview with Star Wars: The Clone Wars Matt Lanter.\nPlus, celebrate 40 years of the original Star Wars radio adaptation; Cut Chemist, hip-hop producer and Star Wars fan explains how the saga has inspired his music, and authors Rae Carson and Michael Kogge discuss novelizing the epic final chapter of the Skywalker saga.\nAll this and much, much more in Star Wars Insider #201!",
   "title": "Insider #201"
 }

@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Leslye Headland",
+      "role": "writer",
+      "slug": "leslye-headland"
+    },
+    {
+      "name": "Michael Abels",
+      "role": "composer",
+      "slug": "michael-abels"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Jasmyne Flournoy",
+      "role": "writer",
+      "slug": "jasmyne-flournoy"
+    }
+  ],
   "displayTitle": "The Acolyte",
   "era": "highRepublic",
   "format": "tvSeries",

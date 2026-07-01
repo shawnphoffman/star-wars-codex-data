@@ -1,6 +1,19 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Len Wein",
+      "role": "writer",
+      "slug": "len-wein"
+    },
+    {
+      "name": "John Stephenson",
+      "role": "writer",
+      "slug": "john-stephenson"
+    }
+  ],
   "displayTitle": "Star Wars 3-D",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +22,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-3-d-1987",
+  "synopsis": "Star Wars 3-D is a three-issue Legends comic book miniseries written by Len Wein and John Stephenson. It was published by Blackthorne Publishing as a part of the Blackthorne 3-D Series from 1987 to 1988. Originally four more issues were planned for 1989, but were never released. According to a listing in Amazing Heroes, the issues would have been written by Len Wein and John Stephenson, illustrated by Lorenzo Lizana and edited by Lucy Autrey Wilson, and set between the films Star Wars: Episode V The Empire Strikes Back and Episode VI Return of the Jedi and would each have numbered 32 pages. St",
   "title": "Star Wars 3-D"
 }

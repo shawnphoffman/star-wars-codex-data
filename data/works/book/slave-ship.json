@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Slave Ship",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 4,
@@ -18,5 +19,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "slave-ship",
+  "synopsis": "He's both feared and admired, respected and despised. Boba Fett is the galaxy's most successful bounty hunter. Now he finds himself hunted in the oldest game of all: survival of the fittest. The once powerful Bounty Hunter's Guild has been shattered into warring factions. Now the posting of an enormous bounty on a renegade Imperial stormtrooper is about to start a frenzy of murderous greed. Hoping to fuel rumors of his death, Boba Fett abandons his ship, Slave I, and sets out to claim the prize. Yet his every move leads him closer to a trap set by the cunning Prince Xizor. Fett will die before",
   "title": "Slave Ship"
 }

@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Starcrusher Trap",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-starcrusher-trap",
+  "synopsis": "\"The Separatists unleash a terrifying new weapon on Republic-held systems! An enormous starship, the Starcrusher, is destroying every ship sent against it. Yoda agrees to a risky plan to stop the Starcrusher, and assembles a Jedi strike force that includes Obi-Wan Kenobi, Mace Windu, and Ki-Adi-Mundi. Too late, the Jedi realize that the Starcrusher mission has become a trap—one specifically designed to kill Jedi! Inspired by the film and television programs The Clone Wars, the fun and excitement never stop with these additional Jedi adventures. Featuring Mace Windu in action! And introducing J",
   "title": "The Clone Wars: The Starcrusher Trap"
 }

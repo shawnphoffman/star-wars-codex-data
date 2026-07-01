@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "The Clone Wars: Watch Out for Jabba the Hutt!",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-watch-out-for-jabba-the-hutt",
+  "synopsis": "Get your child hooked on reading as they meet the characters from the new \"Star Wars Clone Wars\" series. Designed to engage even the most reluctant reader, this fun-packed \"Clone Wars Reader\" is a first introduction to the characters from the new \"Star Wars Clone Wars\" animated film and TV series. From Jabba the Hutt and his son 'Stinky' to R2-D2 and C-3PO, your child will meet their favourite creatures, species, aliens, monsters and droids. Packed with pictures from the \"Clone Wars\" series, it's an out-of-this-world read. And don't forget, there's a galaxy-full of \"DK Star Wars\" books to coll",
   "title": "The Clone Wars: Watch Out for Jabba the Hutt!"
 }

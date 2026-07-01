@@ -1,11 +1,30 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "writer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    }
+  ],
   "displayTitle": "From the Desert Comes a Stranger",
+  "era": "newRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2022-02-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-book-of-boba-fett-s1e6",
+  "synopsis": "Mysteries are explored and Boba Fett learns new information.",
   "title": "From the Desert Comes a Stranger"
 }

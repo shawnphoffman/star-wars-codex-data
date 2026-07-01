@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "artist",
+      "slug": "marco-checchetto"
+    }
+  ],
   "displayTitle": "Obi-Wan & Anakin",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "obi-wan-anakin",
+  "synopsis": "Before their military heroism in the Clone Wars, before their tragic battle on Mustafar, and many decades before their final confrontation on the Death Star&hellip; they were Master Obi-Wan Kenobi and his Padawan learner, Anakin Skywalker. It's been a few years since Obi-Wan pledged to train the young \"chosen one,\" but even as they have grown closer through training, it has been a difficult road. Now, called to a remote planet for assistance, Master and Padawan may be pushed to the breaking point. Writer Charles Soule (Lando, She-Hulk, Daredevil) and artist Marco Checchetto (Star Wars: Shatter",
   "title": "Obi-Wan & Anakin"
 }

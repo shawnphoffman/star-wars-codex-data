@@ -1,11 +1,30 @@
 {
   "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "artist",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "artist",
+      "slug": "elisabetta-damico"
+    }
+  ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #4",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
   "periodical": {
     "publicationKind": "comic"
   },
+  "releaseDate": "2025-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-ghost-agents-4",

@@ -1,11 +1,25 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Benjamin Caron",
+      "role": "director",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Tony Gilroy",
+      "role": "writer",
+      "slug": "tony-gilroy"
+    }
+  ],
   "displayTitle": "Rix Road",
+  "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "parentWorkSlug": "andor-season-1",
   "releaseDate": "2022-11-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "andor-s1e12",
+  "synopsis": "Cassian returns home to Ferrix, a tinderbox that is experiencing a spark of rebellion.",
   "title": "Rix Road"
 }

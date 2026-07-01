@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #173",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-05-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-173",
+  "synopsis": "The new look Star Wars Insider features the very best interviews and articles about the greatest space adventure of all time! Covering the gamut of Star Wars media, from movies and TV shows to novels and comic books, Insider is your ultimate guide to the timeless saga. Discover amazing secrets you never knew! Read in-depth features by acclaimed Star Wars writers! Be an Insider! Available in Newsstand and PREVIEWS Exclusive cover editions.",
   "title": "Insider #173"
 }

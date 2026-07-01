@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    }
+  ],
+  "displayTitle": "X-Wing Marks the Spot",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-marks-the-spot",
+  "synopsis": "\"X-Wing Marks the Spot\" is a five part comic written by Mike W. Barr and illustrated by Ken Steacy and Glen Mullaly, and was published in issues #6-#10 of the magazine Star Wars Kids. It tells the story of how the Rebel Alliance purchased new T-65 X-wing starfighters to replace those lost at the Battle of Yavin.",
+  "title": "X-Wing Marks the Spot"
+}

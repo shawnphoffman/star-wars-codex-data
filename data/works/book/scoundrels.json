@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -9,6 +9,7 @@
     }
   ],
   "displayTitle": "Scoundrels",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
@@ -17,5 +18,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "scoundrels",
+  "synopsis": "To make his biggest score, Han's ready to take even bigger risks. But even he can't do this job solo. Han Solo should be basking in his moment of glory. After all, the cocky smuggler and captain of the Millennium Falcon just played a key role in the daring raid that destroyed the Death Star and landed the first serious blow to the Empire in its war against the Rebel Alliance. But after losing the reward his heroics earned him, Han's got nothing to celebrate. Especially since he's deep in debt to the ruthless crime lord Jabba the Hutt. There's a bounty on Han's head—and if he can't cough up the",
   "title": "Scoundrels"
 }

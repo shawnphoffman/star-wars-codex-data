@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #144",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2013-09-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-144",
+  "synopsis": "Princess Leia takes center stage this issue as we look at what makes her tick! We'll also be taking an indepth look at the all-new comic book The Star Wars, which turns the once familiar saga on its head! Much-loved artist Jeffrey Brown offers a unique look at his forthcoming new comic book, Jedi Academy, and Star Wars: The Clone Wars pirate Hondo Ohnaka stars in a unique adventure exclusively in Insider!",
   "title": "Insider #144"
 }

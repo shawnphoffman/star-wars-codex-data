@@ -1,6 +1,7 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Rebels Animation",
+  "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
@@ -9,5 +10,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-rebels-animation-2018",
+  "synopsis": "Star Wars Rebels Animation is a German magazine published by Panini. It contains information and comics based on the animated television series Star Wars Rebels, and it replaced the similarly formatted Star Wars Rebels Magazine. The first issue was published on February 14, 2018. After the fourth issue it was replaced with the Star Wars Resistance Animation, whose first issue was published on May 15, 2019.",
   "title": "Star Wars Rebels Animation"
 }

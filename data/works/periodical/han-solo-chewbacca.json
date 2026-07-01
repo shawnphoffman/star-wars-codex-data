@@ -1,12 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "David Messina",
+      "role": "artist",
+      "slug": "david-messina"
+    }
+  ],
   "displayTitle": "Han Solo & Chewbacca",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-03-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "han-solo-chewbacca",
+  "synopsis": "Star Wars: Han Solo & Chewbacca is a canon comic miniseries. It is published by Marvel Comics and the first issue was released on March 9, 2022.",
   "title": "Han Solo & Chewbacca"
 }

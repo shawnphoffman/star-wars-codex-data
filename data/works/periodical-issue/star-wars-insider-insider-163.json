@@ -1,12 +1,16 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #163",
+  "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-insider-insider-163",
+  "synopsis": "The Force has awoken! As Star Wars: The Force Awakens breaks box office records, Insider looks behind the scenes as the cast and crew discuss the film. Plus: take an in-depth look at Star Wars Rebels on TV, we delve again into the Jedi Toy Box, present a must-read story, and a look at the latest books, comics, and collectibles!",
   "title": "Insider #163"
 }
