@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Abel Gongora",
+      "role": "director",
+      "slug": "abel-gongora"
+    }
+  ],
+  "displayTitle": "T0-B1",
+  "format": "tvEpisode",
+  "parentWorkSlug": "star-wars-visions-volume-1-s01",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-09-22T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-volume-1-s01-star-wars-visions-t0-b1-s01e06",
+  "synopsis": "A cybernetic boy, who dreams of being a Jedi, discovers a dangerous truth about his creator.",
+  "title": "T0-B1"
+}

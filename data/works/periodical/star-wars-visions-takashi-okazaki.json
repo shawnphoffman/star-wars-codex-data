@@ -1,0 +1,23 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Takashi Okazaki",
+      "role": "artist",
+      "slug": "takashi-okazaki"
+    }
+  ],
+  "displayTitle": "Visions - Takashi Okazaki",
+  "format": "periodical",
+  "periodical": {
+    "imprint": "Marvel",
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "star-wars-visions"
+  ],
+  "releaseDate": "2024-05-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-takashi-okazaki",
+  "title": "Star Wars: Visions - Takashi Okazaki"
+}

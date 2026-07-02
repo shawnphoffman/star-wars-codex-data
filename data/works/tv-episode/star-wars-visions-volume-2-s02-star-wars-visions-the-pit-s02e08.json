@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "LeAndre Thomas",
+      "role": "director",
+      "slug": "leandre-thomas"
+    }
+  ],
+  "displayTitle": "The Pit",
+  "format": "tvEpisode",
+  "parentWorkSlug": "star-wars-visions-volume-2-s02",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-05-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-volume-2-s02-star-wars-visions-the-pit-s02e08",
+  "synopsis": "A young prisoner, forced to dig for kyber by the Empire, plans an escape for he and his people.",
+  "title": "The Pit"
+}

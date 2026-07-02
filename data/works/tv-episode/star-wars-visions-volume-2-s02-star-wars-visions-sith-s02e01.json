@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rodrigo Blaas",
+      "role": "director",
+      "slug": "rodrigo-blaas"
+    }
+  ],
+  "displayTitle": "Sith",
+  "format": "tvEpisode",
+  "parentWorkSlug": "star-wars-visions-volume-2-s02",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-05-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-volume-2-s02-star-wars-visions-sith-s02e01",
+  "synopsis": "A former Sith apprentice finds their peaceful life threatened.",
+  "title": "Sith"
+}

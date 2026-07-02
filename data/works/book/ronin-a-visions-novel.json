@@ -1,0 +1,39 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Emma Mieko Candon",
+      "role": "writer",
+      "slug": "emma-mieko-candon"
+    }
+  ],
+  "displayTitle": "Ronin: A Visions Novel",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593358665"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780593358665",
+      "kind": "print",
+      "onsale": "2021-10-12T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "star-wars-visions"
+  ],
+  "releaseDate": "2021-10-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "ronin-a-visions-novel",
+  "title": "Ronin: A Visions Novel"
+}

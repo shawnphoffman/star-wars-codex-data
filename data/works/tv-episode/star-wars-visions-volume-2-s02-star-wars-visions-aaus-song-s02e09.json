@@ -1,0 +1,26 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Nadia Darries",
+      "role": "director",
+      "slug": "nadia-darries"
+    },
+    {
+      "name": "Daniel Clarke",
+      "role": "director",
+      "slug": "daniel-clarke"
+    }
+  ],
+  "displayTitle": "Aau's Song",
+  "format": "tvEpisode",
+  "parentWorkSlug": "star-wars-visions-volume-2-s02",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-05-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-volume-2-s02-star-wars-visions-aaus-song-s02e09",
+  "synopsis": "A child who longs to sing must stay quiet because her voice can cause great calamity in the mines.",
+  "title": "Aau's Song"
+}

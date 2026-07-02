@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Taku Kimura",
+      "role": "director",
+      "slug": "taku-kimura"
+    }
+  ],
+  "displayTitle": "Tatooine Rhapsody",
+  "format": "tvEpisode",
+  "parentWorkSlug": "star-wars-visions-volume-1-s01",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-09-22T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-volume-1-s01-star-wars-visions-tatooine-rhapsody-s01e02",
+  "synopsis": "A band with big dreams must save one of their own from Jabba the Hutt and Boba Fett.",
+  "title": "Tatooine Rhapsody"
+}

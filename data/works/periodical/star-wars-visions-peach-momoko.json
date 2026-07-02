@@ -1,0 +1,23 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peach Momoko",
+      "role": "artist",
+      "slug": "peach-momoko"
+    }
+  ],
+  "displayTitle": "Visions - Peach Momoko",
+  "format": "periodical",
+  "periodical": {
+    "imprint": "Marvel",
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "star-wars-visions"
+  ],
+  "releaseDate": "2024-01-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-visions-peach-momoko",
+  "title": "Star Wars: Visions - Peach Momoko"
+}
