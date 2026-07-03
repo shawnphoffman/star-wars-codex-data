@@ -1,0 +1,61 @@
+{
+  "$id": "https://star-wars-codex-data/schema/collection.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "canonStatus": {
+      "enum": [
+        "canon",
+        "non-canon",
+        "other"
+      ],
+      "type": "string"
+    },
+    "collectionType": {
+      "enum": [
+        "tradePaperback",
+        "omnibus",
+        "hardcover",
+        "treasuryEdition",
+        "other"
+      ],
+      "type": "string"
+    },
+    "collects": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "displayTitle": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "era": {
+      "type": "string"
+    },
+    "releaseDate": {
+      "type": "string"
+    },
+    "slug": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "synopsis": {
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": [
+    "slug",
+    "title",
+    "displayTitle",
+    "collectionType",
+    "canonStatus"
+  ],
+  "title": "Collection",
+  "type": "object"
+}

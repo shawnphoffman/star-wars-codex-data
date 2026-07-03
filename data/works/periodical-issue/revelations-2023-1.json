@@ -1,5 +1,99 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Andrea Di Vito",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "David Baldeón",
+      "slug": "david-baldeon"
+    },
+    {
+      "name": "Salvador Larroca",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Will Sliney",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Marika Cresta",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Salva Espín",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Chris Cross",
+      "slug": "chris-cross"
+    },
+    {
+      "name": "Greg Pak",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Charles Soule",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ethan Sacks",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Alyssa Wong",
+      "slug": "alyssa-wong"
+    },
+    {
+      "name": "Cavan Scott",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Marc Bernardin",
+      "slug": "marc-bernardin"
+    },
+    {
+      "name": "Mark Paniccia",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Jay David Ramos",
+      "slug": "jay-david-ramos"
+    },
+    {
+      "name": "Rod Reis",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Andrew Dalhouse",
+      "slug": "andrew-dalhouse"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Nolan Woodard",
+      "slug": "nolan-woodard"
+    },
+    {
+      "name": "Israel Silva",
+      "slug": "israel-silva"
+    },
+    {
+      "name": "Chris Sotomayor",
+      "slug": "chris-sotomayor"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "slug": "vc-travis-lanham"
+    }
+  ],
   "displayTitle": "Revelations (2023) #1",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",

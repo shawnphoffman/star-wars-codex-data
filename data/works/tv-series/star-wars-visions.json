@@ -1,5 +1,32 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Waugh",
+      "role": "producer",
+      "slug": "james-waugh"
+    },
+    {
+      "name": "Josh Rimes",
+      "role": "producer",
+      "slug": "josh-rimes"
+    },
+    {
+      "name": "Jacqui Lopez",
+      "role": "producer",
+      "slug": "jacqui-lopez"
+    },
+    {
+      "name": "Justin Leach",
+      "role": "producer",
+      "slug": "justin-leach"
+    },
+    {
+      "name": "Kanako Shirasaki",
+      "role": "producer",
+      "slug": "kanako-shirasaki"
+    }
+  ],
   "displayTitle": "Visions",
   "format": "tvSeries",
   "periodical": {
