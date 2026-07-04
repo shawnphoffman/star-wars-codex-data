@@ -1,0 +1,50 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Kempshall",
+      "role": "writer",
+      "slug": "chris-kempshall"
+    }
+  ],
+  "displayTitle": "Star Pilots",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217305841"
+    },
+    {
+      "type": "isbn13",
+      "value": "9798217497652"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn13": "9798217305841",
+      "kind": "print",
+      "onsale": "2026-10-06T12:00:00.000Z"
+    },
+    {
+      "extent": 416,
+      "imprint": "DK",
+      "isbn13": "9798217497652",
+      "kind": "ebook",
+      "onsale": "2026-10-06T12:00:00.000Z"
+    }
+  ],
+  "era": "multiEra",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-06T12:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "announced",
+  "slug": "star-pilots",
+  "synopsis": "Wedge Antilles – hero, warrior, star pilot. The only rebel to face two Death Stars and live to tell the tale.\n\nWedge confronted death countless times, in battles large and small, where split-second decisions often meant the difference between survival and a fiery demise.\n\nNow, he tells his story, and those of the brave pilots he served with and elite enemies he fought against. Aided by unsealed archives from the New Republic, and unreleased interviews of Imperial and Alliance veterans, Antilles gives the definitive account of what it was to fight the Galactic Civil War from the cockpit of a starfighter.\n\nThe ships, tactics, and weapons, but also the quiet times and camaraderie, the moments of fear and despair, the thrill of victory and the aching loss of friends. This is the untold story of the galaxy’s star pilots. ",
+  "title": "Star Pilots"
+}
