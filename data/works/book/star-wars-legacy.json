@@ -6,6 +6,11 @@
       "name": "Madeleine Roux",
       "role": "writer",
       "slug": "madeleine-roux"
+    },
+    {
+      "name": "Saskia Maarleveld",
+      "role": "narrator",
+      "slug": "saskia-maarleveld"
     }
   ],
   "displayTitle": "Legacy",
@@ -16,6 +21,11 @@
     }
   ],
   "editions": [
+    {
+      "extent": 918,
+      "isPrimary": false,
+      "kind": "audio"
+    },
     {
       "extent": 304,
       "imprint": "Random House Worlds",
