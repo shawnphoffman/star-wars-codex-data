@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Cunningham",
+      "role": "director",
+      "slug": "ken-cunningham"
+    },
+    {
+      "name": "David Shayne",
+      "role": "writer",
+      "slug": "david-shayne"
+    },
+    {
+      "name": "Michael Kramer",
+      "role": "composer",
+      "slug": "michael-kramer"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars Summer Vacation",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "g",
+    "runtimeMinutes": 49
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-08-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-summer-vacation",
+  "synopsis": "Looking for a much-needed break, Finn arranges a surprise vacation for his friends Rey, Poe, Rose, Chewie, BB-8, R2-D2, and C-3PO, aboard the luxurious Halcyon. However, Finn's plan to have one last hurrah together quickly goes awry.",
+  "title": "LEGO Star Wars Summer Vacation"
+}

@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Kwan",
+      "role": "director",
+      "slug": "brian-kwan"
+    },
+    {
+      "name": "Brad Baruh",
+      "role": "director",
+      "slug": "brad-baruh"
+    }
+  ],
+  "displayTitle": "Under the Helmet: The Legacy of Boba Fett",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "pg",
+    "runtimeMinutes": 21
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-11-11T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "under-the-helmet-the-legacy-of-boba-fett",
+  "synopsis": "A special celebrating the origins and legacy of Star Wars' legendary bounty hunter, Boba Fett.",
+  "title": "Under the Helmet: The Legacy of Boba Fett"
+}

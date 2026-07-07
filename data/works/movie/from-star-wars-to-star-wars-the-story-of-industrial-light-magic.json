@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jon Kroll",
+      "role": "director",
+      "slug": "jon-kroll"
+    }
+  ],
+  "displayTitle": "From Star Wars to Star Wars: The Story of Industrial Light & Magic",
+  "format": "movie",
+  "movie": {
+    "movieType": "tvMovie",
+    "runtimeMinutes": 45
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-06-15T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "from-star-wars-to-star-wars-the-story-of-industrial-light-magic",
+  "synopsis": "The incredible evolution of George Lucas' special effects dream factory, including an inside look at \"Star Wars: Episode One - The Phantom Menace.\"",
+  "title": "From Star Wars to Star Wars: The Story of Industrial Light & Magic"
+}

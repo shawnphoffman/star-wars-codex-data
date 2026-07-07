@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Starfighter",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736449151"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House/Star Wars",
+      "isPrimary": true,
+      "isbn13": "9780736449151",
+      "kind": "print",
+      "onsale": "2027-04-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-04-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-starfighter-2027-2",
+  "title": "Star Wars: Starfighter"
+}

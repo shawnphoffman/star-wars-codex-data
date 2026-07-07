@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Cunningham",
+      "role": "director",
+      "slug": "ken-cunningham"
+    },
+    {
+      "name": "David Shayne",
+      "role": "writer",
+      "slug": "david-shayne"
+    },
+    {
+      "name": "Michael Kramer",
+      "role": "composer",
+      "slug": "michael-kramer"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars Holiday Special",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "g",
+    "runtimeMinutes": 50
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-11-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-holiday-special",
+  "synopsis": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
+  "title": "LEGO Star Wars Holiday Special"
+}

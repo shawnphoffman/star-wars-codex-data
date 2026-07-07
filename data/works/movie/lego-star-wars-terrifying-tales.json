@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Shayne",
+      "role": "writer",
+      "slug": "david-shayne"
+    },
+    {
+      "name": "Ken Cunningham",
+      "role": "director",
+      "slug": "ken-cunningham"
+    },
+    {
+      "name": "Michael Kramer",
+      "role": "composer",
+      "slug": "michael-kramer"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars Terrifying Tales",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "g",
+    "runtimeMinutes": 49
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-terrifying-tales",
+  "synopsis": "Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.",
+  "title": "LEGO Star Wars Terrifying Tales"
+}

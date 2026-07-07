@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Millici",
+      "role": "writer",
+      "slug": "nate-millici"
+    }
+  ],
+  "displayTitle": "This is Luke",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368057257"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368057257",
+      "kind": "print",
+      "onsale": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-09-08T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "this-is-luke",
+  "title": "This is Luke"
+}

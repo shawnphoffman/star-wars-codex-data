@@ -1,0 +1,28 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jon Spira",
+      "role": "director",
+      "slug": "jon-spira"
+    },
+    {
+      "name": "Jon Spira",
+      "role": "writer",
+      "slug": "jon-spira"
+    }
+  ],
+  "displayTitle": "Elstree 1976",
+  "format": "movie",
+  "movie": {
+    "runtimeMinutes": 90
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-10-09T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "elstree-1976",
+  "synopsis": "A documentary about ten very different lives connected by having appeared onscreen wearing masks or helmets in Star Wars.",
+  "title": "Elstree 1976"
+}

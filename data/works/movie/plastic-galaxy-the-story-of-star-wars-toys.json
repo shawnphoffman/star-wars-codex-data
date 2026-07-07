@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Stillman",
+      "role": "director",
+      "slug": "brian-stillman"
+    },
+    {
+      "name": "Brian Stillman",
+      "role": "writer",
+      "slug": "brian-stillman"
+    },
+    {
+      "name": "Chris Ianuzzi",
+      "role": "composer",
+      "slug": "chris-ianuzzi"
+    }
+  ],
+  "displayTitle": "Plastic Galaxy: The Story of Star Wars Toys",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "unrated",
+    "runtimeMinutes": 68
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-01-14T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "plastic-galaxy-the-story-of-star-wars-toys",
+  "synopsis": "Plastic Galaxy explores the ground breaking and breathtaking world of 'Star Wars' toys. Through interviews with former Kenner employees, experts, authors, and collectors, the documentary looks at the toys' history, influence, and the passions they elicit today.",
+  "title": "Plastic Galaxy: The Story of Star Wars Toys"
+}

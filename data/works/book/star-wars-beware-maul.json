@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Beware Maul!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217316021"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "isbn13": "9798217316021",
+      "kind": "print",
+      "onsale": "2027-01-19T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-01-19T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-beware-maul",
+  "title": "Star Wars: Beware Maul!"
+}

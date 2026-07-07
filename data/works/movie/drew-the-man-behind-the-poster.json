@@ -1,0 +1,48 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Erik Sharkey",
+      "role": "director",
+      "slug": "erik-sharkey"
+    },
+    {
+      "name": "Greg Boas",
+      "role": "writer",
+      "slug": "greg-boas"
+    },
+    {
+      "name": "Charles Ricciardi",
+      "role": "writer",
+      "slug": "charles-ricciardi"
+    },
+    {
+      "name": "Andrea Chang",
+      "role": "composer",
+      "slug": "andrea-chang"
+    },
+    {
+      "name": "Ryan Shore",
+      "role": "composer",
+      "slug": "ryan-shore"
+    },
+    {
+      "name": "Christina Stroeh",
+      "role": "composer",
+      "slug": "christina-stroeh"
+    }
+  ],
+  "displayTitle": "Drew: The Man Behind the Poster",
+  "format": "movie",
+  "movie": {
+    "runtimeMinutes": 97
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-07-19T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "drew-the-man-behind-the-poster",
+  "synopsis": "A documentary on legendary movie-poster artist Drew Struzan.",
+  "title": "Drew: The Man Behind the Poster"
+}

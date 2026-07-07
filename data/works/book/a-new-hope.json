@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Geof Smith",
+      "role": "writer",
+      "slug": "geof-smith"
+    }
+  ],
+  "displayTitle": "A New Hope (Little Golden Book)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736435383"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn13": "9780736435383",
+      "kind": "print",
+      "onsale": "2015-07-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-07-28T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "a-new-hope",
+  "title": "A New Hope (Little Golden Book)"
+}

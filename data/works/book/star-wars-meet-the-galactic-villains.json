@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emeli Juhlin",
+      "role": "writer",
+      "slug": "emeli-juhlin"
+    }
+  ],
+  "displayTitle": "Meet the Galactic Villains",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368101271"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368101271",
+      "kind": "print",
+      "onsale": "2024-04-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-04-30T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-meet-the-galactic-villains",
+  "title": "Star Wars: Meet the Galactic Villains"
+}

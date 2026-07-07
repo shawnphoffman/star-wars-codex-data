@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Quips and Comebacks",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781797240114"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 114,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn13": "9781797240114",
+      "kind": "print",
+      "onsale": "2026-09-22T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-09-22T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-quips-and-comebacks",
+  "title": "Star Wars: Quips and Comebacks"
+}

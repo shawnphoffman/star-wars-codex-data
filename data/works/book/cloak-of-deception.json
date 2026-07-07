@@ -11,11 +11,23 @@
   "displayTitle": "Cloak of Deception",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345442989"
+    },
+    {
       "type": "isbn13",
       "value": "9780345442970"
     }
   ],
   "editions": [
+    {
+      "extent": 342,
+      "imprint": "Del Rey *Random House Worlds",
+      "isPrimary": false,
+      "isbn10": "0345442989",
+      "kind": "print",
+      "onsale": "2001-05-29T00:00:00.000Z"
+    },
     {
       "extent": 342,
       "imprint": "Del Rey",

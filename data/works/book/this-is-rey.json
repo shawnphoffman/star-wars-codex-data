@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emeli Juhlin",
+      "role": "writer",
+      "slug": "emeli-juhlin"
+    }
+  ],
+  "displayTitle": "This is Rey",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368057349"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368057349",
+      "kind": "print",
+      "onsale": "2023-10-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-10-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "this-is-rey",
+  "title": "This is Rey"
+}

@@ -1,0 +1,24 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jesi Nelson",
+      "role": "composer",
+      "slug": "jesi-nelson"
+    }
+  ],
+  "displayTitle": "Biomes",
+  "format": "movie",
+  "movie": {
+    "mpaaRating": "g",
+    "runtimeMinutes": 18
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-05-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-biomes",
+  "synopsis": "Take a virtual vacation to some of the Star Wars films' most iconic and beloved locations like Hoth, Tatooine, and Sorgan, as this charming series whisks you off for fly-through tours of the Galaxy Far, Far Away.",
+  "title": "Star Wars Biomes"
+}

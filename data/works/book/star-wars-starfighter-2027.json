@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Starfighter (Little Golden Book)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736449380"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn13": "9780736449380",
+      "kind": "print",
+      "onsale": "2027-04-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-04-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-starfighter-2027",
+  "title": "Starfighter (Little Golden Book)"
+}

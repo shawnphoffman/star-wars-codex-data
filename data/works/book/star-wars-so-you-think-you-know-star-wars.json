@@ -1,0 +1,41 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Richard Woloski",
+      "role": "writer",
+      "slug": "richard-woloski"
+    },
+    {
+      "name": "Sarah Woloski",
+      "role": "writer",
+      "slug": "sarah-woloski"
+    }
+  ],
+  "displayTitle": "So You Think You Know Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781797245959"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 232,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn13": "9781797245959",
+      "kind": "print",
+      "onsale": "2026-11-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-11-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-so-you-think-you-know-star-wars",
+  "title": "Star Wars: So You Think You Know Star Wars"
+}

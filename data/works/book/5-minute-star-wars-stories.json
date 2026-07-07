@@ -1,0 +1,66 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rebecca L. Schmidt",
+      "role": "writer",
+      "slug": "rebecca-l-schmidt"
+    },
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    },
+    {
+      "name": "Meredith L. Rusu",
+      "role": "writer",
+      "slug": "meredith-l-rusu"
+    },
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    },
+    {
+      "name": "Calliope Glass",
+      "role": "writer",
+      "slug": "calliope-glass"
+    },
+    {
+      "name": "Dan Brooks",
+      "role": "writer",
+      "slug": "dan-brooks"
+    },
+    {
+      "name": "Brook Vitale",
+      "role": "writer",
+      "slug": "brook-vitale"
+    }
+  ],
+  "displayTitle": "5-Minute Star Wars Stories",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368051873"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Disney–Lucasfilm Press *Random House",
+      "isPrimary": true,
+      "isbn13": "9781368051873",
+      "kind": "print",
+      "onsale": "2021-01-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-01-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "5-minute-star-wars-stories",
+  "title": "5-Minute Star Wars Stories"
+}

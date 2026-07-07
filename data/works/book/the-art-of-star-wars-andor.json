@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Phil Szostak",
+      "role": "writer",
+      "slug": "phil-szostak"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: Andor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781419775680"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 272,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn13": "9781419775680",
+      "kind": "print",
+      "onsale": "2026-06-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-06-30T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-art-of-star-wars-andor",
+  "title": "The Art of Star Wars: Andor"
+}

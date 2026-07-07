@@ -1,0 +1,33 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Edith Becker",
+      "role": "director",
+      "slug": "edith-becker"
+    },
+    {
+      "name": "Kevin Burns",
+      "role": "director",
+      "slug": "kevin-burns"
+    },
+    {
+      "name": "Ed Singer",
+      "role": "writer",
+      "slug": "ed-singer"
+    }
+  ],
+  "displayTitle": "Empire of Dreams: The Story of the Star Wars Trilogy",
+  "format": "movie",
+  "movie": {
+    "runtimeMinutes": 151
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2004-09-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "empire-of-dreams-the-story-of-the-star-wars-trilogy",
+  "synopsis": "From the earliest versions of the script to the blockbuster debuts, explore the creation of the Star Wars Trilogy.",
+  "title": "Empire of Dreams: The Story of the Star Wars Trilogy"
+}

@@ -1,0 +1,57 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Caìo Filipe",
+      "role": "penciler",
+      "slug": "caio-filipe"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Michael Cho",
+      "role": "coverArtist",
+      "slug": "michael-cho"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Grievous",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506739878"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 88,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506739878",
+      "kind": "print",
+      "onsale": "2026-03-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-03-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "hyperspace-stories-grievous",
+  "synopsis": "Hyperspace Stories: Grievous is a graphic novel in the Hyperspace Stories series of graphic novels featuring General Grievous.",
+  "title": "Hyperspace Stories: Grievous"
+}

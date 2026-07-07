@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "The Mandalorian and Grogu: The Deluxe Junior Novelization",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736448345"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Random House/Star Wars",
+      "isPrimary": true,
+      "isbn13": "9780736448345",
+      "kind": "print",
+      "onsale": "2027-02-23T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-02-23T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-the-mandalorian-and-grogu-the-deluxe-junior-novelization",
+  "title": "Star Wars: The Mandalorian and Grogu: The Deluxe Junior Novelization"
+}

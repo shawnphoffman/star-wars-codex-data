@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "other",
+  "displayTitle": "LEGO Star Wars: Meet Grogu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217139958"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "isbn13": "9798217139958",
+      "kind": "print",
+      "onsale": "2026-07-21T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-07-21T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-meet-grogu",
+  "title": "LEGO Star Wars: Meet Grogu"
+}

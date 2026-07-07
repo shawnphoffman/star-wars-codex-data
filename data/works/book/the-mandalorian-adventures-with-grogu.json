@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Adventures with Grogu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337403359"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 5,
+      "imprint": "Insight Kids",
+      "isPrimary": true,
+      "isbn13": "9798337403359",
+      "kind": "print",
+      "onsale": "2026-10-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-27T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-mandalorian-adventures-with-grogu",
+  "title": "The Mandalorian: Adventures with Grogu"
+}

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michel Parbot",
+      "role": "director",
+      "slug": "michel-parbot"
+    }
+  ],
+  "displayTitle": "The Making of The Empire Strikes Back",
+  "format": "movie",
+  "movie": {
+    "movieType": "tvMovie",
+    "mpaaRating": "g",
+    "runtimeMinutes": 59
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-09-22T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-making-of-the-empire-strikes-back",
+  "synopsis": "Even the most devout Star Wars fan might not know that filmmaker and journalist Michel Parbot was once given unprecedented access to the set, stars, and filmmakers behind The Empire Strikes Back. The resulting work, The Making of The Empire Strikes Back, has apparently never been commercially released. Most of the footage has been lost, but 15 minutes has circulated online in recent years. Now, the 1 hour cut of Michel Parbot’s lost documentary has been found.",
+  "title": "The Making of The Empire Strikes Back"
+}

@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Ian Doescher",
+      "role": "writer",
+      "slug": "ian-doescher"
+    }
+  ],
+  "displayTitle": "William Shakespeare's Star Wars: Ahsoka's Tale",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337402833"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798337402833",
+      "kind": "print",
+      "onsale": "2026-10-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "william-shakespeares-star-wars-ahsokas-tale",
+  "title": "William Shakespeare's Star Wars: Ahsoka's Tale"
+}

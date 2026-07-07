@@ -1,0 +1,28 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Anthony Wonke",
+      "role": "director",
+      "slug": "anthony-wonke"
+    },
+    {
+      "name": "Tylie Cox",
+      "role": "writer",
+      "slug": "tylie-cox"
+    }
+  ],
+  "displayTitle": "The Director and the Jedi",
+  "format": "movie",
+  "movie": {
+    "runtimeMinutes": 95
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-03-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-director-and-the-jedi",
+  "synopsis": "An intimate documentary delving into Rian Johnson's process as he comes in as a director new to the Star Wars universe.",
+  "title": "The Director and the Jedi"
+}

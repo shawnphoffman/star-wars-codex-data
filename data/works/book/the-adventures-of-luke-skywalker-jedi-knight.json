@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tony DiTerlizzi",
+      "role": "writer",
+      "slug": "tony-diterlizzi"
+    }
+  ],
+  "displayTitle": "The Adventures of Luke Skywalker, Jedi Knight",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484706688"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484706688",
+      "kind": "print",
+      "onsale": "2014-10-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-10-07T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-adventures-of-luke-skywalker-jedi-knight",
+  "title": "The Adventures of Luke Skywalker, Jedi Knight"
+}
