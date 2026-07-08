@@ -15,9 +15,14 @@
       "name": "Franchesco Gaston",
       "role": "artist",
       "slug": "franchesco-gaston"
+    },
+    {
+      "name": "Francesco Gaston",
+      "role": "penciler",
+      "slug": "francesco-gaston"
     }
   ],
-  "displayTitle": "Star Wars Adventures Annual 2020 - Rabbit Hunt",
+  "displayTitle": "Adventures Annual 2020 - Rabbit Hunt",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -25,6 +30,8 @@
   },
   "parentWorkSlug": "star-wars-adventures",
   "periodical": {
+    "imprint": "IDW",
+    "pageCount": 46,
     "publicationKind": "comic"
   },
   "releaseDate": "2020-11-18T00:00:00.000Z",

@@ -30,7 +30,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2015-07-28T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "a-new-hope",
   "title": "A New Hope (Little Golden Book)"
 }

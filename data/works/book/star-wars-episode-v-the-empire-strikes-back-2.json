@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "displayTitle": "Star Wars®: Episode V: The Empire Strikes Back™",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780545482332"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Scholastic, Incorporated",
+      "isPrimary": true,
+      "isbn13": "9780545482332",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-episode-v-the-empire-strikes-back-2",
+  "synopsis": "The further adventures of Luke skywalker and his friends in their continuing battle against Darth Vader and the evil side of the Force.",
+  "title": "Star Wars®: Episode V: The Empire Strikes Back™"
+}

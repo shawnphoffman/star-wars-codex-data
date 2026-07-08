@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "displayTitle": "The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780307795458"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780307795458",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-empire-strikes-back",
+  "title": "The Empire Strikes Back"
+}

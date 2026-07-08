@@ -1,7 +1,8 @@
 {
   "canonStatus": "non-canon",
-  "collectionType": "omnibus",
+  "collectionType": "tradePaperback",
   "collects": [
+    "classic-star-wars-04-the-serpent-masters",
     "classic-star-wars-05-the-serpent-masters-pt-2",
     "classic-star-wars-06-deadly-reunion",
     "classic-star-wars-07-traitor-s-gambit",
@@ -20,6 +21,7 @@
     "classic-star-wars-20-the-final-trap"
   ],
   "displayTitle": "Legends Epic Collection: The Newspaper Strips Vol. 2",
+  "releaseDate": "2019-07-16T00:00:00.000Z",
   "slug": "c_star-wars-legends-epic-collection-the-newspaper-strips-vol-2_682",
   "synopsis": "Collects Classic Star Wars #5-20 and material from #4.",
   "title": "Star Wars Legends Epic Collection: The Newspaper Strips Vol. 2"

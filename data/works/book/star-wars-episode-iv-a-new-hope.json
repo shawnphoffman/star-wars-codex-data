@@ -1,0 +1,27 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "displayTitle": "Star Wars®: Episode IV: A New Hope™",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780545482325"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Scholastic, Incorporated",
+      "isPrimary": true,
+      "isbn13": "9780545482325",
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-episode-iv-a-new-hope",
+  "synopsis": "A long time ago in a galaxy far, far away... A young Jedi is discovered. A rebellion grows. A deadly weapon unleashes its power. A master confronts his old apprentice. The journey begins a new chapter.",
+  "title": "Star Wars®: Episode IV: A New Hope™"
+}

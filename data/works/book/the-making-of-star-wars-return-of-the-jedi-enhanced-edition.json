@@ -1,0 +1,41 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Brad Bird",
+      "role": "writer",
+      "slug": "brad-bird"
+    }
+  ],
+  "displayTitle": "The Making of Star Wars: Return of the Jedi (Enhanced Edition)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511461"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 372,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511461",
+      "kind": "print",
+      "onsale": "2013-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-making-of-star-wars-return-of-the-jedi-enhanced-edition",
+  "title": "The Making of Star Wars: Return of the Jedi (Enhanced Edition)"
+}

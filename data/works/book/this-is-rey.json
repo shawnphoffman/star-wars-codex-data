@@ -30,7 +30,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2023-10-17T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "this-is-rey",
   "title": "This is Rey"
 }

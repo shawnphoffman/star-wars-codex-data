@@ -1,0 +1,41 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J. W. Rinzler",
+      "role": "writer",
+      "slug": "j-w-rinzler"
+    },
+    {
+      "name": "Ridley Scott",
+      "role": "writer",
+      "slug": "ridley-scott"
+    }
+  ],
+  "displayTitle": "The Making of Star Wars: The Empire Strikes Back (Enhanced Edition)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345509611"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 372,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345509611",
+      "kind": "print",
+      "onsale": "2010-10-12T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-10-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-making-of-star-wars-the-empire-strikes-back-enhanced-edition",
+  "title": "The Making of Star Wars: The Empire Strikes Back (Enhanced Edition)"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Kahn",
+      "role": "writer",
+      "slug": "james-kahn"
+    }
+  ],
+  "displayTitle": "Return of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345307674"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "isPrimary": true,
+      "isbn10": "0345307674",
+      "kind": "print",
+      "onsale": "1983-05-12T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-05-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "return-of-the-jedi",
+  "title": "Return of the Jedi"
+}

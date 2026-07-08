@@ -26,7 +26,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-28T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-tech",
   "synopsis": "Exploring the technical aspects of Star Wars vehicles, weapons and gadgetry, Star Wars Tech consults leading scientists in the fields of physics, prosthetics, lasers, engineering and astronomy to examine the plausibility of Star Wars technology based on science as we know it today.",
   "title": "Star Wars Tech"
