@@ -35,7 +35,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2013-10-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-making-of-star-wars-return-of-the-jedi-enhanced-edition",
   "title": "The Making of Star Wars: Return of the Jedi (Enhanced Edition)"
 }

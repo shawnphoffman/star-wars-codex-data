@@ -1,0 +1,50 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "producer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "producer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Bradford Baruh",
+      "role": "producer",
+      "slug": "bradford-baruh"
+    },
+    {
+      "name": "Karen Gilchrist",
+      "role": "producer",
+      "slug": "karen-gilchrist"
+    },
+    {
+      "name": "John Bartnicki",
+      "role": "producer",
+      "slug": "john-bartnicki"
+    },
+    {
+      "name": "Michael Kramer",
+      "role": "composer",
+      "slug": "michael-kramer"
+    }
+  ],
+  "displayTitle": "Disney Gallery: The Mandalorian",
+  "format": "tvSeries",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "disney-gallery-the-mandalorian",
+  "title": "Disney Gallery: The Mandalorian"
+}
