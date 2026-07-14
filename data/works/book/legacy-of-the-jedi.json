@@ -11,11 +11,20 @@
   "displayTitle": "Legacy of the Jedi",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439536669"
+    },
+    {
       "type": "isbn13",
       "value": "9780439536660"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439536669",
+      "kind": "print"
+    },
     {
       "extent": 204,
       "imprint": "Scholastic",

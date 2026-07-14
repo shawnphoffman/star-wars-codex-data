@@ -1,5 +1,27 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kalani Streicher",
+      "role": "director",
+      "slug": "kalani-streicher"
+    },
+    {
+      "name": "Harrison Fong",
+      "role": "artist",
+      "slug": "harrison-fong"
+    },
+    {
+      "name": "Paul Webb",
+      "role": "composer",
+      "slug": "paul-webb"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
   "displayTitle": "Super Star Wars: Return of the Jedi",
   "format": "videoGame",
   "periodical": {

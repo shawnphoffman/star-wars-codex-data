@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy: War #6",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-war-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-05-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-war-2010-6",
-  "synopsis": "You can't keep a bad Sith down!\nDarth Krayt has returned from the \"dead,\" stronger, more evil, and more determined than ever to crush the galaxy under his heel. With Emperor Roan Fel's Imperials, the Galactic Alliance, the Jedi, and even some of his own Sith followers arrayed against him, Krayt would seem overmatched&mdash;but his enemies have not reckoned with the power of the dark side!\nIf Cade Skywalker was ever going to run from his legacy, now would be the time!",
+  "synopsis": "Battleground Coruscant. The allies have carried the battle to the Sith. The war for control of the galaxy is not over yet... ...but it will be by the end of this issue. Traitors will be revealed, heroes and villains will fall, and empires will be toppled. It all ends here! “Star Wars: Legacy is a well-crafted, entertaining comic that is worth the perils of investing in a ‘new’ universe.” --Comic Book Resources",
   "title": "Legacy: War #6"
 }

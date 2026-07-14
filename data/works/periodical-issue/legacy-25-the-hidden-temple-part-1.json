@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
     }
   ],
   "displayTitle": "Legacy #25: The Hidden Temple, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-06-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-25-the-hidden-temple-part-1",
-  "synopsis": "Danger comes to the most secret location in the galaxy in this first part of a new story! There is a place, hidden to all but a select few, where some of the most powerful figures in the galaxy reside. As Cade Skywalker travels there with a mission of upmost importance, an undetected pursuer may put Cade's clandestine destination at terrible risk! Discover the Hidden Temple. A place of peace and sanctuary&mdash;enter at your own risk!",
+  "synopsis": "Danger comes to the most secret location in the galaxy in this first part of a new story! There is a place, hidden to all but a select few, where some of the most powerful figures in the galaxy reside. As Cade Skywalker travels there with a mission of upmost importance, an undetected pursuer may put Cade's clandestine destination at terrible risk! Discover the Hidden Temple. A place of peace and sanctuary--enter at your own risk!",
   "title": "Legacy #25: The Hidden Temple, Part 1"
 }

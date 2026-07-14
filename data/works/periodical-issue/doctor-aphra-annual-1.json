@@ -10,6 +10,31 @@
       "name": "Marc Laming",
       "role": "artist",
       "slug": "marc-laming"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "David Nakayama",
+      "role": "coverArtist",
+      "slug": "david-nakayama"
     }
   ],
   "displayTitle": "Doctor Aphra (2016) Annual 1",

@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "other",
+  "displayTitle": "Five Rebel Adventures: Step Into Reading Collection",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736449403"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Random House/Star Wars",
+      "isPrimary": true,
+      "isbn13": "9780736449403",
+      "kind": "print",
+      "onsale": "2027-01-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-01-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "five-rebel-adventures-step-into-reading-collection",
+  "title": "Five Rebel Adventures: Step Into Reading Collection"
+}

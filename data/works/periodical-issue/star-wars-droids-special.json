@@ -6,21 +6,66 @@
       "name": "Dan Thorsland",
       "role": "writer",
       "slug": "dan-thorsland"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "inker",
+      "slug": "andy-mushynsky"
+    },
+    {
+      "name": "Daniel Kurt Thorsland",
+      "role": "writer",
+      "slug": "daniel-kurt-thorsland"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bill Pearson",
+      "role": "letterer",
+      "slug": "bill-pearson"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Pam Rambo",
+      "role": "colorist",
+      "slug": "pam-rambo"
     }
   ],
-  "displayTitle": "Droids Special",
+  "displayTitle": "Droids Special (1995) #1",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
   },
+  "parentWorkSlug": "star-wars-droids",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-01-31T00:00:00.000Z",
+  "releaseDate": "1995-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-special",
-  "synopsis": "In their first adventure in the Kalarba system, the droids R2-D2 and C-3PO arrive at Hosk Station, where they run afoul of the intergalactic criminal Olag Greck. The story marks an early appearance by the bounty hunter droid IG-88 and introduces Greck, Xob, and the Corellian pilot Jace Forno, setting up the events that lead into the pair's later adventures in the Kalarba system.",
-  "title": "Star Wars: Droids Special"
+  "synopsis": "In their first adventure in the Kalarba System, Artoo-Detoo and See-Threepio arrive at Hosk Station, where they meet the intergalactic criminal, Olag Greck! Originally serialized in Dark Horse Comics, this tale led into the events of the highly popular six-issue Droids series, and is collected here for the first time. The Droids Special features previously unpublished preliminary illustrations by Bill Hughes, and a new cover by Kilian Plunkett. Fans should also note that this is the story that marks an appearance by bounty hunter droid IG-88, and introduces Olag Greck, Xob, and the Corellian pilot, Jace Forno, to the Star Wars universe!",
+  "title": "Droids Special (1995) #1"
 }

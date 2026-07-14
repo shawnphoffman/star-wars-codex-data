@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "X-Wing: Isard's Revenge",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553579031"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553579031",
+      "kind": "print",
+      "onsale": "1999-04-13T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
   },
-  "releaseDate": "1999-04-19T00:00:00.000Z",
+  "releaseDate": "1999-04-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-isards-revenge",

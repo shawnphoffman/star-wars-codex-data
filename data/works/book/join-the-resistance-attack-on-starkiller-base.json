@@ -21,6 +21,18 @@
   "displayTitle": "Join the Resistance: Attack on Starkiller Base",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B07FT43TJH"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368026877"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368021418"
+    },
+    {
       "type": "isbn13",
       "value": "9781368026871"
     }
@@ -28,8 +40,18 @@
   "editions": [
     {
       "extent": 224,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368021418",
+      "kind": "print",
+      "onsale": "2018-07-31T00:00:00.000Z"
+    },
+    {
+      "asin": "B07FT43TJH",
+      "extent": 208,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368026877",
       "isbn13": "9781368026871",
       "kind": "print",
       "onsale": "2018-07-31T00:00:00.000Z"

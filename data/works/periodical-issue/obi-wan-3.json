@@ -10,6 +10,41 @@
       "name": "Alessandro Miracolo",
       "role": "artist",
       "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "inker",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "penciler",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Frank William",
+      "role": "colorist",
+      "slug": "frank-william"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Obi-Wan #3",

@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Jedi Search",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553297980"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553297980",
+      "kind": "print",
+      "onsale": "1994-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
   },
-  "releaseDate": "1994-02-01T00:00:00.000Z",
+  "releaseDate": "1994-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-search",

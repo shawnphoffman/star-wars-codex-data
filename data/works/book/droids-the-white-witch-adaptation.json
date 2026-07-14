@@ -11,8 +11,20 @@
   "displayTitle": "Droids: The White Witch (Adaptation)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0583311695"
+    },
+    {
       "type": "isbn13",
       "value": "9780583311694"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "0583311695",
+      "isbn13": "9780583311694",
+      "kind": "print"
     }
   ],
   "era": "reignOfTheEmpire",

@@ -5,6 +5,16 @@
       "name": "Rodney Barnes",
       "role": "writer",
       "slug": "rodney-barnes"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "coverArtist",
+      "slug": "ramon-rosanas"
     }
   ],
   "displayTitle": "Han Solo: Hunt for the Falcon",
@@ -13,7 +23,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2026-04-28T00:00:00.000Z",
+  "releaseDate": "2025-09-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solo-hunt-for-the-falcon",

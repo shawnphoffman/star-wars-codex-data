@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Julius Harper",
+      "role": "writer",
+      "slug": "julius-harper"
+    }
+  ],
   "displayTitle": "Big Brother's Bounty",
   "era": "highRepublic",
   "format": "tvEpisode",

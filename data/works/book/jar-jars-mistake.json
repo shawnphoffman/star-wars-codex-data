@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Jar Jar's Mistake",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780375800009"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780375800009",
+      "kind": "print",
+      "onsale": "1999-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
   },
-  "releaseDate": "1999-05-11T00:00:00.000Z",
+  "releaseDate": "1999-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jar-jars-mistake",

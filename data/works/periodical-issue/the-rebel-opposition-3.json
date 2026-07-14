@@ -5,6 +5,45 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "inker",
+      "slug": "andy-mushynsky"
+    },
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "penciler",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #03: The Rebel Opposition",
@@ -17,7 +56,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-09-26T00:00:00.000Z",
+  "releaseDate": "1995-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rebel-opposition-3",

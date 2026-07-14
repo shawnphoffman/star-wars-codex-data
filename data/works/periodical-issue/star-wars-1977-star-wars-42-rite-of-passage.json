@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "letterer",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Star Wars #42: Rite of Passage",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-05-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-42-rite-of-passage",
+  "synopsis": "A crisis within the government of the planet Ryloth necessitates a Jedi mediator. Master Tholme is dispatched along with the Twi'lek Jedi, Aayla Secura for a visit to the planet of her birth. While Tholme negotiates with those in the seats of power, Aayla goes undercover as a slave -- getting a taste of what her life might have been like had she stayed on Ryloth, and discovers a conspiracy that could topple the government and sever Ryloth's ties to the Republic! Aayla is on the cusp of graduating from Padawan learner to a full-fledged Jedi Knight, but stopping the evil plot may be a test beyond her abilities!",
+  "title": "Star Wars #42: Rite of Passage"
+}

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Sarah Nerboso",
+      "role": "writer",
+      "slug": "sarah-nerboso"
+    }
+  ],
   "displayTitle": "The Night Lights of Tenoo",
   "era": "highRepublic",
   "format": "tvEpisode",

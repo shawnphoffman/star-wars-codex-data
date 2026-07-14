@@ -5,6 +5,7 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 63,
     "publicationKind": "magazine"
   },
   "releaseDate": "2025-06-24T00:00:00.000Z",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Dark Force Rising Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311829"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 142,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311829",
+      "kind": "print",
+      "onsale": "1993-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

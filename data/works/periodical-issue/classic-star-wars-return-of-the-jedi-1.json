@@ -1,0 +1,60 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "artist",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Ed King",
+      "role": "letterer",
+      "slug": "ed-king"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Edward Martin III",
+      "role": "editor",
+      "slug": "edward-martin-iii"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: Return of the Jedi #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-return-of-the-jedi-1",
+  "synopsis": "Dark Horse presents Classic Star Wars: Return of the Jedi, the next thrilling chapter in the greatest space fantasy ever! The Emperor and Darth Vader make the final preparations to destroy the Rebel Alliance once and for all. Meanwhile, Luke Skywalker, now a Jedi Knight, must rescue Han Solo, frozen in carbonite, from the palace of Jabba the Hutt.",
+  "title": "Classic Star Wars: Return of the Jedi #1"
+}

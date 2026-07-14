@@ -20,6 +20,41 @@
       "name": "Tommy Lee Edwards",
       "role": "coverArtist",
       "slug": "tommy-lee-edwards"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Juan Gedeon",
+      "role": "inker",
+      "slug": "juan-gedeon"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "inker",
+      "slug": "roge-antonio"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "penciler",
+      "slug": "roge-antonio"
     }
   ],
   "displayTitle": "TIE Fighter #5",

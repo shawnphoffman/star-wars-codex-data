@@ -10,6 +10,41 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Romulo Fajardo Jr.",
+      "role": "coverArtist",
+      "slug": "romulo-fajardo-jr"
+    },
+    {
+      "name": "Alex Sinclair",
+      "role": "colorist",
+      "slug": "alex-sinclair"
     }
   ],
   "displayTitle": "Dark Droids #01",

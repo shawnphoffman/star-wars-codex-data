@@ -1,0 +1,42 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    }
+  ],
+  "displayTitle": "Myths & Fables",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368043453"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368043458"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368043453",
+      "isbn13": "9781368043458",
+      "kind": "print",
+      "onsale": "2019-08-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-08-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-myths-fables",
+  "title": "Star Wars: Myths & Fables"
+}

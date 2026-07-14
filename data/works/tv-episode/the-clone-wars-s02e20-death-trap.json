@@ -10,6 +10,21 @@
       "name": "Steward Lee",
       "role": "director",
       "slug": "steward-lee"
+    },
+    {
+      "name": "Doug Petrie",
+      "role": "writer",
+      "slug": "doug-petrie"
+    },
+    {
+      "name": "Drew Z. Greenberg",
+      "role": "writer",
+      "slug": "drew-z-greenberg"
+    },
+    {
+      "name": "Brian Larsen",
+      "role": "writer",
+      "slug": "brian-larsen"
     }
   ],
   "displayTitle": "Death Trap",

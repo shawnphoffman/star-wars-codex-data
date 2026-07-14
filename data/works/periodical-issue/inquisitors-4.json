@@ -10,6 +10,41 @@
       "name": "Ramon Rosanas",
       "role": "artist",
       "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Nick Bradshaw",
+      "role": "coverArtist",
+      "slug": "nick-bradshaw"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "coverArtist",
+      "slug": "neeraj-menon"
     }
   ],
   "displayTitle": "Inquisitors #4",

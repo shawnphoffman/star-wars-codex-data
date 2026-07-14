@@ -11,8 +11,20 @@
   "displayTitle": "The Clone Wars: Legacy Of Terror",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1409390225"
+    },
+    {
       "type": "isbn13",
       "value": "9781409390220"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "1409390225",
+      "isbn13": "9781409390220",
+      "kind": "print"
     }
   ],
   "format": "book",

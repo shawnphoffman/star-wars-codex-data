@@ -6,16 +6,42 @@
       "name": "Jude Watson",
       "role": "writer",
       "slug": "jude-watson"
+    },
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
     }
   ],
   "displayTitle": "Jedi Apprentice: The Hidden Past",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439014476"
+    },
+    {
+      "type": "isbn10",
+      "value": "0590519336"
+    },
     {
       "type": "isbn13",
       "value": "9780590519335"
     }
   ],
   "editions": [
+    {
+      "extent": 138,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439014476",
+      "kind": "print",
+      "onsale": "1999-08-01T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn10": "0590519336",
+      "kind": "print"
+    },
     {
       "extent": 138,
       "imprint": "Scholastic",

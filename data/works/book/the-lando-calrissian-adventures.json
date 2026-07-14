@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Lando Calrissian Adventures",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345391101"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 409,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345391101",
+      "kind": "print",
+      "onsale": "1994-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

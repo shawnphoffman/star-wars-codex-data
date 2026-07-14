@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-06-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-2",
-  "synopsis": "New and vital knowledge sends Finn Galfridian with Jacen and Jaina Solo on a mission to the planet of Artorias. Though Finn does not know if his father, Caled, lives, if there is any chance, he must be warned of new dangers. It's a hot and dangerous ride to Artorias, and the occupying Yuuzhan Vong are ready with a toothsome, ravaging welcome&hellip; Meanwhile, Kaye and Nina, board their newly acquired Vong ship, embark on their own mission. It's one they can't refuse: rescuing captives held on a dead planet. There is no telling what peril will meet the rescue party&hellip;",
+  "synopsis": "New and vital knowledge sends Finn Galfridian with Jacen and Jaina Solo on a mission to the planet of Artorias. Though Finn does not know if his father, Caled, lives, if there is any chance, he must be warned of new dangers. It's a hot and dangerous ride to Artorias, and the occupying Yuuzhan Vong are ready with a toothsome, ravaging welcome . . . Meanwhile, Kaye and Nina, board their newly acquired Vong ship, embark on their own mission. It's one they can't refuse: rescuing captives held on a dead planet. There is no telling what peril will meet the rescue party . . .",
   "title": "Invasion: Rescues #2"
 }

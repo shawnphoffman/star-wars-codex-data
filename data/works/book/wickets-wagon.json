@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Wicket's Wagon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0583311660"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Dragon Picture Books",
+      "isPrimary": true,
+      "isbn10": "0583311660",
+      "kind": "print",
+      "onsale": "1987-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1987-09-24T00:00:00.000Z",
+  "releaseDate": "1987-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wickets-wagon",

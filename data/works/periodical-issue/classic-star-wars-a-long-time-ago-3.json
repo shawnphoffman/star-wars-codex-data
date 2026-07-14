@@ -1,0 +1,65 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "penciler",
+      "slug": "walt-simonson"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "John Morelli",
+      "role": "letterer",
+      "slug": "john-morelli"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Janice Chiang",
+      "role": "letterer",
+      "slug": "janice-chiang"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Rachel Penn",
+      "role": "editor",
+      "slug": "rachel-penn"
+    },
+    {
+      "name": "Jeremy Perkins",
+      "slug": "jeremy-perkins"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: A Long Time Ago #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-06-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-a-long-time-ago-3",
+  "synopsis": "By David Michelinie, Walt Simonson, and Tom Palmer; cover by Ralph McQuarrie. This black-and-white reprint collects Marvel Star Wars issues #51 - \"Resurrection of Evil,\" #50 - \"To Take the Tarkin,\" and #60 - \"Shira's Story.\"",
+  "title": "Classic Star Wars: A Long Time Ago #3"
+}

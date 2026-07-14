@@ -5,6 +5,60 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Denis Rodier",
+      "role": "inker",
+      "slug": "denis-rodier"
+    },
+    {
+      "name": "Anthony Akins",
+      "role": "inker",
+      "slug": "anthony-akins"
+    },
+    {
+      "name": "Denis Rodier",
+      "role": "penciler",
+      "slug": "denis-rodier"
+    },
+    {
+      "name": "Anthony Akins",
+      "role": "penciler",
+      "slug": "anthony-akins"
+    },
+    {
+      "name": "Tony Akins",
+      "role": "artist",
+      "slug": "tony-akins"
+    },
+    {
+      "name": "Denis Rodier",
+      "role": "artist",
+      "slug": "denis-rodier"
+    },
+    {
+      "name": "Suzanne Bourdages",
+      "role": "colorist",
+      "slug": "suzanne-bourdages"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Tales of the Jedi: The Freedon Nadd Uprising #1",
@@ -17,10 +71,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1994-08-02T00:00:00.000Z",
+  "releaseDate": "1994-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-freedon-nadd-uprising-1994-1",
-  "synopsis": "After the Beast Wars, the new Onderonian monarchy and their Jedi allies under Master Arca Jeth prepare to transport the sarcophagi of the dark siders Freedon Nadd and Amanoa to a sealed tomb on the moon of Dxun. Before the remains can be loaded, a groundborer disgorges hundreds of Naddists led by Warb Null, who seize the sarcophagi and vanish into the depths of Iziz. Tracing the dark side to King Ommin's life-support facility, Arca is ambushed; the spirit of Freedon Nadd empowers Ommin, who kidnaps the Jedi Master while Ulic Qel-Droma slays Warb Null. With the palace fallen, Ulic and his companions flee to Modon Kira's fortress and call for Republic and Jedi reinforcements.\n\nOn Ossus, Master Thon presents his new apprentice Nomi Sunrider and her daughter Vima to Master Vodo-Siosk Baas. After building her first lightsaber and training for weeks, Nomi joins four fellow students on a mission to rescue Arca. Meanwhile the Krath heirs Satal and Aleema Keto steal a Sith book from the Galactic Museum on Coruscant and, unable to read it, run the Republic blockade of Onderon to seek out the Sith magicians of Iziz.",
+  "synopsis": "Everyone knows the story of the last Jedi Knight, Luke Skywalker. But 4000 years before this solitary hero battled to save the universe the Jedi were a wandering tribe of peace keepers maintaining the balance against the dark side of the Force. This is the story of one such warrior, young Jedi Ulic Qel-Droma, as he battles the dark side power of Freedon Nadd to save the planet Onderon from being swallowed by evil!",
   "title": "Tales of the Jedi: The Freedon Nadd Uprising #1"
 }

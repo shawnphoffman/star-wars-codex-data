@@ -11,6 +11,18 @@
   "displayTitle": "Lando's Luck",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B07DS3THFG"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368043488"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368041508"
+    },
+    {
       "type": "isbn13",
       "value": "9781368043489"
     }
@@ -18,8 +30,18 @@
   "editions": [
     {
       "extent": 176,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368041508",
+      "kind": "print",
+      "onsale": "2018-10-02T00:00:00.000Z"
+    },
+    {
+      "asin": "B07DS3THFG",
+      "extent": 176,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368043488",
       "isbn13": "9781368043489",
       "kind": "print",
       "onsale": "2018-10-02T00:00:00.000Z"

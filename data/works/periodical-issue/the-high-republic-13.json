@@ -10,6 +10,36 @@
       "name": "Ario Anindito",
       "role": "artist",
       "slug": "ario-anindito"
+    },
+    {
+      "name": "Mark Morales",
+      "role": "inker",
+      "slug": "mark-morales"
+    },
+    {
+      "name": "Carlos Lopez",
+      "role": "colorist",
+      "slug": "carlos-lopez"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "penciler",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
     }
   ],
   "displayTitle": "The High Republic (2021) #13",
@@ -18,7 +48,7 @@
   "inUniverseDate": {
     "startYear": -230
   },
-  "parentWorkSlug": "the-high-republic-2021",
+  "parentWorkSlug": "the-high-republic-2022",
   "periodical": {
     "publicationKind": "comic"
   },

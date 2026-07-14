@@ -15,6 +15,31 @@
       "name": "Jose Marzan Jr.",
       "role": "artist",
       "slug": "jose-marzan-jr"
+    },
+    {
+      "name": "Marc Yarza",
+      "role": "penciler",
+      "slug": "marc-yarza"
+    },
+    {
+      "name": "Jose Marzan Jr.",
+      "role": "inker",
+      "slug": "jose-marzan-jr"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Diego Galindo",
+      "role": "coverArtist",
+      "slug": "diego-galindo"
     }
   ],
   "displayTitle": "Hyperspace Stories: Codebreaker",

@@ -6,6 +6,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
     }
   ],
   "displayTitle": "Jedi: Count Dooku",

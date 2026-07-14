@@ -5,6 +5,21 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "penciler",
+      "slug": "stphane-roux"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire #01: Iron Eclipse, Part 1",
@@ -15,11 +30,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-12-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-01-iron-eclipse-part-1",
+  "synopsis": "The name's Cross. Jahan Cross. Move over, James Bond; there's a new secret agent in the galaxy, and he has the weight of the Empire behind him! Cross's mission takes him and his assistant IN-GA 44 to the affluent Corporate Sector. There, on the trail of stolen droid technology, they will rub elbows with diplomats and desperadoes, captains of industry and sergeants of the local police--and rub most of them the wrong way! * A view of the Star Wars galaxy from inside the Empire! * The author of the best-selling Star Wars: Legacy and Star Wars: Republic returns!",
   "title": "Agent of the Empire #01: Iron Eclipse, Part 1"
 }

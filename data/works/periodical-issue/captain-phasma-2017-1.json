@@ -1,5 +1,52 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
+    },
+    {
+      "name": "R Rahzzah",
+      "role": "coverArtist",
+      "slug": "r-rahzzah"
+    },
+    {
+      "name": "Rahzzah",
+      "role": "coverArtist",
+      "slug": "rahzzah"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "inker",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "penciler",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    }
+  ],
   "displayTitle": "Captain Phasma, Part I",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

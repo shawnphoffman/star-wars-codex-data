@@ -1,6 +1,13 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #236",
+  "editions": [
+    {
+      "extent": 84,
+      "isPrimary": false,
+      "kind": "print"
+    }
+  ],
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",

@@ -1,6 +1,6 @@
 {
   "bookType": "other",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "James Kahn",
@@ -13,13 +13,19 @@
     {
       "type": "isbn10",
       "value": "0345307674"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345307675"
     }
   ],
   "editions": [
     {
       "extent": 192,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "0345307674",
+      "isbn13": "9780345307675",
       "kind": "print",
       "onsale": "1983-05-12T00:00:00.000Z"
     }
@@ -32,5 +38,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "return-of-the-jedi",
+  "synopsis": "Luke Skywalker faces his destiny, in the epic conclusion to the original Star Wars trilogy. Luke Skywalker has returned to his home planet of Tatooine in an attempt to rescue his friend Han Solo from the clutches of the vile gangster Jabba the Hutt. Little does Luke know that the GALACTIC EMPIRE has secretly begun construction on a new armored space station even more powerful than the first dreaded Death Star. When completed, this ultimate weapon will spell certain doom for the small band of rebels struggling to restore freedom to the galaxy . . .",
   "title": "Return of the Jedi"
 }

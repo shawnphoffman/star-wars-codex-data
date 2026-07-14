@@ -30,6 +30,41 @@
       "name": "Jordi Ensign",
       "role": "artist",
       "slug": "jordi-ensign"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "penciler",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "penciler",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Mike Barreiro",
+      "role": "inker",
+      "slug": "mike-barreiro"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith",

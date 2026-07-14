@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Kieron Gillen",
@@ -15,6 +15,36 @@
       "name": "John Cassaday",
       "role": "artist",
       "slug": "john-cassaday"
+    },
+    {
+      "name": "Chris Claremont",
+      "role": "writer",
+      "slug": "chris-claremont"
+    },
+    {
+      "name": "Mike Vosburg",
+      "role": "penciler",
+      "slug": "mike-vosburg"
+    },
+    {
+      "name": "Steve Leialoha",
+      "role": "inker",
+      "slug": "steve-leialoha"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "coverArtist",
+      "slug": "walt-simonson"
     }
   ],
   "displayTitle": "Star Wars (2015) Annual #1",
@@ -23,7 +53,7 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "star-wars-2015",
+  "parentWorkSlug": "star-wars-annual-1979",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -5,6 +5,50 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "letterer",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Cam Smith",
+      "role": "penciler",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Jasen Rodriguez",
+      "role": "inker",
+      "slug": "jasen-rodriguez"
+    },
+    {
+      "name": "Joe Wayne",
+      "role": "colorist",
+      "slug": "joe-wayne"
+    },
+    {
+      "name": "Joe Wayne",
+      "role": "letterer",
+      "slug": "joe-wayne"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Nestelle",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Steve Firchow",
+      "role": "coverArtist",
+      "slug": "steve-firchow"
     }
   ],
   "displayTitle": "Republic #47: Honor and Duty, Part 2",

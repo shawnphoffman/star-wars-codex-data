@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm #1 (3rd printing)",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-storm-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2012-02-15T00:00:00.000Z",
+  "releaseDate": "2012-04-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-storm-2012-1",
-  "synopsis": "Dawn of the Jedi: Force Storm 1 was the first issue of the five-issue miniseries Dawn of the Jedi: Force Storm, the first arc in the Star Wars: Dawn of the Jedi comic book series. Published by Dark Horse Comics on February 15, 2012, Force Storm 1 was the first Star Wars material to be set in the Before the Republic era, a new publishing era that includes all galactic history prior to the founding of the Galactic Republic. Force Storm 1 received generally positive reviews, and both it and the series' preview issue 0 sold out in stores across the United States by the end of February 2012, with 18,797 copies sold in comic shops worldwide on February 15. The issue's success prompted Dark Horse to issue a second and then a third printing of Force Storm 1 with special variant covers by Gonzalo Flores and Jan Duursema.",
+  "synopsis": "On the planet Tython, in the center of the galaxy, an order of warrior monks strives to maintain peace and to balance the mysterious power known as the Force. But a stranger is coming--one who will destroy both peace and balance, and open the galaxy to exploration and conquest. This is where it all begins! John Ostrander and Jan Duursema of Star Wars: Legacy fame reveal the mythic age of the Jedi's beginnings! * A series that establishes the beginnings of the Jedi! * The Ostrander/Duursema team returns to Star Wars!",
   "title": "Dawn of the Jedi: Force Storm #1 (3rd printing)"
 }

@@ -6,15 +6,39 @@
       "name": "Ryder Windham",
       "role": "writer",
       "slug": "ryder-windham"
+    },
+    {
+      "name": "Ben Dewey",
+      "role": "penciler",
+      "slug": "ben-dewey"
+    },
+    {
+      "name": "Mae Hao",
+      "role": "colorist",
+      "slug": "mae-hao"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "The Clone Wars: Strange Allies",
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-10-19T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
-  "releaseDate": "2011-10-12T00:00:00.000Z",
+  "releaseDate": "2011-10-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-strange-allies",

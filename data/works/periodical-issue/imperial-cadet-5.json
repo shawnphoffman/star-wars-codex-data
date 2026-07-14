@@ -10,6 +10,41 @@
       "name": "Leonard Kirk",
       "role": "artist",
       "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "inker",
+      "slug": "cory-hamscher"
+    },
+    {
+      "name": "Daniele Orlandini",
+      "role": "inker",
+      "slug": "daniele-orlandini"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "David Nakayama",
+      "role": "coverArtist",
+      "slug": "david-nakayama"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
     }
   ],
   "displayTitle": "Han Solo: Imperial Cadet Part V",

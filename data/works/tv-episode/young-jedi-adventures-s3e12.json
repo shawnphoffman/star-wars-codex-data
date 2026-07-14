@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Adrian McNair",
+      "role": "writer",
+      "slug": "adrian-mcnair"
+    }
+  ],
   "displayTitle": "Harvester Madness",
   "era": "highRepublic",
   "format": "tvEpisode",

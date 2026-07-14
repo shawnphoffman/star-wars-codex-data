@@ -6,6 +6,10 @@
       "name": "Cavan Scott",
       "role": "writer",
       "slug": "cavan-scott"
+    },
+    {
+      "name": "Corey Brickley",
+      "slug": "corey-brickley"
     }
   ],
   "displayTitle": "Path of Vengeance",
@@ -26,7 +30,7 @@
   "editions": [
     {
       "extent": 528,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368082882",
       "isbn13": "9781368082884",
@@ -50,6 +54,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-path-of-vengeance",
-  "synopsis": "The Path of the Open Hand’s Yana and Marda have long pledged their loyalty to the group that raised them. But what if things don’t have to stay the way they’ve always been?",
+  "synopsis": "The Path of the Open Hand's Yana and Marda have long pledged their loyalty to the group that raised them. But what if things don't have to stay the way they've always been?",
   "title": "Path of Vengeance"
 }

@@ -5,6 +5,41 @@
       "name": "Mike Richardson",
       "role": "writer",
       "slug": "mike-richardson"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "inker",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Bartolo",
+      "role": "colorist",
+      "slug": "michael-bartolo"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "artist",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire III: Empire Lost #5",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-03-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-iii-empire-lost-2011-5",
-  "synopsis": "Kir Kanos, the last surviving member of the Emperor's Royal Guard, finds himself teamed with his former enemy Mirith Sinn on a mission for the New Republic. But their secret parley with an Imperial representative becomes an ambush from which some will not return! Meanwhile, the Imperial hardliners reveal their true target!",
+  "synopsis": "Kir Kanos, the last surviving member of the Emperor's Royal Guard, finds himself teamed with his former enemy Mirith Sinn on a mission for the New Republic. But their secret parley with an Imperial representative becomes an ambush from which some will not return! Meanwhile, the Imperial hardliners reveal their true target! * Luke! Han! Leia! * Plus, Royal Guard vs. stormtroopers!",
   "title": "Crimson Empire III: Empire Lost #5"
 }

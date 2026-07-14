@@ -25,6 +25,41 @@
       "name": "Jordie Bellaire",
       "role": "artist",
       "slug": "jordie-bellaire"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "penciler",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "inker",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "coverArtist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "colorist",
+      "slug": "jordie-bellaire"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
     }
   ],
   "displayTitle": "Princess Leia, Part II",

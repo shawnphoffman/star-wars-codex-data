@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Gene Day",
+      "role": "inker",
+      "slug": "gene-day"
+    },
+    {
+      "name": "Nel Yomtov",
+      "role": "colorist",
+      "slug": "nel-yomtov"
     }
   ],
   "displayTitle": "Star Wars (1977) #37: In Mortal Combat",

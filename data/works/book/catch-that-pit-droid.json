@@ -11,11 +11,20 @@
   "displayTitle": "Catch That Pit Droid!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439101654"
+    },
+    {
       "type": "isbn13",
       "value": "9780439101653"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439101654",
+      "kind": "print"
+    },
     {
       "extent": 24,
       "imprint": "Scholastic",

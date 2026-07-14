@@ -15,6 +15,31 @@
       "name": "Mauro Vargas",
       "role": "artist",
       "slug": "mauro-vargas"
+    },
+    {
+      "name": "Juan Frigeri",
+      "role": "penciler",
+      "slug": "juan-frigeri"
+    },
+    {
+      "name": "Mauro Vargas",
+      "role": "inker",
+      "slug": "mauro-vargas"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Darth Maul: Son of Dathomir",

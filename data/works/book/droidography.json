@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Droidography",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780062862198"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "HarperFestival",
+      "isPrimary": true,
+      "isbn13": "9780062862198",
+      "kind": "print",
+      "onsale": "2018-11-06T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

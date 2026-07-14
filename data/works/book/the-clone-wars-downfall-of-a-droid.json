@@ -11,8 +11,20 @@
   "displayTitle": "The Clone Wars: Downfall Of A Droid",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "140930213X"
+    },
+    {
       "type": "isbn13",
       "value": "9781409302131"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "140930213X",
+      "isbn13": "9781409302131",
+      "kind": "print"
     }
   ],
   "era": "fallOfTheJedi",

@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Galaxy of Fear: The Hunger",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "055348642X"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "055348642X",
+      "kind": "print",
+      "onsale": "1998-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
@@ -30,7 +45,7 @@
     "galaxy-of-fear-1997-8",
     "galaxy-of-fear-1997-9"
   ],
-  "releaseDate": "1998-09-08T00:00:00.000Z",
+  "releaseDate": "1998-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "galaxy-of-fear-1997-12",

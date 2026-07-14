@@ -1,0 +1,31 @@
+{
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Peet Janes",
+      "role": "writer",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Handbook (1998) #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-handbook",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-handbook-1998-3",
+  "title": "Star Wars Handbook (1998) #3"
+}

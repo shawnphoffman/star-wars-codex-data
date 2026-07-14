@@ -5,6 +5,76 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Legacy #14: Claws of the Dragon pt. 1",
@@ -15,12 +85,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-07-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-14-claws-of-the-dragon-part-1",
-  "synopsis": "Cade Skywalker has done many bad things in his life, but possibly none worse than turning over a captive, Jedi Master Hosk, to the Sith. Now he has come to Coruscant to atone for his sins, and hopefully set Hosk free. But Hosk isn't the only one Cade has crossed, and a chance run-in with a couple of old \"friends\" may send him on a new path. Take note! The next part of this issue begins a story that will reveal the secret behind Legacy's most mysterious character, the self-proclaimed emperor of the Sith Empire, Darth Krayt!",
+  "synopsis": "Cade Skywalker has done some bad things in his life, but possibly none worse than turning over a captive Jedi--Master Hosk--to the Sith. Now he has come to Coruscant to atone for his sins, and hopefully set Hosk free. But Hosk isn't the only one Cade has crossed, and a chance run-in with a couple of old \"friends\" may send him on a new path. Take note! This issue begins a story that will reveal the secret behind Legacy's most mysterious character, the self-proclaimed emperor of the Sith Empire, Darth Krayt! * Check out the cool Travis Charest cover!",
   "title": "Legacy #14: Claws of the Dragon pt. 1"
 }

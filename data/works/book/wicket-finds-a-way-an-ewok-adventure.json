@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "Wicket Finds a Way: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394872605"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780394872605",
+      "kind": "print",
+      "onsale": "1984-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1984-06-28T00:00:00.000Z",
+  "releaseDate": "1984-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-finds-a-way-an-ewok-adventure",

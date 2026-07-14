@@ -5,6 +5,45 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "penciler",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Michael Barreiro",
+      "role": "inker",
+      "slug": "michael-barreiro"
+    },
+    {
+      "name": "Mike Barreiro",
+      "role": "inker",
+      "slug": "mike-barreiro"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Tales of the Jedi #2: Ulic Qel-Droma and the Beast Wars of Onderon, Part 2",
@@ -17,10 +56,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1993-11-15T00:00:00.000Z",
+  "releaseDate": "1993-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-2-ulic-qel-droma-and-the-beast-wars-of-onderon-part-2",
-  "synopsis": "Tales of the Jedi 2 is the second issue in the Tales of the Jedi series of comics. It was published on November 15, 1993 by Dark Horse Comics.",
+  "synopsis": "The dramatic conclusion to the saga of Onderon! Sent on a deadly training mission to a planet overrun with gigantic beasts, the young Jedi Ulic Qel-Droma must settle a war that has raged for centuries without losing his cool -- or his head!",
   "title": "Tales of the Jedi #2: Ulic Qel-Droma and the Beast Wars of Onderon, Part 2"
 }

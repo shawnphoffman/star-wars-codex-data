@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    }
+  ],
   "displayTitle": "Yoda Rescue",
   "era": "highRepublic",
   "format": "tvEpisode",

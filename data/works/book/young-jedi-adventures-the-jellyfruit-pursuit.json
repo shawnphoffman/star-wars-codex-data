@@ -6,10 +6,24 @@
       "name": "Erik Doescher",
       "role": "writer",
       "slug": "erik-doescher"
+    },
+    {
+      "name": "Golden Books",
+      "role": "writer",
+      "slug": "golden-books"
+    },
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
     }
   ],
   "displayTitle": "Young Jedi Adventures: The Jellyfruit Pursuit",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736444289"
+    },
     {
       "type": "isbn13",
       "value": "9780736444286"
@@ -18,8 +32,9 @@
   "editions": [
     {
       "extent": 24,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736444289",
       "isbn13": "9780736444286",
       "kind": "print",
       "onsale": "2024-01-02T00:00:00.000Z"
@@ -34,6 +49,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-the-jellyfruit-pursuit",
-  "synopsis": "Pirates have stolen the jellyfruit for the upcoming Jellyfruit Festival, and it’s up to Kai and his friends to get it back.",
+  "synopsis": "Pirates have stolen the jellyfruit for the upcoming Jellyfruit Festival, and it's up to Kai and his friends to get it back.",
   "title": "Young Jedi Adventures: The Jellyfruit Pursuit"
 }

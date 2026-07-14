@@ -6,16 +6,54 @@
       "name": "Ryder Windham",
       "role": "writer",
       "slug": "ryder-windham"
+    },
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
     }
   ],
   "displayTitle": "Episode II Adventures 6: The Warlords of Balmorra",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101433"
+    },
+    {
+      "type": "isbn10",
+      "value": "0439458854"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439129893"
+    },
     {
       "type": "isbn13",
       "value": "9780439458856"
     }
   ],
   "editions": [
+    {
+      "extent": 100,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439101433",
+      "kind": "print",
+      "onsale": "2000-02-01T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn10": "0439458854",
+      "kind": "print"
+    },
+    {
+      "extent": 100,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439129893",
+      "kind": "print",
+      "onsale": "2000-02-01T00:00:00.000Z"
+    },
     {
       "extent": 126,
       "imprint": "Scholastic",
@@ -30,7 +68,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "2003-03-01T00:00:00.000Z",
+  "releaseDate": "2000-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-6-the-warlords-of-balmorra",

@@ -5,6 +5,40 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Eric Shanower",
+      "role": "inker",
+      "slug": "eric-shanower"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "penciler",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "The Last Command #3",

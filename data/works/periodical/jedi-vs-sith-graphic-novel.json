@@ -5,6 +5,31 @@
       "name": "Darko Macan",
       "role": "writer",
       "slug": "darko-macan"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "penciler",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Raul Fernandez",
+      "role": "inker",
+      "slug": "raul-fernandez"
+    },
+    {
+      "name": "Chris Blythe",
+      "role": "colorist",
+      "slug": "chris-blythe"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Andrew Robinson",
+      "role": "coverArtist",
+      "slug": "andrew-robinson"
     }
   ],
   "displayTitle": "Jedi vs. Sith",
@@ -16,7 +41,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2002-05-01T00:00:00.000Z",
+  "releaseDate": "2001-04-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-vs-sith-graphic-novel",

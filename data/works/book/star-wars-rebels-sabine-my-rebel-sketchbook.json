@@ -8,7 +8,23 @@
       "slug": "daniel-wallace"
     }
   ],
-  "displayTitle": "Star Wars Rebels: Sabine My Rebel Sketchbook",
+  "displayTitle": "Rebels: Sabine My Rebel Sketchbook",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794432898"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn13": "9780794432898",
+      "kind": "print",
+      "onsale": "2015-02-03T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

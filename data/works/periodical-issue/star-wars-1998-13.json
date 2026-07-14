@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Lyle",
+      "role": "penciler",
+      "slug": "tom-lyle"
+    },
+    {
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #13",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998-13",
+  "title": "Star Wars (1998) #13"
+}

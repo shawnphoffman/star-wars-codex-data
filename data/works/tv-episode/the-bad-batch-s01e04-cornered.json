@@ -10,19 +10,24 @@
       "name": "Saul Ruiz",
       "role": "director",
       "slug": "saul-ruiz"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
     }
   ],
-  "displayTitle": "The Bad Batch S01E04: Cornered",
+  "displayTitle": "Cornered",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-05-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e04-cornered",
   "synopsis": "The Batch's supply run goes awry",
-  "title": "The Bad Batch S01E04: Cornered"
+  "title": "Cornered"
 }

@@ -5,6 +5,26 @@
       "name": "Ethan Sacks",
       "role": "writer",
       "slug": "ethan-sacks"
+    },
+    {
+      "name": "Marc Yarza",
+      "role": "penciler",
+      "slug": "marc-yarza"
+    },
+    {
+      "name": "Jose Marzan Jr.",
+      "role": "inker",
+      "slug": "jose-marzan-jr"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Jose Marzan Jr.",
+      "role": "coverArtist",
+      "slug": "jose-marzan-jr"
     }
   ],
   "displayTitle": "Hyperspace Stories: Codebreaker #03",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-codebreaker",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-08-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-codebreaker-03",
-  "synopsis": "Issue 3 of 4 from the Dark Horse Comics Hyperspace Stories Codebrecker miniseries\nThe First Order searches high and low for Poe and BB-8 after the heroes' daring escape! Can the pair make it off world without being captured?",
+  "synopsis": "The First Order searches high and low for Poe and BB-8 after the heroes’ daring escape! Can the pair make it off world without being captured? • Four issue series.",
   "title": "Hyperspace Stories: Codebreaker #03"
 }

@@ -15,6 +15,26 @@
       "name": "Vincenzo Acunzo",
       "role": "artist",
       "slug": "vincenzo-acunzo"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Vincenzo Acunzo",
+      "role": "inker",
+      "slug": "vincenzo-acunzo"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knight Errant: Escape",

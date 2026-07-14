@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Christian Taylor",
@@ -15,6 +15,16 @@
       "name": "Dave Filoni",
       "role": "director",
       "slug": "dave-filoni"
+    },
+    {
+      "name": "Hitoshi Haga",
+      "role": "director",
+      "slug": "hitoshi-haga"
+    },
+    {
+      "name": "Takahito Oonishi",
+      "role": "writer",
+      "slug": "takahito-oonishi"
     }
   ],
   "displayTitle": "The Lost Ones",

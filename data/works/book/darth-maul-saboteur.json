@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Darth Maul: Saboteur",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345447352"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 54,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345447352",
+      "kind": "print",
+      "onsale": "2001-02-15T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

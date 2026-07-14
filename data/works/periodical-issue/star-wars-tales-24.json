@@ -1,5 +1,97 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Roger Langridge",
+      "role": "inker",
+      "slug": "roger-langridge"
+    },
+    {
+      "name": "Cully Hamner",
+      "role": "inker",
+      "slug": "cully-hamner"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "inker",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Christopher Avellone",
+      "role": "writer",
+      "slug": "christopher-avellone"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Roger Langridge",
+      "role": "penciler",
+      "slug": "roger-langridge"
+    },
+    {
+      "name": "Cully Hamner",
+      "role": "penciler",
+      "slug": "cully-hamner"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "penciler",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "coverArtist",
+      "slug": "brandon-badeaux"
+    }
+  ],
   "displayTitle": "Tales #24",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +103,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-24",
-  "synopsis": "Powerful is the dark side of the Force; its corrupting, seductive pull has produced some of the most memorable villains in the Star Wars galaxy. Exploring the moral and emotional fall-out that comes with giving oneself over to the ways of the Sith, this issue features four stories steeped in darkness and danger, spanning nearly every Star Wars era, including the final act of our serialized tale, \"Nomad.\" The truth about wandering Jedi Darca Nyl is at last revealed, but will the end of his journey bring him peace&hellip; or even more trouble? The premier Star Wars comics anthology rolls onward.",
+  "synopsis": "Powerful is the dark side of the Force; its corrupting, seductive pull has produced some of the most memorable villains in the Star Wars galaxy. Exploring the moral and emotional fall-out that comes with giving oneself over to the ways of the Sith, this issue features four stories steeped in darkness and danger, spanning nearly every Star Wars era, including the final act of our serialized tale, \"Nomad.\" The truth about wandering Jedi Darca Nyl is at last revealed, but will the end of his journey bring him peace ... or even more trouble? The premier Star Wars comics anthology rolls onward. Available worldwide from Dark Horse Comics (available in the UK from Titan)",
   "title": "Star Wars Tales #24"
 }

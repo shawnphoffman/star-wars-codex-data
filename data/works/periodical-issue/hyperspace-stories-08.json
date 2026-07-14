@@ -10,6 +10,16 @@
       "name": "Nick Brokenshire",
       "role": "artist",
       "slug": "nick-brokenshire"
+    },
+    {
+      "name": "David Kennedy",
+      "role": "colorist",
+      "slug": "david-kennedy"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "coverArtist",
+      "slug": "tom-fowler"
     }
   ],
   "displayTitle": "Hyperspace Stories #09",
@@ -20,12 +30,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2023-09-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-08",
-  "synopsis": "Issue 9 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nJedi Knight Quinlan Vos arrives on the crime ridden world of Bevana, on a mission that could be the key to ending the Clone Wars. But it turns out the defector he's tracking has more than Dooku's secrets, he's also made off with a sizeable amount of the count's fortune! Now Vos finds himself in a lethal race against time with the deadliest bounty hunter in the Galaxy, Cad Bane!",
+  "synopsis": "Jedi Knight Quinlan Vos arrives on the crime ridden world of Bevana, on a mission that could be the key to ending the Clone Wars. But it turns out the defector he's tracking has more than Dooku's secrets, he's also made off with a sizeable amount of the count's fortune! Now Vos finds himself in a lethal race against time with the deadliest bounty hunter in the Galaxy, Cad Bane!",
   "title": "Hyperspace Stories #09"
 }

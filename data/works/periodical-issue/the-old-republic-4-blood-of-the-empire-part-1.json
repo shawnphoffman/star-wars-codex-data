@@ -5,6 +5,31 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "The Old Republic #4: Blood of the Empire, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-10-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-4-blood-of-the-empire-part-1",
-  "synopsis": "After hundreds of years, the Sith Empire has returned to the galaxy, determined to crush the Republic that sent them into exile. For young Sith Teneb Kel, it is his only chance to rise above his lowly beginnings as a slave and prove his worth to the Dark Council. Yet their mission for him is unexpected. He will not hunt Jedi, but rather, a fellow Sith&mdash;the Emperor's apprentice!",
+  "synopsis": "After hundreds of years, the Sith Empire has returned to the galaxy, determined to crush the Republic that sent them into exile. For young Sith Teneb Kel, it is his only chance to rise above his lowly beginnings as a slave and prove his worth to the Dark Council. Yet their mission for him is unexpected. He will not hunt Jedi, but rather, a fellow Sith--the Emperor's apprentice! * Based on the highly anticipated MMOG from LucasArts and BioWare! * Written by senior game writer Alexander Freed! * The newest Star Wars era begins here! New story! New characters! New creative team!",
   "title": "The Old Republic #4: Blood of the Empire, Part 1"
 }

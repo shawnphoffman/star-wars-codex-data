@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "artist",
+      "slug": "toni-bruno"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "coverArtist",
+      "slug": "harvey-tolibao"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures Phase III #10",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-phase-iii-10",
+  "synopsis": "Zeen, Lula, and their friends come face-to-face with a familiar nemesis on the streets of Eriadu City! As the Republic and the Jedi try to protect the capital from capture, they must do battle with old enemies. The fate of the planet is on the line as the forces of light and dark vie for its allegiance!",
+  "title": "The High Republic Adventures Phase III #10"
+}

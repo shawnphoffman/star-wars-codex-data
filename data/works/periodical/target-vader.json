@@ -35,6 +35,106 @@
       "name": "Georges Duarte",
       "role": "artist",
       "slug": "georges-duarte"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Cris Bolson",
+      "role": "penciler",
+      "slug": "cris-bolson"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "penciler",
+      "slug": "stefano-landini"
+    },
+    {
+      "name": "Roberto Di Salvo",
+      "role": "penciler",
+      "slug": "roberto-di-salvo"
+    },
+    {
+      "name": "Marco Failla",
+      "role": "penciler",
+      "slug": "marco-failla"
+    },
+    {
+      "name": "Georges Duarte",
+      "role": "penciler",
+      "slug": "georges-duarte"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Federico Blee",
+      "role": "colorist",
+      "slug": "federico-blee"
+    },
+    {
+      "name": "Erick Arciniega",
+      "role": "colorist",
+      "slug": "erick-arciniega"
+    },
+    {
+      "name": "Giada Marchisio",
+      "role": "colorist",
+      "slug": "giada-marchisio"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Nic Klein",
+      "role": "coverArtist",
+      "slug": "nic-klein"
+    },
+    {
+      "name": "Carmen Carnero",
+      "role": "coverArtist",
+      "slug": "carmen-carnero"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "John McCrea",
+      "role": "coverArtist",
+      "slug": "john-mccrea"
+    },
+    {
+      "name": "Mike Spicer",
+      "role": "coverArtist",
+      "slug": "mike-spicer"
     }
   ],
   "displayTitle": "Target Vader",

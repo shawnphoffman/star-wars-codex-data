@@ -10,6 +10,41 @@
       "name": "Stephen Mooney",
       "role": "artist",
       "slug": "stephen-mooney"
+    },
+    {
+      "name": "Dennis \"Hopeless\" Hallum",
+      "role": "writer",
+      "slug": "dennis-hopeless-hallum"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Brian Level",
+      "role": "penciler",
+      "slug": "brian-level"
+    },
+    {
+      "name": "David Lopez",
+      "role": "penciler",
+      "slug": "david-lopez"
+    },
+    {
+      "name": "Stephen Mooney",
+      "role": "penciler",
+      "slug": "stephen-mooney"
+    },
+    {
+      "name": "Geraldo Borges",
+      "role": "penciler",
+      "slug": "geraldo-borges"
+    },
+    {
+      "name": "Greg Smallwood",
+      "role": "coverArtist",
+      "slug": "greg-smallwood"
     }
   ],
   "displayTitle": "Vader: Dark Visions",
@@ -18,7 +53,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2019-05-29T00:00:00.000Z",
+  "releaseDate": "2019-03-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "vader-dark-visions",

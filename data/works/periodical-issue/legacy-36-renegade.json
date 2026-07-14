@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
     }
   ],
   "displayTitle": "Legacy #36: Renegade",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2009-05-28T00:00:00.000Z",
+  "releaseDate": "2009-05-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-36-renegade",
-  "synopsis": "Gar Stazi's Galactic Alliance fleet joins forces with deposed Emperor Roan Fel's Imperials in a strike against the Sith Empire. Stazi has his work cut out for him - not only must he hold together the shaky coalition, but he has to make sure that the allies do not lower themselves to their enemies' tactics! Fleet-versus-fleet action in the Star Wars tradition!",
+  "synopsis": "Gar Stazi's Galactic Alliance fleet joins forces with deposed Emperor Roan Fel's Imperials in a strike against the Sith Empire. Stazi has his work cut out for him -- not only must he hold together the shaky coalition, but he has to make sure that the allies do not lower themselves to their enemies' tactics! Fleet-versus-fleet action in the Star Wars tradition!",
   "title": "Legacy #36: Renegade"
 }

@@ -20,6 +20,11 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "George Lucas",
+      "role": "director",
+      "slug": "george-lucas"
     }
   ],
   "displayTitle": "Episode II: Attack Of The Clones",
@@ -30,7 +35,7 @@
   },
   "movie": {
     "movieType": "theatrical",
-    "mpaaRating": "pg",
+    "mpaaRating": "unrated",
     "runtimeMinutes": 142
   },
   "releaseDate": "2002-05-15T00:00:00.000Z",

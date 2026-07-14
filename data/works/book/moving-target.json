@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "1484724976"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484724972"
     }
   ],
   "editions": [
@@ -28,6 +32,11 @@
       "isbn10": "1484724976",
       "kind": "print",
       "onsale": "2015-09-04T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn13": "9781484724972",
+      "kind": "print"
     }
   ],
   "era": "ageOfRebellion",

@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Backlash",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345509080"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 328,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345509080",
+      "kind": "print",
+      "onsale": "2010-03-09T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 43
   },
-  "releaseDate": "2010-03-04T00:00:00.000Z",
+  "releaseDate": "2010-03-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "backlash",

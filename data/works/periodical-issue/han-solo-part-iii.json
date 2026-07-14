@@ -30,9 +30,29 @@
       "name": "Lee Bermejo",
       "role": "artist",
       "slug": "lee-bermejo"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "coverArtist",
+      "slug": "lee-bermejo"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "penciler",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Marjorie Liu",
+      "role": "writer",
+      "slug": "marjorie-liu"
     }
   ],
-  "displayTitle": "Han Solo, Part III",
+  "displayTitle": "Han Solo, (2016) #3",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -47,5 +67,5 @@
   "releaseStatus": "released",
   "slug": "han-solo-part-iii",
   "synopsis": "As The Dragon Void race gets more intense… Han's rebel mission gets more deadly! Can the Falcon hold up to one of the most intense flights of its career? What's worse for Han… failing Leia? Or losing a race?",
-  "title": "Han Solo, Part III"
+  "title": "Han Solo, (2016) #3"
 }

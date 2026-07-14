@@ -1,0 +1,100 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "artist",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Gene Day",
+      "role": "artist",
+      "slug": "gene-day"
+    },
+    {
+      "name": "Michael Golden",
+      "role": "artist",
+      "slug": "michael-golden"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "artist",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "artist",
+      "slug": "walt-simonson"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "artist",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Shelly Leferman",
+      "role": "letterer",
+      "slug": "shelly-leferman"
+    },
+    {
+      "name": "Ed Stuart",
+      "role": "letterer",
+      "slug": "ed-stuart"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Rachel Penn",
+      "role": "editor",
+      "slug": "rachel-penn"
+    },
+    {
+      "name": "Jeremy Perkins",
+      "slug": "jeremy-perkins"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: A Long Time Ago #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-04-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-a-long-time-ago-2",
+  "synopsis": "This black-and-white reprint collects Marvel Star Wars issues #28 - \"Cavern of the Crawling Death,\" #38 - \"Riders in the Void,\" #49 - \"The Last Jedi,\" and #50 - \"The Crimson Forever.\"",
+  "title": "Classic Star Wars: A Long Time Ago #2"
+}

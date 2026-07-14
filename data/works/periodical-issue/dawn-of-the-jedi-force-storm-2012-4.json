@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm #4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-storm-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2012-05-26T00:00:00.000Z",
+  "releaseDate": "2012-05-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-storm-2012-4",
-  "synopsis": "For millennia, the Je'daii Masters have protected the planet Tython and maintained a balance within the Force. But now a stranger from another world has come, destroying the balance and engulfing the world in a Force storm that threatens every inhabitant! The ancient Je'daii Order stands on the brink of a powerful discovery. But will this knowledge bring wisdom...or peril? Three young Je'daii students may hold the fate of the world in their hands!",
+  "synopsis": "For millennia, the Je’daii Masters have protected the planet Tython and maintained a balance within the Force. But now a stranger from another world has come, destroying the balance and engulfing the world in a Force storm that threatens every inhabitant! The ancient Je’daii Order stands on the brink of a powerful discovery. But will this knowledge bring wisdom . . . or peril? Three young Je’daii students may hold the fate of the world in their hands! * Establishes the beginnings of the Jedi! * The Ostrander/Duursema team returns!",
   "title": "Dawn of the Jedi: Force Storm #4"
 }

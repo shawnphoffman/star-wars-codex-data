@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "Shiny as a Droid",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394878671"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394878671",
+      "kind": "print",
+      "onsale": "1986-04-08T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
   },
-  "releaseDate": "1986-04-12T00:00:00.000Z",
+  "releaseDate": "1986-04-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shiny-as-a-droid",

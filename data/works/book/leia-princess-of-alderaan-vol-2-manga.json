@@ -9,17 +9,38 @@
     },
     {
       "name": "Haruichi",
-      "role": "artist",
+      "role": "writer",
+      "slug": "haruichi"
+    },
+    {
+      "name": "Haruichi",
+      "role": "penciler",
       "slug": "haruichi"
     }
   ],
   "displayTitle": "Leia, Princess of Alderaan, Vol. 2 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9784866972145"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 184,
+      "imprint": "Line Corporation *Yen Press",
+      "isPrimary": true,
+      "isbn13": "9784866972145",
+      "kind": "print",
+      "onsale": "2021-09-15T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3
   },
-  "releaseDate": "2022-05-10T00:00:00.000Z",
+  "releaseDate": "2021-09-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "leia-princess-of-alderaan-vol-2-manga",

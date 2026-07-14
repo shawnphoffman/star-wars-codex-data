@@ -25,6 +25,26 @@
       "name": "Francesco Francavilla",
       "role": "artist",
       "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "penciler",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Robbie Robbins",
+      "role": "letterer",
+      "slug": "robbie-robbins"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Tales From Vader's Castle #1",

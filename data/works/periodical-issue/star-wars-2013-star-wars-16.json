@@ -1,0 +1,83 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "penciler",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Carlo Pagulayan",
+      "role": "coverArtist",
+      "slug": "carlo-pagulayan"
+    },
+    {
+      "name": "Jason Paz",
+      "role": "coverArtist",
+      "slug": "jason-paz"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "coverArtist",
+      "slug": "rain-beredo"
+    }
+  ],
+  "displayTitle": "Star Wars #16",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-04-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-16",
+  "synopsis": "Establishing the new Rebel base on Arrochar, Wedge Antilles teaches the local pilots Rogue Squadron’s secret tactics, Luke Skywalker joins the Arrocharian militia on a “routine” mission, and Princess Leia balances her duty to the Rebellion with her upcoming duties as a royal wife. So why is everyone so uneasy? * Writer Brian Wood gets to the heart of Star Wars! “This is a great read and has been each and every issue.”—Comics List",
+  "title": "Star Wars #16"
+}

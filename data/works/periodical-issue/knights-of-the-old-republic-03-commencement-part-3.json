@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Knights of the Old Republic #03: Commencement, Part 3",
@@ -21,5 +46,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-03-commencement-part-3",
+  "synopsis": "Zayne Carrick never expected to go far in the Jedi Order. A Padawan of modest skill, the most he ever hoped for was to attain the rank of Jedi knight and to serve the galaxy in his own humble way. Mysterious is the will of the Force, however, and extraordinary circumstances have made Zayne a fugitive, isolated and on the run from the very Order he once swore to uphold. Now, Zayne and his unlikely ally-a criminal entrepreneur called the \"the Gryph\"-have been forced into the planet Taris' dangerous Under-city, where the only thing more deadly than the Jedi pursuing them are the desperate cutthroats waiting to greet them!",
   "title": "Knights of the Old Republic #03: Commencement, Part 3"
 }

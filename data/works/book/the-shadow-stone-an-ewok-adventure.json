@@ -14,12 +14,28 @@
     }
   ],
   "displayTitle": "The Shadow Stone: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394879279"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 29,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394879279",
+      "kind": "print",
+      "onsale": "1986-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1986-04-01T00:00:00.000Z",
+  "releaseDate": "1986-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-shadow-stone-an-ewok-adventure",

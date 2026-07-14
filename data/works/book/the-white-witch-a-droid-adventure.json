@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "The White Witch: A Droid Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394879727"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780394879727",
+      "kind": "print",
+      "onsale": "1986-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
-  "releaseDate": "1987-12-19T00:00:00.000Z",
+  "releaseDate": "1986-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-white-witch-a-droid-adventure",

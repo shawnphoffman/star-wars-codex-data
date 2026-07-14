@@ -25,6 +25,76 @@
       "name": "David Messina",
       "role": "artist",
       "slug": "david-messina"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "penciler",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "penciler",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "penciler",
+      "slug": "jethro-morales"
+    },
+    {
+      "name": "David Messina",
+      "role": "penciler",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "inker",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "inker",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "inker",
+      "slug": "jethro-morales"
+    },
+    {
+      "name": "David Messina",
+      "role": "inker",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Fer Sifuentes-Sujo",
+      "role": "colorist",
+      "slug": "fer-sifuentes-sujo"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Chris Sotomayor",
+      "role": "colorist",
+      "slug": "chris-sotomayor"
+    },
+    {
+      "name": "Mattia Iacono",
+      "role": "colorist",
+      "slug": "mattia-iacono"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "The High Republic: Shadows of Starlight",
@@ -33,7 +103,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2024-04-30T00:00:00.000Z",
+  "releaseDate": "2023-10-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-shadows-of-starlight",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rogue One: Rebel Dossier",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484780794"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Disney–Lucasfilm Press *Egmont UK Ltd",
+      "isPrimary": true,
+      "isbn13": "9781484780794",
+      "kind": "print",
+      "onsale": "2016-12-16T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

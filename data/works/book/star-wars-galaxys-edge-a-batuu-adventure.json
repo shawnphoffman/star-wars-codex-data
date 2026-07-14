@@ -6,10 +6,18 @@
       "name": "Jeneanne DeBois",
       "role": "writer",
       "slug": "jeneanne-debois"
+    },
+    {
+      "name": "Bill Robinson",
+      "slug": "bill-robinson"
     }
   ],
   "displayTitle": "Galaxy's Edge: A Batuu Adventure!",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736445269"
+    },
     {
       "type": "isbn13",
       "value": "9780736445269"
@@ -20,6 +28,7 @@
       "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736445269",
       "isbn13": "9780736445269",
       "kind": "print",
       "onsale": "2025-02-25T00:00:00.000Z"

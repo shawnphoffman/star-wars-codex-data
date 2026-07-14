@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "The Ring, the Witch, and the Crystal: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394880570"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780394880570",
+      "kind": "print",
+      "onsale": "1986-05-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1986-01-01T00:00:00.000Z",
+  "releaseDate": "1986-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ring-the-witch-and-the-crystal-an-ewok-adventure",

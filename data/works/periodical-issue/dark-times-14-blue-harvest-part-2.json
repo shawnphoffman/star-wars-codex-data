@@ -5,6 +5,41 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "penciler",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
     }
   ],
   "displayTitle": "Dark Times #14: Blue Harvest, Part 2",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-08-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-14-blue-harvest-part-2",
-  "synopsis": "The miasma of the dark times following the rise of the Empire entangles both the high and the low. Darth Vader comes to a realization about how short his future might be if he doesn't follow his master's every command. While half a galaxy away, Dass Jennir, who has kept his Jedi past a secret from his employer, discovers that his employer hasn't been completely honest with him, either. The job Jennir has been hired to do is only part of what needs to be done, and a Jedi never leaves a job half-finished - even if it means fighting ten-to-one odds!",
+  "synopsis": "The miasma of the dark times following the rise of the Empire entangles both the high and the low. Darth Vader comes to a realization about how short his future might be if he doesn't follow his master's every command. While half a galaxy away, Dass Jennir, who has kept his Jedi past a secret from his employer, discovers that his employer hasn't been completely honest with him, either. The job Jennir has been hired to do is only part of what needs to be done, and a Jedi never leaves a job half-finished -- even if it means fighting ten-to-one odds!",
   "title": "Dark Times #14: Blue Harvest, Part 2"
 }

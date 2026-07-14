@@ -11,11 +11,20 @@
   "displayTitle": "Outbound Flight",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345456831"
+    },
+    {
       "type": "isbn13",
       "value": "9780345456830"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0345456831",
+      "kind": "print"
+    },
     {
       "extent": 464,
       "imprint": "Del Rey",

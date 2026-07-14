@@ -1,0 +1,30 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Benjamin Percy",
+      "role": "writer",
+      "slug": "benjamin-percy"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "penciler",
+      "slug": "madibek-musabekov"
+    },
+    {
+      "name": "Derrick Chew",
+      "role": "coverArtist",
+      "slug": "derrick-chew"
+    }
+  ],
+  "displayTitle": "Shadow of Maul",
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-03-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "shadow-of-maul",
+  "title": "Shadow of Maul"
+}

@@ -6,6 +6,91 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Raphael Corkhill",
+      "role": "narrator",
+      "slug": "raphael-corkhill"
+    },
+    {
+      "name": "Jonathan Davis",
+      "role": "narrator",
+      "slug": "jonathan-davis"
+    },
+    {
+      "name": "Sean Kenin Elias-Reyes",
+      "role": "narrator",
+      "slug": "sean-kenin-elias-reyes"
+    },
+    {
+      "name": "Philip Hernandez",
+      "role": "narrator",
+      "slug": "philip-hernandez"
+    },
+    {
+      "name": "Catherine Ho",
+      "role": "narrator",
+      "slug": "catherine-ho"
+    },
+    {
+      "name": "Sullivan Jones",
+      "role": "narrator",
+      "slug": "sullivan-jones"
+    },
+    {
+      "name": "January LaVoy",
+      "role": "narrator",
+      "slug": "january-lavoy"
+    },
+    {
+      "name": "Saskia Maarleveld",
+      "role": "narrator",
+      "slug": "saskia-maarleveld"
+    },
+    {
+      "name": "Brandon McInnis",
+      "role": "narrator",
+      "slug": "brandon-mcinnis"
+    },
+    {
+      "name": "Salli Saffioti",
+      "role": "narrator",
+      "slug": "salli-saffioti"
+    },
+    {
+      "name": "Kristen Sieh",
+      "role": "narrator",
+      "slug": "kristen-sieh"
+    },
+    {
+      "name": "Marc Thompson",
+      "role": "narrator",
+      "slug": "marc-thompson"
+    },
+    {
+      "name": "Shannon Tyo",
+      "role": "narrator",
+      "slug": "shannon-tyo"
+    },
+    {
+      "name": "Kevin Thomsen",
+      "role": "director",
+      "slug": "kevin-thomsen"
+    },
+    {
+      "name": "Nick Martorelli",
+      "role": "producer",
+      "slug": "nick-martorelli"
+    },
+    {
+      "name": "Lauren Klein",
+      "role": "producer",
+      "slug": "lauren-klein"
+    },
+    {
+      "name": "Kevin Thomsen",
+      "role": "producer",
+      "slug": "kevin-thomsen"
     }
   ],
   "displayTitle": "The Battle of Jedha",
@@ -23,15 +108,8 @@
     {
       "extent": 304,
       "imprint": "Random House Worlds",
-      "isPrimary": true,
-      "isbn13": "9780593597897",
-      "kind": "print",
-      "onsale": "2023-02-14T00:00:00.000Z"
-    },
-    {
-      "imprint": "Random House Worlds",
       "isPrimary": false,
-      "isbn13": "9780593597903",
+      "isbn13": "9780593597897",
       "kind": "print",
       "onsale": "2023-02-14T00:00:00.000Z"
     }

@@ -10,6 +10,40 @@
       "name": "Scott Tolson",
       "role": "writer",
       "slug": "scott-tolson"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #13: The Warrior Princess, Part 1",
@@ -26,6 +60,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-13-the-warrior-princess-part-1",
-  "synopsis": "The squadron's roster has contained Corellian heroes and Alderaanian fighter aces, but when the royal court of Eiattu 6 comes to reclaim their princess from the ranks of Rogue Squadron, it's a surprise to everyone... especially the princess!",
+  "synopsis": "The squadron's roster has contained Corellian heroes and Alderaanian fighter aces, but when the royal court of Eiattu comes to reclaim their princess from the ranks of Rogue Squadron, it's a surprise to everyone . . . especially the princess!",
   "title": "X-Wing Rogue Squadron #13: The Warrior Princess, Part 1"
 }

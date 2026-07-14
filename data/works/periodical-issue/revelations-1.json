@@ -5,6 +5,56 @@
       "name": "Marc Guggenheim",
       "role": "writer",
       "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "penciler",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Emma Kubert",
+      "role": "penciler",
+      "slug": "emma-kubert"
+    },
+    {
+      "name": "Justin Mason",
+      "role": "penciler",
+      "slug": "justin-mason"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "penciler",
+      "slug": "paul-fry"
+    },
+    {
+      "name": "Wayne Faucher",
+      "role": "inker",
+      "slug": "wayne-faucher"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Ariana Maher",
+      "role": "letterer",
+      "slug": "ariana-maher"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Revelations #1",

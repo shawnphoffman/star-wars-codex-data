@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Andy Mangels",
+      "role": "writer",
+      "slug": "andy-mangels"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    }
+  ],
+  "displayTitle": "Boba Fett: Twin Engines of Destruction (1997) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "boba-fett-twin-engines-of-destruction-1997-1",
+  "title": "Boba Fett: Twin Engines of Destruction (1997) #1"
+}

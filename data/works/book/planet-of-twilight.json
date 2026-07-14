@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Planet of Twilight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553575171"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553575171",
+      "kind": "print",
+      "onsale": "1997-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 13
   },
-  "releaseDate": "1997-03-31T00:00:00.000Z",
+  "releaseDate": "1997-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "planet-of-twilight",

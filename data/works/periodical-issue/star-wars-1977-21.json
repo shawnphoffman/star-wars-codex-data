@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Gene Day",
+      "role": "inker",
+      "slug": "gene-day"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
     }
   ],
   "displayTitle": "Star Wars (1977) #21: Shadow of a Dark Lord",

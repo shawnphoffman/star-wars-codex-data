@@ -5,6 +5,36 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "Ron Frenz",
+      "role": "inker",
+      "slug": "ron-frenz"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
+    },
+    {
+      "name": "Christie Scheele",
+      "role": "colorist",
+      "slug": "christie-scheele"
     }
   ],
   "displayTitle": "Return of the Jedi #4: The Final Duel",

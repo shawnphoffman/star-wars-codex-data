@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Invasion: Revelations #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-revelations-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-09-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-revelations-2011-3",
-  "synopsis": "The Yuuzhan Vong invaders are everywhere!\n\nQueen Nina of Artorias and her stepdaughter Kaye discover that the haven meant for the refugees in their care is actually a work camp run by the Empire, for the benefit of the invaders! But worse than that, Kaye learns a horrifying secret about her adoptive mother, and herself!",
+  "synopsis": "The Yuuzhan Vong invaders are everywhere! Queen Nina of Artorias and her stepdaughter Kaye discover that the haven meant for the refugees in their care is actually a work camp run by the Empire--for the benefit of the invaders! But worse than that, Kaye learns a horrifying secret about her adoptive mother--and herself! * Like mother, like daughter?! * Set within the time frame of the New Jedi Order novels from Del Rey!",
   "title": "Invasion: Revelations #3"
 }

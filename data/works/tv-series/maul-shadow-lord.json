@@ -5,6 +5,51 @@
       "name": "Dave Filoni",
       "role": "showrunner",
       "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "Sean Kiner",
+      "role": "composer",
+      "slug": "sean-kiner"
+    },
+    {
+      "name": "Deana Kiner",
+      "role": "composer",
+      "slug": "deana-kiner"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "producer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Athena Yvette Portillo",
+      "role": "producer",
+      "slug": "athena-yvette-portillo"
+    },
+    {
+      "name": "Josh Rimes",
+      "role": "producer",
+      "slug": "josh-rimes"
+    },
+    {
+      "name": "Alex Spotswood",
+      "role": "producer",
+      "slug": "alex-spotswood"
     }
   ],
   "displayTitle": "Maul: Shadow Lord",

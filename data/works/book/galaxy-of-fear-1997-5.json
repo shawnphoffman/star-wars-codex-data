@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Galaxy of Fear: Ghost of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553484540"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553484540",
+      "kind": "print",
+      "onsale": "1997-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
@@ -30,7 +45,7 @@
     "galaxy-of-fear-1997-8",
     "galaxy-of-fear-1997-9"
   ],
-  "releaseDate": "1997-07-07T00:00:00.000Z",
+  "releaseDate": "1997-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "galaxy-of-fear-1997-5",

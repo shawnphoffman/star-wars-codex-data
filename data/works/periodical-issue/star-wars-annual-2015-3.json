@@ -1,0 +1,49 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Jason Latour",
+      "role": "writer",
+      "slug": "jason-latour"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "colorist",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "coverArtist",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "inker",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "penciler",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
+    }
+  ],
+  "displayTitle": "Annual (2015) #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-annual-1979",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-annual-2015-3",
+  "title": "Star Wars Annual (2015) #3"
+}

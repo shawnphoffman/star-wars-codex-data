@@ -1,5 +1,116 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Darko Macan",
+      "role": "writer",
+      "slug": "darko-macan"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Richard Handley",
+      "role": "writer",
+      "slug": "richard-handley"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Rick Magyar",
+      "role": "inker",
+      "slug": "rick-magyar"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "inker",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "inker",
+      "slug": "tom-fowler"
+    },
+    {
+      "name": "Mark Lipka",
+      "role": "inker",
+      "slug": "mark-lipka"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "penciler",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "penciler",
+      "slug": "tom-fowler"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
   "displayTitle": "Tales #03",
   "era": "multiEra",
   "format": "periodicalIssue",

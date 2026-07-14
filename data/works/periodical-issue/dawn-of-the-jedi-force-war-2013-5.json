@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War #5",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-war-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-03-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-war-2013-5",
-  "synopsis": "The alien Rakata are on the brink of opening the Infinity Gate, ready to unleash their Empire on an unsuspecting galaxy! The Je'daii must win this battle&mdash;even if it means the end of their order. But how can they attain victory when their greatest hero has joined the enemy?",
+  "synopsis": "The alien Rakata are on the brink of opening the Infinity Gate, ready to unleash their Empire on an unsuspecting galaxy! The Je’daii must win this battle—even if it means the end of their order. But how can they attain victory when their greatest hero has joined the enemy? “Ostrander and Duursema have reverse-engineered the setting, characters, and Force philosophies to create a fully believable ‘real’ ancient history of the Jedi.”—Fan Girl Blog",
   "title": "Dawn of the Jedi: Force War #5"
 }

@@ -5,9 +5,89 @@
       "name": "Jody Houser",
       "role": "writer",
       "slug": "jody-houser"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Glenn Greenberg",
+      "role": "writer",
+      "slug": "glenn-greenberg"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Carlos Gomez",
+      "role": "inker",
+      "slug": "carlos-gomez"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "inker",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "inker",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Carlos Gomez",
+      "role": "penciler",
+      "slug": "carlos-gomez"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "penciler",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Erick Arciniega",
+      "role": "colorist",
+      "slug": "erick-arciniega"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "colorist",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Cristiane Peter",
+      "role": "colorist",
+      "slug": "cristiane-peter"
     }
   ],
-  "displayTitle": "Age of Republic Special",
+  "displayTitle": "Age of Republic Special (2019) #1",
   "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -23,5 +103,5 @@
   "releaseStatus": "released",
   "slug": "aor-special",
   "synopsis": "This is one jam-packed one-shot! Featuring stories about Mace Windu, Asajj Ventress, Jar Jar Binks, and Captain Rex, there’s enough for everyone. Brought to life by a variety of writers and artists, this issue shines in all the right ways.",
-  "title": "Age of Republic Special"
+  "title": "Age of Republic Special (2019) #1"
 }

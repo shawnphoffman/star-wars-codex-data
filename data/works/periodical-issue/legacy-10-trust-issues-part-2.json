@@ -5,6 +5,71 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "artist",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "coverArtist",
+      "slug": "dave-ross"
     }
   ],
   "displayTitle": "Legacy #10: Trust Issues, Part 2",
@@ -15,12 +80,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-03-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-10-trust-issues-part-2",
-  "synopsis": "Once bitter enemies, Imperials loyal to the deposed Emperor Roan Fel meet with representatives from the remnants of the Galactic Alliance to discuss joining forces against the Sith. However, two spies have been thrown into the mix, each with different orders, their determination to complete their missions putting them on an explosive collision course. Meanwhile, Cade Skywalker remains missing, yet still pursued by those bent on ignoring his desire to be left alone. Will a new alliance be forged to defeat Darth Krayt's minions, or will betrayal shatter the galaxy's last best hope for freedom? W",
+  "synopsis": "Once bitter enemies, Imperials loyal to the deposed Emperor Roan Fel meet with representatives from the remnants of the Galactice Alliance to discuss joining forces against the Sith. However, two spies have been thrown into the mix, each with different orders, their determination to complete their missions putting them on an explosive collision course. Meanwhile, Cade Skywalker remains missing, yet still pursued by those bent on ignoring his desire to be left alone. Will a new alliance be forged to defeat Darth Krayt's minions, or will betrayal shatter the galaxy's last best hope for freedom? Will Skywalker's refuge be discovered? More importantly, what will happen to those who find him? Find out in this pivotal issue of Star Wars Legacy! • This is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before.",
   "title": "Legacy #10: Trust Issues, Part 2"
 }

@@ -1,9 +1,14 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Naoyoshi Shiotani",
       "role": "director",
+      "slug": "naoyoshi-shiotani"
+    },
+    {
+      "name": "Naoyoshi Shiotani",
+      "role": "writer",
       "slug": "naoyoshi-shiotani"
     }
   ],

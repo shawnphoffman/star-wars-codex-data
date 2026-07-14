@@ -1,5 +1,37 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Ohlen",
+      "role": "director",
+      "slug": "james-ohlen"
+    },
+    {
+      "name": "Dallas Dickinson",
+      "role": "producer",
+      "slug": "dallas-dickinson"
+    },
+    {
+      "name": "Daniel Erickson",
+      "role": "writer",
+      "slug": "daniel-erickson"
+    },
+    {
+      "name": "Jeff Dobson",
+      "role": "artist",
+      "slug": "jeff-dobson"
+    },
+    {
+      "name": "Arnie Jorgensen",
+      "role": "artist",
+      "slug": "arnie-jorgensen"
+    },
+    {
+      "name": "Mark Griskey",
+      "role": "composer",
+      "slug": "mark-griskey"
+    }
+  ],
   "displayTitle": "The Old Republic",
   "era": "oldRepublic",
   "format": "videoGame",

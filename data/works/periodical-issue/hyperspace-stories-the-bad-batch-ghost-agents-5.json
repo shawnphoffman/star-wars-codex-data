@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Bobby Bradford",
+      "role": "letterer",
+      "slug": "bobby-bradford"
+    },
+    {
+      "name": "Valeria \"Lux\" Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-lux-favoccia"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-07-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-the-bad-batch-ghost-agents-5",
+  "synopsis": "The Bad Batch survived Aurra Sing once. But her mission isn’t yet complete, and the clones will have to face the bounty hunter a second time if they want to save her next target! Clone Force 99 put their lives on the line in one final confrontation with the notorious assassin. If they fail, it could cost the Republic countless agents . . . and the entire war! • Series finale!",
+  "title": "Hyperspace Stories: The Bad Batch: Ghost Agents #5"
+}

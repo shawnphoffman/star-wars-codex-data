@@ -10,6 +10,41 @@
       "name": "Brian Level",
       "role": "artist",
       "slug": "brian-level"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Dennis \"Hopeless\" Hallum",
+      "role": "writer",
+      "slug": "dennis-hopeless-hallum"
+    },
+    {
+      "name": "Greg Smallwood",
+      "role": "coverArtist",
+      "slug": "greg-smallwood"
+    },
+    {
+      "name": "Brian Level",
+      "role": "inker",
+      "slug": "brian-level"
+    },
+    {
+      "name": "Brian Level",
+      "role": "penciler",
+      "slug": "brian-level"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
     }
   ],
   "displayTitle": "Vader: Dark Visions #2",

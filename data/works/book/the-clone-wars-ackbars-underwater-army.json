@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Clone Wars: Ackbar's Underwater Army",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781409383208"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "isbn13": "9781409383208",
+      "kind": "print",
+      "onsale": "2012-04-30T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

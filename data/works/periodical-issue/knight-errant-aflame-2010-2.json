@@ -5,6 +5,21 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "artist",
+      "slug": "federico-dallocchio"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Aflame #2",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-11-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010-2",
-  "synopsis": "It is a time of great darkness in the galaxy. The Republic has been beaten back time and again by the various Sith factions, who for now battle amongst each other in the Outer Rim.\nInto the chaos comes a group of Jedi Knights, determined to help the innocents caught up in the conflict to the best of their ability. Among them is Kerra Holt, who has only recently knighted, and is now returning to her native territory for the first time since childhood. Now, as she encounters the Sith Lord whose lust for war robbed her of everything, she will be tested in ways she could not have imagined!",
+  "synopsis": "Jedi Knight Kerra Holt thought she was prepared for anything that could happen on the volunteer mission that took her deep into Sith space. But now, trapped behind enemy lines, Kerra looks toward a life without the support of the Republic . . . and if her headstrong ways continue to lead her actions, she may end up without any support at all! *The second issue in a brand-new series, with a brand--new hero, in an uncharted era of Star Wars! * John Jackson Miller is also writing a Knight Errant novel for Del Rey starring Kerra Holt in an original adventure! See her here first! Meet a new kind of Jedi for a new era of Star Wars!",
   "title": "Knight Errant: Aflame #2"
 }

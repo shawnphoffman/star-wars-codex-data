@@ -5,6 +5,16 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Blood Ties: A Tale of Jango and Boba Fett #2",
@@ -16,12 +26,13 @@
   },
   "parentWorkSlug": "blood-ties-a-tale-of-jango-and-boba-fett-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-09-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-a-tale-of-jango-and-boba-fett-2010-2",
-  "synopsis": "Then: Jango Fett, the most dangerous assassin/bounty hunter in the galaxy, never fails to get his man. But Jango has never had a success that has affected him this way. Now: Boba Fett has taken up his father's mantle and lived up to Jango's fearsome reputation. But a secret from the past has Boba working a case he would normally dismiss and wondering if he actually knew his father as well as he thought... Across the generations, and across the galaxy, if a Fett is on your trail, you've reached a dead end!",
+  "synopsis": "Then: Jango Fett, the most dangerous assassin/bounty hunter in the galaxy, never fails to get his man. But Jango has never had a success that has affected him this way. Now: Boba Fett has taken up his father's mantle and lived up to Jango's fearsome reputation. But a secret from the past has Boba working a case he would normally dismiss and wondering if he actually knew his father as well as he thought . . . Across the generations, and across the galaxy, if a Fett is on your trail, you've reached a dead end! Fully painted art by Purge artist Chris Scalf!",
   "title": "Blood Ties: A Tale of Jango and Boba Fett #2"
 }

@@ -1,0 +1,37 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "Propaganda: A History of Persuasive Art in the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780062466822"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Harper Design *becker&mayer!",
+      "isPrimary": true,
+      "isbn13": "9780062466822",
+      "kind": "print",
+      "onsale": "2016-10-25T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-propaganda-a-history-of-persuasive-art-in-the-galaxy",
+  "title": "Star Wars Propaganda: A History of Persuasive Art in the Galaxy"
+}

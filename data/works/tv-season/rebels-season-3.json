@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    }
+  ],
   "displayTitle": "Rebels Season 3",
   "era": "ageOfRebellion",
   "format": "tvSeason",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Joiner King",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345463043"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 544,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345463043",
+      "kind": "print",
+      "onsale": "2005-07-26T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

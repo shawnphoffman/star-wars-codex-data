@@ -11,6 +11,10 @@
   "displayTitle": "Republic Commando: True Colors",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345498003"
+    },
+    {
       "type": "isbn13",
       "value": "9780345498007"
     }
@@ -20,6 +24,7 @@
       "extent": 482,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345498003",
       "isbn13": "9780345498007",
       "kind": "print",
       "onsale": "2007-10-30T00:00:00.000Z"

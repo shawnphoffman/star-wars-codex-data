@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    },
+    {
+      "name": "Rafael Albuquerque",
+      "role": "coverArtist",
+      "slug": "rafael-albuquerque"
+    }
+  ],
   "displayTitle": "The Force Awakens #5",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

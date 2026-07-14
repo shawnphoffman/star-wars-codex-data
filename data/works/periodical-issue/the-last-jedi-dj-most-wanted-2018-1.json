@@ -1,0 +1,54 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kev Walker",
+      "role": "penciler",
+      "slug": "kev-walker"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Jeff Dekal",
+      "role": "coverArtist",
+      "slug": "jeff-dekal"
+    },
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    },
+    {
+      "name": "Marc Deering",
+      "role": "inker",
+      "slug": "marc-deering"
+    }
+  ],
+  "displayTitle": "The Last Jedi: Dj: Most Wanted (2018) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-last-jedi-dj-most-wanted",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-last-jedi-dj-most-wanted-2018-1",
+  "title": "The Last Jedi: Dj: Most Wanted (2018) #1"
+}

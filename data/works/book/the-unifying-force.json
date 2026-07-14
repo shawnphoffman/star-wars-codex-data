@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Unifying Force",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428523"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 544,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428523",
+      "kind": "print",
+      "onsale": "2003-11-04T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

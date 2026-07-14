@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "artist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Dark Times #1: The Path to Nowhere",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2006-11-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-01-the-path-to-nowhere-part-1",
-  "synopsis": "The dark times are here. Even as the worlds of the former Republic are drawn into the iron grip of Palpatine's Empire, the galaxy seems adrift in a sea of chaos, lawlessness, and despair. On Coruscant, Darth Vader waits for his Master to reveal his vision for the future. But is there a plan beyond obtaining power? On New Plympto, Jedi Master Dass Jennir leads a Nosaurian army in a war they have already lost. Is this what it now means to be a Jedi? Dark Times #1 is the gateway to a new era in Star Wars history, an era where the future is grim, evil is on the rise, and all paths seem to lead now",
+  "synopsis": "\"For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times, before the Empire.\" --Ben Kenobi The dark times are here. Even as the worlds of the former Republic are drawn into the iron grip of Palpatine's Empire, the galaxy seems adrift in a sea of chaos, lawlessness, and despair. On Coruscant, Darth Vader waits for his Master to reveal his vision for the future. But is there a plan beyond obtaining power? On New Plympto, Jedi Master Dass Jennir leads a Nosaurian army in a war they have already lost. Is this what it now means to be a Jedi? Dark Times #1 is the gateway to a new era in Star Wars history, an era where the future is grim, evil is on the rise, and all paths seem to lead nowhere . . . • Moving into the new, unexplored territory of the time period immediately following Revenge of the Sith. • References the events in the Del Rey novel Dark Lord.",
   "title": "Dark Times #1: The Path to Nowhere"
 }

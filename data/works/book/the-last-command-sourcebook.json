@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "The Last Command Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311977"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311977",
+      "kind": "print",
+      "onsale": "1994-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

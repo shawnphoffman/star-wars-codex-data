@@ -10,6 +10,31 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "inker",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Ryan Sook",
+      "role": "coverArtist",
+      "slug": "ryan-sook"
     }
   ],
   "displayTitle": "Rebellion #10: The Ahakista Gambit, Part 5",
@@ -20,12 +45,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-09-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-10-the-ahakista-gambit-part-5",
-  "synopsis": "One of the Empire's most valuable secrets is about to be compromised unless Darth Vader can get to it in time! This is the all-action conclusion to \"The Ahakista Gambit\"! Deep inside an Imperial stronghold, a team of spies led by Wyl Tarson fight for their lives. Loyal to the Rebel cause, each is willing to make the ultimate sacrifice to complete the mission, none realizing that Tarson marches to the orders of someone far more sinister than the Alliance. For Tarson, this is the moment of truth&mdash;will he betray those who trusted him with everything? One thing is certain, once Vader arrives,",
+  "synopsis": "One of the Empire's most valuable secrets is about to be compromised unless Darth Vader can get to it in time! This is the all-action conclusion to \"The Ahakista Gambit\"! Deep inside an Imperial stronghold, a team of spies led by Wyl Tarson fight for their lives. Loyal to the Rebel cause, each is willing to make the ultimate sacrifice to complete the mission, none realizing that Tarson marches to the orders of someone far more sinister than the Alliance. For Tarson, this is the moment of truth-will he betray those who trusted him with everything? One thing is certain, once Vader arrives, few will be left alive. * A compelling new story set between the events of A New Hope and The Empire Strikes Back exploring the Rebel Alliance's desperate struggle against the Galactic Empire, delivered in high-octane, widescreen style by writer Rob Williams (Cla$$war, SW Tales) and artist Michel Lacombe (SW Tales, SW Empire)",
   "title": "Rebellion #10: The Ahakista Gambit, Part 5"
 }

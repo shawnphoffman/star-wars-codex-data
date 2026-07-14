@@ -11,11 +11,20 @@
   "displayTitle": "Labyrinth of Evil",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345475720"
+    },
+    {
       "type": "isbn13",
       "value": "9780345475725"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0345475720",
+      "kind": "print"
+    },
     {
       "extent": 452,
       "imprint": "Del Rey",

@@ -1,0 +1,80 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peet Janes",
+      "role": "writer",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Arthur Adams",
+      "role": "artist",
+      "slug": "arthur-adams"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "artist",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Steve Crespo",
+      "role": "artist",
+      "slug": "steve-crespo"
+    },
+    {
+      "name": "Rodolfo Damaggio",
+      "role": "artist",
+      "slug": "rodolfo-damaggio"
+    },
+    {
+      "name": "Doug Mahnke",
+      "role": "artist",
+      "slug": "doug-mahnke"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "artist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "artist",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Stan n' Vince",
+      "role": "artist",
+      "slug": "stan-n-vince"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
+    }
+  ],
+  "displayTitle": "The Star Wars Handbook #1: X-Wing Rogue Squadron",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-handbook-1-x-wing-rogue-squadron",
+  "synopsis": "Beginning with the Star Wars X-Wing Rogue Squadron ongoing series, Dark Horse will take a closer look at the various elements that make Star Wars so special: the characters, ships, planets, and aliens. No fan of Star Wars and X-Wing Rogue Squadron should be without this title!",
+  "title": "The Star Wars Handbook #1: X-Wing Rogue Squadron"
+}

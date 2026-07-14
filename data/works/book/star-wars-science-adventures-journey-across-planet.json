@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Science Adventures: Journey Across Planet X",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590202282"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590202282",
+      "kind": "print",
+      "onsale": "1999-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

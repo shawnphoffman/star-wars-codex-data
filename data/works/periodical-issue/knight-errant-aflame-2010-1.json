@@ -5,6 +5,21 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "artist",
+      "slug": "federico-dallocchio"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "coverArtist",
+      "slug": "dave-ross"
     }
   ],
   "displayTitle": "Knight Errant: Aflame #1",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-10-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010-1",
-  "synopsis": "It is a time of great darkness in the galaxy. The Republic has been beaten back time and again by the various Sith factions, who for now battle amongst each other in the Outer Rim.\nInto the chaos comes a group of Jedi Knights, determined to help the innocents caught up in the conflict to the best of their ability. Among them is Kerra Holt, who has only recently knighted, and is now returning to her native territory for the first time since childhood. Now, as she encounters the Sith Lord whose lust for war robbed her of everything, she will be tested in ways she could not have imagined!",
+  "synopsis": "More than one thousand years before Luke Skywalker, a dark age grips the galaxy as an ineffectual Republic abandons entire systems to Sith control. A newly knighted Jedi on her first mission, eighteen-year-old Kerra Holt has joined a band of Jedi volunteers traveling deep behind enemy lines, with no support from the Republic and little chance of survival. She thinks she is prepared for anything. She's wrong. o A new series in a new era, introducing a new female hero to Star Wars! o John Jackson Miller is also writing a Knight Errant novel for Del Rey starring Kerra Holt in an original adventure! See her here first! Meet a new kind of Jedi for a new era of Star Wars!",
   "title": "Knight Errant: Aflame #1"
 }

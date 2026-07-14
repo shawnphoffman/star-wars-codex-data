@@ -15,6 +15,31 @@
       "name": "Dexter Vines",
       "role": "artist",
       "slug": "dexter-vines"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "inker",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Andrew Dalhouse",
+      "role": "colorist",
+      "slug": "andrew-dalhouse"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Mateus Manhanini",
+      "role": "coverArtist",
+      "slug": "mateus-manhanini"
     }
   ],
   "displayTitle": "Mace Windu",

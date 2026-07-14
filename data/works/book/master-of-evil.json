@@ -11,15 +11,20 @@
   "displayTitle": "Master of Evil",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593874730"
+    },
+    {
       "type": "isbn13",
       "value": "9780593874738"
     }
   ],
   "editions": [
     {
-      "extent": 304,
+      "extent": 384,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593874730",
       "isbn13": "9780593874738",
       "kind": "print",
       "onsale": "2025-11-11T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "master-of-evil",
-  "synopsis": "Darth Vader’s mysterious mission may lead him down a path even darker than he’s dared before: the possibility of disobeying his master in favor of his own desires.",
+  "synopsis": "Darth Vader's mysterious mission may lead him down a path even darker than he's dared before: the possibility of disobeying his master in favor of his own desires.",
   "title": "Master of Evil"
 }

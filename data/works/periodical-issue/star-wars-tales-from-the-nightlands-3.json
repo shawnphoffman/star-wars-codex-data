@@ -10,6 +10,31 @@
       "name": "Robert Hack",
       "role": "artist",
       "slug": "robert-hack"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "colorist",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "penciler",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "Tales From the Nightlands #3",
@@ -17,12 +42,13 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-tales-from-the-nightlands",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-12-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands-3",
-  "synopsis": "As the First Order spreads fear across the galaxy, Leia, Rey, Chewie, and Finn rush to deliver aid to a Twi'lek colony. But upon arriving, they find something much worse than Stormtroopers: the terrifying Nightlander! The heroes must scramble to stop the otherworldly fiend, lest it escape into the land of the living and make the galaxy its ghastly domain!",
+  "synopsis": "As the First Order spreads fear across the galaxy, Leia, Rey, Chewie, and Finn rush to deliver aid to a Twi’lek colony. But upon arriving, they find something much worse than Stormtroopers: the terrifying Nightlander! The heroes must scramble to stop the otherworldly fiend, lest it escape into the land of the living and make the galaxy its ghastly domain! • Introducing the Nightlander, a Star Wars boogeyman designed by legendary artist Iain McCaig! • Written by Cavan Scott, the New York Times bestselling author of Star Wars Adventures: Vader’s Castle and a story architect of The High Republic initiative. • Featuring cover art by the iconic horror artist Francesco Francavilla! • Three-issue series.",
   "title": "Star Wars: Tales From the Nightlands #3"
 }

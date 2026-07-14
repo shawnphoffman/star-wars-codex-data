@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Maralisa Ortiz",
+      "role": "writer",
+      "slug": "maralisa-ortiz"
+    }
+  ],
   "displayTitle": "The Talon Takeover",
   "era": "highRepublic",
   "format": "tvEpisode",

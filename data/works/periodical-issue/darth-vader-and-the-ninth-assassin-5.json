@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Ivan Fernandez",
+      "role": "penciler",
+      "slug": "ivan-fernandez"
+    },
+    {
+      "name": "Denis Freitas Do Rego Souza",
+      "role": "inker",
+      "slug": "denis-freitas-do-rego-souza"
+    },
+    {
+      "name": "Denis Freitas",
+      "role": "inker",
+      "slug": "denis-freitas"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin #5",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-08-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-5",
-  "synopsis": "Having stalked Darth Vader, the assassin is now ready to strike... It seems Vader, distracted by threats to the Emperor, could be taken. But the assassin has made one mistake, believing that he has a chance against the most-feared man in the galaxy!",
+  "synopsis": "Having stalked Darth Vader, the assassin is now ready to strike . . . It seems Vader, distracted by threats to the Emperor, could be taken. But the assassin has made one mistake—believing that he has a chance against the most-feared man in the galaxy! * Dark Horse’s 2013 Star Wars line is one of the most talked about in years!",
   "title": "Darth Vader and the Ninth Assassin #5"
 }

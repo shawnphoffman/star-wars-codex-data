@@ -10,6 +10,45 @@
       "name": "Kevin J. Anderson",
       "role": "writer",
       "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "penciler",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith #4: Death of a Dark Jedi",
@@ -22,10 +61,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-01-10T00:00:00.000Z",
+  "releaseDate": "1995-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-dark-lords-of-the-sith-4-death-of-a-dark-jedi",
-  "synopsis": "Following Naga Sadow's trail, Exar Kun arrives on the jungle moon of Yavin 4 and is taken by the Massassi, who hail him as the one they have long awaited and deliver him to the Temple of Fire. There he becomes the center of a blood sacrifice that awakens a monstrous beast forged from Sadow's dark side alchemy.\n\nOn Ossus, Ulic Qel-Droma studies the history of the Empress Teta system to prepare for his mission, ignoring the pleas of Nomi Sunrider and his brother Cay and the disapproval of Master Odan-Urr, who shows him a holocron warning of a Jedi seduced while trying to master the dark side from within. Disguised as a smuggler, Ulic travels to Cinnagar, where Satal and Aleema Keto already plot to manipulate him. By intervening in a rebel ambush and cutting down the attackers, he wins Aleema's trust while earning Satal's jealousy. On Yavin 4, Kun channels the dark side through an ancient Sith amulet to incinerate the beast, and the Massassi accept him as their leader. When Nadd schemes to resurrect himself, Kun uses the amulet to destroy his master's spirit forever; in his final moments Nadd warns the Ketos to beware the pretender Exar Kun.",
+  "synopsis": "In search of ancient Sith magic, the Jedi Exar Kun travels to a place of mysterious, mystical power -- a power so dark, so evil, that his very link to the light side of the Force is shattered. Jedi powers can't help him here. Only the dark side of the Force can save him -- even as it consumes him!",
   "title": "Tales of the Jedi: Dark Lords of the Sith #4: Death of a Dark Jedi"
 }

@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Shield of Lies",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553572773"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553572773",
+      "kind": "print",
+      "onsale": "1996-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 16
   },
-  "releaseDate": "1996-08-01T00:00:00.000Z",
+  "releaseDate": "1996-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shield-of-lies",

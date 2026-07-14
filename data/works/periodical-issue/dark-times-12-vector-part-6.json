@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "inker",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "coverArtist",
+      "slug": "doug-wheatley"
     }
   ],
   "displayTitle": "Dark Times #12: Vector, Part 6",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-06-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-12-vector-part-6",
-  "synopsis": "Darth Vader confronts the legacy of the ancient Sith&mdash;and the ancient Jedi&mdash;as the Star Wars event of the year concludes its second chapter! Bomo Greenbark and the crew of the Uhumele find themselves unwilling witnesses to a conflict between good and evil... and eviler! The outcome of this battle will affect not only their lives, but could change the fate of the galaxy forever. In his search for power, has Vader taken on more than he can handle? This is the second phase of \"Vector,\" a 12-part storyline that will run through every Star Wars title, from Knights of the Old Republic, to ",
+  "synopsis": "Darth Vader confronts the legacy of the ancient Sith--and the ancient Jedi--as the Star Wars event of the year concludes its second chapter! Bomo Greenbark and the crew of the Uhumele find themselves unwilling witnesses to a conflict between good and evil . . . and eviler! The outcome of this battle will affect not only their lives, but could change the fate of the galaxy forever. In his search for power, has Vader taken on more than he can handle? * This is the second phase of \"Vector,\" a 12-part storyline that will run through every Star Wars title, from Knights of the Old Republic, to Dark Times, to Rebellion, to Legacy. Darth Vader versus a Knight of the Old Republic!",
   "title": "Dark Times #12: Vector, Part 6"
 }

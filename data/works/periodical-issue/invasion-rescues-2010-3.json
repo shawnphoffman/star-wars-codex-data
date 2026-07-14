@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-07-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-3",
-  "synopsis": "Two armies have joined forces for a dangerous rescue mission. Both have experience fighting the Yuuzhan Vong, but this time the encounter takes an unexpected turn and more is revealed about the enemy's strange capabilities. Meanwhile, Finn Galfridian and the Solo children race to warn Finn's father that a trusted friend is in truth a deadly enemy.",
+  "synopsis": "Two armies have joined forces for a dangerous rescue mission. Both have experience fighting the Yuuzhan Vong, but this time the encounter takes an unexpected turn, and more is revealed about their enemy's strange capabilities . . . Meanwhile, Finn Galfridian and the Solo children race to warn Finn's father that a trusted friend is a deadly enemy! * Covers by Jo Chen!",
   "title": "Invasion: Rescues #3"
 }

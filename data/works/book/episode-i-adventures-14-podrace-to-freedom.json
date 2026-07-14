@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Podrace to Freedom",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101514"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 77,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101514",
+      "kind": "print",
+      "onsale": "2000-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

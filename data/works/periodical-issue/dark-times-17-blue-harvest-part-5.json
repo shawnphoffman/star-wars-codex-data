@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "penciler",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Chris Chuckry",
+      "role": "colorist",
+      "slug": "chris-chuckry"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Dark Times #17: Blue Harvest, Part 5",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-06-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-17-blue-harvest-part-5",
-  "synopsis": "Betrayed, beaten, and half drowned, former Jedi Dass Jennir clings to life while the town he vowed to save is torn by gang warfare. His only allies have been imprisoned, tortured, or shot. It looks like the bad guys might win this time... except for one thing: a Jedi never gives up. Dark Horse Comics promises \"bad-assery on an epic scale\" in this issue.",
+  "synopsis": "Betrayed, beaten, and half drowned, former Jedi Dass Jennir clings to life while the town he vowed to save is torn by gang warfare. His only allies have been imprisoned, tortured, or shot. It looks like the bad guys might win this time . . . except for one thing: a Jedi never gives up. Bad-assery on an epic scale! Please note: Shipping date is subject to change.",
   "title": "Dark Times #17: Blue Harvest, Part 5"
 }

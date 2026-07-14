@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #5",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-the-prisoner-of-bogan-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-05-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-the-prisoner-of-bogan-2012-5",
-  "synopsis": "Star Wars: Dawn of the Jedi: The Prisoner of Bogan is a five-issue comic book miniseries, the second arc in the Star Wars: Dawn of the Jedi comic series that is set in the Pre-Republic era and focuses on the Je'daii Order, the Jedi Order's predecessors. Published by Dark Horse Comics through winter 2012 and spring 2013, Dawn of the Jedi: The Prisoner of Bogan is written by John Ostrander and pencilled by Jan Duursema, the creative team behind the critically-acclaimed Star Wars: Legacy series. The Prisoner of Bogan is primarily set in the year 25,793 BBY, in a time before the polarization of the light and dark sides of the Force, and it picks up several weeks after the events of the previous arc, Force Storm. The miniseries centers on Xesh and his uneasy alliance with the mad former Je'daii Daegen Lok (the titular prisoner of the moon Bogan) who enlists Xesh's aid in escaping Bogan and constructing Forcesabers in an attempt to prove the vision he had years earlier to be true. The two are then pursued by a number of Je'daii across the Tython system. The arc was collected in the trade paperback Star Wars: Dawn of the Jedi Book Two: Prisoner of Bogan, which was released on July 24, 2013, and was followed by the Force War arc in late 2013.",
+  "synopsis": "Je’daii Daegen Lok is on the verge of launching a war against the Je’daii. With the Force-strong stranger Xesh as his ally and a young Je’daii captive, Lok is close to his goal. But Je’daii Rangers are close behind, as the Masters at the Temples have unlocked some of the secrets of Xesh’s origins. Something worse than the prisoner of Bogan is loose in the Tython system! * Most popular Star Wars series of 2012!",
   "title": "Dawn of the Jedi: The Prisoner of Bogan #5"
 }

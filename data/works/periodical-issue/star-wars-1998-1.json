@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Anthony Winn",
+      "role": "penciler",
+      "slug": "anthony-winn"
+    },
+    {
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998-1",
+  "title": "Star Wars (1998) #1"
+}

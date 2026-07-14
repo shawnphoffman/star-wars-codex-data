@@ -10,9 +10,89 @@
       "name": "Leonard Kirk",
       "role": "artist",
       "slug": "leonard-kirk"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Nick Filardi",
+      "role": "colorist",
+      "slug": "nick-filardi"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Chris O'halloran",
+      "role": "colorist",
+      "slug": "chris-ohalloran"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "G. Willow Wilson",
+      "role": "writer",
+      "slug": "g-willow-wilson"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "writer",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Bria Lavorgna",
+      "role": "writer",
+      "slug": "bria-lavorgna"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "inker",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Javier Pina",
+      "role": "inker",
+      "slug": "javier-pina"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "inker",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "penciler",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Javier Pina",
+      "role": "penciler",
+      "slug": "javier-pina"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "penciler",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
-  "displayTitle": "Age Of Resistance Special",
+  "displayTitle": "Age of Resistance Special (2019) #1",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -28,5 +108,5 @@
   "releaseStatus": "released",
   "slug": "age-of-resistance-special",
   "synopsis": "Marvel's \"Age of\" series of one-shots continues with this collection of short comics about Admiral Holdo, Maz Kanata, and everyone's favorite ball droid, BB-8!",
-  "title": "Age Of Resistance Special"
+  "title": "Age of Resistance Special (2019) #1"
 }

@@ -5,6 +5,26 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Luis Morocho",
+      "role": "penciler",
+      "slug": "luis-morocho"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "inker",
+      "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
     }
   ],
   "displayTitle": "Hyperspace Stories: Tides of Terror #01",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-tides-of-terror-2",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-07-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-tides-of-terror-01",
-  "synopsis": "Issue 1 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nJedi Master Kit Fisto has been sent to the ocean planet Tordus, alongside Mace Windu and Shaak Ti, to investigate a controversial underwater research facility. The facility is in danger of flooding and being crushed into rubble, and if that's not enough, there are giant monsters circling them. With disaster looming, his diplomatic excursion quickly becomes a rescue mission! Kit Fisto and his fellow Jedi must race against the clock to save innocent lives from the hungry leviathans that fill the depths. This standalone story is full of murky intrigue and ancient abyssal nightmares. Can the Jedi fend off the danger lurking in the ocean's briny waters?",
+  "synopsis": "Jedi Master Kit Fisto has been sent to the ocean planet Torbus, alongside Mace Windu Shaak Ti, to investigate a controversial underwater research facility. But when disaster strikes, his diplomatic excursion quickly becomes a rescue mission! Kit Fisto and his fellow Jedi must race against the clock to save innocent lives from the hungry leviathans that circle in the depths. • Explore the murky depths and the leviathans that live there in this deep-sea Star Wars adventure, staring Kit Fisto! • Written by George Mann, the author of fan-favorite Star Wars titles The High Republic Adventures Phase III—Echoes of Fear and Hyperspace Stories: Qui-Gon! • Four issue series.",
   "title": "Hyperspace Stories: Tides of Terror #01"
 }

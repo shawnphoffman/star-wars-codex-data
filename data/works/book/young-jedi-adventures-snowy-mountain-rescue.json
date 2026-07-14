@@ -11,10 +11,19 @@
       "name": "Erik Doescher",
       "role": "artist",
       "slug": "erik-doescher"
+    },
+    {
+      "name": "Golden Books",
+      "role": "writer",
+      "slug": "golden-books"
     }
   ],
   "displayTitle": "Young Jedi Adventures: Snowy Mountain Rescue",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736443509"
+    },
     {
       "type": "isbn13",
       "value": "9780736443500"
@@ -23,8 +32,9 @@
   "editions": [
     {
       "extent": 24,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736443509",
       "isbn13": "9780736443500",
       "kind": "print",
       "onsale": "2024-09-03T00:00:00.000Z"

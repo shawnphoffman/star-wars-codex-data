@@ -10,6 +10,26 @@
       "name": "Chris Claremont",
       "role": "writer",
       "slug": "chris-claremont"
+    },
+    {
+      "name": "Marie Severin",
+      "role": "colorist",
+      "slug": "marie-severin"
+    },
+    {
+      "name": "Herb Trimpe",
+      "role": "penciler",
+      "slug": "herb-trimpe"
+    },
+    {
+      "name": "Al Milgrom",
+      "role": "inker",
+      "slug": "al-milgrom"
+    },
+    {
+      "name": "Rick Parker",
+      "role": "letterer",
+      "slug": "rick-parker"
     }
   ],
   "displayTitle": "Star Wars (1977) #17: Crucible",

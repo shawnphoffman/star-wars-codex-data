@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "X-Wing: Mercy Kill",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345530592"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345530592",
+      "kind": "print",
+      "onsale": "2012-08-07T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

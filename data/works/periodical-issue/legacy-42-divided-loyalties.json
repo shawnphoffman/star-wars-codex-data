@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "artist",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Jesus Aburtov",
+      "role": "colorist",
+      "slug": "jesus-aburtov"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Legacy #42: Divided Loyalties",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2009-10-25T00:00:00.000Z",
+  "releaseDate": "2009-11-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-42-divided-loyalties",
-  "synopsis": "The partnership between the Galactic Alliance and Roan Fel's Imperials is tried again against the Sith Empire&mdash;and this time they're joined by a group of Jedi who have at last come out of hiding! Rogue Squadron's newest member is tested in battle! A traitor lurks aboard the Alliance! An Imperial Knight and a Jedi take on a dangerous retrieval mission! The Jedi, the Galactic Alliance, Fel's Imperials, and the Sith Imperials all contemplate the changes brought by Darth Krayt's death!",
+  "synopsis": "The partnership between the Galactic Alliance and Roan Fel's Imperials is tried again against the Sith Empire-and this time they're joined by a group of Jedi who have at last come out of hiding! Rogue Squadron's newest member is tested in battle! A traitor lurks aboard the Alliance! An Imperial Knight and a Jedi take on a dangerous retrieval mission! The Jedi, the Galactic Alliance, Fel's Imperials, and the Sith Imperials all contemplate the changes brought by Darth Krayt's death! * Legacy-era Rogue Squadron in action! * The Jedi return to the war! * Check out the making of the cover to Star Wars: Legacy #42!",
   "title": "Legacy #42: Divided Loyalties"
 }

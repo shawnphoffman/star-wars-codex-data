@@ -5,6 +5,36 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Archie Goodwin",
+      "role": "inker",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Archie Goodwin",
+      "role": "penciler",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Steve Buccellato",
+      "role": "colorist",
+      "slug": "steve-buccellato"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Anina Bennett",
+      "role": "editor",
+      "slug": "anina-bennett"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
     }
   ],
   "displayTitle": "Classic Star Wars #03: Darth Vader Strikes (pt.2)",
@@ -17,10 +47,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1992-10-20T00:00:00.000Z",
+  "releaseDate": "1992-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-03-darth-vader-strikes-pt-2",
-  "synopsis": "\"Darth Vader Strikes\" is a comic strip written by Archie Goodwin and illustrated by Al Williamson, originally published in 1981 by the Los Angeles Times Syndicate. It was later reprinted in Amazing Heroes magazine #6&ndash;12.",
+  "synopsis": "Classic Star Wars is set during the period between the first and second Star Wars films. In this issue, Luke volunteers for an espionage mission aboard Darth Vader's new battleship -- but can he trust the Imperial Admiral he meets there, who claims to be helping the Rebels?!",
   "title": "Classic Star Wars #03: Darth Vader Strikes (pt.2)"
 }

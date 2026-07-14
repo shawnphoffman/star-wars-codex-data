@@ -11,6 +11,18 @@
   "displayTitle": "The Rebellion Begins",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00OCB704M"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484717007"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484714751"
+    },
+    {
       "type": "isbn13",
       "value": "9781484717004"
     }
@@ -18,8 +30,18 @@
   "editions": [
     {
       "extent": 160,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484714751",
+      "kind": "print",
+      "onsale": "2014-10-21T00:00:00.000Z"
+    },
+    {
+      "asin": "B00OCB704M",
+      "extent": 160,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1484717007",
       "isbn13": "9781484717004",
       "kind": "print",
       "onsale": "2014-10-21T00:00:00.000Z"

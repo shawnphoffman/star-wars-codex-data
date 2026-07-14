@@ -16,6 +16,18 @@
   "displayTitle": "Pirate's Price",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B07DS51JS2"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368043828"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368041515"
+    },
+    {
       "type": "isbn13",
       "value": "9781368043823"
     }
@@ -23,8 +35,18 @@
   "editions": [
     {
       "extent": 240,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368041515",
+      "kind": "print",
+      "onsale": "2019-01-08T00:00:00.000Z"
+    },
+    {
+      "asin": "B07DS51JS2",
+      "extent": 240,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368043828",
       "isbn13": "9781368043823",
       "kind": "print",
       "onsale": "2019-01-08T00:00:00.000Z"

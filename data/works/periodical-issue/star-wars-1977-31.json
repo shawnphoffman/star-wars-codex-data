@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Jim Novak",
+      "role": "letterer",
+      "slug": "jim-novak"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Carl Gafford",
+      "role": "colorist",
+      "slug": "carl-gafford"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
     }
   ],
   "displayTitle": "Star Wars (1977) #31: Return to Tatooine",

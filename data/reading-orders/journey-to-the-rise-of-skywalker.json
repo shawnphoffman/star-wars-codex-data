@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "note": "Leia seeks the Mon Calamari's aid as the Resistance regroups.",
+      "priority": "essential",
+      "workSlug": "allegiance-0"
+    },
+    {
+      "note": "Rey, Poe, Finn, and Rose on a mission shortly after The Last Jedi.",
+      "priority": "recommended",
+      "workSlug": "spark-of-the-resistance"
+    },
+    {
+      "note": "An all-ages pick-a-path adventure.",
+      "priority": "optional",
+      "workSlug": "choose-your-destiny-a-finn-poe-adventure"
+    },
+    {
+      "note": "A Force-sensitive teen chasing lost Jedi history across the galaxy.",
+      "priority": "recommended",
+      "workSlug": "force-collector"
+    },
+    {
+      "note": "The Resistance rebuilds its alliances directly before the film.",
+      "priority": "essential",
+      "workSlug": "resistance-reborn"
+    },
+    {
+      "note": "Ben Solo's fall and the forming of the Knights of Ren.",
+      "priority": "essential",
+      "workSlug": "the-rise-of-kylo-ren-5"
+    }
+  ],
+  "slug": "journey-to-the-rise-of-skywalker",
+  "summary": "The 2019 publishing program leading into Episode IX. Resistance novels and the backstory of Kylo Ren, in release order.",
+  "title": "Journey to Star Wars: The Rise of Skywalker"
+}

@@ -5,6 +5,36 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Hank Green",
+      "role": "inker",
+      "slug": "hank-green"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Darth Vader and the Lost Command",
@@ -16,7 +46,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2011-12-13T00:00:00.000Z",
+  "releaseDate": "2011-01-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-lost-command-graphic-novel",

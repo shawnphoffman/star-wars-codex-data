@@ -1,0 +1,60 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "David Nestelle",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
+    }
+  ],
+  "displayTitle": "Jedi: Dooku",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-12-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-dooku",
+  "synopsis": "A Double-Sized Clone Wars Special! Liberator. Tyrant. Hero. Villain. Renegade. Visionary. Jedi. Sith lord. The enigmatic, charismatic Count Dooku is all of these things. Posing as a renegade from the Republic, Jedi Quinlan Vos has been given the assignment to earn Dooku's trust and learn his secrets. When he discovers that Dooku's targets include Vos' birth planet of Kiffu and his own people, the Guardians, Quin must decide how far he is willing to go to protect his cover. Dooku, ever the master manipulator, always has another card to play, and his goal is not always what it seems. This is a story of the Clone Wars and the Jedi seen from a very different perspective.",
+  "title": "Jedi: Dooku"
+}

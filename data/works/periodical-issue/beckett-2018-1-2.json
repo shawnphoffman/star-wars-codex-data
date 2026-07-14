@@ -1,0 +1,69 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "John Tyler Christopher",
+      "role": "coverArtist",
+      "slug": "john-tyler-christopher"
+    },
+    {
+      "name": "Gerry Duggan",
+      "role": "writer",
+      "slug": "gerry-duggan"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "inker",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "inker",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "penciler",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    }
+  ],
+  "displayTitle": "Beckett (2018) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "beckett-2018",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "beckett-2018-1-2",
+  "title": "Beckett (2018) #1"
+}

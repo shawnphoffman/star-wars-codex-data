@@ -15,6 +15,31 @@
       "name": "Howard M. Shum",
       "role": "artist",
       "slug": "howard-m-shum"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "Qui-Gon & Obi-Wan: The Aurorient Express",

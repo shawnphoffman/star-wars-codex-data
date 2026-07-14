@@ -6,9 +6,43 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Gary Scheppke",
+      "role": "writer",
+      "slug": "gary-scheppke"
+    },
+    {
+      "name": "Fillbach Brothers",
+      "role": "penciler",
+      "slug": "fillbach-brothers"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Ramón Pérez",
+      "role": "coverArtist",
+      "slug": "ramn-prez"
     }
   ],
   "displayTitle": "The Clone Wars: Crash Course",
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2008-12-31T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

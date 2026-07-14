@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Si Spurrier",
+      "role": "writer",
+      "slug": "si-spurrier"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "penciler",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "penciler",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Ricardo Federici",
+      "role": "coverArtist",
+      "slug": "ricardo-federici"
+    }
+  ],
+  "displayTitle": "Empire Ascendant (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "empire-ascendant-2019-1",
+  "title": "Empire Ascendant (2019) #1"
+}

@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #50: Extremes, Part 3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2010-08-28T00:00:00.000Z",
+  "releaseDate": "2010-08-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-50-extremes-part-3",
-  "synopsis": "The galaxy is teetering on the edge of a new future, with everyone fighting for a foothold&mdash;not to mention their lives! The galaxy that emerges from this chaotic battle could even end up without a Skywalker to carry the legacy that so many have come to depend on&hellip; The final issue! Sith versus Sith! Jedi versus Sith! Imperials versus Sith! Cade Skywalker versus Sith! It's all-out war!",
+  "synopsis": "The galaxy is teetering on the edge of a new future, with everyone fighting for a foothold-not to mention their lives! The galaxy that emerges from this chaotic battle could even end up without a Skywalker to carry the legacy that so many have come to depend on . . . The final issue! Sith versus Sith! Jedi versus Sith! Imperials versus Sith! Cade Skywalker versus Sith! It's all-out war! * Extremes part 3 (of 3) The final issue of Star Wars: Legacy!",
   "title": "Legacy #50: Extremes, Part 3"
 }

@@ -5,6 +5,75 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Vatine Olivier",
+      "role": "inker",
+      "slug": "vatine-olivier"
+    },
+    {
+      "name": "Vatine Olivier",
+      "role": "penciler",
+      "slug": "vatine-olivier"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "artist",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "artist",
+      "slug": "fred-blanchard"
+    },
+    {
+      "name": "Isabelle Rabarot",
+      "role": "colorist",
+      "slug": "isabelle-rabarot"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "penciler",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "penciler",
+      "slug": "fred-blanchard"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "inker",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "inker",
+      "slug": "fred-blanchard"
     }
   ],
   "displayTitle": "Heir to the Empire #4",
@@ -21,6 +90,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heir-to-the-empire-4",
-  "synopsis": "Luke Skywalker's Jedi senses have been struck blind! To make matters worse, Grand Admiral Thrawn has just arranged to receive a shipment of creatures capable of pushing back the power of the Force. Thrawns's [sic] purpose: to ambush Luke and turn him over to the dark Jedi Master, Joruus C'baoth!",
+  "synopsis": "Luke Skywalker's Jedi senses have been struck blind! To make matters worse, Grand Admiral Thrawn has just arranged to receive a shipment of creatures capable of pushing back the power of the Force. Thrawns's purpose: to ambush Luke and turn him over to the dark Jedi Master, Joruus C'baoth!",
   "title": "Heir to the Empire #4"
 }

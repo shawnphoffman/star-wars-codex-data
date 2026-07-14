@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Benjamin Percy",
+      "role": "writer",
+      "slug": "benjamin-percy"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Josemaria Casanovas",
+      "role": "coverArtist",
+      "slug": "josemaria-casanovas"
+    }
+  ],
+  "displayTitle": "Cassian Andor",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "cassian-andor",
+  "title": "Cassian Andor"
+}

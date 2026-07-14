@@ -10,6 +10,21 @@
       "name": "Steven Melching",
       "role": "writer",
       "slug": "steven-melching"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Michael Wiggam",
+      "role": "colorist",
+      "slug": "michael-wiggam"
     }
   ],
   "displayTitle": "The Clone Wars #07: In Service of the Republic, Part 1",
@@ -20,12 +35,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-07-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-07-in-service-of-the-republic-part-1",
-  "synopsis": "In the first part of a three-issue story, the Republic's air superiority on the world of Khorm is rendered moot by storms of unnatural origin. Grounded, Jedi Kit Fisto and Plo Koon plan a daring assault mission with a squad of tougher-than-nails Republic Commandos. But if going up against determined and dug-in Separatist forces wasn't enough, the Jedi must also contend with a glory-seeking young Republic officer in their midst, Captain Kendal Ozzel.",
+  "synopsis": "In the first part of a three-issue story, the Republic's air superiority on the world of Khorm is rendered moot by storms of unnatural origin. Grounded, Jedi Kit Fisto and Plo Koon plan a daring assault mission with a squad of tougher-than-nails Republic Commandos. But if going up against determined and dug-in Separatist forces wasn't enough, the Jedi must also contend with a glory-seeking young Republic officer in their midst, Captain Kendal Ozzel. * The Clone Wars returns to Cartoon Network this fall for its second season!",
   "title": "The Clone Wars #07: In Service of the Republic, Part 1"
 }

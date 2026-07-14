@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mike Del Mundo",
+      "role": "coverArtist",
+      "slug": "mike-del-mundo"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
   "displayTitle": "The Force Awakens #4",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

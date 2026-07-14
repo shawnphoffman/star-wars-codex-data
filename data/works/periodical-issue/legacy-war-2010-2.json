@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy: War #2",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-war-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-01-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-war-2010-2",
-  "synopsis": "Changing the face of the galaxy as you know it!\n\nIt's all-out war as the Sith Empire unleashes its forces (and its secret weapons) on the rest of the galaxy. As Emperor-in-Exile Roan Fel loses ground against the Sith, he plots to use the enemy's own devices against them, regardless of the cost in innocent lives.\n\nMeanwhile, Cade Skywalker has a plan to draw out Darth Krayt for a showdown, a Sith spy within Fel's ranks is revealed, and Fel's own spy meets her fate!\n\nThe final chapter of Legacy continues!",
+  "synopsis": "It’s all--out war as the Sith Empire unleashes its forces--and its secret weapons--on the rest of the galaxy. As Emperor--in--Exile Roan Fel loses ground against the Sith, he plots to use the enemy’s own devices against them--regardless of the cost in innocent lives. Meanwhile, Cade Skywalker has a plan to draw out Darth Krayt for a showdown, a Sith spy within Fel’s ranks is revealed, and Fel’s own spy meets her fate! * The final chapter of Legacy continues!",
   "title": "Legacy: War #2"
 }

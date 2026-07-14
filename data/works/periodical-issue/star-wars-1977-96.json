@@ -5,6 +5,31 @@
       "name": "Mary Jo Duffy",
       "role": "writer",
       "slug": "mary-jo-duffy"
+    },
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Rick Parker",
+      "role": "letterer",
+      "slug": "rick-parker"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
+    },
+    {
+      "name": "Cynthia Martin",
+      "role": "penciler",
+      "slug": "cynthia-martin"
     }
   ],
   "displayTitle": "Star Wars (1977) #96: Duel With a Dark Lady",

@@ -1,0 +1,66 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Anthony Winn",
+      "role": "penciler",
+      "slug": "anthony-winn"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
+    }
+  ],
+  "displayTitle": "Star Wars #5: Prelude to Rebellion",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-04-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-5-prelude-to-rebellion",
+  "synopsis": "High above the desert sands of Tatooine, a battle of life and death is taking place! On a freighter loaded with bloodthirsty beasts, lone Jedi Ki-Adi-Mundi must fight his way to his daughter, trapped in a malfunctioning escape pod with the merciless -- but just as helpless -- criminal Ephant Mon. Only Ki can save them, but the only way to save them may be to let Ephant Mon escape . . . with Ki's daughter!",
+  "title": "Star Wars #5: Prelude to Rebellion"
+}

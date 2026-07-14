@@ -1,0 +1,67 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Josh Williamson",
+      "role": "writer",
+      "slug": "josh-williamson"
+    },
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Gene Luen Yang",
+      "role": "writer",
+      "slug": "gene-luen-yang"
+    },
+    {
+      "name": "Ryan Hill",
+      "role": "artist",
+      "slug": "ryan-hill"
+    },
+    {
+      "name": "Victor Ibanez",
+      "role": "artist",
+      "slug": "victor-ibanez"
+    },
+    {
+      "name": "Ryan Odagawa",
+      "role": "artist",
+      "slug": "ryan-odagawa"
+    },
+    {
+      "name": "Roger Robinson",
+      "role": "artist",
+      "slug": "roger-robinson"
+    },
+    {
+      "name": "Ryan Hill",
+      "role": "colorist",
+      "slug": "ryan-hill"
+    },
+    {
+      "name": "Ryan Hill",
+      "role": "coverArtist",
+      "slug": "ryan-hill"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
+    }
+  ],
+  "displayTitle": "Free Comic Book Day 2013: Star Wars/Captain Midnight/Avatar: The Last Airbender",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "free-comic-book-day-2013-star-warscaptain-midnightavatar-the-last-airbender",
+  "synopsis": "All-ages adventure! Star Wars joins fan-favorite villains Darth Vader and Boba Fett! Then explore the upcoming Dark Horse series Captain Midnight, where the search for the missing superhero is on! And the smash hit Avatar: The Last Airbender follows Mai as she deals with her broken heart . . .",
+  "title": "Free Comic Book Day 2013: Star Wars/Captain Midnight/Avatar: The Last Airbender"
+}

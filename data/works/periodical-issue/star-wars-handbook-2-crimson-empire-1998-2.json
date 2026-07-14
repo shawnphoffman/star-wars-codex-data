@@ -1,0 +1,31 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael D. Hansen",
+      "role": "writer",
+      "slug": "michael-d-hansen"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Handbook 2: Crimson Empire (1998) #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-handbook-2-crimson-empire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-handbook-2-crimson-empire-1998-2",
+  "title": "Star Wars Handbook 2: Crimson Empire (1998) #2"
+}

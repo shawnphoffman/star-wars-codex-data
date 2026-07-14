@@ -10,6 +10,36 @@
       "name": "Álvaro López",
       "role": "artist",
       "slug": "alvaro-lopez"
+    },
+    {
+      "name": "Antonio Fabela",
+      "role": "colorist",
+      "slug": "antonio-fabela"
+    },
+    {
+      "name": "Álvaro López",
+      "role": "inker",
+      "slug": "alvaro-lopez"
+    },
+    {
+      "name": "Álvaro López",
+      "role": "penciler",
+      "slug": "alvaro-lopez"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Dan Brown",
+      "role": "coverArtist",
+      "slug": "dan-brown"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
     }
   ],
   "displayTitle": "Return of the Jedi: Lando #1",

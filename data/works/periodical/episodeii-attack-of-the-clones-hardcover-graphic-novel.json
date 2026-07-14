@@ -5,6 +5,31 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Drew Struzan",
+      "role": "coverArtist",
+      "slug": "drew-struzan"
     }
   ],
   "displayTitle": "Episode II: Attack of the Clones",
@@ -16,7 +41,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2016-09-07T00:00:00.000Z",
+  "releaseDate": "2002-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episodeii-attack-of-the-clones-hardcover-graphic-novel",

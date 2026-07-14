@@ -5,6 +5,76 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
+    },
+    {
+      "name": "Brian Albert Thies",
+      "role": "artist",
+      "slug": "brian-albert-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
     }
   ],
   "displayTitle": "Legacy #17: Claws of the Dragon pt. 4",
@@ -15,12 +85,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-10-31T00:00:00.000Z",
+  "releaseDate": "2007-11-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-17-claws-of-the-dragon-part-4",
-  "synopsis": "In the heart of the Sith Temple on Coruscant, an unexpected acolyte trains in the ways of the Sith. Captured by Darth Krayt, Cade Skywalker has made an unholy bargain with the usurper Emperor. Is Cade following in the footsteps of Vader?\nA turning-point issue in the most surprising Legacy arc yet!",
+  "synopsis": "In the heart of the Sith Temple on Coruscant, an unexpected acolyte trains in the ways of the Sith. Captured by Darth Krayt, Cade Skywalker has made an unholy bargain with the usurper Emperor. Is Cade following in the footsteps of Vader? A turning-point issue in the most surprising Legacy arc yet!",
   "title": "Legacy #17: Claws of the Dragon pt. 4"
 }

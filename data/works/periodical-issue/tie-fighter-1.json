@@ -10,6 +10,56 @@
       "name": "Roge Antonio",
       "role": "artist",
       "slug": "roge-antonio"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Elia Bonetti",
+      "role": "coverArtist",
+      "slug": "elia-bonetti"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "inker",
+      "slug": "roge-antonio"
+    },
+    {
+      "name": "Michael Dowling",
+      "role": "inker",
+      "slug": "michael-dowling"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "penciler",
+      "slug": "roge-antonio"
+    },
+    {
+      "name": "Michael Dowling",
+      "role": "penciler",
+      "slug": "michael-dowling"
     }
   ],
   "displayTitle": "TIE Fighter #1",

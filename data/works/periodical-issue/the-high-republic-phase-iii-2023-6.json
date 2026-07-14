@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Laura Braga",
+      "role": "inker",
+      "slug": "laura-braga"
+    },
+    {
+      "name": "James Howe",
+      "role": "inker",
+      "slug": "james-howe"
+    },
+    {
+      "name": "Laura Braga",
+      "role": "penciler",
+      "slug": "laura-braga"
+    },
+    {
+      "name": "James Howe",
+      "role": "penciler",
+      "slug": "james-howe"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
+    }
+  ],
+  "displayTitle": "The High Republic [Phase III] (2023) #6",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-high-republic-phase-iii-2023-6",
+  "title": "The High Republic [Phase III] (2023) #6"
+}

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "A Queen's Diary",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780756632694"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "isbn13": "9780756632694",
+      "kind": "print",
+      "onsale": "2007-09-17T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

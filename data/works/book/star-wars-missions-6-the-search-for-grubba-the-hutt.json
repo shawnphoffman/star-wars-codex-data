@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 6: The Search for Grubba the Hutt",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590109529"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 77,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590109529",
+      "kind": "print",
+      "onsale": "1998-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

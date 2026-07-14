@@ -40,6 +40,36 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Allison Shearmur",
+      "role": "producer",
+      "slug": "allison-shearmur"
+    },
+    {
+      "name": "John Knoll",
+      "role": "producer",
+      "slug": "john-knoll"
+    },
+    {
+      "name": "Simon Emanuel",
+      "role": "producer",
+      "slug": "simon-emanuel"
+    },
+    {
+      "name": "Jason McGatlin",
+      "role": "producer",
+      "slug": "jason-mcgatlin"
+    },
+    {
+      "name": "Kiri Hart",
+      "role": "producer",
+      "slug": "kiri-hart"
+    },
+    {
+      "name": "John Swartz",
+      "role": "producer",
+      "slug": "john-swartz"
     }
   ],
   "displayTitle": "Rogue One",
@@ -58,6 +88,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rogue-one-a-star-wars-story",
-  "synopsis": "Jyn Erso is used to everyone leaving her behind. On a mission to track down her father, she discovers some causes are worth sticking around to fight for.",
+  "synopsis": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
   "title": "Rogue One"
 }

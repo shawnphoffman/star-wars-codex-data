@@ -1,5 +1,42 @@
 {
   "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Stefano Raffaele",
+      "role": "inker",
+      "slug": "stefano-raffaele"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "colorist",
+      "slug": "nolan-woodard"
+    },
+    {
+      "name": "Derrick Chew",
+      "role": "coverArtist",
+      "slug": "derrick-chew"
+    },
+    {
+      "name": "Stefano Raffaele",
+      "role": "penciler",
+      "slug": "stefano-raffaele"
+    }
+  ],
   "displayTitle": "Legacy of Vader #4",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

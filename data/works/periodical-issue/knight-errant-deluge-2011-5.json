@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "David Aja",
+      "role": "penciler",
+      "slug": "david-aja"
+    },
+    {
+      "name": "Sergio Abad",
+      "role": "inker",
+      "slug": "sergio-abad"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Deluge #5",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knight-errant-deluge-2011",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-12-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-deluge-2011-5",
-  "synopsis": "Caught between a Sith and a Hutt, Jedi Knight Kerra Holt must battle both to save the billions on the planet Darkknell from being drowned by a fleet of ships with the power to flood the planet! Her plan is full-steam-ahead brute force - but her enemies are more cunning than she expected. Is this the end of Kerra Holt, the lone Jedi?",
+  "synopsis": "Caught between a Sith and a Hutt, Jedi Knight Kerra Holt must battle both to save the billions on the planet Darkknell from being drowned by a fleet of ships with the power to flood the planet! Her plan is full-steam-ahead brute force--but her enemies are more cunning than she expected. Is this the end of Kerra Holt, the lone Jedi? * The final issue! * John Jackson Miller's Knight Errant novel is a New York Times bestseller!",
   "title": "Knight Errant: Deluge #5"
 }

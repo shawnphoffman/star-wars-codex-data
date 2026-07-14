@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Katie Kaniewski",
+      "role": "writer",
+      "slug": "katie-kaniewski"
+    }
+  ],
   "displayTitle": "Tower Run",
   "era": "highRepublic",
   "format": "tvEpisode",

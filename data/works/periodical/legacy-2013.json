@@ -1,5 +1,57 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Brian Albert Thies",
+      "role": "penciler",
+      "slug": "brian-albert-thies"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
+    },
+    {
+      "name": "Livio Ramondelli",
+      "role": "coverArtist",
+      "slug": "livio-ramondelli"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    }
+  ],
   "displayTitle": "Legacy (Volume 2)",
   "era": "legacy",
   "format": "periodical",

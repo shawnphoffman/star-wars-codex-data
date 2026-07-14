@@ -1,0 +1,49 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Angel Unzueta Galarza",
+      "role": "inker",
+      "slug": "angel-unzueta-galarza"
+    },
+    {
+      "name": "Angel Unzueta Galarza",
+      "role": "penciler",
+      "slug": "angel-unzueta-galarza"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Poe Dameron (2016) #27",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "poe-dameron",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "poe-dameron-2016-27",
+  "title": "Poe Dameron (2016) #27"
+}

@@ -11,15 +11,20 @@
   "displayTitle": "Master and Apprentice",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0525619372"
+    },
+    {
       "type": "isbn13",
       "value": "9780525619376"
     }
   ],
   "editions": [
     {
-      "extent": 330,
-      "imprint": "Del Rey",
+      "extent": 352,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0525619372",
       "isbn13": "9780525619376",
       "kind": "print",
       "onsale": "2019-04-16T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "master-and-apprentice",
-  "synopsis": "Obi-Wan Kenobi and Qui-Gon Jinn are requested for a special mission, even as the Padawan doubts whether or not he and his master are a good fit.",
+  "synopsis": "Obi-Wan Kenobi and Qui-Gon Jinn are requested for a special mission - even as the Padawan doubts whether or not he and his master are a good fit.",
   "title": "Master and Apprentice"
 }

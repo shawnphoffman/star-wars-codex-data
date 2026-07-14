@@ -285,6 +285,191 @@
       "name": "Ben Zweifel",
       "role": "artist",
       "slug": "ben-zweifel"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "writer",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Marc Guggenheim",
+      "role": "writer",
+      "slug": "marc-guggenheim"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Simon Spurrier",
+      "role": "writer",
+      "slug": "simon-spurrier"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "penciler",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "penciler",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "penciler",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "penciler",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Marc Deering",
+      "role": "penciler",
+      "slug": "marc-deering"
+    },
+    {
+      "name": "Scott Koblish",
+      "role": "penciler",
+      "slug": "scott-koblish"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "penciler",
+      "slug": "stefano-landini"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Karl Story",
+      "role": "penciler",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Marco Turini",
+      "role": "penciler",
+      "slug": "marco-turini"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "penciler",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "inker",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Marc Deering",
+      "role": "inker",
+      "slug": "marc-deering"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "inker",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "inker",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Tamra Bonvillain",
+      "role": "colorist",
+      "slug": "tamra-bonvillain"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Chris O'halloran",
+      "role": "colorist",
+      "slug": "chris-ohalloran"
+    },
+    {
+      "name": "Stephane Paitreau",
+      "role": "colorist",
+      "slug": "stephane-paitreau"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "coverArtist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "coverArtist",
+      "slug": "guru-efx"
     }
   ],
   "displayTitle": "Age of Rebellion",

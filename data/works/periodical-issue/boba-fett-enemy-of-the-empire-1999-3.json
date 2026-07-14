@@ -5,6 +5,44 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Jim Amash",
+      "role": "inker",
+      "slug": "jim-amash"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Briam Gregory",
+      "role": "colorist",
+      "slug": "briam-gregory"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire #3",

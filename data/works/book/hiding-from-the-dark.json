@@ -11,6 +11,10 @@
   "displayTitle": "Hiding from the Dark",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0736447024"
+    },
+    {
       "type": "isbn13",
       "value": "9780736447027"
     }
@@ -20,6 +24,7 @@
       "extent": 240,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0736447024",
       "isbn13": "9780736447027",
       "kind": "print",
       "onsale": "2026-09-01T00:00:00.000Z"

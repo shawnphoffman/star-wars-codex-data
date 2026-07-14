@@ -17,6 +17,10 @@
     {
       "type": "isbn13",
       "value": "9781368003087"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405285483"
     }
   ],
   "editions": [
@@ -28,6 +32,14 @@
       "isbn13": "9781368003087",
       "kind": "print",
       "onsale": "2017-10-24T00:00:00.000Z"
+    },
+    {
+      "extent": 160,
+      "imprint": "Egmont UK",
+      "isPrimary": false,
+      "isbn13": "9781405285483",
+      "kind": "print",
+      "onsale": "2017-03-09T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -35,7 +47,7 @@
   "inUniverseDate": {
     "startYear": -18
   },
-  "releaseDate": "2017-10-24T00:00:00.000Z",
+  "releaseDate": "2017-03-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-cold-book-5",

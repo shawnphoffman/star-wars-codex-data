@@ -10,6 +10,26 @@
       "name": "Tomás Giorello",
       "role": "artist",
       "slug": "toms-giorello"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Tomás Giorello",
+      "role": "penciler",
+      "slug": "toms-giorello"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "coverArtist",
+      "slug": "gary-erskine"
     }
   ],
   "displayTitle": "X-Wing: Rogue Leader",

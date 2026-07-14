@@ -5,6 +5,40 @@
       "name": "Terry Austin",
       "role": "writer",
       "slug": "terry-austin"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "inker",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Splinter of the Mind's Eye #2",
@@ -17,10 +51,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-02-27T00:00:00.000Z",
+  "releaseDate": "1996-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "splinter-of-the-mind-s-eye-2",
-  "synopsis": "Imprisoned by the Imperial forces, confronted by two very violent, very massive creatures known as Yuzzem, Luke and Leia have only one hope of escape: the Mimban Crystal, capable of giving its wielder total, omnipotent mastery of the Force. But Luke's use of the crystal could draw the unwelcome attention of certain &hellip; dark powers.",
+  "synopsis": "Imprisoned by the Imperial forces, confronted by two very violent, very massive creatures known as yuzzem, Luke and Leia have only one hope of escape: the Mimban Crystal, capable of giving its wielder total, omnipotent mastery of the Force. But Luke's use of the crystal could draw the unwelcome attention of certain ... dark powers.",
   "title": "Splinter of the Mind's Eye #2"
 }

@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-the-prisoner-of-bogan-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-03-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-the-prisoner-of-bogan-2012-4",
-  "synopsis": "Even as the Je'daii close in on the mysterious Xesh and his mad ally Daegen Lok, a third party has entered the chase, a powerful woman from Xesh's past.\n\nMeanwhile, Lok has sought the help of old enemies to help him attain a common goal, the downfall of the Je'daii!",
+  "synopsis": "Even as the Je’daii close in on the mysterious Xesh and his mad ally Daegen Lok, a third party has entered the chase—a powerful woman from Xesh’s past. Meanwhile, Lok has sought the help of old enemies to help him attain a common goal—the downfall of the Je’daii! * Origins of the Jedi! * Most popular Star Wars series of 2012 continues!",
   "title": "Dawn of the Jedi: The Prisoner of Bogan #4"
 }

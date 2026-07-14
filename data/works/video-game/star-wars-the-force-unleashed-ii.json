@@ -1,5 +1,32 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Clarendon",
+      "role": "director",
+      "slug": "james-clarendon"
+    },
+    {
+      "name": "Dustin Dobson",
+      "role": "producer",
+      "slug": "dustin-dobson"
+    },
+    {
+      "name": "April Burba",
+      "role": "producer",
+      "slug": "april-burba"
+    },
+    {
+      "name": "Matt Omernick",
+      "role": "artist",
+      "slug": "matt-omernick"
+    },
+    {
+      "name": "Mark Griskey",
+      "role": "composer",
+      "slug": "mark-griskey"
+    }
+  ],
   "displayTitle": "The Force Unleashed II",
   "era": "ageOfRebellion",
   "format": "videoGame",
@@ -7,6 +34,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-the-force-unleashed-ii",
-  "synopsis": "The Star Wars® Saga continues with Star Wars®: The Force Unleashed™ II, the highly anticipated sequel to the fastest-selling Star Wars game ever created.",
+  "synopsis": "The Star Wars Saga continues with Star Wars: The Force Unleashed II, the highly anticipated sequel to the fastest-selling Star Wars game ever created.",
   "title": "Star Wars: The Force Unleashed II"
 }

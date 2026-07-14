@@ -5,6 +5,76 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
+    },
+    {
+      "name": "Brian Albert Thies",
+      "role": "artist",
+      "slug": "brian-albert-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
     }
   ],
   "displayTitle": "Legacy #16: Claws of the Dragon pt. 3",
@@ -15,12 +85,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-09-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-16-claws-of-the-dragon-part-3",
-  "synopsis": "Much has been told about the legacy of the Skywalker family, but until now little has been said of the legacy of Obi-Wan Kenobi!\nIf you think you know the whole story, prepare yourself for a shock. In the wake of the Clone Wars, Obi-Wan fought a lonely battle&mdash;the outcome of which rocks the future of the Star Wars galaxy!\nAnother layer of the Legacy mystery is revealed!",
+  "synopsis": "Much has been told about the legacy of the Skywalker family, but until now little has been said of the legacy of Obi-Wan Kenobi! If you think you know the whole story, prepare yourself for a shock. In the wake of the Clone Wars, Obi-Wan fought a lonely battle--the outcome of which rocks the future of the Star Wars galaxy! Another layer of the Legacy mystery is revealed!",
   "title": "Legacy #16: Claws of the Dragon pt. 3"
 }

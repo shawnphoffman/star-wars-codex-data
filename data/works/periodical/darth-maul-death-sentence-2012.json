@@ -10,6 +10,26 @@
       "name": "Bruno Redondo",
       "role": "artist",
       "slug": "bruno-redondo"
+    },
+    {
+      "name": "Bruno Redondo",
+      "role": "penciler",
+      "slug": "bruno-redondo"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Darth Maul: Death Sentence",

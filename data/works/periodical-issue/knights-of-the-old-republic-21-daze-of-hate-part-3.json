@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "inker",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Warner",
+      "role": "coverArtist",
+      "slug": "chris-warner"
     }
   ],
   "displayTitle": "Knights of the Old Republic #21: Daze of Hate, Part 3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-10-24T00:00:00.000Z",
+  "releaseDate": "2007-10-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-21-daze-of-hate-part-3",
-  "synopsis": "Negotiations between the Republic and the Mandalorians come to a head in this unthinkable conclusion to the compelling \"Daze of Hate\" story arc! Aboard his massive flagship the Arkanian Legacy, Lord Adasca believes his plan to become nothing less than the most powerful being in the galaxy is about achieve fruition. If he is to be stopped, fugitive Padawan Zayne Carrick must risk it all with a quickly conceived and untested scheme that requires help from none other than his arch-nemesis and former teacher&mdash;Jedi Master Lucien! Yet as these two former enemies spring into action amidst Adasca",
+  "synopsis": "Negotiations between the Republic and the Mandalorians come to a head in this unthinkable conclusion to the compelling \"Daze of Hate\" story arc! Aboard his massive flagship the Arkanian Legacy, Lord Adasca believes his plan to become nothing less than the most powerful being in the galaxy is about achieve fruition. If he is to be stopped, fugitive Padawan Zayne Carrick must risk it all with a quickly conceived and untested scheme that requires help from none other than his arch-nemesis and former teacher--Jedi Master Lucien! Yet as these two former enemies spring into action amidst Adasca's carefully controlled meeting of the Republic and the Mandalorians, another plot is set into motion--one that will seal the fate of several major players forever! * Continuing the ongoing monthly series set nearly four thousand years before the rise of the Empire and the fall of Anakin Skywalker (and seven years prior to the events in the Knights of the Old Republic video game). * A great starting point for anyone interested in following the Star Wars saga beyond the films.",
   "title": "Knights of the Old Republic #21: Daze of Hate, Part 3"
 }

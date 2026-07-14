@@ -10,6 +10,44 @@
       "name": "Randy Stradley",
       "role": "writer",
       "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Sean Konot",
+      "role": "letterer",
+      "slug": "sean-konot"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire #2",
@@ -26,5 +64,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-2-3",
+  "synopsis": "The last member of the Crimson Guard, Kir Kanos, has found some possible allies with a band of Rebels . . . but can they trust a former servant of the evil Emperor? This issue also details an amazing untold encounter with Darth Vader and Emperor Palpatine! Plus, not one, but two groups of Imperials are after Kanos -- with their own agendas!",
   "title": "Crimson Empire #2"
 }

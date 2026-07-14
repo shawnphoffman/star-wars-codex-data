@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-storm-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-04-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-storm-2012-3",
-  "synopsis": "The balance of the Force on Tython has been thrown into turmoil. A ship has fallen from the sky, bringing with it a strange, dark, and hostile individual. Three young Je'daii who felt \"called\" to the site of the crash now fight for their lives with their swords and the Force. But live or die, the storm that will engulf the homeworld of the Je'daii has already begun!",
+  "synopsis": "The balance of the Force on Tython has been thrown into turmoil. A ship has fallen from the sky, bringing with it a strange, dark, and hostile individual. Three young Jédaii who felt \"called\" to the site of the crash now fight for their lives with their swords and the Force. But live or die, the storm that will engulf the homeworld of the Je'daii has already begun! * Establishes the beginnings of the Jedi! * The Ostrander/Duursema team returns!",
   "title": "Dawn of the Jedi: Force Storm #3"
 }

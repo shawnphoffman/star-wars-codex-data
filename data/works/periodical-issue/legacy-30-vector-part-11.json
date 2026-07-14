@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "coverArtist",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Legacy #30: Vector, Part 11",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-11-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-30-vector-part-11",
-  "synopsis": "Celeste Morne, a Jedi of the Old Republic, and Cade Skywalker, descendant of the legendary Skywalkers, have joined with a group of Imperial Knights and Cade's bounty hunter crew for an assassination attempt on the Sith Emperor, Darth Krayt. But Celeste has been struggling with the spirit of Sith Lord Karness Muur for over 4,000 years&mdash;there is no way to determine how much control he maintains over her actions. Can Cade's plot succeed, or will he find himself at the mercy of another Sith?",
+  "synopsis": "Celeste Morne, a Jedi of the Old Republic, and Cade Skywalker, descendant of the legendary Skywalkers, have joined with a group of Imperial Knights and Cade's bounty-hunter crew for an assassination attempt on the Sith Emperor, Darth Krayt. But Celeste has been struggling with the spirit of Sith Lord Karness Muur for over 4,000 years--there is no way to determine how much control he maintains over her actions. Can Cade's plot succeed, or will he find himself at the mercy of another Sith?",
   "title": "Legacy #30: Vector, Part 11"
 }

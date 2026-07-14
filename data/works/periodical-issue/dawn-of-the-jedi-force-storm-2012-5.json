@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm #5",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-storm-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-06-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-storm-2012-5",
-  "synopsis": "On ancient Tython, the Force is out of balance, causing a massive Force storm which could destroy the entire planet! As three mighty Je'daii Masters strive to subdue the storm, three of their students struggle to forge an uneasy alliance with the dark stranger whose presence created the storm in the first place. As the first arc of the epic tale comes to a close, powers beyond even the Je'daii's understanding will be revealed, and a threat to the galaxy at large will be unveiled!",
+  "synopsis": "On ancient Tython, the Force is out of balance, causing a massive Force storm which could destroy the entire planet! As three mighty Je’daii Masters strive to subdue the storm, three of their students struggle to forge an uneasy alliance with the dark stranger whose presence created the storm in the first place. As the first arc of the epic tale comes to a close, powers beyond even the Je’daii’s understanding will be revealed, and a threat to the galaxy at large will be unveiled! * The dark dawn of the dark side!",
   "title": "Dawn of the Jedi: Force Storm #5"
 }

@@ -1,5 +1,121 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Clayton Henry",
+      "role": "penciler",
+      "slug": "clayton-henry"
+    },
+    {
+      "name": "Adriana Melo - Inactive",
+      "role": "penciler",
+      "slug": "adriana-melo---inactive"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "penciler",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "penciler",
+      "slug": "jon-sommariva"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "penciler",
+      "slug": "ramon-bachs"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Fabio Laguna",
+      "role": "inker",
+      "slug": "fabio-laguna"
+    },
+    {
+      "name": "Jimmy Palmiotti",
+      "role": "inker",
+      "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "Pierre-Andre Dery",
+      "role": "inker",
+      "slug": "pierre-andre-dery"
+    },
+    {
+      "name": "Adam Gallardo",
+      "role": "writer",
+      "slug": "adam-gallardo"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "writer",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Tom Luth",
+      "role": "colorist",
+      "slug": "tom-luth"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "letterer",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "inker",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "writer",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Debra Bailey",
+      "slug": "debra-bailey"
+    },
+    {
+      "name": "Pat Lee",
+      "role": "coverArtist",
+      "slug": "pat-lee"
+    }
+  ],
   "displayTitle": "Tales #14",
   "era": "multiEra",
   "format": "periodicalIssue",

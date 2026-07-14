@@ -16,11 +16,20 @@
   "displayTitle": "Jedi Trial",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345461142"
+    },
+    {
       "type": "isbn13",
       "value": "9780345461148"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0345461142",
+      "kind": "print"
+    },
     {
       "extent": 352,
       "imprint": "Del Rey",

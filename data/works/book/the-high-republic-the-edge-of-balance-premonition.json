@@ -9,11 +9,32 @@
     },
     {
       "name": "Haining",
-      "role": "artist",
+      "role": "penciler",
+      "slug": "haining"
+    },
+    {
+      "name": "Haining",
+      "role": "coverArtist",
       "slug": "haining"
     }
   ],
   "displayTitle": "The High Republic: The Edge of Balance: Premonition",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781974749980"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn13": "9781974749980",
+      "kind": "print",
+      "onsale": "2025-04-08T00:00:00.000Z"
+    }
+  ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {

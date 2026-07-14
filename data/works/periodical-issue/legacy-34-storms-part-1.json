@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #34: Storms, Part 1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-03-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-34-storms-part-1",
-  "synopsis": "After their climactic battle against Darth Krayt, Cade and his crew are hurtling through a lightning storm with mortally wounded Imperial Knight Azlyn Rae and Jedi Knight Shado Vao. They hope to reach the planet Kiffar, where Bantha Rawk might help with Cade's seemingly impossible plan to save Azlyn. The Sith, too, are handling the aftermath of the battle on Had Abbadon. Some will awaken to find the battle did not end as they believed...",
+  "synopsis": "After their climactic battle against Darth Krayt, Cade and his crew are hurtling through a lightning storm with mortally wounded Imperial Knight Azlyn Rae and Jedi Knight Shado Vao. They hope to reach the planet Kiffer, where Bantha Rawk might help with Cade's seemingly impossible plan to save Azlyn. The Sith, too, are handling the aftermath of the battle on Had Abbadon. Some will awaken to find the battle did not end as they believed . . .",
   "title": "Legacy #34: Storms, Part 1"
 }

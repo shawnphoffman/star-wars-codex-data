@@ -10,6 +10,36 @@
       "name": "Will Sliney",
       "role": "artist",
       "slug": "will-sliney"
+    },
+    {
+      "name": "Tommy Lee Edwards",
+      "role": "coverArtist",
+      "slug": "tommy-lee-edwards"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
     }
   ],
   "displayTitle": "Galaxy's Edge #3",

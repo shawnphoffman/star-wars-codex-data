@@ -1,8 +1,24 @@
 {
   "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Golden Books",
+      "role": "author",
+      "slug": "golden-books"
+    },
+    {
+      "name": "Golden Books",
+      "role": "writer",
+      "slug": "golden-books"
+    }
+  ],
   "displayTitle": "Get Well, Nubs!",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736443916"
+    },
     {
       "type": "isbn13",
       "value": "9780736443913"
@@ -11,8 +27,9 @@
   "editions": [
     {
       "extent": 24,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736443916",
       "isbn13": "9780736443913",
       "kind": "print",
       "onsale": "2023-07-18T00:00:00.000Z"
@@ -27,6 +44,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "get-well-nubs",
-  "synopsis": "Nubs’ best friends and fellow Jedi younglings in training embark on a special mission to help him feel better.",
+  "synopsis": "Nubs' best friends and fellow Jedi younglings in training embark on a special mission to help him feel better.",
   "title": "Get Well, Nubs!"
 }

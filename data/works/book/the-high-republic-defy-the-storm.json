@@ -16,6 +16,18 @@
   "displayTitle": "Defy the Storm",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0CQ4L6XDX"
+    },
+    {
+      "type": "isbn10",
+      "value": "136809516X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093811"
+    },
+    {
       "type": "isbn13",
       "value": "9781368095167"
     }
@@ -23,8 +35,18 @@
   "editions": [
     {
       "extent": 464,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368093811",
+      "kind": "print",
+      "onsale": "2024-03-05T00:00:00.000Z"
+    },
+    {
+      "asin": "B0CQ4L6XDX",
+      "extent": 464,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "136809516X",
       "isbn13": "9781368095167",
       "kind": "print",
       "onsale": "2024-03-05T00:00:00.000Z"
@@ -39,6 +61,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-defy-the-storm",
-  "synopsis": "Jedi Knight Vernestra Rwoh seeks the help of Avon Starros to find her Padawan, who may still be alive and trapped behind the Nihil’s Occlusion Zone.",
+  "synopsis": "Jedi Knight Vernestra Rwoh seeks the help of Avon Starros to find her Padawan, who may still be alive and trapped behind the Nihil's Occlusion Zone.",
   "title": "Defy the Storm"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Clone Wars: Anakin in Action!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756640318"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "isbn10": "0756640318",
+      "kind": "print",
+      "onsale": "2008-07-26T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

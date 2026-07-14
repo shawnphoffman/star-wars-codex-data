@@ -1,0 +1,69 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Michelinie",
+      "role": "writer",
+      "slug": "david-michelinie"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "penciler",
+      "slug": "walt-simonson"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Rudy Nebres",
+      "role": "inker",
+      "slug": "rudy-nebres"
+    },
+    {
+      "name": "Janice Chiang",
+      "role": "letterer",
+      "slug": "janice-chiang"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Rachel Penn",
+      "role": "editor",
+      "slug": "rachel-penn"
+    },
+    {
+      "name": "Jeremy Perkins",
+      "slug": "jeremy-perkins"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: A Long Time Ago #5",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-a-long-time-ago-5",
+  "title": "Classic Star Wars: A Long Time Ago #5"
+}

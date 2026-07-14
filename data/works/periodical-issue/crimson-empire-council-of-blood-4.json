@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Crimson Empire: Council of Blood #4",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "crimson-empire-council-of-blood",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-02-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-council-of-blood-4",
+  "synopsis": "The pieces of the mystery are slowly coming together as Kir Kanos races towards the Zanibar homeworld, Xo, in an attempt to save Mirith Sinn from a fate worse than death. But will he be in time? Will personal animosities between the two be too great? Meanwhile, Grappa the Hutt finds himself in an awkward situation, with the heat of the Black Sun starting to make him sweat.",
+  "title": "Crimson Empire: Council of Blood #4"
+}

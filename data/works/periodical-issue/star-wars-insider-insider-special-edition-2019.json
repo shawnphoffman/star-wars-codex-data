@@ -1,10 +1,11 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "displayTitle": "Insider - Special Edition 2019",
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 112,
     "publicationKind": "magazine"
   },
   "releaseDate": "2018-11-13T00:00:00.000Z",

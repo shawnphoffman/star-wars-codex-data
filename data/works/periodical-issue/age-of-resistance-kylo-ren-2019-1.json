@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "inker",
+      "slug": "cory-hamscher"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Bryan Young",
+      "role": "writer",
+      "slug": "bryan-young"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Age of Resistance: Kylo Ren (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-resistance-kylo-ren-2019-1",
+  "title": "Age of Resistance: Kylo Ren (2019) #1"
+}

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Greg Iwinski",
+      "role": "writer",
+      "slug": "greg-iwinski"
+    }
+  ],
   "displayTitle": "The Secret Ship",
   "era": "highRepublic",
   "format": "tvEpisode",

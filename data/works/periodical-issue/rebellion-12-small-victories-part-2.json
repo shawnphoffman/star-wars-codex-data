@@ -5,6 +5,31 @@
       "name": "Jeremy Barlow",
       "role": "writer",
       "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Rebellion #12: Small Victories, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-03-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-12-small-victories-part-2",
-  "synopsis": "With the Rebel flagship lost deep inside Imperial space, Admiral Ackbar must decide whether to risk the Alliance fleet on a seemingly impossible rescue, or leave Luke Skywalker and Princess Leia to fend for themselves. Meanwhile, Luke and Leia have undertaken a seemingly impossible mission of their own with disastrous results. Captured by a corrupt officer on a vital Imperial installation, Luke and Leia have one last chance for their mission and their lives--Deena Shan. Insecure and indecisive, Deena never thought she had much to offer the Rebellion. Now, with the fate of the Alliance in her h",
+  "synopsis": "With the Rebel flagship lost deep inside Imperial space, Admiral Ackbar must decide whether to risk the Alliance fleet on a seemingly impossible rescue, or leave Luke Skywalker and Princess Leia to fend for themselves. Meanwhile, Luke and Leia have undertaken a seemingly impossible mission of their own with disastrous results. Captured by a corrupt officer on a vital Imperial installation, Luke and Leia have one last chance for their mission and their lives--Deena Shan. Insecure and indecisive, Deena never thought she had much to offer the Rebellion. Now, with the fate of the Alliance in her hands, she hopes she was wrong! A Rebel mission gone wrong!",
   "title": "Rebellion #12: Small Victories, Part 2"
 }

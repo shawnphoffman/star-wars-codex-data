@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Clone Wars: Captured",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448452029"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448452029",
+      "kind": "print",
+      "onsale": "2009-07-23T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

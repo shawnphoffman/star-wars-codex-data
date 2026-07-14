@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9781101966938"
+    },
+    {
+      "type": "isbn13",
       "value": "9781101966952"
     }
   ],
@@ -23,11 +27,19 @@
     {
       "extent": 448,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9781101966938",
+      "kind": "print",
+      "onsale": "2016-07-12T00:00:00.000Z"
+    },
+    {
+      "extent": 512,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1101966955",
       "isbn13": "9781101966952",
       "kind": "print",
-      "onsale": "2016-07-12T00:00:00.000Z"
+      "onsale": "2017-03-28T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -39,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "aftermath-life-debt",
-  "synopsis": "The hunt for Admiral Rae Sloane continues, but a side mission to track down the Millennium Falcon might put Norra Wexley and her crew in even more danger than before.",
+  "synopsis": "The hunt for Admiral Rae Sloane continues - but a side mission to track down the Millennium Falcon might put Norra Wexley and her crew in even more danger than before.",
   "title": "Aftermath: Life Debt"
 }

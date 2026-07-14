@@ -14,11 +14,27 @@
     }
   ],
   "displayTitle": "Boba Fett: Part 1: Survival",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "054511621X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 437,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "054511621X",
+      "kind": "print",
+      "onsale": "2008-01-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2008-08-01T00:00:00.000Z",
+  "releaseDate": "2008-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-part-1-survival",

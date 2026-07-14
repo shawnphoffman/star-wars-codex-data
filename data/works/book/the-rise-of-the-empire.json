@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "The Rise of the Empire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781101965030"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 720,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9781101965030",
+      "kind": "print",
+      "onsale": "2015-10-06T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -11,

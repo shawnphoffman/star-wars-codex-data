@@ -20,6 +20,41 @@
       "name": "Brandon Auman",
       "role": "producer",
       "slug": "brandon-auman"
+    },
+    {
+      "name": "Dan Franck",
+      "role": "writer",
+      "slug": "dan-franck"
+    },
+    {
+      "name": "Thierry Westermeyer",
+      "role": "composer",
+      "slug": "thierry-westermeyer"
+    },
+    {
+      "name": "Alain Goldman",
+      "role": "writer",
+      "slug": "alain-goldman"
+    },
+    {
+      "name": "Alain Goldman",
+      "role": "director",
+      "slug": "alain-goldman"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "showrunner",
+      "slug": "dave-filoni"
     }
   ],
   "displayTitle": "Resistance",

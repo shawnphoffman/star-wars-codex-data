@@ -11,6 +11,10 @@
   "displayTitle": "The Fallen Star",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593355393"
+    },
+    {
       "type": "isbn13",
       "value": "9780593355398"
     }
@@ -23,9 +27,10 @@
       "onsale": "2022-01-04T00:00:00.000Z"
     },
     {
-      "extent": 352,
-      "imprint": "Del Rey",
+      "extent": 368,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593355393",
       "isbn13": "9780593355398",
       "kind": "print",
       "onsale": "2022-01-04T00:00:00.000Z"
@@ -40,6 +45,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-fallen-star",
-  "synopsis": "Since its grand opening, Starlight Beacon has served as a center of hope for the galaxy. That’s why Marchion Ro, Eye of the Nihil, has his sights set on the station.",
+  "synopsis": "Since its grand opening, Starlight Beacon has served as a center of hope for the galaxy. That's why Marchion Ro, Eye of the Nihil, has his sights set on the station.",
   "title": "The Fallen Star"
 }

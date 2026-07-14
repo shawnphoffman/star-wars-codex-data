@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    },
+    {
+      "name": "Natalie Holt",
+      "role": "composer",
+      "slug": "natalie-holt"
+    }
+  ],
   "displayTitle": "Obi-Wan Kenobi Season 1",
   "era": "reignOfTheEmpire",
   "format": "tvSeason",
@@ -7,7 +19,7 @@
     "startYear": -9
   },
   "parentWorkSlug": "obi-wan-kenobi-trade-paperback",
-  "releaseDate": "2022-05-27T00:00:00.000Z",
+  "releaseDate": "2022-05-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-season-1",

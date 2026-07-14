@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Greg Iwinski",
+      "role": "writer",
+      "slug": "greg-iwinski"
+    }
+  ],
   "displayTitle": "Tenoo's Fastest",
   "era": "highRepublic",
   "format": "tvEpisode",

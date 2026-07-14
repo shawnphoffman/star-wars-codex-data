@@ -10,6 +10,46 @@
       "name": "Stephen Mooey",
       "role": "artist",
       "slug": "stephen-mooey"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Dennis \"Hopeless\" Hallum",
+      "role": "writer",
+      "slug": "dennis-hopeless-hallum"
+    },
+    {
+      "name": "Greg Smallwood",
+      "role": "coverArtist",
+      "slug": "greg-smallwood"
+    },
+    {
+      "name": "Stephen Mooney",
+      "role": "inker",
+      "slug": "stephen-mooney"
+    },
+    {
+      "name": "Stephen Mooney",
+      "role": "penciler",
+      "slug": "stephen-mooney"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Vader: Dark Visions #4",

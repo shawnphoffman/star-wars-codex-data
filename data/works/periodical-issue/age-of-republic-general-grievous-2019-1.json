@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    }
+  ],
+  "displayTitle": "Age Of Republic: General Grievous (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-republic-general-grievous-2019-1",
+  "title": "Age Of Republic: General Grievous (2019) #1"
+}

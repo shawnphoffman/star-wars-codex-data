@@ -11,11 +11,20 @@
   "displayTitle": "Jedi Apprentice: The Dark Rival",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590519255"
+    },
+    {
       "type": "isbn13",
       "value": "9780590519250"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0590519255",
+      "kind": "print"
+    },
     {
       "extent": 128,
       "imprint": "Scholastic",

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Éloi Arcand",
+      "role": "director",
+      "slug": "loi-arcand"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    }
+  ],
   "displayTitle": "The Clone Wars Season 4",
   "era": "fallOfTheJedi",
   "format": "tvSeason",

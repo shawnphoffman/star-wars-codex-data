@@ -9,6 +9,15 @@
     }
   ],
   "displayTitle": "Winner Lose All",
+  "editions": [
+    {
+      "extent": 65,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-12-10T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

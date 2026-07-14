@@ -11,6 +11,10 @@
   "displayTitle": "Return of the Jedi: Beware the Power of the Dark Side!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484709136"
+    },
+    {
       "type": "isbn13",
       "value": "9781484709139"
     },
@@ -24,6 +28,7 @@
       "extent": 432,
       "imprint": "Disney–Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484709136",
       "isbn13": "9781484709139",
       "kind": "print",
       "onsale": "2015-09-22T00:00:00.000Z"

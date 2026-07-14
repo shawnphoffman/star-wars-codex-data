@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jon Foster",
+      "role": "coverArtist",
+      "slug": "jon-foster"
+    }
+  ],
+  "displayTitle": "Star Wars #28: The Hunt for Aurra Sing",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-03-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-28-the-hunt-for-aurra-sing",
+  "synopsis": "Get ready for some electrifying lightsaber battle action! Aurra Sing arrives on Coruscant with a mean streak, killing Jedi within the very shadows of the Temple. The Jedi Council must now decide how to deal with the infamous bounty hunter. Several Jedi Knights volunteer for the honor of bringing Sing to justice. But do they want justice or vengeance? It's going to take more than a grudge to bring down an assassin with a reputation for killing Jedi.",
+  "title": "Star Wars #28: The Hunt for Aurra Sing"
+}

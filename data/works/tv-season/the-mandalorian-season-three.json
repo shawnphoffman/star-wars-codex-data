@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ludwig Göransson",
+      "role": "composer",
+      "slug": "ludwig-gransson"
+    },
+    {
+      "name": "Joseph Shirley",
+      "role": "composer",
+      "slug": "joseph-shirley"
+    }
+  ],
   "displayTitle": "The Mandalorian Season 3",
   "era": "newRepublic",
   "format": "tvSeason",

@@ -11,6 +11,18 @@
   "displayTitle": "The Force Awakens",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00WCXL1JW"
+    },
+    {
+      "type": "isbn10",
+      "value": "1101965509"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781101965498"
+    },
+    {
       "type": "isbn13",
       "value": "9781101965504"
     }
@@ -19,10 +31,20 @@
     {
       "extent": 272,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9781101965498",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    },
+    {
+      "asin": "B00WCXL1JW",
+      "extent": 400,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "1101965509",
       "isbn13": "9781101965504",
       "kind": "print",
-      "onsale": "2016-01-05T00:00:00.000Z"
+      "onsale": "2015-12-18T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -30,10 +52,10 @@
   "inUniverseDate": {
     "startYear": 34
   },
-  "releaseDate": "2016-01-05T00:00:00.000Z",
+  "releaseDate": "2015-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-force-awakens-novelization",
-  "synopsis": "The official novelization of Star Wars: The Force Awakens, the highly anticipated blockbuster film directed by J. J. Abrams, hitting theaters in December 2015.",
+  "synopsis": "The First Order is seizing more control over the galaxy, and the Resistance is doing its best to stop it. Kylo Ren may think he has everything under control, but a new threat - a girl from the planet Jakku - is about to derail his plans for the future.",
   "title": "The Force Awakens"
 }

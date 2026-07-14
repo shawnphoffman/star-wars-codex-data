@@ -5,6 +5,31 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "David Aja",
+      "role": "penciler",
+      "slug": "david-aja"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns #3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "the-old-republic-the-lost-suns-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-08-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-the-lost-suns-2011-3",
-  "synopsis": "Star Wars: The Old Republic: The Lost Suns is the third story arc in the Star Wars: The Old Republic comic series, a tie-in to the Star Wars: The Old Republic massively multiplayer online role-playing game. Unlike the previous two installments, Threat of Peace and Blood of the Empire, it is not a reprint of web comic content, but an all new story focusing on Theron Shan, the son of Jedi Master Satele Shan. First revealed in Star Wars Insider 124, the series consisted of five issues released monthly, with the first one released on June 8, 2011.",
+  "synopsis": "The war that ended in a tense peace agreement is in danger of beginning again, but elite Republic spy Theron Shan is going to do everything in his power to prevent it-including infiltrating the Imperial space of Darth Mekhis to find out what is happening! Along with Master Zho, and the criminal in his custody, Teff'ith, Theron is headed to Port Nowhere. He hasn't got a plan or any idea what he may be going to face, but for a spy, he's got great style! * The soon-to-be-released online game comes straight to comics! * Starring Theron Shan, the son of legendary Jedi Master Satele Shan!",
   "title": "The Old Republic: The Lost Suns #3"
 }

@@ -5,6 +5,40 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #23: In the Empire's Service, Part 3",

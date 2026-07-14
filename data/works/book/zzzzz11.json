@@ -11,11 +11,22 @@
   "displayTitle": "Jedi Apprentice: The Deadly Hunter",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139309"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139304"
     }
   ],
   "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439139309",
+      "kind": "print",
+      "onsale": "2000-12-01T00:00:00.000Z"
+    },
     {
       "extent": 128,
       "imprint": "Scholastic",

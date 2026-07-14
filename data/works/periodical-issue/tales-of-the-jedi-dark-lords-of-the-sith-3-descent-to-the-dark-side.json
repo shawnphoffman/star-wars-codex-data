@@ -10,6 +10,45 @@
       "name": "Kevin J. Anderson",
       "role": "writer",
       "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "penciler",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith #3: Descent to the Dark Side",
@@ -22,10 +61,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1994-12-03T00:00:00.000Z",
+  "releaseDate": "1994-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-dark-lords-of-the-sith-3-descent-to-the-dark-side",
-  "synopsis": "As the Krath declare war on the Jedi, thousands converge on the red planet of Deneba to debate the threat, presided over by the telepathic Master Odan-Urr. Ulic Qel-Droma proposes infiltrating the Krath to destroy them from within, drawing sharp warnings from Master Arca Jeth that the dark path leads only to ruin.\n\nMeanwhile on Korriban, Exar Kun follows the spirit of Freedon Nadd through the Valley of the Dark Lords, hunted by risen Korriban zombies. Deep in a mausoleum, Nadd collapses the cave and crushes Kun, telling him that only the dark side can save him. Alone and dying, Kun opens himself fully to the dark side and is healed, his scream of rebirth echoing across the galaxy. At that moment Deneba is overrun by thousands of Krath war droids; in the ensuing battle Arca Jeth is killed. Passing a final test set by Nadd, Kun claims his power and sets out for Yavin 4, while a grieving Ulic vows to conquer the dark side and press on with his mission.",
+  "synopsis": "The Krath attack! During a seemingly peaceful meeting of the Jedi Knights, a deadly blow is struck for the dark side of the Force! The first casualties of this struggle between dark and light galvanize Ulic toward a rash decision that may cost him his life.",
   "title": "Tales of the Jedi: Dark Lords of the Sith #3: Descent to the Dark Side"
 }

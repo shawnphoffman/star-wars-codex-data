@@ -1,10 +1,45 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War #2",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-war-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-war-2013-2",
-  "synopsis": "Star Wars: Dawn of the Jedi: Force War is a five-issue comic book miniseries that is the third story arc in Star Wars: Dawn of the Jedi, a comic book series published by Dark Horse Comics and written by the creative team of John Ostrander and Jan Duursema. Set one year after the events of the previous story arc, The Prisoner of Bogan, Force War deals with the invasion of the Tython system by the Infinite Empire of the Rakata species. As the miniseries opens, the Rakata have conquered half of the Tython system, and the Je'daii use the Forcesabers&mdash;the dark side weapons of the Rakata&mdash;to defend their home against the invaders. Predor Skal'nas of the Empire seeks to invade Tython and locate the Infinity Gate rumored to have been built there by the Kwa species, which he hopes will elevate him into power.",
+  "synopsis": "The Je’daii go on the offensive against the invading Rakatan Empire! Xesh uses his Force Hound training to locate the Rakatan command center, which sparks an ambitious plan: infiltrate the enemy stronghold and kill the supreme commander. But Xesh has not accounted for a traitor in his own ranks! * The war that determines the future of the Jedi! * John Ostrander and Jan Duursema pull out all the stops!",
   "title": "Dawn of the Jedi: Force War #2"
 }

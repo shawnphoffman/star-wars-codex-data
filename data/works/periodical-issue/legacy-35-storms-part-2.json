@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
     }
   ],
   "displayTitle": "Legacy #35: Storms, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-04-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-35-storms-part-2",
-  "synopsis": "The fallout from the battle on Had Abbadon is being felt throughout the galaxy. On Coruscant, Moffs Nyna Calixte and Morlish Veed contemplate the news and wonder what it means for their plans to rule the Empire; while across the galaxy, deposed Emperor Roan Fel mourns what has been lost. Meanwhile \"Bantha\" Rawk aids Cade in a dangerous plan to save a friend. The conclusion to \"Storms\" will set a new path for Legacy&mdash;the galaxy has been reborn... again!",
+  "synopsis": "The fallout from the battle on Had Abbadon is being felt throughout the galaxy. On Coruscant, Moffs Nyna Calixte and Morlish Veed contemplate the news and wonder what it means for their plans to rule the Empire; while across the galaxy, deposed Emperor Roan Fel mourns what has been lost. Meanwhile \"Bantha\" Rawk aids Cade in a dangerous plan to save a friend. The conclusion to \"Storms\" will set a new path for Legacy -- the galaxy has been reborn . . . again!",
   "title": "Legacy #35: Storms, Part 2"
 }

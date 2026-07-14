@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Mia Resella",
+      "role": "writer",
+      "slug": "mia-resella"
+    }
+  ],
   "displayTitle": "The Show Must Go On",
   "era": "highRepublic",
   "format": "tvEpisode",

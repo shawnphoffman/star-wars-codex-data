@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Brian Hall",
+      "role": "writer",
+      "slug": "brian-hall"
+    }
+  ],
   "displayTitle": "Tree Troubles",
   "era": "highRepublic",
   "format": "tvEpisode",

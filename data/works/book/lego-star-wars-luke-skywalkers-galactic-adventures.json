@@ -1,0 +1,36 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Elizabeth Dowsett",
+      "role": "writer",
+      "slug": "elizabeth-dowsett"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars: Luke Skywalker's Galactic Adventures",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217310159"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn13": "9798217310159",
+      "kind": "print",
+      "onsale": "2026-08-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-08-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-luke-skywalkers-galactic-adventures",
+  "title": "LEGO Star Wars: Luke Skywalker's Galactic Adventures"
+}

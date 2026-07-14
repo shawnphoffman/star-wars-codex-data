@@ -11,6 +11,14 @@
   "displayTitle": "Inquisitor: Rise of the Red Blade",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593598628"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593598580"
+    },
+    {
       "type": "isbn13",
       "value": "9780593598627"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 336,
       "imprint": "Random House Worlds",
-      "isPrimary": true,
-      "isbn13": "9780593598627",
+      "isPrimary": false,
+      "isbn13": "9780593598580",
       "kind": "print",
       "onsale": "2023-07-18T00:00:00.000Z"
+    },
+    {
+      "extent": 400,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593598628",
+      "isbn13": "9780593598627",
+      "kind": "print",
+      "onsale": "2024-04-02T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",

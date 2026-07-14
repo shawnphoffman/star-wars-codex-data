@@ -9,6 +9,29 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Rescue in the Core",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101468"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2000-05-01T00:00:00.000Z"
+    },
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101468",
+      "kind": "print",
+      "onsale": "2000-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

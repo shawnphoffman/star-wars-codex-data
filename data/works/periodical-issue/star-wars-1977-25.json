@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Ben Sean",
+      "role": "colorist",
+      "slug": "ben-sean"
+    },
+    {
+      "name": "Gene Day",
+      "role": "inker",
+      "slug": "gene-day"
     }
   ],
   "displayTitle": "Star Wars (1977) #25: Siege at Yavin",

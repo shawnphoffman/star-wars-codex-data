@@ -1,10 +1,32 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Deana Kiner",
+      "role": "composer",
+      "slug": "deana-kiner"
+    },
+    {
+      "name": "Sean Kiner",
+      "role": "composer",
+      "slug": "sean-kiner"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Tales of the Empire Season 1",
   "era": "reignOfTheEmpire",
   "format": "tvSeason",
   "parentWorkSlug": "tales-of-the-empire",
-  "releaseDate": "2024-05-04T00:00:00.000Z",
+  "releaseDate": "2024-05-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-empire-s1",

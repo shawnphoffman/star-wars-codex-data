@@ -7,9 +7,24 @@
       "slug": "amanda-deibert"
     },
     {
-      "name": "Riccardo Facinni",
+      "name": "Riccardo Faccini",
       "role": "artist",
-      "slug": "riccardo-facinni"
+      "slug": "ricardo-faccini"
+    },
+    {
+      "name": "Cecil Castellucci",
+      "role": "writer",
+      "slug": "cecil-castellucci"
+    },
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "Hyperspace Stories",
@@ -18,7 +33,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2022-09-21T00:00:00.000Z",
+  "releaseDate": "2022-08-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-2022",

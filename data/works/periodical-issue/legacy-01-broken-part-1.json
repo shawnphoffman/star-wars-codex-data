@@ -5,6 +5,81 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy #01: Broken, Part 1",
@@ -15,12 +90,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2006-06-21T00:00:00.000Z",
+  "releaseDate": "2013-03-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-01-broken-part-1",
-  "synopsis": "The future of Star Wars is here in an all-new series set more than a century after Return of the Jedi and the New Jedi Order! The Jedi Temple is attacked, an Emperor is betrayed, and the Sith are born anew! A lot can happen in a hundred years, but all of the above happens just in this first issue! Not since Luke Skywalker first stepped aboard the Millennium Falcon has the galaxy seemed like such a vast, exciting, dangerous place! This is a perfect jumping-on point for any reader&mdash;an epic beginning to an untold chapter of the greatest adventure in the universe!",
+  "synopsis": "Exploring the galaxy . . . Solo style! Despite her famous heritage, Ania Solo is just a girl trying to make her way in a galaxy gone bad. But it all gets worse when she comes into possession of a lightsaber and an Imperial communications droid—and discovers she has been targeted for death! * She’s Han and Leia’s great-great granddaughter introduced to the Legacy saga! * In the aftermath of War, the Solo clan lives on! * A new ongoing series! * From the acclaimed creators of Betrayal of the Planet of the Apes!",
   "title": "Legacy #01: Broken, Part 1"
 }

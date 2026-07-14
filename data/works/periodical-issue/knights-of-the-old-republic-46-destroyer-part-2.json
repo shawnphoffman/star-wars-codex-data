@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "artist",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Jim Pavelec",
+      "role": "coverArtist",
+      "slug": "jim-pavelec"
     }
   ],
   "displayTitle": "Knights of the Old Republic #46: Destroyer, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-10-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-46-destroyer-part-2",
-  "synopsis": "A captive of the Crucible slaver organization, Zayne Carrick is finding there is much more to his friend Jarael's past than she revealed. Specifically, a Crucible trainer called Chantique is looking to settle a score, and she believes that Zayne could be key in that objective. Her plan will have him desperately attempting to resolve the psychic attack that she, the Crucible, and fellow slaves have waged in his mind&mdash;all while he fights for his life!",
+  "synopsis": "A captive of the slaver organization the Crucible, Zayne Carrick is finding there is much more to his friend Jarael’s past than she revealed. Specifically, a Crucible trainer called Chantique is looking to settle a score, and she believes that Zayne could be key in that objective. Her plan will have him desperately attempting to resolve the psychic attack that she, the Crucible, and fellow slaves have waged in his mind -- all while he fights for his life!",
   "title": "Knights of the Old Republic #46: Destroyer, Part 2"
 }

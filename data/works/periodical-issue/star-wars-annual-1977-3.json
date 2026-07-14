@@ -1,10 +1,40 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Mary Jo Duffy",
       "role": "writer",
       "slug": "mary-jo-duffy"
+    },
+    {
+      "name": "Jason Latour",
+      "role": "writer",
+      "slug": "jason-latour"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "penciler",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "inker",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "colorist",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "coverArtist",
+      "slug": "michael-walsh"
     }
   ],
   "displayTitle": "Star Wars (1977) Annual #3: The Apprentice",
@@ -13,7 +43,7 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "star-wars-annual-1977",
+  "parentWorkSlug": "star-wars-annual-1979",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -15,6 +15,36 @@
       "name": "Megan Levens",
       "role": "artist",
       "slug": "megan-levens"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "penciler",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "penciler",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "colorist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "colorist",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Shawn Levy",
+      "role": "letterer",
+      "slug": "shawn-levy"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Ghosts of Vader's Castle #3",

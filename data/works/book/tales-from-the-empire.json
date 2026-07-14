@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "Tales from the Empire",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553578768"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553578768",
+      "kind": "print",
+      "onsale": "1997-11-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": 10,
     "startYear": -5
   },
-  "releaseDate": "1997-11-03T00:00:00.000Z",
+  "releaseDate": "1997-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-empire",

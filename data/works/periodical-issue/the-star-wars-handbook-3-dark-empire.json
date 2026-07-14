@@ -1,0 +1,80 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peet Janes",
+      "role": "writer",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "artist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "artist",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Isaacs Buckminster Owens",
+      "role": "artist",
+      "slug": "isaacs-buckminster-owens"
+    },
+    {
+      "name": "Dusty Abell",
+      "role": "artist",
+      "slug": "dusty-abell"
+    },
+    {
+      "name": "Jim Royal",
+      "role": "artist",
+      "slug": "jim-royal"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Pop Mhan",
+      "role": "artist",
+      "slug": "pop-mhan"
+    },
+    {
+      "name": "Andrew Robinson",
+      "role": "artist",
+      "slug": "andrew-robinson"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darcy Hockett",
+      "slug": "darcy-hockett"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "The Star Wars Handbook #3: Dark Empire",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-handbook-3-dark-empire",
+  "synopsis": "The Star Wars Handbooks return with a special issue featuring the miniseries that started it all: Dark Empire. After hitting 100,000+ copies in print and becoming an anchor in every Star Wars literature enthusiast's library, Dark Empire stands as one of the most influential Star Wars comics to date. The Dark Empire Handbook examines the characters and their driving forces in this epic struggle to save the galaxy from Emperor Palpatine's domination. Illustrated by a cross-section of comics' hottest stars!",
+  "title": "The Star Wars Handbook #3: Dark Empire"
+}

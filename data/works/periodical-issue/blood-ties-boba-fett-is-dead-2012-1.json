@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "colorist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "inker",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "penciler",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Blood Ties: Boba Fett is Dead #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "blood-ties-boba-fett-is-dead-2012",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-04-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-boba-fett-is-dead-2012-1",
-  "synopsis": "Boba Fett is dead. The most infamous hunter in the galaxy has been hunted. He's lying, broken, on the desert floor. He's more blaster-holes than man. It's the ultimate ending. However, this is just the start of our story. With the fall of Fett broadcast across the galaxy, someone rises to avenge him. But who would care about the death of a man like Fett? Bounty hunters aren't exactly known for their enduring, close friendships but even a man like Boba Fett has family... and now a Blood Tie demands blood.",
+  "synopsis": "The news spreads from one end of the galaxy to the other like wildfire: Boba Fett, the galaxy's most feared bounty hunter, is dead. But when members of the team that killed Fett are themselves picked off one by one, Connor Freeman--the son of one of Jango Fett's clones--gets pulled into the action in a most unexpected way! * Writer Tom Taylor brings Blood Ties back with Boba Fett! * Interiors and covers by Chris Scalf!",
   "title": "Blood Ties: Boba Fett is Dead #1"
 }

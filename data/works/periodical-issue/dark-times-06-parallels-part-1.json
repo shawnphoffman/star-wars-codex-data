@@ -5,6 +5,31 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "inker",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Alex Wald",
+      "role": "colorist",
+      "slug": "alex-wald"
     }
   ],
   "displayTitle": "Dark Times #6: Parallels pt. 1",
@@ -15,9 +40,10 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-10-24T00:00:00.000Z",
+  "releaseDate": "2007-10-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-06-parallels-part-1",

@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9781484704684"
+    },
+    {
+      "type": "isbn13",
       "value": "9781484726099"
     }
   ],
   "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484704684",
+      "kind": "print",
+      "onsale": "2014-12-09T00:00:00.000Z"
+    },
     {
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",

@@ -30,9 +30,99 @@
       "name": "Matt Milla",
       "role": "artist",
       "slug": "matt-milla"
+    },
+    {
+      "name": "Matt Milla",
+      "role": "coverArtist",
+      "slug": "matt-milla"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Robbie Thompson",
+      "role": "writer",
+      "slug": "robbie-thompson"
+    },
+    {
+      "name": "Nik Virella",
+      "role": "inker",
+      "slug": "nik-virella"
+    },
+    {
+      "name": "Nik Virella",
+      "role": "penciler",
+      "slug": "nik-virella"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Daniel Mora",
+      "role": "coverArtist",
+      "slug": "daniel-mora"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "inker",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "penciler",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Stefani Renee",
+      "role": "colorist",
+      "slug": "stefani-renee"
+    },
+    {
+      "name": "Nicole Virella",
+      "role": "penciler",
+      "slug": "nicole-virella"
+    },
+    {
+      "name": "Nicole Virella",
+      "role": "inker",
+      "slug": "nicole-virella"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Dan Mora Chavez",
+      "role": "coverArtist",
+      "slug": "dan-mora-chavez"
     }
   ],
-  "displayTitle": "Poe Dameron Annual #1",
+  "displayTitle": "Poe Dameron Annual 1 (2017) #1",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -47,5 +137,5 @@
   "releaseStatus": "released",
   "slug": "poe-dameron-annual-1",
   "synopsis": "Poe Dameron has never been one to follow the rules. So when he disobeys a direct order from General Leia Organa and gets stranded in First Order space…with no ship and little oxygen…how will he survive?",
-  "title": "Poe Dameron Annual #1"
+  "title": "Poe Dameron Annual 1 (2017) #1"
 }

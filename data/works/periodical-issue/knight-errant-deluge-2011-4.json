@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Iban Coello",
+      "role": "penciler",
+      "slug": "iban-coello"
+    },
+    {
+      "name": "Sergio Abad",
+      "role": "inker",
+      "slug": "sergio-abad"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Deluge #4",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knight-errant-deluge-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-11-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-deluge-2011-4",
-  "synopsis": "Kerra Holt has her Jedi work cut out for her! As crime lord Zodoh the Hutt's massive Stormbringer vessels flood Kerra's homeworld with rain, she does her utmost to herd the listless inhabitants to the safety of higher ground. Meanwhile, Sith Lord Daiman doesn't appreciate Zodoh destroying a world that belongs to him! Soon, Kerra will have two armies to fight!",
+  "synopsis": "Kerra Holt has her Jedi work cut out for her! As crime lord Zodah the Hutt's massive Stormbringer vessels flood Kerra's homeworld with rain, she does her utmost to herd the listless inhabitants to the safety of higher ground. Meanwhile, Sith Lord Daiman doesn't appreciate Zodah destroying a world that belongs to him! Soon, Kerra will have two armies to fight! * Double the action! Double the Deluge! * John Jackson Miller's Knight Errant novel is a New York Times bestseller!",
   "title": "Knight Errant: Deluge #4"
 }

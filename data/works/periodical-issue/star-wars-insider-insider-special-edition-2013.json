@@ -1,10 +1,11 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "displayTitle": "Insider - Special Edition 2013",
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 148,
     "publicationKind": "magazine"
   },
   "releaseDate": "2012-11-08T00:00:00.000Z",

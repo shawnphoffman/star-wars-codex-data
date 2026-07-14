@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Crimson Empire: Council of Blood #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "crimson-empire-council-of-blood",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-council-of-blood-2",
+  "synopsis": "As the death toll rises, so do the stakes for the future of the Empire. Who is committing these assassinations of Interim Council members and who within the Empire has the most to gain? Why has Mirith Sinn abandoned the New Republic to fulfill a personal vendetta? And how does Kir Kanos fit into this jigsaw puzzle of intrigue?",
+  "title": "Crimson Empire: Council of Blood #2"
+}

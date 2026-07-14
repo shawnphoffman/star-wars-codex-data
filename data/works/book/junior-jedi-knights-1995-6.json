@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Junior Jedi Knights: Kenobi's Blade",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1572972084"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 118,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "1572972084",
+      "kind": "print",
+      "onsale": "1997-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

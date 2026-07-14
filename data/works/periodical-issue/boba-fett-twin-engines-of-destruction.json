@@ -6,6 +6,45 @@
       "name": "Andy Mangels",
       "role": "writer",
       "slug": "andy-mangels"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "Boba Fett: Twin Engines of Destruction",

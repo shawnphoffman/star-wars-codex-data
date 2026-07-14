@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "inker",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Knights of the Old Republic #18: Nights of Anger, Part 3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-07-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-18-nights-of-anger-part-3",
-  "synopsis": "The galaxy-shaking secret Camper kept hidden within his addled mind for decades is revealed in this conclusion to the \"Nights of Anger\" story arc! Aboard the Arkanian Legacy, flagship of the corporation Adascorp, the elderly Camper and his young protector Jarael are separated by closed doors, each worrying about the fate of the other. Jarael worries a cure might not be found for the grave illness she brought Camper here to treat. Camper's concern, however, rests on the realization that their benefactor Lord Adasca has a terrible plan underfoot&mdash;one that will put Jarael, himself, and the e",
+  "synopsis": "The galaxy-shaking secret Camper kept hidden within his addled mind for decades is revealed in this conclusion to the \"Nights of Anger\" story arc! Aboard the Arkanian Legacy, flagship of the corporation Adascorp, the elderly Camper and his young protector Jarael are separated by closed doors, each worrying about the fate of the other. Jarael worries a cure might not be found for the grave illness she brought Camper here to treat. Camper's concern, however, rests on the realization that their benefactor Lord Adasca has a terrible plan underfoot-one that will put Jarael, himself, and the entire galaxy in great danger. * Big changes are in store for the Old Republic and it all starts here!",
   "title": "Knights of the Old Republic #18: Nights of Anger, Part 3"
 }

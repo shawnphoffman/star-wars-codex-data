@@ -15,6 +15,31 @@
       "name": "Megan Levens",
       "role": "artist",
       "slug": "megan-levens"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "penciler",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "penciler",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "colorist",
+      "slug": "charlie-kirchoff"
+    },
+    {
+      "name": "Shawn Levy",
+      "role": "letterer",
+      "slug": "shawn-levy"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Ghosts of Vader's Castle #1",

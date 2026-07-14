@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #45: Destroyer, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-09-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-45-destroyer-part-1",
-  "synopsis": "Despite a disastrous first encounter with the Crucible, Zayne Carrick is still determined to end the brutality they promote in their business. But this time, he plans to break them from the inside out! Having set himself up to be captured by the slavers, when this former Padawan arrives at the Crucible's training facility, it will be all he can do to survive, let alone focus on learning about their organization. His connection to the Force will give him an unexpected insight - one that he doesn't necessarily want. And when a past nemesis of his friend Jarael appears, Zayne begins to worry that",
+  "synopsis": "Despite a disastrous first encounter with the Crucible, Zayne Carrick is still determined to end the brutality they promote in their business. But this time, he plans to break them from the inside out! Having set himself up to be captured by the slavers, when this former Padawan arrives at the Crucible's training facility, it will be all he can do to survive, let alone focus on learning about their organization. His connection to the Force will give him an unexpected insight -- one that he doesn't necessarily want. And when a past nemesis of his friend Jarael appears, Zayne begins to worry that entering the Crucible may be the biggest mistake of his life!",
   "title": "Knights of the Old Republic #45: Destroyer, Part 1"
 }

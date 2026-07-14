@@ -5,6 +5,26 @@
       "name": "Ethan Sacks",
       "role": "writer",
       "slug": "ethan-sacks"
+    },
+    {
+      "name": "Marc Yarza",
+      "role": "penciler",
+      "slug": "marc-yarza"
+    },
+    {
+      "name": "Jose Marzan Jr.",
+      "role": "inker",
+      "slug": "jose-marzan-jr"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Diego Galindo",
+      "role": "coverArtist",
+      "slug": "diego-galindo"
     }
   ],
   "displayTitle": "Hyperspace Stories: Codebreaker #02",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-codebreaker",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-07-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-codebreaker-02",
-  "synopsis": "On a remote Outer Rim planet, Poe Dameron and BB-8 discover a First Order base where the enemy keeps their fabled codebreaker, used to crack secret Resistance messages. Can the two heroes infiltrate, and then escape, the high-security compound guarded by merciless First Order stormtroopers? And what mysterious technology will they find inside?",
+  "synopsis": "On a remote Outer Rim planet, Poe Dameron and BB-8 discover a First Order base where the enemy keeps their fabled codebreaker, used to crack secret Resistance messages. Can the two heroes infiltrate—and then escape—the high-security compound guarded by merciless stormtroopers? And what mysterious technology will they find inside? • Five issue series.",
   "title": "Hyperspace Stories: Codebreaker #02"
 }

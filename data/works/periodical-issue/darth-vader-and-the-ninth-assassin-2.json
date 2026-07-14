@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Drew Geraci",
+      "role": "inker",
+      "slug": "drew-geraci"
+    },
+    {
+      "name": "Mark Irwin",
+      "role": "inker",
+      "slug": "mark-irwin"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Stephen Thompson",
+      "role": "penciler",
+      "slug": "stephen-thompson"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin #2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-05-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-2",
-  "synopsis": "An unknown enemy obliterates a star destroyer. An attempt is made on the life of the Emperor. A new evil has made itself known in the galaxy, and Darth Vader is going to find it and crush it. But beware, warns the Emperor, this new adversary appears to wield a sorcery very old and very dark.",
+  "synopsis": "An unknown enemy obliterates a star destroyer. An attempt is made on the life of the Emperor. A new evil has made itself known in the galaxy, and Darth Vader is going to find it and crush it. But beware, warns the Emperor, this new adversary appears to wield a sorcery very old and very dark. * All-new series starring Darth Vader! * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds!",
   "title": "Darth Vader and the Ninth Assassin #2"
 }

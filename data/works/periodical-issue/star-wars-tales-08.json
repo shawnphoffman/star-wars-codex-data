@@ -1,5 +1,107 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Andi Watson",
+      "role": "writer",
+      "slug": "andi-watson"
+    },
+    {
+      "name": "Ryan Kinnaird",
+      "role": "writer",
+      "slug": "ryan-kinnaird"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "Dario Brizuela",
+      "role": "inker",
+      "slug": "dario-brizuela"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Francis Portela",
+      "role": "penciler",
+      "slug": "francis-portela"
+    },
+    {
+      "name": "Andi Watson",
+      "role": "colorist",
+      "slug": "andi-watson"
+    },
+    {
+      "name": "Ryan Kinnaird",
+      "role": "colorist",
+      "slug": "ryan-kinnaird"
+    },
+    {
+      "name": "Andi Watson",
+      "role": "inker",
+      "slug": "andi-watson"
+    },
+    {
+      "name": "Ryan Kinnaird",
+      "role": "inker",
+      "slug": "ryan-kinnaird"
+    },
+    {
+      "name": "Andi Watson",
+      "role": "letterer",
+      "slug": "andi-watson"
+    },
+    {
+      "name": "Andi Watson",
+      "role": "penciler",
+      "slug": "andi-watson"
+    },
+    {
+      "name": "Dario Brizuela",
+      "role": "penciler",
+      "slug": "dario-brizuela"
+    },
+    {
+      "name": "Ryan Kinnaird",
+      "role": "penciler",
+      "slug": "ryan-kinnaird"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kia Asamiya",
+      "role": "coverArtist",
+      "slug": "kia-asamiya"
+    }
+  ],
   "displayTitle": "Tales #08",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +113,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-08",
-  "synopsis": "In the days of yore, after a long day of hunting and gathering, people would gather around the fire as a wise old man who looked something like a turtle wearing a bearskin would amaze them with stories of adventure and wonder. Unfortunately, we are no longer hunter/gatherers and no one is sure where the old guy in the bearskin has gone off to&hellip; So, we turn instead to the wise and entertaining Star Wars Tales #8! Its stories featuring Darth Vader, Boba Fett, Luke Skywalker, Han Solo, Villie, and C-3PO help us to remember the important things in life like diversity and tolerance.",
+  "synopsis": "In the days of yore, after a long day of hunting and gathering, people would gather around the fire as a wise old man who looked something like a turtle wearing a bearskin would amaze them with stories of adventure and wonder. Unfortunately, we are no longer hunter/gatherers and no one is sure where the old guy in the bearskin has gone off to... So, we turn instead to the wise and entertaining Star Wars Tales #8! Its stories featuring Darth Vader, Boba Fett, Luke Skywalker, Han Solo, Villie, and C-3PO help us to remember the important things in life like diversity and tolerance.",
   "title": "Star Wars Tales #08"
 }

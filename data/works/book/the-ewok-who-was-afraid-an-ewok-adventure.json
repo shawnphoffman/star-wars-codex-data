@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "The Ewok Who Was Afraid: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394879783"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Happy House",
+      "isPrimary": true,
+      "isbn10": "0394879783",
+      "kind": "print",
+      "onsale": "1986-01-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

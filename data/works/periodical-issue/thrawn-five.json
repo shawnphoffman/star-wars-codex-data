@@ -10,6 +10,36 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "colorist",
+      "slug": "nolan-woodard"
     }
   ],
   "displayTitle": "Thrawn #5",

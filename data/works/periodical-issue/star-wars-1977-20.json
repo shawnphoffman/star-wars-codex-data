@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
     }
   ],
   "displayTitle": "Star Wars (1977) #20: Deathgame",

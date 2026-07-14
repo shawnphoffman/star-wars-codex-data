@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "Meltdown on Hoth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307982025"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307982025",
+      "kind": "print",
+      "onsale": "1998-06-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDate": "1998-06-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "meltdown-on-hoth",

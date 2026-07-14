@@ -6,9 +6,43 @@
       "name": "Mike W. Barr",
       "role": "writer",
       "slug": "mike-w-barr"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "penciler",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "penciler",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Raymond Lee",
+      "role": "colorist",
+      "slug": "raymond-lee"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "coverArtist",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "coverArtist",
+      "slug": "shawn-fillbach"
     }
   ],
   "displayTitle": "The Clone Wars: The Starcrusher Trap",
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-07-27T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

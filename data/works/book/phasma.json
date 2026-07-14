@@ -21,6 +21,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9781524796310"
+    },
+    {
+      "type": "isbn13",
       "value": "9781524796334"
     }
   ],
@@ -28,11 +32,19 @@
     {
       "extent": 380,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9781524796310",
+      "kind": "print",
+      "onsale": "2017-09-01T00:00:00.000Z"
+    },
+    {
+      "extent": 480,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1524796336",
       "isbn13": "9781524796334",
       "kind": "print",
-      "onsale": "2017-09-01T00:00:00.000Z"
+      "onsale": "2018-04-24T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -45,6 +57,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "phasma",
-  "synopsis": "When a First Order ship crash-lands on a remote world, a determined warrior discovers she doesn’t just want to help the survivors. She wants to become one of them.",
+  "synopsis": "When a First Order ship crash-lands on a remote world, a determined warrior discovers she doesn't just want to help the survivors. She wants to become one of them.",
   "title": "Phasma"
 }

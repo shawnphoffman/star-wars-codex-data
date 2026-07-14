@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "colorist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Saladin Ahmed",
+      "role": "writer",
+      "slug": "saladin-ahmed"
+    },
+    {
+      "name": "Derrick Chew",
+      "role": "coverArtist",
+      "slug": "derrick-chew"
+    }
+  ],
+  "displayTitle": "Boba Fett: Black, White & Red (2025) #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "boba-fett-black-white-red-2025-2",
+  "title": "Boba Fett: Black, White & Red (2025) #2"
+}

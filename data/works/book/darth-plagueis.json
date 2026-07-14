@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "034551128X"
+    },
+    {
+      "type": "isbn10",
       "value": "1846056780"
     },
     {
@@ -20,6 +24,14 @@
     }
   ],
   "editions": [
+    {
+      "extent": 379,
+      "imprint": "Del Rey (US) *Arrow (UK)",
+      "isPrimary": false,
+      "isbn10": "034551128X",
+      "kind": "print",
+      "onsale": "2012-01-10T00:00:00.000Z"
+    },
     {
       "extent": 379,
       "imprint": "Del Rey",

@@ -1,0 +1,38 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "colorist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    }
+  ],
+  "displayTitle": "The Star Wars #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-11-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-3",
+  "synopsis": "A Queen steps down! The Hidden Fortress destroyed! The Imperial army on the march! Annikin Starkiller and Princess Leia rescue two wayward droids in the desert, Darth Vader recruits a famous Knight of the Sith to his army, and a squad of lazersword-wielding Stormtroopers attempt to arrest Jedi General Luke Skywalker! * The adaptation of George Lucas’s original rough-draft screenplay for Star Wars! * The Star Wars you thought you’d never see!",
+  "title": "The Star Wars #3"
+}

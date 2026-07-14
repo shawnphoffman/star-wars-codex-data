@@ -9,12 +9,26 @@
     }
   ],
   "displayTitle": "Dark Force Rising",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553085747"
+    }
+  ],
   "editions": [
     {
       "extent": 376,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "kind": "print"
+    },
+    {
+      "extent": 384,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn13": "9780553085747",
+      "kind": "print",
+      "onsale": "1992-05-01T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

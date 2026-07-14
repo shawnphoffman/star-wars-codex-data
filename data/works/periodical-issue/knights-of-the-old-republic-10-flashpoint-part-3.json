@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "artist",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #10: Flashpoint, Part 3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2006-11-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-10-flashpoint-part-3",
-  "synopsis": "The Flashpoint storyline reaches its explosive conclusion as fugitive Padawan Zayne Carrick and his unlikely shipmates from the Last Resort undertake their most dangerous mission yet&mdash;traveling deep inside Mandalorian space to rescue one of their own! With a little help from the most unexpected of allies, Zayne and the gang must find an isolated space outpost, once a Republic research station, now in the hands of a Mandalorian scientist with wholly evil intentions. To think they can pull this off with both themselves and their friend intact, they'd have to be insane&mdash;luckily they are",
+  "synopsis": "The \"Flashpoint\" storyline reaches its explosive conclusion as fugitive Padawan Zayne Carrick and his unlikely shipmates from the Last Resort undertake their most dangerous mission yet--traveling deep inside Mandalorian space to rescue one of their own! With a little help from the most unexpected of allies, Zayne and the gang must find an isolated space outpost, once a Republic research station, now in the hands of a Mandalorian scientist with wholly evil intentions. To think they can pull this off with both themselves and their friend intact, they'd have to be insane--luckily they are! • \"The Star Wars universe has never looked so good...\" --Wizard Magazine",
   "title": "Knights of the Old Republic #10: Flashpoint, Part 3"
 }

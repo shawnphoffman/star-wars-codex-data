@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Swarm War",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345463056"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 357,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345463056",
+      "kind": "print",
+      "onsale": "2005-12-27T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

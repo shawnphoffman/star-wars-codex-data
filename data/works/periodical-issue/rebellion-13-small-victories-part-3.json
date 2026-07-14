@@ -5,6 +5,31 @@
       "name": "Jeremy Barlow",
       "role": "writer",
       "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Rebellion #13: Small Victories, Part 3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2008-04-30T00:00:00.000Z",
+  "releaseDate": "2008-04-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-13-small-victories-part-3",
-  "synopsis": "With Luke Skywalker and Princess Leia captured by an ambitious Imperial officer, Admiral Ackbar considers sending a squad of new, experimental starfighters to save the Rebellion's greatest heroes from certain death! On an Imperial station, Luke and Leia do their best to distract their cruel captor from the rest of Rebels still loose in the facility. Unfortunately, Imperials have found Deena Shan, the Rebel team's last hope for success. Deena is cornered into a decision of disastrous proportions for herself and everyone around her. By the time Ackbar deems a rescue mission worth the risk, there",
+  "synopsis": "With Luke Skywalker and Princess Leia captured by an ambitious Imperial officer, Admiral Ackbar considers sending a squad of new, experimental starfighters to save the Rebellion's greatest heroes from certain death! On an Imperial station, Luke and Leia do their best to distract their cruel captor from the rest of Rebels still loose in the facility. Unfortunately, Imperials have found Deena Shan, the Rebel team's last hope for success. Deena is cornered into a decision of disastrous proportions for herself and everyone around her. By the time Ackbar deems a rescue mission worth the risk, there may be no one left to save. * This new story is set in the months after Star Wars: A New Hope, starring Luke Skywalker and Princess Leia.",
   "title": "Rebellion #13: Small Victories, Part 3"
 }

@@ -1,0 +1,43 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Aaron Contreras",
+      "role": "writer",
+      "slug": "aaron-contreras"
+    },
+    {
+      "name": "Jordan Lamarre-Wan",
+      "role": "writer",
+      "slug": "jordan-lamarre-wan"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Jedi: Fallen Order",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506715551"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "isbn13": "9781506715551",
+      "kind": "print",
+      "onsale": "2019-11-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-11-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-jedi-fallen-order",
+  "synopsis": "The Art of Star Wars Jedi: Fallen Order is a reference book written by Aaron Contreras, with a foreword by Jordan Lamarre-Wan. It features annotated concept art from the production of Star Wars Jedi: Fallen Order, a canon video game. The book was published by Dark Horse Books on November 19, 2019. A limited edition was also published, which includes an exclusive cover and lithograph.",
+  "title": "The Art of Star Wars Jedi: Fallen Order"
+}

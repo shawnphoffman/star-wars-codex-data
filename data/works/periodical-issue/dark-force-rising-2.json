@@ -5,6 +5,40 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "penciler",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Kevin Nowlan",
+      "role": "inker",
+      "slug": "kevin-nowlan"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "Dark Force Rising #2",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-force-rising-2",
-  "synopsis": "With Obi-Wan Kenobi and Yoda both dead, Luke Skywalker is in need of a new Jedi mentor, and he finds one in C'Baoth. Risen from the ashes of a shrouded past, C'Baoth may prove to be just the teacher Luke needs to deliver the final blow to Grand Admiral Thrawn's ailing Empire. Or he may be the Empire's last hope for turning the tide...",
+  "synopsis": "With Obi-Wan Kenobi and Yoda both dead, Luke Skywalker is in need of a new Jedi mentor -- and he finds one in C'Baoth. Risen from the ashes of a shrouded past, C'Baoth may prove to be just the teacher Luke needs to deliver the final blow to Grand Admiral Thrawn's ailing Empire. Or he may be the Empire's last hope for turning the tide . . .",
   "title": "Dark Force Rising #2"
 }

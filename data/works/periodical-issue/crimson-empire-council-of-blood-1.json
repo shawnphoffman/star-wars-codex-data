@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Crimson Empire: Council of Blood #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "crimson-empire-council-of-blood",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-council-of-blood-1",
+  "synopsis": "Following the death of Carnor Jax in the first Crimson Empire series, the Empire suddenly finds itself devoid of a strong leader. The Interim Council is assembled to manage the affairs of the Empire until a new emperor can take the throne, yet something is amiss. Assassinations begin to whittle down the numbers of the council, causing panic and suspicion. Increased raids on otherwise \"safe\" Rebel trade routes arouse concern within the Republic. And just where, exactly, has Kir Kanos gone?",
+  "title": "Crimson Empire: Council of Blood #1"
+}

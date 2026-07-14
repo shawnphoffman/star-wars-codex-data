@@ -5,6 +5,55 @@
       "name": "Alan Moore",
       "role": "writer",
       "slug": "alan-moore"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Christopher Moeller",
+      "role": "coverArtist",
+      "slug": "christopher-moeller"
+    },
+    {
+      "name": "John Stokes",
+      "role": "penciler",
+      "slug": "john-stokes"
+    },
+    {
+      "name": "Alan Davis",
+      "role": "penciler",
+      "slug": "alan-davis"
+    },
+    {
+      "name": "Adolfo Buylla",
+      "role": "penciler",
+      "slug": "adolfo-buylla"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Matt Webb",
+      "role": "colorist",
+      "slug": "matt-webb"
+    },
+    {
+      "name": "Laura Allred",
+      "role": "colorist",
+      "slug": "laura-allred"
+    },
+    {
+      "name": "Jerry Paris",
+      "role": "letterer",
+      "slug": "jerry-paris"
+    },
+    {
+      "name": "Jenny O'Connor",
+      "role": "letterer",
+      "slug": "jenny-oconnor"
     }
   ],
   "displayTitle": "Classic Star Wars: Devilworlds #2",
@@ -17,9 +66,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-09-18T00:00:00.000Z",
+  "releaseDate": "1996-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-devilworlds-1996-2",
+  "synopsis": "There are more than fifty billion droids at work throughout the galaxy, doing the jobs better handled by hard metal than by soft flesh. Human muscles strain and grow weak, and human hearts grow weary of toil and indignity -- droids have no such problems. They have no bones, and they have no souls. And when humans grow old and feeble, they must be cared for, must be clothed and fed -- that is their right. But droids have no rights, and so they end up here, in the vast, corroded canyons of Ronyards. Watchmen and From Hell writer Alan Moore leads off an award-winning line-up of creative talent in this series of reprints, never before seen in North America!",
   "title": "Classic Star Wars: Devilworlds #2"
 }

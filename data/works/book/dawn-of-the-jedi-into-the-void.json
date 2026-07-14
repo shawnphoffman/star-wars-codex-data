@@ -11,6 +11,10 @@
   "displayTitle": "Dawn of the Jedi: Into the Void",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345541936"
+    },
+    {
       "type": "isbn13",
       "value": "9780345541932"
     }
@@ -20,6 +24,7 @@
       "extent": 320,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345541936",
       "isbn13": "9780345541932",
       "kind": "print",
       "onsale": "2013-05-07T00:00:00.000Z"

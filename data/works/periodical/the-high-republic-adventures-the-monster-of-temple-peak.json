@@ -10,6 +10,36 @@
       "name": "Rachael Stott",
       "role": "artist",
       "slug": "rachael-stott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "penciler",
+      "slug": "rachael-stott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "inker",
+      "slug": "rachael-stott"
+    },
+    {
+      "name": "Vita Efremova",
+      "role": "colorist",
+      "slug": "vita-efremova"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Johanna Nattalie",
+      "role": "letterer",
+      "slug": "johanna-nattalie"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "coverArtist",
+      "slug": "rachael-stott"
     }
   ],
   "displayTitle": "The High Republic Adventures - The Monster of Temple Peak",
@@ -19,7 +49,7 @@
     "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
-  "releaseDate": "2021-08-11T00:00:00.000Z",
+  "releaseDate": "2021-12-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-the-monster-of-temple-peak",

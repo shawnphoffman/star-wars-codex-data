@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Assault at Selonia",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553298055"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553298055",
+      "kind": "print",
+      "onsale": "1995-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

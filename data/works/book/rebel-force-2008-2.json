@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Hostage",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780545112185"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 188,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780545112185",
+      "kind": "print",
+      "onsale": "2009-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

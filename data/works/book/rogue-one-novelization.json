@@ -11,6 +11,10 @@
   "displayTitle": "Rogue One",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0399178457"
+    },
+    {
       "type": "isbn13",
       "value": "9780399178450"
     }
@@ -20,6 +24,7 @@
       "extent": 352,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0399178457",
       "isbn13": "9780399178450",
       "kind": "print",
       "onsale": "2016-12-16T00:00:00.000Z"

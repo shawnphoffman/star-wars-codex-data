@@ -1,0 +1,89 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Linda Grant",
+      "role": "writer",
+      "slug": "linda-grant"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Ron Frenz",
+      "role": "artist",
+      "slug": "ron-frenz"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "artist",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Bob Mcleod",
+      "role": "artist",
+      "slug": "bob-mcleod"
+    },
+    {
+      "name": "Cynthia Martin",
+      "role": "artist",
+      "slug": "cynthia-martin"
+    },
+    {
+      "name": "Art Nichols",
+      "role": "artist",
+      "slug": "art-nichols"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Bob Mcleod",
+      "role": "letterer",
+      "slug": "bob-mcleod"
+    },
+    {
+      "name": "Rick Parker",
+      "role": "letterer",
+      "slug": "rick-parker"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Rachel Penn",
+      "role": "editor",
+      "slug": "rachel-penn"
+    },
+    {
+      "name": "Jeremy Perkins",
+      "slug": "jeremy-perkins"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: A Long Time Ago #6",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-08-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-a-long-time-ago-6",
+  "title": "Classic Star Wars: A Long Time Ago #6"
+}

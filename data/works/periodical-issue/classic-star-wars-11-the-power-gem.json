@@ -5,6 +5,41 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Steve Buccellato",
+      "role": "colorist",
+      "slug": "steve-buccellato"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "coverArtist",
+      "slug": "allen-nunis"
     }
   ],
   "displayTitle": "Classic Star Wars #11: The Power Gem",
@@ -17,10 +52,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1993-07-01T00:00:00.000Z",
+  "releaseDate": "1993-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-11-the-power-gem",
-  "synopsis": "\"The Power Gem\" is a comic strip written by Archie Goodwin and illustrated by Al Williamson. Originally published by the Los Angeles Times Syndicate from July to October 1982, it was republished on StarWars.com's webstrips section of Hyperspace.",
+  "synopsis": "Continuing with Dark Horse's popular reprint series, this issue Luke Skywalker encounters a menacing Darth Vader at the Iron Tower on Aridus, and a new friend posing as an old one gives his life to save Luke and the natives of Aridus from Vader's treachery. Meanwhile, a Rebel scheme for destroying Vader's private cruiser unfolds, with the legendary power gems of the pirates of Iridium holding the key. Han Solo and Chewbacca volunteer to retrieve the gem, but don't count on being thrown to the wolves in the bargain!",
   "title": "Classic Star Wars #11: The Power Gem"
 }

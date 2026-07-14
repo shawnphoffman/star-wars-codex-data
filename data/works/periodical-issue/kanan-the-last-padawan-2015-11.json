@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "inker",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "penciler",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Greg Weisman",
+      "role": "writer",
+      "slug": "greg-weisman"
+    },
+    {
+      "name": "David Curiel",
+      "role": "colorist",
+      "slug": "david-curiel"
+    }
+  ],
+  "displayTitle": "Kanan: The Last Padawan (2015) #11",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "kanan-the-last-padawan-2015-11",
+  "title": "Kanan: The Last Padawan (2015) #11"
+}

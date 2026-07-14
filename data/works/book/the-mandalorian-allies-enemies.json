@@ -1,0 +1,37 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brook Vitale",
+      "role": "writer",
+      "slug": "brook-vitale"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Allies & Enemies",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368070812"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368070812",
+      "kind": "print",
+      "onsale": "2020-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-allies-enemies",
+  "title": "The Mandalorian: Allies & Enemies"
+}

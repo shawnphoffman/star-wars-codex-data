@@ -1,0 +1,41 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Jenn Fujikawa",
+      "role": "writer",
+      "slug": "jenn-fujikawa"
+    },
+    {
+      "name": "Marc Sumerak",
+      "role": "writer",
+      "slug": "marc-sumerak"
+    }
+  ],
+  "displayTitle": "The Mandalorian Cookbook",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337402505"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798337402505",
+      "kind": "print",
+      "onsale": "2026-10-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-27T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-the-mandalorian-cookbook",
+  "title": "Star Wars: The Mandalorian Cookbook"
+}

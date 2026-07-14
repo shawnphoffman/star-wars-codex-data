@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Katie Kaniewski",
+      "role": "writer",
+      "slug": "katie-kaniewski"
+    }
+  ],
   "displayTitle": "The Prince and the Pirate",
   "era": "highRepublic",
   "format": "tvEpisode",

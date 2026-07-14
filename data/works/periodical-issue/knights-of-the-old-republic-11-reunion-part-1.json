@@ -5,6 +5,26 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #11: Reunion, Part 1",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2006-12-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-11-reunion-part-1",
-  "synopsis": "A new two-part story begins as fugitive Padawan Zayne Carrick and the crew of the Last Resort devise a plan to nab some much needed cash. On the banking world of Telerath they set their plot into motion unaware the bounty on their heads is about to catch up to them. Yet there's more going on than the schemers or their hunters realize, and when it all blows sky-high an unexpected reunion will throw Zayne's life on the run into question.",
+  "synopsis": "A new two-part story begins as fugitive Padawan Zayne Carrick and the crew of the Last Resort devise a plan to nab some much needed cash. On the banking world of Telerath they set their plot into motion unaware the bounty on their heads is about to catch up to them. Yet there's more going on than the schemers or their hunters realize, and when it all blows sky-high an unexpected reunion will throw Zayne's life on the run into question. • The flagship series of Dark Horse's exciting relaunch of its Star Wars publishing line, celebrating the company's twentieth anniversary. • Continuing the ongoing monthly series set four thousand years before the rise of the Empire and the fall of Anakin Skywalker (and eight years prior to the events in the Knights of the Old Republic video game). • A great starting point for anyone interested in following the Star Wars saga beyond the films. • Every issue contains concise \"story-so-far\" information for first-time readers.",
   "title": "Knights of the Old Republic #11: Reunion, Part 1"
 }

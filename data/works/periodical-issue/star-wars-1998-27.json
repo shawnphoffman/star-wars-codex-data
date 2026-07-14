@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Andy Owens",
+      "role": "inker",
+      "slug": "andy-owens"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Randall Green",
+      "role": "penciler",
+      "slug": "randall-green"
+    },
+    {
+      "name": "Annie Parkhouse",
+      "role": "letterer",
+      "slug": "annie-parkhouse"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #27",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998-27",
+  "title": "Star Wars (1998) #27"
+}

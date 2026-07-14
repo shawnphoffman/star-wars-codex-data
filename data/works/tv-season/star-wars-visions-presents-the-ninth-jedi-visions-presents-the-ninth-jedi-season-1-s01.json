@@ -1,12 +1,20 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Visions Presents - The Ninth Jedi Season 1",
   "format": "tvSeason",
   "parentWorkSlug": "star-wars-visions-presents-the-ninth-jedi",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-08-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-visions-presents-the-ninth-jedi-visions-presents-the-ninth-jedi-season-1-s01",
   "title": "Visions Presents - The Ninth Jedi Season 1"
 }

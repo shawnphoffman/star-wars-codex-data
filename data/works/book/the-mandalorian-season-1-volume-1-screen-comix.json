@@ -2,6 +2,22 @@
   "bookType": "graphicNovel",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian: Season 1: Volume 1: Screen Comix",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736441414"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780736441414",
+      "kind": "print",
+      "onsale": "2021-03-30T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "releaseDate": "2021-03-30T00:00:00.000Z",

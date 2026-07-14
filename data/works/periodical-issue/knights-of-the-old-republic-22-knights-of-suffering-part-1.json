@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Knights of the Old Republic #22: Knights of Suffering, Part 1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-11-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-22-knights-of-suffering-part-1",
-  "synopsis": "The new story arc, \"Knights of Suffering\" begins here, bringing fugitive Padawan Zayne Carrick back to Taris&mdash;the scene of his alleged crime, now overrun by the Mandalorian army! Deep in the lower city of Taris, swoop bike gangs battle Mandalorian troops in the streets. An organized resistance to the invasion was taking shape thanks to an old friend of Zayne's, but something went terribly wrong. Reunions and betrayals follow Zayne into the heart of a war zone in this action-packed new issue of Knights of the Old Republic! Continuing the ongoing monthly series set nearly four thousand year",
+  "synopsis": "The new story arc, \"Knights of Suffering\" begins here, bringing fugitive Padawan Zayne Carrick back to Taris-the scene of his alleged crime, now overrun by the Mandalorian army! Deep in the lower city of Taris, swoop bike gangs battle Mandalorian troops in the streets. An organized resistance to the invasion was taking shape thanks to an old friend of Zayne's, but something went terribly wrong. Reunions and betrayals follow Zayne into the heart of a war zone in this action-packed new issue of Knights of the Old Republic! * Continuing the ongoing monthly series set nearly four thousand years before the rise of the Empire and the fall of Anakin Skywalker (and seven years prior to the events in the Knights of the Old Republic video game). Reunions, betrayals, and more in this action-packed issue!",
   "title": "Knights of the Old Republic #22: Knights of Suffering, Part 1"
 }

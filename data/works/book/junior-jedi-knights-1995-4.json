@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Junior Jedi Knights: Anakin's Quest",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1572971363"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 104,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "1572971363",
+      "kind": "print",
+      "onsale": "1997-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
@@ -24,7 +40,7 @@
     "junior-jedi-knights-1995-5",
     "junior-jedi-knights-1995-6"
   ],
-  "releaseDate": "1997-05-01T00:00:00.000Z",
+  "releaseDate": "1997-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "junior-jedi-knights-1995-4",

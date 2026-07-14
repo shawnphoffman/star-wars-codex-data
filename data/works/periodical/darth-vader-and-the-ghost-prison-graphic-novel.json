@@ -5,6 +5,26 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "penciler",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
     }
   ],
   "displayTitle": "Darth Vader and the Ghost Prison",
@@ -16,7 +36,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2013-04-23T00:00:00.000Z",
+  "releaseDate": "2012-05-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ghost-prison-graphic-novel",

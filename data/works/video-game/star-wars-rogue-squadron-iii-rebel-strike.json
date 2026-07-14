@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Julian Eggebrecht",
+      "role": "director",
+      "slug": "julian-eggebrecht"
+    },
+    {
+      "name": "Brett Tosti",
+      "role": "producer",
+      "slug": "brett-tosti"
+    },
+    {
+      "name": "Chris Hülsbeck",
+      "role": "composer",
+      "slug": "chris-hlsbeck"
+    }
+  ],
   "displayTitle": "Rogue Squadron III: Rebel Strike",
   "era": "ageOfRebellion",
   "format": "videoGame",

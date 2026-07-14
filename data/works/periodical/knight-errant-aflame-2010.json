@@ -20,6 +20,36 @@
       "name": "Mark Kenna",
       "role": "artist",
       "slug": "mark-kenna"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "penciler",
+      "slug": "federico-dallocchio"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "penciler",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Mark Kenna",
+      "role": "inker",
+      "slug": "mark-kenna"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "coverArtist",
+      "slug": "dave-ross"
     }
   ],
   "displayTitle": "Knight Errant: Aflame",

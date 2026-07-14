@@ -5,6 +5,40 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "penciler",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Kevin Nowlan",
+      "role": "inker",
+      "slug": "kevin-nowlan"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "Dark Force Rising #1",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-force-rising-1",
-  "synopsis": "The Empire is dying, perhaps in its final throes. But like a dog near death, that's when it is most dangerous, when it will lash out with nothing to lose. The ruthless warlord Grand Admiral Thrawn may have found just the firepower needed to take a bite out of the New Republic: Some two hundred Dreadnaught heavy cruisers, lost to hyperspace in the days of the Old Republic. Luke, Leia, Han, and Chewbacca may be up against more than they bargained for, but it's not the first time the odds have been stacked against them!",
+  "synopsis": "The Empire is dying, perhaps in its final throes. But like a dog near death, that's when it is most dangerous, when it will lash out with nothing to lose. The ruthless warlord Grand Admiral Thrawn may have found just the firepower needed to take a bite out of the New Republic: Some two hundred Dreadnaught heavy cruisers, lost to hyperpsace in the days of the Old Republic. Luke, Leia, Han, and Chewbacca may be up against more than they bargained for, but it's not the first time the odds have been stacked against them!",
   "title": "Dark Force Rising #1"
 }

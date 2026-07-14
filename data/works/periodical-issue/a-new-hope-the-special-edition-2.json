@@ -1,0 +1,65 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bruce Jones",
+      "role": "writer",
+      "slug": "bruce-jones"
+    },
+    {
+      "name": "Eduardo Barreto",
+      "role": "penciler",
+      "slug": "eduardo-barreto"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Eduardo Barreto",
+      "role": "inker",
+      "slug": "eduardo-barreto"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    }
+  ],
+  "displayTitle": "A New Hope: The Special Edition #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-hope-the-special-edition-2",
+  "synopsis": "This all-new adaptation of Star Wars: A New Hope -- The Special Edition features the outstanding creative team of Bruce Jones, Eduardo Barreto, and Al Williamson, with painted covers by Dave Dorman. Like the Special Edition of the motion picture, this comics series will take you back to a place you've never been before! Experience it again, for the very first time.",
+  "title": "A New Hope: The Special Edition #2"
+}

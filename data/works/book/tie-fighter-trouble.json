@@ -9,11 +9,25 @@
     }
   ],
   "displayTitle": "TIE Fighter Trouble",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9788184775570"
+    }
+  ],
   "editions": [
     {
       "extent": 24,
       "imprint": "Scholastic India",
       "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-11-01T00:00:00.000Z"
+    },
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press *Scholastic India",
+      "isPrimary": false,
+      "isbn13": "9788184775570",
       "kind": "print",
       "onsale": "2015-11-01T00:00:00.000Z"
     }

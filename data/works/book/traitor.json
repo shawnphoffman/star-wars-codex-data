@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Traitor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428653"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428653",
+      "kind": "print",
+      "onsale": "2002-07-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 27

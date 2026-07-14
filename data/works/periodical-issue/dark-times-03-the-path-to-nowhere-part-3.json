@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "letterer",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "artist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Dark Times #3: The Path to Nowhere",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-03-the-path-to-nowhere-part-3",
-  "synopsis": "Events have led the Jedi Dass Jennir and his companion Bomo Greenbark to the planet Orvax, a slave marketplace to the galaxy. There they face danger not only from the slavers and the Empire, but must confront the awful truth that their goal may lie beyond their reach. Meanwhile, Darth Vader must deal with unpleasant realities, and memories, of his own; though he is a Dark Lord of the Sith, even he must bow before the power of the Emperor.",
+  "synopsis": "These are dark times indeed, when even the noblest of undertakings must rely on stealth, deception, and possibly the betrayal and abandonment of friends and loved ones. Events have led Jedi Dass Jennir and his companion Bomo Greenbark to the planet Orvax-slave marketplace to the galaxy. There they face not only danger from the slavers and the Empire, but they must confront the awful truth that their goal may be beyond their reach. Meanwhile, Darth Vader must deal with some unpleasant realities-and memories-of his own. Though he is a Dark Lord of the Sith, even he must bow before the power of the Emperor.",
   "title": "Dark Times #3: The Path to Nowhere"
 }

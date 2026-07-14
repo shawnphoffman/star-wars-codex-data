@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "penciler",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "inker",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
     }
   ],
   "displayTitle": "Purge",

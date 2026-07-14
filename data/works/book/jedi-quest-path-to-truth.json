@@ -11,6 +11,14 @@
   "displayTitle": "Jedi Quest: Path to Truth",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439367174"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439242042"
+    },
+    {
       "type": "isbn13",
       "value": "9780439367172"
     }
@@ -19,7 +27,16 @@
     {
       "extent": 170,
       "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439242042",
+      "kind": "print",
+      "onsale": "2001-09-01T00:00:00.000Z"
+    },
+    {
+      "extent": 170,
+      "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439367174",
       "isbn13": "9780439367172",
       "kind": "print",
       "onsale": "2001-09-01T00:00:00.000Z"

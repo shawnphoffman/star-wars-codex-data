@@ -5,6 +5,50 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "colorist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "inker",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Todd Klein",
+      "role": "letterer",
+      "slug": "todd-klein"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Dark Empire II #3: World of the Ancient Sith",
@@ -17,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-02-21T00:00:00.000Z",
+  "releaseDate": "1995-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-ii-1994-3",

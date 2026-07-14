@@ -70,6 +70,86 @@
       "name": "Gary Martin",
       "role": "artist",
       "slug": "gary-martin"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "penciler",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "penciler",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Steve Crespo",
+      "role": "penciler",
+      "slug": "steve-crespo"
+    },
+    {
+      "name": "Jim Hall",
+      "role": "penciler",
+      "slug": "jim-hall"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "penciler",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "inker",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "inker",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Chip Wallace",
+      "role": "inker",
+      "slug": "chip-wallace"
+    },
+    {
+      "name": "Gary Martin",
+      "role": "inker",
+      "slug": "gary-martin"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "letterer",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Annie Parkhouse",
+      "role": "letterer",
+      "slug": "annie-parkhouse"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron",
@@ -78,7 +158,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-01-01T00:00:00.000Z",
+  "releaseDate": "1995-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-2",

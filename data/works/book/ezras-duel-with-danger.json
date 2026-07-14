@@ -15,11 +15,23 @@
       "value": "1405276312"
     },
     {
+      "type": "isbn10",
+      "value": "148470469X"
+    },
+    {
       "type": "isbn13",
       "value": "9781405276313"
     }
   ],
   "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn10": "148470469X",
+      "kind": "print",
+      "onsale": "2015-03-17T00:00:00.000Z"
+    },
     {
       "extent": 128,
       "imprint": "Disney-Lucasfilm Press",

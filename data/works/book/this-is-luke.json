@@ -11,6 +11,10 @@
   "displayTitle": "This is Luke",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "136805725X"
+    },
+    {
       "type": "isbn13",
       "value": "9781368057257"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Disney–Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "136805725X",
       "isbn13": "9781368057257",
       "kind": "print",
       "onsale": "2020-09-08T00:00:00.000Z"

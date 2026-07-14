@@ -9,6 +9,14 @@
     }
   ],
   "displayTitle": "Fool's Bargain",
+  "editions": [
+    {
+      "extent": 43,
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2004-02-03T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

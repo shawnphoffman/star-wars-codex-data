@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Mark Lipka",
+      "role": "inker",
+      "slug": "mark-lipka"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
+    }
+  ],
+  "displayTitle": "Star Wars #8: Outlander",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-8-outlander",
+  "synopsis": "As Ki-Adi-Mundi prepares to return to the desert wastes of Tatooine in search of a wayward Jedi, he is stopped by an old friend and mentor. The Dark woman has news for the Cerean Jedi, and he's not going to like it! Once on Tatooine, Ki meets with the crime lord Jabba the Hutt. Despite the fact that the slimy crime lord had only recently threatened the life of Ki's daughter, Ki-Adi-Mundi has no choice but to ask for Jabba's aid in his search. Ki receives the aid, but nothing from Jabba the Hutt is ever free!",
+  "title": "Star Wars #8: Outlander"
+}

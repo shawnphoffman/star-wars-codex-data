@@ -6,6 +6,31 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "penciler",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "Purge: The Hidden Blade",
@@ -15,12 +40,13 @@
     "startYear": -19
   },
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-04-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "purge-the-hidden-blade",
-  "synopsis": "On a remote world, Darth Vader chafes at the assignment given to him by the Emperor: guarding an Imperial manufacturing facility from the anti-Imperial natives. Vader feels the duty is beneath him&mdash;until he learns that a Jedi Master and his Padawan are in league with the natives! Now the game is afoot, and Vader is on the trail of his favorite prey. No ambush, no local monstrous lizards, will deter him his pursuit. Woe be to the Jedi when Vader catches up with them! This issue follows events in Star Wars: Episode III Revenge of the Sith!",
+  "synopsis": "On a remote world, Darth Vader chafes at the assignment given to him by the Emperor: guarding an Imperial manufacturing facility from the anti-Imperial natives. Vader feels the duty is beneath him-until he learns that a Jedi Master and his Padawan are in league with the natives! Now the game is afoot, and Vader is on the trail of his favorite prey. No ambush, no local monstrous lizards, will deter him his pursuit. Woe be to the Jedi when Vader catches up with them! This issue follows events in Revenge of the Sith! Vader vs. Jedi!",
   "title": "Purge: The Hidden Blade"
 }

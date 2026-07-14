@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Edge of Victory II: Rebirth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345446100"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 292,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345446100",
+      "kind": "print",
+      "onsale": "2001-07-31T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

@@ -1,0 +1,36 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tanis Gray",
+      "role": "writer",
+      "slug": "tanis-gray"
+    }
+  ],
+  "displayTitle": "Knits for Younglings",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337404219"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798337404219",
+      "kind": "print",
+      "onsale": "2027-01-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-01-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-knits-for-younglings",
+  "title": "Star Wars: Knits for Younglings"
+}

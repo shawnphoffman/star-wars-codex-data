@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebels: A New Hero",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484706695"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484706695",
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

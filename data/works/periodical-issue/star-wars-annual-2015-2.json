@@ -1,0 +1,34 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    }
+  ],
+  "displayTitle": "Annual (2015) #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-annual-1979",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-annual-2015-2",
+  "title": "Star Wars Annual (2015) #2"
+}

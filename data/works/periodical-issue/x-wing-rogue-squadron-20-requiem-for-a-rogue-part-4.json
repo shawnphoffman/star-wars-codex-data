@@ -10,6 +10,45 @@
       "name": "Jan Strnad",
       "role": "writer",
       "slug": "jan-strnad"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "inker",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "penciler",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Annie Parkhouse",
+      "role": "letterer",
+      "slug": "annie-parkhouse"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "artist",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Stuart Hiner",
+      "role": "coverArtist",
+      "slug": "stuart-hiner"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #20: Requiem for a Rogue, Part 4",
@@ -22,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1997-06-02T00:00:00.000Z",
+  "releaseDate": "1997-07-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-20-requiem-for-a-rogue-part-4",

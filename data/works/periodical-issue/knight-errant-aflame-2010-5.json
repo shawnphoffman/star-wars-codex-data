@@ -5,6 +5,26 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "penciler",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Belardino Brabo",
+      "role": "inker",
+      "slug": "belardino-brabo"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Aflame #5",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-02-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010-5",
-  "synopsis": "It is a time of great darkness in the galaxy. The Republic has been beaten back time and again by the various Sith factions, who for now battle amongst each other in the Outer Rim.\nInto the chaos comes a group of Jedi Knights, determined to help the innocents caught up in the conflict to the best of their ability. Among them is Kerra Holt, who has only recently knighted, and is now returning to her native territory for the first time since childhood. Now, as she encounters the Sith Lord whose lust for war robbed her of everything, she will be tested in ways she could not have imagined!",
+  "synopsis": "Who can be saved? What must be sacrificed? Kerra Holt will decide once and for all what it means to be a Jedi in the concluding issue of Aflame! Sith Lord Odion and his army arrive at Chelloa prepared to take over the mining planet, but upon arriving, Odion finds a terrible surprise from his brother, Lord Daiman. World--devastating war is inescapable, but Kerra knows that when all hope is lost, that is when the Jedi are needed the most! * John Jackson Miller's Knight Errant novel for Del Rey starring Kerra Holt hits shelves January 25! * Read about Kerra Holt here first in Dark Horse comics! Putting the War back in Star Wars!",
   "title": "Knight Errant: Aflame #5"
 }

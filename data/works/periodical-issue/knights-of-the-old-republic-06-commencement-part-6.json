@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Knights of the Old Republic #06: Commencement, Part 6",
@@ -21,5 +46,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-06-commencement-part-6",
+  "synopsis": "Padawan Zayne Carrick faces off against the Jedi Masters hunting him in this shocking finale to the \"Commencement\" storyline! Something is rotten in the Jedi Council on Taris, but the only ones closest to the truth are a vagabond, a criminal, a droid, and Zayne-now in the custody of the same Jedi falsely accusing him of murdering his fellow Padawan. It's going to take more than foolish bravery to get Zayne out of this one. Too bad that's all he's got!",
   "title": "Knights of the Old Republic #06: Commencement, Part 6"
 }

@@ -10,6 +10,36 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "David Nakayama",
+      "role": "coverArtist",
+      "slug": "david-nakayama"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "Ahsoka #8",

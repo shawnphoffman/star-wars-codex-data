@@ -30,12 +30,43 @@
       "name": "Charles Paul Wilson III",
       "role": "artist",
       "slug": "charles-paul-wilson-iii"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "penciler",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "penciler",
+      "slug": "kelley-jones"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "penciler",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Nicoletta Baldari",
+      "role": "penciler",
+      "slug": "nicoletta-baldari"
+    },
+    {
+      "name": "Charles Paul Wilson III",
+      "role": "penciler",
+      "slug": "charles-paul-wilson-iii"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Return to Vader's Castle",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
+    "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
   "releaseDate": "2019-10-02T00:00:00.000Z",

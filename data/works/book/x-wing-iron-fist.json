@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "X-Wing: Iron Fist",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553578979"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 310,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553578979",
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
   },
-  "releaseDate": "1998-07-06T00:00:00.000Z",
+  "releaseDate": "1998-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-iron-fist",

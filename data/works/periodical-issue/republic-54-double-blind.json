@@ -5,6 +5,45 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jow Wayne",
+      "role": "colorist",
+      "slug": "jow-wayne"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Nestelle",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Joe Wayne",
+      "role": "coverArtist",
+      "slug": "joe-wayne"
     }
   ],
   "displayTitle": "Republic #54: Double Blind",
@@ -21,6 +60,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-54-double-blind",
-  "synopsis": "While the rest of the Jedi have become generals and are leading armies in the Clone Wars, Quinlan Vos has remained in the shadows. Sent undercover by the Jedi Council to spy on the Separatists, the Council now fears that Quin has gone too deep. Is he still an agent for the Republic, or has he turned traitor? When Quin disobeys an order to return to Coruscant, another Jedi is sent to bring him back&hellip; or end his treachery!",
+  "synopsis": "While the rest of the Jedi have become generals and are leading armies in the Clone Wars, Quinlan Vos has remained in the shadows. Sent undercover by the Jedi Council to spy on the Separatists, the Council now fears that Quin has gone too deep. Is he still an agent for the Republic, or has he turned traitor? When Quin disobeys an order to return to Coruscant, another Jedi is sent to bring him back--or end his treachery!",
   "title": "Republic #54: Double Blind"
 }

@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Hutchins",
+      "role": "producer",
+      "slug": "steve-hutchins"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    }
+  ],
   "displayTitle": "Chess",
   "format": "videoGame",
   "periodical": {

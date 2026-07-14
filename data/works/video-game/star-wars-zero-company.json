@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Greg Foertsch",
+      "role": "director",
+      "slug": "greg-foertsch"
+    },
+    {
+      "name": "Jim Vessella",
+      "role": "producer",
+      "slug": "jim-vessella"
+    },
+    {
+      "name": "Gordy Haab",
+      "role": "composer",
+      "slug": "gordy-haab"
+    }
+  ],
   "displayTitle": "Zero Company",
   "era": "fallOfTheJedi",
   "format": "videoGame",

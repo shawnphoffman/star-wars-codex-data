@@ -1,0 +1,38 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "colorist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    }
+  ],
+  "displayTitle": "The Star Wars #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-2",
+  "synopsis": "The Empire is poised for an attack on the peaceful world of Aquilae, and only Jedi General Luke Skywalker seems concerned. When King Kayos is killed, Jedi in training Annikin Starkiller is ordered to find Princess Leia, while Skywalker sends his only squadron against the Empire’s powerful new battle station! * Official eight-issue adaptation of George Lucas’s original rough-draft screenplay for Star Wars!",
+  "title": "The Star Wars #2"
+}

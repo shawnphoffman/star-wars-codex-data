@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Holocron Heist",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448452463"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448452463",
+      "kind": "print",
+      "onsale": "2009-09-03T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

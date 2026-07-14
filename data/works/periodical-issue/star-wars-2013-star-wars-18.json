@@ -1,0 +1,73 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "penciler",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Víctor Manuel Leza",
+      "role": "coverArtist",
+      "slug": "vctor-manuel-leza"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "penciler",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Gerry Alanguilan",
+      "role": "inker",
+      "slug": "gerry-alanguilan"
+    },
+    {
+      "name": "Sunny Gho",
+      "role": "colorist",
+      "slug": "sunny-gho"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    }
+  ],
+  "displayTitle": "Star Wars #18",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-06-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-18",
+  "synopsis": "Princess Leia’s wedding day has arrived—and so has the Empire! As Darth Vader’s fleet bears down on the planet, the Rebels scramble to defend themselves—they have been double crossed!",
+  "title": "Star Wars #18"
+}

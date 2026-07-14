@@ -5,6 +5,81 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy #05: Broken, Part 4",
@@ -15,12 +90,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2006-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-05-broken-part-4",
-  "synopsis": "Star Wars: Legacy is a comic book series written by John Ostrander, primarily pencilled and co-scripted by Jan Duursema, and inked by Dan Parsons. Published by Dark Horse Comics, Legacy first issues were released in June 2006 following Dark Horse's revamp of its Star Wars line earlier in the year. Its initial tagline was \"All new Sith Order! All new Empire! All new Skywalker!\"",
+  "synopsis": "A galaxy-shaking secret is revealed in the heat of battle! Old friendships will be strained to the breaking point, unlikely new alliances will be formed, and the relentless forces of evil will pursue their dark ends with even greater vigor and purpose. In a universe on the brink of either destruction or salvation, it is the actions of an unexpected few that will determine the fates of all. The previously uncharted future of Star Wars takes a surprising turn in this latest issue of Legacy--be there! • The start of a brand new ongoing series, with all new characters, this is an excellent place for new readers to start.",
   "title": "Legacy #05: Broken, Part 4"
 }

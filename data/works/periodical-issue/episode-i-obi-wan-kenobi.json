@@ -1,0 +1,59 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Martin Egeland",
+      "role": "penciler",
+      "slug": "martin-egeland"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "Harold MacKinnon",
+      "role": "colorist",
+      "slug": "harold-mackinnon"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Tim Bradstreet",
+      "role": "coverArtist",
+      "slug": "tim-bradstreet"
+    }
+  ],
+  "displayTitle": "Episode I: Obi-Wan Kenobi",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-06-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-obi-wan-kenobi",
+  "synopsis": "Though all eyes are on the boy Anakin Skywalker, there is another young man making his rite of passage. The only thing standing between Obi-Wan Kenobi and Jedi Knighthood is a lesson he must learn from his Jedi Master, but the only place where he can learn that lesson is in the middle of an intergalactic war!",
+  "title": "Episode I: Obi-Wan Kenobi"
+}

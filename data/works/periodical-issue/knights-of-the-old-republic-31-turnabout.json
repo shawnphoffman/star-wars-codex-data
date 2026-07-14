@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "inker",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "penciler",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "artist",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "coverArtist",
+      "slug": "michael-atiyeh"
     }
   ],
   "displayTitle": "Knights of the Old Republic #31: Turnabout",
@@ -15,9 +45,10 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2008-07-23T00:00:00.000Z",
+  "releaseDate": "2008-07-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-31-turnabout",

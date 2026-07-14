@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "The Crystal Star",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553089295"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553089295",
+      "kind": "print",
+      "onsale": "1994-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 14
   },
-  "releaseDate": "1994-12-01T00:00:00.000Z",
+  "releaseDate": "1994-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-crystal-star",

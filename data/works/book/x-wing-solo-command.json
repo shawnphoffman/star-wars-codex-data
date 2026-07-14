@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "X-Wing: Solo Command",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553579000"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553579000",
+      "kind": "print",
+      "onsale": "1999-02-02T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

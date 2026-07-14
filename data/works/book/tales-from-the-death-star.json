@@ -1,0 +1,63 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Juan Samu",
+      "role": "penciler",
+      "slug": "juan-samu"
+    },
+    {
+      "name": "Soo Lee",
+      "role": "penciler",
+      "slug": "soo-lee"
+    },
+    {
+      "name": "Eric Powell",
+      "role": "penciler",
+      "slug": "eric-powell"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "penciler",
+      "slug": "vincenzo-riccardi"
+    },
+    {
+      "name": "Ingo Römling",
+      "role": "penciler",
+      "slug": "ingo-romling"
+    }
+  ],
+  "displayTitle": "Tales from the Death Star",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506738291"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506738291",
+      "kind": "print",
+      "onsale": "2023-10-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-the-death-star",
+  "synopsis": "Tales from the Death Star is a graphic novel written by Cavan Scott. It was published by Dark Horse Comics on October 17, 2023.",
+  "title": "Tales from the Death Star"
+}

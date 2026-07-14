@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Legacy #20: Indomitable, Part 1",
@@ -15,6 +40,7 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-02-27T00:00:00.000Z",

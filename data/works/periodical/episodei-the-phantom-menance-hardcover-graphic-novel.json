@@ -20,6 +20,31 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Rodolfo Damaggio",
+      "role": "penciler",
+      "slug": "rodolfo-damaggio"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ravenwood",
+      "role": "coverArtist",
+      "slug": "ravenwood"
     }
   ],
   "displayTitle": "Episode I: The Phantom Menace",
@@ -32,7 +57,7 @@
     "imprint": "Del Rey",
     "publicationKind": "comic"
   },
-  "releaseDate": "2016-05-24T00:00:00.000Z",
+  "releaseDate": "1999-05-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episodei-the-phantom-menance-hardcover-graphic-novel",

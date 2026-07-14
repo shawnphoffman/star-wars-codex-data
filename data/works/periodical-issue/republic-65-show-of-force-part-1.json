@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
     }
   ],
   "displayTitle": "Republic #65: Show of Force, Part 1",
@@ -21,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-65-show-of-force-part-1",
-  "synopsis": "Mace Windu Unleashed! In the aftermath of one of the battles of the Clone Wars, a new threat arises: the Jedi discover that someone has placed a bounty on Jedi&mdash;the deader, the better. Rather than have his Jedi be targets on and off the battlefield, Mace Windu assembles a team of the toughest Jedi available. Their mission? Explain to the Bounty Hunters' Guild, in no uncertain terms, that attacking Jedi is a very, very bad idea.",
+  "synopsis": "Mace Windu Unleashed! In the aftermath of one of the battles of the Clone Wars, a new threat arises: the Jedi discover that someone has placed a bounty on Jedi?the deader, the better. Rather than have his Jedi be targets on and off the battlefield, Mace Windu assembles a team of the toughest Jedi available. Their mission? Explain to the Bounty Hunters Guild, in no uncertain terms, that attacking Jedi is a very, very bad idea.",
   "title": "Republic #65: Show of Force, Part 1"
 }

@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "inker",
+      "slug": "jethro-morales"
+    },
+    {
+      "name": "Roi Mercado",
+      "role": "inker",
+      "slug": "roi-mercado"
+    },
+    {
+      "name": "Jethro Morales",
+      "role": "penciler",
+      "slug": "jethro-morales"
+    },
+    {
+      "name": "Roi Mercado",
+      "role": "penciler",
+      "slug": "roi-mercado"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: Echoes of the Empire (2026) #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "galaxys-edge-echoes-of-the-empire-2026-2",
+  "title": "Galaxy's Edge: Echoes of the Empire (2026) #2"
+}

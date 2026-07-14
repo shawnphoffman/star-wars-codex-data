@@ -1,0 +1,66 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "colorist",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "letterer",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "letterer",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Star Wars #44: Rite of Passage",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-08-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-44-rite-of-passage",
+  "synopsis": "Jedi Master Tholme has been captured by the dreaded Morgukai assassins, and the ship carrying his would-be resucers -- Jedi Quinlan Vos and Aayla Secura -- has been shot down in the lifeless deserts of the planet Kintan. The brave Jedi take everything the Endless Wastes have to throw at them, from searing heat to flesh-scouring sandstorms, but their real challenge comes when they must face the Morgukai...",
+  "title": "Star Wars #44: Rite of Passage"
+}

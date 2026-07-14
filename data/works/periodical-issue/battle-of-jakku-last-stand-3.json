@@ -10,6 +10,41 @@
       "name": "Leonard Kirk",
       "role": "artist",
       "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "inker",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Battle of Jakku: Last Stand #3",

@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Dark Apprentice",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553297997"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553297997",
+      "kind": "print",
+      "onsale": "1994-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
   },
-  "releaseDate": "1994-06-01T00:00:00.000Z",
+  "releaseDate": "1994-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-apprentice",

@@ -1,18 +1,43 @@
 {
-  "bookType": "shortStory",
+  "bookType": "other",
   "canonStatus": "canon",
   "creators": [
     {
       "name": "Lydia Kang",
       "role": "writer",
       "slug": "lydia-kang"
+    },
+    {
+      "name": "Jake Lunt Davies",
+      "role": "writer",
+      "slug": "jake-lunt-davies"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
     }
   ],
   "displayTitle": "Insider: The High Republic: Survivors of the Stormwall",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "180618401X"
+    },
+    {
       "type": "isbn13",
       "value": "9781806184019"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Titan Magazines",
+      "isPrimary": true,
+      "isbn10": "180618401X",
+      "isbn13": "9781806184019",
+      "kind": "print",
+      "onsale": "2026-07-07T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -20,6 +45,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-occlusion-zone",
-  "synopsis": "A Phase III short-story collection on life inside the Occlusion Zone after Starlight Beacon's destruction and the rise of Marchion Ro's Stormwall; follows the crew of the Republic Longbeam Aurie, lost in the Zone, while a Jedi Padawan searches for a route through the barrier.",
+  "synopsis": "A hardcover collection of Star Wars: The High Republic stories from the pages of Star Wars Insider , written by Lydia Kang and award-winning author Alyssa Wong, with illustrations by Star Wars creature concept designer, Jake Lunt Davies. This collection features 11 short stories set during Phase III of The High Republic , chronicling the ongoing battle against the Nihil centuries prior to the Star Wars prequel trilogy. Following the destruction of Starlight Beacon and the expansion of Marchion Ro’s galaxy-splitting Stormwall, the crew of the Aurie , a lone Republic Longbeam, find themselves lost in the Occlusion Zone. Meanwhile, a Jedi Padawan searches for a route through the impenetrable barrier. Also included is an extensive companion to the Phase III books and comics, as well as a chronological readers guide for each phase. There is also a roundtable interview with authors Zoraida C&oacute;rdova, Tessa Gratton, Lydia Kang, George Mann, Daniel Jos&eacute; Older, Cavan Scott, Charles Soule and Lucasfilm Publishing Creative Director Michael Siglain, as they discuss the creation and legacy of the ambitious publishing initiative. Lastly, take a peek into creature concept designer Jake Lunt Davies’ collection of artwork, which provides insight into his illustrative process.",
   "title": "Star Wars Insider: The High Republic: Survivors of the Stormwall"
 }

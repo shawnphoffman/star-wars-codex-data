@@ -10,6 +10,36 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "inker",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "artist",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Ryan Sook",
+      "role": "coverArtist",
+      "slug": "ryan-sook"
     }
   ],
   "displayTitle": "Rebellion #08: The Ahakista Gambit, Part 3",
@@ -20,12 +50,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-07-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-08-the-ahakista-gambit-part-3",
-  "synopsis": "A secret of tremendous importance to the Empire lies hidden on the planet Ahakista, and when a local civil war threatens it, Darth Vader will take its protection into his own hands! A ragtag team of Rebel agents have discovered the Empire's secret on Ahakista thanks to an Imperial officer with an agenda of her own. Yet if they are to do anything about it, they'll need the help of the locals, who, embroiled in a civil war, are none too eager to take the Empire head on. Meanwhile, Darth Vader grows tired of this backwater planet distracting him from more pressing matters. For his adversaries thi",
+  "synopsis": "A secret of tremendous importance to the Empire lies hidden on the planet Ahakista, and when a local civil war threatens it, Darth Vader will take its protection into his own hands! A ragtag team of Rebel agents have discovered the Empire's secret on Ahakista thanks to an Imperial officer with an agenda of her own. Yet if they are to do anything about it, they'll need the help of the locals, who, embroiled in a civil war, are none too eager to take the Empire head on. Meanwhile, Darth Vader grows tired of this backwater planet distracting him from more pressing matters. For his adversaries this means one thing-death at the hands of the Sith Lord!",
   "title": "Rebellion #08: The Ahakista Gambit, Part 3"
 }

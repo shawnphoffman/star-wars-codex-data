@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ludwig Göransson",
+      "role": "composer",
+      "slug": "ludwig-gransson"
+    }
+  ],
   "displayTitle": "The Mandalorian Season 2",
   "era": "newRepublic",
   "format": "tvSeason",

@@ -1,5 +1,96 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Igor Kordey",
+      "role": "inker",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Claudio Castellini",
+      "role": "inker",
+      "slug": "claudio-castellini"
+    },
+    {
+      "name": "Robert Teranishi",
+      "role": "inker",
+      "slug": "robert-teranishi"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "Martin Egeland",
+      "role": "penciler",
+      "slug": "martin-egeland"
+    },
+    {
+      "name": "Peter David",
+      "role": "writer",
+      "slug": "peter-david"
+    },
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    },
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    },
+    {
+      "name": "James Woodring",
+      "role": "writer",
+      "slug": "james-woodring"
+    },
+    {
+      "name": "Chris Chuckry",
+      "role": "colorist",
+      "slug": "chris-chuckry"
+    },
+    {
+      "name": "Guy Major",
+      "role": "colorist",
+      "slug": "guy-major"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "penciler",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Claudio Castellini",
+      "role": "penciler",
+      "slug": "claudio-castellini"
+    },
+    {
+      "name": "Robert Teranishi",
+      "role": "penciler",
+      "slug": "robert-teranishi"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "coverArtist",
+      "slug": "igor-kordey"
+    }
+  ],
   "displayTitle": "Tales #01",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +102,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-01",
-  "synopsis": "Star Wars Tales features the world's greatest comics creators and their spins on the Star Wars saga, both within and beyond the continuity! Mara Jade meets Rebel General Madine in A Night on the Town by Timothy Zahn and Igor Kordey! A retired Jedi ignites her lightsaber one last time for a battle with Darth Vader in an all-new story by Ron Marz and 1998 Eisner nominee Claudio Castellini! And super-scribe Peter David and penciller Martin Egeland come together to spin the saga of \"Skippy the Jedi Droid\"! This is Star Wars as you've never seen it before!'",
+  "synopsis": "Dark Horse is proud to introduce an all-new anthology devoted to Star Wars! Star Wars Tales features the world's greatest comics creators and their spins on the Star Wars saga, both within and beyond the continuity! Mara Jade meets Rebel General Madine in \"A Night on the Town\" by Timothy Zahn and Igor Kordey! A retired Jedi ignites her lightsaber one last time for a battle with Darth Vader in an all-new story by Ron Marz and 1998 Eisner nominee Claudio Castellini! And super-scribe Peter David and penciller Martin Egeland come together to spin the saga of \"Skippy the Jedi Droid\"! This is Star Wars as you've never seen it before!",
   "title": "Star Wars Tales #01"
 }

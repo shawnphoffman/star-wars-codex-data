@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "C-3PO's Big Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101689"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101689",
+      "kind": "print",
+      "onsale": "2000-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

@@ -15,6 +15,51 @@
       "name": "Rod Reis",
       "role": "artist",
       "slug": "rod-reis"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "inker",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "Pat Olliffe",
+      "role": "inker",
+      "slug": "pat-olliffe"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "penciler",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "Pat Olliffe",
+      "role": "penciler",
+      "slug": "pat-olliffe"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Thrawn: Alliances #3",

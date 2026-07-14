@@ -1,8 +1,48 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Donald F. Glut",
+      "role": "writer",
+      "slug": "donald-f-glut"
+    },
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    },
+    {
+      "name": "Ken Hiller",
+      "role": "narrator",
+      "slug": "ken-hiller"
+    },
+    {
+      "name": "John Madden",
+      "role": "director",
+      "slug": "john-madden"
+    },
+    {
+      "name": "Tom Voegeli",
+      "role": "director",
+      "slug": "tom-voegeli"
+    },
+    {
+      "name": "John Bos",
+      "role": "producer",
+      "slug": "john-bos"
+    }
+  ],
   "displayTitle": "The Empire Strikes Back",
   "editionIds": [
+    {
+      "type": "asin",
+      "value": "B00513E5MU"
+    },
+    {
+      "type": "isbn10",
+      "value": "0307795454"
+    },
     {
       "type": "isbn13",
       "value": "9780307795458"
@@ -10,17 +50,24 @@
   ],
   "editions": [
     {
+      "asin": "B00513E5MU",
+      "extent": 224,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0307795454",
       "isbn13": "9780307795458",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2011-06-28T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2011-06-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-empire-strikes-back",
+  "synopsis": "Based on the story by George Lucas and the screenplay by Leigh Brackett and Lawrence Kasdan The adventures of Luke Skywalker did not end with the destruction of the Death Star. Though the Rebel Alliance won a significant battle, the war against the Empire has only just begun. Several months have passed, and the Rebels have established a hidden outpost on the frozen wasteland of Hoth. But even on that icy backwater planet, they cannot escape the evil Darth Vader’s notice for long. Soon Luke, Han, Princess Leia, and their faithful companions will be forced to flee, scattering in all directions—with the Dark Lord’s minions in fevered pursuit. Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
   "title": "The Empire Strikes Back"
 }

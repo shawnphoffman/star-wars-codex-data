@@ -15,6 +15,41 @@
       "name": "Ariel Olivetti",
       "role": "artist",
       "slug": "ariel-olivetti"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "colorist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "inker",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "penciler",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Chewbacca (2015) Part II",

@@ -1,12 +1,25 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mitsuyasu Sakai",
+      "role": "writer",
+      "slug": "mitsuyasu-sakai"
+    },
+    {
+      "name": "Shunsuke Tada",
+      "role": "director",
+      "slug": "shunsuke-tada"
+    }
+  ],
   "displayTitle": "Visions Presents - The Ninth Jedi Season 1 S1E2",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-visions-presents-the-ninth-jedi-visions-presents-the-ninth-jedi-season-1-s01",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-08-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-visions-presents-the-ninth-jedi-visions-presents-the-ninth-jedi-season-1-s01-visions-presents-the-ninth-jedi-season-1-s1e2-e02",
   "title": "Visions Presents - The Ninth Jedi Season 1 S1E2"
 }

@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tom Raney",
+      "role": "penciler",
+      "slug": "tom-raney"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Mark Lipka",
+      "role": "inker",
+      "slug": "mark-lipka"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #7",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998-7",
+  "title": "Star Wars (1998) #7"
+}

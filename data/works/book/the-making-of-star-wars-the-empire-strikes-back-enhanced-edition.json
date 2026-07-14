@@ -16,6 +16,10 @@
   "displayTitle": "The Making of Star Wars: The Empire Strikes Back (Enhanced Edition)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345509617"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509611"
     }
@@ -23,8 +27,9 @@
   "editions": [
     {
       "extent": 372,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345509617",
       "isbn13": "9780345509611",
       "kind": "print",
       "onsale": "2010-10-12T00:00:00.000Z"

@@ -10,6 +10,31 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "inker",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Ryan Sook",
+      "role": "coverArtist",
+      "slug": "ryan-sook"
     }
   ],
   "displayTitle": "Rebellion #09: The Ahakista Gambit, Part 4",
@@ -20,12 +45,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-08-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-09-the-ahakista-gambit-part-4",
-  "synopsis": "The crimelord Raze has put a bomb inside Wyl Tarson's skull, which is why Wyl now leads a ragtag team on a suicide mission to compromise one of the Empire's greatest secrets! In the streets of the planet Ahakista, Darth Vader wages ruthless war against a local militia that has been unwelcoming to the Imperial presence there. Meanwhile, below the surface, Wyl and his crew try to infiltrate an Imperial stronghold through ancient tunnels. Just when unlikely success seems within their grasp, a revelation by one of the group changes everything. Fateful decisions, shocking discoveries... this the",
+  "synopsis": "The crimelord Raze has put a bomb inside Wyl Tarson's skull, which is why Wyl now leads a ragtag team on a suicide mission to compromise one of the Empire's greatest secrets! In the streets of the planet Ahakista, Darth Vader wages ruthless war against a local militia that has been unwelcoming to the Imperial presence there. Meanwhile, below the surface, Wyl and his crew try to infiltrate an Imperial stronghold through ancient tunnels. Just when unlikely success seems within their grasp, a revelation by one of the group changes everything. Fateful decisions, shocking discoveries . . . this is the hottest issue yet!",
   "title": "Rebellion #09: The Ahakista Gambit, Part 4"
 }

@@ -6,6 +6,45 @@
       "name": "Ryder Windham",
       "role": "writer",
       "slug": "ryder-windham"
+    },
+    {
+      "name": "Nick Choles",
+      "role": "artist",
+      "slug": "nick-choles"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Nick Choles",
+      "role": "coverArtist",
+      "slug": "nick-choles"
+    },
+    {
+      "name": "Nick Choles",
+      "role": "penciler",
+      "slug": "nick-choles"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
     }
   ],
   "displayTitle": "Shadow Stalker",

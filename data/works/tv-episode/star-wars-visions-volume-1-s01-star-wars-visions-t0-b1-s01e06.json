@@ -1,10 +1,15 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Abel Gongora",
       "role": "director",
       "slug": "abel-gongora"
+    },
+    {
+      "name": "Yuichiro Kido",
+      "role": "writer",
+      "slug": "yuichiro-kido"
     }
   ],
   "displayTitle": "T0-B1",

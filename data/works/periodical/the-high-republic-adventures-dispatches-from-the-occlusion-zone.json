@@ -20,6 +20,11 @@
       "name": "Paris Alleyne",
       "role": "artist",
       "slug": "paris-alleyne"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
     }
   ],
   "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone",
@@ -28,7 +33,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-07-01T00:00:00.000Z",
+  "releaseDate": "2024-10-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-dispatches-from-the-occlusion-zone",

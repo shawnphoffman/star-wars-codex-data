@@ -15,6 +15,36 @@
       "name": "Mark Brooks",
       "role": "artist",
       "slug": "mark-brooks"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
     }
   ],
   "displayTitle": "Darth Vader (2015) #15: Vader Down, Part VI",

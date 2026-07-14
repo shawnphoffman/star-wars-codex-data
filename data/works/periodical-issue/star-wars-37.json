@@ -20,6 +20,51 @@
       "name": "Mike Mayhew",
       "role": "artist",
       "slug": "mike-mayhew"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Sorrentino",
+      "role": "inker",
+      "slug": "andrea-sorrentino"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Sorrentino",
+      "role": "penciler",
+      "slug": "andrea-sorrentino"
     }
   ],
   "displayTitle": "Star Wars (2015) #37: Imperial Pride",

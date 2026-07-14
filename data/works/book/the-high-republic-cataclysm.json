@@ -11,15 +11,20 @@
   "displayTitle": "Cataclysm",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593500350"
+    },
+    {
       "type": "isbn13",
       "value": "9780593500354"
     }
   ],
   "editions": [
     {
-      "extent": 400,
+      "extent": 416,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593500350",
       "isbn13": "9780593500354",
       "kind": "print",
       "onsale": "2023-04-04T00:00:00.000Z"

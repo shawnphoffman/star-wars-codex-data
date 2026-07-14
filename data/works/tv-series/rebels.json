@@ -25,6 +25,41 @@
       "name": "Henry Gilroy",
       "role": "producer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Simon Kinberg",
+      "role": "writer",
+      "slug": "simon-kinberg"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "writer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "showrunner",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Simon Kinberg",
+      "role": "showrunner",
+      "slug": "simon-kinberg"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "showrunner",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "producer",
+      "slug": "dave-filoni"
     }
   ],
   "displayTitle": "Rebels",

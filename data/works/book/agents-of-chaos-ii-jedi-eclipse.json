@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Agents of Chaos II: Jedi Eclipse",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428592"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428592",
+      "kind": "print",
+      "onsale": "2000-10-03T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

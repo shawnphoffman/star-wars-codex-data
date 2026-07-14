@@ -6,6 +6,40 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Sno Cone",
+      "role": "letterer",
+      "slug": "sno-cone"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Nestelle",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Jedi: Aayla Secura",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-aayla-secura",
-  "synopsis": "Beautiful Twi'lek Jedi Aayla Secura goes undercover to ferret out a Separatist enclave. But when her cover is blown, Aayla finds herself going up against famed bounty hunter (and infamous Jedi killer) Aurra Sing! This is the battle that Star Wars fans have been begging for, by the creative team that was born to bring it to them!",
+  "synopsis": "A Double-Sized Clone Wars Special! Beautiful twi'lek Jedi Aayla Secura goes undercover to ferret out a Separatist enclave. But when her cover is blown, Aayla finds herself going up against famed bounty hunter (and infamous Jedi killer) Aurra Sing! This is the battle that Star Wars fans have been begging for, by the creative team that was born to bring it to them!",
   "title": "Jedi: Aayla Secura"
 }

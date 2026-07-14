@@ -25,6 +25,16 @@
       "name": "George Lucas",
       "role": "director",
       "slug": "george-lucas"
+    },
+    {
+      "name": "Special Edition",
+      "role": "producer",
+      "slug": "special-edition"
+    },
+    {
+      "name": "George Lucas",
+      "role": "producer",
+      "slug": "george-lucas"
     }
   ],
   "displayTitle": "Episode IV: A New Hope",
@@ -42,6 +52,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-iv-a-new-hope-7",
-  "synopsis": "Nineteen years after the formation of the Empire, Luke Skywalker is thrust into the struggle of the Rebel Alliance when he meets Obi-Wan Kenobi, who has lived for years in seclusion on the desert planet of Tatooine. Obi-Wan begins Luke’s Jedi training as Luke joins him on a daring mission to rescue the beautiful Rebel leader Princess Leia from the clutches of the evil Empire. Although Obi-Wan sacrifices himself in a lightsaber duel with Darth Vader, his former apprentice, Luke proves that the Force is with him by destroying the Empire’s dreaded Death Star.",
+  "synopsis": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
   "title": "Episode IV: A New Hope"
 }

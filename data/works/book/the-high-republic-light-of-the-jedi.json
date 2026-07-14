@@ -27,8 +27,8 @@
       "onsale": "2021-01-05T00:00:00.000Z"
     },
     {
-      "extent": 380,
-      "imprint": "Del Rey",
+      "extent": 400,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "0593157710",
       "isbn13": "9780593157718",
@@ -45,6 +45,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-light-of-the-jedi",
-  "synopsis": "A devastating hyperspace disaster calls the Jedi’s attention to a new threat: an organization called the Nihil, with a leader as mysterious as the group itself.",
+  "synopsis": "A devastating hyperspace disaster calls the Jedi's attention to a new threat: an organization called the Nihil, with a leader as mysterious as the group itself.",
   "title": "Light of the Jedi"
 }

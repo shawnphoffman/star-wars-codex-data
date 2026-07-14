@@ -11,16 +11,40 @@
   "displayTitle": "The Empire Strikes Back: So You Want to Be a Jedi?",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00V6YWFZ2"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484712110"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484709146"
+    },
+    {
       "type": "isbn13",
       "value": "9781484712115"
     }
   ],
   "editions": [
     {
-      "imprint": "Disney Publishing Worldwide",
+      "extent": 336,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484709146",
+      "kind": "print",
+      "onsale": "2015-09-22T00:00:00.000Z"
+    },
+    {
+      "asin": "B00V6YWFZ2",
+      "extent": 336,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1484712110",
       "isbn13": "9781484712115",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-09-22T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",

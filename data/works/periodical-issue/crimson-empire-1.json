@@ -11,6 +11,40 @@
       "name": "Randy Stradley",
       "role": "writer",
       "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Sean Konot",
+      "role": "letterer",
+      "slug": "sean-konot"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire #1",
@@ -27,5 +61,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-1",
+  "synopsis": "Kir Kanos is the last surviving member of the elite Crimson Guard! He's on the run -- and the Empire will stop at nothing to destroy him! Featuring flashback appearances detailing the unknown pasts of Emperor Palpatine and Darth Vader!",
   "title": "Crimson Empire #1"
 }

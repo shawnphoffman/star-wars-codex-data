@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Charley Feldman",
+      "role": "writer",
+      "slug": "charley-feldman"
+    }
+  ],
   "displayTitle": "Bad Eggs",
   "era": "highRepublic",
   "format": "tvEpisode",

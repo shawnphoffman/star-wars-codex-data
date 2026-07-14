@@ -6,16 +6,39 @@
       "name": "R.A. Salvatore",
       "role": "writer",
       "slug": "r-a-salvatore"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Episode II Attack of the Clones",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345428811"
+    },
+    {
       "type": "isbn13",
       "value": "9780345428813"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781302900755"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0345428811",
+      "kind": "print"
+    },
     {
       "extent": 336,
       "imprint": "Del Rey",
@@ -23,6 +46,14 @@
       "isbn13": "9780345428813",
       "kind": "print",
       "onsale": "2002-04-23T00:00:00.000Z"
+    },
+    {
+      "extent": 152,
+      "imprint": "Marvel Comics",
+      "isPrimary": false,
+      "isbn13": "9781302900755",
+      "kind": "print",
+      "onsale": "2016-09-07T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

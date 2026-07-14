@@ -1,5 +1,101 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Claudio Castellini",
+      "role": "penciler",
+      "slug": "claudio-castellini"
+    },
+    {
+      "name": "Sean Phillips",
+      "role": "penciler",
+      "slug": "sean-phillips"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "penciler",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "Matt Hollingsworth",
+      "role": "colorist",
+      "slug": "matt-hollingsworth"
+    },
+    {
+      "name": "Guy Major",
+      "role": "colorist",
+      "slug": "guy-major"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Tony Isabella",
+      "role": "writer",
+      "slug": "tony-isabella"
+    },
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    },
+    {
+      "name": "Dan Jolley",
+      "role": "writer",
+      "slug": "dan-jolley"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "colorist",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "Sean Phillips",
+      "role": "inker",
+      "slug": "sean-phillips"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "inker",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "writer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "letterer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Claudo Castellini",
+      "role": "coverArtist",
+      "slug": "claudo-castellini"
+    }
+  ],
   "displayTitle": "Tales #02",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +107,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-02",
-  "synopsis": "A nervous deep spacer reveals his blaster-slinging agenda in \"\"Incident at Horn Station\"\" by Dan Jolley and Sean Phillips! Dave Cooper tells the tale of the Max Rebo Band and their stolen instruments in \"Stop that Jawa!\" And Ron Marz and Claudio Castellini return to finish the tale of Darth Vader vs. the Dark Woman in \"\"Extinction\"\"! This is Star Wars as you've never seen it before!",
+  "synopsis": "A nervous deep spacer reveals his blaster-slinging agenda in \"Incident at Horn Station\" by Dan Jolley and Sean Phillips! Dave Cooper tells the tale of the Max Rebo band and their stolen instruments in \"Stop that Jawa!\" And Ron Marz and Claudio Castellini return to finish the tale of Darth Vader vs. the Dark Woman in \"Extinction\"! This is Star Wars as you've never seen it before!",
   "title": "Star Wars Tales #02"
 }

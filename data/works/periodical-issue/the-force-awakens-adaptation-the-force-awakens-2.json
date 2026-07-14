@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
   "displayTitle": "The Force Awakens #2",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

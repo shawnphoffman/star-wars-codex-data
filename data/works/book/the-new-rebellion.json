@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The New Rebellion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553100939"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553100939",
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

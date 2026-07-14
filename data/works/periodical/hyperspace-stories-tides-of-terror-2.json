@@ -15,6 +15,41 @@
       "name": "Le Beau Underwood",
       "role": "artist",
       "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Luis Morocho",
+      "role": "penciler",
+      "slug": "luis-morocho"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "inker",
+      "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Román López Cabrera",
+      "role": "inker",
+      "slug": "romn-lpez-cabrera"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
     }
   ],
   "displayTitle": "Hyperspace Stories: Tides of Terror",

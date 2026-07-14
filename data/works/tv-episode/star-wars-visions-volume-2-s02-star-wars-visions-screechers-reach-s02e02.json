@@ -1,10 +1,20 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Paul Young",
       "role": "director",
       "slug": "paul-young"
+    },
+    {
+      "name": "Will Collins",
+      "role": "writer",
+      "slug": "will-collins"
+    },
+    {
+      "name": "Jason Tammemägi",
+      "role": "writer",
+      "slug": "jason-tammemgi"
     }
   ],
   "displayTitle": "Screecher's Reach",

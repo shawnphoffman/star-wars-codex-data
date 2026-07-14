@@ -72,9 +72,9 @@
       "slug": "salvador-larroca"
     },
     {
-      "name": "Frank Martin jr",
+      "name": "Frank Martin",
       "role": "artist",
-      "slug": "frank-martin-jr"
+      "slug": "frank-martin"
     },
     {
       "name": "Laura Martin",
@@ -100,6 +100,76 @@
       "name": "Terry Dodson",
       "role": "artist",
       "slug": "terry-dodson"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "coverArtist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
+    },
+    {
+      "name": "R Rahzzah",
+      "role": "coverArtist",
+      "slug": "r-rahzzah"
+    },
+    {
+      "name": "Cam Smith",
+      "role": "inker",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "coverArtist",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
     }
   ],
   "displayTitle": "Star Wars (2015) #50: Hope Dies Part I",

@@ -10,6 +10,36 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "inker",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Stephanie Hans",
+      "role": "coverArtist",
+      "slug": "stephanie-hans"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
     }
   ],
   "displayTitle": "The Mandalorian #5",

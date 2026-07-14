@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Clem Robins",
+      "role": "letterer",
+      "slug": "clem-robins"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
     }
   ],
   "displayTitle": "Star Wars (1977) #22: To the Last Gladiator",

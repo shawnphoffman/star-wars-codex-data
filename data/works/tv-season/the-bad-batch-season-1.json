@@ -1,5 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Athena Yvette Portillo",
+      "role": "producer",
+      "slug": "athena-yvette-portillo"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "producer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "writer",
+      "slug": "jennifer-corbett"
+    }
+  ],
   "displayTitle": "The Bad Batch Season 1",
   "era": "reignOfTheEmpire",
   "format": "tvSeason",

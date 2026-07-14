@@ -6,13 +6,40 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Manuel Silva",
+      "role": "penciler",
+      "slug": "manuel-silva"
+    },
+    {
+      "name": "Diego Rodriguez",
+      "role": "colorist",
+      "slug": "diego-rodriguez"
     }
   ],
   "displayTitle": "The Force Unleashed II Graphic Novel",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1595825533"
+    },
+    {
       "type": "isbn13",
       "value": "9781595825537"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "1595825533",
+      "isbn13": "9781595825537",
+      "kind": "print"
     }
   ],
   "era": "ageOfRebellion",

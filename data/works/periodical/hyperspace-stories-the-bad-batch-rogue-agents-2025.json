@@ -5,6 +5,31 @@
       "name": "Michael Moreci",
       "role": "writer",
       "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents",
@@ -13,7 +38,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-12-17T00:00:00.000Z",
+  "releaseDate": "2025-12-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",

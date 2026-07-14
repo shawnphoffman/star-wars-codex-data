@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Joe Pimentel",
+      "role": "inker",
+      "slug": "joe-pimentel"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "coverArtist",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #33: Vindication pt. 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-09-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-33-vindication-part-2",
-  "synopsis": "Padawan Zayne Carrick has come to confront the Jedi who framed him for the murder of his fellow students. Yet he and his former Masters are shocked by an unforeseen revelation&mdash;another failed Padawan, believed to be a devoted servant, unveils his own dark intentions! Events are racing to the conclusion of the story that began in issue #1, and the Jedi Order will never be the same after this!",
+  "synopsis": "Padawan Zayne Carrick has come to confront the Jedi who framed him for the murder of his fellow students. Yet he and his former Masters are shocked by an unforeseen revelation--another failed Padawan, believed to be a devoted servant, unveils his own dark intentions! Events are racing to the conclusion of the story that began in issue #1, and the Jedi Order will never be the same after this!",
   "title": "Knights of the Old Republic #33: Vindication pt. 2"
 }

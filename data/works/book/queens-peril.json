@@ -16,18 +16,30 @@
     },
     {
       "type": "isbn13",
+      "value": "9781368057141"
+    },
+    {
+      "type": "isbn13",
       "value": "9781368077194"
     }
   ],
   "editions": [
     {
       "extent": 288,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368057141",
+      "kind": "print",
+      "onsale": "2020-06-02T00:00:00.000Z"
+    },
+    {
+      "extent": 320,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368077196",
       "isbn13": "9781368077194",
       "kind": "print",
-      "onsale": "2020-06-02T00:00:00.000Z"
+      "onsale": "2021-10-05T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",

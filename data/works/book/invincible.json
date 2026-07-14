@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Invincible",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477460"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477460",
+      "kind": "print",
+      "onsale": "2008-05-13T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

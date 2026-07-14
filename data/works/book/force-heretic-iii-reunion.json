@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Force Heretic III: Reunion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345428722"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 390,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345428722",
+      "kind": "print",
+      "onsale": "2003-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

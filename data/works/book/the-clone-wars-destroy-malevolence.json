@@ -4,15 +4,29 @@
   "displayTitle": "The Clone Wars: Destroy Malevolence",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1409302105"
+    },
+    {
       "type": "isbn13",
       "value": "9781409302100"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Ladybird Books",
+      "isPrimary": true,
+      "isbn10": "1409302105",
+      "isbn13": "9781409302100",
+      "kind": "print",
+      "onsale": "2009-05-01T00:00:00.000Z"
     }
   ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2009-06-29T00:00:00.000Z",
+  "releaseDate": "2009-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-destroy-malevolence",

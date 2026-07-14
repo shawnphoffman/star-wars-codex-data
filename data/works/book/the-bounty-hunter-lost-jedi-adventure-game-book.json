@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "The Bounty Hunter (Lost Jedi Adventure Game Book)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1852838132"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Boxtree",
+      "isPrimary": true,
+      "isbn10": "1852838132",
+      "kind": "print",
+      "onsale": "1994-01-27T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

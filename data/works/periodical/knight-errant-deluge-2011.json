@@ -10,6 +10,31 @@
       "name": "Ivan Rodriguez",
       "role": "artist",
       "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "penciler",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Iban Coello",
+      "role": "penciler",
+      "slug": "iban-coello"
+    },
+    {
+      "name": "David Aja",
+      "role": "penciler",
+      "slug": "david-aja"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Deluge",

@@ -11,6 +11,10 @@
   "displayTitle": "Darth Bane: Path of Destruction",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345477367"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477361"
     }
@@ -20,6 +24,7 @@
       "extent": 324,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477367",
       "isbn13": "9780345477361",
       "kind": "print",
       "onsale": "2006-09-26T00:00:00.000Z"

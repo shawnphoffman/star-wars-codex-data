@@ -10,6 +10,16 @@
       "name": "Marika Cresta",
       "role": "artist",
       "slug": "marika-cresta"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "penciler",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "The High Republic: Fear of the Jedi",
@@ -18,7 +28,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDate": "2025-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-fear-of-the-jedi",

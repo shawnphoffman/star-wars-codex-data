@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Walden Wong",
+      "role": "inker",
+      "slug": "walden-wong"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Cory Smith",
+      "role": "penciler",
+      "slug": "cory-smith"
+    }
+  ],
+  "displayTitle": "Age of Republic: Obi-Wan Kenobi (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-republic-obi-wan-kenobi-2019-1",
+  "title": "Age of Republic: Obi-Wan Kenobi (2019) #1"
+}

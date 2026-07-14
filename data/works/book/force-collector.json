@@ -22,6 +22,10 @@
     {
       "type": "isbn13",
       "value": "9781368045582"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405295413"
     }
   ],
   "editions": [
@@ -33,6 +37,14 @@
       "isbn13": "9781368045582",
       "kind": "print",
       "onsale": "2019-11-19T00:00:00.000Z"
+    },
+    {
+      "extent": 384,
+      "imprint": "Egmont UK Ltd *Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781405295413",
+      "kind": "print",
+      "onsale": "2019-10-04T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -40,7 +52,7 @@
   "inUniverseDate": {
     "startYear": 32
   },
-  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDate": "2019-10-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-collector",

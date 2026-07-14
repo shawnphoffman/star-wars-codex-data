@@ -5,6 +5,36 @@
       "name": "Matt Kindt",
       "role": "writer",
       "slug": "matt-kindt"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
     }
   ],
   "displayTitle": "Rebel Heist #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebel-heist-2014",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-04-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-heist-2014-1",
-  "synopsis": "A young Rebel meets one of the Alliance's best for his first mission. But the young man's hero worship is crushed by the reality of Han Solo. A botched escape, a ship that doesn't work&mdash;could it be that Solo is just a lucky bumbler whose luck has run out?",
+  "synopsis": "A young Rebel meets one of the Alliance’s best for his first mission. But the young man’s hero worship is crushed by the reality of Han Solo. A botched escape, a ship that doesn’t work—could it be that Solo is just a lucky bumbler whose luck has run out? * Han Solo–the truth behind the myth! * Covers by Adam Hughes!",
   "title": "Rebel Heist #1"
 }

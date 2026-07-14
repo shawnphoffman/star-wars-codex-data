@@ -1,0 +1,31 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peet Janes",
+      "role": "writer",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
+    }
+  ],
+  "displayTitle": "Handbook 1: X-Wing Rogue Squadron (1998) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-handbook-1-x-wing-rogue-squadron",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-handbook-1-x-wing-rogue-squadron-1998-1",
+  "title": "Star Wars Handbook 1: X-Wing Rogue Squadron (1998) #1"
+}

@@ -6,13 +6,18 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Todd Haberkorn",
+      "role": "narrator",
+      "slug": "todd-haberkorn"
     }
   ],
   "displayTitle": "Haunted Starlight",
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
-      "isPrimary": true,
+      "isPrimary": false,
       "kind": "print",
       "onsale": "2025-03-06T00:00:00.000Z"
     }

@@ -5,6 +5,40 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "letterer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Shadows of the Empire #3",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-3",
-  "synopsis": "They outnumber him and outgun him. By all rights, Luke Skywalker should be one dead Jedi-in-training, the target of a surprise attack by Jabba's swoop gang. But he's not&hellip; and even he isn't certain of the reason!",
+  "synopsis": "They outnumber him and outgun him. By all rights, Luke Skywalker should be one dead Jedi-in-training, the target of a surprise attack by Jabba's swoop gang. But he's not . . . and even he isn't certain of the reason!",
   "title": "Shadows of the Empire #3"
 }

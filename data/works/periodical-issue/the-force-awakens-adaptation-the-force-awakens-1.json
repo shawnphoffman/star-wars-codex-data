@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Esad Ribic",
+      "role": "coverArtist",
+      "slug": "esad-ribic"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
   "displayTitle": "The Force Awakens #1",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

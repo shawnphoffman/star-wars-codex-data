@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Iban Coello",
+      "role": "penciler",
+      "slug": "iban-coello"
+    },
+    {
+      "name": "Sergio Abad",
+      "role": "inker",
+      "slug": "sergio-abad"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Deluge #3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knight-errant-deluge-2011",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-10-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-deluge-2011-3",
-  "synopsis": "Jedi Knight Kerra Holt's elation at the prospect of being part of a team again has quickly deflated now that she realizes the motives of the Republic's Devil Squadron are a far cry from her own. But with crime lord Zodoh the Hutt returning to Kerra's home planet and the Sith Lord Daiman about to enter the fight, Kerra must sort out her allies or be destroyed!",
+  "synopsis": "Jedi Knight Kerra Holt's elation at the prospect of being part of a team again has quickly deflated now that she realizes the motives of the Republic's Devil Squadron are a far cry from her own. But with crime lord Zodoh the Hutt returning to Kerra's home planet and the Sith Lord Daiman about to enter the fight, Kerra must sort out her allies or be destroyed! * John Jackson Miller's Knight Errant novel is a New York Times bestseller!",
   "title": "Knight Errant: Deluge #3"
 }

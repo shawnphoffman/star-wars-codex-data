@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: The Desperate Mission",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439681340"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 168,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439681340",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
@@ -28,7 +44,7 @@
     "the-last-of-the-jedi-2005-8",
     "the-last-of-the-jedi-2005-9"
   ],
-  "releaseDate": "2005-05-01T00:00:00.000Z",
+  "releaseDate": "2005-04-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-of-the-jedi-2005-1",

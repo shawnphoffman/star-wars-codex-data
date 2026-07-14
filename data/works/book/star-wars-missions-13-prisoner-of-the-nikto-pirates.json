@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 13: Prisoner of the Nikto Pirates",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590592777"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 70,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590592777",
+      "kind": "print",
+      "onsale": "1998-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

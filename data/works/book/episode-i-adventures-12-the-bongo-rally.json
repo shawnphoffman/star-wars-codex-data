@@ -9,6 +9,34 @@
     }
   ],
   "displayTitle": "Episode I Adventures: The Bongo Rally",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101492"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101493"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 107,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101492",
+      "kind": "print",
+      "onsale": "2000-08-01T00:00:00.000Z"
+    },
+    {
+      "extent": 107,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439101493",
+      "kind": "print",
+      "onsale": "2000-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "coverArtist",
+      "slug": "doug-wheatley"
     }
   ],
   "displayTitle": "Legacy #21: Indomitable, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-03-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-21-indomitable-part-2",
-  "synopsis": "The conclusion of a shocking two-part tale pitting the Sith Empire against the Galactic Alliance in an all-out space battle! The Sith have lured outlaw Admiral Gar Stazi into a trap to destroy the Alliance once and for all. Yet Stazi is no fool-he may have agreed to play the Sith's game, but not with the cards they expect! Meanwhile, forces loyal to the deposed Emperor Roan Fel wait on the sidelines. Are they here to help, to hurt, or simply make off with whatever's left when the dust settles?",
+  "synopsis": "The conclusion of a shocking two-part tale pitting the Sith Empire against the Galactic Alliance in an all-out space battle! The Sith have lured outlaw Admiral Gar Stazi into a trap to destroy the Alliance once and for all. Yet Stazi is no fool-he may have agreed to play the Sith's game, but not with the cards they expect! Meanwhile, forces loyal to the deposed Emperor Roan Fel wait on the sidelines. Are they here to help, to hurt, or simply make off with whatever's left when the dust settles? Stazi springs the Empire's trap!",
   "title": "Legacy #21: Indomitable, Part 2"
 }

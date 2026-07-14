@@ -5,6 +5,40 @@
       "name": "Scott Allie",
       "role": "writer",
       "slug": "scott-allie"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "letterer",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Ryan Benjamin",
+      "role": "penciler",
+      "slug": "ryan-benjamin"
+    },
+    {
+      "name": "Curtis P. Arnold",
+      "role": "inker",
+      "slug": "curtis-p-arnold"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Lani Schreibstein",
+      "slug": "lani-schreibstein"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "coverArtist",
+      "slug": "brian-horton"
     }
   ],
   "displayTitle": "Empire #03: Betrayal, Part 3",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-03-betrayal-part-3",
-  "synopsis": "In part three of \"Betrayal,\" Darth Vader has landed on a distant world to track down a mysterious Jedi. But, instead of a Jedi Knight, he is confronted by a cadre of bounty hunters who have come to the conclusion that ganging up on&mdash;and defeating&mdash;the Sith Lord will bring them fame and fortune. Boy, are they in for a wake-up call! Meanwhile, on Coruscant, the ranks of those plotting to kill Emperor Palpatine are thinned as the co-conspirators begin targeting each other.",
+  "synopsis": "In part three of \"Betrayal,\" Darth Vader has landed on a distant world to track down a mysterious Jedi. But, instead of a Jedi Knight, he is confronted by a cadre of bounty hunters who have come to the conclusion that ganging up on -- and defeating -- the Sith Lord will bring them fame and fortune. Boy, are they in for a wake-up call! Meanwhile, on Coruscant, the ranks of those plotting to kill Emperor Palpatine are thinned as the co-conspirators begin targeting each other.",
   "title": "Empire #03: Betrayal, Part 3"
 }

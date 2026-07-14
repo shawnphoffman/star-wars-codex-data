@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780345511362"
+    },
+    {
+      "type": "isbn13",
       "value": "9781101885260"
     }
   ],
@@ -23,11 +27,19 @@
     {
       "extent": 341,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345511362",
+      "kind": "print",
+      "onsale": "2016-05-03T00:00:00.000Z"
+    },
+    {
+      "extent": 432,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1101885262",
       "isbn13": "9781101885260",
       "kind": "print",
-      "onsale": "2016-05-03T00:00:00.000Z"
+      "onsale": "2017-01-31T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -39,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "bloodline",
-  "synopsis": "Leia Organa knows she’s the daughter of Darth Vader, but most of the rest of the galaxy doesn’t … until now. Her hopes of winning the New Republic’s First Senator seat are crushed further when an even darker threat casts a shadow over the government’s future.",
+  "synopsis": "Leia Organa knows she's the daughter of Darth Vader, but most of the rest of the galaxy doesn't … until now. Her hopes of winning the New Republic's First Senator seat are crushed further when an even darker threat casts a shadow over the government's future.",
   "title": "Bloodline"
 }

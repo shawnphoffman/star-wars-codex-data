@@ -11,6 +11,10 @@
   "displayTitle": "Eyes Like Stars",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0736448586"
+    },
+    {
       "type": "isbn13",
       "value": "9780736448581"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 352,
-      "imprint": "Random House Worlds",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "0736448586",
       "isbn13": "9780736448581",
       "kind": "print",
       "onsale": "2026-07-21T00:00:00.000Z"

@@ -9,6 +9,34 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Pirates from Beyond the Sea",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101484"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101486"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 83,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101484",
+      "kind": "print",
+      "onsale": "2000-07-01T00:00:00.000Z"
+    },
+    {
+      "extent": 83,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439101486",
+      "kind": "print",
+      "onsale": "2000-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

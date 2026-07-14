@@ -5,6 +5,21 @@
       "name": "Ethan Sacks",
       "role": "writer",
       "slug": "ethan-sacks"
+    },
+    {
+      "name": "Marc Yarza",
+      "role": "penciler",
+      "slug": "marc-yarza"
+    },
+    {
+      "name": "Jose Marzan Jr.",
+      "role": "inker",
+      "slug": "jose-marzan-jr"
+    },
+    {
+      "name": "Diego Galindo",
+      "role": "coverArtist",
+      "slug": "diego-galindo"
     }
   ],
   "displayTitle": "Hyperspace Stories: Codebreaker #01",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-codebreaker",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-04-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-codebreaker-01",
-  "synopsis": "Issue 1 of 4 from the Dark Horse Comics Hyperspace Stories Codebrecker miniseries\nPoe Dameron, ace Resistance pilot, and his droid companion BB-8 are sent to investigate a piece of First Order tech used to decode Resistance messages. Standing between them and their objective is an infamous TIE fighter pilot. Can Poe out-fly his enemy, or will the mission go down in flames before it begins?\nPoe and BB-8 are back for an all-new adventure!\nCelebrate the 10-year anniversary of The Force Awakens!",
+  "synopsis": "Poe Dameron, ace Resistance pilot, and his droid companion BB-8 are sent to investigate a piece of First Order tech used to decode Resistance messages. Standing between them and their objective is an infamous TIE fighter pilot. Can Poe out-fly his enemy, or will the mission go down in flames before it begins? • Poe and BB-8 are back for an all-new adventure! • Celebrate the 10-year anniversary of The Force Awakens! • Four issue series.",
   "title": "Hyperspace Stories: Codebreaker #01"
 }

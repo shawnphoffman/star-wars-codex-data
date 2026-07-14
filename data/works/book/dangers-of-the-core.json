@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Dangers of the Core",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375800026"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0375800026",
+      "kind": "print",
+      "onsale": "1999-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
   },
-  "releaseDate": "1999-05-11T00:00:00.000Z",
+  "releaseDate": "1999-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dangers-of-the-core",

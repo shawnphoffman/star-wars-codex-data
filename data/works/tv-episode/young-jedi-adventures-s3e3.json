@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Ghia Godfree",
+      "role": "writer",
+      "slug": "ghia-godfree"
+    }
+  ],
   "displayTitle": "Music Mayhem",
   "era": "highRepublic",
   "format": "tvEpisode",

@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-03-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-cry-of-shadows-4",
-  "synopsis": "Fighting at the side of Darth Vader in an air attack against a group of inspired, cause-driven Separatists, stormtrooper Hock has an opportunity to show his value. When he is captured, learning of the enemy's cause&mdash;and who they're working with&mdash;only reinforces Hock's belief in the Galactic Empire.",
+  "synopsis": "Fighting at the side of Darth Vader in an air attack against a group of inspired, cause-driven Separatists, stormtrooper Hock has an opportunity to show his value. When he is captured, learning of the enemy’s cause—and who they’re working with—only reinforces Hock’s belief in the Galactic Empire. * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds!",
   "title": "Darth Vader and the Cry of Shadows #4"
 }

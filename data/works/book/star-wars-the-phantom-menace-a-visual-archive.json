@@ -1,0 +1,51 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    },
+    {
+      "name": "Kelly Knox",
+      "role": "writer",
+      "slug": "kelly-knox"
+    },
+    {
+      "name": "Amy Richau",
+      "role": "writer",
+      "slug": "amy-richau"
+    },
+    {
+      "name": "Clayton Sandell",
+      "role": "writer",
+      "slug": "clayton-sandell"
+    }
+  ],
+  "displayTitle": "The Phantom Menace: A Visual Archive",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886636307"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 292,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798886636307",
+      "kind": "print",
+      "onsale": "2026-09-29T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-09-29T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-the-phantom-menace-a-visual-archive",
+  "title": "Star Wars: The Phantom Menace: A Visual Archive"
+}

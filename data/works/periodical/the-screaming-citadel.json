@@ -25,6 +25,66 @@
       "name": "Salvador Larroca",
       "role": "artist",
       "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "penciler",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "penciler",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "inker",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "inker",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Antonio Fabela",
+      "role": "colorist",
+      "slug": "antonio-fabela"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
     }
   ],
   "displayTitle": "The Screaming Citadel",

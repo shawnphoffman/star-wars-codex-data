@@ -11,11 +11,23 @@
   "displayTitle": "Jedi Quest: The Shadow Trap",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339227"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339223"
     }
   ],
   "editions": [
+    {
+      "extent": 125,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439339227",
+      "kind": "print",
+      "onsale": "2003-05-01T00:00:00.000Z"
+    },
     {
       "extent": 125,
       "imprint": "Scholastic",

@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9781368008938"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405279949"
     }
   ],
   "editions": [
@@ -39,6 +43,14 @@
       "isbn13": "9781368008938",
       "kind": "print",
       "onsale": "2017-01-03T00:00:00.000Z"
+    },
+    {
+      "extent": 160,
+      "imprint": "Egmont UK Ltd *Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781405279949",
+      "kind": "print",
+      "onsale": "2016-02-25T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -46,10 +58,10 @@
   "inUniverseDate": {
     "startYear": -18
   },
-  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDate": "2016-02-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-nest-book-2",
-  "synopsis": "A long time ago, in a galaxy far, far away...When the parents of Milo and Lina Graf are abducted by agents of the evil Empire, the children must undertake a perilous journey across the unknown reaches of wild space to rescue them - and to discover hope for the future. In this second full-length adventure, Milo and Lina trace their latest clue to a remote jungle world - where a terrifying beast lies in wait...",
+  "synopsis": "Milo and Lina Graf travel to a jungle world, still searching for their parents and not knowing what waits for them at their next destination.",
   "title": "Adventures in Wild Space: The Nest"
 }

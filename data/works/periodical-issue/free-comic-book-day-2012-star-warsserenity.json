@@ -1,0 +1,52 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Zack Whedon",
+      "role": "writer",
+      "slug": "zack-whedon"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Fabio Moon",
+      "role": "penciler",
+      "slug": "fabio-moon"
+    },
+    {
+      "name": "Fabio Moon",
+      "role": "inker",
+      "slug": "fabio-moon"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Daniel Dos Santos",
+      "role": "coverArtist",
+      "slug": "daniel-dos-santos"
+    }
+  ],
+  "displayTitle": "Free Comic Book Day 2012: Star Wars/Serenity",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "free-comic-book-day-2012-star-warsserenity",
+  "synopsis": "Han Solo and Chewbacca have a falling-out after a deal with a shady customer goes bad. When the client gets designs on the Millennium Falcon, Han and Chewie present a united front that can’t be beat! “Mal” Reynolds, captain of the outlaw vessel Serenity, is no stranger to jobs gone wrong. But when the chips are down, he’s able to rely on an amazing, odd, and diversely talented crew for help!",
+  "title": "Free Comic Book Day 2012: Star Wars/Serenity"
+}

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 1: Assault on Yavin Four",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590127934"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 74,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590127934",
+      "kind": "print",
+      "onsale": "1997-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

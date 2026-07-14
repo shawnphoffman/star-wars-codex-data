@@ -10,6 +10,31 @@
       "name": "Megan Huang",
       "role": "artist",
       "slug": "megan-huang"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "colorist",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "coverArtist",
+      "slug": "tom-fowler"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "penciler",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "Hyperspace Stories #11",
@@ -20,12 +45,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2023-11-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-1",
-  "synopsis": "Issue 11 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series",
+  "synopsis": "Jedi masters Yoda and Mace WIndu escort a Republic delegation to an archaeological dig, rumored to be the site of a cache of ancient Jedi artifacts. But the lure of the Force is strong, and it's not long before the party comes under attack by marauders intent on taking the relics for themselves, even if they have to go through two Jedi to do it!",
   "title": "Hyperspace Stories #11"
 }

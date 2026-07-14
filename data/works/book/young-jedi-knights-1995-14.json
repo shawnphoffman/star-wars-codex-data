@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Crisis at Crystal Reef",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0425165191"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 215,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "0425165191",
+      "kind": "print",
+      "onsale": "1998-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

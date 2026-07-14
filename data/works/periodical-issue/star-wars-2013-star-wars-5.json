@@ -1,0 +1,68 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Rodolfo Migliari",
+      "role": "coverArtist",
+      "slug": "rodolfo-migliari"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "penciler",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "inker",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "colorist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "coverArtist",
+      "slug": "john-cassaday"
+    }
+  ],
+  "displayTitle": "Star Wars #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-05-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-5",
+  "synopsis": "When Princess Leia is caught between two squadrons of TIE fighters, her undercover scouting may be at an end. But Luke Skywalker is doing his best to disobey Leia’s own orders, and to once again save the princess. Time is short and the Empire is closing in! “Brian Wood and Carlos D'Anda truly have the making of a classic on their hands. If you ever wondered if Star Wars could ever recapture that childlike glee of those earliest of memories, wonder no more. Star Wars is back and it's never been better.” —Newsarama",
+  "title": "Star Wars #5"
+}

@@ -11,6 +11,10 @@
   "displayTitle": "Droids Everywhere!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439101697"
+    },
+    {
       "type": "isbn13",
       "value": "9780439101691"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439101697",
       "isbn13": "9780439101691",
       "kind": "print",
       "onsale": "2000-09-01T00:00:00.000Z"

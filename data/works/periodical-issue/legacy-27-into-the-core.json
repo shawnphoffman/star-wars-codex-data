@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "coverArtist",
+      "slug": "omar-francia"
     }
   ],
   "displayTitle": "Legacy #27: Into the Core",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-08-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-27-into-the-core",
-  "synopsis": "Darth Wyyrlok is the master of Sith lore and magic in Darth Krayt's Sith order. He has also been Krayt's confidant, spokesman, and friend. Now, seeing the further deterioration of his Master from the ravages of the Yuuzhan Vong bioforms, Wyyrlok attempts a dangerous journey into the Deep Core worlds to the birthplace of Lord Andeddu, an ancient Sith Lord, seeking to discover any secrets that might save Darth Krayt. Penetrating the Deep Core, however, is always hazardous and Wyyrlok must call upon his own core&mdash;his strength, skills, and beliefs&mdash;to simply survive.",
+  "synopsis": "Darth Wyyrlok is the master of Sith lore and magic in Darth Krayt's Sith order. He has also been Krayt's confidant, spokesman, and friend. Now, seeing the further deterioration of his Master from the ravages of the Yuuzhan Vong bioforms, Wyyrlok attempts a dangerous journey into the Deep Core worlds to the birthplace of Lord Andeddu, an ancient Sith Lord, seeking to discover any secrets that might save Darth Krayt. Penetrating the Deep Core, however, is always hazardous and Wyyrlok must call upon his own core--his strength, skills, and beliefs--to simply survive.",
   "title": "Legacy #27: Into the Core"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Danger on Naboo",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101506"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 73,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101506",
+      "kind": "print",
+      "onsale": "2000-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

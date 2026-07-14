@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "The Story of the Faithful Wookiee (Little Golden Book)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736442633"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn13": "9780736442633",
+      "kind": "print",
+      "onsale": "2022-01-04T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

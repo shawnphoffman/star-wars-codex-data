@@ -6,13 +6,50 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Wayne Nichols",
+      "role": "penciler",
+      "slug": "wayne-nichols"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "The Force Unleashed Graphic Novel",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1593078919"
+    },
+    {
       "type": "isbn13",
       "value": "9781593078911"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "1593078919",
+      "isbn13": "9781593078911",
+      "kind": "print"
     }
   ],
   "era": "ageOfRebellion",

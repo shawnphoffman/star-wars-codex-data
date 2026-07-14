@@ -5,6 +5,41 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "penciler",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
     }
   ],
   "displayTitle": "Dark Times #13: Blue Harvest, Part 1",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-13-blue-harvest-part-1",
-  "synopsis": "Picking up where the two-part story on Myspace/DarkHorsePresents leaves off, Dass Jennir begins his first job since the destruction of the Jedi Order only to discover that the job description he was given is not entirely accurate. Facing great odds is all in a day's work for a Jedi, but Jennir isn't a Jedi anymore and his lightsaber must stay hidden. Meanwhile, Darth Vader returns to Coruscant and must face his master - and fallout from the events in the \"Vector\" crossover!",
+  "synopsis": "Picking up where the two-part story on Myspace/DarkHorsePresents leaves off, Dass Jennir begins his first job since the destruction of the Jedi Order only to discover that the job description he was given is not entirely accurate. Facing great odds is all in a day's work for a Jedi, but Jennir isn't a Jedi anymore and his lightsaber must stay hidden. Meanwhile, Darth Vader returns to Coruscant and must face his master-and fallout from the events in the \"Vector\" crossover! * What you may not know: To protect his sets from unwanted intruders, George Lucas gave the fake tile Blue Harvest to his production of Return of the Jedi. Dark Times Returns!",
   "title": "Dark Times #13: Blue Harvest, Part 1"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 20: Total Destruction",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590847775"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 77,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590847775",
+      "kind": "print",
+      "onsale": "1999-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

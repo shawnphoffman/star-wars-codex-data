@@ -11,16 +11,47 @@
       "name": "Yusaku Komiyama",
       "role": "artist",
       "slug": "yusaku-komiyama"
+    },
+    {
+      "name": "Yusaku Komiyama",
+      "role": "writer",
+      "slug": "yusaku-komiyama"
+    },
+    {
+      "name": "Yusaku Komiyama",
+      "role": "penciler",
+      "slug": "yusaku-komiyama"
+    },
+    {
+      "name": "Abigail Blackman",
+      "role": "letterer",
+      "slug": "abigail-blackman"
     }
   ],
   "displayTitle": "Lost Stars: Vol. 1 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781975326531"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Line Corporation *Yen Press *Panini Verlag",
+      "isPrimary": true,
+      "isbn13": "9781975326531",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "endYear": 3,
     "startYear": -11
   },
-  "releaseDate": "2018-05-05T00:00:00.000Z",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-stars-volume-1",

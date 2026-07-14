@@ -11,9 +11,30 @@
       "name": "Grant Griffin",
       "role": "artist",
       "slug": "grant-griffin"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
     }
   ],
   "displayTitle": "Life Day Treasury",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368070881"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368070881",
+      "kind": "print",
+      "onsale": "2021-09-07T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "releaseDate": "2021-09-07T00:00:00.000Z",
   "releaseDisplayState": "released",

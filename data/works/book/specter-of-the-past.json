@@ -9,12 +9,26 @@
     }
   ],
   "displayTitle": "Specter of the Past",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553095425"
+    }
+  ],
   "editions": [
     {
       "extent": 393,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "kind": "print"
+    },
+    {
+      "extent": 352,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn13": "9780553095425",
+      "kind": "print",
+      "onsale": "1997-11-01T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -22,7 +36,7 @@
   "inUniverseDate": {
     "startYear": 19
   },
-  "releaseDate": "1997-11-03T00:00:00.000Z",
+  "releaseDate": "1997-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "specter-of-the-past",

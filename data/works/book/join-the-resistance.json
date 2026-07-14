@@ -21,6 +21,18 @@
   "displayTitle": "Join the Resistance",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B01LYNHOYE"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484706072"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704844"
+    },
+    {
       "type": "isbn13",
       "value": "9781484706077"
     }
@@ -28,8 +40,18 @@
   "editions": [
     {
       "extent": 224,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484704844",
+      "kind": "print",
+      "onsale": "2017-03-07T00:00:00.000Z"
+    },
+    {
+      "asin": "B01LYNHOYE",
+      "extent": 224,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1484706072",
       "isbn13": "9781484706077",
       "kind": "print",
       "onsale": "2017-03-07T00:00:00.000Z"
@@ -44,6 +66,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "join-the-resistance",
-  "synopsis": "A squadron of Resistance fighter pilots must learn to work together if they’re going to help defeat the First Order.",
+  "synopsis": "A squadron of Resistance fighter pilots must learn to work together if they're going to help defeat the First Order.",
   "title": "Join the Resistance"
 }

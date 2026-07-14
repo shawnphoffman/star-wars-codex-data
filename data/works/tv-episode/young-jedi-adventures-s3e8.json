@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Greg Iwinski",
+      "role": "writer",
+      "slug": "greg-iwinski"
+    }
+  ],
   "displayTitle": "Bell and the Band",
   "era": "highRepublic",
   "format": "tvEpisode",

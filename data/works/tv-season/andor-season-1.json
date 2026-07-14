@@ -1,5 +1,72 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "David Girvan",
+      "role": "writer",
+      "slug": "david-girvan"
+    },
+    {
+      "name": "Nicholas Britell",
+      "role": "composer",
+      "slug": "nicholas-britell"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Diego Luna",
+      "role": "producer",
+      "slug": "diego-luna"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Sanne Wohlenberg",
+      "role": "producer",
+      "slug": "sanne-wohlenberg"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    },
+    {
+      "name": "Toby Haynes",
+      "role": "director",
+      "slug": "toby-haynes"
+    },
+    {
+      "name": "Susanna White",
+      "role": "director",
+      "slug": "susanna-white"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "director",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Dan Gilroy",
+      "role": "writer",
+      "slug": "dan-gilroy"
+    },
+    {
+      "name": "Stephen Schiff",
+      "role": "writer",
+      "slug": "stephen-schiff"
+    },
+    {
+      "name": "Beau Willimon",
+      "role": "writer",
+      "slug": "beau-willimon"
+    }
+  ],
   "displayTitle": "Andor Season 1",
   "era": "reignOfTheEmpire",
   "format": "tvSeason",

@@ -10,6 +10,36 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Annalisa Leoni",
+      "role": "colorist",
+      "slug": "annalisa-leoni"
     }
   ],
   "displayTitle": "The High Republic (2021) #06",

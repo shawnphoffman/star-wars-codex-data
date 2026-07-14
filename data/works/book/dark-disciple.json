@@ -6,10 +6,22 @@
       "name": "Christie Golden",
       "role": "writer",
       "slug": "christie-golden"
+    },
+    {
+      "name": "Katie Lucas",
+      "slug": "katie-lucas"
     }
   ],
   "displayTitle": "Dark Disciple",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593873297"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511539"
+    },
     {
       "type": "isbn13",
       "value": "9780593873298"
@@ -19,10 +31,19 @@
     {
       "extent": 336,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593873298",
+      "isPrimary": false,
+      "isbn13": "9780345511539",
       "kind": "print",
       "onsale": "2015-07-07T00:00:00.000Z"
+    },
+    {
+      "extent": 384,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593873297",
+      "isbn13": "9780593873298",
+      "kind": "print",
+      "onsale": "2024-06-18T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
@@ -34,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-disciple",
-  "synopsis": "The Jedi have a plan to end the Clone Wars once and for all. It’s going to require teaming up with an unlikely ally, however. Quinlan Vos must go undercover to team up with Asajj Ventress to get close to Count Dooku, despite the dangers he faces flirting with the dark side of the Force.",
+  "synopsis": "The Jedi have a plan to end the Clone Wars once and for all. It's going to require teaming up with an unlikely ally, however. Quinlan Vos must go undercover to team up with Asajj Ventress to get close to Count Dooku, despite the dangers he faces flirting with the dark side of the Force.",
   "title": "Dark Disciple"
 }

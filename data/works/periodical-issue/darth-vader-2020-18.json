@@ -10,6 +10,41 @@
       "name": "Raffaele Ienco",
       "role": "artist",
       "slug": "raffaele-ienco"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "inker",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Aaron Kuder",
+      "role": "coverArtist",
+      "slug": "aaron-kuder"
+    },
+    {
+      "name": "Richard Isanove",
+      "role": "coverArtist",
+      "slug": "richard-isanove"
+    },
+    {
+      "name": "Alex Sinclair",
+      "role": "colorist",
+      "slug": "alex-sinclair"
     }
   ],
   "displayTitle": "Darth Vader (2020) #18",

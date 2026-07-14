@@ -11,6 +11,10 @@
   "displayTitle": "The Last Jedi: Bomber Command",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0794440843"
+    },
+    {
       "type": "isbn13",
       "value": "9780794440848"
     }
@@ -20,6 +24,7 @@
       "extent": 96,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "0794440843",
       "isbn13": "9780794440848",
       "kind": "print",
       "onsale": "2017-12-15T00:00:00.000Z"

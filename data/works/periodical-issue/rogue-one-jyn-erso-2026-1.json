@@ -1,0 +1,54 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Laura Martin",
+      "role": "coverArtist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Rogue One: Jyn Erso (2026) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "rogue-one-jyn-erso",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "rogue-one-jyn-erso-2026-1",
+  "title": "Rogue One: Jyn Erso (2026) #1"
+}

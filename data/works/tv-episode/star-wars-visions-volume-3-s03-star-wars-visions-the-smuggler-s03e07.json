@@ -1,9 +1,14 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Masahiko Otsuka",
       "role": "director",
+      "slug": "masahiko-otsuka"
+    },
+    {
+      "name": "Masahiko Otsuka",
+      "role": "writer",
       "slug": "masahiko-otsuka"
     }
   ],

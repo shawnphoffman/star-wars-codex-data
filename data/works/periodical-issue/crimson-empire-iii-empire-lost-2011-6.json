@@ -5,6 +5,41 @@
       "name": "Mike Richardson",
       "role": "writer",
       "slug": "mike-richardson"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "inker",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Bartolo",
+      "role": "colorist",
+      "slug": "michael-bartolo"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "artist",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire III: Empire Lost #6",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-04-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-iii-empire-lost-2011-6",
-  "synopsis": "It's the final showdown between Admiral Pellaeon's Imperial forces and those of his hardliner adversaries, with the New Republic joining in the fray! The outcome could mean peace, or extended war for the galaxy. But will either alternative matter for the last surviving member of Emperor Palpatine's Royal Guard? Kir Kanos is a man on the edge, a man without a past, and only questions for the future!",
+  "synopsis": "It’s the final showdown between Admiral Pellaeon’s Imperial forces and those of his hardliner adversaries, with the New Republic joining in the fray! The outcome could mean peace—or extended war for the galaxy. But will either alternative matter for the last surviving member of Emperor Palpatine’s Royal Guard? Kir Kanos is a man on the edge—a man without a past, and only questions for the future! “There's a reason this series is loved so much and it's because it's pretty damn good.” —Comic Bastards",
   "title": "Crimson Empire III: Empire Lost #6"
 }

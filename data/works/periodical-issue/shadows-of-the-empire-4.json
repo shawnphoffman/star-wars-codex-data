@@ -5,6 +5,40 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "letterer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Shadows of the Empire #4",
@@ -17,7 +51,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-08-07T00:00:00.000Z",
+  "releaseDate": "1996-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-4",

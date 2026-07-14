@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Katie Kaniewski",
+      "role": "writer",
+      "slug": "katie-kaniewski"
+    }
+  ],
   "displayTitle": "Visitor's Day",
   "era": "highRepublic",
   "format": "tvEpisode",

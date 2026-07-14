@@ -40,6 +40,61 @@
       "name": "J.J. Abrams",
       "role": "director",
       "slug": "j-j-abrams"
+    },
+    {
+      "name": "Tommy Harper",
+      "role": "producer",
+      "slug": "tommy-harper"
+    },
+    {
+      "name": "Jason McGatlin",
+      "role": "producer",
+      "slug": "jason-mcgatlin"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "producer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "Simon Kinberg",
+      "role": "producer",
+      "slug": "simon-kinberg"
+    },
+    {
+      "name": "Pippa Anderson",
+      "role": "producer",
+      "slug": "pippa-anderson"
+    },
+    {
+      "name": "Tommy Gormley",
+      "role": "producer",
+      "slug": "tommy-gormley"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    },
+    {
+      "name": "Ben Rosenblatt",
+      "role": "producer",
+      "slug": "ben-rosenblatt"
+    },
+    {
+      "name": "Susan Towner",
+      "role": "producer",
+      "slug": "susan-towner"
+    },
+    {
+      "name": "Michael Arndt",
+      "role": "producer",
+      "slug": "michael-arndt"
+    },
+    {
+      "name": "Leifur B. Dagfinnsson",
+      "role": "producer",
+      "slug": "leifur-b-dagfinnsson"
     }
   ],
   "displayTitle": "Episode VII: The Force Awakens",
@@ -57,6 +112,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-7",
-  "synopsis": "The First Order is seizing more control over the galaxy, and the Resistance is doing its best to stop it. Kylo Ren may think he has everything under control, but a new threat, a girl from the planet Jakku, is about to derail his plans for the future.",
+  "synopsis": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
   "title": "Episode VII: The Force Awakens"
 }

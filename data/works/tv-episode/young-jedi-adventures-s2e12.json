@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Christian Streaty",
+      "role": "writer",
+      "slug": "christian-streaty"
+    }
+  ],
   "displayTitle": "Uprooted",
   "era": "highRepublic",
   "format": "tvEpisode",

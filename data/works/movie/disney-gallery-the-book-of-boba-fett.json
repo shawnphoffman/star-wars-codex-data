@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bradford Baruh",
+      "role": "director",
+      "slug": "bradford-baruh"
+    },
+    {
+      "name": "Meghan Leon",
+      "role": "writer",
+      "slug": "meghan-leon"
+    },
+    {
+      "name": "Jacqui Lopez",
+      "role": "producer",
+      "slug": "jacqui-lopez"
+    }
+  ],
+  "displayTitle": "Disney Gallery: The Book of Boba Fett",
+  "format": "movie",
+  "movie": {
+    "movieType": "other",
+    "runtimeMinutes": 1
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "disney-gallery-the-book-of-boba-fett",
+  "title": "Disney Gallery: The Book of Boba Fett"
+}

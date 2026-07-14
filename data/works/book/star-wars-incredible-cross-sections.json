@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "Incredible Cross Sections",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781465455529"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "isbn13": "9781465455529",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1998-10-22T00:00:00.000Z",
+  "releaseDate": "2017-12-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-incredible-cross-sections",

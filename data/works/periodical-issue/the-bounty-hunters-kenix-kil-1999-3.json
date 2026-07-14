@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Javier Saltares",
+      "role": "penciler",
+      "slug": "javier-saltares"
+    },
+    {
+      "name": "Chris Ivy",
+      "role": "inker",
+      "slug": "chris-ivy"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Kenix Kil (1999) #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-bounty-hunters-kenix-kil-1999-3",
+  "title": "The Bounty Hunters: Kenix Kil (1999) #3"
+}

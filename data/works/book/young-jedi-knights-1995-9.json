@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Delusions of Grandeur",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1572972726"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 228,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "1572972726",
+      "kind": "print",
+      "onsale": "1997-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

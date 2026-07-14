@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    },
+    {
+      "name": "Carlos Ezquerra",
+      "role": "inker",
+      "slug": "carlos-ezquerra"
+    },
+    {
+      "name": "Carlos Ezquerra",
+      "role": "penciler",
+      "slug": "carlos-ezquerra"
+    }
+  ],
+  "displayTitle": "Boba Fett 1/2 (1997) #12",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "boba-fett-12-1997-12",
+  "title": "Boba Fett 1/2 (1997) #12"
+}

@@ -10,6 +10,26 @@
       "name": "Bob Layton",
       "role": "writer",
       "slug": "bob-layton"
+    },
+    {
+      "name": "Bob Layton",
+      "role": "inker",
+      "slug": "bob-layton"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
+    },
+    {
+      "name": "Luke Mcdonnell",
+      "role": "penciler",
+      "slug": "luke-mcdonnell"
     }
   ],
   "displayTitle": "Star Wars (1977) #78: Hoth Stuff!",

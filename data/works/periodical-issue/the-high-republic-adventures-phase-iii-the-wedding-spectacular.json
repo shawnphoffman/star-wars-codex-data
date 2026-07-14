@@ -20,6 +20,86 @@
       "name": "Nick Brokenshire",
       "role": "artist",
       "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Caìo Filipe",
+      "role": "penciler",
+      "slug": "caio-filipe"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "penciler",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Jo Mi-Gyeong",
+      "role": "penciler",
+      "slug": "jo-mi-gyeong"
+    },
+    {
+      "name": "Toni Bruno",
+      "role": "penciler",
+      "slug": "toni-bruno"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "penciler",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "penciler",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "penciler",
+      "slug": "elisa-romboli"
+    },
+    {
+      "name": "Vladimir Popov",
+      "role": "colorist",
+      "slug": "vladimir-popov"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Cherriielle",
+      "role": "coverArtist",
+      "slug": "cherriielle"
+    },
+    {
+      "name": "5healthMONO",
+      "role": "coverArtist",
+      "slug": "5healthmono"
     }
   ],
   "displayTitle": "The High Republic Adventures Phase III: The Wedding Spectacular",
@@ -30,12 +110,13 @@
   },
   "parentWorkSlug": "the-high-republic-adventures-phase-iii-the-wedding-spectacular-2",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2024-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-phase-iii-the-wedding-spectacular",
-  "synopsis": "**Save the Date!**\n\nGuests from across the galaxy are arriving on Eriadu to witness Lula Talisola and Zeen Mrala, the young freedom fighters who are championing the resistance against the Nihil, join hands in marriage. Friends and family from throughout the High Republic will be joining in the celebration of light, life, and love. You won't want to miss it, so RSVP soon! Just know that the dress code calls for ball gowns as well as blaster rifles because war could break out at any moment!\n\nFeaturing a slate of all-star artists, including Harvey Tolibao, Cherriielle, 5healthMONO, Priscilla Bampoh, and more! An iconic High Republic Adventures moment years in the making, you won't want to miss it!",
+  "synopsis": "Save the date! Guests from across the galaxy are arriving on Eriadu to witness Lula Talisola and Zeen Mrala, the young freedom fighters who are championing the resistance against the Nihil, join hands in marriage. Friends and family from throughout the High Republic will be joining in the celebration of light, life, and love. You won’t want to miss it, so RSVP soon! Just know that the dress code calls for ball gowns as well as blaster rifles because war could break out at any moment! • Featuring a slate of all-star artists, including Harvey Tolibao, Cherriielle, 5healthMONO, Priscilla Bampoh, and more! • An iconic High Republic Adventures moment years in the making—you won’t want to miss it!",
   "title": "The High Republic Adventures Phase III: The Wedding Spectacular"
 }

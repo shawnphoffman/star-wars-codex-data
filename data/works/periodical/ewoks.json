@@ -1,16 +1,38 @@
 {
-  "canonStatus": "canon",
-  "displayTitle": "Ewoks",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    },
+    {
+      "name": "Warren Kremer",
+      "role": "penciler",
+      "slug": "warren-kremer"
+    },
+    {
+      "name": "Grace Kremer",
+      "role": "letterer",
+      "slug": "grace-kremer"
+    },
+    {
+      "name": "Warren Kremer",
+      "role": "coverArtist",
+      "slug": "warren-kremer"
+    }
+  ],
+  "displayTitle": "Ewoks (1985)",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
-    "imprint": "Marvel Comics",
+    "imprint": "Star Comics",
     "publicationKind": "comic"
   },
-  "releaseDate": "2024-10-09T00:00:00.000Z",
+  "releaseDate": "1985-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ewoks",
-  "synopsis": "Celebrating the 40th anniversary of Caravan of Courage, the Ewoks return in an all-new miniseries set after the events of Return of the Jedi!",
-  "title": "Ewoks"
+  "synopsis": "The all-ages Marvel/Star Comics series based on the animated Ewoks television show. Set on the forest moon of Endor before Return of the Jedi, it follows Wicket W. Warrick, Princess Kneesaa, and the Ewoks of Bright Tree Village across fourteen issues of adventures against the dangers of the forest. (Star Comics, 1985-1987.)",
+  "title": "Ewoks (1985)"
 }

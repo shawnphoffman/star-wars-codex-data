@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Galaxy of Fear: Clones",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553486411"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553486411",
+      "kind": "print",
+      "onsale": "1998-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

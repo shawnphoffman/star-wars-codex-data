@@ -8,7 +8,23 @@
       "slug": "daniel-wallace"
     }
   ],
-  "displayTitle": "Star Wars Rebels: Rebel Journal by Ezra Bridger",
+  "displayTitle": "Rebels: Rebel Journal by Ezra Bridger",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794432683"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn13": "9780794432683",
+      "kind": "print",
+      "onsale": "2014-10-21T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

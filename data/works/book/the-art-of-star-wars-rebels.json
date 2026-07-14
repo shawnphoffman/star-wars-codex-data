@@ -1,0 +1,43 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Rebels",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506710914"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "isbn13": "9781506710914",
+      "kind": "print",
+      "onsale": "2020-04-24T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-04-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-rebels",
+  "synopsis": "The Art of Star Wars Rebels is a book of concept art and process pieces from the animated television series Star Wars Rebels. The book was written by Daniel Wallace, with a foreword by Rebels co-creator Dave Filoni, and it was published on April 24, 2020 by Dark Horse Books.",
+  "title": "The Art of Star Wars Rebels"
+}

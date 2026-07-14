@@ -9,11 +9,27 @@
     },
     {
       "name": "Subaru",
-      "role": "artist",
+      "role": "penciler",
       "slug": "subaru"
     }
   ],
   "displayTitle": "Guardians of the Whills: The Manga",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781974719327"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 196,
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn13": "9781974719327",
+      "kind": "print",
+      "onsale": "2021-08-10T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

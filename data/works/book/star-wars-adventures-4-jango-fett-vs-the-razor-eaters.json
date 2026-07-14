@@ -11,15 +11,44 @@
   "displayTitle": "Episode II Adventures 4: Jango Fett vs. the Razor Eaters",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439101417"
+    },
+    {
+      "type": "isbn10",
+      "value": "0439458838"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101417"
+    },
+    {
       "type": "isbn13",
       "value": "9780439458832"
     }
   ],
   "editions": [
     {
+      "extent": 92,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439101417",
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
+    },
+    {
+      "extent": 92,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439101417",
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
+    },
+    {
       "extent": 86,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439458838",
       "isbn13": "9780439458832",
       "kind": "print",
       "onsale": "2003-01-01T00:00:00.000Z"
@@ -30,7 +59,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "2003-01-01T00:00:00.000Z",
+  "releaseDate": "1999-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-4-jango-fett-vs-the-razor-eaters",

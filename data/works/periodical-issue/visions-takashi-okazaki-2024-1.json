@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "colorist",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "inker",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "penciler",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "writer",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
+    }
+  ],
+  "displayTitle": "Visions: Takashi Okazaki (2024) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "visions-takashi-okazaki-2024-1",
+  "title": "Visions: Takashi Okazaki (2024) #1"
+}

@@ -1,5 +1,86 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Makoto Nakatsuka",
+      "role": "inker",
+      "slug": "makoto-nakatsuka"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Jimmy Palmiotti",
+      "role": "inker",
+      "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "John McCrea",
+      "role": "penciler",
+      "slug": "john-mccrea"
+    },
+    {
+      "name": "Rick Zombo",
+      "role": "penciler",
+      "slug": "rick-zombo"
+    },
+    {
+      "name": "Giulia Brusco",
+      "role": "colorist",
+      "slug": "giulia-brusco"
+    },
+    {
+      "name": "Guy Major",
+      "role": "colorist",
+      "slug": "guy-major"
+    },
+    {
+      "name": "Dan Brown",
+      "role": "colorist",
+      "slug": "dan-brown"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Brett Matthews",
+      "role": "writer",
+      "slug": "brett-matthews"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "C.B. Cebulski",
+      "role": "writer",
+      "slug": "cb-cebulski"
+    },
+    {
+      "name": "Makoto Nakatsuka",
+      "role": "penciler",
+      "slug": "makoto-nakatsuka"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Lia Ribacchi",
+      "slug": "lia-ribacchi"
+    },
+    {
+      "name": "John McCrea",
+      "role": "coverArtist",
+      "slug": "john-mccrea"
+    }
+  ],
   "displayTitle": "Tales #12",
   "era": "multiEra",
   "format": "periodicalIssue",

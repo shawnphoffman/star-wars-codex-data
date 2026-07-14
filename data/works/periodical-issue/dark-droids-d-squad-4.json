@@ -10,6 +10,41 @@
       "name": "Salva Espín",
       "role": "artist",
       "slug": "salva-espin"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Peter M. Woods",
+      "role": "coverArtist",
+      "slug": "peter-m-woods"
+    },
+    {
+      "name": "Pete Woods",
+      "role": "coverArtist",
+      "slug": "pete-woods"
+    },
+    {
+      "name": "Vc Joe Sabino",
+      "role": "letterer",
+      "slug": "vc-joe-sabino"
+    },
+    {
+      "name": "Israel Silva",
+      "role": "colorist",
+      "slug": "israel-silva"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "inker",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "penciler",
+      "slug": "salva-espin"
     }
   ],
   "displayTitle": "Dark Droids: D-Squad #4",

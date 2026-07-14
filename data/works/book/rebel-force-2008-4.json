@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Firefight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545140846"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 153,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545140846",
+      "kind": "print",
+      "onsale": "2009-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

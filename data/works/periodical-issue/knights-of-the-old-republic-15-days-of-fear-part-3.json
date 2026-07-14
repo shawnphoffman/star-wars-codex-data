@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "artist",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "coverArtist",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #15: Days of Fear, Part 3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-04-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-15-days-of-fear-part-3",
-  "synopsis": "The \"Days of Fear\" story arc reaches its explosive conclusion in a story of dangerous visions, unheeded warnings, and decisions made too late! Fugitive Padawan Zayne Carrick faces his darkest moments so far as a desperate attempt to avert a cataclysmic disaster drives him into the arms of his enemies. Zayne puts his life on the line in an attempt to save those who don't even realize the grave fate they face, but will his sacrifice be in vain? Meanwhile, the small-time con Gryph has happened upon big-time profit, but if he doesn't keep his greed in check, this seeming success story could quickl",
+  "synopsis": "The \"Days of Fear\" story arc reaches its explosive conclusion in a story of dangerous visions, unheeded warnings, and decisions made too late! Fugitive Padawan Zayne Carrick faces his darkest moments so far as a desperate attempt to avert a cataclysmic disaster drives him into the arms of his enemies. Zayne puts his life on the line in an attempt to save those who don't even realize the grave fate they face, but will his sacrifice be in vain? Meanwhile, the small-time con Gryph has happened upon big-time profit, but if he doesn't keep his greed in check, this seeming success story could quickly turn tragic! * Unforgettable characters, thrill-a-minute plot twists, and fast-paced action nearly 4,000 years before the Death Star in the hottest Star Wars story this side of the movies!",
   "title": "Knights of the Old Republic #15: Days of Fear, Part 3"
 }

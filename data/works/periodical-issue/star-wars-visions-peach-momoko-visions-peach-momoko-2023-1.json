@@ -1,0 +1,44 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "colorist",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "coverArtist",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "inker",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "penciler",
+      "slug": "peach-momoko"
+    },
+    {
+      "name": "Peach Momoko",
+      "role": "writer",
+      "slug": "peach-momoko"
+    }
+  ],
+  "displayTitle": "Visions: Peach Momoko (2023) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-visions-peach-momoko",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-visions-peach-momoko-visions-peach-momoko-2023-1",
+  "title": "Visions: Peach Momoko (2023) #1"
+}

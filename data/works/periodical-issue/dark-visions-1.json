@@ -10,6 +10,41 @@
       "name": "Paulo Villanelli",
       "role": "artist",
       "slug": "paulo-villanelli"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Dennis \"Hopeless\" Hallum",
+      "role": "writer",
+      "slug": "dennis-hopeless-hallum"
+    },
+    {
+      "name": "Greg Smallwood",
+      "role": "coverArtist",
+      "slug": "greg-smallwood"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "inker",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
     }
   ],
   "displayTitle": "Vader: Dark Visions #1",

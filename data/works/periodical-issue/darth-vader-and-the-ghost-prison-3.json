@@ -5,6 +5,41 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "colorist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "inker",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "penciler",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "artist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Darth Vader and the Ghost Prison #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ghost-prison-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-07-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ghost-prison-3",
-  "synopsis": "Cadet Tohm, in the company of Darth Vader, Moff Trachta, and the wounded Emperor, has finally reached the mysterious Ghost Prison. Vader battles the Jedi guard and Trachta wreaks vengeance on a particular prisoner. The Emperor's condition is stabilized, but they must find a way to combat the uprising back on Coruscant. Vader plans to use the only army available to him, the inmates of the Ghost Prison. But the prisoners have begun to revolt...",
+  "synopsis": "Cadet Tohm, in the company of Darth Vader, Moff Trachta, and the wounded Emperor, has finally reached the mysterious Ghost Prison. Vader battles the Jedi guard and Trachta wreaks vengeance on a particular prisoner. The Emperor’s condition is stabilized, but they must find a way to combat the uprising back on Coruscant. Vader plans to use the only army available to him—the inmates of the Ghost Prison. But the prisoners have begun to revolt . . . *The secret of the Ghost Prison is revealed!",
   "title": "Darth Vader and the Ghost Prison #3"
 }

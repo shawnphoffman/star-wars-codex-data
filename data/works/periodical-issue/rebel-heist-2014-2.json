@@ -5,6 +5,36 @@
       "name": "Matt Kindt",
       "role": "writer",
       "slug": "matt-kindt"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
     }
   ],
   "displayTitle": "Rebel Heist #2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebel-heist-2014",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-05-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-heist-2014-2",
-  "synopsis": "On a planet outside the Empire's jurisdiction, Princess Leia goes undercover to obtain a vital code from an Imperial source. She'll have to use disguises, gadgets, and her feminine wiles to succeed, and her only ally is another spy who is convinced the Princess is a liability in the field!",
+  "synopsis": "On a planet outside the Empire’s jurisdiction, Princess Leia goes undercover to obtain a vital code from an Imperial source. She’ll have to use disguises, gadgets, and her feminine wiles to succeed—and her only ally is another spy who is convinced the Princess is a liability in the field! * Matt Kindt writes the classic characters! * Covers by Adam Hughes and Matt Kindt!",
   "title": "Rebel Heist #2"
 }

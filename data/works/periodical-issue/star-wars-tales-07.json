@@ -1,5 +1,115 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Francisco Herrera",
+      "role": "penciler",
+      "slug": "francisco-herrera"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "penciler",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "penciler",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Stephen Smith",
+      "role": "writer",
+      "slug": "stephen-smith"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "colorist",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "inker",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Kosuke Fujishima",
+      "slug": "kosuke-fujishima"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Francisco Velasco",
+      "role": "coverArtist",
+      "slug": "francisco-velasco"
+    }
+  ],
   "displayTitle": "Tales #07",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +121,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-07",
-  "synopsis": "Have you ever had one of those days? Your boss won't stop bothering you with petty complaints? Your teacher won't get off your back about your late book report? The neighbor kids won't stop screaming? Well, escape your everyday troubles with an all new and improved issue of Star Wars Tales! Join Boba Fett, Plo Koon, Micah Giiett, Yoda, Mace Windu, and a fellow named Domo Jones as they take your mind off your cares and to a place where you're as likely to run into a three-eyed alien as encounter bureaucratic headaches! Star Wars! Take me away!!!",
+  "synopsis": "Have you ever had one of those days? Your boss won't stop bothering you with petty complaints? Your teacher won't get off your back about your late book report? The neighbor kids won't stop screaming? Well, ESCAPE your everyday troubles with an all new and improved issue of Star Wars Tales! Join Boba Fett, Plo Koon, Micah Giiett, Yoda, Mace Windu, and a fellow named DOMO JONES as they take your mind off your cares and to a place where you're as likely to run into a three-eyed alien as encounter bureaucratic headaches! STAR WARS! TAKE ME AWAY!!!",
   "title": "Star Wars Tales #07"
 }

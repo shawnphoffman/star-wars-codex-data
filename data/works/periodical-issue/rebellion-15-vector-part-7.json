@@ -5,6 +5,36 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "artist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Rebellion #15: Vector, Part 7",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-07-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-15-vector-part-7",
-  "synopsis": "The biggest Star Wars event of 2008 has reached the Rebellion era. Now, Luke Skywalker, Princess Leia, Han Solo, and Chewie will have to deal with \"Vector\" as it crosses their paths and changes the galaxy! It has been twenty years since Darth Vader's encounter with the power of the Muur Talisman. As the power of the Rebellion grows, Vader's thoughts turn to the ancient Sith relic: though he was unable to harness its power, might it be used as a weapon against the enemies of the Empire?",
+  "synopsis": "The biggest Star Wars event of 2008 has reached the Rebellion era. Now, Luke Skywalker, Princess Leia, Han Solo, and Chewie will have to deal with \"Vector\" as it crosses their paths and changes the galaxy! It has been twenty years since Darth Vader's encounter with the power of the Muur Talisman. As the power of the Rebellion grows, Vader's thoughts turn to the ancient Sith relic: though he was unable to harness its power, might it be used as a weapon against the enemies of the Empire? Luke and Leia are walking into a trap, one which may close on both sides!",
   "title": "Rebellion #15: Vector, Part 7"
 }

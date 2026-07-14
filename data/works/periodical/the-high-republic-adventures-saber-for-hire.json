@@ -10,6 +10,11 @@
       "name": "Rachael Stott",
       "role": "artist",
       "slug": "rachael-stott"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "penciler",
+      "slug": "rachael-stott"
     }
   ],
   "displayTitle": "The High Republic Adventures: Saber for Hire",
@@ -18,7 +23,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2024-06-26T00:00:00.000Z",
+  "releaseDate": "2024-04-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-saber-for-hire",

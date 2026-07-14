@@ -10,6 +10,26 @@
       "name": "Brian Ching",
       "role": "artist",
       "slug": "brian-ching"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
     }
   ],
   "displayTitle": "Obsession",

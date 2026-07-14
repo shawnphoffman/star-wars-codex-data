@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Return to Ord Mantell",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0425163628"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 230,
+      "imprint": "Berkley Boulevard",
+      "isPrimary": true,
+      "isbn10": "0425163628",
+      "kind": "print",
+      "onsale": "1998-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

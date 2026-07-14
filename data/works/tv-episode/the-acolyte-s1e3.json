@@ -2,11 +2,6 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Kogonada",
-      "role": "director",
-      "slug": "kogonada"
-    },
-    {
       "name": "Eileen Shim",
       "role": "writer",
       "slug": "eileen-shim"
@@ -17,7 +12,7 @@
       "slug": "jasmyne-flournoy"
     }
   ],
-  "displayTitle": "Destiny",
+  "displayTitle": "The Acolyte S01E03: Destiny",
   "era": "highRepublic",
   "format": "tvEpisode",
   "parentWorkSlug": "the-acolyte-s1",
@@ -26,5 +21,5 @@
   "releaseStatus": "released",
   "slug": "the-acolyte-s1e3",
   "synopsis": "On a mysterious planet, the tragic journey of two sisters begins.",
-  "title": "Destiny"
+  "title": "The Acolyte S01E03: Destiny"
 }

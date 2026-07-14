@@ -1,5 +1,37 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Casey Hudson",
+      "role": "director",
+      "slug": "casey-hudson"
+    },
+    {
+      "name": "Casey Hudson",
+      "role": "producer",
+      "slug": "casey-hudson"
+    },
+    {
+      "name": "Drew Karpyshyn",
+      "role": "writer",
+      "slug": "drew-karpyshyn"
+    },
+    {
+      "name": "David Gaider",
+      "role": "writer",
+      "slug": "david-gaider"
+    },
+    {
+      "name": "Derek Watts",
+      "role": "artist",
+      "slug": "derek-watts"
+    },
+    {
+      "name": "Jeremy Soule",
+      "role": "composer",
+      "slug": "jeremy-soule"
+    }
+  ],
   "displayTitle": "Knights of the Old Republic",
   "era": "oldRepublic",
   "format": "videoGame",

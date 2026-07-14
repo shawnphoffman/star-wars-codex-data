@@ -15,12 +15,48 @@
       "name": "Chris Fenoglio",
       "role": "artist",
       "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Charles Paul Wilson III",
+      "role": "penciler",
+      "slug": "charles-paul-wilson-iii"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "penciler",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "penciler",
+      "slug": "kelley-jones"
+    },
+    {
+      "name": "Corin Howell",
+      "role": "penciler",
+      "slug": "corin-howell"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "penciler",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Tales From Vader's Castle",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
+    "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
   "releaseDate": "2018-10-03T00:00:00.000Z",

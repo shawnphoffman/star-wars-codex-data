@@ -11,11 +11,31 @@
   "displayTitle": "Jedi Apprentice: The Threat Within",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139376"
+    },
+    {
+      "type": "isbn10",
+      "value": "0439979234"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139373"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439139376",
+      "kind": "print"
+    },
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439979234",
+      "kind": "print",
+      "onsale": "2002-03-01T00:00:00.000Z"
+    },
     {
       "extent": 144,
       "imprint": "Scholastic",

@@ -5,6 +5,40 @@
       "name": "Russ Manning",
       "role": "writer",
       "slug": "russ-manning"
+    },
+    {
+      "name": "Ray Murtaugh",
+      "role": "colorist",
+      "slug": "ray-murtaugh"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "artist",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "artist",
+      "slug": "rick-hoberg"
+    },
+    {
+      "name": "Brian Snoddy",
+      "role": "artist",
+      "slug": "brian-snoddy"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "Classic Star Wars: The Early Adventures #8",
@@ -17,7 +51,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-03-14T00:00:00.000Z",
+  "releaseDate": "1995-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-the-early-adventures-8",

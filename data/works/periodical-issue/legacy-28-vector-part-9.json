@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Legacy #28: Vector, Part 9",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-09-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-28-vector-part-9",
-  "synopsis": "This issue of Legacy launches the final four-issue chapter of Vector. This galaxy-changing force has moved through three time periods, beginning over 4,000 years ago. Lasting impressions and repercussions have been left on all the heroes of Star Wars. Now, Vector has reached the future of Star Wars and will forever change the lives of Skywalker's descendants! For anyone who never knew where to start with Star Wars comics, Vector is the perfect introduction to the entire Star Wars line! For any serious Star Wars fan, Vector is the must-see event of 2008, with major happenings throughout the mos",
+  "synopsis": "This issue of Legacy launches the final four-issue chapter of \"Vector.\" This galaxy-changing force has moved through three time periods, beginning over 4,000 years ago. Lasting impressions and repercussions have been left on all the heroes of Star Wars. Now, \"Vector\" has reached the future of Star Wars and will forever change the lives of Skywalker's descendants! For anyone who never knew where to start with Star Wars comics, \"Vector\" is the perfect introduction to the entire Star Wars line! For any serious Star Wars fan, \"Vector\" is the must-see event of 2008, with major happenings throughout the most important moments of the galaxy's history! * This issue launches the final chapter of \"Vector,\" a 12-part storyline that has run through every Star Wars title, from Knights of the Old Republic, to Dark Times, to Rebellion, and now to Legacy.",
   "title": "Legacy #28: Vector, Part 9"
 }

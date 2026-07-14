@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "displayTitle": "Dark Empire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1565119711"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781565119710"
+    }
+  ],
+  "editions": [
+    {
+      "asin": "",
+      "imprint": "Highbridge Co",
+      "isPrimary": true,
+      "isbn10": "1565119711",
+      "isbn13": "9781565119710",
+      "kind": "audio",
+      "onsale": "2005-01-01T12:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-01-01T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-empire",
+  "title": "Dark Empire"
+}

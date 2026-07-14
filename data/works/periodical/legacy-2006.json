@@ -45,6 +45,136 @@
       "name": "Dan Parsons",
       "role": "artist",
       "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Travel Foreman",
+      "role": "penciler",
+      "slug": "travel-foreman"
+    },
+    {
+      "name": "Adam DeKraker",
+      "role": "penciler",
+      "slug": "adam-dekraker"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Alan Robinson",
+      "role": "penciler",
+      "slug": "alan-robinson"
+    },
+    {
+      "name": "Kajo Baldisimo",
+      "role": "penciler",
+      "slug": "kajo-baldisimo"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "coverArtist",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Dan Scott",
+      "role": "coverArtist",
+      "slug": "dan-scott"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "coverArtist",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "coverArtist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Daniel Dos Santos",
+      "role": "coverArtist",
+      "slug": "daniel-dos-santos"
+    },
+    {
+      "name": "Chris Warner",
+      "role": "coverArtist",
+      "slug": "chris-warner"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Legacy",

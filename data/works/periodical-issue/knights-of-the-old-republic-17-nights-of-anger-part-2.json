@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "inker",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Knights of the Old Republic #17: Nights of Anger, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-17-nights-of-anger-part-2",
-  "synopsis": "Keeper of a terrible secret, addled inventor Camper spent most of his life running from Adascorp, the most powerful organization on his homeworld of Arkania. Now he lies gravely ill aboard the Arkanian Legacy, the colossal flagship of the corporation, his life in the hands of its owner&mdash;Lord Adasca! Does the young lord really intend to cure Camper and make amends for his predecessors' relentless hunt of the old man? Elsewhere in the galaxy, the ship carrying fugitive Padawan Zayne Carrick gets caught in a massive space battle. Whether his captors know victory or defeat, Zayne faces certai",
+  "synopsis": "Keeper of a terrible secret, addled inventor Camper spent most of his life running from Adascorp, the most powerful organization on his homeworld of Arkania. Now he lies gravely ill aboard the Arkanian Legacy, the colossal flagship of the corporation, his life in the hands of its owner-Lord Adasca! Does the young lord really intend to cure Camper and make amends for his predecessors' relentless hunt of the old man? Elsewhere in the galaxy, the ship carrying fugitive Padawan Zayne Carrick gets caught in a massive space battle. Whether his captors know victory or defeat, Zayne faces certain doom either way. Time to come up with an escape plan-and quick! Long on danger, short on answers, life in the Old Republic is intriguing, exciting, and undeniably Star Wars!",
   "title": "Knights of the Old Republic #17: Nights of Anger, Part 2"
 }

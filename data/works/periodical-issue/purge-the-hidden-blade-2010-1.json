@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "colorist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "inker",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "penciler",
+      "slug": "chris-scalf"
+    }
+  ],
+  "displayTitle": "Purge: The Hidden Blade (2010) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "purge-the-hidden-blade-2010-1",
+  "title": "Purge: The Hidden Blade (2010) #1"
+}

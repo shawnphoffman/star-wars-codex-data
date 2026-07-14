@@ -5,6 +5,26 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Michael Wiggam",
+      "role": "colorist",
+      "slug": "michael-wiggam"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "coverArtist",
+      "slug": "scott-hepburn"
     }
   ],
   "displayTitle": "The Clone Wars #04",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-02-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-04",
-  "synopsis": "Anakin Skywalker goes undercover as a slave trader - and Ahsoka is his slave! Fearing that the entire population of the planet Kiros may have been forced into slavery, the team has traveled to the Zygerria system to attend the first slave auction in years. Anakin must work his charm on the Queen of Zygerria, while \"slave\" Ahsoka and \"slave traders\" Rex and Obi-Wan search for clues. Can our heroes pull off this incredible deception? This issue also features a backup story by one of the artists from the TV series!",
+  "synopsis": "Anakin Skywalker goes undercover as a slave trader -- and Ahsoka is his slave! Fearing that the entire population of the planet Kiros may have been forced into slavery, the team has traveled to the Zygerria system to attend the first slave auction in years. Anakin must work his charm on the Queen of Zygerria, while \"slave\" Ahsoka and \"slave traders\" Rex and Obi-Wan search for clues. Can our heroes pull off this incredible deception? Plus a backup story by one of the artists from the TV series!",
   "title": "The Clone Wars #04"
 }

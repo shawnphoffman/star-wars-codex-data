@@ -1,9 +1,19 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "LeAndre Thomas",
       "role": "director",
+      "slug": "leandre-thomas"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
+    },
+    {
+      "name": "LeAndre Thomas",
+      "role": "writer",
       "slug": "leandre-thomas"
     }
   ],

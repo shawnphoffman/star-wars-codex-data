@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9781484780763"
+    },
+    {
+      "type": "isbn13",
       "value": "9781760501396"
     }
   ],
   "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484780763",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    },
     {
       "extent": 48,
       "imprint": "Disney-Lucasfilm Press",

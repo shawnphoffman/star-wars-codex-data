@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 7: Ithorian Invasion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590120476"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 71,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590120476",
+      "kind": "print",
+      "onsale": "1998-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

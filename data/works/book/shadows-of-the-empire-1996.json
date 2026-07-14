@@ -11,8 +11,23 @@
   "displayTitle": "Shadows of the Empire",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553574132"
+    },
+    {
       "type": "isbn13",
       "value": "9780553574135"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 385,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553574132",
+      "isbn13": "9780553574135",
+      "kind": "print",
+      "onsale": "1996-05-01T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",

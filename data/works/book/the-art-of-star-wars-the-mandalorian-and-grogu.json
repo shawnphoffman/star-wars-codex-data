@@ -1,0 +1,36 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Phil Szostak",
+      "role": "writer",
+      "slug": "phil-szostak"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: The Mandalorian and Grogu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781419787768"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn13": "9781419787768",
+      "kind": "print",
+      "onsale": "2026-11-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-11-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-art-of-star-wars-the-mandalorian-and-grogu",
+  "title": "The Art of Star Wars: The Mandalorian and Grogu"
+}

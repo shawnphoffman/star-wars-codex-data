@@ -15,6 +15,21 @@
       "name": "Marco Checchetto",
       "role": "coverArtist",
       "slug": "marco-checchetto"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
     }
   ],
   "displayTitle": "Allegiance",
@@ -28,7 +43,7 @@
     "pageCount": 103,
     "publicationKind": "comic"
   },
-  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDate": "2019-10-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "allegiance-0",

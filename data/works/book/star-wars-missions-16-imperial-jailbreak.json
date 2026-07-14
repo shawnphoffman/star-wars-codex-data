@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Missions 16: Imperial Jailbreak",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590764136"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590764136",
+      "kind": "print",
+      "onsale": "1998-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

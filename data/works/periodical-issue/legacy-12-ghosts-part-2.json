@@ -5,6 +5,76 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #12: Ghosts, Part 2",
@@ -15,12 +85,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-12-ghosts-part-2",
-  "synopsis": "Beneath the ruins of the Jedi Temple on Ossus lies a powerful secret that, in the wrong hands, could end the legacy of the Jedi once and for all! Now, at the site of his father's death, Cade Skywalker must decide what he owes the past, and how it will shape his future. Personal responsibility is not a well-developed trait in this last heir to the Skywalker name, and Cade will be forced to look past his fears, addictions, and painful memories if he is to take up the mantle that has been offered to him.",
+  "synopsis": "Beneath the ruins of the Jedi Temple on Ossus lies a powerful secret that, in the wrong hands, could end the legacy of the Jedi once and for all! Now, at the site of his father's death, Cade Skywalker must decide what he owes the past, and how it will shape his future. Personal responsibility is not a well-developed trait in this last heir to the Skywalker name, and Cade will be forced to look past his fears, addictions, and painful memories if he is to take up the mantle that has been offered him. * This is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before.",
   "title": "Legacy #12: Ghosts, Part 2"
 }

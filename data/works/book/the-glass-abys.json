@@ -11,6 +11,10 @@
   "displayTitle": "Mace Windu: The Glass Abyss",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593723430"
+    },
+    {
       "type": "isbn13",
       "value": "9780593723432"
     }
@@ -20,6 +24,7 @@
       "extent": 416,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593723430",
       "isbn13": "9780593723432",
       "kind": "print",
       "onsale": "2024-10-15T00:00:00.000Z"

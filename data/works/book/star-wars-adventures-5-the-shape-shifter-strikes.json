@@ -6,16 +6,42 @@
       "name": "Ryder Windham",
       "role": "writer",
       "slug": "ryder-windham"
+    },
+    {
+      "name": "Dave Wolverton",
+      "role": "writer",
+      "slug": "dave-wolverton"
     }
   ],
   "displayTitle": "Episode II Adventures 5: The Shape-Shifter Strikes",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439458846"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101424"
+    },
     {
       "type": "isbn13",
       "value": "9780439458849"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439458846",
+      "kind": "print"
+    },
+    {
+      "extent": 128,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439101424",
+      "kind": "print",
+      "onsale": "2000-01-01T00:00:00.000Z"
+    },
     {
       "extent": 82,
       "imprint": "Scholastic",
@@ -30,7 +56,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "2003-02-01T00:00:00.000Z",
+  "releaseDate": "2000-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-5-the-shape-shifter-strikes",

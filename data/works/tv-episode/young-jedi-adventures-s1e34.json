@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Rick Williams",
+      "role": "writer",
+      "slug": "rick-williams"
+    }
+  ],
   "displayTitle": "The Harvest Feast",
   "era": "highRepublic",
   "format": "tvEpisode",

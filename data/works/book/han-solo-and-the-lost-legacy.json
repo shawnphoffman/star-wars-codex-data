@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Han Solo and the Lost Legacy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345287106"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345287106",
+      "kind": "print",
+      "onsale": "1980-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
   },
-  "releaseDate": "1980-08-12T00:00:00.000Z",
+  "releaseDate": "1980-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solo-and-the-lost-legacy",

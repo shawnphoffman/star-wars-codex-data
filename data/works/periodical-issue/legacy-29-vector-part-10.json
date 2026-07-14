@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "coverArtist",
+      "slug": "dustin-weaver"
     }
   ],
   "displayTitle": "Legacy #29: Vector, Part 10",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-10-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-29-vector-part-10",
-  "synopsis": "With his bounty-hunter pals and a team of Imperial Knights, Cade Skywalker plans to assassinate the Sith Emperor Darth Krayt. The first step in their scheme requires a risky attack on a remote Imperial outpost in hopes of drawing Krayt away from Coruscant. But even if that works, members of the team are divided in their feelings about their \"secret weapon\"&mdash;Celeste Morne, an ancient Jedi Knight of the Old Republic who is in possession of&mdash;and possibly possessed by&mdash;the powerful Muur Talisman. As we plunge into the final chapters of the yearlong \"Vector\" crossover, the power of t",
+  "synopsis": "With his bounty-hunter pals and a team of Imperial Knights, Cade Skywalker plans to assassinate the Sith Emperor Darth Krayt. The first step in their scheme requires a risky attack on a remote Imperial outpost in hopes of drawing Krayt away from Coruscant. But even if that works, members of the team are divided in their feelings about their \"secret weapon\"--Celeste Morne, an ancient Jedi Knight of the Old Republic who is in possession of--and possibly possessed by--the powerful Muur Talisman. As we plunge into the final chapters of the yearlong \"Vector\" crossover, the power of the Talisman threatens to shake the galaxy to its foundations!",
   "title": "Legacy #29: Vector, Part 10"
 }

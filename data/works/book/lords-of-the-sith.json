@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780345511447"
+    },
+    {
+      "type": "isbn13",
       "value": "9780345511454"
     }
   ],
   "editions": [
+    {
+      "extent": 320,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345511447",
+      "kind": "print",
+      "onsale": "2015-04-28T00:00:00.000Z"
+    },
     {
       "extent": 320,
       "imprint": "Del Rey",

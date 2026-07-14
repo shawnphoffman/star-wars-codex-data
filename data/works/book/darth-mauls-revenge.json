@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Darth Maul's Revenge",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780375804328"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780375804328",
+      "kind": "print",
+      "onsale": "2000-11-14T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

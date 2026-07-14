@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Crimson Empire: Council of Blood #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "crimson-empire-council-of-blood",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-council-of-blood-3",
+  "synopsis": "While Grappa's pirates turn up the heat on the Rebel cargo routes, the Interim Council sinks to unprecedented depths under the leadership of Xandel Carivus. Mirith Sinn finds herself the victim of the greatest deception of all when an old \"comrade\" finds her amidst Grappa's thugs. Meanwhile, where has Kir Kanos gotten himself to?",
+  "title": "Crimson Empire: Council of Blood #3"
+}

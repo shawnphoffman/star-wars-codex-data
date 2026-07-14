@@ -15,6 +15,16 @@
       "name": "Myung Joh Wesner",
       "role": "writer",
       "slug": "myung-joh-wesner"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Mick Giacchino",
+      "role": "composer",
+      "slug": "mick-giacchino"
     }
   ],
   "displayTitle": "Skeleton Crew Season 1",
@@ -24,7 +34,7 @@
     "startYear": 9
   },
   "parentWorkSlug": "skeleton-crew",
-  "releaseDate": "2025-01-14T00:00:00.000Z",
+  "releaseDate": "2024-12-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "skeleton-crew-season-1",

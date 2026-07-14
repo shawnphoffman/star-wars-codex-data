@@ -5,6 +5,105 @@
       "name": "David Manak",
       "role": "writer",
       "slug": "david-manak"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
+    },
+    {
+      "name": "Jon Dagostino",
+      "role": "inker",
+      "slug": "jon-dagostino"
+    },
+    {
+      "name": "Warren Kremer",
+      "role": "penciler",
+      "slug": "warren-kremer"
+    },
+    {
+      "name": "John Romita Sr.",
+      "role": "penciler",
+      "slug": "john-romita-sr"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "inker",
+      "slug": "andy-mushynsky"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Daniel Kurt Thorsland",
+      "role": "writer",
+      "slug": "daniel-kurt-thorsland"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
     }
   ],
   "displayTitle": "Droids #4: Lost in Time",
@@ -17,10 +116,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1986-10-01T00:00:00.000Z",
+  "releaseDate": "1994-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-4-lost-in-time",
-  "synopsis": "Droids 4: Lost in Time is the fourth issue of the Star Wars Droids series of comics. It was published by Marvel Comics on July 15, 1986 with a cover date of October 1986.",
+  "synopsis": "When Star Wars hit the big screen in 1977, the world fell in love with Artoo-Detoo and See-Threepio. Now the events that led them to their fateful meeting with Luke Skywalker are revealed for the first time! In this issue, Corellian rogue Jace Forno leases the dysfunctional duo for a deadly mission to the moon Indobok!",
   "title": "Star Wars Droids #4: Lost in Time"
 }

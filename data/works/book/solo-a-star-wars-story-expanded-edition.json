@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780525619390"
+    },
+    {
+      "type": "isbn13",
       "value": "9781984819284"
     }
   ],
@@ -23,11 +27,19 @@
     {
       "extent": 304,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780525619390",
+      "kind": "print",
+      "onsale": "2018-09-04T00:00:00.000Z"
+    },
+    {
+      "extent": 368,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1984819283",
       "isbn13": "9781984819284",
       "kind": "print",
-      "onsale": "2018-09-04T00:00:00.000Z"
+      "onsale": "2019-04-30T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -40,6 +52,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "solo-a-star-wars-story-expanded-edition",
-  "synopsis": "Han Solo’s daring escape from Corellia also separated him from the love of his life. Years later, he finds himself tangled in a complicated deal with Crimson Dawn, just as he and Qi’ra reunite under unexpected circumstances.",
+  "synopsis": "Han Solo's daring escape from Corellia also separated him from the love of his life. Years later, he finds himself tangled in a complicated deal with Crimson Dawn - just as he and Qi'ra reunite under unexpected circumstances.",
   "title": "Solo: A Star Wars Story: Expanded Edition"
 }

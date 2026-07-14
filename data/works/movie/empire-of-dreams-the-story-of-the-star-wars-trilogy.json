@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Edith Becker",
@@ -20,6 +20,7 @@
   "displayTitle": "Empire of Dreams: The Story of the Star Wars Trilogy",
   "format": "movie",
   "movie": {
+    "movieType": "other",
     "runtimeMinutes": 151
   },
   "periodical": {

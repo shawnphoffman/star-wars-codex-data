@@ -10,6 +10,36 @@
       "name": "Alessandro Miracolo",
       "role": "artist",
       "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Annalisa Leoni",
+      "role": "colorist",
+      "slug": "annalisa-leoni"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "inker",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "penciler",
+      "slug": "alessandro-miracolo"
     }
   ],
   "displayTitle": "Yoda #09",

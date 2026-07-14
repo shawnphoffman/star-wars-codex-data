@@ -10,6 +10,41 @@
       "name": "Steven Cummings",
       "role": "artist",
       "slug": "steven-cummings"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "inker",
+      "slug": "victor-olazaba"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Sunny Gho",
+      "role": "coverArtist",
+      "slug": "sunny-gho"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
     }
   ],
   "displayTitle": "Crimson Reign #5",

@@ -10,6 +10,36 @@
       "name": "Will Sliney",
       "role": "artist",
       "slug": "will-sliney"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Sabino",
+      "role": "letterer",
+      "slug": "vc-joe-sabino"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
     }
   ],
   "displayTitle": "Halcyon Legacy #3",

@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Rick Magyar",
+      "role": "inker",
+      "slug": "rick-magyar"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Star Wars #21: Twilight",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-08-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-21-twilight",
+  "synopsis": "Aayla Secura is the Padawan apprentice of the mysterious Jedi Quinlan Vos, and Vos needs to know why she disappeared -- and that knowledge is trapped in the dark recesses of his lost memory. And as Vos searches for answers, he may not like what he finds, as those who appear to be friends turn out instead to be lethal enemies. Join Quinlan in his deadly quest for the truth in the third chapter of \"Twilight.\"",
+  "title": "Star Wars #21: Twilight"
+}

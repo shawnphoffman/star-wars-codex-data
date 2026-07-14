@@ -1,6 +1,13 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider - Special Edition 2011",
+  "editions": [
+    {
+      "extent": 148,
+      "isPrimary": false,
+      "kind": "print"
+    }
+  ],
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",

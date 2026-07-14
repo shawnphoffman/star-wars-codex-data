@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "inker",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Jay David Ramos",
+      "role": "colorist",
+      "slug": "jay-david-ramos"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
     }
   ],
   "displayTitle": "Knights of the Old Republic #12: Reunion, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-01-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-12-reunion-part-2",
-  "synopsis": "Take fugitive Padawan Zayne Carrick, throw in a big-mouthed con artist, two mysterious refugees, and one grumpy droid and you've got the most unpredictable, fast-paced, just-plain-exciting take on the Star Wars universe since a scoundrel named Solo helped Luke Skywalker blow up the Death Star! For this misfit crew of unlikely heroes, life in the Old Republic is anything by idyllic. Scheming to scrounge up some scratch on the banking world of Telerath, they've run afoul of two bounty-hunting brothers as dangerous to the galaxy as they are to each other. It's going to take more than a lightsaber",
+  "synopsis": "Take fugitive Padawan Zayne Carrick, throw in a big-mouthed con artist, two mysterious refugees, and one grumpy droid and you've got the most unpredictable, fast-paced, just-plain-exciting take on the Star Wars universe since a scoundrel named Solo helped Luke Skywalker blow up the Death Star! For this misfit crew of unlikely heroes, life in the Old Republic is anything by idyllic. Scheming to scrounge up some scratch on the banking world of Telerath, they've run afoul of two bounty-hunting brothers as dangerous to the galaxy as they are to each other. It's going to take more than a lightsaber to get Zayne and his friends out of this one-such as deceits, disguises, and a bit of the good ol' fashioned Force! • The flagship series of Dark Horse's exciting relaunch of its Star Wars publishing line, celebrating the company's twentieth anniversary. • A great starting point for anyone interested in following the Star Wars saga beyond the films. • Every issue contains concise \"story-so-far\" information for first-time readers.",
   "title": "Knights of the Old Republic #12: Reunion, Part 2"
 }

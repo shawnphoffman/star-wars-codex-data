@@ -10,6 +10,16 @@
       "name": "Salvador Larroca",
       "role": "artist",
       "slug": "salvador-larroca"
+    },
+    {
+      "name": "John Williams",
+      "role": "composer",
+      "slug": "john-williams"
+    },
+    {
+      "name": "Natalie Holt",
+      "role": "composer",
+      "slug": "natalie-holt"
     }
   ],
   "displayTitle": "Obi-Wan Kenobi",
@@ -18,7 +28,7 @@
   "inUniverseDate": {
     "startYear": -9
   },
-  "releaseDate": "2022-05-27T00:00:00.000Z",
+  "releaseDate": "2022-05-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan-kenobi-trade-paperback",

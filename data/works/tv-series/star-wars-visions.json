@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "James Waugh",
@@ -25,6 +25,11 @@
       "name": "Kanako Shirasaki",
       "role": "producer",
       "slug": "kanako-shirasaki"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
     }
   ],
   "displayTitle": "Visions",

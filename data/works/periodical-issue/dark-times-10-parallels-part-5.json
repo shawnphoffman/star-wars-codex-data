@@ -5,6 +5,36 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "colorist",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "inker",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Zach Howard",
+      "role": "coverArtist",
+      "slug": "zach-howard"
     }
   ],
   "displayTitle": "Dark Times #10: Parallels, Part 5",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2008-04-23T00:00:00.000Z",
+  "releaseDate": "2008-04-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-10-parallels-part-5",
-  "synopsis": "A resolute few fight for their lives&mdash;and the lives of their friends&mdash;in a final fight with serious consequences for those left standing. Confronted with a nightmare scenario, Jedi Master K'Kruhk is thrust into a battle unlike any he has ever faced. To save those in his care, he may be forced to lose himself. Elsewhere, Bomo Greenbark unleashes an unrivaled fury upon the captors of the crew of the Uhumele. His friends will have their freedom, and he will have his revenge! The shocking conclusion to \"Parallels\"!",
+  "synopsis": "A resolute few fight for their lives-and the lives of their friends-in a final fight with serious consequences for those left standing. Confronted with a nightmare scenario, Jedi Master K'Kruhk is thrust into a battle unlike any he has ever faced. To save those in his care, he may be forced to lose himself. Elsewhere, Bomo Greenbark unleashes an unrivaled fury upon the captors of the crew of the Uhumelé. His friends will have their freedom, and he will have his revenge! The shocking conclusion to \"Parallels\"!",
   "title": "Dark Times #10: Parallels, Part 5"
 }

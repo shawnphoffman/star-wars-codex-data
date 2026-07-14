@@ -5,6 +5,50 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "colorist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "inker",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Todd Klein",
+      "role": "letterer",
+      "slug": "todd-klein"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Dark Empire II #1: Operation Shadow Hand",
@@ -17,10 +61,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1994-12-20T00:00:00.000Z",
+  "releaseDate": "1994-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-ii-1994-1",
-  "synopsis": "The Empire in retreat, Luke Skywalker has begun a quest to rebuild the Jedi. Although dead, the Emperor's presence still haunts him, and Luke still feels the taint of the dark side from his time as the Emperor's thrall. The dark shadow of Palpatine seems to creep across the galaxy once again, and the Empire awaits his return. Enslaving a weapons factory to design a device more deadly than the Death Star, the Empire sets its plans in motion&mdash;to destroy the New Republic once and for all!",
+  "synopsis": "The Empire in retreat, Luke Skywalker has begun a quest to rebuild the Jedi. Although dead, the Emperor's presence still haunts him, and Luke still feels the taint of the dark side from his time as the Emperor's thrall. The dark shadow of Palpatine seems to creep across the galaxy once again, and the Empire awaits his return. Enslaving a weapons factory to design a device more deadly than the Death Star, the Empire sets its plans in motion -- to destroy the New Republic once and for all!",
   "title": "Dark Empire II #1: Operation Shadow Hand"
 }

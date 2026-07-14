@@ -10,6 +10,21 @@
       "name": "Andrea Mutti",
       "role": "artist",
       "slug": "andrea-mutti"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "Hyperspace Stories #12",
@@ -20,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2023-12-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-12",
-  "synopsis": "Issue 12 of 12 from Dark Horse Comics Hyperspace Stories Anthology Series\nThe Battle of Endor as you've never seen it before! It could be the Rebel Alliance's moment of triumph, or the hour of their final destruction! The heroes of the Rebellion race to destroy the Emperor's second Death Star, but for engineer Evans Basch, it's a race just to survive! Assigned a key role in the rebel fleet, it'll take all of Basch's skill, and a dash or two of luck, to keep his ships in one piece. May the Force be with him! The action comes to an epic conclusion at the 40th anniversary of Return of the Jedi!",
+  "synopsis": "The Battle of Endor as you've never seen it before! It could be the Rebel Alliance's moment of triumph, or the hour of their final destruction! The heroes of the Rebellion race to destroy the Emperor's second Death Star, but for engineer Evans Basch, it's a race just to survive! Assigned a key role in the rebel fleet, it ll take all of Basch's skill, and a dash or two of luck, to keep his ships in one piece. May the Force be with him! The action comes to an epic conclusion at the 40th anniversary of Return of the Jedi, in Star Wars: Hyperspace Stories #12!",
   "title": "Hyperspace Stories #12"
 }

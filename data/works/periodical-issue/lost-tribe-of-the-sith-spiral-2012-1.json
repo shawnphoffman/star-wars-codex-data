@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Pierluigi Baldassini",
+      "role": "inker",
+      "slug": "pierluigi-baldassini"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral #1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2012-08-05T00:00:00.000Z",
+  "releaseDate": "2012-08-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-spiral-2012-1",
-  "synopsis": "On a planet ruled by a tribe of Sith (marooned thousands of years ago and cut off from the galaxy) the throne holder is about to be challenged by a power-hungry Sith rebel from the slums... and a thwarted royal Sith princess! Their few shared interests set them on a quest together, but most certainly not as partners!",
+  "synopsis": "On a planet ruled by a tribe of Sith—marooned thousands of years ago and cut off from the galaxy—the throne holder is about to be challenged by a power-hungry Sith rebel from the slums . . . and a thwarted royal Sith princess! Their few shared interests set them on a quest together—but most certainly not as partners! The saga of the lost tribe continues in comics, following the release of John Jackson Miller’s Lost Tribe of the Sith: The Collected Stories—in print from Del Rey Books! * Debuts one month after John Jackson Miller’s Lost Tribe of the Sith prose novel from Del Rey Books! * An all-Sith tale with heroes, antiheroes, and straight-up villains!",
   "title": "Lost Tribe of the Sith: Spiral #1"
 }

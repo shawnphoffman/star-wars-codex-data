@@ -1,10 +1,25 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Gabriel Osorio",
       "role": "director",
       "slug": "gabriel-osorio"
+    },
+    {
+      "name": "Gabriel Osorio",
+      "role": "writer",
+      "slug": "gabriel-osorio"
+    },
+    {
+      "name": "Antonia Herrera",
+      "role": "writer",
+      "slug": "antonia-herrera"
+    },
+    {
+      "name": "Francisco Ortega",
+      "role": "writer",
+      "slug": "francisco-ortega"
     }
   ],
   "displayTitle": "In the Stars",

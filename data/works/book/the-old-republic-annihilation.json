@@ -11,6 +11,10 @@
   "displayTitle": "The Old Republic: Annihilation",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345529413"
+    },
+    {
       "type": "isbn13",
       "value": "9780345529411"
     }
@@ -20,6 +24,7 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345529413",
       "isbn13": "9780345529411",
       "kind": "print",
       "onsale": "2012-11-13T00:00:00.000Z"

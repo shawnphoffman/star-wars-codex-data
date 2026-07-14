@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #47: Demon, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-11-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-47-demon-part-1",
-  "synopsis": "The trial of Demagol, the twisted Mandalorian researcher, is finally underway on Coruscant&mdash;headed by none other than the Jedi Malak, a favorite of fans of the Knights of the Old Republic video game! Malak is going to make sure that Demagol, a specimen of true Mandalorian evil and deception, is made an example of and prosecuted to the full extent of the law. Amidst the trial, Zayne Carrick and his friends are learning a lot about deception in their own ranks&mdash;and what they discover will threaten the life of one of their own!",
+  "synopsis": "The trial of Demagol, the twisted Mandalorian researcher, is finally underway on Coruscant -- headed by none other than the Jedi Malak, a favorite of fans of the Knights of the Old Republic video game! Malak is going to make sure that Demagol, a specimen of true Mandalorian evil and deception, is made an example of and prosecuted to the full extent of the law. Amidst the trial, Zayne Carrick and his friends are learning a lot about deception in their own ranks-and what they discover will threaten the life of one of their own!",
   "title": "Knights of the Old Republic #47: Demon, Part 1"
 }

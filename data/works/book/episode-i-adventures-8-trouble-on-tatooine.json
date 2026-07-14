@@ -6,9 +6,42 @@
       "name": "Dave Wolverton",
       "role": "writer",
       "slug": "dave-wolverton"
+    },
+    {
+      "name": "Nate Millici",
+      "role": "writer",
+      "slug": "nate-millici"
     }
   ],
   "displayTitle": "Episode I Adventures: Trouble on Tatooine",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439147422"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484799345"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 97,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439147422",
+      "kind": "print",
+      "onsale": "2000-04-01T00:00:00.000Z"
+    },
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484799345",
+      "kind": "print",
+      "onsale": "2017-05-02T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

@@ -10,6 +10,36 @@
       "name": "Jan Duursema",
       "role": "writer",
       "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #39: Tatooine, Part 3",
@@ -20,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-08-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-39-tatooine-part-3",
-  "synopsis": "Separated from his pirate pals and caught in a sandstorm at an abandoned moisture farm (yes, that moisture farm) with an Imperial agent, a Jedi ghost, and a pair of Anzati assassins, Cade Skywalker has had better days. All he needs now is a visit from his dear old mom! Oh, and back on Coruscant, the Sith are placing someone new on the throne...",
+  "synopsis": "Separated from his pirate pals and caught in a sandstorm at an abandoned moisture farm (yes, that moisture farm) with an Imperial agent, a Jedi ghost, and a pair of Anzati assassins, Cade Skywalker has had better days. All he needs now is a visit from his dear old mom! Oh, and back on Coruscant, the Sith are placing someone new on the throne . . .",
   "title": "Legacy #39: Tatooine, Part 3"
 }

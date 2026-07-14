@@ -5,6 +5,40 @@
       "name": "Terry Austin",
       "role": "writer",
       "slug": "terry-austin"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "inker",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
   "displayTitle": "Splinter of the Mind's Eye #3",
@@ -17,10 +51,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-04-23T00:00:00.000Z",
+  "releaseDate": "1996-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "splinter-of-the-mind-s-eye-3",
-  "synopsis": "Even as Darth Vader and his Imperial garrison approach Mimban from the air, Luke and Leia find that their biggest problems lie under the planet's crust. For deep in the soil lives Mimban's deadliest predator&mdash;perhaps the galaxy's deadliest predator&mdash;the gigantic, wormlike wandrella; and if the humongous wandrella can't catch them, the subterranean race of aboriginals&mdash;the Coway&mdash;just might!",
+  "synopsis": "Even as Darth Vader and his Imperial garrison approach Mimban from the air, Luke and Leia find that their biggest problems lie under the planet's crust. For deep in the soil lives Mimban's deadliest predator -- perhaps the galaxy's deadliest predator -- the gigantic, wormlike wandrella; and if the humongous wandrella can't catch them, the subterranean race of aboriginals -- the Coway -- just might!",
   "title": "Splinter of the Mind's Eye #3"
 }

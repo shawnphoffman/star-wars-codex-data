@@ -10,6 +10,21 @@
       "name": "Steven Melching",
       "role": "writer",
       "slug": "steven-melching"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "artist",
+      "slug": "brian-koschak"
+    },
+    {
+      "name": "Michael E. Wiggam",
+      "role": "coverArtist",
+      "slug": "michael-e-wiggam"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "coverArtist",
+      "slug": "scott-hepburn"
     }
   ],
   "displayTitle": "The Clone Wars #12: Hero of the Confederacy",
@@ -20,12 +35,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-01-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-12-hero-of-the-confederacy-part-3",
-  "synopsis": "Anakin Skywalker is recalled to active duty to deal with a Separatist pilot who has been wreaking havoc on the Republic's fleets. But Anakin's chance to prove himself comes at a high price: the enemy ace is a friend. The costs of war have never been higher, and even Obi-Wan Kenobi's desperate attempts to find a path to peace may come too late.",
+  "synopsis": "Anakin Skywalker is recalled to active duty to deal with a Separatist pilot who has been wreaking havoc on the Republic's fleets. But Anakin's chance to prove himself comes at a high price: the enemy ace is a friend. The costs of war have never been higher, and even Obi-Wan Kenobi's desperate attempts to find a path to peace may come too late. * This series is a complement to Lucasfilm's The Clone Wars TV show!",
   "title": "The Clone Wars #12: Hero of the Confederacy"
 }

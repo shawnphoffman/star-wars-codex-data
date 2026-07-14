@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Ron Chan",
+      "role": "inker",
+      "slug": "ron-chan"
+    },
+    {
+      "name": "Ron Chan",
+      "role": "penciler",
+      "slug": "ron-chan"
+    },
+    {
+      "name": "Ron Chan",
+      "role": "artist",
+      "slug": "ron-chan"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #42: Masks",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-06-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-42-masks",
-  "synopsis": "When an argument between ex-Padawan Zayne Carrick and the mysterious Jarael leaves her questioning her place in his life, the appearance of the Jedi Malak threatens to make up her mind for good. Yet Malak's not the only one with an interest in Jarael. Just how far the Mandalorian Rohlan is willing to go to stay by her side has never been revealed - until now! Major developments for Zayne and Jarael! Previously untold events in the story of Malak and Revan! For in-the-know Star Wars fans, this issue is a must have! A special one-shot story featuring Malak and Revan from the Knights of the Old R",
+  "synopsis": "When an argument between ex-Padawan Zayne Carrick and the mysterious Jarael leaves her questioning her place in his life, the appearance of the Jedi Malak threatens to make up her mind for good. Yet Malak's not the only one with an interest in Jarael. Just how far the Mandalorian Rohlan is willing to go to stay by her side has never been revealed -- until now! Major developments for Zayne and Jarael! Previously untold events in the story of Malak and Revan! For in-the-know Star Wars fans, this issue is a must have! * A special one-shot story featuring Malak and Revan from the Knights of the Old Republic video games sets our main cast on a deadly new course! A must-have issue for Star Wars fans!",
   "title": "Knights of the Old Republic #42: Masks"
 }

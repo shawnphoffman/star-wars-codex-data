@@ -1,5 +1,110 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Casey",
+      "role": "writer",
+      "slug": "joe-casey"
+    },
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Steve Niles",
+      "role": "writer",
+      "slug": "steve-niles"
+    },
+    {
+      "name": "Adam Gallardo",
+      "role": "writer",
+      "slug": "adam-gallardo"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Greg Adams",
+      "role": "inker",
+      "slug": "greg-adams"
+    },
+    {
+      "name": "Cary Nord",
+      "role": "inker",
+      "slug": "cary-nord"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Francisco Paronzini",
+      "role": "inker",
+      "slug": "francisco-paronzini"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Gregory Titus",
+      "role": "penciler",
+      "slug": "gregory-titus"
+    },
+    {
+      "name": "David Nakayama",
+      "role": "penciler",
+      "slug": "david-nakayama"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "John Rauch",
+      "role": "colorist",
+      "slug": "john-rauch"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Cary Nord",
+      "role": "penciler",
+      "slug": "cary-nord"
+    },
+    {
+      "name": "Francisco Paronzini",
+      "role": "penciler",
+      "slug": "francisco-paronzini"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Ben Templesmith",
+      "slug": "ben-templesmith"
+    },
+    {
+      "name": "Greg Titus",
+      "slug": "greg-titus"
+    }
+  ],
   "displayTitle": "Tales #17",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +116,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-17",
-  "synopsis": "Welcome to the dark side! In this issue of Star Wars Tales we turn our attention to all that is dark, creepy, and evil, bringing you tales sure to chill you to your core! Watch as Chewbacca comes face to face with undead specters on Hoth! Scream as Han Solo tries desperately to overcome a zombie hoard! And gasp in shock as Luke Skywalker battles a ghostly Darth Maul! This issue of Tales is sure to leave you screaming for more!",
+  "synopsis": "Welcome to the dark side! In this issue of Star Wars Tales we turn our attention to all that is dark, creepy, and evil, bringing you tales sure to chill you to your core! Watch as Chewbacca comes face to face with undead specters on Hoth! Scream as Han Solo tries desperately to overcome a zombie hoard! And gasp in shock as Luke Skywalker battles a ghostly Darth Maul! This issue of Tales is sure to leave you SCREAMING for more!",
   "title": "Star Wars Tales #17"
 }

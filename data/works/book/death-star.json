@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Death Star",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477422"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477422",
+      "kind": "print",
+      "onsale": "2007-10-16T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

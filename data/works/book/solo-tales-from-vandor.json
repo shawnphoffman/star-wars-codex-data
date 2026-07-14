@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Solo: Tales From Vandor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794441029"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn13": "9780794441029",
+      "kind": "print",
+      "onsale": "2018-09-11T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

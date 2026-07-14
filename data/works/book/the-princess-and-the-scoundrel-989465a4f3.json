@@ -11,6 +11,10 @@
   "displayTitle": "The Princess and the Scoundrel",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593498496"
+    },
+    {
       "type": "isbn13",
       "value": "9780593498491"
     }
@@ -20,6 +24,7 @@
       "extent": 304,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593498496",
       "isbn13": "9780593498491",
       "kind": "print",
       "onsale": "2022-08-16T00:00:00.000Z"

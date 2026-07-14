@@ -9,12 +9,55 @@
     }
   ],
   "displayTitle": "The Truce at Bakura",
-  "era": "ageOfRebellion",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780307796271"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553095418"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553568721"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 45,
+      "isPrimary": false,
+      "kind": "audio"
+    },
+    {
+      "imprint": "Spectra",
+      "isPrimary": false,
+      "isbn13": "9780307796271",
+      "kind": "print",
+      "onsale": "2011-06-28T00:00:00.000Z"
+    },
+    {
+      "extent": 320,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553095418",
+      "kind": "print",
+      "onsale": "1993-11-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780553568721",
+      "kind": "print",
+      "onsale": "1993-01-02T00:00:00.000Z"
+    }
+  ],
+  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
   },
-  "releaseDate": "1993-11-01T00:00:00.000Z",
+  "releaseDate": "1993-01-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-truce-at-bakura",

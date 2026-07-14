@@ -4,12 +4,17 @@
   "displayTitle": "Beware Maul!",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0GXTW2CXV"
+    },
+    {
       "type": "isbn13",
       "value": "9798217316021"
     }
   ],
   "editions": [
     {
+      "asin": "B0GXTW2CXV",
       "extent": 48,
       "imprint": "Dorling Kindersley",
       "isPrimary": true,

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 15: Voyage to the Underworld",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590763342"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 69,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590763342",
+      "kind": "print",
+      "onsale": "1998-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

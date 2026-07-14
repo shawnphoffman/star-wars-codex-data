@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "inker",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "artist",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #44: The Reaping, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-08-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-44-the-reaping-part-2",
-  "synopsis": "The latest masquerade of the Hot Prospect and its crew has been discovered! Up against The Crucible, a massive slave-trading organization, Zayne Carrick is having another streak of unfortunate luck. Zayne and Jarael entered a comet-mining facility with the intention of freeing its slaves and taking a knife to the miners' profits, but when the Crucible is tipped off that imposters are nudging in on their territory, a death-defying space battle ensues! Don't miss this conclusion to the story that exposes a shocking truth about one of KotOR's most-loved characters!",
+  "synopsis": "The latest masquerade of the Hot Prospect and its crew has been discovered! Up against the Crucible, a massive slave-trading organization, Zayne Carrick is having another streak of unfortunate luck. Zayne and Jarael entered a comet-mining facility with the intention of freeing its slaves and taking a knife to the miners' profits, but when the Crucible is tipped off that imposters are nudging in on their territory, a death-defying space battle ensues! Don't miss this conclusion to the story that exposes a shocking truth about one of KotOR's most-loved characters!",
   "title": "Knights of the Old Republic #44: The Reaping, Part 2"
 }

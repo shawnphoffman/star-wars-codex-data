@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Dark Legends",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368057332"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368057332",
+      "kind": "print",
+      "onsale": "2020-07-28T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "releaseDate": "2020-07-28T00:00:00.000Z",
   "releaseDisplayState": "released",

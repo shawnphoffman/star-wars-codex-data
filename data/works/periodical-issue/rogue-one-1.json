@@ -30,6 +30,46 @@
       "name": "Phil Noto",
       "role": "artist",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "inker",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Jan Bazaldúa",
+      "role": "inker",
+      "slug": "jan-bazalda"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Jan Bazaldúa",
+      "role": "penciler",
+      "slug": "jan-bazalda"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Rogue One: A Star Wars Story Adaptation #1",

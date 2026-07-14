@@ -30,6 +30,46 @@
       "name": "Christian Dalla Vecchia",
       "role": "artist",
       "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "penciler",
+      "slug": "stphane-roux"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "penciler",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Agent of the Empire",

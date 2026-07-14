@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Unseen Queen",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034546303X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 333,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "034546303X",
+      "kind": "print",
+      "onsale": "2005-09-27T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

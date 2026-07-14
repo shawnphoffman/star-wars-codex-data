@@ -1,0 +1,46 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    },
+    {
+      "name": "Ed King",
+      "role": "letterer",
+      "slug": "ed-king"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Vandelhelm Mission",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-vandelhelm-mission",
+  "synopsis": "Following the events of Return of the Jedi, the Alliance tries to rebuild its fleet at the starship yards of Fondor. When a supply problem threatens the rebuilding, Lando Calrissian sends Han Solo and Nien Nunb to the planet Vandelhelm, where Solo realizes that it doesn't always pay to listen to Lando!",
+  "title": "Classic Star Wars: The Vandelhelm Mission"
+}

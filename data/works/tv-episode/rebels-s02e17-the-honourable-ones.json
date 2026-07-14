@@ -10,9 +10,19 @@
       "name": "Melchior Zwyer",
       "role": "director",
       "slug": "melchior-zwyer"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    },
+    {
+      "name": "Kevin Hopps",
+      "role": "writer",
+      "slug": "kevin-hopps"
     }
   ],
-  "displayTitle": "The Honourable Ones",
+  "displayTitle": "The Honorable Ones",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {

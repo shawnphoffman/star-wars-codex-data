@@ -25,6 +25,56 @@
       "name": "Ashley Monique Menard",
       "role": "director",
       "slug": "ashley-monique-menard"
+    },
+    {
+      "name": "Jon Watts",
+      "role": "writer",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "writer",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Mick Giacchino",
+      "role": "composer",
+      "slug": "mick-giacchino"
+    },
+    {
+      "name": "Christopher Ford",
+      "role": "showrunner",
+      "slug": "christopher-ford"
+    },
+    {
+      "name": "Jon Watts",
+      "role": "showrunner",
+      "slug": "jon-watts"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "producer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "producer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "producer",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Skeleton Crew",

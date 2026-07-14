@@ -5,6 +5,31 @@
       "name": "Randy Stradley",
       "role": "writer",
       "slug": "randy-stradley"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Jedi Council: Acts of War",
@@ -16,7 +41,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2001-06-06T00:00:00.000Z",
+  "releaseDate": "2000-06-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-council-acts-of-war-graphic-novel",

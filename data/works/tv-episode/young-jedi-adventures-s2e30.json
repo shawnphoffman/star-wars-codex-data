@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "James Eason-Garcia",
+      "role": "writer",
+      "slug": "james-eason-garcia"
+    },
+    {
+      "name": "Charley Feldman",
+      "role": "writer",
+      "slug": "charley-feldman"
+    }
+  ],
   "displayTitle": "The Firehawk Feud",
   "era": "highRepublic",
   "format": "tvEpisode",

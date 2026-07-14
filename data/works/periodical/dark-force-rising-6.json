@@ -15,6 +15,31 @@
       "name": "Kevin Nowlan",
       "role": "artist",
       "slug": "kevin-nowlan"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "penciler",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Kevin Nowlan",
+      "role": "inker",
+      "slug": "kevin-nowlan"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "Dark Force Rising",
@@ -23,7 +48,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1992-05-01T00:00:00.000Z",
+  "releaseDate": "1997-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-force-rising-6",

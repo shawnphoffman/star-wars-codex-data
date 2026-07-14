@@ -11,6 +11,10 @@
   "displayTitle": "Jedi Quest: The Dangerous Games",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339197"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339193"
     }
@@ -20,6 +24,7 @@
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439339197",
       "isbn13": "9780439339193",
       "kind": "print",
       "onsale": "2002-08-01T00:00:00.000Z"

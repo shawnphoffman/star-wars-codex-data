@@ -25,6 +25,41 @@
       "name": "Chris Eliopoulos",
       "role": "artist",
       "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "penciler",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "inker",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Frank Martin",
+      "role": "colorist",
+      "slug": "frank-martin"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
     }
   ],
   "displayTitle": "Vader Down",

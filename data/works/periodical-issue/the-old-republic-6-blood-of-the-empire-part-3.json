@@ -5,6 +5,31 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "The Old Republic #6: Blood of the Empire, Part 3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2010-12-02T00:00:00.000Z",
+  "releaseDate": "2010-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-6-blood-of-the-empire-part-3",
-  "synopsis": "Teneb Kel is only steps behind his prey, the emperor's apprentice, when light is finally shed on her dark plans. The foundling Sith Lord must find and face her one last time to uncover the secret behind her betrayal...",
+  "synopsis": "Teneb Kel is only steps behind his prey, the emperor's apprentice, when light is finally shed on her dark plans. The foundling Sith Lord must find and face her one last time to uncover the secret behind her betrayal . . . * Major events and characters from LucasArts and BioWare's soon--to--be--released massive multiplayer online game! * Written by Alexander Freed, a senior writer of the game!",
   "title": "The Old Republic #6: Blood of the Empire, Part 3"
 }

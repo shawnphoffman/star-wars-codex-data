@@ -11,18 +11,23 @@
   "displayTitle": "Revenge of the Sith",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0F1XFPRYG"
+    },
+    {
       "type": "isbn13",
       "value": "9798217090983"
     }
   ],
   "editions": [
     {
-      "extent": 418,
-      "imprint": "Del Rey",
+      "asin": "B0F1XFPRYG",
+      "extent": 448,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn13": "9798217090983",
       "kind": "print",
-      "onsale": "2005-04-02T00:00:00.000Z"
+      "onsale": "2025-10-14T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -30,10 +35,10 @@
   "inUniverseDate": {
     "startYear": -19
   },
-  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDate": "2025-10-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-revenge-of-the-sith",
-  "synopsis": "Matthew Stover’s novelization of Revenge of the Sith dives deep into the rapidly fraying mind of Anakin Skywalker as he seeks answers the Jedi do not want him looking for: How to save the one he loves from death.",
+  "synopsis": "Matthew Stover's novelization of Revenge of the Sith dives deep into the rapidly fraying mind of Anakin Skywalker as he seeks answers the Jedi do not want him looking for: How to save the one he loves from death.",
   "title": "Star Wars: Revenge of the Sith"
 }

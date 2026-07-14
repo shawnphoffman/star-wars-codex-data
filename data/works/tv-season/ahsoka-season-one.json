@@ -1,5 +1,72 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jon Favreau",
+      "role": "producer",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "producer",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "producer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Karen Gilchrist",
+      "role": "producer",
+      "slug": "karen-gilchrist"
+    },
+    {
+      "name": "Steph Green",
+      "role": "director",
+      "slug": "steph-green"
+    },
+    {
+      "name": "Peter Ramsey",
+      "role": "director",
+      "slug": "peter-ramsey"
+    },
+    {
+      "name": "Jennifer Getzinger",
+      "role": "director",
+      "slug": "jennifer-getzinger"
+    },
+    {
+      "name": "Geeta Vasant Patel",
+      "role": "director",
+      "slug": "geeta-vasant-patel"
+    },
+    {
+      "name": "Rick Famuyiwa",
+      "role": "director",
+      "slug": "rick-famuyiwa"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Ahsoka Season 1",
   "era": "newRepublic",
   "format": "tvSeason",

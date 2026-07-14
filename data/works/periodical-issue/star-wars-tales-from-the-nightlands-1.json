@@ -10,6 +10,31 @@
       "name": "Soo Lee",
       "role": "artist",
       "slug": "soo-lee"
+    },
+    {
+      "name": "Soo Lee",
+      "role": "colorist",
+      "slug": "soo-lee"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Soo Lee",
+      "role": "penciler",
+      "slug": "soo-lee"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "Tales From the Nightlands #1",
@@ -17,12 +42,13 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-tales-from-the-nightlands",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-09-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-from-the-nightlands-1",
-  "synopsis": "On Ryloth, Twi'leks whisper about the Nightlands, the realm where their spirits retire after death. Legend says that on nights when the veil is thinnest, you can speak with the shades who reside there.\nOn one such night, Anakin Skywalker and his Twi'lek friend Daesha try to summon the ghost of a much-loved relative for a final goodbye. But when Anakin makes contact with the Nightlands, the answer is anything but friendly&hellip;\nEnter: The Nightlander, a Star Wars boogeyman that seeks to possess a living host and bring chaos to the galaxy!",
+  "synopsis": "On Ryloth, Twi’leks whisper about the Nightlands, the realm where their spirits retire after death. Legend says that on nights when the veil is thinnest, you can speak with the shades who reside there. On one such night, Anakin Skywalker and his Twi’lek friend Daesha try to summon the ghost of a much-loved relative for a final goodbye. But when Anakin makes contact with the Nightlands, the answer is anything but friendly… Enter: The Nightlander, a Star Wars boogeyman that seeks to possess a living host and bring chaos to the galaxy! • Written by Cavan Scott, the New York Times bestselling author of Star Wars: Tales from Vader’s Castle and a story architect of The High Republic initiative. • Introducing the Nightlander, a Star Wars boogeyman designed by legendary artist Iain McCaig! • Three issue series.",
   "title": "Star Wars: Tales From the Nightlands #1"
 }

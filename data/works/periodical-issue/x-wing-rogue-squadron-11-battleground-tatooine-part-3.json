@@ -10,6 +10,40 @@
       "name": "Jan Strnad",
       "role": "writer",
       "slug": "jan-strnad"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #11: Battleground: Tatooine, Part 3",
@@ -22,7 +56,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-08-14T00:00:00.000Z",
+  "releaseDate": "1996-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-11-battleground-tatooine-part-3",

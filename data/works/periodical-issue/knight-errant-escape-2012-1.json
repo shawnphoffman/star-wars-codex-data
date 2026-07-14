@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Vincenzo Acunzo",
+      "role": "inker",
+      "slug": "vincenzo-acunzo"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Mike Hawthorne",
+      "role": "coverArtist",
+      "slug": "mike-hawthorne"
     }
   ],
   "displayTitle": "Knight Errant: Escape #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knight-errant-escape-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-06-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-escape-2012-1",
-  "synopsis": "Jedi Knight Kerra Holt's next mission starts with a very personal and ultrasecret investigation! But with the dark realities of Sith territory surrounding her, something unexpected may be taking hold of the lone Jedi! As she takes the first step toward her goal, Kerra knows there will be no turning back!",
+  "synopsis": "Jedi Knight Kerra Holt’s next mission starts with a very personal and ultrasecret investigation! But with the dark realities of Sith territory surrounding her, something unexpected may be taking hold of the lone Jedi! As she takes the first step toward her goal, Kerra knows there will be no turning back! * First issue in a brand-new story line! * John Jackson Miller’s Knight Errant novel was a New York Times bestseller!",
   "title": "Knight Errant: Escape #1"
 }

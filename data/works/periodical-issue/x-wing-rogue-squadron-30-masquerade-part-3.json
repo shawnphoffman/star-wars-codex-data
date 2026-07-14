@@ -5,6 +5,45 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "penciler",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Jim Hall",
+      "role": "penciler",
+      "slug": "jim-hall"
+    },
+    {
+      "name": "Gary Martin",
+      "role": "inker",
+      "slug": "gary-martin"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #30: Masquerade, Part 3",
@@ -17,7 +56,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1998-05-06T00:00:00.000Z",
+  "releaseDate": "1998-05-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-30-masquerade-part-3",

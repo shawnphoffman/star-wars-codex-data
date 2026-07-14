@@ -15,6 +15,36 @@
       "name": "Jon Sommariva",
       "role": "artist",
       "slug": "jon-sommariva"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "penciler",
+      "slug": "jon-sommariva"
+    },
+    {
+      "name": "Sean Parsons",
+      "role": "inker",
+      "slug": "sean-parsons"
+    },
+    {
+      "name": "Matt Herms",
+      "role": "colorist",
+      "slug": "matt-herms"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "coverArtist",
+      "slug": "derek-charm"
     }
   ],
   "displayTitle": "Adventures: Destroyer Down",

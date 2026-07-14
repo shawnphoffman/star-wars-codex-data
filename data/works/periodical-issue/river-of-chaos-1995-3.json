@@ -5,6 +5,45 @@
       "name": "Louise Simonson",
       "role": "writer",
       "slug": "louise-simonson"
+    },
+    {
+      "name": "June Brigman",
+      "role": "penciler",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "inker",
+      "slug": "roy-richardson"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Cary Grazzini",
+      "slug": "cary-grazzini"
+    },
+    {
+      "name": "June Brigman",
+      "role": "coverArtist",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "coverArtist",
+      "slug": "roy-richardson"
     }
   ],
   "displayTitle": "River of Chaos #3",
@@ -17,7 +56,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-09-19T00:00:00.000Z",
+  "releaseDate": "1995-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "river-of-chaos-1995-3",

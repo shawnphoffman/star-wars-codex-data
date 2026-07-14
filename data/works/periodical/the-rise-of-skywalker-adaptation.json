@@ -1,0 +1,30 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "The Rise of Skywalker Adaptation",
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-03-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rise-of-skywalker-adaptation",
+  "title": "The Rise of Skywalker Adaptation"
+}

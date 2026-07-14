@@ -10,9 +10,54 @@
       "name": "Aaron McBride",
       "role": "coverArtist",
       "slug": "aaron-mcbride"
+    },
+    {
+      "name": "Orlagh Cassidy",
+      "role": "narrator",
+      "slug": "orlagh-cassidy"
+    },
+    {
+      "name": "January LaVoy",
+      "role": "narrator",
+      "slug": "january-lavoy"
+    },
+    {
+      "name": "Euan Morton",
+      "role": "narrator",
+      "slug": "euan-morton"
+    },
+    {
+      "name": "Marc Thompson",
+      "role": "narrator",
+      "slug": "marc-thompson"
+    },
+    {
+      "name": "Paul Goodrich",
+      "role": "director",
+      "slug": "paul-goodrich"
+    },
+    {
+      "name": "Nick Martorelli",
+      "role": "producer",
+      "slug": "nick-martorelli"
+    },
+    {
+      "name": "Kevin Thomsen",
+      "role": "producer",
+      "slug": "kevin-thomsen"
     }
   ],
   "displayTitle": "Dooku: Jedi Lost",
+  "editions": [
+    {
+      "extent": 480,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780593357446",
+      "kind": "print",
+      "onsale": "2019-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "audioDrama",
   "inUniverseDate": {

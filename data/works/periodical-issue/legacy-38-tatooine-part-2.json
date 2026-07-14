@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Chris Warner",
+      "role": "coverArtist",
+      "slug": "chris-warner"
     }
   ],
   "displayTitle": "Legacy #38: Tatooine, Part 2",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-07-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-38-tatooine-part-2",
-  "synopsis": "Living a pirate's life is as easy as bilaberry patogga when you're an ex-Jedi with loyal compatriots&mdash;especially if you're stealing from Black Sun pirates who are stealing from the Empire. Well, it is until both sides figure out your game. Now under the scrutiny of Black Sun and the Empire, Cade Skywalker and crew are anxious to get away from Tatooine. Agents Gunner Yage and Morrigan Corde are hot on Cade's trail, one of them still having a chip on her shoulder from a past encounter. And Black Sun's Vigo is planning something special for Cade and the Imperial agents. If only the Mynock en",
+  "synopsis": "Living a pirate's life is as easy as bilaberry patogga when you're an ex-Jedi with loyal compatriots -- especially if you're stealing from Black Sun pirates who are stealing from the Empire. Well, it is until both sides figure out your game. Now under the scrutiny of Black Sun and the Empire, Cade Skywalker and crew are anxious to get away from Tatooine. Agents Gunner Yage and Morrigan Corde are hot on Cade's trail, one of them still having a chip on her shoulder from a past encounter. And Black Sun's Vigo is planning something special for Cade and the Imperial agents. If only the Mynock's engines would start, all this trouble could be left behind . . . \"Star Wars: Legacy [is] a book beautifully illustrated by Jan Duursema and inked by Dan Parsons.\" -The Washington Times",
   "title": "Legacy #38: Tatooine, Part 2"
 }

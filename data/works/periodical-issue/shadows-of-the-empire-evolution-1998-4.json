@@ -5,6 +5,59 @@
       "name": "Steve Perry",
       "role": "writer",
       "slug": "steve-perry"
+    },
+    {
+      "name": "Tom Simmons",
+      "role": "inker",
+      "slug": "tom-simmons"
+    },
+    {
+      "name": "Ron Randall",
+      "role": "inker",
+      "slug": "ron-randall"
+    },
+    {
+      "name": "Ron Randall",
+      "role": "penciler",
+      "slug": "ron-randall"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Duncan Fegredo",
+      "role": "coverArtist",
+      "slug": "duncan-fegredo"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
     }
   ],
   "displayTitle": "Shadows of the Empire: Evolution #4",
@@ -21,6 +74,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-evolution-1998-4",
-  "synopsis": "Now that Guri has found Doc, and the de-droiding procedure has been started, the search is on for Guri. Will Spinda Caveel, the Pikkel Sisters, Savan, or Han, Luke, and Leia be the first to find Guri and Doc? Will Doc be able to finish the Humanizing procedure on Guri before they are found? Just as we think things are going well, Luke gets a \"feeling,\" and Leia discovers the truth behind Savan.",
+  "synopsis": "Now that Guri has found Doc, and the de-droiding procedure has been started, the search is on for Guri. Will Spinda Caveel, the Pikkel Sisters, Savan, or Han, Luke, and Leia be the first to find Guri and Doc? Will Doc be able to finish the humanizing procedure on Guri before they are found? Just as we think things are going well, Luke gets a \"feeling,\" and Leia discovers the truth behind Savan.",
   "title": "Shadows of the Empire: Evolution #4"
 }

@@ -5,6 +5,26 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Luis Morocho",
+      "role": "penciler",
+      "slug": "luis-morocho"
+    },
+    {
+      "name": "Román López Cabrera",
+      "role": "inker",
+      "slug": "romn-lpez-cabrera"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
     }
   ],
   "displayTitle": "Hyperspace Stories: Tides of Terror #03",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-tides-of-terror-2",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-11-05T00:00:00.000Z",
+  "releaseDate": "2025-11-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-tides-of-terror-03",
-  "synopsis": "Issue 3 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nThe situation on board Axil Research Station is dire! Water floods the base as the Jedi try desperately to stop the structure from sinking into the monster-infested depths. Amidst the rescue efforts, Kit Fisto increasingly suspects that this disaster is no accident, and that the perpetrators may still be on board the station…",
+  "synopsis": "The situation on board Axil Research Station is dire! Water floods the base as the Jedi try desperately to stop the structure from sinking into the monster-infested depths. Amidst the rescue efforts, Kit Fisto increasingly suspects that this disaster is no accident, and that the perpetrators may still be on board the station… • Four issue series.",
   "title": "Hyperspace Stories: Tides of Terror #03"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Clone Wars: Jar Jar's Big Day",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448452234"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448452234",
+      "kind": "print",
+      "onsale": "2009-03-05T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

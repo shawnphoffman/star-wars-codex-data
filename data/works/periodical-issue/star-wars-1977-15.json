@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Janice Cohen",
+      "role": "colorist",
+      "slug": "janice-cohen"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "inker",
+      "slug": "terry-austin"
     }
   ],
   "displayTitle": "Star Wars (1977) #15: Star Duel",

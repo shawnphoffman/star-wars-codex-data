@@ -45,6 +45,61 @@
       "name": "Cory Hamscher",
       "role": "artist",
       "slug": "cory-hamscher"
+    },
+    {
+      "name": "Matteo Buffagni",
+      "role": "penciler",
+      "slug": "matteo-buffagni"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "penciler",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Javier Pina",
+      "role": "penciler",
+      "slug": "javier-pina"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "inker",
+      "slug": "cory-hamscher"
+    },
+    {
+      "name": "Nick Filardi",
+      "role": "colorist",
+      "slug": "nick-filardi"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Chris O'halloran",
+      "role": "colorist",
+      "slug": "chris-ohalloran"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Age of Resistance",

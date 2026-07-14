@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Anakin Skywalker: A Jedi's Journal",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375815945"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0375815945",
+      "kind": "print",
+      "onsale": "2002-04-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -22,
     "startYear": -32
   },
-  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDate": "2002-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "anakin-skywalker-a-jedis-journal",

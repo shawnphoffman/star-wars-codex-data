@@ -10,6 +10,45 @@
       "name": "Kevin J. Anderson",
       "role": "writer",
       "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "penciler",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith #6: Jedi Assault",
@@ -22,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-03-14T00:00:00.000Z",
+  "releaseDate": "1995-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-dark-lords-of-the-sith-6-jedi-assault",

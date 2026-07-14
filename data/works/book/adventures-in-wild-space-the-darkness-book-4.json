@@ -19,11 +19,25 @@
     }
   ],
   "displayTitle": "Adventures in Wild Space: The Dark (Book 4)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781405279963"
+    }
+  ],
   "editions": [
     {
       "imprint": "Disney Lucasfilm Press",
       "isPrimary": true,
       "kind": "print"
+    },
+    {
+      "extent": 160,
+      "imprint": "Egmont UK *Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781405279963",
+      "kind": "print",
+      "onsale": "2016-06-30T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -31,7 +45,7 @@
   "inUniverseDate": {
     "startYear": -18
   },
-  "releaseDate": "2017-08-15T00:00:00.000Z",
+  "releaseDate": "2016-06-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "adventures-in-wild-space-the-darkness-book-4",

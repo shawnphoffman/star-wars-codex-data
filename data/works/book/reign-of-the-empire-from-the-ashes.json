@@ -9,6 +9,13 @@
     }
   ],
   "displayTitle": "Reign of the Empire: From the Ashes",
+  "editions": [
+    {
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "periodical": {

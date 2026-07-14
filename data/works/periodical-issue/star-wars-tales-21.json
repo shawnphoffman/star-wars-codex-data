@@ -1,5 +1,112 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Raiz",
+      "role": "inker",
+      "slug": "james-raiz"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "inker",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Serge LaPointe",
+      "role": "inker",
+      "slug": "serge-lapointe"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Shane McCarthy",
+      "role": "writer",
+      "slug": "shane-mccarthy"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Nate Butler",
+      "role": "writer",
+      "slug": "nate-butler"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "James Raiz",
+      "role": "penciler",
+      "slug": "james-raiz"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "penciler",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Thomas Andrews",
+      "role": "writer",
+      "slug": "thomas-andrews"
+    },
+    {
+      "name": "Nathan P. Butler",
+      "role": "writer",
+      "slug": "nathan-p-butler"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "artist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "James Raiz",
+      "role": "artist",
+      "slug": "james-raiz"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "artist",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "coverArtist",
+      "slug": "lee-bermejo"
+    }
+  ],
   "displayTitle": "Tales #21",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +118,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-21",
-  "synopsis": "This is it-the beginning of a new direction for Star Wars Tales! Stepping away from the shorter, sillier Star Wars stories, with this issue Tales goes full-tilt toward a more exciting and sophisticated storytelling style. Cla$$war writer Rob Williams and Man of Steel artist Brandon Badeaux team up to bring you the story of Darca Nyl&mdash;a Jedi wandering the galaxy's Outer Rim hunting for revenge and hiding a deadly secret. Writer Shane McCarthy presents a rag-tag group of convicts and cutthroats flying for the Empire's glory in the feared TIE Fighter squadron called \"Black Eight.\" And Kyle K",
+  "synopsis": "This is it-the beginning of a new direction for Star Wars Tales! Stepping away from the shorter, sillier Star Wars stories, with this issue Tales goes full-tilt toward a more exciting and sophisticated storytelling style. Cla$$war writer Rob Williams and Man of Steel artist Brandon Badeaux team up to bring you the story of Darca Nyl-a Jedi wandering the galaxy's Outer Rim hunting for revenge and hiding a deadly secret. Writer Shane McCarthy presents a rag-tag group of convicts and cutthroats flying for the Empire's glory in the feared TIE Fighter squadron called \"Black Eight.\" And Kyle Katarn, star of the hit video game Jedi Outcast, goes toe-to-toe with the vile Yuuzhan Vong, in an action-packed tale by Nathan P. Butler and James Raiz (Tokyo Storm Warning). • Cover by Lee Bermejo (Batman/Deathblow; Batman: Gotham Knights) • New-reader friendly-each story is self-contained and easily accessible. Available worldwide from Dark Horse Comics (available in the UK from Titan)",
   "title": "Star Wars Tales #21"
 }

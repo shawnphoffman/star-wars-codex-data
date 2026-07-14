@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Jedi Path: A Manual for Students of the Force",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781452102276"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "becker&mayer!, Chronicle Books",
+      "isPrimary": true,
+      "isbn13": "9781452102276",
+      "kind": "print",
+      "onsale": "2010-09-28T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 24

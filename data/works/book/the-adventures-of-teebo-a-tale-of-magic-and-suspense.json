@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "The Adventures of Teebo: A Tale of Magic and Suspense",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394865683"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 44,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780394865683",
+      "kind": "print",
+      "onsale": "1984-05-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1984-05-12T00:00:00.000Z",
+  "releaseDate": "1984-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-adventures-of-teebo-a-tale-of-magic-and-suspense",

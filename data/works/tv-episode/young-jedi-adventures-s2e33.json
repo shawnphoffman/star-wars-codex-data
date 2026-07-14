@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Maralisa Ortiz",
+      "role": "writer",
+      "slug": "maralisa-ortiz"
+    }
+  ],
   "displayTitle": "Best Bounty Buddies",
   "era": "highRepublic",
   "format": "tvEpisode",

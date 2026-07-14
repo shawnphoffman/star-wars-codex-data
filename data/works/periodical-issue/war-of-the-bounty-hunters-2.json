@@ -10,6 +10,41 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "coverArtist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "coverArtist",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
     }
   ],
   "displayTitle": "War of the Bounty Hunters #2",

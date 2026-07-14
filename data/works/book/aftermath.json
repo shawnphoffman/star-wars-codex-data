@@ -21,9 +21,12 @@
   ],
   "editions": [
     {
+      "extent": 410,
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn13": "9780345511621",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2015-09-04T00:00:00.000Z"
     },
     {
       "extent": 410,

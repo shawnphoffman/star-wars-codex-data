@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bruce Jones",
+      "role": "writer",
+      "slug": "bruce-jones"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Eduardo Barreto",
+      "role": "penciler",
+      "slug": "eduardo-barreto"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    }
+  ],
+  "displayTitle": "A New Hope: Special Edition (1997) #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "a-new-hope-special-edition-1997-2",
+  "title": "A New Hope: Special Edition (1997) #2"
+}

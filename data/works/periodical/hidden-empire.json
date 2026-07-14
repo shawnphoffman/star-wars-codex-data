@@ -45,6 +45,131 @@
       "name": "Paul Fry",
       "role": "artist",
       "slug": "paul-fry"
+    },
+    {
+      "name": "Natacha Bustos",
+      "role": "penciler",
+      "slug": "natacha-bustos"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "penciler",
+      "slug": "paul-fry"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "penciler",
+      "slug": "minkyu-jung"
+    },
+    {
+      "name": "Emma Kubert",
+      "role": "penciler",
+      "slug": "emma-kubert"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Justin Mason",
+      "role": "penciler",
+      "slug": "justin-mason"
+    },
+    {
+      "name": "Alessandro Ferrari",
+      "role": "penciler",
+      "slug": "alessandro-ferrari"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "penciler",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Wayne Faucher",
+      "role": "inker",
+      "slug": "wayne-faucher"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "inker",
+      "slug": "victor-olazaba"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Ariana Maher",
+      "role": "letterer",
+      "slug": "ariana-maher"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Ema Lupacchino",
+      "role": "coverArtist",
+      "slug": "ema-lupacchino"
+    },
+    {
+      "name": "W. Scott Forbes",
+      "role": "coverArtist",
+      "slug": "w-scott-forbes"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Paulo Siqueira",
+      "role": "coverArtist",
+      "slug": "paulo-siqueira"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "coverArtist",
+      "slug": "rachael-stott"
     }
   ],
   "displayTitle": "Hidden Empire",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Agents of Chaos I: Hero's Trial",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428608"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428608",
+      "kind": "print",
+      "onsale": "2000-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

@@ -11,6 +11,14 @@
   "displayTitle": "Republic Commando: Triple Zero",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345490096"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593722167"
+    },
+    {
       "type": "isbn13",
       "value": "9780593722169"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 393,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593722169",
+      "isPrimary": false,
+      "isbn10": "0345490096",
       "kind": "print",
       "onsale": "2006-02-28T00:00:00.000Z"
+    },
+    {
+      "extent": 496,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593722167",
+      "isbn13": "9780593722169",
+      "kind": "print",
+      "onsale": "2023-08-15T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -34,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-commando-triple-zero",
-  "synopsis": "The elite group of clone troopers known as Omega Squad is sent on a new mission, perhaps one of the most dangerous yet since the beginning of the war.",
+  "synopsis": "The elite group of clone troopers known as Omega Squad is sent on a new mission - perhaps one of the most dangerous yet since the beginning of the war.",
   "title": "Republic Commando: Triple Zero"
 }

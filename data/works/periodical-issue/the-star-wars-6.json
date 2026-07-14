@@ -1,0 +1,38 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "colorist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    }
+  ],
+  "displayTitle": "The Star Wars #6",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-03-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-6",
+  "synopsis": "A dogfight with Imperial fighter craft, a dangerous detour through an asteroid field, and a forced evacuation in life-pods land Luke Skywalker and company on Yavin—the planet of the Wookiees! But Princess Leia gets separated from the group, and when slavers capture her, Annikin Starkiller goes all Jedi on them! * First look at the Wookiees! * Official eight-issue adaptation of George Lucas’s original rough-draft screenplay for Star Wars!",
+  "title": "The Star Wars #6"
+}

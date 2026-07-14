@@ -14,12 +14,28 @@
     }
   ],
   "displayTitle": "Force Heretic II: Refugee",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345428714"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345428714",
+      "kind": "print",
+      "onsale": "2003-05-05T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 28
   },
-  "releaseDate": "2003-04-29T00:00:00.000Z",
+  "releaseDate": "2003-05-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-heretic-ii-refugee",

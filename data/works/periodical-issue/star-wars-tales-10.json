@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Garth Ennis",
@@ -60,6 +60,121 @@
       "name": "Jimmy Palmiotti",
       "role": "artist",
       "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Matt Hollingsworth",
+      "role": "colorist",
+      "slug": "matt-hollingsworth"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Giulia Brusco",
+      "role": "colorist",
+      "slug": "giulia-brusco"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "colorist",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "colorist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "letterer",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "inker",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Jimmy Palmiotti",
+      "role": "inker",
+      "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "Vatche Mavlian",
+      "role": "inker",
+      "slug": "vatche-mavlian"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Francisco Ruiz Velasco",
+      "role": "penciler",
+      "slug": "francisco-ruiz-velasco"
+    },
+    {
+      "name": "Vatche Mavlian",
+      "role": "penciler",
+      "slug": "vatche-mavlian"
+    },
+    {
+      "name": "John McCrea",
+      "role": "penciler",
+      "slug": "john-mccrea"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Chris Slane",
+      "role": "penciler",
+      "slug": "chris-slane"
+    },
+    {
+      "name": "Christina Chen",
+      "role": "penciler",
+      "slug": "christina-chen"
+    },
+    {
+      "name": "Jason Hvam",
+      "role": "letterer",
+      "slug": "jason-hvam"
     }
   ],
   "displayTitle": "Tales #10",
@@ -73,6 +188,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-10",
-  "synopsis": "A non-canon anthology of short comic stories. Its centerpiece, *Trooper*, follows an ordinary Imperial stormtrooper who silently dreads being sent first through a breached door, knowing from grim experience that the lead trooper is always the first to die, and remembers the backwater homeworld and vagrant life he left behind to enlist. Other stories in the issue include:\n\n- *Skreej*, in which Lando Calrissian, using the alias Tamtel Skreej, finds himself broke and stranded on Tatooine.\n- *Nameless*.\n- *A Wookiee Scorned!*\n- *Free Memory*.",
+  "synopsis": "Ever wondered what it would be like to be a stormtrooper? Working for the Empire, never sure where you're going next, following orders without question, ready to lay down your life for the Emperor? Writer Garth Ennis (Preacher, Hitman) and penciller John McCrea (Hitman, Superboy) take us on a journey that shows in agonizing detail what it's like for those troops in white. Also in this issue are New Zealand newcomers Christian Read and Chris Slane offering the story of a Sith Lord, a lightsaber, and a bit of innovation... This and MUCH, MUCH more in an all-new, action-packed Star Wars Tales!",
   "title": "Star Wars Tales #10"
 }

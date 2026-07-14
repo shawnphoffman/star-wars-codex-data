@@ -14,11 +14,37 @@
     }
   ],
   "displayTitle": "Cobalt Squadron",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405286784"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368008372"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405286787"
+    }
+  ],
   "editions": [
     {
-      "imprint": "Disney Lucasfilm Press",
+      "extent": 224,
+      "imprint": "Disney–Lucasfilm Press",
       "isPrimary": true,
-      "kind": "print"
+      "isbn13": "9781368008372",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    },
+    {
+      "extent": 224,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": false,
+      "isbn10": "1405286784",
+      "isbn13": "9781405286787",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",

@@ -15,6 +15,41 @@
       "name": "Fred Blanchard",
       "role": "artist",
       "slug": "fred-blanchard"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "penciler",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "penciler",
+      "slug": "fred-blanchard"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "inker",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "inker",
+      "slug": "fred-blanchard"
+    },
+    {
+      "name": "Isabelle Rabarot",
+      "role": "colorist",
+      "slug": "isabelle-rabarot"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "Heir to the Empire",
@@ -23,7 +58,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1991-05-01T00:00:00.000Z",
+  "releaseDate": "1995-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heir-to-the-empire-7",

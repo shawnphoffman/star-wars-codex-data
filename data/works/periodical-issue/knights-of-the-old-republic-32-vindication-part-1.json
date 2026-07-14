@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "coverArtist",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #32: Vindication, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-08-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-32-vindication-part-1",
-  "synopsis": "At long last, Padawan Zayne Carrick confronts the Jedi Masters who framed him for murder! The prophecy that was seen by Zayne's Masters appears to be coming true. Two pieces of the sequence have come to pass... and those who remain alive are still fighting to prevent their vision from becoming a reality. The Jedi Consulars are beginning to doubt themselves and it's possible they have overlooked a true source of danger!",
+  "synopsis": "At long last, Padawan Zayne Carrick confronts the Jedi Masters who framed him for murder! The prophecy that was seen by Zayne's Masters appears to be coming true. Two pieces of the sequence have come to pass . . . and those who remain alive are still fighting to prevent their vision from becoming a reality. The Jedi Consulars are beginning to doubt themselves and it's possible they have overlooked a true source of danger!",
   "title": "Knights of the Old Republic #32: Vindication, Part 1"
 }

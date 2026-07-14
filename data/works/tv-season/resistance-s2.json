@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Resistance Season 2",
   "era": "riseOfTheFirstOrder",
   "format": "tvSeason",

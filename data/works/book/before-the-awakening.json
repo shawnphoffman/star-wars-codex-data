@@ -17,15 +17,27 @@
     {
       "type": "isbn13",
       "value": "9781368108218"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484728222"
     }
   ],
   "editions": [
     {
-      "extent": 240,
-      "imprint": "Disney-Lucasfilm Press",
+      "extent": 224,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368108210",
       "isbn13": "9781368108218",
+      "kind": "print",
+      "onsale": "2025-09-02T00:00:00.000Z"
+    },
+    {
+      "extent": 240,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484728222",
       "kind": "print",
       "onsale": "2015-12-18T00:00:00.000Z"
     }
@@ -40,6 +52,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "before-the-awakening",
-  "synopsis": "In three stories that serve as a prelude to the events of The Force Awakens, FN-2187, Rey, and Poe Dameron begin to discover what they want most in the galaxy, and what they’re willing to do to get it.",
+  "synopsis": "In three stories that serve as a prelude to the events of The Force Awakens, FN-2187, Rey, and Poe Dameron begin to discover what they want most in the galaxy - and what they're willing to do to get it.",
   "title": "Before the Awakening"
 }

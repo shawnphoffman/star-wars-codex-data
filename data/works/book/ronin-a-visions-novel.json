@@ -11,6 +11,10 @@
   "displayTitle": "Ronin: A Visions Novel",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "059335866X"
+    },
+    {
       "type": "isbn13",
       "value": "9780593358665"
     }
@@ -20,6 +24,7 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "059335866X",
       "isbn13": "9780593358665",
       "kind": "print",
       "onsale": "2021-10-12T00:00:00.000Z"

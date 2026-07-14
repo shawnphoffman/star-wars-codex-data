@@ -10,6 +10,51 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "inker",
+      "slug": "victor-olazaba"
+    },
+    {
+      "name": "Mark Morales",
+      "role": "inker",
+      "slug": "mark-morales"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Carlos Lopez",
+      "role": "colorist",
+      "slug": "carlos-lopez"
+    },
+    {
+      "name": "Jesus Aburtov",
+      "role": "colorist",
+      "slug": "jesus-aburtov"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "The High Republic (2021) #11",

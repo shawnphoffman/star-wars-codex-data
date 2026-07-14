@@ -105,6 +105,241 @@
       "name": "Victor Olazaba",
       "role": "artist",
       "slug": "victor-olazaba"
+    },
+    {
+      "name": "David Baldeón",
+      "role": "penciler",
+      "slug": "david-baldeon"
+    },
+    {
+      "name": "Ray-Anthony Height",
+      "role": "penciler",
+      "slug": "ray-anthony-height"
+    },
+    {
+      "name": "Raffaele Ienco",
+      "role": "penciler",
+      "slug": "raffaele-ienco"
+    },
+    {
+      "name": "Minkyu Jung",
+      "role": "penciler",
+      "slug": "minkyu-jung"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "penciler",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "David Messina",
+      "role": "penciler",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Luca Pizzari",
+      "role": "penciler",
+      "slug": "luca-pizzari"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "penciler",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Federico Sabbatini",
+      "role": "penciler",
+      "slug": "federico-sabbatini"
+    },
+    {
+      "name": "Guiu Vilanova",
+      "role": "penciler",
+      "slug": "guiu-vilanova"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "penciler",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Kei Zama",
+      "role": "penciler",
+      "slug": "kei-zama"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "inker",
+      "slug": "victor-olazaba"
+    },
+    {
+      "name": "Jesus Aburtov",
+      "role": "colorist",
+      "slug": "jesus-aburtov"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Antonio Fabela",
+      "role": "colorist",
+      "slug": "antonio-fabela"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Jason Keith",
+      "role": "colorist",
+      "slug": "jason-keith"
+    },
+    {
+      "name": "Giada Marchisio",
+      "role": "colorist",
+      "slug": "giada-marchisio"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "colorist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Israel Silva",
+      "role": "colorist",
+      "slug": "israel-silva"
+    },
+    {
+      "name": "Felipe Sobreiro",
+      "role": "colorist",
+      "slug": "felipe-sobreiro"
+    },
+    {
+      "name": "Dean White",
+      "role": "colorist",
+      "slug": "dean-white"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Ariana Maher",
+      "role": "letterer",
+      "slug": "ariana-maher"
+    },
+    {
+      "name": "Joe Sabino",
+      "role": "letterer",
+      "slug": "joe-sabino"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "coverArtist",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "coverArtist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "coverArtist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Mattia De Iulis",
+      "role": "coverArtist",
+      "slug": "mattia-de-iulis"
+    },
+    {
+      "name": "Marte Gracia",
+      "role": "coverArtist",
+      "slug": "marte-gracia"
+    },
+    {
+      "name": "Richard Isanove",
+      "role": "coverArtist",
+      "slug": "richard-isanove"
+    },
+    {
+      "name": "Aaron Kuder",
+      "role": "coverArtist",
+      "slug": "aaron-kuder"
+    },
+    {
+      "name": "Carlo Pagulayan",
+      "role": "coverArtist",
+      "slug": "carlo-pagulayan"
+    },
+    {
+      "name": "Jason Paz",
+      "role": "coverArtist",
+      "slug": "jason-paz"
+    },
+    {
+      "name": "Sara Pichelli",
+      "role": "coverArtist",
+      "slug": "sara-pichelli"
+    },
+    {
+      "name": "Joshua Swaby",
+      "role": "coverArtist",
+      "slug": "joshua-swaby"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "coverArtist",
+      "slug": "matthew-wilson"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "coverArtist",
+      "slug": "nolan-woodard"
     }
   ],
   "displayTitle": "War of the Bounty Hunters",
@@ -113,7 +348,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2021-05-05T00:00:00.000Z",
+  "releaseDate": "2021-06-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "war-of-the-bounty-hunters",

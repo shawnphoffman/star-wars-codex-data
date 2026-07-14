@@ -6,15 +6,61 @@
       "name": "Zack Giallongo",
       "role": "writer",
       "slug": "zack-giallongo"
+    },
+    {
+      "name": "Zack Giallongo",
+      "role": "penciler",
+      "slug": "zack-giallongo"
+    },
+    {
+      "name": "Zack Giallongo",
+      "role": "inker",
+      "slug": "zack-giallongo"
+    },
+    {
+      "name": "Braden Lamb",
+      "role": "colorist",
+      "slug": "braden-lamb"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Zack Giallongo",
+      "role": "coverArtist",
+      "slug": "zack-giallongo"
+    },
+    {
+      "name": "Braden Lamb",
+      "role": "coverArtist",
+      "slug": "braden-lamb"
     }
   ],
   "displayTitle": "Ewoks: Shadows of Endor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781616551742"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "isbn13": "9781616551742",
+      "kind": "print",
+      "onsale": "2013-10-09T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "2013-10-22T00:00:00.000Z",
+  "releaseDate": "2013-10-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ewoks-shadows-of-endor",

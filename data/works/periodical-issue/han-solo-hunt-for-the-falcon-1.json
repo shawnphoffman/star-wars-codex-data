@@ -5,6 +5,41 @@
       "name": "Rodney Barnes",
       "role": "writer",
       "slug": "rodney-barnes"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "coverArtist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "coverArtist",
+      "slug": "guru-efx"
     }
   ],
   "displayTitle": "Han Solo: Hunt for the Falcon #1",

@@ -5,6 +5,21 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "The Clone Wars #02",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-10-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-02",
-  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi have discovered the dastardly plot of Count Dooku&mdash;the entire population of the planet Kiros are in danger! Along with fresh new Padawan Ahsoka Tano&mdash;Anakin and Obi-Wan have liberated the droid-occupied planet and halted its destruction, but the native Togruta people have disappeared&hellip; Now, our Jedi must find the missing citizens, before Count Dooku can carry out his master plan! Featuring cover art by Kilian Plunkett, one of the artists working on The Clone Wars TV show!",
+  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi have discovered the dastardly plot of Count Dooku--the entire population of the planet Kiros are in danger! Along with fresh new Padawan Ahsoka Tano-Anakin and Obi-Wan have liberated the droid-occupied planet and halted its destruction, but the native Togruta people have disappeared . . . Now, our Jedi must find the missing citizens, before Count Dooku can carry out his master plan! * Cover by Kilian Plunkett--one of the artists working on The Clone Wars TV show!",
   "title": "The Clone Wars #02"
 }

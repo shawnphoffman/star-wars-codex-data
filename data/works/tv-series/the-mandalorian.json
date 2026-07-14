@@ -15,6 +15,26 @@
       "name": "Ludwig Göransson",
       "role": "composer",
       "slug": "ludwig-gransson"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "showrunner",
+      "slug": "jon-favreau"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "producer",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Karen Gilchrist",
+      "role": "producer",
+      "slug": "karen-gilchrist"
     }
   ],
   "displayTitle": "The Mandalorian",

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Brian Hall",
+      "role": "writer",
+      "slug": "brian-hall"
+    }
+  ],
   "displayTitle": "Attack of the Training Droids",
   "era": "highRepublic",
   "format": "tvEpisode",

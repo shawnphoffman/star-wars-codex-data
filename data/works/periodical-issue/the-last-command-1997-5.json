@@ -5,6 +5,54 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Eric Shanower",
+      "role": "inker",
+      "slug": "eric-shanower"
+    },
+    {
+      "name": "Dan Brown",
+      "role": "colorist",
+      "slug": "dan-brown"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "penciler",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "The Last Command #5",
@@ -21,6 +69,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-command-1997-5",
-  "synopsis": "We're getting closer to a final resolution in the standoff between Grand Admiral Thrawn's forces and the heroes of the New Republic. Feints and counter-feints abound as Thrawn attempts to outguess the New Republic's Bilbringi attack strategy. Meanwhile, Jedi Master C'baoth is confident that he will end up the biggest winner in this battle&hellip;",
+  "synopsis": "We're getting closer to a final resolution in the standoff between Grand Admiral Thrawn's forces and the heroes of the New Republic. Feints and counter-feints abound as Thrawn attempts to outguess the New Republic's Bilbringi attack strategy. Meanwhile, Jedi Master C'baoth is confident that he will end up the biggest winner in this battle.",
   "title": "The Last Command #5"
 }

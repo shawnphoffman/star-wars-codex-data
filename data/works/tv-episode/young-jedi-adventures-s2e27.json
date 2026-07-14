@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Joe Morgan",
+      "role": "writer",
+      "slug": "joe-morgan"
+    }
+  ],
   "displayTitle": "Little Lost Droid",
   "era": "highRepublic",
   "format": "tvEpisode",

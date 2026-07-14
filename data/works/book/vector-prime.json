@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Vector Prime",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428448"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428448",
+      "kind": "print",
+      "onsale": "1999-10-05T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

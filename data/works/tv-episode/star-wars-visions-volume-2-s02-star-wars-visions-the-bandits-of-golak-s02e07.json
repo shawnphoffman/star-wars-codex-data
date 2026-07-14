@@ -1,9 +1,14 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Ishan Shukla",
       "role": "director",
+      "slug": "ishan-shukla"
+    },
+    {
+      "name": "Ishan Shukla",
+      "role": "writer",
       "slug": "ishan-shukla"
     }
   ],

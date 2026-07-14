@@ -11,6 +11,10 @@
   "displayTitle": "The Rising Storm",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593159411"
+    },
+    {
       "type": "isbn13",
       "value": "9780593159415"
     }
@@ -20,6 +24,7 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593159411",
       "isbn13": "9780593159415",
       "kind": "print",
       "onsale": "2021-06-29T00:00:00.000Z"

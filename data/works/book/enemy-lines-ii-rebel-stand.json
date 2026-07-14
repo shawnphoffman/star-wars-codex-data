@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Enemy Lines II: Rebel Stand",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553713027"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 366,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0553713027",
+      "kind": "print",
+      "onsale": "2002-05-28T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

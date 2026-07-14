@@ -9,11 +9,25 @@
     }
   ],
   "displayTitle": "Alphabet Squadron: Shadow Fall",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984820044"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984820044"
+    }
+  ],
   "editions": [
     {
+      "extent": 416,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1984820044",
+      "isbn13": "9781984820044",
+      "kind": "print",
+      "onsale": "2020-06-03T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -21,7 +35,7 @@
   "inUniverseDate": {
     "startYear": 5
   },
-  "releaseDate": "2020-06-23T00:00:00.000Z",
+  "releaseDate": "2020-06-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "alphabet-squadron-shadow-fall",

@@ -25,6 +25,36 @@
       "name": "Mike Mayhew",
       "role": "artist",
       "slug": "mike-mayhew"
+    },
+    {
+      "name": "Edgar Delgado",
+      "role": "colorist",
+      "slug": "edgar-delgado"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
     }
   ],
   "displayTitle": "Star Wars (2015) #35: The Hutt Run",

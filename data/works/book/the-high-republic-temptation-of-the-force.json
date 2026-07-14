@@ -11,6 +11,10 @@
   "displayTitle": "Temptation of the Force",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593723090"
+    },
+    {
       "type": "isbn13",
       "value": "9780593723098"
     }
@@ -20,6 +24,7 @@
       "extent": 448,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593723090",
       "isbn13": "9780593723098",
       "kind": "print",
       "onsale": "2024-06-11T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-temptation-of-the-force",
-  "synopsis": "Finally together again, Jedi Masters Avar and Elzar must decide if their loyalty to the Jedi Order is more important than their devotion to each other, or if they might be able to have both.",
+  "synopsis": "Finally together again, Jedi Masters Avar and Elzar must decide if their loyalty to the Jedi Order is more important than their devotion to each other - or if they might be able to have both.",
   "title": "Temptation of the Force"
 }

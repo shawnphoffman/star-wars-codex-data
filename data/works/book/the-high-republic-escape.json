@@ -11,6 +11,10 @@
       "name": "Alyssa Wong",
       "role": "writer",
       "slug": "alyssa-wong"
+    },
+    {
+      "name": "Petur Antonsson",
+      "slug": "petur-antonsson"
     }
   ],
   "displayTitle": "Escape from Valo",
@@ -27,7 +31,7 @@
   "editions": [
     {
       "extent": 384,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368093809",
       "isbn13": "9781368093804",

@@ -1,0 +1,108 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Claudia Gray",
+      "role": "writer",
+      "slug": "claudia-gray"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "penciler",
+      "slug": "rachael-stott"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "colorist",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Vita Efremova",
+      "role": "colorist",
+      "slug": "vita-efremova"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "colorist",
+      "slug": "charlie-kirchoff"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Johanna Nattalie",
+      "role": "letterer",
+      "slug": "johanna-nattalie"
+    },
+    {
+      "name": "Neil Uyetake",
+      "role": "letterer",
+      "slug": "neil-uyetake"
+    },
+    {
+      "name": "Jake M. Wood",
+      "role": "letterer",
+      "slug": "jake-m-wood"
+    },
+    {
+      "name": "Nathan Widick",
+      "role": "letterer",
+      "slug": "nathan-widick"
+    },
+    {
+      "name": "Rachael Stott",
+      "role": "coverArtist",
+      "slug": "rachael-stott"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures: The Monster of Temple Peak and Other Stories",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506737799"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 184,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506737799",
+      "kind": "print",
+      "onsale": "2023-10-31T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-10-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-the-monster-of-temple-peak-and-other-stories",
+  "synopsis": "Ty Yorrick is a brave yet superstitious monster hunter, traversing the galaxy with droid companion KL-03 and her trusty rune-stones fighting the deadliest monsters on any world.",
+  "title": "The High Republic Adventures: The Monster of Temple Peak and Other Stories"
+}

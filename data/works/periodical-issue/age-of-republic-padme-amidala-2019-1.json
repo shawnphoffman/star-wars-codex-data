@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Wilton Santos",
+      "role": "penciler",
+      "slug": "wilton-santos"
+    },
+    {
+      "name": "Cory Smith",
+      "role": "penciler",
+      "slug": "cory-smith"
+    },
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    }
+  ],
+  "displayTitle": "Age of Republic: Padme Amidala (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-republic-padme-amidala-2019-1",
+  "title": "Age of Republic: Padme Amidala (2019) #1"
+}

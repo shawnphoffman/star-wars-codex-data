@@ -5,6 +5,45 @@
       "name": "Louise Simonson",
       "role": "writer",
       "slug": "louise-simonson"
+    },
+    {
+      "name": "June Brigman",
+      "role": "penciler",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "inker",
+      "slug": "roy-richardson"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Cary Grazzini",
+      "slug": "cary-grazzini"
+    },
+    {
+      "name": "June Brigman",
+      "role": "coverArtist",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "coverArtist",
+      "slug": "roy-richardson"
     }
   ],
   "displayTitle": "River of Chaos #1",
@@ -17,10 +56,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-06-06T00:00:00.000Z",
+  "releaseDate": "1995-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "river-of-chaos-1995-1",
-  "synopsis": "Several months after the destruction of the Death Star, Emperor Palpatine sends an Imperial pilot to spy on the governor of a distant planet, M'haeli. Although Palpatine knows of certain Rebel activity on M'Haeli, he does not know of the presence of one particular Rebel: Princess Leia Organa! Can Leia undermine the enemy from within, or is she doomed to drown in a river of chaos? This ground-breaking four-issue series takes readers behind enemy lines, to see the Rebellion through the eyes of an officer of the Empire!",
+  "synopsis": "Several months after the destruction of the Death Star, Emperor Palpatine sends an Imperial pilot to spy on the governor of a distant planet, M'Haeli. Although Palpatine knows of certain Rebel activity on M'Haeli, he does not know of the presence of one particular Rebel: Princess Leia Organa! Can Leia undermine the enemy from within, or is she doomed to drown in a river of chaos? This ground-breaking four-issue series takes readers behind enemy lines, to see the Rebellion through the eyes of an officer of the Empire!",
   "title": "River of Chaos #1"
 }

@@ -10,6 +10,66 @@
       "name": "Mateus Manhanini",
       "role": "artist",
       "slug": "mateus-manhanini"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Dexter Vines",
+      "role": "inker",
+      "slug": "dexter-vines"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Andrew Dalhouse",
+      "role": "colorist",
+      "slug": "andrew-dalhouse"
+    },
+    {
+      "name": "Mateus Manhanini",
+      "role": "coverArtist",
+      "slug": "mateus-manhanini"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "penciler",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "coverArtist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "inker",
+      "slug": "roberto-poggi"
+    },
+    {
+      "name": "Matthew Owens",
+      "role": "writer",
+      "slug": "matthew-owens"
     }
   ],
   "displayTitle": "Mace Windu #1",

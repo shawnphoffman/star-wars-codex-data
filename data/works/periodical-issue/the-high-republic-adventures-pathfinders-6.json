@@ -1,11 +1,46 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    },
+    {
+      "name": "George Mann",
+      "role": "colorist",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "colorist",
+      "slug": "vincenzo-riccardi"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "colorist",
+      "slug": "jake-bartok"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Pathfinders #6",
   "format": "periodicalIssue",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-10-21T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "the-high-republic-adventures-pathfinders-6",
+  "synopsis": "Jedi Master Temesh, his Padawan Anula, Pol and the rest of the Pathfinders stand face-to-face with the rogue comms team at the heart of this galactic mystery! In his mutated madness, a frightening new villain threatens to bring silence to the galaxy at any cost. Can the Pathfinders stop him before he destroys their mission . . . and them? Witness the thrilling finale in this action-packed issue!",
   "title": "The High Republic Adventures: Pathfinders #6"
 }

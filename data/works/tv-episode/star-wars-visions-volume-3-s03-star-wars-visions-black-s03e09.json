@@ -1,9 +1,14 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Shinya Ohira",
       "role": "director",
+      "slug": "shinya-ohira"
+    },
+    {
+      "name": "Shinya Ohira",
+      "role": "writer",
       "slug": "shinya-ohira"
     }
   ],

@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Shadow Academy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781572970250"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Berkley Boulevard",
+      "isPrimary": true,
+      "isbn13": "9781572970250",
+      "kind": "print",
+      "onsale": "1995-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

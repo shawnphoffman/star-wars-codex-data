@@ -15,6 +15,51 @@
       "name": "Angel Unzueta",
       "role": "artist",
       "slug": "angel-unzueta"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "penciler",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "penciler",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "inker",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "inker",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "colorist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Poe Dameron",

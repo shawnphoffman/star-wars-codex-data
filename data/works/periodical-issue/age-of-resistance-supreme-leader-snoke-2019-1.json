@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "inker",
+      "slug": "cory-hamscher"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Tom Taylor",
+      "role": "writer",
+      "slug": "tom-taylor"
+    },
+    {
+      "name": "Bryan Young",
+      "role": "writer",
+      "slug": "bryan-young"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "Age Of Resistance: Supreme Leader Snoke (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-resistance-supreme-leader-snoke-2019-1",
+  "title": "Age Of Resistance: Supreme Leader Snoke (2019) #1"
+}

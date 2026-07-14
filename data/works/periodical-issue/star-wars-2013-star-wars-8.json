@@ -1,0 +1,73 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Ryan Kelly",
+      "role": "artist",
+      "slug": "ryan-kelly"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "penciler",
+      "slug": "stuart-immonen"
+    },
+    {
+      "name": "Wade Von Grawbadger",
+      "role": "inker",
+      "slug": "wade-von-grawbadger"
+    },
+    {
+      "name": "Justin Ponsor",
+      "role": "colorist",
+      "slug": "justin-ponsor"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "coverArtist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "Star Wars #8",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-08-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-8",
+  "synopsis": "Luke Skywalker and Wedge Antilles intentionally allow themselves to be captured by the Empire to discover how Colonel Bircher is tracking the Rebels’ movements. Meanwhile, Darth Vader sends a spy into his own ranks to find out the same thing. And Han and Chewie go blaster to blaster against Boba Fett! * Brian Wood and Ryan Kelly—the Local team goes galactic! * Star Wars #1 is one of the bestselling single issues of 2013! \"A comic that feels like Star Wars . . . It might just be the most Star Wars-y comic I've ever read.\" —ComicsAlliance",
+  "title": "Star Wars #8"
+}

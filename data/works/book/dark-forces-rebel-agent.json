@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Dark Forces: Rebel Agent",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0399143963"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Dark Horse Comics *Berkley Boulevard",
+      "isPrimary": true,
+      "isbn10": "0399143963",
+      "kind": "print",
+      "onsale": "1998-03-11T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

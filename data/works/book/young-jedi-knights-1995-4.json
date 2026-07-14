@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Lightsabers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "157297091X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 232,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "157297091X",
+      "kind": "print",
+      "onsale": "1996-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

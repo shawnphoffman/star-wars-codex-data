@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780345508997"
+    },
+    {
+      "type": "isbn13",
       "value": "9781846055652"
     }
   ],
   "editions": [
+    {
+      "extent": 257,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345508997",
+      "kind": "print",
+      "onsale": "2009-05-19T00:00:00.000Z"
+    },
     {
       "extent": 257,
       "imprint": "Del Rey",

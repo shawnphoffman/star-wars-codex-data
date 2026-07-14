@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "David McCaig",
+      "role": "coverArtist",
+      "slug": "david-mccaig"
+    }
+  ],
+  "displayTitle": "Star Wars #37: The Stark Hyperspace War",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-12-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-37-the-stark-hyperspace-war",
+  "synopsis": "Iaco Stark has cut off the hyperspace lanes to Republic ships and the remnants of the Republic Army and Navy are stranded with the Jedi Tyvokka, Plo Koon, Adi Gallia, Qui-Gon Jinn, and Obi-Wan Kenobi on Troiken. Meanwhile, Tholme and his Padawan discover the truth about the scarcity of bacta. The worst is yet to come in this installment of the Stark Hyperspace War.",
+  "title": "Star Wars #37: The Stark Hyperspace War"
+}

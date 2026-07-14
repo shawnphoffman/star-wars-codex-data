@@ -1,5 +1,32 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Justin Leach",
+      "role": "producer",
+      "slug": "justin-leach"
+    },
+    {
+      "name": "Jacqui Lopez",
+      "role": "producer",
+      "slug": "jacqui-lopez"
+    },
+    {
+      "name": "Josh Rimes",
+      "role": "producer",
+      "slug": "josh-rimes"
+    },
+    {
+      "name": "Kanako Shirasaki",
+      "role": "producer",
+      "slug": "kanako-shirasaki"
+    },
+    {
+      "name": "James Waugh",
+      "role": "producer",
+      "slug": "james-waugh"
+    }
+  ],
   "displayTitle": "Visions - Volume 1",
   "format": "tvSeason",
   "parentWorkSlug": "star-wars-visions",

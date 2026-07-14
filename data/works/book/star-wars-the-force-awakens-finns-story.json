@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jesse J. Holland",
+      "role": "writer",
+      "slug": "jesse-j-holland"
+    }
+  ],
+  "displayTitle": "The Force Awakens: Finn’s Story",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-force-awakens-finns-story",
+  "synopsis": "Experience Star Wars: The Force Awakens from the point of view of one of the film's biggest breakout characters! Finn is a former First Order stormtrooper with a unique story. Follow along as he gets swept up into an adventure he never thought possible!",
+  "title": "Star Wars: The Force Awakens: Finn’s Story"
+}

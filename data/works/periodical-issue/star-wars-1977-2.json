@@ -5,6 +5,26 @@
       "name": "Roy Thomas",
       "role": "writer",
       "slug": "roy-thomas"
+    },
+    {
+      "name": "Tom Orzechowski",
+      "role": "letterer",
+      "slug": "tom-orzechowski"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "penciler",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Steve Leialoha",
+      "role": "colorist",
+      "slug": "steve-leialoha"
+    },
+    {
+      "name": "Steve Leialoha",
+      "role": "inker",
+      "slug": "steve-leialoha"
     }
   ],
   "displayTitle": "Star Wars (1977) #02: Six Against the Galaxy",

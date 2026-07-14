@@ -10,9 +10,39 @@
       "name": "Guillermo Sanna",
       "role": "artist",
       "slug": "guillermo-sanna"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Guillermo Sanna",
+      "role": "inker",
+      "slug": "guillermo-sanna"
+    },
+    {
+      "name": "Guillermo Sanna",
+      "role": "penciler",
+      "slug": "guillermo-sanna"
+    },
+    {
+      "name": "Dan Brown",
+      "role": "coverArtist",
+      "slug": "dan-brown"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
     }
   ],
-  "displayTitle": "Eye of the Storm #1",
+  "displayTitle": "The High Republic: Eye of the Storm (2022) #1",
   "era": "highRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -27,5 +57,5 @@
   "releaseStatus": "released",
   "slug": "eye-of-the-storm-part-1-358139bb89",
   "synopsis": "The true origins of Marchion Ro, the Eye of the Nihil and sworn enemy of the Jedi Order, is revealed.\n\nThe lie at the heart of his family is exposed.\n\nThe doom of the High Republic begins, with a single kill.",
-  "title": "Eye of the Storm #1"
+  "title": "The High Republic: Eye of the Storm (2022) #1"
 }

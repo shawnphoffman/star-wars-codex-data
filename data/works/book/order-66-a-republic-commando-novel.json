@@ -11,6 +11,14 @@
   "displayTitle": "Order 66: A Republic Commando Novel",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345506189"
+    },
+    {
+      "type": "isbn10",
+      "value": "0345513851"
+    },
+    {
       "type": "isbn13",
       "value": "9780345513854"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 432,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780345513854",
+      "isPrimary": false,
+      "isbn10": "0345506189",
       "kind": "print",
       "onsale": "2008-09-16T00:00:00.000Z"
+    },
+    {
+      "extent": 496,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0345513851",
+      "isbn13": "9780345513854",
+      "kind": "print",
+      "onsale": "2009-05-19T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

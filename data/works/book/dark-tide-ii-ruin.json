@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Dark Tide II: Ruin",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345428561"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345428561",
+      "kind": "print",
+      "onsale": "2000-06-06T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: Reckoning",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "043968143X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 151,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "043968143X",
+      "kind": "print",
+      "onsale": "2008-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
@@ -28,7 +44,7 @@
     "the-last-of-the-jedi-2005-8",
     "the-last-of-the-jedi-2005-9"
   ],
-  "releaseDate": "2008-05-07T00:00:00.000Z",
+  "releaseDate": "2008-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-of-the-jedi-2005-10",

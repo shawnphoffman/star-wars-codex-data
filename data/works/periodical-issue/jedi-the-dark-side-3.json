@@ -5,6 +5,36 @@
       "name": "Scott Allie",
       "role": "writer",
       "slug": "scott-allie"
+    },
+    {
+      "name": "Paul Mounts",
+      "role": "colorist",
+      "slug": "paul-mounts"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "inker",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "penciler",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "artist",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Jedi: The Dark Side #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "jedi-the-dark-side-graphic-novel",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-07-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-the-dark-side-3",
-  "synopsis": "On Telos IV, a priestess has been assassinated, and the planet is on the verge of civil war. Only Jedi Master Qui-Gon Jinn and his Padawan Xanatos can protect the planet's leader (who just happens to be Xanatos's father) and stop the insurgents. But Xanatos is succumbing to his own long-buried resentments and may soon be more of a hindrance than a help.",
+  "synopsis": "On Telos IV, a priestess has been assassinated, and the planet is on the verge of civil war. Only Jedi Master Qui-Gon Jinn and his Padawan Xanatos can protect the planet's leader-who just happens to be Xanatos's father-and stop the insurgents. But Xanatos is succumbing to his own long-buried resentments and may soon be more of a hindrance than a help. Twenty years before his fateful meeting with Anakin Skywalker, Qui-Gon Jinn had his first encounter with the dark side . . . * The story of jedi Qui-Gon Jinn's Padawan, before Obi-Wan Kenobi!",
   "title": "Jedi: The Dark Side #3"
 }

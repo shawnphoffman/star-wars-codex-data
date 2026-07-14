@@ -5,6 +5,21 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "The Clone Wars #03",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-12-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-03",
-  "synopsis": "Eighty million Togruta from the planet of Kiros have suddenly disappeared! It's up to Anakin Skywalker, Obi-Wan Kenobi, and Togruta Padawan Ahsoka Tano to find the lost population. A clue leads the Jedi to the Zygerria system: massive slave auctions have been held there in the past, and will be taking place again soon -- with the unfortunate Togruta on the auction block! This new series is a complement to Lucasfilm's highly anticipated CGI-animated Star Wars: The Clone Wars television series!",
+  "synopsis": "Eighty million Togruta from the planet of Kiros have suddenly disappeared! It's up to Anakin Skywalker, Obi-Wan Kenobi, and Togruta Padawan Ahsoka Tano to find the lost population . . . A clue leads the Jedi to the Zygerria system: massive slave auctions have been held there in the past, and will be taking place again soon-with the unfortunate Togruta on the auction block! * This new series is a complement to Lucasfilm's highly anticipated CGI-animated The Clone Wars television series!",
   "title": "The Clone Wars #03"
 }

@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Tales of the Bounty Hunters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553568167"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553568167",
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

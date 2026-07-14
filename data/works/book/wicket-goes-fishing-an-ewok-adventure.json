@@ -9,11 +9,26 @@
     }
   ],
   "displayTitle": "Wicket Goes Fishing: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394879716"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394879716",
+      "kind": "print",
+      "onsale": "1986-01-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1986-04-01T00:00:00.000Z",
+  "releaseDate": "1986-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-goes-fishing-an-ewok-adventure",

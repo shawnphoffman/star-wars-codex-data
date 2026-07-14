@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Crosscurrent",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345509056"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345509055"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345509056",
+      "isbn13": "9780345509055",
+      "kind": "print",
+      "onsale": "2010-01-26T00:00:00.000Z"
+    }
+  ],
   "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {

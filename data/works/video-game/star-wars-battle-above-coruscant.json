@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher S. Field",
+      "role": "producer",
+      "slug": "christopher-s-field"
+    }
+  ],
   "displayTitle": "Battle Above Coruscant",
   "format": "videoGame",
   "periodical": {

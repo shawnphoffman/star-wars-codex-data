@@ -9,6 +9,34 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Festival of Warriors",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101476"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101479"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 92,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101476",
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
+    },
+    {
+      "extent": 92,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439101479",
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

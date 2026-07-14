@@ -6,6 +6,16 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "artist",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
     }
   ],
   "displayTitle": "Dark Times: Blue Harvest #0",
@@ -15,12 +25,13 @@
     "startYear": -19
   },
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-08-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-blue-harvest-0",
-  "synopsis": "Star Wars: Dark Times: Blue Harvest is the fourth arc in the Star Wars: Dark Times series of comics. It consists of five regular comic issues, as well as two special 8-page issues published by Myspace / Dark Horse Presents. The online issues are collected in the TPB and also reprinted in a special comic issue Dark Times: Blue Harvest 0 in the original black-and-white form. The title is inspired by the fake name George Lucas gave Episode VI Return of the Jedi in 1983.",
+  "synopsis": "Former Jedi Dass Jennir accepts a job that puts him on a collision course with not one, but two deadly outlaw gangs! For the first time in print, here are the introductory chapters to “Blue Harvest” from Myspace Dark Horse Presents. The sixteen pages of story are presented two ways: first in color as they appeared online, and again in their raw penciled beauty. As fans of Dark Times know, Douglas Wheatley’s art is rich with detail, and Dark Horse has received many requests to reproduce the art in its original form. Also included are Wheatley’s character sketches and location designs for the “Blue Harvest” arc",
   "title": "Dark Times: Blue Harvest #0"
 }

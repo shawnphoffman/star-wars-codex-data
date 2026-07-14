@@ -11,15 +11,39 @@
       "name": "Steven Melching",
       "role": "writer",
       "slug": "steven-melching"
+    },
+    {
+      "name": "Vicenç Villagrasa",
+      "role": "penciler",
+      "slug": "vicen-villagrasa"
+    },
+    {
+      "name": "Vicente Ibañez",
+      "role": "inker",
+      "slug": "vicente-ibaez"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "coverArtist",
+      "slug": "dave-filoni"
     }
   ],
   "displayTitle": "The Clone Wars: The Sith Hunters",
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-08-15T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
-  "releaseDate": "2012-08-28T00:00:00.000Z",
+  "releaseDate": "2012-08-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-sith-hunters",

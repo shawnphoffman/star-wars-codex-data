@@ -11,15 +11,20 @@
   "displayTitle": "Clone Wars Gambit: Stealth",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345509021"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509024"
     }
   ],
   "editions": [
     {
-      "extent": 409,
-      "imprint": "Del Rey",
+      "extent": 432,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345509021",
       "isbn13": "9780345509024",
       "kind": "print",
       "onsale": "2010-02-23T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "clone-wars-gambit-stealth",
-  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi hoped to keep their presence on a distant world hidden, but now they may be in more danger than they’ve ever been in before.",
+  "synopsis": "Anakin Skywalker and Obi-Wan Kenobi hoped to keep their presence on a distant world hidden, but now they may be in more danger than they've ever been in before.",
   "title": "Clone Wars Gambit: Stealth"
 }

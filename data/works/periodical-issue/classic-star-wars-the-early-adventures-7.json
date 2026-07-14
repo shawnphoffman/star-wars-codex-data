@@ -5,6 +5,60 @@
       "name": "Russ Manning",
       "role": "writer",
       "slug": "russ-manning"
+    },
+    {
+      "name": "Ray Murtaugh",
+      "role": "colorist",
+      "slug": "ray-murtaugh"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "artist",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "artist",
+      "slug": "rick-hoberg"
+    },
+    {
+      "name": "Brian Snoddy",
+      "role": "artist",
+      "slug": "brian-snoddy"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "coverArtist",
+      "slug": "rick-hoberg"
+    },
+    {
+      "name": "Mischa McDowell",
+      "role": "coverArtist",
+      "slug": "mischa-mcdowell"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "penciler",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Brian Snoddy",
+      "role": "penciler",
+      "slug": "brian-snoddy"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "penciler",
+      "slug": "rick-hoberg"
     }
   ],
   "displayTitle": "Classic Star Wars: The Early Adventures #7",
@@ -17,7 +71,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-02-14T00:00:00.000Z",
+  "releaseDate": "1995-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-the-early-adventures-7",

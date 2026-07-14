@@ -1,9 +1,27 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Takashi Okazaki",
+      "role": "writer",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "penciler",
+      "slug": "takashi-okazaki"
+    },
+    {
+      "name": "Takashi Okazaki",
+      "role": "coverArtist",
+      "slug": "takashi-okazaki"
+    }
+  ],
   "displayTitle": "Visions - Takashi Okazaki (2022)",
   "format": "periodical",
   "periodical": {
     "imprint": "Marvel",
+    "pageCount": 31,
     "publicationKind": "comic"
   },
   "relatedWorkSlugs": [

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Fury",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477561"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345477561",
+      "kind": "print",
+      "onsale": "2007-11-27T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 40

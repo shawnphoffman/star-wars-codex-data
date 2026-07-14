@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Duane Swierczynski",
+      "role": "writer",
+      "slug": "duane-swierczynski"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Fernando Blanco",
+      "role": "inker",
+      "slug": "fernando-blanco"
+    },
+    {
+      "name": "Fernando Blanco",
+      "role": "penciler",
+      "slug": "fernando-blanco"
+    },
+    {
+      "name": "Julian Torino Tedesco",
+      "role": "coverArtist",
+      "slug": "julian-torino-tedesco"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
+    },
+    {
+      "name": "Marcelo Maiolo",
+      "role": "colorist",
+      "slug": "marcelo-maiolo"
+    }
+  ],
+  "displayTitle": "Rogue One: Cassian & K-2So Special (2017) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "rogue-one-cassian-k-2so-special-2017-1",
+  "title": "Rogue One: Cassian & K-2So Special (2017) #1"
+}

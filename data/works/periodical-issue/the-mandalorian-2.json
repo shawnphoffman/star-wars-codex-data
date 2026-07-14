@@ -10,6 +10,41 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Georges Jeanty",
+      "role": "penciler",
+      "slug": "georges-jeanty"
+    },
+    {
+      "name": "Kaare Andrews",
+      "role": "coverArtist",
+      "slug": "kaare-andrews"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "The Mandalorian #2",

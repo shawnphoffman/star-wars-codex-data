@@ -1,0 +1,38 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "colorist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    }
+  ],
+  "displayTitle": "The Star Wars #4",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-12-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-4",
+  "synopsis": "General Skywalker and Jedi-in-training Annikin Starkiller have a deadly encounter with mounted Stormtroopers! An encounter with outlaws in a cantina leads to a meeting with smuggler Han Solo! And a Jedi makes the ultimate sacrifice to save one of Princess Leia’s younger brothers! Duel in the desert! * Official eight-issue adaptation of George Lucas’s original rough-draft screenplay for Star Wars! * THE CANTINA SCENE YOU DIDN’T SEE!",
+  "title": "The Star Wars #4"
+}

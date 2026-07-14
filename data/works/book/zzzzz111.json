@@ -11,11 +11,31 @@
   "displayTitle": "Jedi Apprentice: The Dangerous Rescue",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139325"
+    },
+    {
+      "type": "isbn10",
+      "value": "0613357140"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139328"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439139325",
+      "kind": "print"
+    },
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0613357140",
+      "kind": "print",
+      "onsale": "2001-04-01T00:00:00.000Z"
+    },
     {
       "extent": 144,
       "imprint": "Scholastic",

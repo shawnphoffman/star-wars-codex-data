@@ -5,6 +5,36 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "George Freeman",
+      "role": "penciler",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "the-old-republic-the-lost-suns-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-09-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-the-lost-suns-2011-4",
-  "synopsis": "Captured by the evil Sith Empire, Republic spy Theron Shan is about to find out what secret sacrifice brought about the end of the great war. But once the Imperial's covert activities are revealed, will he be able to act on his devastating discoveries?",
+  "synopsis": "Captured by the evil Sith Empire, Republic spy Theron Shan is about to find out what secret sacrifice brought about the end of the great war. But once the Imperial's covert activities are revealed, will he be able to act on his devastating discoveries? The senior writer of the online game The Old Republic continues to weave secrets for game players into this comics saga! Don't miss a single crucial issue!",
   "title": "The Old Republic: The Lost Suns #4"
 }

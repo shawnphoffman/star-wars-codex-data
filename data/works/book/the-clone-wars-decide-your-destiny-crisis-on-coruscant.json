@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Decide Your Destiny: Crisis on Coruscant",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781409390077"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "isPrimary": true,
+      "isbn13": "9781409390077",
+      "kind": "print",
+      "onsale": "2010-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2010-01-28T00:00:00.000Z",
+  "releaseDate": "2010-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-decide-your-destiny-crisis-on-coruscant",

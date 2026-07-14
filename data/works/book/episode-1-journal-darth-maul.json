@@ -11,11 +11,23 @@
   "displayTitle": "Episode I Journal: Darth Maul",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139414"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139410"
     }
   ],
   "editions": [
+    {
+      "extent": 97,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439139414",
+      "kind": "print",
+      "onsale": "2000-03-01T00:00:00.000Z"
+    },
     {
       "extent": 97,
       "imprint": "Scholastic",

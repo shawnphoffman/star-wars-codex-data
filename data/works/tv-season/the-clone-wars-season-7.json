@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    }
+  ],
   "displayTitle": "The Clone Wars Season 7",
   "era": "fallOfTheJedi",
   "format": "tvSeason",

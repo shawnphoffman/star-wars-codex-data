@@ -1,5 +1,126 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Craig Thompson",
+      "role": "colorist",
+      "slug": "craig-thompson"
+    },
+    {
+      "name": "Matt Hollingsworth",
+      "role": "colorist",
+      "slug": "matt-hollingsworth"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Carlos Meglia",
+      "role": "inker",
+      "slug": "carlos-meglia"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "inker",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Fernando Blanco",
+      "role": "inker",
+      "slug": "fernando-blanco"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Clem Robins",
+      "role": "letterer",
+      "slug": "clem-robins"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Cliff Richards",
+      "role": "penciler",
+      "slug": "cliff-richards"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "penciler",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Terry Moore",
+      "role": "writer",
+      "slug": "terry-moore"
+    },
+    {
+      "name": "Ian Edginton",
+      "role": "writer",
+      "slug": "ian-edginton"
+    },
+    {
+      "name": "Dean Motter",
+      "role": "writer",
+      "slug": "dean-motter"
+    },
+    {
+      "name": "Craig Thompson",
+      "role": "inker",
+      "slug": "craig-thompson"
+    },
+    {
+      "name": "Craig Thompson",
+      "role": "letterer",
+      "slug": "craig-thompson"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "letterer",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Craig Thompson",
+      "role": "penciler",
+      "slug": "craig-thompson"
+    },
+    {
+      "name": "Carlos Meglia",
+      "role": "penciler",
+      "slug": "carlos-meglia"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "penciler",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Craig Thompson",
+      "role": "writer",
+      "slug": "craig-thompson"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "writer",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Cliff Richard",
+      "slug": "cliff-richard"
+    },
+    {
+      "name": "Andrew Robinson",
+      "role": "coverArtist",
+      "slug": "andrew-robinson"
+    }
+  ],
   "displayTitle": "Tales #05",
   "era": "multiEra",
   "format": "periodicalIssue",

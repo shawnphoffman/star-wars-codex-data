@@ -13,6 +13,10 @@
     {
       "type": "isbn13",
       "value": "9780606352840"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484702734"
     }
   ],
   "editions": [
@@ -21,6 +25,14 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9780606352840",
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
+    },
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484702734",
       "kind": "print",
       "onsale": "2014-08-05T00:00:00.000Z"
     }

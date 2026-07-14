@@ -5,6 +5,46 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema/Brad Anderson",
+      "role": "colorist",
+      "slug": "jan-duursemabrad-anderson"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
     }
   ],
   "displayTitle": "Legacy #24: Loyalties, Part 2",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-05-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-24-loyalties-part-2",
-  "synopsis": "Cade Skywalker determines to deal with the Empire once and for all in this conclusion to one of the most important stories of the year! When a reunion with old friends is compromised by an Imperial intrusion, Cade realizes there's only one way to stop the Sith, a way that requires a fast ship, a custom-made blaster, and most of all, allies you can trust. Yet not all in his party are who they seem to be, and if Cade's not careful, he might just doom the galaxy's last ray of hope to a dark and devastating fate. Introduces a surprising new member to the Legacy cast!",
+  "synopsis": "Cade Skywalker determines to deal with the Empire once and for all in this conclusion to one of the most important stories of the year! When a reunion with old friends is compromised by an Imperial intrusion, Cade realizes there's only one way to stop the Sith-a way that requires a fast ship, a custom-made blaster, and most of all, allies you can trust. Yet not all in his party are who they seem to be, and if Cade's not careful, he might just doom the galaxy's last ray of hope to a dark and devastating fate. Introduces a surprising new member to the Legacy cast!",
   "title": "Legacy #24: Loyalties, Part 2"
 }

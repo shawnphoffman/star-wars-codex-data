@@ -1,0 +1,78 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Scott Koblish",
+      "role": "inker",
+      "slug": "scott-koblish"
+    },
+    {
+      "name": "Karl Story",
+      "role": "inker",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Marc Deering",
+      "role": "inker",
+      "slug": "marc-deering"
+    },
+    {
+      "name": "Scott Koblish",
+      "role": "penciler",
+      "slug": "scott-koblish"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Stefano Landini",
+      "role": "penciler",
+      "slug": "stefano-landini"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Glenn Greenberg",
+      "role": "writer",
+      "slug": "glenn-greenberg"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "coverArtist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Tamra Bonvillain",
+      "role": "colorist",
+      "slug": "tamra-bonvillain"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    }
+  ],
+  "displayTitle": "Age of Rebellion: Luke Skywalker (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "age-of-rebellion-luke-skywalker-2019-1",
+  "title": "Age of Rebellion: Luke Skywalker (2019) #1"
+}

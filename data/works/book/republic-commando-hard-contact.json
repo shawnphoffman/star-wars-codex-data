@@ -11,6 +11,10 @@
   "displayTitle": "Republic Commando: Hard Contact",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345478274"
+    },
+    {
       "type": "isbn13",
       "value": "9780345478276"
     }
@@ -20,6 +24,7 @@
       "extent": 293,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345478274",
       "isbn13": "9780345478276",
       "kind": "print",
       "onsale": "2004-10-26T00:00:00.000Z"

@@ -1,5 +1,52 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stig Asmussen",
+      "role": "director",
+      "slug": "stig-asmussen"
+    },
+    {
+      "name": "Paul Hatfield",
+      "role": "producer",
+      "slug": "paul-hatfield"
+    },
+    {
+      "name": "Aaron Contreras",
+      "role": "writer",
+      "slug": "aaron-contreras"
+    },
+    {
+      "name": "Lars Martinsson",
+      "role": "artist",
+      "slug": "lars-martinsson"
+    },
+    {
+      "name": "Adam Perin",
+      "role": "artist",
+      "slug": "adam-perin"
+    },
+    {
+      "name": "Matthew Cooke",
+      "role": "artist",
+      "slug": "matthew-cooke"
+    },
+    {
+      "name": "Nick Laviers",
+      "role": "composer",
+      "slug": "nick-laviers"
+    },
+    {
+      "name": "Stephen Barton",
+      "role": "composer",
+      "slug": "stephen-barton"
+    },
+    {
+      "name": "Gordy Haab",
+      "role": "composer",
+      "slug": "gordy-haab"
+    }
+  ],
   "displayTitle": "Jedi: Survivor",
   "era": "reignOfTheEmpire",
   "format": "videoGame",

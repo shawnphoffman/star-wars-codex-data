@@ -1,0 +1,52 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryan Benjamin",
+      "role": "penciler",
+      "slug": "ryan-benjamin"
+    },
+    {
+      "name": "Saleem Crawford",
+      "role": "inker",
+      "slug": "saleem-crawford"
+    },
+    {
+      "name": "Adam Gallardo",
+      "role": "writer",
+      "slug": "adam-gallardo"
+    },
+    {
+      "name": "Joel Benjamin",
+      "role": "colorist",
+      "slug": "joel-benjamin"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Lani Schreibstein",
+      "slug": "lani-schreibstein"
+    },
+    {
+      "name": "Rodolfo Migliari",
+      "role": "coverArtist",
+      "slug": "rodolfo-migliari"
+    }
+  ],
+  "displayTitle": "Infinities: Return of the Jedi (2003) #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-infinities-return-of-the-jedi-2003-3",
+  "title": "Star Wars Infinities: Return of the Jedi (2003) #3"
+}

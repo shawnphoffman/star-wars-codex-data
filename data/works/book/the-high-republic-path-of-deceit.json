@@ -11,6 +11,10 @@
       "name": "Justina Ireland",
       "role": "writer",
       "slug": "justina-ireland"
+    },
+    {
+      "name": "Corey Brickley",
+      "slug": "corey-brickley"
     }
   ],
   "displayTitle": "Path of Deceit",
@@ -33,7 +37,7 @@
     },
     {
       "extent": 352,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368076122",
       "isbn13": "9781368076128",

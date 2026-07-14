@@ -16,15 +16,24 @@
   "displayTitle": "The Ewoks' Hang-Gliding Adventure",
   "editionIds": [
     {
-      "type": "isbn13",
-      "value": "9780394863559"
+      "type": "isbn10",
+      "value": "0394863550"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394863550",
+      "kind": "print",
+      "onsale": "1984-05-01T00:00:00.000Z"
     }
   ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1984-06-28T00:00:00.000Z",
+  "releaseDate": "1984-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ewoks-hang-gliding-adventure",

@@ -5,6 +5,40 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "penciler",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Gary Martin",
+      "role": "inker",
+      "slug": "gary-martin"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #29: Masquerade, Part 2",

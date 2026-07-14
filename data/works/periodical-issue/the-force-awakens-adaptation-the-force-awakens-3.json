@@ -1,5 +1,27 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "coverArtist",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
   "displayTitle": "The Force Awakens #3",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

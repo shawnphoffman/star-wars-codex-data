@@ -5,6 +5,16 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Blood Ties: A Tale of Jango and Boba Fett #4",
@@ -16,12 +26,13 @@
   },
   "parentWorkSlug": "blood-ties-a-tale-of-jango-and-boba-fett-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-11-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-a-tale-of-jango-and-boba-fett-2010-4",
-  "synopsis": "Boba Fett is on a mission to uphold his father's honor. But when a bounty is paid, and the crime lord who issued it still refuses to call off his vendetta, Boba Fett's own sense of honor is offended. Forget about bounties; now there's hell to pay!",
+  "synopsis": "Boba Fett is on a mission to uphold his father's honor. But when a bounty is paid, and the crime lord who issued it still refuses to call off his vendetta, Boba Fett's own sense of honor is offended. Forget about bounties; now there's hell to pay! Boba Fett takes on a crime lord. Check. And the crime lord's army of minions. Check. And a giant, rampaging rancor. Check and double--check! Fully painted art by Purge artist Chris Scalf!",
   "title": "Blood Ties: A Tale of Jango and Boba Fett #4"
 }

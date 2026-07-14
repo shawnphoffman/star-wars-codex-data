@@ -5,6 +5,110 @@
       "name": "Dave Manak",
       "role": "writer",
       "slug": "dave-manak"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Marie Severin",
+      "role": "colorist",
+      "slug": "marie-severin"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    },
+    {
+      "name": "John Romita Sr.",
+      "role": "penciler",
+      "slug": "john-romita-sr"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "inker",
+      "slug": "andy-mushynsky"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Bill Pearson",
+      "role": "letterer",
+      "slug": "bill-pearson"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "coverArtist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Daniel Kurt Thorsland",
+      "role": "writer",
+      "slug": "daniel-kurt-thorsland"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "Droids #1: The Destroyer",
@@ -17,10 +121,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1986-04-01T00:00:00.000Z",
+  "releaseDate": "1994-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-1-the-destroyer",
-  "synopsis": "R2-D2 and C-3PO are sent by the Intergalactic Droid Agency to the tiny planet Dodz to serve their new master, crystal merchant Lott Kemp. But when the droids arrive on Dodz they discover that Kemp has gone missing and his home has been destroyed, thus a new adventure begins!",
+  "synopsis": "In the Star Wars galaxy, automatons are so much necessary property, but even first-degree droids are considered expendable! Set before the events of Star Wars: A New Hope and the formation of the Empire, Droids features the adventures of protocol droid See-Threepio and astromech droid Artoo-Detoo in the Kalarba system (as seen in DHC #17, 18, and 19). Despite their differences, See-Threepio and Artoo-Detoo know that the best way to survive is to stick together. Thank the maker!",
   "title": "Star Wars Droids #1: The Destroyer"
 }

@@ -5,6 +5,41 @@
       "name": "Kevin J. Anderson",
       "role": "writer",
       "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "penciler",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "inker",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "inker",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "inker",
+      "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Ray Murtaugh",
+      "role": "colorist",
+      "slug": "ray-murtaugh"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Jedi Academy: Leviathan",
@@ -16,7 +51,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2000-07-19T00:00:00.000Z",
+  "releaseDate": "1998-10-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-academy-leviathan-graphic-novel",

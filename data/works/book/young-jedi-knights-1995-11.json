@@ -14,6 +14,21 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: The Emperor's Plague",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1572973315"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Boulevard/Berkley Jam",
+      "isPrimary": true,
+      "isbn10": "1572973315",
+      "kind": "print",
+      "onsale": "1998-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

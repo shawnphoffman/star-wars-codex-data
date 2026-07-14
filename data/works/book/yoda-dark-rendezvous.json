@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Yoda: Dark Rendezvous",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345463098"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 352,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345463098",
+      "kind": "print",
+      "onsale": "2004-11-23T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

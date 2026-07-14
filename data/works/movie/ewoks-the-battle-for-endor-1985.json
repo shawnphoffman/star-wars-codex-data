@@ -25,11 +25,36 @@
       "name": "George Lucas",
       "role": "writer",
       "slug": "george-lucas"
+    },
+    {
+      "name": "Peter Bernstein",
+      "role": "composer",
+      "slug": "peter-bernstein"
+    },
+    {
+      "name": "Paul Chadwick",
+      "role": "writer",
+      "slug": "paul-chadwick"
+    },
+    {
+      "name": "Jim",
+      "role": "director",
+      "slug": "jim"
+    },
+    {
+      "name": "Thomas G. Smith",
+      "role": "producer",
+      "slug": "thomas-g-smith"
     }
   ],
   "displayTitle": "Ewoks: The Battle for Endor",
   "era": "ageOfRebellion",
   "format": "movie",
+  "movie": {
+    "movieType": "tvMovie",
+    "mpaaRating": "unrated",
+    "runtimeMinutes": 94
+  },
   "periodical": {
     "publicationKind": "comic"
   },

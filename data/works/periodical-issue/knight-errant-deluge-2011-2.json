@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Iban Coello",
+      "role": "penciler",
+      "slug": "iban-coello"
+    },
+    {
+      "name": "Sergio Abad",
+      "role": "inker",
+      "slug": "sergio-abad"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Deluge #2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knight-errant-deluge-2011",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-09-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-deluge-2011-2",
-  "synopsis": "Answering a distress call, Jedi Knight Kerra Holt has returned to her Sith-held home planet to liberate as many slaves as possible with a single shuttle. She didn't expect to meet a squadron of starfighters from the Republic! With the help of the Devil Squadron, Kerra can go on the offensive, and the entire planet will have a chance at liberation!\nBut there is more to the Devils than it first appears. A scheming Hutt with an evil agenda is infiltrating the planet, and the Sith Lord Daiman is just getting wind of what is happening on his planet!",
+  "synopsis": "Answering a distress call, Jedi Knight Kerra Holt has returned to her Sith-held home planet to liberate as many slaves as possible with a single shuttle. She didn't expect to meet a squadron of starfighters from the Republic! With the help of the Devil Squadron, Kerra can go on the offensive, and the entire planet will have a chance at liberation! But there is more to the Devils than it first appears. A scheming Hutt with an evil agenda is infiltrating the planet, and the Sith Lord Daiman is just getting wind of what is happening on his planet! * Meet the Devil Squadron and their never-before-seen starfighters! * Look for John Jackson Miller's Knight Errant novel from Del Rey!",
   "title": "Knight Errant: Deluge #2"
 }

@@ -1,0 +1,36 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Anthony Breznican",
+      "role": "writer",
+      "slug": "anthony-breznican"
+    }
+  ],
+  "displayTitle": "Icons: Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781647225223"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 464,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9781647225223",
+      "kind": "print",
+      "onsale": "2026-10-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-icons-darth-vader",
+  "title": "Star Wars Icons: Darth Vader"
+}

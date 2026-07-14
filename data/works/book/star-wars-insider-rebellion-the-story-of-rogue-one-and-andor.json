@@ -1,0 +1,29 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "displayTitle": "Insider: Rebellion: The Story of Rogue One and Andor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781806184040"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "isbn13": "9781806184040",
+      "kind": "print",
+      "onsale": "2026-11-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-11-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-insider-rebellion-the-story-of-rogue-one-and-andor",
+  "title": "Star Wars Insider: Rebellion: The Story of Rogue One and Andor"
+}

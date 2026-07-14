@@ -15,6 +15,46 @@
       "name": "Raul Fernandez",
       "role": "artist",
       "slug": "raul-fernandez"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "penciler",
+      "slug": "ramon-bachs"
+    },
+    {
+      "name": "Raul Fernandez",
+      "role": "inker",
+      "slug": "raul-fernandez"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "John Williams",
+      "role": "coverArtist",
+      "slug": "john-williams"
+    },
+    {
+      "name": "Mick Gray",
+      "role": "coverArtist",
+      "slug": "mick-gray"
+    },
+    {
+      "name": "Jeremy Cox",
+      "role": "coverArtist",
+      "slug": "jeremy-cox"
     }
   ],
   "displayTitle": "Starfighter: Crossbones",

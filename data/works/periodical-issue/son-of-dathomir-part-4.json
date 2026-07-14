@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Jeremy Barlow",
@@ -25,6 +25,31 @@
       "name": "Chris Scalf",
       "role": "artist",
       "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Juan Frigeri",
+      "role": "penciler",
+      "slug": "juan-frigeri"
+    },
+    {
+      "name": "Mauro Vargas",
+      "role": "inker",
+      "slug": "mauro-vargas"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Darth Maul: Son of Dathomir, Part 4",
@@ -35,12 +60,13 @@
   },
   "parentWorkSlug": "darth-maul-son-of-dathomir-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-08-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "son-of-dathomir-part-4",
-  "synopsis": "Count Dooku is possessed by the spirit of Mother Talzin! Darth Maul's Shadow Collective is shattered! The Separatists attack! And Darth Sidious himself enters the fight!",
+  "synopsis": "Count Dooku is possessed by the spirit of Mother Talzin! Darth Maul’s Shadow Collective is shattered! The Separatists attack! And Darth Sidious himself enters the fight! * Based on unproduced episodes of the television series The Clone Wars!",
   "title": "Darth Maul: Son of Dathomir, Part 4"
 }

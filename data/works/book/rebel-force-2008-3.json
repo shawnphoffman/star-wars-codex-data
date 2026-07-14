@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Renegade",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780545112116"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780545112116",
+      "kind": "print",
+      "onsale": "2009-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

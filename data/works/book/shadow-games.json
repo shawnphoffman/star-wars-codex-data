@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Shadow Games",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511204"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 351,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345511204",
+      "kind": "print",
+      "onsale": "2011-11-29T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

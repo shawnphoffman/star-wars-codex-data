@@ -10,6 +10,35 @@
       "name": "Darko Macan",
       "role": "writer",
       "slug": "darko-macan"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "artist",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Edvin Biuković",
+      "role": "letterer",
+      "slug": "edvin-biukovi"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #06: The Phantom Affair, Part 2",
@@ -22,10 +51,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-03-12T00:00:00.000Z",
+  "releaseDate": "1996-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-06-the-phantom-affair-part-2",
-  "synopsis": "If Wedge Antilles can't persuade the alien Mrlssi to sell their cloaking device to the New Republic, the result could be disaster. And that's just what Wedge expects when he discovers that the negotiating party includes Loka Hask -- the pirate chieftain who killed Wedge's parents!",
+  "synopsis": "If Wedge Antilles can't persuade the alien Mrlssti to sell their cloaking device to the New Republic, the result could be disaster. And that's just what Wedge expects when he discovers that the negotiating party includes Loka Hask -- the pirate chieftain who killed Wedge's parents!",
   "title": "X-Wing Rogue Squadron #06: The Phantom Affair, Part 2"
 }

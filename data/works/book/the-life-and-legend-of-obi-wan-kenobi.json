@@ -9,13 +9,29 @@
     }
   ],
   "displayTitle": "The Life and Legend of Obi-Wan Kenobi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545085594"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 214,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545085594",
+      "kind": "print",
+      "onsale": "2008-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": 9,
     "startYear": -44
   },
-  "releaseDate": "2008-08-27T00:00:00.000Z",
+  "releaseDate": "2008-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-life-and-legend-of-obi-wan-kenobi",

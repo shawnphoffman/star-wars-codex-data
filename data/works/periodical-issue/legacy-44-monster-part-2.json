@@ -10,6 +10,36 @@
       "name": "Jan Duursema",
       "role": "writer",
       "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Legacy #44: Monster, Part 2",
@@ -20,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-01-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-44-monster-part-2",
-  "synopsis": "On the trail of a bounty that is supposed to bring them a cool million credits, Cade Skywalker, Deliah Blue, and Jariah Syn have taken the Mynock to Wayland -- the site of Kol Skywalker and the Yuuzhan Vong's first failure in the Ossus Project. Expecting a blue-milk run, the trio step off their ship to find something completely different...\nElsewhere in the galaxy, Moff Morlish Veed relishes his role as regent and Moff Nyna Calixte... doesn't. And Skull Squadron prepares for a blue milk-run of their own!\nThe \"sins\" of his father are visited on Cade Skywalker!",
+  "synopsis": "On the trail of a bounty that is supposed to bring them a cool million credits, Cade Skywalker, Deliah Blue, and Jariah Syn have taken the Mynock to Wayland -- the site of Kol Skywalker and the Yuuzhan Vong's first failure in the Ossus Project. Expecting a blue-milk run, the trio step off their ship to find something completely different . . . Elsewhere in the galaxy, Moff Morlish Veed relishes his role as regent and Moff Nyna Calixte . . . doesn't. And Skull Squadron prepares for a blue milk-run of their own! The \"sins\" of his father are visited on Cade Skywalker!",
   "title": "Legacy #44: Monster, Part 2"
 }

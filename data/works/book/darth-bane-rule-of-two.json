@@ -11,6 +11,10 @@
   "displayTitle": "Darth Bane: Rule of Two",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345477480"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477484"
     }
@@ -20,6 +24,7 @@
       "extent": 318,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477480",
       "isbn13": "9780345477484",
       "kind": "print",
       "onsale": "2008-10-28T00:00:00.000Z"

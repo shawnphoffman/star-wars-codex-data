@@ -5,6 +5,11 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Blood Ties: A Tale of Jango and Boba Fett #1",
@@ -16,12 +21,13 @@
   },
   "parentWorkSlug": "blood-ties-a-tale-of-jango-and-boba-fett-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-08-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-a-tale-of-jango-and-boba-fett-2010-1",
-  "synopsis": "Here begins a multigenerational tale of honor and redemption, starring two of the heaviest hitters in the Star Wars galaxy -- the father-and-clone team of Jango and Boba Fett! Shortly before the start of the Clone Wars, Count Dooku sends Jango Fett on a mission that will affect the course of Boba Fett's life some twenty years later. But for now, neither of them knows what the future holds in store, and besides, they have their schedule filled dodging monsters and fighting bad guys! It's Jango Fett and Boba Fett together in a series featuring fully painted art by Purge artist Chris Scalf!",
+  "synopsis": "Here begins a multigenerational tale of honor and redemption, starring two of the heaviest hitters in the Star Wars galaxy-the father-and-clone team of Jango and Boba Fett! Shortly before the start of the Clone Wars, Count Dooku sends Jango Fett on a mission that will affect the course of Boba Fett's life some twenty years later. But for now, neither of them knows what the future holds in store, and besides, they have their schedule filled dodging monsters and fighting bad guys! * Jango Fett and Boba Fett together! * Fully painted art by Purge artist Chris Scalf!",
   "title": "Blood Ties: A Tale of Jango and Boba Fett #1"
 }

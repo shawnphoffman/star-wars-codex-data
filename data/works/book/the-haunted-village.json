@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "The Haunted Village",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780583311649"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Dragon Picture Books",
+      "isPrimary": true,
+      "isbn13": "9780583311649",
+      "kind": "print",
+      "onsale": "1987-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1987-09-24T00:00:00.000Z",
+  "releaseDate": "1987-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-haunted-village",

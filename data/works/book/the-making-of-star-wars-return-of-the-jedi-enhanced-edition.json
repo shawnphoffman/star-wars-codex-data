@@ -11,10 +11,19 @@
       "name": "Brad Bird",
       "role": "writer",
       "slug": "brad-bird"
+    },
+    {
+      "name": "J. W. Rinzler",
+      "role": "writer",
+      "slug": "j-w-rinzler"
     }
   ],
   "displayTitle": "The Making of Star Wars: Return of the Jedi (Enhanced Edition)",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511468"
+    },
     {
       "type": "isbn13",
       "value": "9780345511461"
@@ -23,8 +32,9 @@
   "editions": [
     {
       "extent": 372,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345511468",
       "isbn13": "9780345511461",
       "kind": "print",
       "onsale": "2013-10-01T00:00:00.000Z"

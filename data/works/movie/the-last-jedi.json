@@ -25,6 +25,76 @@
       "name": "Rian Johnson",
       "role": "director",
       "slug": "rian-johnson"
+    },
+    {
+      "name": "Leifur B. Dagfinnsson",
+      "role": "producer",
+      "slug": "leifur-b-dagfinnsson"
+    },
+    {
+      "name": "J.J. Abrams",
+      "role": "producer",
+      "slug": "j-j-abrams"
+    },
+    {
+      "name": "Jason McGatlin",
+      "role": "producer",
+      "slug": "jason-mcgatlin"
+    },
+    {
+      "name": "Tom Karnowski",
+      "role": "producer",
+      "slug": "tom-karnowski"
+    },
+    {
+      "name": "Pippa Anderson",
+      "role": "producer",
+      "slug": "pippa-anderson"
+    },
+    {
+      "name": "Candice Compos",
+      "role": "producer",
+      "slug": "candice-compos"
+    },
+    {
+      "name": "Kiri Hart",
+      "role": "producer",
+      "slug": "kiri-hart"
+    },
+    {
+      "name": "James Christopher",
+      "role": "producer",
+      "slug": "james-christopher"
+    },
+    {
+      "name": "Nour Dardari",
+      "role": "producer",
+      "slug": "nour-dardari"
+    },
+    {
+      "name": "Leopold Hughes",
+      "role": "producer",
+      "slug": "leopold-hughes"
+    },
+    {
+      "name": "Nikos Karamigios",
+      "role": "producer",
+      "slug": "nikos-karamigios"
+    },
+    {
+      "name": "Boris Dmitrovic",
+      "role": "producer",
+      "slug": "boris-dmitrovic"
+    },
+    {
+      "name": "Finni Johannsson",
+      "role": "producer",
+      "slug": "finni-johannsson"
+    },
+    {
+      "name": "Andres Jauernick",
+      "role": "producer",
+      "slug": "andres-jauernick"
     }
   ],
   "displayTitle": "Episode VIII: The Last Jedi",
@@ -42,6 +112,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi",
-  "synopsis": "With the destruction of the Republic, the evil First Order reigns. Now, Supreme Leader Snoke looks to crush what’s left of the Resistance and cement his grip on the galaxy. But hope survives: Rey has found Luke Skywalker, a legendary Jedi Master who can change the tide of war.",
+  "synopsis": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
   "title": "Episode VIII: The Last Jedi"
 }

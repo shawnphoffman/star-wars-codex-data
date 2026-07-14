@@ -6,6 +6,31 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "inker",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "The Jabba Tape",

@@ -10,6 +10,56 @@
       "name": "Vincenzo Federici",
       "role": "artist",
       "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Juan Samu",
+      "role": "artist",
+      "slug": "juan-samu"
+    },
+    {
+      "name": "Comicraft’s Tyler Smith",
+      "role": "letterer",
+      "slug": "comicrafts-tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Eduardo Melo with Valentina Tadde",
+      "role": "coverArtist",
+      "slug": "eduardo-melo-with-valentina-tadde"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "penciler",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Juan Samu",
+      "role": "penciler",
+      "slug": "juan-samu"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Valentina Taddeo",
+      "role": "coverArtist",
+      "slug": "valentina-taddeo"
     }
   ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear #2",
@@ -20,12 +70,13 @@
   },
   "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear-5",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2024-10-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-echoes-of-fear-2",
-  "synopsis": "Issue 2 of 4 from Dark Horse Comics The High Republic Adventures: Echoes of Fear Mini Series\nJedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo are charged with delving into the Jedi Archives to learn more about the mysterious Echo Stones and their Force-amplifying powers. In their search, they uncover the dark legend of the ancient Sith Lord, Darth Ravi, and his quest to solve an ancient puzzle that could grant him power beyond imagining…or destroy him utterly.",
+  "synopsis": "Jedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo delve deeper into the history of the Echo Stones. In doing so, they unearth the epic tale of Jedi Master Barnabas Vim and his Padawan Vix Fonnick as they try to recover an Echo Stone from the hands of a Jedi Wayfinder who risks being seduced by its force-amplifying power.",
   "title": "The High Republic Adventures: Echoes of Fear #2"
 }

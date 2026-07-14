@@ -1,6 +1,13 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Insider #233",
+  "editions": [
+    {
+      "extent": 84,
+      "isPrimary": false,
+      "kind": "print"
+    }
+  ],
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
@@ -12,5 +19,5 @@
   "releaseStatus": "released",
   "slug": "star-wars-insider-233",
   "synopsis": "Magazine issue featuring exclusive Star Wars short fiction by Adam Lance Garcia, interviews, and features.",
-  "title": "Star Wars Insider #233"
+  "title": "Insider #233"
 }

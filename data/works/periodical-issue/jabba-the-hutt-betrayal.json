@@ -6,6 +6,40 @@
       "name": "Jim Woodring",
       "role": "writer",
       "slug": "jim-woodring"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "penciler",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Monty Sheldon",
+      "role": "inker",
+      "slug": "monty-sheldon"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
   "displayTitle": "Jabba the Hutt: Betrayal",
@@ -17,10 +51,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-02-20T00:00:00.000Z",
+  "releaseDate": "1996-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jabba-the-hutt-betrayal",
-  "synopsis": "Everyone hopes to get a big break someday, move up to the top seat in their line of work. But when that line of work is intergalactic crime, you've got to make your own breaks. Bib Fortuna, Jabba's loyal lieutenant, has plotted a slave revolt against the Hutt. We've seen how Jabba handles negotiations&mdash;now we'll see how he handles Betrayal.",
+  "synopsis": "Everyone hopes to get a big break someday, move up to the top seat in their line of work. But when that line of work is intergalactic crime, you've got to make your own breaks. Bib Fortuna, Jabba's loyal lieutenant, has plotted a slave revolt against the Hutt. We've seen how Jabba handles negotiations -- now we'll see how he handles Betrayal.",
   "title": "Jabba the Hutt: Betrayal"
 }

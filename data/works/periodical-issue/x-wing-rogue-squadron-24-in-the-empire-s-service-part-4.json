@@ -5,6 +5,40 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #24: In the Empire's Service, Part 4",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-24-in-the-empire-s-service-part-4",
-  "synopsis": "Baron Fel's wingmen&mdash;the merciless pilots of the Imperial 181st Fighter Division&mdash;are falling to the firepower of Rogue Squadron. But Fel himself is not down. He has a final card to play, and Wedge Antilles is about to fold!",
+  "synopsis": "Baron Fel's wingmen -- the merciless pilots of the Imperial 181st Fighter Division -- are falling to the firepower of Rogue Squadron. But Fel himself is not down. He has a final card to play, and Wedge Antilles is about to fold!",
   "title": "X-Wing Rogue Squadron #24: In the Empire's Service, Part 4"
 }

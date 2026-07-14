@@ -6,6 +6,35 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
     }
   ],
   "displayTitle": "Boba Fett: Murder Most Foul",
@@ -21,6 +50,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-murder-most-foul",
-  "synopsis": "Gorga may want to call off the hit&mdash;the target being his father-in-law and Gorga's wife being suddenly pregnant and all&mdash;but Boba Fett was promised a contract, and he doesn't do last-minute cancellations. It's a knockdown, drag-out roustabout in Boba Fett: Murder Most Foul!",
+  "synopsis": "Gorga may want to call off the hit -- the target being his father-in-law and Gorga's wife being suddenly pregnant and all -- but Boba Fett was promised a contract, and he doesn't do last-minute cancellations. It's a knockdown, drag-out roustabout in Boba Fett: Murder Most Foul!",
   "title": "Boba Fett: Murder Most Foul"
 }

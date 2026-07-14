@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9781484704653"
+    },
+    {
+      "type": "isbn13",
       "value": "9781532140679"
     }
   ],
   "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484704653",
+      "kind": "print",
+      "onsale": "2015-03-31T00:00:00.000Z"
+    },
     {
       "extent": 32,
       "imprint": "Disney-Lucasfilm Press",

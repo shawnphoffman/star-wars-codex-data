@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Survivor's Quest",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345459164"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345459164",
+      "kind": "print",
+      "onsale": "2004-02-03T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

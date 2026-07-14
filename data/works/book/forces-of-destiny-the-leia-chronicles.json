@@ -11,6 +11,18 @@
   "displayTitle": "Forces of Destiny: The Leia Chronicles",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B071NBGMTB"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368017150"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368011181"
+    },
+    {
       "type": "isbn13",
       "value": "9781368017152"
     }
@@ -18,8 +30,18 @@
   "editions": [
     {
       "extent": 128,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368011181",
+      "kind": "print",
+      "onsale": "2018-01-02T00:00:00.000Z"
+    },
+    {
+      "asin": "B071NBGMTB",
+      "extent": 112,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368017150",
       "isbn13": "9781368017152",
       "kind": "print",
       "onsale": "2018-01-02T00:00:00.000Z"

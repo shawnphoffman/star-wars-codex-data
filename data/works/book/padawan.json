@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9781368023498"
+    },
+    {
+      "type": "isbn13",
       "value": "9781368093774"
     }
   ],
   "editions": [
+    {
+      "extent": 410,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368023498",
+      "kind": "print",
+      "onsale": "2022-07-26T00:00:00.000Z"
+    },
     {
       "extent": 410,
       "imprint": "Disney-Lucasfilm Press",

@@ -11,9 +11,30 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
     }
   ],
   "displayTitle": "The Force Unleashed II",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511546"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511546",
+      "kind": "print",
+      "onsale": "2010-10-05T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

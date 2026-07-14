@@ -15,6 +15,13 @@
       "value": "9780448455792"
     }
   ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn13": "9780448455792",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -21

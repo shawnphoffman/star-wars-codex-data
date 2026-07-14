@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Uprising",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545140862"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 142,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545140862",
+      "kind": "print",
+      "onsale": "2010-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

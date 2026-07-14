@@ -30,9 +30,29 @@
       "name": "Lee Bermejo",
       "role": "artist",
       "slug": "lee-bermejo"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "penciler",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Marjorie Liu",
+      "role": "writer",
+      "slug": "marjorie-liu"
+    },
+    {
+      "name": "Kamome Shirahama",
+      "role": "coverArtist",
+      "slug": "kamome-shirahama"
     }
   ],
-  "displayTitle": "Han Solo, Part V",
+  "displayTitle": "Han Solo (2016) #5",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -47,5 +67,5 @@
   "releaseStatus": "released",
   "slug": "han-solo-part",
   "synopsis": "This is it, the dramatic conclusion to the Dragon Void race! Will Han take the trophy? Or be left with the space junk? Our favorite scoundrel's first miniseries comes to a photo finish!",
-  "title": "Han Solo, Part V"
+  "title": "Han Solo (2016) #5"
 }

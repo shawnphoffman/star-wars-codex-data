@@ -11,16 +11,42 @@
       "name": "Yasaku Komiyama",
       "role": "artist",
       "slug": "yasaku-komiyama"
+    },
+    {
+      "name": "Yusaku Komiyama",
+      "role": "writer",
+      "slug": "yusaku-komiyama"
+    },
+    {
+      "name": "Yusaku Komiyama",
+      "role": "penciler",
+      "slug": "yusaku-komiyama"
     }
   ],
   "displayTitle": "Lost Stars: Vol. 2 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781975327545"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Line Corporation *Yen Press",
+      "isPrimary": true,
+      "isbn13": "9781975327545",
+      "kind": "print",
+      "onsale": "2019-04-20T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "endYear": 3,
     "startYear": 0
   },
-  "releaseDate": "2019-09-03T00:00:00.000Z",
+  "releaseDate": "2019-04-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-stars-volume-2",

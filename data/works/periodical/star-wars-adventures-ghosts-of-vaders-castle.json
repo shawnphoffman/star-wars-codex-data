@@ -30,12 +30,98 @@
       "name": "Megan Levens",
       "role": "artist",
       "slug": "megan-levens"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "penciler",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "penciler",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "penciler",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "penciler",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "inker",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "inker",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "inker",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "inker",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "inker",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "colorist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "colorist",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "colorist",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "colorist",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Megan Levens",
+      "role": "colorist",
+      "slug": "megan-levens"
+    },
+    {
+      "name": "Shawn Levy",
+      "role": "letterer",
+      "slug": "shawn-levy"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Ghosts of Vader's Castle",
   "era": "newRepublic",
   "format": "periodical",
   "periodical": {
+    "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
   "releaseDate": "2021-09-22T00:00:00.000Z",

@@ -5,6 +5,65 @@
       "name": "Russ Manning",
       "role": "writer",
       "slug": "russ-manning"
+    },
+    {
+      "name": "Mike Royer",
+      "role": "inker",
+      "slug": "mike-royer"
+    },
+    {
+      "name": "Mike Royer",
+      "role": "letterer",
+      "slug": "mike-royer"
+    },
+    {
+      "name": "Ray Murtaugh",
+      "role": "colorist",
+      "slug": "ray-murtaugh"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "artist",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "artist",
+      "slug": "rick-hoberg"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mike Allred",
+      "role": "coverArtist",
+      "slug": "mike-allred"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "penciler",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Rick Hoberg",
+      "role": "penciler",
+      "slug": "rick-hoberg"
+    },
+    {
+      "name": "Michael Allred",
+      "role": "coverArtist",
+      "slug": "michael-allred"
     }
   ],
   "displayTitle": "Classic Star Wars: The Early Adventures #1",
@@ -17,7 +76,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1994-08-09T00:00:00.000Z",
+  "releaseDate": "1994-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-the-early-adventures-1",

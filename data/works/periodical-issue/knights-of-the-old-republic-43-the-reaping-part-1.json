@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "inker",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "artist",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #43: The Reaping, Part 1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-07-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-43-the-reaping-part-1",
-  "synopsis": "An unprecedented new adventure begins&mdash;leaving former Padawan Zayne Carrick clinging to the side of a comet! When Zayne and crew infiltrate a comet mine, his partner Gryph believes it's another clever con to capture some quick cash. Little does Gryph know, Zayne and Jarael have other intentions&mdash;like rescuing the miners enslaved by this ruthless mining operation. Of course, the noble intentions of the team will all be for naught if their plot is discovered. Swimming through stardust is no place to be when enemy ships open fire!",
+  "synopsis": "An unprecedented new adventure begins -- leaving former Padawan Zayne Carrick clinging to the side of a comet! When Zayne and crew infiltrate a comet mine, his partner Gryph believes it's another clever con to capture some quick cash. Little does Gryph know, Zayne and Jarael have other intentions -- like rescuing the miners enslaved by this ruthless mining operation. Of course, the noble intentions of the team will all be for naught if their plot is discovered. Swimming through stardust is no place to be when enemy ships open fire! \"Action-packed plots and dynamic artwork.\" -School Library Journal",
   "title": "Knights of the Old Republic #43: The Reaping, Part 1"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tales from the Mos Eisley Cantina",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553564686"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553564686",
+      "kind": "print",
+      "onsale": "1995-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

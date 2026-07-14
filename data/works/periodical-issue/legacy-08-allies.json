@@ -5,6 +5,71 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Adam DeKraker",
+      "role": "inker",
+      "slug": "adam-dekraker"
+    },
+    {
+      "name": "Adam DeKraker",
+      "role": "penciler",
+      "slug": "adam-dekraker"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "artist",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Adam DeKraker",
+      "role": "artist",
+      "slug": "adam-dekraker"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
     }
   ],
   "displayTitle": "Legacy #08: Allies",
@@ -15,12 +80,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-02-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-08-allies",
-  "synopsis": "The first issue of Legacy revealed the facts of the attack on the Jedi Academy on Ossus and of the betrayal of Emperor Roan Fel by Darth Krayt and the Sith. Now it is time to learn of the machinations and of the secret alliances behind those actions. Grand Moff Nyna Calixte supervises intelligence gathering for the Empire. Darth Maladi does the same for the Sith. Together they could form an unbeatable team, able to sway the course of a galaxy. That is, if they don't destroy one another first! From the ambush of the Galactic Alliance's fleet to Roan Fel's narrow escape from assassination, the t",
+  "synopsis": "The first issue of Legacy revealed the facts of the attack on the Jedi Academy on Ossus and of the betrayal of Emperor Roan Fel by Darth Krayt and the Sith. Now it is time to learn of the machinations and of the secret alliances behind those actions. Grand Moff Nyna Calixte supervises intelligence gathering for the Empire. Darth Maladi does the same for the Sith. Together they could form an unbeatable team, able to sway the course of a galaxy. That is, if they don't destroy one another first! From the ambush of the Galactic Alliance's fleet to Roan Fel's narrow escape from assassination, the true story of the Sith overthrow of the Empire can at last be told! * This is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before. * Supergirl artist Adam DeKraker makes his Star Wars debut!",
   "title": "Legacy #08: Allies"
 }

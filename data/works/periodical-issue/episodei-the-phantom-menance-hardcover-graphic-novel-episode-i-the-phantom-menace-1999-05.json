@@ -1,0 +1,74 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Chuckry",
+      "role": "colorist",
+      "slug": "chris-chuckry"
+    },
+    {
+      "name": "Chris Chuckry",
+      "role": "inker",
+      "slug": "chris-chuckry"
+    },
+    {
+      "name": "George Freeman",
+      "role": "inker",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Robert Teranishi",
+      "role": "penciler",
+      "slug": "robert-teranishi"
+    },
+    {
+      "name": "Steve Crespo",
+      "role": "penciler",
+      "slug": "steve-crespo"
+    },
+    {
+      "name": "Galen Showman",
+      "role": "penciler",
+      "slug": "galen-showman"
+    },
+    {
+      "name": "Martin Egeland",
+      "role": "penciler",
+      "slug": "martin-egeland"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace (1999) #0.5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "episodei-the-phantom-menance-hardcover-graphic-novel",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "episodei-the-phantom-menance-hardcover-graphic-novel-episode-i-the-phantom-menace-1999-05",
+  "title": "Episode I: The Phantom Menace (1999) #0.5"
+}

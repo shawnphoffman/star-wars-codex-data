@@ -1,12 +1,35 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "writer",
+      "slug": "anthony-daniels"
+    }
+  ],
   "displayTitle": "Droids",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "publicationKind": "comic"
   },
-  "releaseDate": "1986-02-01T00:00:00.000Z",
+  "releaseDate": "1994-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids",

@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-09-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-4",
-  "synopsis": "Jedi-in-training Finn Galfridian learns a secret about his mother that he never knew, but the knowledge only leads to new questions about himself and his unusual ability.\nMeanwhile, Kaye Galfridian leads a New Republic attack against a Yuuzhan Vong base, not realizing that the Vong commander's tactics are meant to buy him time to learn more about his most hated foe: Kaye's brother, Finn.\nNew allies, new enemies, and a turning point in the lives of the Galfridian family!",
+  "synopsis": "Jedi-in-training Finn Galfridian learns a secret about his mother that he never knew, but the knowledge only leads to new questions about himself and his unusual ability. Meanwhile, Kaye Galfridian leads a New Republic attack against a Yuuzhan Vong base, not realizing that the Vong commander's tactics are meant to buy him time to learn more about his most hated foe: Kaye's brother, Finn. New allies, new enemies, and a turning point in the lives of the Galfridian family!",
   "title": "Invasion: Rescues #4"
 }

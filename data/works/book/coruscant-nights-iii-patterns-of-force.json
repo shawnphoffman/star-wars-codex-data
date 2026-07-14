@@ -6,9 +6,30 @@
       "name": "Michael Reaves",
       "role": "writer",
       "slug": "michael-reaves"
+    },
+    {
+      "name": "Maya Kaathryn Bohnhoff",
+      "role": "writer",
+      "slug": "maya-kaathryn-bohnhoff"
     }
   ],
   "displayTitle": "Coruscant Nights III: Patterns of Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477588"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345477588",
+      "kind": "print",
+      "onsale": "2009-01-27T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

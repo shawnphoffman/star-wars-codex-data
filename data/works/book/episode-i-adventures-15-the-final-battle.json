@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Episode I Adventures: The Final Battle",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439174880"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 58,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439174880",
+      "kind": "print",
+      "onsale": "2000-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

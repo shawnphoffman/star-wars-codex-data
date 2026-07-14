@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-cry-of-shadows-3",
-  "synopsis": "Stormtrooper Hock is exactly where he wants to be&mdash;under the command of the greatest warrior in the galaxy, Darth Vader! When a mission to assimilate some remnant Separatists becomes a military disaster, Hock has an opportunity to be something more than a soldier in the ranks to Darth Vader&hellip; if he's willing to take a life-risking chance!",
+  "synopsis": "Stormtrooper Hock is exactly where he wants to be—under the command of the greatest warrior in the galaxy, Darth Vader! When a mission to assimilate some remnant Separatists becomes a military disaster, Hock has an opportunity to be something more than a soldier in the ranks to Darth Vader . . . if he’s willing to take a life-risking chance! * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds! “A fine example of what Vader can and should be all about.”—Comic Book Resources",
   "title": "Darth Vader and the Cry of Shadows #3"
 }

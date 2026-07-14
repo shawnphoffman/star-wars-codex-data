@@ -5,6 +5,31 @@
       "name": "Mary Jo Duffy",
       "role": "writer",
       "slug": "mary-jo-duffy"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
+    },
+    {
+      "name": "Ron Frenz",
+      "role": "penciler",
+      "slug": "ron-frenz"
+    },
+    {
+      "name": "Christie Scheele",
+      "role": "colorist",
+      "slug": "christie-scheele"
     }
   ],
   "displayTitle": "Star Wars (1977) #71: Return to Stenos",

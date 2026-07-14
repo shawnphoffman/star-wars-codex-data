@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Han Solo and the Corporate Sector Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311993"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311993",
+      "kind": "print",
+      "onsale": "1993-11-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -1,

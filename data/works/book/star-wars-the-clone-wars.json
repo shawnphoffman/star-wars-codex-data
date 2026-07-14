@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "034550898X"
+    },
+    {
       "type": "isbn13",
       "value": "9780345508980"
     }
@@ -20,6 +24,7 @@
       "extent": 256,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034550898X",
       "isbn13": "9780345508980",
       "kind": "print",
       "onsale": "2008-07-26T00:00:00.000Z"

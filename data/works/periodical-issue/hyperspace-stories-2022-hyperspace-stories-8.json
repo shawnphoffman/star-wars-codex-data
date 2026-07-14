@@ -1,0 +1,43 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "artist",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bill Crabtree",
+      "role": "colorist",
+      "slug": "bill-crabtree"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "coverArtist",
+      "slug": "andy-duggan"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #8",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-2022",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-2022-hyperspace-stories-8",
+  "synopsis": "As the First Order grows in power, Supreme Leader Snoke dispatches Kylo Ren and General Hux to the planet Karaxis to enforce his will upon the populace. As Ren hunts a fugitive through the wilds, Hux works find a new, cruelly inventive way of enforcing compliance. But how far can the Karaxians be pushed, before they have nothing left to lose",
+  "title": "Hyperspace Stories #8"
+}

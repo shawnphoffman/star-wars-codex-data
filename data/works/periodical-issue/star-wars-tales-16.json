@@ -1,5 +1,127 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Giulia Brusco",
+      "role": "colorist",
+      "slug": "giulia-brusco"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "colorist",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "colorist",
+      "slug": "brian-horton"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "colorist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "colorist",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Howard M. Shum",
+      "role": "inker",
+      "slug": "howard-m-shum"
+    },
+    {
+      "name": "John McCrea",
+      "role": "inker",
+      "slug": "john-mccrea"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "letterer",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "inker",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "inker",
+      "slug": "brian-horton"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "inker",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "penciler",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "penciler",
+      "slug": "brian-horton"
+    },
+    {
+      "name": "John McCrea",
+      "role": "penciler",
+      "slug": "john-mccrea"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "penciler",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "writer",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "writer",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Ashley Wood",
+      "role": "coverArtist",
+      "slug": "ashley-wood"
+    }
+  ],
   "displayTitle": "Tales #16",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +133,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-16",
-  "synopsis": "As hard as it is to believe, Yoda wasn't always a wise old Jedi. At one time he was a wise young Jedi. Now for the first time ever, Star Wars Tales is proud to present a story from Yoda's past, telling of a near fatal brush with the dark side during his first journey to the swamp planet Dagobah. Don't miss this stellar issue of Tales featuring Darth Vader, Han Solo, Jabba the Hutt, and a cast of hundreds!",
+  "synopsis": "As hard as it is to believe, Yoda wasn't always a wise old Jedi. At one time he was a wise YOUNG Jedi. Now for the first time ever, Star Wars Tales is proud to present a story from Yoda's past, telling of a near fatal brush with the dark side during his first journey to the swamp planet Dagobah. Don't miss this stellar issue of Tales featuring Darth Vader, Han Solo, Jabba the Hutt, and a cast of hundreds!",
   "title": "Star Wars Tales #16"
 }

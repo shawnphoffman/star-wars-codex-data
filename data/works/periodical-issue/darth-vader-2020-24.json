@@ -10,6 +10,36 @@
       "name": "Raffaele Ienco",
       "role": "artist",
       "slug": "raffaele-ienco"
+    },
+    {
+      "name": "Carlos Lopez",
+      "role": "colorist",
+      "slug": "carlos-lopez"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "inker",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
     }
   ],
   "displayTitle": "Darth Vader (2020) #24",

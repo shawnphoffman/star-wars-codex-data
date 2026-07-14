@@ -11,15 +11,20 @@
   "displayTitle": "Imperial Commando: 501st",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511131"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511133"
     }
   ],
   "editions": [
     {
-      "extent": 449,
-      "imprint": "Del Rey",
+      "extent": 464,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345511131",
       "isbn13": "9780345511133",
       "kind": "print",
       "onsale": "2009-10-27T00:00:00.000Z"

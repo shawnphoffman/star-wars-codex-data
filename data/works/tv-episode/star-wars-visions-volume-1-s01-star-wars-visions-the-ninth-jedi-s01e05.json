@@ -1,9 +1,14 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Kenji Kamiyama",
       "role": "director",
+      "slug": "kenji-kamiyama"
+    },
+    {
+      "name": "Kenji Kamiyama",
+      "role": "writer",
       "slug": "kenji-kamiyama"
     }
   ],

@@ -5,6 +5,26 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Bruno Redondo",
+      "role": "penciler",
+      "slug": "bruno-redondo"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "Darth Maul: Death Sentence #1",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "darth-maul-death-sentence-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-07-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-death-sentence-2012-1",
-  "synopsis": "By now the galaxy has learned the terrible truth: Sith Lord Darth Maul still lives. Worse, he has joined forces with his brother Savage Opress!\nThe Jedi are searching for them and, after Maul and Opress cut a murderous swath through the Outer Rim, so is an army of mercenaries hired by a wealthy mine owner.\nDarth Maul has a price on his head, and for him there is only one way to deal with such a problem: go directly to the source!",
+  "synopsis": "By now the galaxy has learned the terrible truth: Sith Lord Darth Maul still lives. Worse, he has joined forces with his brother Savage Opress! The Jedi are searching for them and, after Maul and Opress cut a murderous swath through the Outer Rim, so is an army of mercenaries hired by a wealthy mine owner. Darth Maul has a price on his head, and for him there is only one way to deal with such a problem: go directly to the source! *A direct follow-up to the events in the television series The Clone Wars! Darth Maul lives! Check out the digital preview here.",
   "title": "Darth Maul: Death Sentence #1"
 }

@@ -5,6 +5,21 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "coverArtist",
+      "slug": "dave-filoni"
     }
   ],
   "displayTitle": "The Clone Wars #01",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-09-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-01",
-  "synopsis": "Set in the time between Attack of the Clones and Revenge of the Sith, this new series will focus on the legendary Clone Wars! Some of your favorite Jedi: Obi-Wan Kenobi, Anakin Skywalker, Master Yoda, Master Mace Windu, and others, will be joined by a few new faces as they fight to maintain the true spirit of the Republic. In addition to the lead story, each issue will feature a backup story by one of the artists from the TV series! This new series will be a compliment to Lucasfilm's highly anticipated CGI-animated The Clone Wars movie and television programs!",
+  "synopsis": "Set in the time between Attack of the Clones and Revenge of the Sith, this new series will focus on the legendary Clone Wars! Some of your favorite Jedi: Obi-Wan Kenobi, Anakin Skywalker, Master Yoda, Master Mace Windu, and others, will be joined by a few new faces as they fight to maintain the true spirit of the Republic. * In addition to the lead story, each issue will feature a backup story by one of the artists from the TV series! * This new series will be a compliment to Lucasfilm's highly anticipated CGI-animated The Clone Wars movie and television programs! This is Star Wars for a new generation!",
   "title": "The Clone Wars #01"
 }

@@ -1,0 +1,28 @@
+{
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Dan Hernandez",
+      "role": "producer",
+      "slug": "dan-hernandez"
+    },
+    {
+      "name": "Benji Samit",
+      "role": "producer",
+      "slug": "benji-samit"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past",
+  "format": "tvSeries",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "lego-star-wars-rebuild-the-galaxy"
+  ],
+  "releaseDate": "2025-09-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lego-star-wars-rebuild-the-galaxy-pieces-of-the-past",
+  "title": "LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past"
+}

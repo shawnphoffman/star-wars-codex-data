@@ -20,6 +20,86 @@
       "name": "Gabriel Guzman",
       "role": "artist",
       "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "penciler",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "penciler",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Alex Wald",
+      "role": "colorist",
+      "slug": "alex-wald"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Garry Henderson",
+      "role": "colorist",
+      "slug": "garry-henderson"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "coverArtist",
+      "slug": "douglas-wheatley"
+    },
+    {
+      "name": "Zach Howard",
+      "role": "coverArtist",
+      "slug": "zach-howard"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Dark Times",

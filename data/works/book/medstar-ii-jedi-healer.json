@@ -16,15 +16,20 @@
   "displayTitle": "MedStar II: Jedi Healer",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345463110"
+    },
+    {
       "type": "isbn13",
       "value": "9780345463111"
     }
   ],
   "editions": [
     {
-      "extent": 302,
-      "imprint": "Del Rey",
+      "extent": 320,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345463110",
       "isbn13": "9780345463111",
       "kind": "print",
       "onsale": "2004-09-28T00:00:00.000Z"

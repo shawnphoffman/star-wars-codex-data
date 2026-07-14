@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 14: The Monsters of Dweem",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590235109"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 68,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590235109",
+      "kind": "print",
+      "onsale": "1998-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

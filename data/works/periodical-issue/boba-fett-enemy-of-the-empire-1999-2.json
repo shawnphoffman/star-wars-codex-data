@@ -5,6 +5,49 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire #2",
@@ -21,6 +64,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-enemy-of-the-empire-1999-2",
-  "synopsis": "As Boba Fett hones in [sic] on his quarry, he is followed by Darth Vader's hired goons, but the Dark Lord trusts no one in this particular endeavor, nor does he expect any of them to walk away once the prize is his. But Boba Fett knows the craft of tracking, and he also knows that if Vader wants something this badly, it must be very precious indeed!",
+  "synopsis": "As Boba Fett hones in on his quarry, he is followed by Darth Vader's hired goons, but the Dark Lord trusts no one in this particular endeavor, nor does he expect any of them to walk away once the prize is his. But Boba Fett knows the craft of tracking, and he also knows that if Vader wants something this badly, it must be very precious indeed!",
   "title": "Boba Fett: Enemy of the Empire #2"
 }

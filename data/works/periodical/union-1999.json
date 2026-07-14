@@ -15,6 +15,31 @@
       "name": "Christopher Chuckry",
       "role": "artist",
       "slug": "christopher-chuckry"
+    },
+    {
+      "name": "Robert Teranishi",
+      "role": "penciler",
+      "slug": "robert-teranishi"
+    },
+    {
+      "name": "Christopher Chuckry",
+      "role": "inker",
+      "slug": "christopher-chuckry"
+    },
+    {
+      "name": "Christopher Chuckry",
+      "role": "colorist",
+      "slug": "christopher-chuckry"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Duncan Fegredo",
+      "role": "coverArtist",
+      "slug": "duncan-fegredo"
     }
   ],
   "displayTitle": "Union",

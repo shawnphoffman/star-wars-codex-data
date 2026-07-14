@@ -11,15 +11,20 @@
   "displayTitle": "Clone Wars Gambit: Siege",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345509005"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509000"
     }
   ],
   "editions": [
     {
-      "extent": 401,
-      "imprint": "Del Rey",
+      "extent": 432,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345509005",
       "isbn13": "9780345509000",
       "kind": "print",
       "onsale": "2010-07-06T00:00:00.000Z"

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Target",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545106125"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 186,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545106125",
+      "kind": "print",
+      "onsale": "2008-12-02T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

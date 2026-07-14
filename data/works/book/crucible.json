@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Crucible",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511423"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 316,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511423",
+      "kind": "print",
+      "onsale": "2013-07-09T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

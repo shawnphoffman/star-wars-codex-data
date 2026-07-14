@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "inker",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Warner",
+      "role": "coverArtist",
+      "slug": "chris-warner"
     }
   ],
   "displayTitle": "Knights of the Old Republic #20: Daze of Hate, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-09-20T00:00:00.000Z",
+  "releaseDate": "2007-09-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-20-daze-of-hate-part-2",
-  "synopsis": "A defining moment in galactic history arrives as the Republic and the Mandalorians meet face-to-face to discuss an offer that adds up to one thing: victory for one side, defeat for the other. The sinister billionaire Lord Adasca has organized the fateful rendezvous, a mastermind with grand plans for his race, the Arkanians, and his corporation, Adascorp. What Adasca hasn't counted on is the feisty Jarael, her elderly companion Camper, and their fugitive Padawan friend Zayne Carrick, who are determined to stop his machinations against impossible odds, if they can first escape his custody without being cut down by a dozen HK-24 series assassin droids.",
+  "synopsis": "A defining moment in the history of the galaxy arrives as the Republic and the Mandalorians meet face-to-face to discuss an offer that adds up to one thing--victory for one, defeat for the other! Sinister billionaire Lord Adasca is the organizer of this fateful rendezvous, a mastermind with grand plans for his race, the Arkanians, and his corporation, Adascorp. What Adasca hasn't counted on is the feisty Jarael, her elderly companion Camper, or their fugitive Padawan friend Zayne Carrick trying to stop these megalomaniacal machinations despite impossible odds. Of course, as soon as the three figure out how to escape Adasca's custody without getting blasted by a dozen HK-24 assassin droids, that's exactly what they're gonna do!",
   "title": "Knights of the Old Republic #20: Daze of Hate, Part 2"
 }

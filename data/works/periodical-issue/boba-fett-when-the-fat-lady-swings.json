@@ -6,6 +6,45 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "inker",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "colorist",
+      "slug": "cam-kennedy"
     }
   ],
   "displayTitle": "Boba Fett: When the Fat Lady Swings",
@@ -17,10 +56,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-09-18T00:00:00.000Z",
+  "releaseDate": "1996-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-when-the-fat-lady-swings",
-  "synopsis": "Throughout the vast reaches of the galaxy&mdash;wherever fugitives meet or lawbreakers conspire&mdash;one name is always uttered in hushed tones, a name guaranteed to strike fear into the stoutest heart: Boba Fett. His prices are exorbitant, but if you're looking for revenge, or if you're looking for protection, he'll get the job done. And if you're looking to reclaim your kidnapped fiancé, the heiress to a Hutt's fortune, no price is too exorbitant.",
+  "synopsis": "Throughout the vast reaches of the galaxy -- wherever fugitives meet or lawbreakers conspire -- one name is always uttered in hushed tones, a name guaranteed to strike fear into the stoutest heart: Boba Fett. His prices are exorbitant, but if you're looking for revenge, or if you're looking for protection, he'll get the job done. And if you're looking to reclaim your kidnapped fianc&eacute;, the heiress to a Hutt's fortune, no price is too exorbitant.",
   "title": "Boba Fett: When the Fat Lady Swings"
 }

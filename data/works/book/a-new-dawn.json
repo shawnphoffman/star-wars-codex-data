@@ -6,6 +6,11 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
     }
   ],
   "displayTitle": "A New Dawn",
@@ -17,6 +22,10 @@
     {
       "type": "isbn13",
       "value": "9780553391473"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553392869"
     }
   ],
   "editions": [
@@ -26,6 +35,14 @@
       "isPrimary": true,
       "isbn10": "055339147X",
       "isbn13": "9780553391473",
+      "kind": "print",
+      "onsale": "2014-09-02T00:00:00.000Z"
+    },
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780553392869",
       "kind": "print",
       "onsale": "2014-09-02T00:00:00.000Z"
     }

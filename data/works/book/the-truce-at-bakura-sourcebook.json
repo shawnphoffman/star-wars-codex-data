@@ -19,6 +19,22 @@
     }
   ],
   "displayTitle": "The Truce at Bakura Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312566"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 152,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312566",
+      "kind": "print",
+      "onsale": "1996-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

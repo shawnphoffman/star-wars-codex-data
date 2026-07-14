@@ -5,6 +5,31 @@
       "name": "Chuck Dixon",
       "role": "writer",
       "slug": "chuck-dixon"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Mark Pennington",
+      "role": "inker",
+      "slug": "mark-pennington"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "colorist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dave Lanphear",
+      "role": "letterer",
+      "slug": "dave-lanphear"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "coverArtist",
+      "slug": "rick-leonardi"
     }
   ],
   "displayTitle": "General Grievous",
@@ -16,7 +41,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2005-12-28T00:00:00.000Z",
+  "releaseDate": "2005-03-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "general-grievous-graphic-novel",

@@ -1,0 +1,59 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Steve Crespo",
+      "role": "penciler",
+      "slug": "steve-crespo"
+    },
+    {
+      "name": "George Freeman",
+      "role": "inker",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Tim Bradstreet",
+      "role": "coverArtist",
+      "slug": "tim-bradstreet"
+    }
+  ],
+  "displayTitle": "Episode I: The Phantom Menace: Anakin Skywalker",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-the-phantom-menace-anakin-skywalker",
+  "synopsis": "There will soon come a day when the future of the galaxy hinges on the fate of one boy... though he does not yet know it. Growing up on the desert world Tatooine, Anakin Skywalker never thought he would venture beyond the small life he has. Simple, boyhood pursuits seem like the only things he should be concerned with. But destiny has other things in mind...",
+  "title": "Episode I: The Phantom Menace: Anakin Skywalker"
+}

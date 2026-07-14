@@ -25,6 +25,36 @@
       "name": "Phil Noto",
       "role": "artist",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Angel Unzueta Galarza",
+      "role": "inker",
+      "slug": "angel-unzueta-galarza"
+    },
+    {
+      "name": "Angel Unzueta Galarza",
+      "role": "penciler",
+      "slug": "angel-unzueta-galarza"
+    },
+    {
+      "name": "Philip J. Noto",
+      "role": "coverArtist",
+      "slug": "philip-j-noto"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
     }
   ],
   "displayTitle": "Poe Dameron #21: Legend Found, Part II",

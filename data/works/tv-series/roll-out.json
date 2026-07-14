@@ -1,10 +1,35 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Hideo Itoyanagi",
       "role": "showrunner",
       "slug": "hideo-itoyanagi"
+    },
+    {
+      "name": "Larry Gelbart",
+      "role": "writer",
+      "slug": "larry-gelbart"
+    },
+    {
+      "name": "Gene Reynolds",
+      "role": "writer",
+      "slug": "gene-reynolds"
+    },
+    {
+      "name": "Hideo Itoyanagi",
+      "role": "writer",
+      "slug": "hideo-itoyanagi"
+    },
+    {
+      "name": "Hideo Itoyanagi",
+      "role": "director",
+      "slug": "hideo-itoyanagi"
+    },
+    {
+      "name": "James Waugh",
+      "role": "producer",
+      "slug": "james-waugh"
     }
   ],
   "displayTitle": "Roll Out",

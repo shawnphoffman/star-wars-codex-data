@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Janice Cohen",
+      "role": "colorist",
+      "slug": "janice-cohen"
+    },
+    {
+      "name": "Rick Parker",
+      "role": "letterer",
+      "slug": "rick-parker"
+    },
+    {
+      "name": "Gene Day",
+      "role": "inker",
+      "slug": "gene-day"
     }
   ],
   "displayTitle": "Star Wars (1977) #18: The Empire Strikes",

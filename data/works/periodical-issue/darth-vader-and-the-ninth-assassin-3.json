@@ -5,6 +5,41 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Ivan Fernandez",
+      "role": "penciler",
+      "slug": "ivan-fernandez"
+    },
+    {
+      "name": "Denis Freitas Do Rego Souza",
+      "role": "inker",
+      "slug": "denis-freitas-do-rego-souza"
+    },
+    {
+      "name": "Denis Frietas",
+      "role": "inker",
+      "slug": "denis-frietas"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
+    },
+    {
+      "name": "Denis Freitas",
+      "role": "inker",
+      "slug": "denis-freitas"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-06-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-3",
-  "synopsis": "Darth Vader's search for the culprits behind an assassination attempt on the Emperor leads to a shattered Star Destroyer floating lifeless above a mysterious moon. On the ground he finds no survivors, instead ancient ruins, and frightening inhabitants. All the while, a hunter follows, waiting for the moment to strike!",
+  "synopsis": "Darth Vader’s search for the culprits behind an assassination attempt on the Emperor leads to a shattered Star Destroyer floating lifeless above a mysterious moon. On the ground he finds no survivors—instead ancient ruins, and frightening inhabitants. All the while, a hunter follows, waiting for the moment to strike! Tim Siedell (@badbanana) has one of Time’s 140 best twitter feeds!",
   "title": "Darth Vader and the Ninth Assassin #3"
 }

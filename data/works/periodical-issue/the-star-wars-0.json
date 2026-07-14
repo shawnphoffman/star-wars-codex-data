@@ -1,0 +1,58 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "artist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "artist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "artist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "artist",
+      "slug": "stphane-roux"
+    },
+    {
+      "name": "Scott Kolins",
+      "role": "artist",
+      "slug": "scott-kolins"
+    },
+    {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    }
+  ],
+  "displayTitle": "The Star Wars #0",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-12-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-0",
+  "synopsis": "A companion to the eight-issue adaptation of The Star Wars, this is an exclusive peek behind the scenes at the designs that have brought a new—yet incredibly familiar—galaxy to life. Included in this volume are the never-before-seen comics sequences that were used in Dark Horse’s pitch to George Lucas! * Previously unpublished designs and comics pages! * Companion to the official eight-issue adaptation of George Lucas’s original rough-draft screenplay for Star Wars!",
+  "title": "The Star Wars #0"
+}

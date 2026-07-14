@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Hutt Gambit",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553574166"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553574166",
+      "kind": "print",
+      "onsale": "1997-08-11T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

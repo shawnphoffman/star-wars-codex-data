@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "coverArtist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    }
+  ],
   "displayTitle": "The Force Awakens #6",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

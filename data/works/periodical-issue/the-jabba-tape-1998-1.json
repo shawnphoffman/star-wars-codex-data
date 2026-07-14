@@ -1,0 +1,23 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kilian Plunkett",
+      "role": "inker",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    }
+  ],
+  "displayTitle": "The Jabba Tape (1998) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-jabba-tape-1998-1",
+  "title": "The Jabba Tape (1998) #1"
+}

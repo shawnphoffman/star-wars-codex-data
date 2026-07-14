@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Hard Merchandise",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "055357891X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 338,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "055357891X",
+      "kind": "print",
+      "onsale": "1999-07-06T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

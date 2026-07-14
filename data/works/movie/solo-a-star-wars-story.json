@@ -45,6 +45,56 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Sophie Dupuis",
+      "role": "director",
+      "slug": "sophie-dupuis"
+    },
+    {
+      "name": "Sophie Dupuis",
+      "role": "writer",
+      "slug": "sophie-dupuis"
+    },
+    {
+      "name": "Charles Lavoie",
+      "role": "composer",
+      "slug": "charles-lavoie"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "producer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "Jason McGatlin",
+      "role": "producer",
+      "slug": "jason-mcgatlin"
+    },
+    {
+      "name": "Phil Lord",
+      "role": "producer",
+      "slug": "phil-lord"
+    },
+    {
+      "name": "Christopher Moeller",
+      "role": "producer",
+      "slug": "christopher-moeller"
+    },
+    {
+      "name": "Kiri Hart",
+      "role": "producer",
+      "slug": "kiri-hart"
+    },
+    {
+      "name": "Susan Towner",
+      "role": "producer",
+      "slug": "susan-towner"
+    },
+    {
+      "name": "Will Allegra",
+      "role": "producer",
+      "slug": "will-allegra"
     }
   ],
   "displayTitle": "Solo",

@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: The Lost Ones",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781572970526"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Berkley Boulevard",
+      "isPrimary": true,
+      "isbn13": "9781572970526",
+      "kind": "print",
+      "onsale": "1995-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

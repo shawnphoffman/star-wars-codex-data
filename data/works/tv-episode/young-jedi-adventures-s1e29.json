@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Brian Hall",
+      "role": "writer",
+      "slug": "brian-hall"
+    }
+  ],
   "displayTitle": "An Adventure with Yoda",
   "era": "highRepublic",
   "format": "tvEpisode",

@@ -6,15 +6,44 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Fillbach Brothers",
+      "role": "penciler",
+      "slug": "fillbach-brothers"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wayne Lo",
+      "role": "coverArtist",
+      "slug": "wayne-lo"
     }
   ],
   "displayTitle": "The Clone Wars: The Wind Raiders of Taloraan",
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2009-05-27T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2009-05-28T00:00:00.000Z",
+  "releaseDate": "2009-05-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-wind-raiders",

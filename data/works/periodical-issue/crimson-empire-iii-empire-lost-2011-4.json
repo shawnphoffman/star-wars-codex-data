@@ -5,6 +5,41 @@
       "name": "Mike Richardson",
       "role": "writer",
       "slug": "mike-richardson"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "inker",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Bartolo",
+      "role": "colorist",
+      "slug": "michael-bartolo"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "artist",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire III: Empire Lost #4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-02-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-iii-empire-lost-2011-4",
-  "synopsis": "Kir Kanos, the last surviving member of Emperor Palpatine's Royal Guard, is ready to settle a score with Luke Skywalker and those others whom he blames for the death of his Emperor. But standing in Kanos's path is his former adversary and almost love interest Mirith Sinn. And both of them have become pawns in a secret plot by an Imperial cabal!",
+  "synopsis": "Escaping from the Imperial hardliners who are intent on killing Leia Organa Solo and bringing the New Republic to its knees, Kir Kanos tries to warn his one-time enemies, only to be thrown into a New Republic prison. Mirith Sinn is the only one willing to trust Kanos, but neither of them is aware of the extent of the Imperials' plans. It's not until Luke Skywalker plays a hunch that the true danger is revealed! * The enemy of my enemy is my friend . . . Or is he? * Luke Skywalker to the rescue!",
   "title": "Crimson Empire III: Empire Lost #4"
 }

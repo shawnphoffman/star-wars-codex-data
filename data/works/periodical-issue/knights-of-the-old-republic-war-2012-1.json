@@ -5,6 +5,41 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Gigi Baldassini",
+      "role": "inker",
+      "slug": "gigi-baldassini"
+    },
+    {
+      "name": "Benjamin Carr&eacute;",
+      "role": "coverArtist",
+      "slug": "benjamin-carreacute"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Knights of the Old Republic: War #1",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic-war-2012",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-01-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-war-2012-1",
-  "synopsis": "If you've ever heard of the Knights of the Old Republic video games and comics but didn't know where to start, this is it! The Republic and the Mandalorians are at war! Jedi are joining the fight, despite the noninterference stance of the Council. One Jedi, however, has found himself on the front lines against his wishes: the peace-loving Zayne Carrick has been drafted!",
+  "synopsis": "If you've ever heard of the Knights of the Old Republic video games and comics but didn't know where to start--this is it! The Republic and the Mandalorians are at war! Jedi are joining the fight, despite the noninterference stance of the Council. One Jedi, however, has found himself on the front lines against his wishes-the peace-loving Zayne Carrick has been drafted! * The return of one of the most popular eras in Star Wars video games and comics! * The perfect entry point into the Star Wars galaxy! * Blockbuster new Star Wars game on sale 12/20/11!",
   "title": "Knights of the Old Republic: War #1"
 }

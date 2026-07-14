@@ -15,6 +15,41 @@
       "name": "Elisabetta D'Amico",
       "role": "artist",
       "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Bobby Bradford",
+      "role": "letterer",
+      "slug": "bobby-bradford"
+    },
+    {
+      "name": "Valeria \"Lux\" Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-lux-favoccia"
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #4",
@@ -22,12 +57,13 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-ghost-agents-4",
-  "synopsis": "The stolen Republic intel sought by Clone Force 99 has switched hands! Now, the data is closely guarded by none other than fearsome bounty hunter Aurra Sing. In order to survive Aurra’s onslaught, Clone Force…",
+  "synopsis": "The stolen Republic intel sought by Clone Force 99 has switched hands! Now, the data is closely guarded by none other than fearsome bounty hunter Aurra Sing. In order to survive Aurra’s onslaught, Clone Force 99 must enlist an unsavory ally — a villain who would as soon stab them in the back as save them! • Five issue series.",
   "title": "Hyperspace Stories: The Bad Batch: Ghost Agents #4"
 }

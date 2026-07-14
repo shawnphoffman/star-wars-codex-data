@@ -16,6 +16,10 @@
   "displayTitle": "Last Shot",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0525622136"
+    },
+    {
       "type": "isbn13",
       "value": "9780525622130"
     }
@@ -25,6 +29,7 @@
       "extent": 368,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0525622136",
       "isbn13": "9780525622130",
       "kind": "print",
       "onsale": "2018-04-17T00:00:00.000Z"

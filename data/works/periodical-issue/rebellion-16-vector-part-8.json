@@ -5,6 +5,36 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "artist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Dan Scott",
+      "role": "coverArtist",
+      "slug": "dan-scott"
     }
   ],
   "displayTitle": "Rebellion #16: Vector, Part 8",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-08-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-16-vector-part-8",
-  "synopsis": "Darth Vader successfully lures Luke Skywalker and Princess Leia into a trap that could cripple the Rebel Alliance, as \"Vector\"&mdash;the most important Star Wars event of 2008&mdash;concludes its third arc, setting the stage for the final galaxy-shaking showdown in Star Wars: Legacy! On the dark surface of a desolate moon, Luke and Leia meet their first Jedi since Obi-Wan Kenobi, only to realize too late this Knight of the Old Republic is far different than their fallen friend&mdash;twisted by the Sith's Muur Talisman and enraged by Darth Vader! Together, Luke and Leia must make a choice with ",
+  "synopsis": "Darth Vader successfully lures Luke Skywalker and Princess Leia into a trap that could cripple the Rebel Alliance, as \"Vector\"-the most important Star Wars event of 2008-concludes its third arc, setting the stage for the final galaxy-shaking showdown in Star Wars: Legacy! On the dark surface of a desolate moon, Luke and Leia meet their first Jedi since Obi-Wan Kenobi, only to realize too late this Knight of the Old Republic is far different than their fallen friend--twisted by the Sith's Muur Talisman and enraged by Darth Vader! Together, Luke and Leia must make a choice with far-reaching consequences, not just for themselves, but for the fate of the entire galaxy!",
   "title": "Rebellion #16: Vector, Part 8"
 }

@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Gordy Haab",
+      "role": "composer",
+      "slug": "gordy-haab"
+    }
+  ],
   "displayTitle": "Hunters",
   "era": "newRepublic",
   "format": "videoGame",

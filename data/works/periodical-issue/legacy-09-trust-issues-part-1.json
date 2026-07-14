@@ -5,6 +5,66 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "artist",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "coverArtist",
+      "slug": "dave-ross"
     }
   ],
   "displayTitle": "Legacy #09: Trust Issues, Part 1",
@@ -15,12 +75,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-03-07T00:00:00.000Z",
+  "releaseDate": "2007-02-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-09-trust-issues-part-1",
-  "synopsis": "\"Trust Issues,\" Part 1 of 2. Political relationships are often delicate constructs&mdash;even more so when the \"marriage\" is between two longtime enemies. When rightful Emperor Roan Fel reaches out to the remnants of the Galactic Alliance, the stage is set for serious distrust, if not outright betrayal. And to complicate matters, the Sith have dispatched one of their best agents to ensure the failure of the proposed alliance. But Moff Nyna Calixte's agenda differs from that of her Sith masters, and she puts her own player into the mix&mdash;reactivating an agent who has been dormant for nearly",
+  "synopsis": "Political relationships are often delicate constructs-even more so when the \"marriage\" is between two longtime enemies. When rightful Emperor Roan Fel reaches out to the remnants of the Galactic Alliance, the stage is set for serious distrust, if not outright betrayal. And to complicate matters, the Sith have dispatched one of their best agents to ensure the failure of the proposed alliance. But Moff Nyna Calixte's agenda differs from that of her Sith masters, and she puts her own player into the mix-reactivating an agent who has been dormant for nearly two decades. Meanwhile, the question on everybody's mind: Where has Cade Skywalker gone? * Art by Colin Wilson",
   "title": "Legacy #09: Trust Issues, Part 1"
 }

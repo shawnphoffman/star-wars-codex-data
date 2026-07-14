@@ -4,6 +4,10 @@
   "displayTitle": "The Mandalorian and Grogu: The Deluxe Junior Novelization",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0736448349"
+    },
+    {
       "type": "isbn13",
       "value": "9780736448345"
     }
@@ -13,6 +17,7 @@
       "extent": 144,
       "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "0736448349",
       "isbn13": "9780736448345",
       "kind": "print",
       "onsale": "2027-02-23T00:00:00.000Z"
@@ -25,5 +30,6 @@
   "releaseDate": "2027-02-23T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-the-mandalorian-and-grogu-the-deluxe-junior-novelization",
+  "synopsis": "A novelization that retells the Star Wars film The Mandalorian and Grogu— and includes sixteen pages of full-color images and a poster. Join the Mandalorian and Grogu as they set off on a mission from the New Republic to save the son of Jabba the Hutt from an evil warlord. This junior novel, which includes sixteen pages of full-color imags and a poster, retells The Mandalorian and Grogu , directed by Jon Favreau, and is sure to thrill fans of all ages.",
   "title": "Star Wars: The Mandalorian and Grogu: The Deluxe Junior Novelization"
 }

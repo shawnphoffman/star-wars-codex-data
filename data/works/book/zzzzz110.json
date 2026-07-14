@@ -11,11 +11,20 @@
   "displayTitle": "Jedi Apprentice: The Evil Experiment",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139317"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139311"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0439139317",
+      "kind": "print"
+    },
     {
       "extent": 160,
       "imprint": "Scholastic",

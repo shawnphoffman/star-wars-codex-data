@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
+    },
+    {
+      "name": "Christie Scheele",
+      "role": "colorist",
+      "slug": "christie-scheele"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
     }
   ],
   "displayTitle": "Return of the Jedi #3: Mission to Endor",

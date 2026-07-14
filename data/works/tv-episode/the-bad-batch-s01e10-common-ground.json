@@ -10,19 +10,24 @@
       "name": "Gursimran Sandhu",
       "role": "writer",
       "slug": "gursimran-sandhu"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
     }
   ],
-  "displayTitle": "The Bad Batch S01E10: Common Ground",
+  "displayTitle": "Common Ground",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-07-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e10-common-ground",
   "synopsis": "The Batch has their ideology challenged.",
-  "title": "The Bad Batch S01E10: Common Ground"
+  "title": "Common Ground"
 }

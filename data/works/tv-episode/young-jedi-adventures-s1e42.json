@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Julius Harper",
+      "role": "writer",
+      "slug": "julius-harper"
+    }
+  ],
   "displayTitle": "Happy Trails, Nubs",
   "era": "highRepublic",
   "format": "tvEpisode",

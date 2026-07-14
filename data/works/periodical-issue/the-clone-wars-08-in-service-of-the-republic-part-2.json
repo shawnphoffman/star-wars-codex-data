@@ -10,6 +10,26 @@
       "name": "Steven Melching",
       "role": "writer",
       "slug": "steven-melching"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Michael Wiggam",
+      "role": "colorist",
+      "slug": "michael-wiggam"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "coverArtist",
+      "slug": "scott-hepburn"
     }
   ],
   "displayTitle": "The Clone Wars #08: In Service of the Republic, Part 2",
@@ -20,12 +40,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-08-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-08-in-service-of-the-republic-part-2",
-  "synopsis": "Faced with the worst storm in the ice-planet Khorm's history, Jedi Masters Plo Koon and Kit Fisto embark on an impossible mission: to destroy the Separatists' mountain fortress. But their assignment has been made harder still by information divulged by a Republic captive, and the arrival of Asajj Ventress and her elite commando droids!",
+  "synopsis": "Faced with the worst storm in the ice-planet Khorm's history, Jedi Masters Plo Koon and Kit Fisto embark on an impossible mission -- to destroy the Separatists' mountain fortress. But their assignment has been made harder still by information divulged by a Republic captive -- and the arrival of Asajj Ventress and her elite Commando droids! Clone Wars action on ice!",
   "title": "The Clone Wars #08: In Service of the Republic, Part 2"
 }

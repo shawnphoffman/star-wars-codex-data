@@ -11,6 +11,10 @@
   "displayTitle": "Jedi Quest: The Master of Disguise",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339200"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339209"
     }
@@ -20,6 +24,7 @@
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439339200",
       "isbn13": "9780439339209",
       "kind": "print",
       "onsale": "2002-11-01T00:00:00.000Z"

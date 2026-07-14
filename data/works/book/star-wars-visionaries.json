@@ -1,0 +1,93 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron McBride",
+      "role": "writer",
+      "slug": "aaron-mcbride"
+    },
+    {
+      "name": "Erik Tiemens",
+      "role": "writer",
+      "slug": "erik-tiemens"
+    },
+    {
+      "name": "Michael Murnane",
+      "role": "writer",
+      "slug": "michael-murnane"
+    },
+    {
+      "name": "Derek Thompson",
+      "role": "writer",
+      "slug": "derek-thompson"
+    },
+    {
+      "name": "Alex Jaeger",
+      "role": "writer",
+      "slug": "alex-jaeger"
+    },
+    {
+      "name": "M. Zachary Sherman",
+      "role": "writer",
+      "slug": "m-zachary-sherman"
+    },
+    {
+      "name": "Robert E. Barnes",
+      "role": "writer",
+      "slug": "robert-e-barnes"
+    },
+    {
+      "name": "Feng Zhu",
+      "role": "writer",
+      "slug": "feng-zhu"
+    },
+    {
+      "name": "Sang Jun Lee",
+      "role": "writer",
+      "slug": "sang-jun-lee"
+    },
+    {
+      "name": "Ryan Church",
+      "role": "writer",
+      "slug": "ryan-church"
+    },
+    {
+      "name": "Warren Fu",
+      "role": "writer",
+      "slug": "warren-fu"
+    },
+    {
+      "name": "Ryan Church",
+      "role": "coverArtist",
+      "slug": "ryan-church"
+    }
+  ],
+  "displayTitle": "Visionaries",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593073119"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 136,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn10": "1593073119",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-visionaries",
+  "synopsis": "Star Wars: Visionaries is a 2005 anthology of short comic stories by the concept artists of Revenge of the Sith, published by Dark Horse Comics.",
+  "title": "Star Wars: Visionaries"
+}

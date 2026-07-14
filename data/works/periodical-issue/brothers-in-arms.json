@@ -1,11 +1,41 @@
 {
   "bookType": "other",
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Miles Lane",
       "role": "writer",
       "slug": "miles-lane"
+    },
+    {
+      "name": "Nicola Scott",
+      "role": "penciler",
+      "slug": "nicola-scott"
+    },
+    {
+      "name": "Nicola Scott",
+      "role": "inker",
+      "slug": "nicola-scott"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "coverArtist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Sutfin",
+      "role": "coverArtist",
+      "slug": "michael-sutfin"
     }
   ],
   "displayTitle": "Free Comic Book Day 2005 Special",

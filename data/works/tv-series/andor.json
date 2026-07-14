@@ -20,6 +20,31 @@
       "name": "George Lucas",
       "role": "writer",
       "slug": "george-lucas"
+    },
+    {
+      "name": "Tony Gilroy",
+      "role": "showrunner",
+      "slug": "tony-gilroy"
+    },
+    {
+      "name": "Diego Luna",
+      "role": "producer",
+      "slug": "diego-luna"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Sanne Wohlenberg",
+      "role": "producer",
+      "slug": "sanne-wohlenberg"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
     }
   ],
   "displayTitle": "Andor",

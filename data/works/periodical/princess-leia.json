@@ -15,12 +15,38 @@
       "name": "Rachel Dodson",
       "role": "artist",
       "slug": "rachel-dodson"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "penciler",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "inker",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Jordie Bellaire",
+      "role": "colorist",
+      "slug": "jordie-bellaire"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
     }
   ],
   "displayTitle": "Princess Leia",
   "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
+    "imprint": "Marvel",
     "publicationKind": "comic"
   },
   "releaseDate": "2015-03-04T00:00:00.000Z",

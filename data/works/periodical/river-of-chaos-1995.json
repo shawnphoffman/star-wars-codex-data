@@ -15,6 +15,36 @@
       "name": "Roy Richardson",
       "role": "artist",
       "slug": "roy-richardson"
+    },
+    {
+      "name": "June Brigman",
+      "role": "penciler",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "inker",
+      "slug": "roy-richardson"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "June Brigman",
+      "role": "coverArtist",
+      "slug": "june-brigman"
+    },
+    {
+      "name": "Roy Richardson",
+      "role": "coverArtist",
+      "slug": "roy-richardson"
     }
   ],
   "displayTitle": "River of Chaos",
@@ -23,7 +53,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-06-06T00:00:00.000Z",
+  "releaseDate": "1995-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "river-of-chaos-1995",

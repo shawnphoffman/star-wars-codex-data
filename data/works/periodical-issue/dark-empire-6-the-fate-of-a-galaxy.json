@@ -5,6 +5,41 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "colorist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "inker",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Todd Klein",
+      "role": "letterer",
+      "slug": "todd-klein"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Barbara Kesel",
+      "role": "editor",
+      "slug": "barbara-kesel"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Dark Empire #6: The Fate of a Galaxy",
@@ -17,10 +52,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1992-10-20T00:00:00.000Z",
+  "releaseDate": "1992-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-6-the-fate-of-a-galaxy",
-  "synopsis": "Left behind on Byss, Luke travels with the newly-powerful Emperor Palpatine to capture his sister Leia. Meanwhile, the Jedi Holocron delivers a thousand-year-old prophecy to Leia, which tells of her battle against the young Emperor! And as the Battle of Calamari rages over the waters of that world and the Mon Calamari Rebels wonder when their savior Luke will shut down the killing machines, a battle begins above them that overshadows the outcome of their more conventional war&hellip; The key to their survival all comes down to the data carried inside one brave little robot.",
+  "synopsis": "Left behind on Byss, Luke travels with the newly-powerful Emperor Palpatine to capture his sister Leia. Meanwhile, the Jedi Holocron delivers a thousand-year-old prophecy to Leia, which tells of her battle against the young Emperor! And as the Battle of Calimari rages over the waters of that world and the Mon Calimari Rebels wonder when their savior Luke will shut down the killing machines, a battle begins above them that overshadows the outcome of their more conventional war... The key to their survival all comes down to the data carried inside one brave little robot.",
   "title": "Dark Empire #6: The Fate of a Galaxy"
 }

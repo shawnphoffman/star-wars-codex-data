@@ -1,5 +1,160 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Robert Kirkman",
+      "role": "letterer",
+      "slug": "robert-kirkman"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Kris Justice",
+      "role": "inker",
+      "slug": "kris-justice"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "inker",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Sean Murphy",
+      "role": "inker",
+      "slug": "sean-murphy"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Scott Kurtz",
+      "role": "inker",
+      "slug": "scott-kurtz"
+    },
+    {
+      "name": "Edde Wagner",
+      "role": "inker",
+      "slug": "edde-wagner"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Cam Smith",
+      "role": "colorist",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Jim Zub",
+      "role": "colorist",
+      "slug": "jim-zub"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Jim Royal",
+      "role": "writer",
+      "slug": "jim-royal"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Andrew C. Robinson",
+      "role": "writer",
+      "slug": "andrew-c-robinson"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "penciler",
+      "slug": "ramon-bachs"
+    },
+    {
+      "name": "Greg Tocchini",
+      "role": "penciler",
+      "slug": "greg-tocchini"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "colorist",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "colorist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Scott Kurtz",
+      "role": "writer",
+      "slug": "scott-kurtz"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "penciler",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Sean Murphy",
+      "role": "penciler",
+      "slug": "sean-murphy"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Scott Kurtz",
+      "role": "penciler",
+      "slug": "scott-kurtz"
+    },
+    {
+      "name": "Andrew Robinson",
+      "role": "coverArtist",
+      "slug": "andrew-robinson"
+    },
+    {
+      "name": "Jim Pascoe",
+      "slug": "jim-pascoe"
+    },
+    {
+      "name": "Haden Blackman",
+      "slug": "haden-blackman"
+    }
+  ],
   "displayTitle": "Tales #19",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -7,10 +162,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2004-05-14T00:00:00.000Z",
+  "releaseDate": "2004-04-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-19",
-  "synopsis": "A hyperdrive malfunction sends the Millennium Falcon massively off course trapping Han Solo galaxies away from his home system. Now stranded lightyears from everything he knows, Han must fight the life threatening hazards of the jungle filled world that has become his prison. Will he be able to fix the Falcon and return to all he knows and loves? This is one Star Wars story that you won't want to miss! Also in this issue, Scott \"PvP\" Kurtz's tale of high-school angst, Star Wars style!",
+  "synopsis": "A hyperdrive malfunction sends the Mellinnium Falcon massively off course trapping Han Solo galaxies away from his home system. Now stranded lightyears from everything he knows, Han must fight the life threatening hazards of the jungle filled world that has become his prison. Will he be able to fix the Falcon and return to all he knows and loves? This is one Star Wars story that you won’t want to miss! Also in this issue, Scott “PvP” Kurtz’s tale of high-school angst—Star Wars style!",
   "title": "Star Wars Tales #19"
 }

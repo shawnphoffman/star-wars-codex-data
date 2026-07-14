@@ -5,6 +5,36 @@
       "name": "Scott Allie",
       "role": "writer",
       "slug": "scott-allie"
+    },
+    {
+      "name": "Paul Mounts",
+      "role": "colorist",
+      "slug": "paul-mounts"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "inker",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "penciler",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "artist",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Jedi: The Dark Side #2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "jedi-the-dark-side-graphic-novel",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-06-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-the-dark-side-2",
-  "synopsis": "Twenty-one years before the events in Star Wars: Episode I The Phantom Menace, Jedi Master Qui-Gon Jinn is dispatched to prevent the outbreak of a civil war on the homeworld of his Padawan Xanatos&mdash;whose father is king. It is a mission that will lead Qui-Gon into close contact with the dark side and start him on a quest that will have a major impact on the future of the Jedi Order!",
+  "synopsis": "Dispatched to the planet Telos IV, Qui-Gon, his Padawan Xanatos, and the lovely Jedi Master Tahl must uncover the secrets behind a recent political assassination and prevent an outbreak of civil war. For the headstrong Xanatos, this return to the world of his birth has dredged up hidden resentments, while Master Tahl has herself become a target for assassination! Intrigue, action, danger, and the dark side are imminent! Years before the events in Star Wars: Episode I, before Obi-Wan Kenobi was his Padawan, and before he met Anakin Skywalker, Jedi Master Qui-Gon Jinn had his first encounters with the dark side . . . * Writer Scott Allie’s first Star Wars story since Star Wars: Empire—Betrayal. * Illustrated by rising star Mahmud Asrar (Brightest Day: The Atom Special, Avengers: The Initiative). * Covers by acclaimed artist Stéphane Roux (Countdown to Final Crisis, Action Comics).",
   "title": "Jedi: The Dark Side #2"
 }

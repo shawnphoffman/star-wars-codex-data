@@ -1,0 +1,55 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    },
+    {
+      "name": "Mel Rubi",
+      "role": "penciler",
+      "slug": "mel-rubi"
+    },
+    {
+      "name": "Andrew Pepoy",
+      "role": "inker",
+      "slug": "andrew-pepoy"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Clem Robins",
+      "role": "letterer",
+      "slug": "clem-robins"
+    },
+    {
+      "name": "Philip D. Amara",
+      "role": "editor",
+      "slug": "philip-d-amara"
+    },
+    {
+      "name": "Darcy Hockett",
+      "slug": "darcy-hockett"
+    },
+    {
+      "name": "Marc Gabbana",
+      "role": "coverArtist",
+      "slug": "marc-gabbana"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Scoundrel's Wages",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-09-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-bounty-hunters-scoundrels-wages",
+  "synopsis": "Dengar: sly and mercenary. 4-LOM: calculating and precise. Bossk: fierce and unstoppable. All bounty hunters, all deadly, and all after what may be be their greatest prize: a member of the Rebel Alliance and pilot of the Millennium Falcon. But it's not who you think! On the odd planet of Xokhal, the vile Quaffug the Hutt has staged a hunt for his private amusement. With the unscrupulous bounty hunters all vying for the same purse, all rules are thrown out. But Quaffug and his hired rogues may get more than they bargained for from their \"helpless\" prey.",
+  "title": "The Bounty Hunters: Scoundrel's Wages"
+}

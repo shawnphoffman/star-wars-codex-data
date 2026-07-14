@@ -5,6 +5,36 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Hank Green",
+      "role": "inker",
+      "slug": "hank-green"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
     }
   ],
   "displayTitle": "Darth Vader and the Lost Command #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-lost-command-graphic-novel",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-04-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-lost-command-4",
-  "synopsis": "An attempt on his life leaves Vader and a handful of loyal troops trapped on a desolate world. Despite the deadly perils posed by the environment and attacks from his mysterious enemy, Vader will not veer from his duty. But what if the reason for his mission is negated? And what do these visions of Padmé mean to Vader's future?",
+  "synopsis": "An attempt on his life leaves Vader and a handful of loyal troops trapped on a desolate world. Despite the deadly perils posed by the environment and attacks from his mysterious enemy, Vader will not veer from his duty. But what if the reason for his mission is negated? And what do these visions of Padme mean to Vader’s future? * An assassination attempt on Darth Vader, dark lord of the Sith! * Haden Blackman (The Force Unleashed, Purge) once again brings Vader to life!",
   "title": "Darth Vader and the Lost Command #4"
 }

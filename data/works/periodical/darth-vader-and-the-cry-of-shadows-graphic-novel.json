@@ -5,6 +5,26 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows",
@@ -16,7 +36,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2014-07-15T00:00:00.000Z",
+  "releaseDate": "2013-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-cry-of-shadows-graphic-novel",

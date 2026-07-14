@@ -20,6 +20,31 @@
       "name": "Jason Keith",
       "role": "artist",
       "slug": "jason-keith"
+    },
+    {
+      "name": "Leinil Yu",
+      "role": "penciler",
+      "slug": "leinil-yu"
+    },
+    {
+      "name": "Gerry Alanguilan",
+      "role": "inker",
+      "slug": "gerry-alanguilan"
+    },
+    {
+      "name": "Jason Keith",
+      "role": "colorist",
+      "slug": "jason-keith"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Leinil Yu",
+      "role": "coverArtist",
+      "slug": "leinil-yu"
     }
   ],
   "displayTitle": "Darth Vader (2015) Annual 1",

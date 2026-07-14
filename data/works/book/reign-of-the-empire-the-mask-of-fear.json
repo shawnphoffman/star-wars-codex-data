@@ -11,6 +11,10 @@
   "displayTitle": "Reign of the Empire: The Mask of Fear",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593723465"
+    },
+    {
       "type": "isbn13",
       "value": "9780593723463"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 496,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593723465",
       "isbn13": "9780593723463",
       "kind": "print",
       "onsale": "2025-02-25T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "reign-of-the-empire-the-mask-of-fear",
-  "synopsis": "In the immediate aftermath of Order 66 and the Republic’s sudden transformation into the Galactic Empire, senators Mon Mothma and Bail Organa must figure out how to continue fighting for what they believe in … without the Empire catching on to their disloyalty.",
+  "synopsis": "In the immediate aftermath of Order 66 and the Republic's sudden transformation into the Galactic Empire, senators Mon Mothma and Bail Organa must figure out how to continue fighting for what they believe in … without the Empire catching on to their disloyalty.",
   "title": "Reign of the Empire: The Mask of Fear"
 }

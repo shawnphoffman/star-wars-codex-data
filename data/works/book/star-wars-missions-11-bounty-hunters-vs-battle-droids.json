@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Missions 11: Bounty Hunters vs. Battle Droids",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590583395"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590583395",
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

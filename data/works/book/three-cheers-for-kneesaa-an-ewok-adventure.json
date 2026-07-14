@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Three Cheers for Kneesaa!: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394863542"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394863542",
+      "kind": "print",
+      "onsale": "1984-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1984-06-28T00:00:00.000Z",
+  "releaseDate": "1984-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "three-cheers-for-kneesaa-an-ewok-adventure",

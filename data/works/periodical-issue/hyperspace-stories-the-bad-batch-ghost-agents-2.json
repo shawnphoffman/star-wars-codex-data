@@ -1,0 +1,53 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria \"Lux\" Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-lux-favoccia"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-the-bad-batch-ghost-agents-2",
+  "synopsis": "The Bad Batch race bounty hunter Embo to recover stolen intelligence that could compromise Republic spies everywhere! Their mission brings them face-to-face with the nefarious Pyke Syndicate, a notorious gang of spice smugglers that poses a serious threat to the clones. Will the Bad Batch escape with their lives before Embo flees with the intel? The Republic war effort depends on it! • A new Bad Batch adventure, set during the Clone Wars! • Five issue series.",
+  "title": "Hyperspace Stories: The Bad Batch: Ghost Agents #2"
+}

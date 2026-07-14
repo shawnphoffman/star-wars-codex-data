@@ -10,6 +10,61 @@
       "name": "Marc Laming",
       "role": "artist",
       "slug": "marc-laming"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "penciler",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "penciler",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "inker",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "inker",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "inker",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Tradd Moore",
+      "role": "coverArtist",
+      "slug": "tradd-moore"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "coverArtist",
+      "slug": "matthew-wilson"
     }
   ],
   "displayTitle": "Star Wars (2015) Annual #4",
@@ -18,7 +73,7 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "star-wars-2015",
+  "parentWorkSlug": "star-wars-annual-1979",
   "periodical": {
     "publicationKind": "comic"
   },

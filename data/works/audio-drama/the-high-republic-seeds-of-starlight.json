@@ -6,13 +6,18 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Todd Haberkorn",
+      "role": "narrator",
+      "slug": "todd-haberkorn"
     }
   ],
   "displayTitle": "Seeds of Starlight",
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
-      "isPrimary": true,
+      "isPrimary": false,
       "kind": "print",
       "onsale": "2024-11-14T00:00:00.000Z"
     }

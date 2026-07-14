@@ -25,6 +25,46 @@
       "name": "Scott Hanna",
       "role": "artist",
       "slug": "scott-hanna"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "penciler",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "penciler",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "inker",
+      "slug": "roberto-poggi"
+    },
+    {
+      "name": "Scott Hanna",
+      "role": "inker",
+      "slug": "scott-hanna"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "coverArtist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
     }
   ],
   "displayTitle": "Jedi of the Republic-Mace Windu",
@@ -33,7 +73,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2017-08-30T00:00:00.000Z",
+  "releaseDate": "2017-09-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-of-the-republic-mace-windu-2",

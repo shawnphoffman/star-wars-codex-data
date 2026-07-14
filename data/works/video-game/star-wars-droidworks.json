@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Collette Michaud",
+      "role": "writer",
+      "slug": "collette-michaud"
+    }
+  ],
   "displayTitle": "DroidWorks",
   "format": "videoGame",
   "periodical": {

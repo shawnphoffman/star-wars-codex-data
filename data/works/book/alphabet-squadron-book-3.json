@@ -9,11 +9,25 @@
     }
   ],
   "displayTitle": "Alphabet Squadron: Victory's Price",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984820079"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984820075"
+    }
+  ],
   "editions": [
     {
+      "extent": 460,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1984820079",
+      "isbn13": "9781984820075",
+      "kind": "print",
+      "onsale": "2021-03-02T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

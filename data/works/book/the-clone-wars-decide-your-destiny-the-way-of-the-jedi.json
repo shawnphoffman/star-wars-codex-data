@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Decide Your Destiny: The Way of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448450025"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448450025",
+      "kind": "print",
+      "onsale": "2008-10-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2008-10-07T00:00:00.000Z",
+  "releaseDate": "2008-10-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-decide-your-destiny-the-way-of-the-jedi",

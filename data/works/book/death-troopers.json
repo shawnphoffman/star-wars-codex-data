@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Death Troopers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345509625"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 265,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345509625",
+      "kind": "print",
+      "onsale": "2009-10-13T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

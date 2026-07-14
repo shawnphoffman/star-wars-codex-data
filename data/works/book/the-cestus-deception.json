@@ -11,11 +11,23 @@
   "displayTitle": "The Cestus Deception",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345458974"
+    },
+    {
       "type": "isbn13",
       "value": "9780345458971"
     }
   ],
   "editions": [
+    {
+      "extent": 416,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0345458974",
+      "kind": "print",
+      "onsale": "2004-06-01T00:00:00.000Z"
+    },
     {
       "extent": 416,
       "imprint": "Del Rey",

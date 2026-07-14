@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "X-Wing: Wedge's Gamble",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553568027"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 357,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553568027",
+      "kind": "print",
+      "onsale": "1996-05-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 6
   },
-  "releaseDate": "1996-05-02T00:00:00.000Z",
+  "releaseDate": "1996-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-wedges-gamble",

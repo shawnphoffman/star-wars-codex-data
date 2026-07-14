@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Mayhew",
+      "role": "inker",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "penciler",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "colorist",
+      "slug": "rain-beredo"
+    },
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    }
+  ],
+  "displayTitle": "The Star Wars (2013) #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-star-wars-2013-9",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-star-wars-2013-3",
+  "title": "The Star Wars (2013) #3"
+}

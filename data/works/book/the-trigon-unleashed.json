@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "The Trigon Unleashed",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780583311717"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Dragon Picture Books",
+      "isPrimary": true,
+      "isbn13": "9780583311717",
+      "kind": "print",
+      "onsale": "1987-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
-  "releaseDate": "1987-12-10T00:00:00.000Z",
+  "releaseDate": "1987-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-trigon-unleashed",

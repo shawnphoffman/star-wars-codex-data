@@ -1,0 +1,61 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mike Richardson",
+      "role": "writer",
+      "slug": "mike-richardson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Randy Emberlin",
+      "role": "inker",
+      "slug": "randy-emberlin"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Pat Brosseau",
+      "role": "letterer",
+      "slug": "pat-brosseau"
+    },
+    {
+      "name": "Diana Schutz",
+      "role": "editor",
+      "slug": "diana-schutz"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    }
+  ],
+  "displayTitle": "Crimson Empire: Council of Blood #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "crimson-empire-council-of-blood",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-03-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "crimson-empire-council-of-blood-5",
+  "synopsis": "It's revelation time, as the series begins to accelerate toward its thrilling conclusion. A hair-raising rescue attempt on the part of Kir Kanos goes afoul while the Interim Council finally collapses beneath its array of intrigues. And Grappa learns the meaning of \"caught between a rock and a hard place.\"",
+  "title": "Crimson Empire: Council of Blood #5"
+}

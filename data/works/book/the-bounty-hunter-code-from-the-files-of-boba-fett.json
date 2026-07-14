@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "The Bounty Hunter Code: From the Files of Boba Fett",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1477805982"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "isPrimary": true,
+      "isbn10": "1477805982",
+      "kind": "print",
+      "onsale": "2013-10-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -39

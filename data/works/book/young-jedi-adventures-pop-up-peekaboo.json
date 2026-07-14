@@ -11,6 +11,10 @@
   "displayTitle": "Young Jedi Adventures: Pop-Up Peekaboo!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0744099641"
+    },
+    {
       "type": "isbn13",
       "value": "9780744099645"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 12,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "DK Children",
       "isPrimary": true,
+      "isbn10": "0744099641",
       "isbn13": "9780744099645",
       "kind": "print",
       "onsale": "2024-06-04T00:00:00.000Z"

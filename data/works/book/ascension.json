@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Ascension",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345509161"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345509161",
+      "kind": "print",
+      "onsale": "2011-08-09T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

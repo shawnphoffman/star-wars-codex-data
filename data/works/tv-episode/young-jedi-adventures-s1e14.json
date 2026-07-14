@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Mia Resella",
+      "role": "writer",
+      "slug": "mia-resella"
+    }
+  ],
   "displayTitle": "The Missing Kibbin",
   "era": "highRepublic",
   "format": "tvEpisode",

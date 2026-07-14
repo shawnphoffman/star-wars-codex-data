@@ -11,11 +11,28 @@
   "displayTitle": "Maul: Lockdown",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345509048"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345509031"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509048"
     }
   ],
   "editions": [
+    {
+      "extent": 368,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0345509048",
+      "isbn13": "9780345509031",
+      "kind": "print",
+      "onsale": "2014-01-28T00:00:00.000Z"
+    },
     {
       "extent": 368,
       "imprint": "Del Rey",

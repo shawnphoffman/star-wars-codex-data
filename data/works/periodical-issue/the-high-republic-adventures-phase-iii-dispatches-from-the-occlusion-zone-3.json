@@ -1,0 +1,37 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel José Older",
+      "role": "writer",
+      "slug": "daniel-jose-older"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures Phase III: Dispatches from the Occlusion Zone #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-phase-iii-dispatches-from-the-occlusion-zone-3",
+  "synopsis": "Jedi Master and expert investigator Emerick Caphtor seeks the true nature of the Nameless! To help him solve the mystery of the “Force Eaters,” Emerick has brought on a Nihil prisoner-of-war with knowledge of the creatures. Together, the unlikely duo crosses the volcanic landscape of a distant moon in search of answers. Will the Jedi’s travelling companion prove to be a liability or an asset on this treacherous journey? • Four issue series",
+  "title": "The High Republic Adventures Phase III: Dispatches from the Occlusion Zone #3"
+}

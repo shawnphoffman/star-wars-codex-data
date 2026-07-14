@@ -10,6 +10,41 @@
       "name": "Georges Jeanty",
       "role": "artist",
       "slug": "georges-jeanty"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Wayne Faucher",
+      "role": "inker",
+      "slug": "wayne-faucher"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "David Nakayama",
+      "role": "coverArtist",
+      "slug": "david-nakayama"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Ahsoka #1",

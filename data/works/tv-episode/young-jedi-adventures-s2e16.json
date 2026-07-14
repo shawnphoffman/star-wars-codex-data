@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Greg Iwinski",
+      "role": "writer",
+      "slug": "greg-iwinski"
+    }
+  ],
   "displayTitle": "A Sticky Situation",
   "era": "highRepublic",
   "format": "tvEpisode",

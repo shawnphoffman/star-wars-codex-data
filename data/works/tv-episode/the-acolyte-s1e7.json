@@ -2,11 +2,6 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Kogonada",
-      "role": "director",
-      "slug": "kogonada"
-    },
-    {
       "name": "Jasmyne Flournoy",
       "role": "writer",
       "slug": "jasmyne-flournoy"
@@ -20,6 +15,11 @@
       "name": "Jen Richards",
       "role": "writer",
       "slug": "jen-richards"
+    },
+    {
+      "name": "Kogonada",
+      "role": "director",
+      "slug": "kogonada"
     }
   ],
   "displayTitle": "Choice",

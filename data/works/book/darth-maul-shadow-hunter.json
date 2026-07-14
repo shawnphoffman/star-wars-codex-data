@@ -11,6 +11,14 @@
   "displayTitle": "Darth Maul: Shadow Hunter",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593497058"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345435392"
+    },
+    {
       "type": "isbn13",
       "value": "9780593497050"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 320,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593497050",
+      "isPrimary": false,
+      "isbn13": "9780345435392",
       "kind": "print",
       "onsale": "2001-01-30T00:00:00.000Z"
+    },
+    {
+      "extent": 336,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593497058",
+      "isbn13": "9780593497050",
+      "kind": "print",
+      "onsale": "2022-08-02T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -34,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-shadow-hunter",
-  "synopsis": "Set just before the events of The Phantom Menace, this story features Maul's emergence from the shadows, but of course, there are Jedi standing in his way that must be dealt with if his mission is going to be successful.",
+  "synopsis": "Set just before the events of The Phantom Menace, this story features Maul's emergence from the shadows - but of course, there are Jedi standing in his way that must be dealt with if his mission is going to be successful.",
   "title": "Darth Maul: Shadow Hunter"
 }

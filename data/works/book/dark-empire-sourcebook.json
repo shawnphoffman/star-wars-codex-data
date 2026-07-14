@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Dark Empire Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311942"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 133,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311942",
+      "kind": "print",
+      "onsale": "1993-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 10
   },
-  "releaseDate": "1993-06-15T00:00:00.000Z",
+  "releaseDate": "1993-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-sourcebook",

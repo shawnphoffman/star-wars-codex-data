@@ -11,8 +11,16 @@
   "displayTitle": "Servants of the Empire: Edge of the Galaxy",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0606365362"
+    },
+    {
       "type": "isbn13",
       "value": "9780606365369"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704851"
     }
   ],
   "editions": [
@@ -20,7 +28,16 @@
       "extent": 176,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "0606365362",
       "isbn13": "9780606365369",
+      "kind": "print",
+      "onsale": "2014-10-21T00:00:00.000Z"
+    },
+    {
+      "extent": 176,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484704851",
       "kind": "print",
       "onsale": "2014-10-21T00:00:00.000Z"
     }

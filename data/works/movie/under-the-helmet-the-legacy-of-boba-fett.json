@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Brian Kwan",
@@ -15,6 +15,7 @@
   "displayTitle": "Under the Helmet: The Legacy of Boba Fett",
   "format": "movie",
   "movie": {
+    "movieType": "other",
     "mpaaRating": "pg",
     "runtimeMinutes": 21
   },

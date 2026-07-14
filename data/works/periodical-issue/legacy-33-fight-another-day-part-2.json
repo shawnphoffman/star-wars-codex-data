@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
     }
   ],
   "displayTitle": "Legacy #33: Fight Another Day pt. 2 of 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-02-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-33-fight-another-day-part-2",
-  "synopsis": "With the objective of exterminating the entire Mon Calamari species, the Sith have created a semisentient bioweapon, a creature that can kill selectively. This Sith leviathan has already been unleashed on one underwater Mon Cal refugee camp, and it now swims the waters of Dac searching for more victims. The Mon Cal Rangers, with the help of Imperial Knight Treis Sinde, must find a way to destroy the leviathan before it clears the remaining Mon Calamarians from the galaxy forever!",
+  "synopsis": "With the objective of exterminating the entire Mon Calamari species, the Sith have created a semisentient bioweapon, a creature that can kill selectively. This Sith leviathan has already been unleashed on one underwater Mon Cal refugee camp, and it now swims the waters of Dac searching for more victims. The Mon Cal Rangers, with the help of Imperial Knight Treis Sinde, must find a way to destroy the leviathan before it clears the remaining Mon Calamarians from the galaxy forever! \"Star Wars: Legacy took a gamble by jumping the Star Wars saga 100 years past what we knew about it and it has paid off. It's a great series.\" -BlogCritics.com",
   "title": "Legacy #33: Fight Another Day pt. 2 of 2"
 }

@@ -1,10 +1,20 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Park Hyeong-geun",
       "role": "director",
       "slug": "park-hyeong-geun"
+    },
+    {
+      "name": "Hyeong Geun Park",
+      "role": "director",
+      "slug": "hyeong-geun-park"
+    },
+    {
+      "name": "Chung Se Rang",
+      "role": "writer",
+      "slug": "chung-se-rang"
     }
   ],
   "displayTitle": "Journey to the Dark Head",

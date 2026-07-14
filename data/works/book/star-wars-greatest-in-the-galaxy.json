@@ -1,0 +1,36 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Katie Wilson",
+      "role": "writer",
+      "slug": "katie-wilson"
+    }
+  ],
+  "displayTitle": "Greatest in the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794454180"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn13": "9780794454180",
+      "kind": "print",
+      "onsale": "2027-02-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-02-16T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-greatest-in-the-galaxy",
+  "title": "Star Wars: Greatest in the Galaxy"
+}

@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Christian Streaty",
+      "role": "writer",
+      "slug": "christian-streaty"
+    }
+  ],
   "displayTitle": "The Wild Aklyrr",
   "era": "highRepublic",
   "format": "tvEpisode",

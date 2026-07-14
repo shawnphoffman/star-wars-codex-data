@@ -4,12 +4,17 @@
   "displayTitle": "LEGO Star Wars: Meet Grogu",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0GNZPQKXX"
+    },
+    {
       "type": "isbn13",
       "value": "9798217139958"
     }
   ],
   "editions": [
     {
+      "asin": "B0GNZPQKXX",
       "extent": 32,
       "imprint": "Dorling Kindersley",
       "isPrimary": true,
@@ -25,5 +30,6 @@
   "releaseDate": "2026-07-21T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "lego-star-wars-meet-grogu",
+  "synopsis": "Boost your reading skills as you learn about the cute, kind, and remarkable Grogu in this LEGO® Star Wars ™ : The Mandalorian Level 2 reader, carefully leveled to help children learn to read. Join Grogu on an exciting journey through the galaxy. Meet brave allies such as the Mandalorian, Din Djarin, who are battling to save Grogu from fearsome foes like Moff Gideon. Discover the awesome vehicles that carry Grogu across the stars, from the Razor Crest to the N-1 starfighter. Relive exciting moments from The Mandalorian as you learn about Grogu’s action-packed life. The engaging text has been carefully leveled using the Lexile reading scheme so that children are set up to succeed. Colorful LEGO Star Wars images, clear vocabulary, and a fun quiz will help young readers build their reading ability and confidence. The DK Super Readers series can help your child practise reading by: Covering engaging, motivating, curriculum-aligned topics. Building knowledge while progressing Grades 2 and 3 reading skills. Developing subject vocabulary on popular topics, including a variety of LEGO and Star Wars titles. Boosting understanding and retention through comprehension quizzes. Each title, which has been leveled using MetaMetrics®: The Lexile Framework for Reading, integrates science, geography, history, nature and popular fiction topics, so there’s something for all children’s interests. DK Super Readers Level 2 titles are visually engaging and expand subject knowledge and vocabulary, perfect for helping children aged 7 to 9 (Grades 2 and 3) begin to read independently.",
   "title": "LEGO Star Wars: Meet Grogu"
 }

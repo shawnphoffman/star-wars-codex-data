@@ -1,6 +1,6 @@
 {
   "bookType": "adultNovel",
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Ian Doescher",
@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "William Shakespeare's The Phantom of Menace: Star Wars Part the First",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781594748066"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9781594748066",
+      "kind": "print",
+      "onsale": "2015-04-07T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "releaseDate": "2015-04-07T00:00:00.000Z",
   "releaseDisplayState": "released",

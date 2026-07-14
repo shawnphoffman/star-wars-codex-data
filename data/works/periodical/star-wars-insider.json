@@ -1,12 +1,12 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "displayTitle": "Insider",
   "era": "multiEra",
   "format": "periodical",
   "periodical": {
     "publicationKind": "magazine"
   },
-  "releaseDate": "2024-08-27T00:00:00.000Z",
+  "releaseDate": "1987-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-insider",

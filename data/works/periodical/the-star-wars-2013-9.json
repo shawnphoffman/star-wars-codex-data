@@ -1,0 +1,35 @@
+{
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "rough-draft screenplay",
+      "role": "writer",
+      "slug": "rough-draft-screenplay"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "penciler",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "The Star Wars (2013)",
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-2013-9",
+  "title": "The Star Wars (2013)"
+}

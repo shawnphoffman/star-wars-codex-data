@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: The Collected Stories",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345541321"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345541321",
+      "kind": "print",
+      "onsale": "2012-07-24T00:00:00.000Z"
+    }
+  ],
   "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {

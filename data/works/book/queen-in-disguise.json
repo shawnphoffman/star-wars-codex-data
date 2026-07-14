@@ -9,11 +9,27 @@
     }
   ],
   "displayTitle": "Queen in Disguise",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375804293"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0375804293",
+      "kind": "print",
+      "onsale": "2000-02-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
   },
-  "releaseDate": "2000-03-28T00:00:00.000Z",
+  "releaseDate": "2000-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "queen-in-disguise",

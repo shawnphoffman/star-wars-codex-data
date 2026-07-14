@@ -1,0 +1,49 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Benjamin Percy",
+      "role": "writer",
+      "slug": "benjamin-percy"
+    },
+    {
+      "name": "Luis Guerrero",
+      "role": "colorist",
+      "slug": "luis-guerrero"
+    },
+    {
+      "name": "Derrick Chew",
+      "role": "coverArtist",
+      "slug": "derrick-chew"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "inker",
+      "slug": "madibek-musabekov"
+    },
+    {
+      "name": "Madibek Musabekov",
+      "role": "penciler",
+      "slug": "madibek-musabekov"
+    }
+  ],
+  "displayTitle": "Shadow of Maul (2026) #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "shadow-of-maul",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "shadow-of-maul-2026-5",
+  "title": "Shadow of Maul (2026) #5"
+}

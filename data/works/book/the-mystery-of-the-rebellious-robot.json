@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Mystery of the Rebellious Robot",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394840860"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 27,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394840860",
+      "kind": "print",
+      "onsale": "1979-03-12T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

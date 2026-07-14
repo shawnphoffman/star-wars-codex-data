@@ -5,6 +5,41 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Drew Geraci",
+      "role": "inker",
+      "slug": "drew-geraci"
+    },
+    {
+      "name": "Mark Irwin",
+      "role": "inker",
+      "slug": "mark-irwin"
+    },
+    {
+      "name": "Jason Gorder",
+      "role": "inker",
+      "slug": "jason-gorder"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Stephen Thompson",
+      "role": "penciler",
+      "slug": "stephen-thompson"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin #4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-07-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-4",
-  "synopsis": "In the ruins of an ancient moon, Darth Vader encounters an evil people with a dark prophecy and a powerful weapon. They are a threat to the Empire and Vader will force them to serve&mdash;or crush them all! Meanwhile, the assassin hunting Vader still lurks...",
+  "synopsis": "In the ruins of an ancient moon, Darth Vader encounters an evil people with a dark prophecy and a powerful weapon. They are a threat to the Empire and Vader will force them to serve—or crush them all! Meanwhile, the assassin hunting Vader still lurks . . . * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds and over 600,000 followers!",
   "title": "Darth Vader and the Ninth Assassin #4"
 }

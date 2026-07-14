@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Poe and the Missing Ship",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484705063"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484705063",
+      "kind": "print",
+      "onsale": "2017-01-17T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

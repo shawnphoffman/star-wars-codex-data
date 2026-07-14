@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Vortex",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345509208"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 375,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345509208",
+      "kind": "print",
+      "onsale": "2010-11-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 44

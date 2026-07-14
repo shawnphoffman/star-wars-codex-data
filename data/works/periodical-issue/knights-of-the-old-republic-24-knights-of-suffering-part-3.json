@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Knights of the Old Republic #24: Knights of Suffering, Part 3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2007-12-28T00:00:00.000Z",
+  "releaseDate": "2007-12-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-24-knights-of-suffering-part-3",
-  "synopsis": "Zayne Carrick's murderous masters have hunted him halfway across the galaxy. Now, his run ends with him cornered in the very place where it began&mdash;in the Jedi Temple of Taris, the current headquarters of invading Mandalorian leader Cassus Fett! Zayne's escaped before&mdash;with help from his friends and the Force&mdash;but not this time! His only choice is to fight for his life, in mortal combat with his far more talented teacher! It's the shattering conclusion to the yearlong \"Days/Knights\" sequence&mdash;and not everyone makes it out alive! The Knights of the Old Republic series&mdash;w",
+  "synopsis": "Zayne Carrick's murderous masters have hunted him halfway across the galaxy. Now, his run ends with him cornered in the very place where it began-in the Jedi Temple of Taris, the current headquarters of invading Mandalorian leader Cassus Fett! Zayne's escaped before-with help from his friends and the Force-but not this time! His only choice is to fight for his life, in mortal combat with his far more talented teacher! It's the shattering conclusion to the yearlong \"Days/Knights\" sequence-and not everyone makes it out alive! The Knights of the Old Republic series-will never be the same again!",
   "title": "Knights of the Old Republic #24: Knights of Suffering, Part 3"
 }

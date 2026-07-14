@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Galaxy Guide 5: Return of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311403"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311403",
+      "kind": "print",
+      "onsale": "1990-01-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

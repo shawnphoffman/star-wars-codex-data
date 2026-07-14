@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Empire and Rebellion: Honor Among Thieves",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345546852"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345546852",
+      "kind": "print",
+      "onsale": "2014-03-04T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

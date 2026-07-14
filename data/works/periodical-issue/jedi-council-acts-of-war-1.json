@@ -5,6 +5,40 @@
       "name": "Randy Stradley",
       "role": "writer",
       "slug": "randy-stradley"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jeremy Perkins",
+      "slug": "jeremy-perkins"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "coverArtist",
+      "slug": "david-fabbri"
     }
   ],
   "displayTitle": "Jedi Council: Acts of War #1",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-council-acts-of-war-1",
-  "synopsis": "Even in the days before the shadow of the Star Wars: The Phantom Menace fell upon it, the rule of the Senate was no guarantee of peace. Trouble could come in many forms to any of the thousands of worlds that made up the Republic. When conflict arose, it was the duty of the Jedi Knights, under the guidance of the Jedi Council, to protect the innocent and set things right.",
+  "synopsis": "Even in the days before the shadow of the Phantom Menace fell upon it, the rule of the Senate was no guarantee of peace. Trouble could come in many forms to any of the thousands of worlds that made up the Republic. When conflict arose, it was the duty of the Jedi Knights, under the guidance of the Jedi Council, to protect the innocent and set things right.",
   "title": "Jedi Council: Acts of War #1"
 }

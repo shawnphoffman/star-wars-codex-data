@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Ghia Godfree",
+      "role": "writer",
+      "slug": "ghia-godfree"
+    }
+  ],
   "displayTitle": "Apexx Awakens",
   "era": "highRepublic",
   "format": "tvEpisode",

@@ -6,14 +6,34 @@
       "name": "Larry Weinberg",
       "role": "writer",
       "slug": "larry-weinberg"
+    },
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
     }
   ],
   "displayTitle": "Wicket and the Dandelion Warriors: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394877349"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394877349",
+      "kind": "print",
+      "onsale": "1985-11-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1985-11-12T00:00:00.000Z",
+  "releaseDate": "1985-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "wicket-and-the-dandelion-warriors-an-ewok-adventure",

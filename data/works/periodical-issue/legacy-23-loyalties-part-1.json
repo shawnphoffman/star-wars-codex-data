@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
     }
   ],
   "displayTitle": "Legacy #23: Loyalties, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-05-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-23-loyalties-part-1",
-  "synopsis": "The bounty hunter Cade Skywalker and a group of his allies storm the grounded starship Crimson Axe on the planet Socorro and retrieve another starship, the Grinning Liar, from the pirate Rav. Rav afterward solidifies an alliance with the Sith Lady Darth Maladi, and deposed Emperor Roan Fel prepares to send several of his Imperial Knights on a mission to pursue Skywalker. His daughter Marasiah and fellow Imperial Knight Antares Draco discuss their feelings for one another, and the crew of the Mynock arrive at the planet Iego to find the home of their friend \"Bantha\" Rawk under attack from the criminals of Black Sun. They are pursued to Iego by a masked stranger named Azlyn Rae.",
+  "synopsis": "The pirate Rav has nearly every bounty hunter in the galaxy looking for Cade Skywalker, but he never anticipated what would happen if Cade came looking for him. Scores will be settled the unfriendly way. Taking control of your future sometimes means cutting loose your past!",
   "title": "Legacy #23: Loyalties, Part 1"
 }

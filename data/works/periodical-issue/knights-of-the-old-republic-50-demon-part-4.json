@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #50: Demon, Part 4",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-02-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-50-demon-part-4",
-  "synopsis": "The saga of Zayne Carrick, the Padawan-turned-undercover-and-unexpected-hero, ends in this last issue of the series that has been a part of the Dark Horse Star Wars line since 2006! Don't miss this final issue! Zayne and the Mandalorian Rohlan rush to aid their friend Jarael against the demented scientist Demagol and the vicious slaver Chantique. If they can arrive in time, there is a chance that everything will turn out in their favor, but with Zayne's ever-awkward connection to the Force, nothing is certain...",
+  "synopsis": "The saga of Zayne Carrick, the Padawan-turned-undercover-and-unexpected-hero, ends in this last issue of the series that has been a part of the Dark Horse Star Wars line since 2006! Don't miss this final issue! Zayne and the Mandalorian Rohlan rush to aid their friend Jarael against the demented scientist Demagol and the vicious slaver Chantique. If they can arrive in time, there is a chance that everything will turn out in their favor -- but with Zayne's ever -- awkward connection to the Force, nothing is certain . . . The final issue!",
   "title": "Knights of the Old Republic #50: Demon, Part 4"
 }

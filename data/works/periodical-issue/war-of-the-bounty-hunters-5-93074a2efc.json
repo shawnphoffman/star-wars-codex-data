@@ -10,6 +10,56 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "David Messina",
+      "role": "inker",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "David Messina",
+      "role": "penciler",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "coverArtist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "coverArtist",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
   "displayTitle": "War of the Bounty Hunters #5",

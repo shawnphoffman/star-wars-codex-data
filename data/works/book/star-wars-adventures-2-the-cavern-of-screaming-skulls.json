@@ -11,11 +11,39 @@
   "displayTitle": "Episode II Adventures 2: The Cavern of Screaming Skulls",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439101395"
+    },
+    {
+      "type": "isbn10",
+      "value": "0439458803"
+    },
+    {
       "type": "isbn13",
       "value": "9780439458801"
     }
   ],
   "editions": [
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "1999-10-01T00:00:00.000Z"
+    },
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439101395",
+      "kind": "print",
+      "onsale": "1999-10-01T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn10": "0439458803",
+      "kind": "print"
+    },
     {
       "extent": 104,
       "imprint": "Scholastic",
@@ -30,7 +58,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDate": "1999-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-2-the-cavern-of-screaming-skulls",

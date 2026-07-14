@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #6",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-12-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-6",
-  "synopsis": "The rescues have all been attempted, and the rescuers&mdash;Finn Galfridian and his sister Kaye&mdash;have learned fateful lessons about the Yuuzhan Vong invaders.\nBut Finn has also learned a secret about his mother and received clues about the mystery surrounding him. Finn knows that someday he must go back to the fight to free his homeworld from the invaders, as well as return to Luke Skywalker's Jedi Academy and complete his Jedi training. But first he has a mission that he must complete in order to complete himself...",
+  "synopsis": "The rescues have all been attempted, and the rescuers--Finn Galfridian and his sister Kaye--have learned fateful lessons about the Yuuzhan Vong invaders. But Finn has also learned a secret about his mother and received clues about the mystery surrounding him. Finn knows that someday he must go back to the fight to free his homeworld from the invaders, as well as return to Luke Skywalker’s Jedi Academy and complete his Jedi training. But first he has a mission that he must complete in order to complete himself... * A new era in Star Wars comics! * Set within the time frame of the New Jedi Order novels from Del Rey!",
   "title": "Invasion: Rescues #6"
 }

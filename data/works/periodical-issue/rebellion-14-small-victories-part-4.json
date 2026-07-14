@@ -5,6 +5,36 @@
       "name": "Jeremy Barlow",
       "role": "writer",
       "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Rebellion #14: Small Victories, Part 4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-14-small-victories-part-4",
-  "synopsis": "Luke Skywalker and Princess Leia lead a team of Rebels to their destinies in the full-tilt conclusion to \"Small Victories\"! Facing a situation of unparalleled danger deep behind enemy lines, a few surviving Rebels test their resolve as decisions made on the fly will have serious consequences for both the Alliance and the Empire. Meanwhile, Admiral Gial Ackbar calls a squad of experimental starfighters into action, but this is no simulation&mdash;if these new ships aren't up to the challenge, the Rebellion's hopes may be dashed by the Imperial fist! Introducing Dagger Squadron!",
+  "synopsis": "Luke Skywalker and Princess Leia lead a team of Rebels to their destinies in the full-tilt conclusion to \"Small Victories\"! Facing a situation of unparalleled danger deep behind enemy lines, a few surviving Rebels test their resolve as decisions made on the fly will have serious consequences for both the Alliance and the Empire. Meanwhile, Admiral Ackbar calls a squad of experimental starfighters into action, but this is no simulation--if these new ships aren't up to the challenge, the Rebellion's hopes may be dashed by the Imperial fist! Introducing Dagger Squadron!",
   "title": "Rebellion #14: Small Victories, Part 4"
 }

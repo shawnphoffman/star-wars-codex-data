@@ -1,0 +1,68 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "penciler",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "inker",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "colorist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
+    }
+  ],
+  "displayTitle": "Star Wars #20",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-08-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-20",
+  "synopsis": "Leia risks it all for a friend she hasn’t seen since childhood! Han, Luke, and Chewie risk it all for Leia! Brian Wood and Carlos D’Anda say farewell to that galaxy far, far away before they send our heroes to an unknown fate! “This is a great read and has been each and every issue.” —Comics List",
+  "title": "Star Wars #20"
+}

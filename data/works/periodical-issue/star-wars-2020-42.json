@@ -10,6 +10,46 @@
       "name": "Steven Cummings",
       "role": "artist",
       "slug": "steven-cummings"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Wayne Faucher",
+      "role": "inker",
+      "slug": "wayne-faucher"
+    },
+    {
+      "name": "Jonas Trindade",
+      "role": "inker",
+      "slug": "jonas-trindade"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Stephen Segovia",
+      "role": "coverArtist",
+      "slug": "stephen-segovia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "coverArtist",
+      "slug": "rain-beredo"
     }
   ],
   "displayTitle": "Star Wars (2020) #42",

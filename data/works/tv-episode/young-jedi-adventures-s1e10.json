@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Mia Resella",
+      "role": "writer",
+      "slug": "mia-resella"
+    }
+  ],
   "displayTitle": "Creature Safari",
   "era": "highRepublic",
   "format": "tvEpisode",

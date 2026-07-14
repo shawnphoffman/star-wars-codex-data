@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Han Solo's Revenge",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345284754"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345284754",
+      "kind": "print",
+      "onsale": "1979-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
   },
-  "releaseDate": "1979-10-12T00:00:00.000Z",
+  "releaseDate": "1979-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solos-revenge",

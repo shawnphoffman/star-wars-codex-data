@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Dark Forces: Soldier for the Empire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0399141987"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 127,
+      "imprint": "Dark Horse Comics, Boulevard",
+      "isPrimary": true,
+      "isbn10": "0399141987",
+      "kind": "print",
+      "onsale": "1997-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

@@ -25,6 +25,36 @@
       "name": "Phil Noto",
       "role": "artist",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "inker",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "penciler",
+      "slug": "angel-unzueta"
     }
   ],
   "displayTitle": "Poe Dameron #14: Legend Lost, Part I",

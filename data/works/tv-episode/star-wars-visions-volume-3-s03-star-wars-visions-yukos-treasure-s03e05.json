@@ -1,10 +1,20 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Masaki Tachibana",
       "role": "director",
       "slug": "masaki-tachibana"
+    },
+    {
+      "name": "Natsuko Takahashi",
+      "role": "writer",
+      "slug": "natsuko-takahashi"
+    },
+    {
+      "name": "Mika Tanaka",
+      "role": "writer",
+      "slug": "mika-tanaka"
     }
   ],
   "displayTitle": "Yuko's Treasure",

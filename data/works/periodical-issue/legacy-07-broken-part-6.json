@@ -5,6 +5,81 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "artist",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Livio Ramondelli",
+      "role": "coverArtist",
+      "slug": "livio-ramondelli"
     }
   ],
   "displayTitle": "Legacy #07: Broken, Part 6",
@@ -15,12 +90,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-01-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-07-broken-part-6",
-  "synopsis": "Lightsaber crashes against lightsaber in a battle between Jedi and Sith that marks a crucial turning point in the fate of the galaxy! The life of a central figure hangs in the balance, triggering Cade Skywalker to make a shocking choice that will challenge everything he's fought so hard to protect, and start him down a path from which he can never return. The stakes are higher than ever before in the Star Wars universe&mdash;be there as the future of this epic saga is revealed!",
+  "synopsis": "Lightsaber crashes against lightsaber in a battle between Jedi and Sith that marks a crucial turning point in the fate of the galaxy! The life of a central figure hangs in the balance, triggering Cade Skywalker to make a shocking choice that will challenge everything he's fought so hard to protect, and start him down a path from which he can never return. The stakes are higher than ever before in the Star Wars universe-be there as the future of this epic saga is revealed! • This is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before.",
   "title": "Legacy #07: Broken, Part 6"
 }

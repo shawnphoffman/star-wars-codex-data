@@ -10,9 +10,19 @@
       "name": "Justin Ridge",
       "role": "director",
       "slug": "justin-ridge"
+    },
+    {
+      "name": "Bosco Ng",
+      "role": "director",
+      "slug": "bosco-ng"
+    },
+    {
+      "name": "Paul Giacoppo",
+      "role": "writer",
+      "slug": "paul-giacoppo"
     }
   ],
-  "displayTitle": "Resistance S01E012: Bibo",
+  "displayTitle": "Bibo",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
   "inUniverseDate": {

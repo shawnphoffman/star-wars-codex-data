@@ -1,0 +1,68 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "penciler",
+      "slug": "stuart-immonen"
+    },
+    {
+      "name": "Wade Von Grawbadger",
+      "role": "inker",
+      "slug": "wade-von-grawbadger"
+    },
+    {
+      "name": "Justin Ponsor",
+      "role": "colorist",
+      "slug": "justin-ponsor"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "coverArtist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "Star Wars #10",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-10-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-10",
+  "synopsis": "Luke Skywalker and Wedge Antilles have infiltrated an Imperial Destroyer. But now nine thousand stormtroopers are searching for them, and Darth Vader is aware of their presence. Completing their mission and escaping with their lives may be an either/or proposition! Meanwhile, the Rebel fleet prepares for an Imperial assault! * Artist Carlos D’Anda returns! * Legendary Star Wars cover artist Hugh Fleming!",
+  "title": "Star Wars #10"
+}

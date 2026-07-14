@@ -1,0 +1,53 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
+    },
+    {
+      "name": "Georges Duarte",
+      "role": "penciler",
+      "slug": "georges-duarte"
+    },
+    {
+      "name": "PH Gomes",
+      "role": "colorist",
+      "slug": "ph-gomes"
+    },
+    {
+      "name": "Michael Cho",
+      "role": "coverArtist",
+      "slug": "michael-cho"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Mace",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506739861"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 88,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506739861",
+      "kind": "print",
+      "onsale": "2026-10-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-mace",
+  "synopsis": "Hyperspace Stories: Mace is an upcoming graphic novel in the Star Wars: Hyperspace Stories series of graphic novels featuring a young Mace Windu. The issue will be written by Justina Ireland, illustrated by Georges Duarte and PH Gomes, and published by Dark Horse Comics on October 20, 2026.",
+  "title": "Hyperspace Stories: Mace"
+}

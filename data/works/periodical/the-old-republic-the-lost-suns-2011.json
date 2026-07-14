@@ -20,6 +20,41 @@
       "name": "Mark McKenna",
       "role": "artist",
       "slug": "mark-mckenna"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "George Freeman",
+      "role": "penciler",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "David Aja",
+      "role": "penciler",
+      "slug": "david-aja"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns",

@@ -5,6 +5,31 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Bruno Redondo",
+      "role": "inker",
+      "slug": "bruno-redondo"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Bruno Redondo",
+      "role": "penciler",
+      "slug": "bruno-redondo"
     }
   ],
   "displayTitle": "Darth Maul: Death Sentence #2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "darth-maul-death-sentence-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-08-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-death-sentence-2012-2",
-  "synopsis": "Star Wars: Darth Maul - Death Sentence (also stylized Darth Maul: Death Sentence or Darth Maul - Death Sentence) is a four-issue comic book miniseries from Dark Horse Comics written by Tom Taylor.",
+  "synopsis": "It’s a perfect storm of mayhem as brothers Darth Maul and Savage Opress collide with an army of mercenaries, augmented by a team of visiting Jedi! The only thing that can make Darth Maul angrier than he is about the price on his head is having his brother captured by the man who put it there. If you thought two Sith were dangerous, wait until you see Darth Maul on his own! * Darth Maul and Savage Opress together—as seen on the TV series The Clone Wars!",
   "title": "Darth Maul: Death Sentence #2"
 }

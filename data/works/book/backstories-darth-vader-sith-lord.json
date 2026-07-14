@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Backstories: Darth Vader: Sith Lord",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781338029826"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9781338029826",
+      "kind": "print",
+      "onsale": "2017-02-28T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

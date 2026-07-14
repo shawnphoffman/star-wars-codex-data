@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Champions of the Force",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553298024"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 368,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553298024",
+      "kind": "print",
+      "onsale": "1994-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
   },
-  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDate": "1994-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "champions-of-the-force",

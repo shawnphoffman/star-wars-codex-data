@@ -5,6 +5,21 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "penciler",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
     }
   ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear",
@@ -13,7 +28,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-04-22T00:00:00.000Z",
+  "releaseDate": "2024-09-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-echoes-of-fear-5",

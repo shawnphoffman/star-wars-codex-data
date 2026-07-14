@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "Sarah Nerboso",
+      "role": "writer",
+      "slug": "sarah-nerboso"
+    }
+  ],
   "displayTitle": "Scrapping for a Song",
   "era": "highRepublic",
   "format": "tvEpisode",

@@ -1,0 +1,72 @@
+{
+  "entries": [
+    {
+      "note": "Opens the New Republic era in the chaotic weeks after the Battle of Endor.",
+      "priority": "essential",
+      "workSlug": "aftermath"
+    },
+    {
+      "note": "A Rebel-and-Imperial love story spanning the Galactic Civil War into the New Republic.",
+      "priority": "recommended",
+      "workSlug": "lost-stars"
+    },
+    {
+      "note": "Han and Chewie on a job between A New Hope and Empire.",
+      "priority": "recommended",
+      "workSlug": "smugglers-run-a-han-solo-and-chewbacca-adventure"
+    },
+    {
+      "note": "A young-Luke adventure framed by a First Order-era narrator.",
+      "priority": "recommended",
+      "workSlug": "the-weapon-of-a-jedi"
+    },
+    {
+      "note": "Leia on a decoy mission late in the Galactic Civil War.",
+      "priority": "recommended",
+      "workSlug": "moving-target"
+    },
+    {
+      "note": "Shara Bey and Kes Dameron, Poe's parents, in the weeks after Endor.",
+      "priority": "essential",
+      "workSlug": "shattered-empire"
+    },
+    {
+      "note": "Bounty hunter Bazine Netal, later seen among the patrons of Maz Kanata.",
+      "priority": "optional",
+      "workSlug": "the-perfect-weapon"
+    },
+    {
+      "note": "Short stories built around the new creatures of The Force Awakens.",
+      "priority": "optional",
+      "workSlug": "tales-from-a-galaxy-far-far-away-aliens"
+    },
+    {
+      "note": "Rey, Finn, and Poe's lives just before the film opens.",
+      "priority": "essential",
+      "workSlug": "before-the-awakening"
+    },
+    {
+      "note": "Poe and Black Squadron hunt Lor San Tekka in the lead-up to the film.",
+      "priority": "recommended",
+      "workSlug": "poe-dameron"
+    },
+    {
+      "note": "Leia and the fracturing New Republic Senate, roughly six years before the film.",
+      "priority": "essential",
+      "workSlug": "bloodline"
+    },
+    {
+      "note": "Middle volume of the Aftermath trilogy.",
+      "priority": "essential",
+      "workSlug": "aftermath-life-debt"
+    },
+    {
+      "note": "The trilogy's finale and the Battle of Jakku.",
+      "priority": "essential",
+      "workSlug": "aftermath-empires-end"
+    }
+  ],
+  "slug": "journey-to-the-force-awakens",
+  "summary": "The publishing program Lucasfilm ran in 2015-2017 to bridge Return of the Jedi and the sequel trilogy. Novels, comics, and short fiction, in release order.",
+  "title": "Journey to Star Wars: The Force Awakens"
+}

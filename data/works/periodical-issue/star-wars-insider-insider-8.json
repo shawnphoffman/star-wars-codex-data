@@ -5,6 +5,7 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 22,
     "publicationKind": "magazine"
   },
   "releaseDate": "1989-08-01T00:00:00.000Z",

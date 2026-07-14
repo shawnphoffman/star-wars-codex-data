@@ -1,10 +1,45 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War #4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-war-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-war-2013-4",
-  "synopsis": "Xesh and his Rakatan master are leading their ravening army to the temple of Anil Kesh and the chasm below, hoping to find a gateway to the galaxy at the bottom! But Je'daii Shae Koda dogs Xesh's steps, hoping to bring her lover back to the light side of the Force!",
+  "synopsis": "Xesh and his Rakatan master are leading their ravening army to the temple of Anil Kesh and the chasm below—hoping to find a gateway to the galaxy at the bottom! But Je’daii Shae Koda dogs Xesh’s steps, hoping to bring her lover back to the light side of the Force! * The dark side invasion comes to a Je’daii temple! * War comes to the Je’daii’s doorstep! “Xesh is sure to become a fan favorite”—Comic Book Resources",
   "title": "Dawn of the Jedi: Force War #4"
 }

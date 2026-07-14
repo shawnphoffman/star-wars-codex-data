@@ -1,10 +1,15 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Tadahiro Yoshihira",
       "role": "director",
       "slug": "tadahiro-yoshihira"
+    },
+    {
+      "name": "Makoto Uezu",
+      "role": "writer",
+      "slug": "makoto-uezu"
     }
   ],
   "displayTitle": "The Bird of Paradise",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tyrant's Test",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553572759"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553572759",
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

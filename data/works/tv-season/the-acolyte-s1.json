@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Abels",
+      "role": "composer",
+      "slug": "michael-abels"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Jasmyne Flournoy",
+      "role": "writer",
+      "slug": "jasmyne-flournoy"
+    }
+  ],
   "displayTitle": "The Acolyte Season 1",
   "era": "highRepublic",
   "format": "tvSeason",

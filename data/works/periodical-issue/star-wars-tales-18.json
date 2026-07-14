@@ -1,5 +1,151 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Will Conrad",
+      "role": "colorist",
+      "slug": "will-conrad"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pierre-Andre Dery",
+      "role": "inker",
+      "slug": "pierre-andre-dery"
+    },
+    {
+      "name": "Todd Demong",
+      "role": "inker",
+      "slug": "todd-demong"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Henry Flint",
+      "role": "inker",
+      "slug": "henry-flint"
+    },
+    {
+      "name": "John Wycough",
+      "role": "inker",
+      "slug": "john-wycough"
+    },
+    {
+      "name": "Niko Henrichon",
+      "role": "penciler",
+      "slug": "niko-henrichon"
+    },
+    {
+      "name": "Stewart McKenny",
+      "role": "penciler",
+      "slug": "stewart-mckenny"
+    },
+    {
+      "name": "Andy Diggle",
+      "role": "writer",
+      "slug": "andy-diggle"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Will Conrad",
+      "role": "inker",
+      "slug": "will-conrad"
+    },
+    {
+      "name": "Will Conrad",
+      "role": "penciler",
+      "slug": "will-conrad"
+    },
+    {
+      "name": "Todd Demong",
+      "role": "penciler",
+      "slug": "todd-demong"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Henry Flint",
+      "role": "penciler",
+      "slug": "henry-flint"
+    },
+    {
+      "name": "Henry Gilroy",
+      "role": "writer",
+      "slug": "henry-gilroy"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Peter Alilunas",
+      "role": "writer",
+      "slug": "peter-alilunas"
+    },
+    {
+      "name": "Dub w/Nico Henrichon",
+      "role": "penciler",
+      "slug": "dub-wnico-henrichon"
+    },
+    {
+      "name": "Chris Blythe",
+      "role": "colorist",
+      "slug": "chris-blythe"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Debra Bailey",
+      "slug": "debra-bailey"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "coverArtist",
+      "slug": "cam-kennedy"
+    }
+  ],
   "displayTitle": "Tales #18",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +157,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-18",
-  "synopsis": "Throughout the galaxy there is one name that can send a chill through the core of any wanted man. That word is Fett. Join us for a full-issue tribute to the most feared and respected bounty hunter of all time, Boba Fett. From stories of Boba's exciting childhood with his father Jango, through tales of him tracking down and bringing in wanted men, Star Wars Tales #18 is a thrill-a-minute, action-packed issue that will excite both young and old alike!",
+  "synopsis": "Throughout the galaxy there is one name that can send a chill through the core of any wanted man. That word is FETT. Join us for a full-issue tribute to the most feared and respected bounty hunter of all time—BOBA FETT. From stories of Boba’s exciting childhood with his father Jango, through tales of him tracking down and bringing in wanted men, Star Wars Tales #18 is a thrill-a-minute, action-packed issue that will excite both young and old alike!",
   "title": "Star Wars Tales #18"
 }

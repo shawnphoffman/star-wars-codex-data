@@ -5,6 +5,16 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Rodolfo Migliari",
+      "role": "coverArtist",
+      "slug": "rodolfo-migliari"
     }
   ],
   "displayTitle": "Dawn of the Jedi #0 (3rd printing)",
@@ -15,12 +25,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-0",
-  "synopsis": "It began with the mysterious pyramid ships--the Tho Yor--scattered to the eight corners of the galaxy, and ended with the establishment of an Order that would change the universe forever. Here's your first look at the Star Wars of 25,000 years ago--before there were lightsabers, when the ties to the Force were new, and before the Jedi spread out into the galaxy.",
+  "synopsis": "It began with the mysterious pyramid ships--the Tho Yor--scattered to the eight corners of the galaxy, and ended with the establishment of an Order that would change the universe forever. Here's your first look at the Star Wars of 25,000 years ago--before there were lightsabers, when the ties to the Force were new, and before the Jedi spread out into the galaxy. * The official guide for readers of Star Wars: Dawn of the Jedi! * The Ostrander/Duursema team returns to Star Wars!",
   "title": "Dawn of the Jedi #0 (3rd printing)"
 }

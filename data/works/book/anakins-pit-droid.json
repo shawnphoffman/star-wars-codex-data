@@ -11,14 +11,35 @@
       "name": "Ron Fontes",
       "role": "writer",
       "slug": "ron-fontes"
+    },
+    {
+      "name": "Justine",
+      "role": "writer",
+      "slug": "justine"
     }
   ],
   "displayTitle": "Anakin's Pit Droid",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375804315"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0375804315",
+      "kind": "print",
+      "onsale": "2000-03-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
   },
-  "releaseDate": "2000-03-28T00:00:00.000Z",
+  "releaseDate": "2000-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "anakins-pit-droid",

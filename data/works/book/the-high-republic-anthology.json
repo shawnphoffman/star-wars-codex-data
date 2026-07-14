@@ -72,8 +72,8 @@
       "onsale": "2023-09-05T00:00:00.000Z"
     },
     {
-      "extent": 400,
-      "imprint": "Disney-Lucasfilm Press",
+      "extent": 352,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368093795",
       "isbn13": "9781368093798",
@@ -90,6 +90,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-anthology",
-  "synopsis": "Spanning across all phases of the High Republic era, the initiative’s authors each share stories featuring just a few of readers’ favorite characters.",
+  "synopsis": "Spanning across all phases of the High Republic era, the initiative's authors each share stories featuring just a few of readers' favorite characters.",
   "title": "The High Republic: Tales of Light and Life"
 }

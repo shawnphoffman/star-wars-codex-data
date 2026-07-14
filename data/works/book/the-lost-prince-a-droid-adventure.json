@@ -9,12 +9,27 @@
     }
   ],
   "displayTitle": "The Lost Prince: A Droid Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780394877358"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780394877358",
+      "kind": "print",
+      "onsale": "1985-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
-  "releaseDate": "1985-12-01T00:00:00.000Z",
+  "releaseDate": "1985-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-lost-prince-a-droid-adventure",

@@ -35,6 +35,76 @@
       "name": "Ibraim Roberson",
       "role": "artist",
       "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "penciler",
+      "slug": "nico-leon"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "penciler",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "penciler",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "inker",
+      "slug": "nico-leon"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Alessandro Miracolo",
+      "role": "inker",
+      "slug": "alessandro-miracolo"
+    },
+    {
+      "name": "Ibraim Roberson",
+      "role": "inker",
+      "slug": "ibraim-roberson"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "colorist",
+      "slug": "nolan-woodard"
+    },
+    {
+      "name": "Annalisa Leoni",
+      "role": "colorist",
+      "slug": "annalisa-leoni"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Yoda",

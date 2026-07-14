@@ -1,0 +1,60 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "artist",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Ed King",
+      "role": "letterer",
+      "slug": "ed-king"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Edward Martin III",
+      "role": "editor",
+      "slug": "edward-martin-iii"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: Return of the Jedi #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-return-of-the-jedi-2",
+  "synopsis": "Dark Horse presents Star Wars: Return of the Jedi, the latest chapter in the greatest space fantasy ever! The Rebel Alliance must destroy the Empire's new Death Star before it is completed, but their attack is foreseen by the Emperor, himself a master of the Force, and anticipated with deadly plans. Can young Luke Skywalker destroy his own father to save the Galaxy from the Emperor's crushing grip?",
+  "title": "Classic Star Wars: Return of the Jedi #2"
+}

@@ -20,6 +20,26 @@
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Chris Chuckry",
+      "role": "colorist",
+      "slug": "chris-chuckry"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
     }
   ],
   "displayTitle": "Episode III: Revenge of the Sith",
@@ -32,7 +52,7 @@
     "imprint": "Del Rey",
     "publicationKind": "comic"
   },
-  "releaseDate": "2016-11-29T00:00:00.000Z",
+  "releaseDate": "2005-03-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episodeiii-revenge-of-the-sith-hardcover-graphic-novel",

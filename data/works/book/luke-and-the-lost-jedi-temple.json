@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Luke and the Lost Jedi Temple",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781484705056"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781484705056",
+      "kind": "print",
+      "onsale": "2016-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

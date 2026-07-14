@@ -10,6 +10,41 @@
       "name": "David Wachter",
       "role": "artist",
       "slug": "david-wachter"
+    },
+    {
+      "name": "David Lopez",
+      "role": "coverArtist",
+      "slug": "david-lopez"
+    },
+    {
+      "name": "Vc Joe Sabino",
+      "role": "letterer",
+      "slug": "vc-joe-sabino"
+    },
+    {
+      "name": "Giada Marchisio",
+      "role": "colorist",
+      "slug": "giada-marchisio"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "David Wachter",
+      "role": "inker",
+      "slug": "david-wachter"
+    },
+    {
+      "name": "David Wachter",
+      "role": "penciler",
+      "slug": "david-wachter"
+    },
+    {
+      "name": "Daniel Older",
+      "role": "writer",
+      "slug": "daniel-older"
     }
   ],
   "displayTitle": "The High Republic: Trail of Shadows #4",

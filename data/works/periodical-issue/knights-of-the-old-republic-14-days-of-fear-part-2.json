@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "coverArtist",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #14: Days of Fear, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-02-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-14-days-of-fear-part-2",
-  "synopsis": "Aboard the *Last Resort*, an HK-24 assassin droid reveals its orders to capture the senile old spacer Camper unharmed and kill his guardian Jarael. It nearly overpowers Jarael and Elbee before the Mandalorian Rohlan, who has been hiding on the ship in secret since Flashpoint, destroys it. Meanwhile, on the warfront planet Serroco, fugitive Padawan Zayne Carrick and the conniving Gryph run a troop-camp restaurant, and a conversation with Lieutenant Carth Onasi warns Zayne that the Mandalorians will strike the next day. When a Force vision shows him that attack annihilating the entire planet, Zayne urges Gryph to flee at once, then reveals he will not leave with him: instead he intends to warn the Republic commander, Admiral Karath.",
+  "synopsis": "Unexpected twists at every turn as power-mad evildoers hunt our heroes amidst a galaxy spanning war-Knights of the Old Republic is Star Wars at its very best, nearly 4,000 years before Luke Skywalker! A deadly new threat targets Camper, the seriously senile captain of the renegade vessel The Last Resort, and his youthful guardian Jarael must risk everything to try and save him, even if it's impossible. Meanwhile, fugitive Padawan Zayne Carrick and the conniving Gryph have mistakenly tricked their way into their most dangerous predicament yet-surrounded by an army they are trying to escape on a planet that's about to become the biggest battlefront in the galaxy. The second someone recognizes them, they're toast, assuming that a stray blaster bolt doesn't get them first! * Continuing the ongoing monthly series set nearly four thousand years before the rise of the Empire and the fall of Anakin Skywalker (and seven years prior to the events in the Knights of the Old Republic video game).",
   "title": "Knights of the Old Republic #14: Days of Fear, Part 2"
 }

@@ -11,6 +11,10 @@
   "displayTitle": "Red Harvest",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511174"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511171"
     }
@@ -20,6 +24,7 @@
       "extent": 256,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511174",
       "isbn13": "9780345511171",
       "kind": "print",
       "onsale": "2010-12-28T00:00:00.000Z"

@@ -11,9 +11,35 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Voronica Whitney-Robinson",
+      "role": "writer",
+      "slug": "voronica-whitney-robinson"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
     }
   ],
   "displayTitle": "Galaxies: The Ruins of Dantooine",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345470669"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345470669",
+      "kind": "print",
+      "onsale": "2003-12-30T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

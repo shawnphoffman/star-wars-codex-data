@@ -1,11 +1,36 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Pathfinders #5",
   "format": "periodicalIssue",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-09-09T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "the-high-republic-adventures-pathfinders-5",
+  "synopsis": "The mystery behind the Pathfinders’ plight is revealed! From a listening post on a lonely asteroid, a Republic comms team scours galactic frequencies for vital transmissions. It’s routine work—that is, until the station’s two inhabitants begin to unravel in the far reaches of space. See their spine-tingling transformations unfold in this inventive flashback issue! Six-issue series.",
   "title": "The High Republic Adventures: Pathfinders #5"
 }

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: A Tangled Web",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439681383"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 138,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439681383",
+      "kind": "print",
+      "onsale": "2006-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

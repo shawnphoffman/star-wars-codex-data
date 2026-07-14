@@ -45,6 +45,16 @@
       "name": "Ben Burtt",
       "role": "writer",
       "slug": "ben-burtt"
+    },
+    {
+      "name": "George Lucas",
+      "role": "producer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Special Edition",
+      "role": "producer",
+      "slug": "special-edition"
     }
   ],
   "displayTitle": "Episode VI: Return Of The Jedi",

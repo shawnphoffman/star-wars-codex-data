@@ -11,6 +11,14 @@
   "displayTitle": "Convergence",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593358651"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593358634"
+    },
+    {
       "type": "isbn13",
       "value": "9780593358658"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 336,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593358658",
+      "isPrimary": false,
+      "isbn13": "9780593358634",
       "kind": "print",
       "onsale": "2022-11-22T00:00:00.000Z"
+    },
+    {
+      "extent": 384,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593358651",
+      "isbn13": "9780593358658",
+      "kind": "print",
+      "onsale": "2023-04-04T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
@@ -34,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-convergence",
-  "synopsis": "Centuries before Anakin Skywalker first sets foot on Coruscant, two neighboring planets are on the verge of war, and an arranged marriage may be the only way to stop it.",
+  "synopsis": "Centuries before Anakin Skywalker first sets foot on Coruscant, two neighboring planets are on the verge of war - and an arranged marriage may be the only way to stop it.",
   "title": "Convergence"
 }

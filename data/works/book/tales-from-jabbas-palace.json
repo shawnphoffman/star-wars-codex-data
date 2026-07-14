@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tales from Jabba's Palace",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553568158"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 464,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553568158",
+      "kind": "print",
+      "onsale": "1995-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

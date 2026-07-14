@@ -5,6 +5,31 @@
       "name": "Mary Jo Duffy",
       "role": "writer",
       "slug": "mary-jo-duffy"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Ken Bruzenak",
+      "role": "letterer",
+      "slug": "ken-bruzenak"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
+    },
+    {
+      "name": "Tony Salmons",
+      "role": "penciler",
+      "slug": "tony-salmons"
     }
   ],
   "displayTitle": "Star Wars (1977) #91: Wookiee World",

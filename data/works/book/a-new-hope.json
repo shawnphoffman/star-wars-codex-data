@@ -1,15 +1,37 @@
 {
   "bookType": "other",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Geof Smith",
       "role": "writer",
       "slug": "geof-smith"
+    },
+    {
+      "name": "Caleb Meurer",
+      "slug": "caleb-meurer"
+    },
+    {
+      "name": "Alan Dean Foster",
+      "role": "writer",
+      "slug": "alan-dean-foster"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
     }
   ],
-  "displayTitle": "A New Hope (Little Golden Book)",
+  "displayTitle": "A New Hope",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736435387"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345260611"
+    },
     {
       "type": "isbn13",
       "value": "9780736435383"
@@ -17,9 +39,18 @@
   ],
   "editions": [
     {
+      "extent": 224,
+      "imprint": "Ballantine Books",
+      "isPrimary": false,
+      "isbn13": "9780345260611",
+      "kind": "print",
+      "onsale": "1976-11-12T00:00:00.000Z"
+    },
+    {
       "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736435387",
       "isbn13": "9780736435383",
       "kind": "print",
       "onsale": "2015-07-28T00:00:00.000Z"
@@ -29,9 +60,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2015-07-28T00:00:00.000Z",
+  "releaseDate": "1976-11-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "a-new-hope",
-  "title": "A New Hope (Little Golden Book)"
+  "synopsis": "The epic space saga, Star Wars: A New Hope , is finally retold in the iconic Little Golden Book format! Luke Skywalker begins a journey that will change the galaxy, as he leaves his home planet, battles the evil Empire, and learns the ways of the Force. Featuring stunning retro illustrations, this book is perfect for Star Wars —and Little Golden Book—fans of all ages!",
+  "title": "A New Hope"
 }

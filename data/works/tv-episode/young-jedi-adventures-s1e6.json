@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Mia Resella",
+      "role": "writer",
+      "slug": "mia-resella"
+    }
+  ],
   "displayTitle": "The Junk Giant",
   "era": "highRepublic",
   "format": "tvEpisode",

@@ -5,6 +5,40 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "penciler",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Gary Martin",
+      "role": "inker",
+      "slug": "gary-martin"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "coverArtist",
+      "slug": "john-nadeau"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #28: Masquerade, Part 1",
@@ -21,6 +55,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-28-masquerade-part-1",
-  "synopsis": "There are few occupations that are more dangerous than flying an X-wing for the Rebel Alliance, and Rogue Squadron is about to discover that in diplomacy things&mdash;and diplomats&mdash;are not always what they seem!",
+  "synopsis": "There are few occupations that are more dangerous than flying an X-wing for the Rebel Alliance, and Rogue Squadron is about to discover that in diplomacy things -- and diplomats -- are not always what they seem!",
   "title": "X-Wing Rogue Squadron #28: Masquerade, Part 1"
 }

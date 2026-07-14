@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Meet the Galactic Heroes",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368063579"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": true,
+      "isbn13": "9781368063579",
+      "kind": "print",
+      "onsale": "2023-10-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-meet-the-galactic-heroes",
+  "title": "Star Wars: Meet the Galactic Heroes"
+}

@@ -8,13 +8,29 @@
       "slug": "daniel-wallace"
     }
   ],
-  "displayTitle": "Star Wars: The Rebel Files",
+  "displayTitle": "The Rebel Files",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780760355459"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "becker&mayer!",
+      "isPrimary": true,
+      "isbn13": "9780760355459",
+      "kind": "print",
+      "onsale": "2017-11-21T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34
   },
-  "releaseDate": "2017-12-01T00:00:00.000Z",
+  "releaseDate": "2017-11-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-the-rebel-files",

@@ -1,5 +1,12 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brennan Anderson",
+      "role": "composer",
+      "slug": "brennan-anderson"
+    }
+  ],
   "displayTitle": "Commander",
   "era": "ageOfRebellion",
   "format": "videoGame",

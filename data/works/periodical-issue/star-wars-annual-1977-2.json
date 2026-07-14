@@ -1,10 +1,40 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "David Michelinie",
       "role": "writer",
       "slug": "david-michelinie"
+    },
+    {
+      "name": "Kelly Thompson",
+      "role": "writer",
+      "slug": "kelly-thompson"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "inker",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
     }
   ],
   "displayTitle": "Star Wars (1977) Annual #2: Shadeshine!",
@@ -13,7 +43,7 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "star-wars-annual-1977",
+  "parentWorkSlug": "star-wars-annual-1979",
   "periodical": {
     "publicationKind": "comic"
   },

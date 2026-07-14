@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "other",
+  "displayTitle": "LEGO Star Wars: Han Solo and Chewie in Action",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780063579668"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 40,
+      "imprint": "AMEET",
+      "isPrimary": true,
+      "isbn13": "9780063579668",
+      "kind": "print",
+      "onsale": "2026-11-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-11-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lego-star-wars-han-solo-and-chewie-in-action",
+  "title": "LEGO Star Wars: Han Solo and Chewie in Action"
+}

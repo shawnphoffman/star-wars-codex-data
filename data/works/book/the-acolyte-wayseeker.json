@@ -11,6 +11,10 @@
   "displayTitle": "The Acolyte: Wayseeker",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593874439"
+    },
+    {
       "type": "isbn13",
       "value": "9780593874431"
     }
@@ -20,6 +24,7 @@
       "extent": 304,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593874439",
       "isbn13": "9780593874431",
       "kind": "print",
       "onsale": "2025-05-06T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-acolyte-wayseeker",
-  "synopsis": "Jedi Knight Indara and Jedi Master Vernestra Rwoh have very little in common. Perhaps there is a reason the Jedi Council has decided it’s time for the two to work together.",
+  "synopsis": "Jedi Knight Indara and Jedi Master Vernestra Rwoh have very little in common. Perhaps there is a reason the Jedi Council has decided it's time for the two to work together.",
   "title": "The Acolyte: Wayseeker"
 }

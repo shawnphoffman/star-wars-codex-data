@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 10: Showdown in Mos Eisley",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590565001"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 70,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590565001",
+      "kind": "print",
+      "onsale": "1998-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

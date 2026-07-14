@@ -20,9 +20,19 @@
       "name": "Melchior Zwyer",
       "role": "director",
       "slug": "melchior-zwyer"
+    },
+    {
+      "name": "Mel Zwyer",
+      "role": "director",
+      "slug": "mel-zwyer"
+    },
+    {
+      "name": "Justin Ridge",
+      "role": "director",
+      "slug": "justin-ridge"
     }
   ],
-  "displayTitle": "Steps Into Shadow Part 1",
+  "displayTitle": "Steps into Shadow",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {

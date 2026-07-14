@@ -10,6 +10,41 @@
       "name": "Andrea Broccardo",
       "role": "artist",
       "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "David Messina",
+      "role": "inker",
+      "slug": "david-messina"
+    },
+    {
+      "name": "David Messina",
+      "role": "penciler",
+      "slug": "david-messina"
+    },
+    {
+      "name": "Marcelo Maiolo",
+      "role": "coverArtist",
+      "slug": "marcelo-maiolo"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
+    },
+    {
+      "name": "Rafael De Latorre",
+      "role": "coverArtist",
+      "slug": "rafael-de-latorre"
+    },
+    {
+      "name": "Frank William",
+      "role": "colorist",
+      "slug": "frank-william"
     }
   ],
   "displayTitle": "The High Republic (2022) #08",
@@ -18,7 +53,7 @@
   "inUniverseDate": {
     "startYear": -382
   },
-  "parentWorkSlug": "the-high-republic-2022",
+  "parentWorkSlug": "the-high-republic",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Pierluigi Baldassini",
+      "role": "inker",
+      "slug": "pierluigi-baldassini"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral #2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-09-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-spiral-2012-2",
-  "synopsis": "Having set sail on a prisoner vessel to uncharted territories, a rebel and a stowaway princess find themselves in a losing battle with their crewmates against a society of strange self-proclaimed exiles. When they are taken in by the exiles, new opportunities for power within the civilization pique their interest. The rebel recklessly takes the first opening to go after a guarded weapon he believes could upend the entire tribe of Sith!",
+  "synopsis": "Having set sail on a prisoner vessel to uncharted territories, a rebel and a stowaway princess find themselves in a losing battle with their crewmates against a society of strange self-proclaimed exiles. When they are taken in by the exiles, new opportunities for power within the civilization pique their interest. The rebel recklessly takes the first opening to go after a guarded weapon he believes could upend the entire tribe of Sith! * Based on the popular e-book. * An all-Sith tale!",
   "title": "Lost Tribe of the Sith: Spiral #2"
 }

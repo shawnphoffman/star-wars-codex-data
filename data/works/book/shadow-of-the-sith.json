@@ -11,6 +11,14 @@
   "displayTitle": "Shadow of the Sith",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593358627"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593358603"
+    },
+    {
       "type": "isbn13",
       "value": "9780593358627"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 496,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593358627",
+      "isPrimary": false,
+      "isbn13": "9780593358603",
       "kind": "print",
       "onsale": "2022-06-28T00:00:00.000Z"
+    },
+    {
+      "extent": 512,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593358627",
+      "isbn13": "9780593358627",
+      "kind": "print",
+      "onsale": "2023-03-28T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

@@ -5,6 +5,16 @@
       "name": "George Lucas",
       "role": "showrunner",
       "slug": "george-lucas"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
     }
   ],
   "displayTitle": "The Clone Wars",

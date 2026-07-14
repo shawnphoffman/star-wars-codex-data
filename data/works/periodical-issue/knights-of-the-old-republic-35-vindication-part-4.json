@@ -5,6 +5,26 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
     }
   ],
   "displayTitle": "Knights of the Old Republic #35: Vindication, Part 4",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-11-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-35-vindication-part-4",
-  "synopsis": "At long last, Knights of the Old Republic will conclude Zayne's long journey as a fugitive Jedi Padawan - but not before an astounding climax that will set a brand-new path for him to follow! Zayne and his former Master, Lucien Draay, will be tempted by the dark side while the Jedi Knights war among themselves and the city-planet Coruscant burns around them.",
+  "synopsis": "At long last, Knights of the Old Republic will conclude Zayne's long journey as a fugitive Jedi Padawan-but not before an astounding climax that will set a brand-new path for him to follow! Zayne and his former Master, Lucien Draay, will be tempted by the dark side while the Jedi Knights war among themselves and the city-planet Coruscant burns around them. The final showdown!",
   "title": "Knights of the Old Republic #35: Vindication, Part 4"
 }

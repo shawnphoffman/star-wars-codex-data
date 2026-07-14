@@ -5,6 +5,21 @@
       "name": "Henry Gilroy",
       "role": "writer",
       "slug": "henry-gilroy"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Le Tang",
+      "role": "coverArtist",
+      "slug": "le-tang"
     }
   ],
   "displayTitle": "The Clone Wars #06",
@@ -15,12 +30,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-05-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-06",
-  "synopsis": "In this thrilling conclusion to \"Star Wars: The Clone Wars: Slaves of the Republic,\" Anakin Skywalker, Obi-Wan Kenobi, and Ahsoka Tano fight to free themselves and the kidnapped population of Kiros from a life of slavery - and it's not only the Zygerrian slavers they must battle... Count Dooku has arrived with Asajj Ventress with hopes of salvaging the new slave trade that has been fueled by Separatist efforts.",
+  "synopsis": "In this thrilling conclusion to \"Slaves of the Republic,\" Anakin Skywalker, Obi-Wan Kenobi, and Ahsoka Tano fight to free themselves and the kidnapped population of Kiros from a life of slavery -- and it's not only the Zygerrian slavers they must battle . . . Count Dooku has arrived with Asajj Ventress with hopes of salvaging the new slave trade that has been fueled by Separatist efforts.",
   "title": "The Clone Wars #06"
 }

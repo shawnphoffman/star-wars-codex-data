@@ -15,6 +15,31 @@
       "name": "Denis Rodier",
       "role": "artist",
       "slug": "denis-rodier"
+    },
+    {
+      "name": "Tony Akins",
+      "role": "penciler",
+      "slug": "tony-akins"
+    },
+    {
+      "name": "Denis Rodier",
+      "role": "inker",
+      "slug": "denis-rodier"
+    },
+    {
+      "name": "Suzanne Bourdages",
+      "role": "colorist",
+      "slug": "suzanne-bourdages"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Tales of the Jedi: The Freedon Nadd Uprising",
@@ -23,7 +48,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1994-08-02T00:00:00.000Z",
+  "releaseDate": "1994-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-freedon-nadd-uprising-1994",

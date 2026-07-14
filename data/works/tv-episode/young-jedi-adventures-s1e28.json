@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Shellie Kvilvang-O'Brien",
+      "role": "director",
+      "slug": "shellie-kvilvang-obrien"
+    },
+    {
+      "name": "Christian Streaty",
+      "role": "writer",
+      "slug": "christian-streaty"
+    }
+  ],
   "displayTitle": "Creature Comforts",
   "era": "highRepublic",
   "format": "tvEpisode",

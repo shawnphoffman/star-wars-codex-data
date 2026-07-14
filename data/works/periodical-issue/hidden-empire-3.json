@@ -10,6 +10,41 @@
       "name": "Steven Cummings",
       "role": "artist",
       "slug": "steven-cummings"
+    },
+    {
+      "name": "Steven Cummings",
+      "role": "penciler",
+      "slug": "steven-cummings"
+    },
+    {
+      "name": "Victor Olazaba",
+      "role": "inker",
+      "slug": "victor-olazaba"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Paulo Siqueira",
+      "role": "coverArtist",
+      "slug": "paulo-siqueira"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "coverArtist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
   "displayTitle": "Hidden Empire #3",

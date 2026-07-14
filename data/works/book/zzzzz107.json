@@ -11,11 +11,22 @@
   "displayTitle": "Jedi Apprentice: The Day of Reckoning",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590520792"
+    },
+    {
       "type": "isbn13",
       "value": "9780590520799"
     }
   ],
   "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0590520792",
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
+    },
     {
       "extent": 144,
       "imprint": "Scholastic",

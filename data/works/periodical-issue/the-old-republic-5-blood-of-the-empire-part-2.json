@@ -5,6 +5,31 @@
       "name": "Alexander Freed",
       "role": "writer",
       "slug": "alexander-freed"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Mark McKenna",
+      "role": "inker",
+      "slug": "mark-mckenna"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
     }
   ],
   "displayTitle": "The Old Republic #5: Blood of the Empire, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-11-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-old-republic-5-blood-of-the-empire-part-2",
-  "synopsis": "The hunt for the emperor's apprentice continues in this tale of Sith vs. Sith! Proving his worth to the Dark Council by capturing Exal Kressh may be the end of young Sith Teneb Kel; and a brief encounter with his skilled prey brings some questions to the surface...Why would a loyal apprentice betray her emperor and the entire Sith Empire?",
+  "synopsis": "The hunt for the emperor's apprentice continues in this tale of Sith vs. Sith! Proving his worth to the Dark Council by capturing Exal Kressh may be the end of young Sith Teneb Kel; and a brief encounter with his skilled prey brings some questions to the surface . . . Why would a loyal apprentice betray her emperor and the entire Sith Empire? * Based on the highly anticipated MMOG from LucasArts and BioWare! * Written by senior game writer Alexander Freed! * The newest Star Wars era begins here!",
   "title": "The Old Republic #5: Blood of the Empire, Part 2"
 }

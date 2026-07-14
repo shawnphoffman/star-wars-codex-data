@@ -11,6 +11,18 @@
   "displayTitle": "Choose Your Destiny: A Han & Chewie Adventure",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B079VSWVRJ"
+    },
+    {
+      "type": "isbn10",
+      "value": "1368025668"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368016247"
+    },
+    {
       "type": "isbn13",
       "value": "9781368025669"
     }
@@ -18,8 +30,18 @@
   "editions": [
     {
       "extent": 144,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368016247",
+      "kind": "print",
+      "onsale": "2018-04-17T00:00:00.000Z"
+    },
+    {
+      "asin": "B079VSWVRJ",
+      "extent": 144,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368025668",
       "isbn13": "9781368025669",
       "kind": "print",
       "onsale": "2018-04-17T00:00:00.000Z"
@@ -34,6 +56,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "choose-your-destiny-a-han-chewie-adventure",
-  "synopsis": "It’s up to you to make sure Han and Chewie make it home safe from their latest mission! The Millennium Falcon can’t outrun the galaxy’s most dangerous beings forever.",
+  "synopsis": "It's up to you to make sure Han and Chewie make it home safe from their latest mission! The Millennium Falcon can't outrun the galaxy's most dangerous beings forever.",
   "title": "Choose Your Destiny: A Han & Chewie Adventure"
 }

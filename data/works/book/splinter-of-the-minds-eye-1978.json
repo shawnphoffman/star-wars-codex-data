@@ -11,8 +11,27 @@
   "displayTitle": "Splinter of the Mind's Eye",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345275667"
+    },
+    {
       "type": "isbn13",
       "value": "9780345275660"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "0345275667",
+      "kind": "print"
+    },
+    {
+      "extent": 224,
+      "imprint": "Sphere Books *Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345275660",
+      "kind": "print",
+      "onsale": "1978-02-12T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",

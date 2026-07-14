@@ -10,6 +10,36 @@
       "name": "Rob Williams",
       "role": "writer",
       "slug": "rob-williams"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "inker",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "artist",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Ryan Sook",
+      "role": "coverArtist",
+      "slug": "ryan-sook"
     }
   ],
   "displayTitle": "Rebellion #6: The Ahakista Gambit",
@@ -20,12 +50,13 @@
   },
   "parentWorkSlug": "rebellion",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebellion-06-the-ahakista-gambit-part-1",
-  "synopsis": "This is the Star Wars story that no fan of the original trilogy can afford to miss&mdash;an all-new adventure set in the dangerous underworld of the war between the Empire and the Rebellion! A lieutenant to one of the most powerful gangsters in the galaxy, Wyl Tarson is a master of lying, cheating, and stealing&mdash;and a hero of the Rebel Alliance! For years Wyl has been acquiring valuable information for the Rebellion through his employer Raze's expansive criminal network. That is, until Raze discovers Wyl's second life as a Rebel spy. Now, subjected to a mysterious procedure, Wyl has becom",
+  "synopsis": "This is the Star Wars story that no fan of the original trilogy can afford to miss-an all-new adventure set in the dangerous underworld of the war between the Empire and the Rebellion! A lieutenant to one of the most powerful gangsters in the galaxy, Wyl Tarson is a master of lying, cheating, and stealing-and a hero of the Rebel Alliance! For years Wyl has been acquiring valuable information for the Rebellion through his employer Raze's expansive criminal network. That is, until Raze discovers Wyl's second life as a Rebel spy. Now, subjected to a mysterious procedure, Wyl has become a prisoner in his own body, subject to Raze's every whim. It's an unforgettable first issue where the stakes couldn't be higher for Wyl Tarson-or the Rebel Alliance!",
   "title": "Rebellion #6: The Ahakista Gambit"
 }

@@ -5,6 +5,31 @@
       "name": "Dave Filoni",
       "role": "producer",
       "slug": "dave-filoni"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "writer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "Sean Kiner",
+      "role": "composer",
+      "slug": "sean-kiner"
+    },
+    {
+      "name": "Deana Kiner",
+      "role": "composer",
+      "slug": "deana-kiner"
     }
   ],
   "displayTitle": "Tales of the Underworld",

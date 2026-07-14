@@ -1,0 +1,54 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cam Smith",
+      "role": "inker",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Francesco Mattina",
+      "role": "coverArtist",
+      "slug": "francesco-mattina"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "David Curiel",
+      "role": "colorist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
+    }
+  ],
+  "displayTitle": "Darth Vader (2017) #6",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "darth-vader-2015",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "darth-vader-2015-darth-vader-2017-6",
+  "title": "Darth Vader (2017) #6"
+}

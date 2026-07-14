@@ -10,6 +10,31 @@
       "name": "Carlos Meglia",
       "role": "artist",
       "slug": "carlos-meglia"
+    },
+    {
+      "name": "Carlos Meglia",
+      "role": "penciler",
+      "slug": "carlos-meglia"
+    },
+    {
+      "name": "Carlos Meglia",
+      "role": "inker",
+      "slug": "carlos-meglia"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Andrew Robinson",
+      "role": "coverArtist",
+      "slug": "andrew-robinson"
     }
   ],
   "displayTitle": "Underworld: The Yavin Vassilika",

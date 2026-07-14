@@ -15,19 +15,24 @@
       "name": "Nate Villanueva",
       "role": "director",
       "slug": "nate-villanueva"
+    },
+    {
+      "name": "Nathaniel Villanueva",
+      "role": "director",
+      "slug": "nathaniel-villanueva"
     }
   ],
-  "displayTitle": "The Bad Batch S01E09: Bounty Lost",
+  "displayTitle": "Bounty Lost",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-06-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e09-bounty-lost",
   "synopsis": "The Batch embark on a rescue mission.",
-  "title": "The Bad Batch S01E09: Bounty Lost"
+  "title": "Bounty Lost"
 }

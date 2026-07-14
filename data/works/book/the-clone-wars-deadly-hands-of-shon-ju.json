@@ -1,0 +1,51 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "penciler",
+      "slug": "brian-koschak"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Sean McNally",
+      "role": "coverArtist",
+      "slug": "sean-mcnally"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Deadly Hands of Shon-Ju",
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2010-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-deadly-hands-of-shon-ju",
+  "synopsis": "The Clone Wars: Deadly Hands of Shon-Ju is the fifth issue in a series of digest-sized comics based on Star Wars: The Clone Wars television series and is focused on Aayla Secura. It is written by Jeremy Barlow. It was revealed to be in development in the letters section of The Clone Wars 12.",
+  "title": "The Clone Wars: Deadly Hands of Shon-Ju"
+}

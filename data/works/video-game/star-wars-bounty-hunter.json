@@ -1,5 +1,32 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jon Knoles",
+      "role": "director",
+      "slug": "jon-knoles"
+    },
+    {
+      "name": "Joe Brisbols",
+      "role": "producer",
+      "slug": "joe-brisbols"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Ian Milham",
+      "role": "artist",
+      "slug": "ian-milham"
+    },
+    {
+      "name": "Jeremy Soule",
+      "role": "composer",
+      "slug": "jeremy-soule"
+    }
+  ],
   "displayTitle": "Bounty Hunter",
   "era": "fallOfTheJedi",
   "format": "videoGame",

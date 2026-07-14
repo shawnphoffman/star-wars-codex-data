@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Pierluigi Baldassini",
+      "role": "inker",
+      "slug": "pierluigi-baldassini"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "colorist",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-11-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-spiral-2012-4",
-  "synopsis": "An ambitious Sith rebel, Spinner, is about to upset the balance of a lost tribe of Sith. When he is arrested for treason and sent away on a prisoner vessel, thoughts of overcoming his station, destroying the Tribe, and even finding a way to escape into the galaxy lead Spinner to a powerful, long-forgotten weapon. A rival stowaway Sith on that same vessel has her own ideas about the future of the Tribe. They don't need eradication; they need a new leader, her!\n\nCollects\n- Star Wars: Lost Tribe of the Sith #1-#5",
+  "synopsis": "A Sith princess returns to her kingdom as ancient Lord Dreypa’s awakened army of Leviathans wreaks havoc and destruction across the lost tribe of the Sith, searching for the one thing that can again open Dreypa’s power to the entire galaxy! Running out of options to save the tribe she wants to rule, the princess takes a chance that places all her trust in herself and in the Sith rebel who’s been fighting against her . . . * Sequel to the bestselling e-books. * An all-Sith tale!",
   "title": "Lost Tribe of the Sith: Spiral #4"
 }

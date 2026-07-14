@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows #2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-01-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-cry-of-shadows-2",
-  "synopsis": "Clone trooper Hock has been through much since being left for dead by his Jedi leaders in the Clone Wars. Now, Hock believes he has found a truly great warrior who deserves loyalty and commands respect&mdash;Darth Vader! If Hock can impress the Dark Lord as a stormtrooper, he will have earned respect of his own from the leader he admires most.",
+  "synopsis": "Clone trooper Hock has been through much since being left for dead by his Jedi leaders in the Clone Wars. Now, Hock believes he has found a truly great warrior who deserves loyalty and commands respect—Darth Vader! If Hock can impress the Dark Lord as a stormtrooper, he will have earned respect of his own from the leader he admires most. * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds! “A wonderful installment for Star Wars fans.”—Comic Book Resources",
   "title": "Darth Vader and the Cry of Shadows #2"
 }

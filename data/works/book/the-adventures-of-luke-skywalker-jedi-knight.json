@@ -11,6 +11,10 @@
   "displayTitle": "The Adventures of Luke Skywalker, Jedi Knight",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484706684"
+    },
+    {
       "type": "isbn13",
       "value": "9781484706688"
     }
@@ -20,6 +24,7 @@
       "extent": 64,
       "imprint": "Disney–Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484706684",
       "isbn13": "9781484706688",
       "kind": "print",
       "onsale": "2014-10-07T00:00:00.000Z"

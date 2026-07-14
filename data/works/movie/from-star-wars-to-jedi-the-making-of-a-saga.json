@@ -1,16 +1,21 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Richard Schickel",
       "role": "writer",
+      "slug": "richard-schickel"
+    },
+    {
+      "name": "Richard Schickel",
+      "role": "producer",
       "slug": "richard-schickel"
     }
   ],
   "displayTitle": "From Star Wars to Jedi: The Making of a Saga",
   "format": "movie",
   "movie": {
-    "movieType": "tvMovie",
+    "movieType": "other",
     "runtimeMinutes": 65
   },
   "periodical": {

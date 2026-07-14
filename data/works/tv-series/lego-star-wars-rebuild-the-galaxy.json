@@ -1,0 +1,58 @@
+{
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Dan Hernandez",
+      "role": "producer",
+      "slug": "dan-hernandez"
+    },
+    {
+      "name": "Benji Samit",
+      "role": "producer",
+      "slug": "benji-samit"
+    },
+    {
+      "name": "James Waugh",
+      "role": "producer",
+      "slug": "james-waugh"
+    },
+    {
+      "name": "Jacqui Lopez",
+      "role": "producer",
+      "slug": "jacqui-lopez"
+    },
+    {
+      "name": "Josh Rimes",
+      "role": "producer",
+      "slug": "josh-rimes"
+    },
+    {
+      "name": "Jill Wilfert",
+      "role": "producer",
+      "slug": "jill-wilfert"
+    },
+    {
+      "name": "Jason Cosler",
+      "role": "producer",
+      "slug": "jason-cosler"
+    },
+    {
+      "name": "Keith Malone",
+      "role": "producer",
+      "slug": "keith-malone"
+    }
+  ],
+  "displayTitle": "LEGO Star Wars: Rebuild the Galaxy",
+  "format": "tvSeries",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "relatedWorkSlugs": [
+    "lego-star-wars-rebuild-the-galaxy-pieces-of-the-past"
+  ],
+  "releaseDate": "2024-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lego-star-wars-rebuild-the-galaxy",
+  "title": "LEGO Star Wars: Rebuild the Galaxy"
+}

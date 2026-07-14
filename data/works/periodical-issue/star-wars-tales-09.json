@@ -1,5 +1,102 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Raul Trevino",
+      "role": "colorist",
+      "slug": "raul-trevino"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jay Stephens",
+      "role": "colorist",
+      "slug": "jay-stephens"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "inker",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "inker",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    },
+    {
+      "name": "David McCaig",
+      "role": "inker",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jay Stephens",
+      "role": "inker",
+      "slug": "jay-stephens"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "penciler",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "David McCaig",
+      "role": "penciler",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jay Stephens",
+      "role": "penciler",
+      "slug": "jay-stephens"
+    },
+    {
+      "name": "David McCaig",
+      "role": "letterer",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jay Stephens",
+      "role": "letterer",
+      "slug": "jay-stephens"
+    },
+    {
+      "name": "David McCaig",
+      "role": "writer",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jay Stephens",
+      "role": "writer",
+      "slug": "jay-stephens"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jon Foster",
+      "role": "coverArtist",
+      "slug": "jon-foster"
+    }
+  ],
   "displayTitle": "Tales #09",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +108,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-09",
-  "synopsis": "A non-canon anthology of short comic stories. A framing sequence has editorial assistant Philip Simon presenting the issue with a Jawa creative team and hyping the coming Vader-versus-Maul showdown, only to be reprimanded by the Force ghost of the late editor Dave Land when he starts inventing histories. The featured stories are:\n\n- *Resurrection*, staging the promised clash between Darth Vader and Darth Maul.\n- *Hate Leads to Lollipops*.\n- *The Rebel Four*.",
+  "synopsis": "Ladies and Gentlemen! Boys and Girls! Droids and Jawas! Prepare yourselves for the battle of the century! In this corner, weighing in at 220 pounds, the terror from Tatooine, the Dark Lord of the Sith, the former Anakin Skywalker -- DARTH VADER! And in this corner, weighing in at 175 pounds, a killer of Jedi, the Naboo Annihilator, Darth Sidious' #1 apprentice -- DARTH MAUL! Make sure you're here on September 12th, 2001 for the answer to the question on everyone's lips: \"Who's tougher? Vader or Maul?\" Let the BATTLE begin! Darth Maul had a screen time of approximately fifteen minutes in EPISODE I, but his fame is hardly over. Maul has, by far, been the character most requested by our readers to further explore. How to do it? Easy. Have him knuckle up against Darth Vader. Maul is vicious, physical, and primal. Vader is focused and calculating...but still has the faintest trace of humanity. Both have succumbed to the dark side of the force. Both are ambitious. But Sith law says there's only room for one.",
   "title": "Star Wars Tales #09"
 }

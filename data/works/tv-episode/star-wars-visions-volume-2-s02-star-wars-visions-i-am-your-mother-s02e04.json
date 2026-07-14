@@ -1,10 +1,25 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Magdalena Osinska",
       "role": "director",
       "slug": "magdalena-osinska"
+    },
+    {
+      "name": "Holly Walsh",
+      "role": "writer",
+      "slug": "holly-walsh"
+    },
+    {
+      "name": "Barunka O'Shaughnessy",
+      "role": "writer",
+      "slug": "barunka-oshaughnessy"
+    },
+    {
+      "name": "Sam Morrison",
+      "role": "writer",
+      "slug": "sam-morrison"
     }
   ],
   "displayTitle": "I Am Your Mother",

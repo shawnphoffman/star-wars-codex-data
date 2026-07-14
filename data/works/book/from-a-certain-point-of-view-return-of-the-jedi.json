@@ -201,14 +201,33 @@
       "name": "Tom Angleberger",
       "role": "writer",
       "slug": "tom-angleberger"
+    },
+    {
+      "name": "40 authors",
+      "role": "writer",
+      "slug": "40-authors"
     }
   ],
   "displayTitle": "From a Certain Point of View: Return of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593597910"
+    }
+  ],
   "editions": [
     {
       "extent": 576,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "kind": "print",
+      "onsale": "2023-08-29T00:00:00.000Z"
+    },
+    {
+      "extent": 576,
+      "imprint": "Random House Worlds",
+      "isPrimary": false,
+      "isbn13": "9780593597910",
       "kind": "print",
       "onsale": "2023-08-29T00:00:00.000Z"
     }

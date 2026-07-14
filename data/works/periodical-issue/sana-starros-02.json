@@ -10,6 +10,41 @@
       "name": "Pere Pérez",
       "role": "artist",
       "slug": "pere-perez"
+    },
+    {
+      "name": "Ken Lashley",
+      "role": "coverArtist",
+      "slug": "ken-lashley"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "inker",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Pere Pérez",
+      "role": "penciler",
+      "slug": "pere-perez"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Juan Fernandez",
+      "role": "coverArtist",
+      "slug": "juan-fernandez"
     }
   ],
   "displayTitle": "Sana Starros #02",

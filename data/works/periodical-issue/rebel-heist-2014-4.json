@@ -5,6 +5,36 @@
       "name": "Matt Kindt",
       "role": "writer",
       "slug": "matt-kindt"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
     }
   ],
   "displayTitle": "Rebel Heist #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebel-heist-2014",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2014-06-30T00:00:00.000Z",
+  "releaseDate": "2014-07-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-heist-2014-4",
-  "synopsis": "The Rebellion's plan is coming together. All Luke Skywalker has to do is elude an Imperial spy, and perform some unanticipated rescues! But this farm boy is on the edge of greatness, and he is not about to stop saving the galaxy now!",
+  "synopsis": "The Rebellion’s plan is coming together. All Luke Skywalker has to do is elude an Imperial spy—and perform some unanticipated rescues! But this farm boy is on the edge of greatness, and he is not about to stop saving the galaxy now! * Matt Kindt writes the Leia, Han, and Luke from the classic era of Star Wars! * Covers by Adam Hughes!",
   "title": "Rebel Heist #4"
 }

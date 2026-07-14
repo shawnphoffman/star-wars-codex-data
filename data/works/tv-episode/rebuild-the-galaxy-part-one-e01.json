@@ -1,0 +1,31 @@
+{
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Chris Buckley",
+      "role": "director",
+      "slug": "chris-buckley"
+    },
+    {
+      "name": "Dan Hernandez",
+      "role": "writer",
+      "slug": "dan-hernandez"
+    },
+    {
+      "name": "Benji Samit",
+      "role": "writer",
+      "slug": "benji-samit"
+    }
+  ],
+  "displayTitle": "Rebuild the Galaxy S01E01",
+  "format": "tvEpisode",
+  "parentWorkSlug": "lego-star-wars-rebuild-the-galaxy-season-1-s01",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebuild-the-galaxy-part-one-e01",
+  "title": "Rebuild the Galaxy S01E01"
+}

@@ -11,15 +11,20 @@
   "displayTitle": "Brotherhood",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593358570"
+    },
+    {
       "type": "isbn13",
       "value": "9780593358573"
     }
   ],
   "editions": [
     {
-      "extent": 329,
-      "imprint": "Del Rey",
+      "extent": 352,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593358570",
       "isbn13": "9780593358573",
       "kind": "print",
       "onsale": "2022-05-10T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "brotherhood",
-  "synopsis": "Now that Anakin Skywalker is a Jedi Knight, his role in the Clone Wars, and his relationship to Master Obi-Wan Kenobi, is about to change forever.",
+  "synopsis": "Now that Anakin Skywalker is a Jedi Knight, his role in the Clone Wars - and his relationship to Master Obi-Wan Kenobi - is about to change forever.",
   "title": "Brotherhood"
 }

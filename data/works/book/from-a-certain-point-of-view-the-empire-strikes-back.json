@@ -201,10 +201,19 @@
       "name": "Tom Angleberger",
       "role": "writer",
       "slug": "tom-angleberger"
+    },
+    {
+      "name": "40 authors",
+      "role": "writer",
+      "slug": "40-authors"
     }
   ],
   "displayTitle": "From a Certain Point of View: The Empire Strikes Back",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593157745"
+    },
     {
       "type": "isbn13",
       "value": "9780593157749"
@@ -215,6 +224,7 @@
       "extent": 576,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0593157745",
       "isbn13": "9780593157749",
       "kind": "print",
       "onsale": "2020-11-10T00:00:00.000Z"

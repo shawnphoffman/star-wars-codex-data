@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn10",
+      "value": "1524796808"
+    },
+    {
+      "type": "isbn10",
       "value": "1524796824"
     },
     {
@@ -33,6 +37,7 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "1524796808",
       "isbn13": "9781524796808",
       "kind": "print",
       "onsale": "2017-07-25T00:00:00.000Z"

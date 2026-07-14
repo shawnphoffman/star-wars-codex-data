@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    },
+    {
+      "name": "Ted Naifeh",
+      "role": "inker",
+      "slug": "ted-naifeh"
+    },
+    {
+      "name": "Ted Naifeh",
+      "role": "penciler",
+      "slug": "ted-naifeh"
+    }
+  ],
+  "displayTitle": "Zam Wesell 1 (2002) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "zam-wesell-1-2002-1",
+  "title": "Zam Wesell 1 (2002) #1"
+}

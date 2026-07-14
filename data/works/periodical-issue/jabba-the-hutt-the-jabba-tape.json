@@ -1,0 +1,50 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Wagner",
+      "role": "writer",
+      "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "artist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Amy Arendts",
+      "slug": "amy-arendts"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    }
+  ],
+  "displayTitle": "Jabba the Hutt: The Jabba Tape",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-12-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jabba-the-hutt-the-jabba-tape",
+  "synopsis": "With Jabba the Hutt dead, a swarm of greedy Hutt relatives descend on Tatooine ready to claim their piece of Jabba's vast criminal empire. But Big Gizz and Spiker, Jabba's swoop-riding thugs, have their own agenda for a hidden ship full of Jabba's most precious art treasures. Unfortunately, the ship is protected with a security program modelled on Jabba himself! Collecting the serialization from Topps' Star Wars Galaxy Magazine.",
+  "title": "Jabba the Hutt: The Jabba Tape"
+}

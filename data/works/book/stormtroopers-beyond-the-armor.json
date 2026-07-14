@@ -1,0 +1,48 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Adam Bray",
+      "role": "writer",
+      "slug": "adam-bray"
+    },
+    {
+      "name": "John Boyega",
+      "role": "writer",
+      "slug": "john-boyega"
+    }
+  ],
+  "displayTitle": "Stormtroopers: Beyond the Armor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780062681171"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "HarperDesign",
+      "isPrimary": true,
+      "isbn13": "9780062681171",
+      "kind": "print",
+      "onsale": "2017-10-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "stormtroopers-beyond-the-armor",
+  "synopsis": "Foreword by John BoyegaJust in time for the next blockbuster, Star Wars: The Last Jedi, this unique and beautifully designed compendium with removable features traces one of the franchise’s most iconic characters—the stormtrooper—from initial development through all nine Star Wars movies to their many iterations in TV, comics, videogames, novels, and pop-culture.Star Wars: A New Hope, the very first installment in the beloved science-fiction series, introduced the Imperial stormtroopers—the army of the fearsome and tyrannical Galactic Empire. Charged with establishing Imperial authority and suppressing resistance, these terrifying, faceless, well-disciplined soldiers in white have become a universal symbol of oppression.Star Wars Stormtroopers explores these striking warriors and their evolution in depth for the first time. Ryder Windham and Adam Bray trace the roots of their creation and design, and explore how these elite troops from a galaxy far, far away have been depicted in movies, cartoons, comics, novels, and merchandizing.Filled with photographs, illustrations, story boards, and other artwork, this lavish officially licensed book comes complete with removable features, including posters, stickers, replica memorabilia and more, making it an essential keepsake for every Star Wars fan, as well as military, design, and film aficionados.",
+  "title": "Stormtroopers: Beyond the Armor"
+}

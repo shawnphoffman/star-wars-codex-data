@@ -20,6 +20,61 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "penciler",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "inker",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Israel Silva",
+      "role": "colorist",
+      "slug": "israel-silva"
+    },
+    {
+      "name": "Alex Sinclair",
+      "role": "colorist",
+      "slug": "alex-sinclair"
+    },
+    {
+      "name": "Joe Sabino",
+      "role": "letterer",
+      "slug": "joe-sabino"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Aaron Kuder",
+      "role": "coverArtist",
+      "slug": "aaron-kuder"
+    },
+    {
+      "name": "Pete Woods",
+      "role": "coverArtist",
+      "slug": "pete-woods"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
     }
   ],
   "displayTitle": "Dark Droids",

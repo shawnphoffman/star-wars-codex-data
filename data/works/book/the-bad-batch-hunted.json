@@ -2,6 +2,22 @@
   "bookType": "graphicNovel",
   "canonStatus": "canon",
   "displayTitle": "The Bad Batch: Hunted!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780736442145"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780736442145",
+      "kind": "print",
+      "onsale": "2022-05-03T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

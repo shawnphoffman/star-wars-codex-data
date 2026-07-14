@@ -5,6 +5,26 @@
       "name": "Larry Hama",
       "role": "writer",
       "slug": "larry-hama"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Rick Parker",
+      "role": "letterer",
+      "slug": "rick-parker"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
     }
   ],
   "displayTitle": "Star Wars (1977) #48: The Third Law",

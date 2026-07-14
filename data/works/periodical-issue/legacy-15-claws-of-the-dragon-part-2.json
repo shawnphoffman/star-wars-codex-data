@@ -5,6 +5,76 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Legacy #15: Claws of the Dragon pt. 2",
@@ -15,12 +85,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-08-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-15-claws-of-the-dragon-part-2",
-  "synopsis": "In a Mofference, the Moffs discuss the power they could wield if they captured Cade Skywalker. Meanwhile, Cade is being tortured by the Sith. His resistance to Darth Maladi's poison impresses Darth Krayt, who urges him to turn to the dark side, only to be met with a flat refusal. Krayt then brings out Jariah Syn and Deliah Blue, revealing that both have been infected with a Yuuzhan Vong seed and that only Cade's healing powers can save them, forcing him to draw on the dark power to heal them. Cade agrees to let Krayt try to convince him to turn if the Sith Lord frees Jariah and Deliah; Krayt consents and lets them go. Days later, Krayt calls a private meeting with Cade and Darth Talon. He shows them Kol Skywalker's lightsaber encased in transparisteel, arguing that the dark side does not preclude acts of pride or respect, before revealing to the pair his true identity as A'Sharad Hett.",
+  "synopsis": "In a reckless bid to right one of his many past wrongs, Cade Skywalker has become a prisoner of the Sith. It's a banner day for Emperor Darth Krayt, who hopes that Skywalker's abilities will complete Krayt's longtime quest to restore his own power. But the other Sith are less certain of their Master's motives. And there are others within the Empire who would rather see Cade dead than a pawn of the Emperor. And Cade himself is none too happy about his situation. But what can he do? He turned his back on every friend who might come to his aid. He's made bad choices, and now he has to live--or die--with them! This issue reveals the identity of Darth Krayt!",
   "title": "Legacy #15: Claws of the Dragon pt. 2"
 }

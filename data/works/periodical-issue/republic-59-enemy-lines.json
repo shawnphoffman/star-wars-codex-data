@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
     }
   ],
   "displayTitle": "Republic #59: Enemy Lines",
@@ -21,6 +46,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "republic-59-enemy-lines",
-  "synopsis": "In the aftermath of a battle on the desert moon of Aargonar, Anakin Skywalker finds himself stranded behind enemy lines with the last person in the galaxy that he wants to be with: fellow Jedi A'Sharad Hett&mdash;from a Tusken Raider clan on their native Tatooine. For Anakin, their struggle to make it back to the Republic's lines also becomes a test of whether he can control his hatred of the Tuskens&mdash;and whether or not he can keep the shameful secret of his murder of the Tusken tribe&hellip;",
+  "synopsis": "In the aftermath of a battle on the desert moon of Aargonar, Anakin Skywalker finds himself stranded behind enemy lines with the last person in the galaxy that he wants to be with: fellow Jedi A'Sharad Hett -- from a Tusken Raider clan on their native Tatooine. For Anakin, their struggle to make it back to the Republic's lines also becomes a test of whether he can control his hatred of the Tuskens -- and whether or not he can keep the shameful secret of his murder of the Tusken tribe...",
   "title": "Republic #59: Enemy Lines"
 }

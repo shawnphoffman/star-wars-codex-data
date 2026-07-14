@@ -72,9 +72,9 @@
       "slug": "salvador-larroca"
     },
     {
-      "name": "Frank Martin jr",
+      "name": "Frank Martin",
       "role": "artist",
-      "slug": "frank-martin-jr"
+      "slug": "frank-martin"
     },
     {
       "name": "Laura Martin",
@@ -100,6 +100,41 @@
       "name": "Terry Dodson",
       "role": "artist",
       "slug": "terry-dodson"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "coverArtist",
+      "slug": "matthew-wilson"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
     }
   ],
   "displayTitle": "Star Wars (2015) #49: Mutiny at Mon Cala, Part VI",

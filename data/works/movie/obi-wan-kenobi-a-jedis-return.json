@@ -15,11 +15,22 @@
       "name": "Scott Michael Smith",
       "role": "composer",
       "slug": "scott-michael-smith"
+    },
+    {
+      "name": "Brian McGinn",
+      "role": "producer",
+      "slug": "brian-mcginn"
+    },
+    {
+      "name": "Jason Sterman",
+      "role": "producer",
+      "slug": "jason-sterman"
     }
   ],
   "displayTitle": "Obi-Wan Kenobi: A Jedi's Return",
   "format": "movie",
   "movie": {
+    "movieType": "other",
     "mpaaRating": "pg13",
     "runtimeMinutes": 60
   },

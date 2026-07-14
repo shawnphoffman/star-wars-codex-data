@@ -5,6 +5,64 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Jim Amash",
+      "role": "inker",
+      "slug": "jim-amash"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Brian Gregory",
+      "role": "colorist",
+      "slug": "brian-gregory"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Ken Kelley",
+      "role": "coverArtist",
+      "slug": "ken-kelley"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire #4",
@@ -21,6 +79,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-enemy-of-the-empire-1999-4",
-  "synopsis": "The stage is set for the confrontation that will rock the galaxy! Boba Fett has dispatched Darth Vader's thugs with ease, but now the Dark Lord himself has arrived to claim the strange little box in Fett's possession. Dark Lord or not, Fett isn't about to give up the prize. After all, he's got a reputation to uphold!",
+  "synopsis": "The stage is set for the confrontation that will rock the galaxy! Boba Fett has dispatched Darth Vader's thugs with ease, but now the Dark Lord himself has arrived to claim the strange little box in Fett's possession. Dark lord or no, Fett isn't about to give up the prize. After all, he's got a reputation to uphold!",
   "title": "Boba Fett: Enemy of the Empire #4"
 }

@@ -1,0 +1,29 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Brooks",
+      "role": "penciler",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Marjorie Liu",
+      "role": "writer",
+      "slug": "marjorie-liu"
+    }
+  ],
+  "displayTitle": "Han Solo (2016) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "han-solo",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "han-solo-2016-1",
+  "title": "Han Solo (2016) #1"
+}

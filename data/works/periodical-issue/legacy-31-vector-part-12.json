@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #31: Vector, Part 12",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-12-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-31-vector-part-12",
-  "synopsis": "It is Jedi vs. Sith, and Sith vs. Sith in this, the conclusion to \"Vector\"&mdash;the year-long event that has shaken the galaxy, shattered lives, and brought about new beginnings ends here! Darth Krayt may finally be captured and defeated in the trap set by Cade Skywalker and Jedi Master of old Celeste Morne. But Emperor Krayt might no longer be the most powerful Sith lord in the galaxy. Will Cade and Celeste have another Sith to defeat... or join?",
+  "synopsis": "It is Jedi vs. Sith, and Sith vs. Sith in this, the conclusion to \"Vector\" -- the year-long event that has shaken the galaxy, shattered lives, and brought about new beginnings ends here! Darth Krayt may finally be captured and defeated in the trap set by Cade Skywalker and Jedi Master of old Celeste Morne. But Emperor Krayt might no longer be the most powerful Sith lord in the galaxy. Will Cade and Celeste have another Sith to defeat . . . or join? The final chapter of Vector is here!",
   "title": "Legacy #31: Vector, Part 12"
 }

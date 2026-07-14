@@ -10,6 +10,21 @@
       "name": "Brad Rau",
       "role": "director",
       "slug": "brad-rau"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "director",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Sergio Paez",
+      "role": "director",
+      "slug": "sergio-paez"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
     }
   ],
   "displayTitle": "The Lost Commanders",

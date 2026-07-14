@@ -1,0 +1,37 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Harrison Tunggal",
+      "role": "writer",
+      "slug": "harrison-tunggal"
+    }
+  ],
+  "displayTitle": "The Tiny Book of Grogu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781647223816"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9781647223816",
+      "kind": "print",
+      "onsale": "2021-11-09T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-11-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-tiny-book-of-grogu",
+  "title": "Star Wars: The Tiny Book of Grogu"
+}

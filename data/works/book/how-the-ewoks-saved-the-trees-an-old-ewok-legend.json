@@ -9,11 +9,26 @@
     }
   ],
   "displayTitle": "How the Ewoks Saved the Trees: An Old Ewok Legend",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394861299"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394861299",
+      "kind": "print",
+      "onsale": "1984-05-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1984-03-12T00:00:00.000Z",
+  "releaseDate": "1984-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "how-the-ewoks-saved-the-trees-an-old-ewok-legend",

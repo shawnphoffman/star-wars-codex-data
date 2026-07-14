@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 3: Attack on Delrakkin",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590127950"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 66,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590127950",
+      "kind": "print",
+      "onsale": "1997-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Gigi Baldassini",
+      "role": "inker",
+      "slug": "gigi-baldassini"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic: War #5",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic-war-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-05-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-war-2012-5",
-  "synopsis": "Pacifist Jedi Zayne Carrick is both saving and fighting Jedi in this final issue! Part one of Zayne's plan to foil the Mandalorian Knights and their misguided leader is complete&ndash;but the battle is not yet won. Taking on the Mandalorians face to face is still on the agenda, and Zayne's questionable team could blow the operation at any moment... With everything on the line, all Zayne can do is have faith! The Knights of the Old Republic video game and comics are set in one of the most popular eras of Star Wars!",
+  "synopsis": "Pacifist Jedi Zayne Carrick is both saving and fighting Jedi in this final issue! Part one of Zayne’s plan to foil the Mandalorian Knights and their misguided leader is complete—but the battle is not yet won. Taking on the Mandalorians face to face is still on the agenda, and Zayne’s questionable team could blow the operation at any moment . . . With everything on the line, all Zayne can do is have faith! * The Knights of the Old Republic video game and comics are set in one of the most popular eras of Star Wars!",
   "title": "Knights of the Old Republic: War #5"
 }

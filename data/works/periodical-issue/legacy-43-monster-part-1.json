@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #43: Vongspawn",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-12-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-43-monster-part-1",
-  "synopsis": "After their narrow escape from their last piratical endeavor, Cade and the crew of the Mynock aren't looking for another job. But when the pirate Rav surprises them with an amazing offer, it may be too good to refuse! Meanwhile, as the Jedi tentatively join the growing alliance against the Sith Empire, Master Wolf Sazen decides it's time he look again for his wayward former Padawan&mdash;Cade Skywalker...",
+  "synopsis": "After their narrow escape from their last piratical endeavor, Cade and the crew of the Mynock aren't looking for another job. But when the pirate Rav surprises them with an amazing offer, it may be too good to refuse! Meanwhile, as the Jedi tentatively join the growing alliance against the Sith Empire, Master Wolf Sazen decides it's time he look again for his wayward former Padawan -- Cade Skywalker . . .",
   "title": "Legacy #43: Vongspawn"
 }

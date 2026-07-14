@@ -5,6 +5,36 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Rick Leonardi",
+      "role": "penciler",
+      "slug": "rick-leonardi"
+    },
+    {
+      "name": "Hank Green",
+      "role": "inker",
+      "slug": "hank-green"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
     }
   ],
   "displayTitle": "Darth Vader and the Lost Command #5",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-lost-command-graphic-novel",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-05-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-lost-command-5",
-  "synopsis": "The final battle with the insurgents brings a resolution to the mystery of Moff Tarkin's son. Vader resolves the entire mission in a way that only he, the darkest lord of the Sith, can!",
+  "synopsis": "The final battle with the insurgents brings a resolution to the mystery of Moff Tarkin’s son. Vader resolves the entire mission in a way that only he, the darkest lord of the Sith, can! * There is only one DARTH VADER! All-action finale!",
   "title": "Darth Vader and the Lost Command #5"
 }

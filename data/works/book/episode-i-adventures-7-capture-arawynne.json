@@ -9,6 +9,34 @@
     }
   ],
   "displayTitle": "Episode I Adventures: Capture Arawynne",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101441"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439129909"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101441",
+      "kind": "print",
+      "onsale": "2000-03-01T00:00:00.000Z"
+    },
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439129909",
+      "kind": "print",
+      "onsale": "2000-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

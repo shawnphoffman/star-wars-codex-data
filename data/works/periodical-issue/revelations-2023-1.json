@@ -3,95 +3,153 @@
   "creators": [
     {
       "name": "Andrea Di Vito",
+      "role": "inker",
       "slug": "andrea-di-vito"
     },
     {
       "name": "David Baldeón",
+      "role": "inker",
       "slug": "david-baldeon"
     },
     {
       "name": "Salvador Larroca",
+      "role": "inker",
       "slug": "salvador-larroca"
     },
     {
       "name": "Will Sliney",
+      "role": "inker",
       "slug": "will-sliney"
     },
     {
       "name": "Marika Cresta",
+      "role": "inker",
       "slug": "marika-cresta"
     },
     {
       "name": "Salva Espín",
+      "role": "inker",
       "slug": "salva-espin"
     },
     {
       "name": "Chris Cross",
+      "role": "inker",
       "slug": "chris-cross"
     },
     {
       "name": "Greg Pak",
+      "role": "writer",
       "slug": "greg-pak"
     },
     {
       "name": "Marc Guggenheim",
+      "role": "writer",
       "slug": "marc-guggenheim"
     },
     {
       "name": "Charles Soule",
+      "role": "writer",
       "slug": "charles-soule"
     },
     {
       "name": "Ethan Sacks",
+      "role": "writer",
       "slug": "ethan-sacks"
     },
     {
       "name": "Alyssa Wong",
+      "role": "writer",
       "slug": "alyssa-wong"
     },
     {
       "name": "Cavan Scott",
+      "role": "writer",
       "slug": "cavan-scott"
     },
     {
       "name": "Marc Bernardin",
+      "role": "writer",
       "slug": "marc-bernardin"
     },
     {
       "name": "Mark Paniccia",
+      "role": "editor",
       "slug": "mark-paniccia"
     },
     {
       "name": "Jay David Ramos",
+      "role": "coverArtist",
       "slug": "jay-david-ramos"
     },
     {
       "name": "Rod Reis",
+      "role": "coverArtist",
       "slug": "rod-reis"
     },
     {
       "name": "Andrew Dalhouse",
+      "role": "colorist",
       "slug": "andrew-dalhouse"
     },
     {
       "name": "Rachelle Rosenberg",
+      "role": "colorist",
       "slug": "rachelle-rosenberg"
     },
     {
       "name": "Nolan Woodard",
+      "role": "colorist",
       "slug": "nolan-woodard"
     },
     {
       "name": "Israel Silva",
+      "role": "colorist",
       "slug": "israel-silva"
     },
     {
       "name": "Chris Sotomayor",
+      "role": "colorist",
       "slug": "chris-sotomayor"
     },
     {
       "name": "Vc Travis Lanham",
+      "role": "letterer",
       "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Andrea Di Vito",
+      "role": "penciler",
+      "slug": "andrea-di-vito"
+    },
+    {
+      "name": "David Baldeón",
+      "role": "penciler",
+      "slug": "david-baldeon"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "penciler",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Salva Espín",
+      "role": "penciler",
+      "slug": "salva-espin"
+    },
+    {
+      "name": "Chris Cross",
+      "role": "penciler",
+      "slug": "chris-cross"
     }
   ],
   "displayTitle": "Revelations (2023) #1",

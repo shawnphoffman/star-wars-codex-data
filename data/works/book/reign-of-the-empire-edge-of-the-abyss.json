@@ -11,6 +11,10 @@
   "displayTitle": "Reign of the Empire: Edge of the Abyss",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593873629"
+    },
+    {
       "type": "isbn13",
       "value": "9780593873625"
     }
@@ -20,6 +24,7 @@
       "extent": 336,
       "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0593873629",
       "isbn13": "9780593873625",
       "kind": "print",
       "onsale": "2026-09-15T00:00:00.000Z"

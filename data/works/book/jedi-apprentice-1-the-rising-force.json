@@ -11,11 +11,20 @@
   "displayTitle": "Jedi Apprentice: The Rising Force",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590519220"
+    },
+    {
       "type": "isbn13",
       "value": "9780590519229"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0590519220",
+      "kind": "print"
+    },
     {
       "extent": 176,
       "imprint": "Scholastic",

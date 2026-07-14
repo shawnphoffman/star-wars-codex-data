@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Mandalorian Armor",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553578855"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 387,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553578855",
+      "kind": "print",
+      "onsale": "1998-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

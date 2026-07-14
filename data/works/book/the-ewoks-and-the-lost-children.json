@@ -11,8 +11,16 @@
   "displayTitle": "The Ewoks and the Lost Children",
   "editionIds": [
     {
-      "type": "isbn13",
-      "value": "9780394871868"
+      "type": "isbn10",
+      "value": "0394871863"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "0394871863",
+      "kind": "print",
+      "onsale": "1984-11-01T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
@@ -20,7 +28,7 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1985-12-03T00:00:00.000Z",
+  "releaseDate": "1984-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-ewoks-and-the-lost-children",

@@ -11,6 +11,10 @@
   "displayTitle": "Kanan's Jedi Training",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484705637"
+    },
+    {
       "type": "isbn13",
       "value": "9781484705636"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484705637",
       "isbn13": "9781484705636",
       "kind": "print",
       "onsale": "2015-08-04T00:00:00.000Z"

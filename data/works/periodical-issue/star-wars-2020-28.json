@@ -7,9 +7,39 @@
       "slug": "charles-soule"
     },
     {
-      "name": "Andres Genolet",
+      "name": "Andrés Genolet",
       "role": "artist",
-      "slug": "andres-genolet"
+      "slug": "andrs-genolet"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
+    },
+    {
+      "name": "Andrés Genolet",
+      "role": "inker",
+      "slug": "andrs-genolet"
+    },
+    {
+      "name": "Andrés Genolet",
+      "role": "penciler",
+      "slug": "andrs-genolet"
     }
   ],
   "displayTitle": "Star Wars (2020) #28",

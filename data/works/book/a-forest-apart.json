@@ -9,6 +9,15 @@
     }
   ],
   "displayTitle": "A Forest Apart",
+  "editions": [
+    {
+      "extent": 50,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2003-02-11T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

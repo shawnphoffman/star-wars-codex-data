@@ -5,6 +5,95 @@
       "name": "Dave Manak",
       "role": "writer",
       "slug": "dave-manak"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Joe Sinnott",
+      "role": "inker",
+      "slug": "joe-sinnott"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
+    },
+    {
+      "name": "David Manak",
+      "role": "writer",
+      "slug": "david-manak"
+    },
+    {
+      "name": "John Romita Sr.",
+      "role": "penciler",
+      "slug": "john-romita-sr"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "writer",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Daniel Kurt Thorsland",
+      "role": "writer",
+      "slug": "daniel-kurt-thorsland"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
     }
   ],
   "displayTitle": "Droids #3: The Scarlet Pirate",
@@ -17,10 +106,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1986-08-01T00:00:00.000Z",
+  "releaseDate": "1994-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-3-the-scarlet-pirate",
-  "synopsis": "Droids 3 is the third issue of the Star Wars: Droids series of comics. The story is split into two chapters, \"The Scarlet Pirate Part 1\" and \"The Scarlet Pirate Part 2: End of the Game.\" The issue was published on May 13, 1986 by Marvel Comics.",
+  "synopsis": "In a deadly case of mistaken identity, See-Threepio and Artoo-Detoo become entangled in an illegal operation on the Hosk moon, and are forced to enter a droid battle arena.",
   "title": "Star Wars Droids #3: The Scarlet Pirate"
 }

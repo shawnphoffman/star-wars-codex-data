@@ -10,6 +10,31 @@
       "name": "Chris Sprouse",
       "role": "artist",
       "slug": "chris-sprouse"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Terry Austin",
+      "role": "inker",
+      "slug": "terry-austin"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "letterer",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Duncan Fegredo",
+      "role": "coverArtist",
+      "slug": "duncan-fegredo"
     }
   ],
   "displayTitle": "Splinter of the Mind's Eye",
@@ -18,7 +43,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1978-02-12T00:00:00.000Z",
+  "releaseDate": "1995-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "splinter-of-the-minds-eye",

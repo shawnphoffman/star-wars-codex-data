@@ -11,11 +11,23 @@
   "displayTitle": "Episode I Journal: Queen Amidala",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590521012"
+    },
+    {
       "type": "isbn13",
       "value": "9780590521017"
     }
   ],
   "editions": [
+    {
+      "extent": 111,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0590521012",
+      "kind": "print",
+      "onsale": "1999-06-01T00:00:00.000Z"
+    },
     {
       "extent": 111,
       "imprint": "Scholastic",
@@ -30,7 +42,7 @@
   "inUniverseDate": {
     "startYear": -32
   },
-  "releaseDate": "2000-06-01T00:00:00.000Z",
+  "releaseDate": "1999-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-1-journal-queen-amidala",

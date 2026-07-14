@@ -5,6 +5,50 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Alfredo Alcala",
+      "role": "inker",
+      "slug": "alfredo-alcala"
+    },
+    {
+      "name": "Alfredo Alcala",
+      "role": "penciler",
+      "slug": "alfredo-alcala"
+    },
+    {
+      "name": "Alfredo Alcala",
+      "role": "artist",
+      "slug": "alfredo-alcala"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Brian Daley",
+      "role": "letterer",
+      "slug": "brian-daley"
+    },
+    {
+      "name": "Stan Manoukian",
+      "role": "coverArtist",
+      "slug": "stan-manoukian"
+    },
+    {
+      "name": "Vince Roucher",
+      "role": "coverArtist",
+      "slug": "vince-roucher"
     }
   ],
   "displayTitle": "Classic Star Wars: Han Solo at Stars' End #3",
@@ -17,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1997-05-14T00:00:00.000Z",
+  "releaseDate": "1997-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-han-solo-at-stars-end-1997-3",

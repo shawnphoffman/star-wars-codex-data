@@ -5,6 +5,41 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Steve Buccellato",
+      "role": "colorist",
+      "slug": "steve-buccellato"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
     }
   ],
   "displayTitle": "Classic Star Wars #10: The Return Of Ben Kenobi",
@@ -17,10 +52,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1993-06-01T00:00:00.000Z",
+  "releaseDate": "1993-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-10-the-return-of-ben-kenobi",
-  "synopsis": "Following the frightening threat of the Night Beast, Luke and inadvertent stowaway Threepio travel to the desert world of Aridus &ndash; ostensibly to ensure the continuation of the Rebel Alliance's weapons-smuggling operation there. But Luke is more interested in checking out rumors of a mysterious stranger who's appeared on Aridus claiming to be... Ben Kenobi!",
+  "synopsis": "Following the frightening threat of the Night Beast, Luke and inadvertant stowaway Threepio travel to the desert world of Aridus -- ostensibly to ensure the continuation of the Rebel Alliance's weapons-smuggling operation there. But Luke is more interested in checking out rumors of a mysterious stranger who's appeared on Aridus claiming to be... Ben Kenobi!",
   "title": "Classic Star Wars #10: The Return Of Ben Kenobi"
 }

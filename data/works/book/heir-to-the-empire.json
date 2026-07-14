@@ -4,15 +4,27 @@
   "creators": [
     {
       "name": "Timothy Zahn",
-      "role": "author",
+      "role": "writer",
       "slug": "timothy-zahn"
     }
   ],
   "displayTitle": "Heir to the Empire",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00513HWXO"
+    },
+    {
+      "type": "isbn10",
+      "value": "0345530004"
+    },
+    {
       "type": "isbn13",
       "value": "9780345530004"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553073270"
     }
   ],
   "editions": [
@@ -23,11 +35,22 @@
       "kind": "print"
     },
     {
-      "extent": 361,
-      "imprint": "Bantam Spectra",
+      "asin": "B00513HWXO",
+      "extent": 496,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345530004",
       "isbn13": "9780345530004",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2011-09-06T00:00:00.000Z"
+    },
+    {
+      "extent": 368,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn13": "9780553073270",
+      "kind": "print",
+      "onsale": "1991-05-01T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -35,10 +58,10 @@
   "inUniverseDate": {
     "startYear": 9
   },
-  "releaseDate": "1991-06-01T00:00:00.000Z",
+  "releaseDate": "1991-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heir-to-the-empire",
-  "synopsis": "Five years after the Battle of Endor, a brilliant Imperial commander named Grand Admiral Thrawn emerges from the Unknown Regions to lead the Empire's remnants against the fledgling New Republic.",
+  "synopsis": "Here is a special 20th anniversary edition of the #1 New York Times bestselling novel that reignited the entire Star Wars publishing phenomenon—featuring an Introduction and annotations from award-winning author Timothy Zahn, exclusive commentary from Lucasfilm and Del Rey Books, and a brand-new novella starring the ever-popular Grand Admiral Thrawn. The biggest event in the history of Star Wars books, Heir to the Empire follows the adventures of Luke Skywalker, Han Solo, and Princess Leia after they led the Rebel Alliance to victory in Star Wars: Episode VI Return of the Jedi . Five years after the Death Star was destroyed and Darth Vader and the Emperor were defeated, the galaxy is struggling to heal the wounds of war, Princess Leia and Han Solo are married and expecting twins, and Luke Skywalker has become the first in a long-awaited line of new Jedi Knights. But thousands of light-years away, the last of the Emperor’s warlords—the brilliant and deadly Grand Admiral Thrawn—has taken command of the shattered Imperial fleet, readied it for war, and pointed it at the fragile heart of the New Republic. For this dark warrior has made two vital discoveries that could destroy everything the courageous men and women of the Rebel Alliance fought so hard to create. The explosive confrontation that results is a towering epic of action, invention, mystery, and spectacle on a galactic scale—in short, a story worthy of the name Star Wars . Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
   "title": "Heir to the Empire"
 }

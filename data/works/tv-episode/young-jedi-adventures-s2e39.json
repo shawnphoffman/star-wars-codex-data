@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Sarah Nerbosa",
+      "role": "writer",
+      "slug": "sarah-nerbosa"
+    }
+  ],
   "displayTitle": "The Mission Mixup",
   "era": "highRepublic",
   "format": "tvEpisode",

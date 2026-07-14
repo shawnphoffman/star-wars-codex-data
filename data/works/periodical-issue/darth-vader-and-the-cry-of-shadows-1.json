@@ -5,6 +5,36 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "artist",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-12-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-cry-of-shadows-1",
-  "synopsis": "During the Clone Wars, a single trooper&mdash;left for dead during battle&mdash;comes to hate the Jedi generals who abandoned him. Years later, he lives on, bitter and angry, until hearing tales of a great warrior. Now, this clone believes he may have found the leader he should have been following all along&hellip; Darth Vader!",
+  "synopsis": "During the Clone Wars, a single trooper—left for dead during battle—comes to hate the Jedi generals who abandoned him. Years later, he lives on, bitter and angry, until hearing tales of a great warrior. Now, this clone believes he may have found the leader he should have been following all along . . . Darth Vader! * All-new series starring Darth Vader! * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds! “A fine example of what Vader can and should be all about.”—Comic Book Resources",
   "title": "Darth Vader and the Cry of Shadows #1"
 }

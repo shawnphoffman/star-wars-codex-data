@@ -6,15 +6,49 @@
       "name": "Jeremy Barlow",
       "role": "writer",
       "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "penciler",
+      "slug": "brian-koschak"
+    },
+    {
+      "name": "Mae Hao",
+      "role": "colorist",
+      "slug": "mae-hao"
+    },
+    {
+      "name": "Marlon Ilagan",
+      "role": "colorist",
+      "slug": "marlon-ilagan"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "coverArtist",
+      "slug": "brian-koschak"
     }
   ],
   "displayTitle": "The Clone Wars: The Enemy Within",
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-02-29T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -21
   },
-  "releaseDate": "2012-03-07T00:00:00.000Z",
+  "releaseDate": "2012-02-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-enemy-within",

@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "The Journal of Master Gnost-Dural",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781452107608"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 111,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn13": "9781452107608",
+      "kind": "print",
+      "onsale": "2011-12-20T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -3644,
     "startYear": -3684
   },
-  "releaseDate": "2011-12-16T00:00:00.000Z",
+  "releaseDate": "2011-12-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-journal-of-master-gnost-dural",

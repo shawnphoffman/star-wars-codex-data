@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    }
+  ],
+  "displayTitle": "Tag & Bink II (2006) #2",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "tag-bink-ii",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "tag-bink-ii-2006-2",
+  "title": "Tag & Bink II (2006) #2"
+}

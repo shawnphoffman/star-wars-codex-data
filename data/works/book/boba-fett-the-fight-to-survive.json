@@ -11,6 +11,14 @@
   "displayTitle": "Boba Fett: The Fight to Survive",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439548802"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439339278"
+    },
+    {
       "type": "isbn13",
       "value": "9780439548809"
     }
@@ -19,7 +27,16 @@
     {
       "extent": 160,
       "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780439339278",
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    },
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439548802",
       "isbn13": "9780439548809",
       "kind": "print",
       "onsale": "2002-04-23T00:00:00.000Z"

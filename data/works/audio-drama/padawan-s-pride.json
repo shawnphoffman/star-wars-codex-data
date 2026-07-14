@@ -5,9 +5,22 @@
       "name": "Bryan Q. Miller",
       "role": "writer",
       "slug": "bryan-q-miller"
+    },
+    {
+      "name": "Kevin Kemp",
+      "role": "narrator",
+      "slug": "kevin-kemp"
     }
   ],
   "displayTitle": "Padawan's Pride",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2024-09-19T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "audioDrama",
   "inUniverseDate": {

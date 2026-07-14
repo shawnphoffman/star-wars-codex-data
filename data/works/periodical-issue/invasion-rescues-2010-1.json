@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-05-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-1",
-  "synopsis": "The Yuuzhan Vong invasion spreads death and destruction across the galaxy, and *Artorias*, the homeworld of the Galfridian family, lies in the path of the invaders' armada. Though separated, Finn, Kaye, Nina, and Caled Galfridian each fight the enemy in the hope of one day reuniting on their peaceful planet. Finn studies at the Jedi temple alongside Luke Skywalker and the grown Jedi children of Han Solo and Leia Organa. Kaye and Nina turn a captured Yuuzhan Vong slave ship against their former captors. Caled raises forces on Artorias, unaware of the danger posed by one of his trusted allies.",
+  "synopsis": "The Yuuzhan Vong invasion spreads death and destruction across the galaxy, leaving behind ravaged worlds with little hope of survival . . . Artorias, the homeworld of the Galfridian family lay in the path of the Yuuzhan Vong armada-and now, though separated, Finn, Kaye, Nina, and Caled work to fight the invaders with the hope that one day they will again be together on their peaceful planet. Finn studies at the Jedi temple with Luke Skywalker and the grown Jedi children of Han Solo and Princess Leia! Kaye and Nina use a Yuuzhan Vong slave ship to attack their former captors! Caled raises forces on Artorias-not knowing the danger from one of his trusted allies! * A new era in Star Wars comics! Luke Skywalker's galaxy under siege!",
   "title": "Invasion: Rescues #1"
 }

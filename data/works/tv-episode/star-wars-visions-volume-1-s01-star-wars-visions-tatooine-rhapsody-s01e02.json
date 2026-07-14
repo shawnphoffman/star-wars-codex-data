@@ -1,10 +1,15 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Taku Kimura",
       "role": "director",
       "slug": "taku-kimura"
+    },
+    {
+      "name": "Yasumi Atarashi",
+      "role": "writer",
+      "slug": "yasumi-atarashi"
     }
   ],
   "displayTitle": "Tatooine Rhapsody",

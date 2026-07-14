@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "David Michael Beck",
+      "role": "coverArtist",
+      "slug": "david-michael-beck"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dawn-of-the-jedi-force-war-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-01-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-war-2013-3",
-  "synopsis": "Je'daii generals Daegen Lok and Xesh are captured by Xesh's former Rakatan masters, and Xesh learns the truth behind his arrival on Tython. Half-mad with regret, he is forced to give the invaders the knowledge they need to defeat Xesh's Je'daii friends&mdash;and enslave the entire planet!",
+  "synopsis": "Je’daii generals Daegen Lok and Xesh are captured by Xesh’s former Rakatan masters, and Xesh learns the truth behind his arrival on Tython. Half-mad with regret, he is forced to give the invaders the knowledge they need to defeat Xesh’s Je’daii friends—and enslave the entire planet! * Star Wars: Dawn of the Jedi Volume 1 is one of the highest-selling collections in years! “An awesome read.”—Geeks of Doom",
   "title": "Dawn of the Jedi: Force War #3"
 }

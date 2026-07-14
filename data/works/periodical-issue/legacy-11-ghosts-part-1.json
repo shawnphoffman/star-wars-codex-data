@@ -5,6 +5,86 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #11: Ghosts, Part 1",
@@ -15,12 +95,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-11-ghosts-part-1",
-  "synopsis": "Cade Skywalker takes up a lightsaber once again, but not for the reason the Jedi had hoped, and some among them grow suspicious of his undisciplined power. Haunted by the tragedies of his own life and the actions of his ancestors, Cade's denial of the past could be sowing the seeds of a terrifying future. Amidst the ruins of his childhood, a decision leads to a discovery that brings him closer to his destiny. Meanwhile, his old allies Deliah Blue and Jariah Syn face uncertain futures of their own, betrayed and delivered into the hands of a deadly enemy they thought they had left behind, their survival hinging on what they know, and are willing to reveal, about the last Skywalker heir.",
+  "synopsis": "Cade Skywalker takes up a lightsaber once again--but not for the reason the Jedi had hoped! In fact, some among the Jedi are becoming suspicious of Cade and his undisciplined power. Haunted by the tragedies of his own life and the actions of his ancestors, Cade's denial of the past could be laying the seeds for a terrifying future. Amidst the ruins of his childhood, a decision will lead to a discovery, bringing Cade that much closer to his destiny. Meanwhile, Cade's old allies Deliah Blue and Jariah Syn face uncertain futures of their own, betrayed and delivered into the hands of a deadly enemy they thought they'd left behind. Whether or not they live to see tomorrow relies on what they know about the last Skywalker heir--and what they're willing to reveal!",
   "title": "Legacy #11: Ghosts, Part 1"
 }

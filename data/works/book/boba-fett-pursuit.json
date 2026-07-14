@@ -11,6 +11,10 @@
   "displayTitle": "Boba Fett: Pursuit",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339332"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339339"
     }
@@ -20,6 +24,7 @@
       "extent": 126,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439339332",
       "isbn13": "9780439339339",
       "kind": "print",
       "onsale": "2004-12-01T00:00:00.000Z"

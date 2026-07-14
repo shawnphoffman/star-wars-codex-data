@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Journal: The Fight for Justice",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590511688"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590511688",
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

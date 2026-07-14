@@ -15,6 +15,36 @@
       "name": "Thomas Newman",
       "role": "composer",
       "slug": "thomas-newman"
+    },
+    {
+      "name": "Miguel Alexandre",
+      "role": "director",
+      "slug": "miguel-alexandre"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Ryan Gosling",
+      "role": "producer",
+      "slug": "ryan-gosling"
+    },
+    {
+      "name": "Dan Levine",
+      "role": "producer",
+      "slug": "dan-levine"
+    },
+    {
+      "name": "Mary McLaglen",
+      "role": "producer",
+      "slug": "mary-mclaglen"
+    },
+    {
+      "name": "Josh McLaglen",
+      "role": "producer",
+      "slug": "josh-mclaglen"
     }
   ],
   "displayTitle": "Starfighter",
@@ -22,6 +52,10 @@
   "format": "movie",
   "inUniverseDate": {
     "startYear": 40
+  },
+  "movie": {
+    "movieType": "theatrical",
+    "runtimeMinutes": 125
   },
   "releaseDate": "2027-05-26T00:00:00.000Z",
   "releaseDisplayState": "upcoming",

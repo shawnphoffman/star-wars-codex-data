@@ -11,6 +11,35 @@
       "name": "Anthony Daniels",
       "role": "writer",
       "slug": "anthony-daniels"
+    },
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "artist",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Sean Konot",
+      "role": "letterer",
+      "slug": "sean-konot"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "coverArtist",
+      "slug": "igor-kordey"
     }
   ],
   "displayTitle": "Droids: The Protocol Offensive",

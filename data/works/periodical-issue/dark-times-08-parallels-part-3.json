@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "inker",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "inker",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "penciler",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Alex Wald",
+      "role": "colorist",
+      "slug": "alex-wald"
+    },
+    {
+      "name": "Zach Howard",
+      "role": "coverArtist",
+      "slug": "zach-howard"
     }
   ],
   "displayTitle": "Dark Times #08: Parallels, Part 3",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-01-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-08-parallels-part-3",
-  "synopsis": "Bomo Greenbark and the smuggler crew of the Uhumele are caught in the crossfire between two criminal gangs, both of whom want what the crew has. But Captain Heren still has one trick left to play&mdash;and it will result in a dangerous surprise for Jedi Master K'Kruhk, who is half a galaxy away and who believes himself to be out of peril. These are the dark times, and nobody gets away easy&mdash;if they even get out alive! Somebody is betrayed, somebody dies!",
+  "synopsis": "Bomo Greenbark and the smuggler crew of the Uhumelé are caught in the crossfire between two criminal gangs, both of whom want what the crew has. But Captain Heren still has one trick left to play-and it will result in a dangerous surprise for Jedi Master K'Kruhk, who is half a galaxy away and who believes himself to be out of peril. These are the dark times, and nobody gets away easy--if they even get out alive! Somebody is betrayed, somebody dies!",
   "title": "Dark Times #08: Parallels, Part 3"
 }

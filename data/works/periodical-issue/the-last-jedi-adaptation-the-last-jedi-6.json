@@ -1,5 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Frank D'Armata",
+      "role": "coverArtist",
+      "slug": "frank-d-armata"
+    },
+    {
+      "name": "Mahmud Asrar",
+      "role": "coverArtist",
+      "slug": "mahmud-asrar"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "inker",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Michael Spicer",
+      "role": "colorist",
+      "slug": "michael-spicer"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "penciler",
+      "slug": "michael-walsh"
+    }
+  ],
   "displayTitle": "The Last Jedi #6",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

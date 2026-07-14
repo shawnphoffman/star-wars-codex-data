@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "inker",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "penciler",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Bong Dazo",
+      "role": "artist",
+      "slug": "bong-dazo"
+    },
+    {
+      "name": "Dan Scott",
+      "role": "coverArtist",
+      "slug": "dan-scott"
     }
   ],
   "displayTitle": "Knights of the Old Republic #37: Prophet Motive, Part 2",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-01-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-37-prophet-motive-part-2",
-  "synopsis": "Former Padawan Zayne Carrick's new life takes a turn for the worse as a con gone wrong puts his friends in a deadly predicament! Fleecing the corrupt financial exchange on Metellos 3 seemed like a victimless crime to Zayne's friends Jarael and Rohlan-until they became the victims! Now prisoners of a galactic criminal syndicate, Jarael and Rohlan must find a way to survive long enough for Zayne and his conniving cohort Gryph to rescue them!",
+  "synopsis": "Former Padawan Zayne Carrick's new life takes a turn for the worse as a con gone wrong puts his friends in a deadly predicament! Fleecing the corrupt financial exchange on Metellos 3 seemed like a victimless crime to Zayne's friends Jarael and Rohlan-until they became the victims! Now prisoners of a galactic criminal syndicate, Jarael and Rohlan must find a way to survive long enough for Zayne and his conniving cohort Gryph to rescue them! * Make sure to be there as the conclusion to \"Prophet Motive\" propels Knights of the Old Republic into a brand-new galaxy of adventures!",
   "title": "Knights of the Old Republic #37: Prophet Motive, Part 2"
 }

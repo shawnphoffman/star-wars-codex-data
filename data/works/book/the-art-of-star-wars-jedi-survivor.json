@@ -1,0 +1,31 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "displayTitle": "The Art of Star Wars Jedi: Survivor",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506736679"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Dark Horse Books **Mike Richardson",
+      "isPrimary": true,
+      "isbn13": "9781506736679",
+      "kind": "print",
+      "onsale": "2024-02-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-02-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-jedi-survivor",
+  "synopsis": "The Art of Star Wars Jedi: Survivor is a canon reference book that details the development of the video game Star Wars Jedi: Survivor. The book also includes concept art and creator commentary. The book was published by Dark Horse Books on February 20, 2024.",
+  "title": "The Art of Star Wars Jedi: Survivor"
+}

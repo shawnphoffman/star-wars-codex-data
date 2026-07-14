@@ -5,6 +5,50 @@
       "name": "Kevin J. Anderson",
       "role": "writer",
       "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "inker",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "penciler",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Bill Black",
+      "role": "inker",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "inker",
+      "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Russell Walks",
+      "role": "coverArtist",
+      "slug": "russell-walks"
     }
   ],
   "displayTitle": "Tales of the Jedi: The Golden Age of the Sith #4: Pawns of a Sith Lord",
@@ -17,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1997-01-08T00:00:00.000Z",
+  "releaseDate": "1997-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-golden-age-of-the-sith-1996-4",

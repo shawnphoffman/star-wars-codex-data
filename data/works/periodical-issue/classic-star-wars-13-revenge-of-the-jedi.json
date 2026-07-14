@@ -5,6 +5,41 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Steve Buccellato",
+      "role": "colorist",
+      "slug": "steve-buccellato"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Tom Yeates",
+      "role": "coverArtist",
+      "slug": "tom-yeates"
     }
   ],
   "displayTitle": "Classic Star Wars #13: Revenge Of The Jedi",
@@ -21,5 +56,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-13-revenge-of-the-jedi",
+  "synopsis": "Our Rebel heroes seek help from the Mon Calamari in evacuating their Yavin base, but soon get embroiled in a mystery involving a distress beacon of unknown origin, scads of Imperial troopers, giant sea worms, an amphibian rescue, more giant sea worms, a droid or two, a few more scads of Imperial troopers, and just a bit more excitement than a 32-page color comic book has any right to provide.",
   "title": "Classic Star Wars #13: Revenge Of The Jedi"
 }

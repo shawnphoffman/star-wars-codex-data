@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Vincenzo Acunzo",
+      "role": "inker",
+      "slug": "vincenzo-acunzo"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knight Errant: Escape #3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knight-errant-escape-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-08-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-escape-2012-3",
-  "synopsis": "Escape occurs in 1032 BBY in the Republic Dark Age during the last century of the New Sith Wars and is largely narrated from the point of view of the Jedi Knight Kerra Holt, a knight errant Jedi who operated in Sith territory. Escape deals with Kerra's personal quest to find her long-lost parents who were separated during the Sith invasion of Aquilaris in 1042 BBY. This journey leads her to infiltrate Sith Lord Odion's realm known as the Odionate, where she becomes embroiled in a Sith expedition to locate the Helm of Ieldis, an ancient Sith artifact. While Kerra's journey brings her closer to learning the fate of her parents, she also had to contend with Odion's nihilistic agenda of galactic domination.",
+  "synopsis": "The location of a powerful Sith relic is closer to being uncovered, and so is the fate of Jedi Kerra Holt’s lost family! Kerra’s knowledge has gotten a Sith reconnaissance team closer to the relic than would have been possible without her—but will her desire to find what happened to her family also bring more destruction to Sith territories? How long can she stay undercover and keep one step ahead of the team and their merciless leader? * John Jackson Miller’s Knight Errant novel from Del Rey was a New York Times bestseller!",
   "title": "Knight Errant: Escape #3"
 }

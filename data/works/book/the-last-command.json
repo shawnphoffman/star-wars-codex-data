@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780553091861"
+    },
+    {
+      "type": "isbn13",
       "value": "9780553093254"
     }
   ],
   "editions": [
+    {
+      "extent": 416,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn13": "9780553091861",
+      "kind": "print",
+      "onsale": "1993-04-01T00:00:00.000Z"
+    },
     {
       "extent": 406,
       "imprint": "Bantam Spectra",

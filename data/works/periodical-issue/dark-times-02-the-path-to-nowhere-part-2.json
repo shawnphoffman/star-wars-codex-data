@@ -5,6 +5,41 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "artist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Dark Times #2: The Path to Nowhere",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-01-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-02-the-path-to-nowhere-part-2",
-  "synopsis": "Despite his acceptance of the Sith ways, Darth Vader is shocked to find the Empire&mdash;and himself&mdash;complicit in an evil he thought he had put behind him. A Separatist freedom fighter deals with the realization that the sacrifice made by his brothers-in-arms has been for nothing&mdash;and that their families are paying the price for their resistance. The crew of a smuggler's ship is forced to take sides in a conflict they have sought to avoid&mdash;and which has already changed the course of all their lives&hellip; The dawn of the Empire plunges the galaxy into dark times, and every dir",
+  "synopsis": "Despite his acceptance of the Sith ways, Darth Vader is shocked to find the Empire-and himself-complicit in an evil he thought he had put behind him . . . A Separatist freedom fighter deals with the realization that the sacrifice made by his brothers-in-arms has been for nothing-and that their families are paying the price for their resistanceÖ The crew of a smuggler's ship is forced to take sides in a conflict they have sought to avoid--and which has already changed the course of all their lives. The dawn of the Empire plunges the galaxy into dark times, and every direction leads to danger! • Moving into the new, unexplored territory of the time period immediately following Revenge of the Sith. • References the events in the Del Rey novel Dark Lord.",
   "title": "Dark Times #2: The Path to Nowhere"
 }

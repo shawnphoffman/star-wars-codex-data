@@ -1,5 +1,82 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stig Asmussen",
+      "role": "director",
+      "slug": "stig-asmussen"
+    },
+    {
+      "name": "Blair Brown",
+      "role": "producer",
+      "slug": "blair-brown"
+    },
+    {
+      "name": "Jordan Klein",
+      "role": "producer",
+      "slug": "jordan-klein"
+    },
+    {
+      "name": "Paul Hatfield",
+      "role": "producer",
+      "slug": "paul-hatfield"
+    },
+    {
+      "name": "Rhonda Cox",
+      "role": "producer",
+      "slug": "rhonda-cox"
+    },
+    {
+      "name": "Colin Campbell",
+      "role": "producer",
+      "slug": "colin-campbell"
+    },
+    {
+      "name": "Aaron Contreras",
+      "role": "writer",
+      "slug": "aaron-contreras"
+    },
+    {
+      "name": "Manny Hagopian",
+      "role": "writer",
+      "slug": "manny-hagopian"
+    },
+    {
+      "name": "Megan Fausti",
+      "role": "writer",
+      "slug": "megan-fausti"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Chris Avellone",
+      "role": "writer",
+      "slug": "chris-avellone"
+    },
+    {
+      "name": "Ken Feldman",
+      "role": "artist",
+      "slug": "ken-feldman"
+    },
+    {
+      "name": "Chris Sutton",
+      "role": "artist",
+      "slug": "chris-sutton"
+    },
+    {
+      "name": "Stephen Barton",
+      "role": "composer",
+      "slug": "stephen-barton"
+    },
+    {
+      "name": "Gordy Haab",
+      "role": "composer",
+      "slug": "gordy-haab"
+    }
+  ],
   "displayTitle": "Jedi: Fallen Order",
   "era": "reignOfTheEmpire",
   "format": "videoGame",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Rebel Force: Trapped",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545140854"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 164,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545140854",
+      "kind": "print",
+      "onsale": "2010-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

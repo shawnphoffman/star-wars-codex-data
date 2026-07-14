@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion: Rescues #5",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-10-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-rescues-2010-5",
-  "synopsis": "Kaye Galfridian has taken command of a New Republic army, but her first mission has forced her to fight against some of the very refugees she has come to rescue! Mutated by Yuuzhan Vong bioengineering, the refugees have become monstrous killing machines who can only be \"saved\" by death.\nMeanwhile, on their homeworld of Artorias, Kaye's brother Finn must deal with death on another level, unaware that he has become the enemy's objective in a new front in the Yuuzhan Vong invasion!",
+  "synopsis": "Kaye Galfridian has taken command of a New Republic army, but her first mission has forced her to fight against some of the very refugees she has come to rescue! Mutated by Yuuzhan Vong bioengineering, the refugees have become monstrous killing machines who can only be \"saved\" by death. Meanwhile, on their homeworld of Artorias, Kaye's brother Finn must deal with death on another level, unaware that he has become the enemy's objective in a new front in the Yuuzhan Vong invasion! * Set within the time frame of the New Jedi Order novels from Del Rey! The price of Victory . . .",
   "title": "Invasion: Rescues #5"
 }

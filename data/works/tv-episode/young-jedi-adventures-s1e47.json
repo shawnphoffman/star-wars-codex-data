@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Anthony Bell",
+      "role": "director",
+      "slug": "anthony-bell"
+    },
+    {
+      "name": "Julius Harper",
+      "role": "writer",
+      "slug": "julius-harper"
+    }
+  ],
   "displayTitle": "The Starship Show",
   "era": "highRepublic",
   "format": "tvEpisode",

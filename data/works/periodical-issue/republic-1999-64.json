@@ -5,6 +5,45 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "inker",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "penciler",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "artist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Nestelle",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Tomás Giorello",
+      "role": "coverArtist",
+      "slug": "toms-giorello"
     }
   ],
   "displayTitle": "Republic #64: Bloodlines",

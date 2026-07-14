@@ -1,11 +1,41 @@
 {
   "bookType": "other",
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Kevin Rubio",
       "role": "writer",
       "slug": "kevin-rubio"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "Tag & Bink: Revenge of the Clone Menace",
@@ -17,6 +47,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tag-bink-revenge-of-the-clone-menace",
-  "synopsis": "Behold, the long-awaited prequel to the Tag & Bink saga! Many a Star Wars fan has lain awake at night, plagued by suspense and wondering just how this infamous Rebel pair came to be. Well wonder no more, faithful readers! Your plague has ended with this tell-all issue that caps the space-opera legend, courtesy of fan-favorite Star Wars creators Kevin Rubio and Lucas Marangon. The origin story of our hapless heroes begins on their respective planets, Alderaan and Corellia. These future soldiers of the Rebel Alliance are sized up for Padawan potential, and we are treated to a rare inside look at",
+  "synopsis": "Behold, the long-awaited prequel to the Tag & Bink saga! Many a Star Wars fan has lain awake at night, plagued by suspense and wondering just how this infamous Rebel pair came to be. Well wonder no more, faithful readers! Your plague has ended with this tell-all issue that caps the space-opera legend, courtesy of fan-favorite Star Wars creators Kevin Rubio and Lucas Marangon. The origin story of our hapless heroes begins on their respective planets, Alderaan and Corellia. These future soldiers of the Rebel Alliance are sized up for Padawan potential, and we are treated to a rare inside look at the rigorous mental and physical training undergone by aspiring Knights in the Jedi Temple! Mace Windu, Yoda, Obi-Wan Kenobi, and the elder Fett each have a role in the miseducation of Tag and Bink, but despite all this schoolin', the two decide that spying on Padme and \"the Chosen One\" is a pretty good idea . . . • Featuring the cast of the Star Wars prequels!",
   "title": "Tag & Bink: Revenge of the Clone Menace"
 }

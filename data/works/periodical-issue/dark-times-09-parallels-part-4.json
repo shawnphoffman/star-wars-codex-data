@@ -5,6 +5,46 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "inker",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "inker",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Dave Ross",
+      "role": "penciler",
+      "slug": "dave-ross"
+    },
+    {
+      "name": "Lui Antonio",
+      "role": "penciler",
+      "slug": "lui-antonio"
+    },
+    {
+      "name": "Alex Wald",
+      "role": "colorist",
+      "slug": "alex-wald"
+    },
+    {
+      "name": "Zach Howard",
+      "role": "coverArtist",
+      "slug": "zach-howard"
     }
   ],
   "displayTitle": "Dark Times #09: Parallels, Part 4",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-02-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-09-parallels-part-4",
-  "synopsis": "Bomo Greenbark and his companions have been imprisoned, enslaved, and tortured, but now Bomo has found a way out. Freedom beckons, but honor demands he take action to free his friends. And action means his captors are about to see a very, very dangerous side of him. Meanwhile, Master K'Kruhk discovers that those under his protection are more in need of it than ever. Bad guys beware!",
+  "synopsis": "Bomo Greenbark and his companions have been imprisoned, enslaved, and tortured, but now Bomo has found a way out. Freedom beckons, but honor demands he take action to free his friends. And action means his captors are about to see a very, very dangerous side of him. Meanwhile, Master K'Kruhk discovers that those under his protection are more in need of it than ever. Bad guys beware! Evil has had its day, it's time for the forces of good to strike back!",
   "title": "Dark Times #09: Parallels, Part 4"
 }

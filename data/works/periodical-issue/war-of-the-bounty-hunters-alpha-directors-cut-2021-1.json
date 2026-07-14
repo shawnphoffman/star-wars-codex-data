@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "coverArtist",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "Steve McNiven",
+      "role": "penciler",
+      "slug": "steve-mcniven"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "War Of The Bounty Hunters Alpha: Director’s Cut (2021) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "war-of-the-bounty-hunters-alpha-directors-cut-2021-1",
+  "title": "War Of The Bounty Hunters Alpha: Director’s Cut (2021) #1"
+}

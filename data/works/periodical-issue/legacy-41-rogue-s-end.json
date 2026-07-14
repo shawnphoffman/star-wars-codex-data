@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jesus Aburtov",
+      "role": "colorist",
+      "slug": "jesus-aburtov"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "artist",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Kajo Baldisimo",
+      "role": "penciler",
+      "slug": "kajo-baldisimo"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
     }
   ],
   "displayTitle": "Legacy #41: Rogue's End",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-10-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-41-rogue-s-end",
-  "synopsis": "The Galactic Alliance's Rogue Squadron is on a mission to rescue a group of Mon Calamari refugees, but the Rogues may be forced to retreat when both the Sith and a Mandalorian bounty hunter create complications. One of the Rogues, Hondo Karr, takes center stage on this risky job -- from which at least one member of the squad will not return...",
+  "synopsis": "The Galactic Alliance’s Rogue Squadron is on a mission to rescue a group of Mon Calamari refugees, but the Rogues may be forced to retreat when both the Sith and a Mandalorian bounty hunter create complications. One of the Rogues, Hondo Karr, takes center stage on this risky job -- from which at least one member of the squad will not return . . . The Legacy-era Rogue Squadron in action!",
   "title": "Legacy #41: Rogue's End"
 }

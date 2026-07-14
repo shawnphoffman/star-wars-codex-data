@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Forces of Destiny: Tales of Hope & Courage",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780794440367"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn13": "9780794440367",
+      "kind": "print",
+      "onsale": "2017-10-17T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

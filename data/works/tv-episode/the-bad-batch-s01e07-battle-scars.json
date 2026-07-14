@@ -10,19 +10,24 @@
       "name": "Jennifer Corbett",
       "role": "writer",
       "slug": "jennifer-corbett"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
     }
   ],
-  "displayTitle": "The Bad Batch S01E07: Battle Scars",
+  "displayTitle": "Battle Scars",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {
     "startYear": -19
   },
-  "parentWorkSlug": "the-bad-batch",
+  "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-bad-batch-s01e07-battle-scars",
   "synopsis": "As they traverse a decommissioned medical facility, the Batch encounter an unexpected threat.",
-  "title": "The Bad Batch S01E07: Battle Scars"
+  "title": "Battle Scars"
 }

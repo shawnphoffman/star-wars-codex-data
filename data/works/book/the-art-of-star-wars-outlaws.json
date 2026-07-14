@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "displayTitle": "The Art of Star Wars: Outlaws",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506747576"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "isbn13": "9781506747576",
+      "kind": "print",
+      "onsale": "2025-08-19T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-08-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-outlaws",
+  "synopsis": "The Art of Star Wars: Outlaws is a canon reference book that details the development of the video game Star Wars Outlaws. The book was published by Dark Horse Books on August 19, 2025.",
+  "title": "The Art of Star Wars: Outlaws"
+}

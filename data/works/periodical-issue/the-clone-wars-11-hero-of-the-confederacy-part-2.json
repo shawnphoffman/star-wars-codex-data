@@ -10,6 +10,21 @@
       "name": "Steven Melching",
       "role": "writer",
       "slug": "steven-melching"
+    },
+    {
+      "name": "Brian Koschak",
+      "role": "penciler",
+      "slug": "brian-koschak"
+    },
+    {
+      "name": "Michael E. Wiggam",
+      "role": "colorist",
+      "slug": "michael-e-wiggam"
+    },
+    {
+      "name": "Russell Chong",
+      "role": "coverArtist",
+      "slug": "russell-chong"
     }
   ],
   "displayTitle": "The Clone Wars #11: Hero of the Confederacy, Part 2",
@@ -20,12 +35,13 @@
   },
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-12-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-11-hero-of-the-confederacy-part-2",
-  "synopsis": "Blamed for the death of a member of the royal family of Valahari, Anakin Skywalker is exiled to a remote outpost on Ryloth. Meanwhile, Obi-Wan Kenobi infiltrates the royal family's castle searching for the truth - which leads him from an unexpected encounter to a deadly one! But even finding the truth may come too late to save a noble hero of the Confederacy who has become Republic Enemy Number One!",
+  "synopsis": "Blamed for the death of a member of the royal family of Valahari, Anakin Skywalker is exiled to a remote outpost on Ryloth. Meanwhile, Obi-Wan Kenobi infiltrates the royal family's castle searching for the truth -- which leads him from an unexpected encounter to a deadly one! But even finding the truth may come too late to save a noble hero of the Confederacy who has become Republic Enemy Number One! * This series is a complement to Lucasfilm's The Clone Wars TV show!",
   "title": "The Clone Wars #11: Hero of the Confederacy, Part 2"
 }

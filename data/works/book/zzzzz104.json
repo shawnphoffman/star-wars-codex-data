@@ -11,6 +11,10 @@
   "displayTitle": "Jedi Apprentice: The Defenders of the Dead",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590519565"
+    },
+    {
       "type": "isbn13",
       "value": "9780590519564"
     }
@@ -20,6 +24,7 @@
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590519565",
       "isbn13": "9780590519564",
       "kind": "print",
       "onsale": "1999-12-01T00:00:00.000Z"

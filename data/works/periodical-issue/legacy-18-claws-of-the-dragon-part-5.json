@@ -5,6 +5,81 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "inker",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Brian Thies",
+      "role": "penciler",
+      "slug": "brian-thies"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Brian Albert Thies",
+      "role": "artist",
+      "slug": "brian-albert-thies"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "coverArtist",
+      "slug": "agustin-alessio"
     }
   ],
   "displayTitle": "Legacy #18: Claws of the Dragon, Part 5",
@@ -15,12 +90,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-01-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-18-claws-of-the-dragon-part-5",
-  "synopsis": "Hoping to free their friend Cade Skywalker from the clutches of the Sith, Deliah Blue and Jariah Syn receive help from a surprising source. And Cade, who was captured by the Sith while trying to free Jedi Hosk Trey'lis, discovers that Hosk has found his own path to freedom, via the Force.\nThe good, evil, and those in-between are coming together, and the result is going to shake the foundations of the Empire!\nThis is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before.",
+  "synopsis": "Hoping to free their friend Cade Skywalker from the clutches of the Sith, Deliah Blue and Jeriah Syn receive help from a surprising source. And Cade, who was captured by the Sith while trying to free Jedi Hosk Tre'Lyis, discovers that Hosk has found his own path to freedom, via the Force. The good, evil, and those in-between are coming together, and the result is going shake the foundations of the Empire! * This is the future of Star Wars, the continuation of the story that started in the original trilogy, and none of it has been seen before. The full story of Darth Krayt's origin is revealed!",
   "title": "Legacy #18: Claws of the Dragon, Part 5"
 }

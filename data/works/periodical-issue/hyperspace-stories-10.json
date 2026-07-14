@@ -10,6 +10,41 @@
       "name": "Andrea Mutti",
       "role": "artist",
       "slug": "andrea-mutti"
+    },
+    {
+      "name": "Riccardo Faccini",
+      "role": "artist",
+      "slug": "ricardo-faccini"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "colorist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Ricardo Faccini with Nicola Righi",
+      "role": "coverArtist",
+      "slug": "ricardo-faccini-with-nicola-righi"
+    },
+    {
+      "name": "Riccardo Faccini",
+      "role": "coverArtist",
+      "slug": "ricardo-faccini"
+    },
+    {
+      "name": "Nicola Righi",
+      "role": "coverArtist",
+      "slug": "nicola-righi"
+    },
+    {
+      "name": "Riccardo Faccini",
+      "role": "penciler",
+      "slug": "ricardo-faccini"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "coverArtist",
+      "slug": "tom-fowler"
     }
   ],
   "displayTitle": "Hyperspace Stories #10",
@@ -20,12 +55,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2023-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-10",
-  "synopsis": "Issue 10 of 12 of the Dark Horse Comics Hyperspace Stories Anthology Series\nJedi masters Yoda and Mace Windu escort a Republic delegation to an archaeological dig, rumored to be the site of a cache of ancient Jedi artifacts. But the lure of the Force is strong, and it's not long before the party comes under attack by marauders intent on taking the relics for themselves, even if they have to go through two Jedi to do it!",
+  "synopsis": "Trapped behind enemy lines! Surrounded on all sides by deadly battle droids! All in a day's work for the Bad Batch! While investigating reports of strange modified battle droids, the squad find themselves at the mercy of a sinister Separatist scientist, who plans on using the team as a part of his twisted experiments. Caught in a lethal game of cat and mouse, this mission may prove too dangerous even for the Bad Batch! Mad science and mayhem abound, in Star Wars: Hyperspace #10!",
   "title": "Hyperspace Stories #10"
 }

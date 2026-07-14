@@ -35,9 +35,69 @@
       "name": "Caspar Winjngaard",
       "role": "artist",
       "slug": "caspar-winjngaard"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Si Spurrier",
+      "role": "writer",
+      "slug": "si-spurrier"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "coverArtist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "inker",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "inker",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "inker",
+      "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Jon Adams",
+      "role": "penciler",
+      "slug": "jon-adams"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "penciler",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Caspar Wijngaard",
+      "role": "penciler",
+      "slug": "caspar-wijngaard"
     }
   ],
-  "displayTitle": "Age Of Rebellion Special",
+  "displayTitle": "Age of Rebellion Special (2019) #1",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -53,5 +113,5 @@
   "releaseStatus": "released",
   "slug": "age-of-rebellion-special",
   "synopsis": "This issue is a compilation of three separate stories about IG-88, Yoda, and X-Wing pilots Biggs and Porkins, written by Simon Spurrier, Marc Guggenheim, and Jon Adams, respectively.",
-  "title": "Age Of Rebellion Special"
+  "title": "Age of Rebellion Special (2019) #1"
 }

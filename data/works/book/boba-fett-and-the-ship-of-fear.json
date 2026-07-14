@@ -6,9 +6,40 @@
       "name": "Jeremy Barlow",
       "role": "writer",
       "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Daxiong",
+      "role": "penciler",
+      "slug": "daxiong"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Sean McNally",
+      "role": "coverArtist",
+      "slug": "sean-mcnally"
     }
   ],
   "displayTitle": "Adventures: Boba Fett And The Ship Of Fear",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781595824363"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781595824363",
+      "kind": "print",
+      "onsale": "2011-04-27T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

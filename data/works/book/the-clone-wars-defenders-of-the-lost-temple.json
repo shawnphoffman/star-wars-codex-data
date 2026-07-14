@@ -6,9 +6,42 @@
       "name": "Justin Aclin",
       "role": "writer",
       "slug": "justin-aclin"
+    },
+    {
+      "name": "Ben Bates",
+      "role": "penciler",
+      "slug": "ben-bates"
+    },
+    {
+      "name": "Ben Bates",
+      "role": "inker",
+      "slug": "ben-bates"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Mike Hawthorne",
+      "role": "coverArtist",
+      "slug": "mike-hawthorne"
     }
   ],
   "displayTitle": "The Clone Wars: Defenders of the Lost Temple",
+  "editions": [
+    {
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2013-03-13T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

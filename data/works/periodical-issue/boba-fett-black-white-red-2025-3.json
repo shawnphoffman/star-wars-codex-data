@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Juan Jose Ryp",
+      "role": "colorist",
+      "slug": "juan-jose-ryp"
+    },
+    {
+      "name": "Juan Jose Ryp",
+      "role": "inker",
+      "slug": "juan-jose-ryp"
+    },
+    {
+      "name": "Juan Jose Ryp",
+      "role": "penciler",
+      "slug": "juan-jose-ryp"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
+    },
+    {
+      "name": "Ethan Sacks",
+      "role": "writer",
+      "slug": "ethan-sacks"
+    }
+  ],
+  "displayTitle": "Boba Fett: Black, White & Red (2025) #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "boba-fett-black-white-red-2025-3",
+  "title": "Boba Fett: Black, White & Red (2025) #3"
+}

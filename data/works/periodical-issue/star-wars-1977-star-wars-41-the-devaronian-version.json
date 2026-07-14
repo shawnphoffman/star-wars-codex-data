@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Guy Major",
+      "role": "colorist",
+      "slug": "guy-major"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    }
+  ],
+  "displayTitle": "Star Wars #41: The Devaronian Version",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-05-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-41-the-devaronian-version",
+  "synopsis": "At last -- the truth about how Villie wound up on the prison planet Kiffex, the truth on how he defeated a Dark Jedi and duped the Jedi for his freedom, and the truth about why he took Quinlan Vos as his apprentice. Well, sort of the truth. Well, okay, maybe not the truth at all. It's the second part of THE DEVARONIAN VERSION, our rogue Vilmarh Grahrk's side of the story thus far. A good place for new readers and a fun revision for long time readers. And if you believe this, Villie has a nice moon called Nar Shaddaa he would like to sell you!",
+  "title": "Star Wars #41: The Devaronian Version"
+}

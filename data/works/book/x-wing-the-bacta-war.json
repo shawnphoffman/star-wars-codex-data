@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "X-Wing: The Bacta War",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553568043"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 349,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553568043",
+      "kind": "print",
+      "onsale": "1997-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
   },
-  "releaseDate": "1997-02-06T00:00:00.000Z",
+  "releaseDate": "1997-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-the-bacta-war",

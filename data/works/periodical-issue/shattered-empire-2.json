@@ -30,6 +30,56 @@
       "name": "Andres Mossa",
       "role": "artist",
       "slug": "andres-mossa"
+    },
+    {
+      "name": "Philip J. Noto",
+      "role": "coverArtist",
+      "slug": "philip-j-noto"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "penciler",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "penciler",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "inker",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "inker",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "inker",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
     }
   ],
   "displayTitle": "Shattered Empire #2",

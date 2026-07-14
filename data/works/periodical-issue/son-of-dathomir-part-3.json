@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Jeremy Barlow",
@@ -25,6 +25,31 @@
       "name": "Chris Scalf",
       "role": "artist",
       "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Juan Frigeri",
+      "role": "penciler",
+      "slug": "juan-frigeri"
+    },
+    {
+      "name": "Mauro Vargas",
+      "role": "inker",
+      "slug": "mauro-vargas"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Darth Maul: Son of Dathomir, Part 3",
@@ -35,12 +60,13 @@
   },
   "parentWorkSlug": "darth-maul-son-of-dathomir-2",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-07-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "son-of-dathomir-part-3",
-  "synopsis": "Darth Maul has captured Darth Sidious's new apprentice! Mother Talzinand Maul attempt to sway Count Dooku to their cause, revealing surprising facts about Maul's past. But an attack by an elite Jedi strike force throws everyone's plans into chaos!",
+  "synopsis": "Darth Maul has captured Darth Sidious’s new apprentice! Mother Talzin and Maul attempt to sway Count Dooku to their cause, revealing surprising facts about Maul’s past. But an attack by an elite Jedi strike force throws everyone’s plans into chaos! * Based on unaired episodes of the television series The Clone Wars!",
   "title": "Darth Maul: Son of Dathomir, Part 3"
 }

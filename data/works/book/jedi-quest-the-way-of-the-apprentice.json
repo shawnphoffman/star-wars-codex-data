@@ -11,11 +11,22 @@
   "displayTitle": "Jedi Quest: The Way of the Apprentice",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339170"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339179"
     }
   ],
   "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439339170",
+      "kind": "print",
+      "onsale": "2002-04-01T00:00:00.000Z"
+    },
     {
       "extent": 144,
       "imprint": "Scholastic",

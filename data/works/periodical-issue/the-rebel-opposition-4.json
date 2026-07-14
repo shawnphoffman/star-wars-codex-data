@@ -5,6 +5,50 @@
       "name": "Michael A. Stackpole",
       "role": "writer",
       "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Andy Mushynsky",
+      "role": "inker",
+      "slug": "andy-mushynsky"
+    },
+    {
+      "name": "Mike Baron",
+      "role": "writer",
+      "slug": "mike-baron"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "penciler",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Dave Nestelle",
+      "role": "colorist",
+      "slug": "dave-nestelle"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #04: The Rebel Opposition",
@@ -17,10 +61,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-10-31T00:00:00.000Z",
+  "releaseDate": "1995-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rebel-opposition-4",
-  "synopsis": "Tycho Celchu must make the hardest decision of his lifetime: choosing between saving his friends and supporting his cause. Disguised as an Imperial fighter pilot, Rogue Squadron flyer Tycho Celchu has successfully infiltrated the Imperial troops. But success turns sour when his TIE fighter unit encounters Wedge Antilles and Rogue Squadron! If he abandons his post with the Imperial fighters, he abandons the cause of the New Republic; but if he stands his ground, he risks killing his comrades. Either way this Rebel plays, he plays a losing game...",
+  "synopsis": "Tycho Celchu must make the hardest decision of his lifetime: choosing between saving his friends and supporting his cause. Disguised as an Imperial fighter pilot, Rogue Squadron flyer Tycho Celchu has successfully infiltrated the Imperial troops. But success turns sour when his TIE fighter unit encounters Wedge Antilles and Rogue Squadron! If he abandons his post with the Imperial fighters, he abandons the cause of the New Republic; but if he stands his ground, he risks killing his comrades. Either way this Rebel plays, he plays a losing game . . .",
   "title": "X-Wing Rogue Squadron #04: The Rebel Opposition"
 }

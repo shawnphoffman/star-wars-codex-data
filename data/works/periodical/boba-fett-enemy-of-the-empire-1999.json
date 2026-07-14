@@ -20,6 +20,41 @@
       "name": "Jim Amash",
       "role": "artist",
       "slug": "jim-amash"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jim Amash",
+      "role": "inker",
+      "slug": "jim-amash"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Brian Gregory",
+      "role": "colorist",
+      "slug": "brian-gregory"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire",

@@ -50,6 +50,131 @@
       "name": "Andrew Pepoy",
       "role": "artist",
       "slug": "andrew-pepoy"
+    },
+    {
+      "name": "Chris Gossett",
+      "role": "penciler",
+      "slug": "chris-gossett"
+    },
+    {
+      "name": "Janine Johnston",
+      "role": "penciler",
+      "slug": "janine-johnston"
+    },
+    {
+      "name": "David Roach",
+      "role": "penciler",
+      "slug": "david-roach"
+    },
+    {
+      "name": "Tony Akins",
+      "role": "penciler",
+      "slug": "tony-akins"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "penciler",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "penciler",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Mike Barreiro",
+      "role": "inker",
+      "slug": "mike-barreiro"
+    },
+    {
+      "name": "Denis Rodier",
+      "role": "inker",
+      "slug": "denis-rodier"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "inker",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "inker",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "inker",
+      "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Andrew Pepoy",
+      "role": "inker",
+      "slug": "andrew-pepoy"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Suzanne Bourdages",
+      "role": "colorist",
+      "slug": "suzanne-bourdages"
+    },
+    {
+      "name": "Rachelle Menashe",
+      "role": "colorist",
+      "slug": "rachelle-menashe"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "coverArtist",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Duncan Fegredo",
+      "role": "coverArtist",
+      "slug": "duncan-fegredo"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
+    },
+    {
+      "name": "Alexander McDaniel",
+      "role": "coverArtist",
+      "slug": "alexander-mcdaniel"
+    },
+    {
+      "name": "Steve Ellis",
+      "role": "coverArtist",
+      "slug": "steve-ellis"
     }
   ],
   "displayTitle": "Tales of the Jedi",
@@ -58,7 +183,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1993-10-19T00:00:00.000Z",
+  "releaseDate": "1993-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-2",

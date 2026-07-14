@@ -5,6 +5,51 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Stephen Thompson",
+      "role": "penciler",
+      "slug": "stephen-thompson"
+    },
+    {
+      "name": "Ivan Fernandez",
+      "role": "penciler",
+      "slug": "ivan-fernandez"
+    },
+    {
+      "name": "Mark Irwin",
+      "role": "inker",
+      "slug": "mark-irwin"
+    },
+    {
+      "name": "Denis Freitas",
+      "role": "inker",
+      "slug": "denis-freitas"
+    },
+    {
+      "name": "Drew Geraci",
+      "role": "inker",
+      "slug": "drew-geraci"
+    },
+    {
+      "name": "Jason Gorder",
+      "role": "inker",
+      "slug": "jason-gorder"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin",
@@ -16,7 +61,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2013-11-26T00:00:00.000Z",
+  "releaseDate": "2013-04-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-graphic-novel",

@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Dan Scott",
+      "role": "coverArtist",
+      "slug": "dan-scott"
     }
   ],
   "displayTitle": "Legacy #40: Tatooine, Part 4",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-09-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-40-tatooine-part-4",
-  "synopsis": "On Tatooine, Cade Skywalker has promised to think about what he's becoming, and the choices he's made - but he didn't say when. And before he'll have time to think, Cade has to get himself and his crew out of reach of the Empire and Black Sun! It's not true that you can't go home. You can, but getting away again is the hard part!",
+  "synopsis": "On Tatooine, Cade Skywalker has promised to think about what he's becoming, and the choices he's made -- but he didn't say when. And before he'll have time to think, Cade has to get himself and his crew out of reach of the Empire and Black Sun! It's not true that you can't go home. You can, but getting away again is the hard part!",
   "title": "Legacy #40: Tatooine, Part 4"
 }

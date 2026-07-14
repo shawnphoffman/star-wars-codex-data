@@ -5,6 +5,41 @@
       "name": "Mick Harrison",
       "role": "writer",
       "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    },
+    {
+      "name": "Douglas Wheatley",
+      "role": "artist",
+      "slug": "douglas-wheatley"
     }
   ],
   "displayTitle": "Dark Times #5: The Path to Nowhere",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "dark-times",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-10-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-05-the-path-to-nowhere-part-5",
-  "synopsis": "It's the end of a quest, but not the end of the road. Yet paths diverge, alliances are split, and doing the right thing has become a betrayal. The chaos of the Clone Wars and the darkness of Palpatine's Empire have allowed a smaller, more personal&mdash;but no less deadly&mdash;evil to flourish, and confronting it changes everything. After all he's done, can Dass Jennir still call himself a Jedi? After all that has happened, can Bomo Greenbark find the strength to go on?",
+  "synopsis": "It's the end of a quest, but not the end of the road. Yet paths diverge, alliances are split, and doing the right thing has become a betrayal. The chaos of the Clone Wars and the darkness of Palpatine's Empire have allowed a smaller, more personal-but no less deadly-evil to flourish, and confronting it changes everything. After all he's done, can Dass Jennir still call himself a Jedi? After all that has happened, can Bomo Greenbark find the strength to go on? The first story arc set in this new, uncharted era of Star Wars history reaches an unexpected conclusion. Quite possibly the darkest Star Wars story you'll ever read! * Moving into the new, unexplored territory of the time period immediately following Revenge of the Sith.",
   "title": "Dark Times #5: The Path to Nowhere"
 }

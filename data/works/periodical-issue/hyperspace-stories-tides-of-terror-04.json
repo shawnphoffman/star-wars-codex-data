@@ -5,6 +5,26 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Luis Morocho",
+      "role": "penciler",
+      "slug": "luis-morocho"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "inker",
+      "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
     }
   ],
   "displayTitle": "Hyperspace Stories: Tides of Terror #04",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-tides-of-terror-2",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-12-03T00:00:00.000Z",
+  "releaseDate": "2026-01-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-tides-of-terror-04",
-  "synopsis": "Issue 4 of 4 from Dark Horse Comics Hyperspace Stories Tides of Terror\nAfter making a startling discovery about the cause of the disaster, Jedi Master Kit Fisto dives to the sea floor in a last-ditch effort to rescue those trapped on the sinking Axil Research Station. Among the submerged ruins, he comes face-to-face with the fearsome Xorfin. Can Fisto best the monsters and save the station, or will the remaining researchers become leviathan food?",
+  "synopsis": "After making a startling discovery about the cause of the disaster, Jedi Master Kit Fisto dives to the sea floor in a last-ditch effort to rescue those trapped on the sinking Axil Research Station. Among the submerged ruins, he comes face-to-face with the fearsome Xorfin. Can Fisto best the monsters and save the station, or will the remaining researchers become leviathan food? • Series finale!",
   "title": "Hyperspace Stories: Tides of Terror #04"
 }

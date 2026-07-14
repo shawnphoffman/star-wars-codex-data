@@ -1,5 +1,27 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Justin Aclin",
+      "role": "director",
+      "slug": "justin-aclin"
+    },
+    {
+      "name": "Justin Aclin",
+      "role": "writer",
+      "slug": "justin-aclin"
+    },
+    {
+      "name": "Peter Chan",
+      "role": "artist",
+      "slug": "peter-chan"
+    },
+    {
+      "name": "Peter McConnell",
+      "role": "composer",
+      "slug": "peter-mcconnell"
+    }
+  ],
   "displayTitle": "Jedi Knight: Dark Forces II",
   "era": "newRepublic",
   "format": "videoGame",
@@ -7,6 +29,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-jedi-knight-dark-forces-ii",
-  "synopsis": "Jedi Knight: Dark Forces II picks up where the award-winning Dark Forces™ game left off...with even more features and firepower in dazzling 3D graphics. As Kyle Katarn, you must acquire a lightsaber and learn the ways of the Force to become a Jedi Knight.",
+  "synopsis": "Jedi Knight: Dark Forces II picks up where the award-winning Dark Forces game left off...with even more features and firepower in dazzling 3D graphics. As Kyle Katarn, you must acquire a lightsaber and learn the ways of the Force to become a Jedi Knight.",
   "title": "Star Wars Jedi Knight: Dark Forces II"
 }

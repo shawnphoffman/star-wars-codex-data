@@ -21,13 +21,13 @@
   ],
   "editions": [
     {
-      "extent": 240,
-      "imprint": "Disney-Lucasfilm Press",
+      "extent": 272,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368068006",
       "isbn13": "9781368068000",
       "kind": "print",
-      "onsale": "2022-01-04T00:00:00.000Z"
+      "onsale": "2022-03-01T00:00:00.000Z"
     }
   ],
   "era": "highRepublic",
@@ -35,7 +35,7 @@
   "inUniverseDate": {
     "startYear": -230
   },
-  "releaseDate": "2022-01-04T00:00:00.000Z",
+  "releaseDate": "2022-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "mission-to-disaster",

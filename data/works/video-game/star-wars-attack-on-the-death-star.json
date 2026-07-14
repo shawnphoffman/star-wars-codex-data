@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mikito Ichikawa",
+      "role": "producer",
+      "slug": "mikito-ichikawa"
+    },
+    {
+      "name": "Toshiyuki Kuwahara",
+      "role": "artist",
+      "slug": "toshiyuki-kuwahara"
+    },
+    {
+      "name": "Yuzo Koshiro",
+      "role": "composer",
+      "slug": "yuzo-koshiro"
+    }
+  ],
   "displayTitle": "Attack on the Death Star",
   "era": "ageOfRebellion",
   "format": "videoGame",

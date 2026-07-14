@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Maverick Moon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394840879"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 29,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394840879",
+      "kind": "print",
+      "onsale": "1979-03-12T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 1

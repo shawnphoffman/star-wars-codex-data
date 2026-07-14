@@ -11,6 +11,14 @@
   "displayTitle": "Knight Errant",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593726057"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345522641"
+    },
+    {
       "type": "isbn13",
       "value": "9780593726051"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 400,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593726051",
+      "isPrimary": false,
+      "isbn13": "9780345522641",
       "kind": "print",
       "onsale": "2011-01-25T00:00:00.000Z"
+    },
+    {
+      "extent": 384,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593726057",
+      "isbn13": "9780593726051",
+      "kind": "print",
+      "onsale": "2024-02-06T00:00:00.000Z"
     }
   ],
   "era": "oldRepublic",
@@ -34,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant",
-  "synopsis": "Jedi Kerra Holt must team up with her enemy’s allies if she has any hope of defeating the Sith Lords threatening not just the Order, but the entire galaxy.",
+  "synopsis": "Jedi Kerra Holt must team up with her enemy's allies if she has any hope of defeating the Sith Lords threatening not just the Order, but the entire galaxy.",
   "title": "Knight Errant"
 }

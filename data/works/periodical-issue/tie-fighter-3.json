@@ -20,6 +20,41 @@
       "name": "Tommy Lee Edwards",
       "role": "coverArtist",
       "slug": "tommy-lee-edwards"
+    },
+    {
+      "name": "Lee Loughridge",
+      "role": "colorist",
+      "slug": "lee-loughridge"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "colorist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Geraldo Borges",
+      "role": "inker",
+      "slug": "geraldo-borges"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "inker",
+      "slug": "roge-antonio"
+    },
+    {
+      "name": "Roge Antonio",
+      "role": "penciler",
+      "slug": "roge-antonio"
     }
   ],
   "displayTitle": "TIE Fighter #3",

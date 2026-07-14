@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0345442970"
+    },
+    {
+      "type": "isbn10",
       "value": "0345442989"
     },
     {
@@ -29,12 +33,13 @@
       "onsale": "2001-05-29T00:00:00.000Z"
     },
     {
-      "extent": 342,
-      "imprint": "Del Rey",
+      "extent": 368,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345442970",
       "isbn13": "9780345442970",
       "kind": "print",
-      "onsale": "2001-05-29T00:00:00.000Z"
+      "onsale": "2002-06-25T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

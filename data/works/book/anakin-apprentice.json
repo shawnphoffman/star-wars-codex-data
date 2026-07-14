@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Anakin: Apprentice",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780375814631"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn13": "9780375814631",
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

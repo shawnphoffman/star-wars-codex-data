@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 8: Togorian Trap",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590129929"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 76,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590129929",
+      "kind": "print",
+      "onsale": "1998-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

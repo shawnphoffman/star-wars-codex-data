@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
     }
   ],
   "displayTitle": "Legacy #47: The Fate of Dac",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-04-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-47-the-fate-of-dac",
-  "synopsis": "The Sith poison the waters of the ocean planet of Dac in an effort to wipe out every living thing&mdash;but Admiral Gar Stazi isn't ready to abandon the native Mon Calamari without an attempt at evacuation. Time is against him, and securing the assistance of his new Imperial allies will decide whether this rescue is a success&hellip;or a suicide! Rogue Squadron returns!",
+  "synopsis": "The Sith poison the waters of the ocean planet of Dac in an effort to wipe out every living thing-but Admiral Gar Stazi isn't ready to abandon the native Mon Calamari without an attempt at evacuation. Time is against him, and securing the assistance of his new Imperial allies will decide whether this rescue is a success . . . or a suicide! The Rogue Squadron returns!",
   "title": "Legacy #47: The Fate of Dac"
 }

@@ -5,6 +5,31 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Chic Stone",
+      "role": "inker",
+      "slug": "chic-stone"
+    },
+    {
+      "name": "Gene Day",
+      "role": "inker",
+      "slug": "gene-day"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
     }
   ],
   "displayTitle": "Star Wars (1977) #45: Death Probe",

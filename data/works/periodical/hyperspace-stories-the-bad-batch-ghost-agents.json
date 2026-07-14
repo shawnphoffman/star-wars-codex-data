@@ -15,6 +15,31 @@
       "name": "Elisabetta D'Amico",
       "role": "artist",
       "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Valeria \"Lux\" Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-lux-favoccia"
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents",
@@ -23,8 +48,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
-  "releaseStatus": "announced",
+  "releaseDate": "2025-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-ghost-agents",
   "synopsis": "After a daring operation on the planet Kessel, the Bad Batch have caught up with the masked thief who stole vital intel from Coruscant. But be careful what you wish for, clones! Because this burglar is no ordinary crook: they are a dark side Force user who wields a lightsaber with deadly precision. Can the Bad Batch get close enough to unveil their mysterious foe and retrieve the intel?",
   "title": "Hyperspace Stories: The Bad Batch: Ghost Agents"

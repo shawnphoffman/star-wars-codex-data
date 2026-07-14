@@ -11,6 +11,10 @@
   "displayTitle": "Darth Bane: Dynasty of Evil",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511565"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511560"
     }
@@ -20,6 +24,7 @@
       "extent": 296,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511565",
       "isbn13": "9780345511560",
       "kind": "print",
       "onsale": "2010-09-28T00:00:00.000Z"

@@ -9,11 +9,25 @@
     }
   ],
   "displayTitle": "Elee & Me",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781368065603"
+    }
+  ],
   "editions": [
     {
       "extent": 48,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-11-03T00:00:00.000Z"
+    },
+    {
+      "extent": 48,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368065603",
       "kind": "print",
       "onsale": "2020-11-03T00:00:00.000Z"
     }

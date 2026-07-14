@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "colorist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "inker",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "penciler",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Blood Ties: Boba Fett is Dead #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "blood-ties-boba-fett-is-dead-2012",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-07-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "blood-ties-boba-fett-is-dead-2012-4",
-  "synopsis": "The man behind the murder of Boba Fett has sent his army of mercenaries to kill Fett's ex-wife and child, and Boba's half-brother Connor Freeman. But what if Boba Fett isn't quite as dead as everyone thinks? Then there might be... Hell. To. Pay.",
+  "synopsis": "The man behind the murder of Boba Fett has sent his army of mercenaries to kill Fett’s ex-wife and child, and Boba’s half-brother Connor Freeman. But what if Boba Fett isn’t quite as dead as everyone thinks? Then there might be . . . Hell. To. Pay. *Back from the dead!",
   "title": "Blood Ties: Boba Fett is Dead #4"
 }

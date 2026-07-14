@@ -6,15 +6,66 @@
       "name": "Cavan Scott",
       "role": "writer",
       "slug": "cavan-scott"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "penciler",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Juan Samu",
+      "role": "penciler",
+      "slug": "juan-samu"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "penciler",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Rafael Pérez",
+      "role": "penciler",
+      "slug": "rafael-prez"
+    },
+    {
+      "name": "Roman Stevens",
+      "role": "colorist",
+      "slug": "roman-stevens"
+    },
+    {
+      "name": "DJ Chavis",
+      "role": "colorist",
+      "slug": "dj-chavis"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "coverArtist",
+      "slug": "kelley-jones"
     }
   ],
   "displayTitle": "Tales from the Rancor Pit",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506732848"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 56,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506732848",
+      "kind": "print",
+      "onsale": "2022-11-23T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
   },
-  "releaseDate": "2023-01-03T00:00:00.000Z",
+  "releaseDate": "2022-11-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-rancor-pit",

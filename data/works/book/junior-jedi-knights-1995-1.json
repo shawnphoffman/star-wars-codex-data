@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Junior Jedi Knights: The Golden Globe",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0425168255"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 116,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "0425168255",
+      "kind": "print",
+      "onsale": "1995-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

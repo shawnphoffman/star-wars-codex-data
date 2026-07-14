@@ -5,9 +5,14 @@
       "name": "Dave Filoni",
       "role": "writer",
       "slug": "dave-filoni"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
     }
   ],
-  "displayTitle": "The SIth Lord",
+  "displayTitle": "The Sith Lord",
   "era": "fallOfTheJedi",
   "format": "tvEpisode",
   "inUniverseDate": {

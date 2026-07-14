@@ -1,5 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Casey Lowe",
+      "role": "director",
+      "slug": "casey-lowe"
+    },
+    {
+      "name": "James Eason-Garcia",
+      "role": "writer",
+      "slug": "james-eason-garcia"
+    }
+  ],
   "displayTitle": "The Terror of Tenoo",
   "era": "highRepublic",
   "format": "tvEpisode",

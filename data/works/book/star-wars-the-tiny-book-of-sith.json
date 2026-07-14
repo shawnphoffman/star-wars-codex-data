@@ -1,0 +1,37 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    }
+  ],
+  "displayTitle": "The Tiny Book of Sith",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781683839514"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9781683839514",
+      "kind": "print",
+      "onsale": "2021-04-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-04-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-tiny-book-of-sith",
+  "title": "Star Wars: The Tiny Book of Sith"
+}

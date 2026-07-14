@@ -5,6 +5,81 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "inker",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "penciler",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "writer",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Corinna Bechko",
+      "role": "writer",
+      "slug": "corinna-bechko"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy #02: Broken, Part 2",
@@ -15,12 +90,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2006-07-12T00:00:00.000Z",
+  "releaseDate": "2006-07-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-02-broken-part-2",
-  "synopsis": "Over the bodies of their enemies, two Jedi make a pact that will set them on the path to a greater danger than they have ever known&hellip; Bounty hunters capture a prisoner whose presence will test their resolve&mdash;and the strength of their alliance&hellip; A Sith apprentice is given the honorific \"Darth\" and sent to hunt a quarry whose capture&mdash;or death&mdash;could shake an empire to its foundations&hellip; And a Princess finds herself alone in the galaxy, pursued by those she once counted as allies. This is only the second issue of the new ongoing series Star Wars: Legacy and alread",
+  "synopsis": "Over the bodies of their enemies, two Jedi make a pact that will set them on the path to a greater danger than they have ever known . . . Bounty hunters capture a prisoner whose presence will test their resolve-and the strength of their alliance . . . A Sith apprentice is given the honorific \"Darth\" and sent to hunt a quarry whose capture-or death-could shake an empire to its foundations . . . And a Princess finds herself alone in the galaxy, pursued by those she once counted as allies. This is only the second issue of the new ongoing series Star Wars: Legacy and already there's more adventure and more intrigue than we can even hint at!",
   "title": "Legacy #02: Broken, Part 2"
 }

@@ -6,10 +6,19 @@
       "name": "Terry Brooks",
       "role": "writer",
       "slug": "terry-brooks"
+    },
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
     }
   ],
   "displayTitle": "Episode I The Phantom Menace",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345427653"
+    },
     {
       "type": "isbn13",
       "value": "9780345427656"
@@ -17,9 +26,17 @@
   ],
   "editions": [
     {
+      "extent": 96,
+      "imprint": "Sandvik Publishing",
+      "isPrimary": false,
+      "kind": "print",
+      "onsale": "2019-05-01T00:00:00.000Z"
+    },
+    {
       "extent": 324,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345427653",
       "isbn13": "9780345427656",
       "kind": "print",
       "onsale": "1999-04-21T00:00:00.000Z"

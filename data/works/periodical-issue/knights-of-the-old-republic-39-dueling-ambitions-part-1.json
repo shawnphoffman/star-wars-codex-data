@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Daryl Mandryk",
+      "role": "coverArtist",
+      "slug": "daryl-mandryk"
     }
   ],
   "displayTitle": "Knights of the Old Republic #39: Dueling Ambitions, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-03-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-39-dueling-ambitions-part-1",
-  "synopsis": "Combat sports and high-speed racing in the Old Republic! Zayne and Gryph&mdash;now partners in \"crime\"&mdash;along with Jarael and Rohlan, prepare to rip off the big-business world of sport dueling. Gryph has himself in the perfect position for the con, until Zayne enters himself into the Open, Jarael becomes oddly distracted, and even Rohlan finds himself taking part in the duels. If that weren't enough, veteran warrior Goethar Kleej inexplicably forces upon Zayne an incredible handicap...",
+  "synopsis": "Combat sports and high-speed racing in the Old Republic! Zayne and Gryph -- now partners in \"crime\" -- along with Jarael and Rohlan, prepare to rip off the big-business world of sport dueling. Gryph has himself in the perfect position for the con, until Zayne enters himself into the Open, Jarael becomes oddly distracted, and even Rohlan finds himself taking part in the duels. If that weren't enough, veteran warrior Goethar Kleej inexplicably forces upon Zayne an incredible handicap . . .",
   "title": "Knights of the Old Republic #39: Dueling Ambitions, Part 1"
 }

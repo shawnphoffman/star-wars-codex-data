@@ -1,0 +1,54 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "coverArtist",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Francesco Mattina",
+      "role": "coverArtist",
+      "slug": "francesco-mattina"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "David Curiel",
+      "role": "colorist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Daniele Orlandini",
+      "role": "inker",
+      "slug": "daniele-orlandini"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
+    }
+  ],
+  "displayTitle": "Darth Vader (2017) #8",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "darth-vader-2015",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "darth-vader-2015-darth-vader-2017-8",
+  "title": "Darth Vader (2017) #8"
+}

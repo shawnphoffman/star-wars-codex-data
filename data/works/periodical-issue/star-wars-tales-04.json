@@ -1,5 +1,121 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Teranishi",
+      "role": "penciler",
+      "slug": "robert-teranishi"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Sergio Aragones",
+      "role": "penciler",
+      "slug": "sergio-aragones"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "penciler",
+      "slug": "ramon-bachs"
+    },
+    {
+      "name": "Lovern Kindzierski",
+      "role": "writer",
+      "slug": "lovern-kindzierski"
+    },
+    {
+      "name": "Mark Evanier",
+      "role": "writer",
+      "slug": "mark-evanier"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kevin Rubio",
+      "role": "writer",
+      "slug": "kevin-rubio"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "letterer",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Tom Luth",
+      "role": "colorist",
+      "slug": "tom-luth"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "writer",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Sergio Aragones",
+      "role": "writer",
+      "slug": "sergio-aragones"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "inker",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Sergio Aragones",
+      "role": "inker",
+      "slug": "sergio-aragones"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "inker",
+      "slug": "ramon-bachs"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    }
+  ],
   "displayTitle": "Tales #04",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +127,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-04",
-  "synopsis": "Kevin Rubio, creator of the hilarious short film Troops, lends his bit of craziness to this month's Tales. Lovern Kindzierski and fan-favorite Doug Wheatley (Aliens: Apocalypse) team up to spin a yarn. And Kilian Plunkett's comical \"Sandblasted\" follows up on the acclaimed adventures of Jabba the Hutt's nefarious swoop thugs, Big Gizz and Spiker, who encounter a dark trooper in the ruins of Tatooine's Podracing arena. The trooper is malfunctioning, but its weapons systems are still fully functional! Mayhem ensues.",
+  "synopsis": "Kevin Rubio, creator of the hilarious short film Troops, lends his bit of craziness to this month's Tales. Lovern Kindzierski and fan-favorite Doug Wheatley (Aliens: Apocalypse) team up to spin a yarn. And Kilian Plunkett's comical \"Sandblasted \" follows up on the acclaimed adventures of Jabba the Hutt's nefarious swoop thugs, Big Gizz and Spiker, who encounter a dark trooper in the ruins of Tatooine's Podracing arena. The trooper is malfunctioning, but its weapons systems are still fully functional! Mayhem ensues.",
   "title": "Star Wars Tales #04"
 }

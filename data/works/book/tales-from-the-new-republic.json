@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tales from the New Republic",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553578829"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553578829",
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

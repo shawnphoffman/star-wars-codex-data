@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "X-Wing: The Krytos Trap",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553568035"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 355,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553568035",
+      "kind": "print",
+      "onsale": "1996-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 7
   },
-  "releaseDate": "1996-10-02T00:00:00.000Z",
+  "releaseDate": "1996-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-the-krytos-trap",

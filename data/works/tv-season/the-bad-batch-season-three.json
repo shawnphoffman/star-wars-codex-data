@@ -1,5 +1,62 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    },
+    {
+      "name": "Deana Kiner",
+      "role": "composer",
+      "slug": "deana-kiner"
+    },
+    {
+      "name": "Sean Kiner",
+      "role": "composer",
+      "slug": "sean-kiner"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Kevin Kiner",
+      "role": "composer",
+      "slug": "kevin-kiner"
+    },
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Dave Filoni",
+      "role": "producer",
+      "slug": "dave-filoni"
+    },
+    {
+      "name": "Athena Portillo",
+      "role": "producer",
+      "slug": "athena-portillo"
+    },
+    {
+      "name": "Jennifer Corbett",
+      "role": "producer",
+      "slug": "jennifer-corbett"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "producer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Brad Rau",
+      "role": "director",
+      "slug": "brad-rau"
+    }
+  ],
   "displayTitle": "The Bad Batch Season 3",
   "era": "reignOfTheEmpire",
   "format": "tvSeason",

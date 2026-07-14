@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "coverArtist",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Knights of the Old Republic #16: Nights of Anger, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2007-05-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-16-nights-of-anger-part-1",
-  "synopsis": "A brand new story arc begins, launching a captivating tale of power, prejudice, and a past that can no longer be outrun! When Camper, the senile owner of The Last Resort, falls frighteningly ill, his young protector Jarael will risk everything to try and save him, even if that means seeking a cure on Arkania, a homeworld she has never seen, where genetic \"offshoots\" like her and Camper are despised, even criminalized. Yet, once on Arkania, Jarael's troubles will run more than skin deep, for if her intentions are revealed, powerful forces that have been hunting Camper for years will stop at not",
+  "synopsis": "A brand new story arc begins, launching a captivating tale of power, prejudice, and a past that can no longer be outrun! When Camper, the senile owner of the Last Resort, falls frighteningly ill, his young protector Jarael will risk everything to try and save him, even if that means seeking a cure on Arkania, a homeworld she has never seen, where genetic \"offshoots\" like her and Camper are despised, even criminalized. Yet, once on Arkania, Jarael's troubles will run more than skin deep, for if her intentions are revealed, powerful forces that have been hunting Camper for years will stop at nothing to reclaim the elderly refugee-and the terrible secret he carries within him! Life in the Old Republic takes a troubling turn in \"Nights of Anger,\" a perfect jumping on point for anyone who hasn't taken the plunge into one of the most thrilling comics in the galaxy!",
   "title": "Knights of the Old Republic #16: Nights of Anger, Part 1"
 }

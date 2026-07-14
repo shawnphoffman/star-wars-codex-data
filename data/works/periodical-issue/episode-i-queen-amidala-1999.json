@@ -1,0 +1,64 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    },
+    {
+      "name": "Galen Showman",
+      "role": "penciler",
+      "slug": "galen-showman"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Lisa Stamp",
+      "role": "colorist",
+      "slug": "lisa-stamp"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Tim Bradstreet",
+      "role": "coverArtist",
+      "slug": "tim-bradstreet"
+    },
+    {
+      "name": "Timothy Bradstreet",
+      "role": "coverArtist",
+      "slug": "timothy-bradstreet"
+    }
+  ],
+  "displayTitle": "Episode I: Queen Amidala",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "episode-i-queen-amidala-1999",
+  "synopsis": "Her world has been blockaded and her people imprisoned, but the Young Queen Amidala, so recently elected to the throne of Naboo, is a teenager of uncommon wisdom. Exiled from her home and spirited away by a pair of Jedi, Amidala will look upon every experience as a potential key to her world's problems. But her salvation may rest in the hands of another . . . perhaps where she least expects it!",
+  "title": "Episode I: Queen Amidala"
+}

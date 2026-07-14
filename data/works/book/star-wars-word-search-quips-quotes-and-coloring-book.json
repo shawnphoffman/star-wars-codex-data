@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "Word Search, Quips, Quotes and Coloring Book",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781667214474"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Thunder Bay Press",
+      "isPrimary": true,
+      "isbn13": "9781667214474",
+      "kind": "print",
+      "onsale": "2027-04-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-04-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-word-search-quips-quotes-and-coloring-book",
+  "title": "Star Wars Word Search, Quips, Quotes and Coloring Book"
+}

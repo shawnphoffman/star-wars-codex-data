@@ -1,0 +1,54 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Mayhew",
+      "role": "colorist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "inker",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "penciler",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Ben Acker",
+      "role": "writer",
+      "slug": "ben-acker"
+    },
+    {
+      "name": "Ben Blacker",
+      "role": "writer",
+      "slug": "ben-blacker"
+    }
+  ],
+  "displayTitle": "The Last Jedi: The Storms of Crait (2017) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-last-jedi-the-storms-of-crait-2017",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-last-jedi-the-storms-of-crait-2017-1-2",
+  "title": "The Last Jedi: The Storms of Crait (2017) #1"
+}

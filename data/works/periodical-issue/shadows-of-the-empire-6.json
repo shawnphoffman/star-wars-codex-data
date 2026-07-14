@@ -5,6 +5,45 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "letterer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Shadows of the Empire #6",
@@ -21,6 +60,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-6",
-  "synopsis": "Leia has been captured by Prince Xizor, underlord of the galaxy's most ruthless criminal organization, and Han Solo has been encased in carbonite by Darth Vader, a package Boba Fett intends to deliver to Jabba the Hutt. As the Rebels approach their most deperate[sic] hour, it appears as though their long battle may be at an end. But looks can be deceiving in the Shadows of the Empire!",
+  "synopsis": "Leia has been captured by Prince Xizor, underlord of the galaxy's most ruthless criminal organization, and Han Solo has been encased in carbonite by Darth Vader, a package Boba Fett intends to deliver to Jabba the Hutt. As the Rebels approach their most deperate hour, it appears as though their long battle may be at an end. But looks can be deceiving in the Shadows of the Empire!",
   "title": "Shadows of the Empire #6"
 }

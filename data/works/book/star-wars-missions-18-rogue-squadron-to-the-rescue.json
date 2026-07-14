@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Missions 18: Rogue Squadron to the Rescue",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "059084430X"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 75,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "059084430X",
+      "kind": "print",
+      "onsale": "1999-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

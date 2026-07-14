@@ -5,6 +5,36 @@
       "name": "Michael Moreci",
       "role": "writer",
       "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Bobby Bradford",
+      "role": "letterer",
+      "slug": "bobby-bradford"
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents #1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2025-12-17T00:00:00.000Z",
+  "releaseDate": "2025-12-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "hyperspace-stories-the-bad-batch-rogue-agents-2025-1",
-  "synopsis": "Issue 1 of 4 from Dark Horse Comics Hyperspace Stories: The Bad Batch: Rogue Agents miniseries\nWhen a Separatist scientist and his dangerous invention go missing during the Clone Wars, Clone Force 99 is sent to track him down and prevent the device from falling into the wrong hands. But when Hunter, Wrecker, Crosshair, and Tech arrive at the scientist’s abandoned laboratory, they quickly realize that they aren’t the only ones on his trail, and that this mission will be different than any they’ve faced before!",
+  "synopsis": "The Bad Batch is back! When a Separatist scientist and his dangerous invention go missing during the Clone Wars, Clone Force 99 is sent to track him down and prevent the device from falling into the wrong hands. But when Hunter, Wrecker, Crosshair, and Tech arrive at the scientist’s abandoned laboratory, they quickly realize that they aren’t the only ones on his trail . . . and that this mission will be different than any that they’ve faced before! • The team behind The Bad Batch: Ghost Agents returns! • Clone Force 99 is on the hunt for a Separatist scientist! • Four-issue series.",
   "title": "Hyperspace Stories: The Bad Batch: Rogue Agents #1"
 }

@@ -12,7 +12,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "1484705661"
+    },
+    {
+      "type": "isbn10",
       "value": "1484782313"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736449076"
     },
     {
       "type": "isbn13",
@@ -22,12 +30,28 @@
   "editions": [
     {
       "extent": 356,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Disney–Lucasfilm Press *Gakken",
+      "isPrimary": false,
+      "isbn10": "1484705661",
+      "kind": "print",
+      "onsale": "2016-10-11T00:00:00.000Z"
+    },
+    {
+      "extent": 24,
+      "imprint": "Random House/Star Wars",
+      "isPrimary": false,
+      "isbn13": "9780736449076",
+      "kind": "print",
+      "onsale": "2027-01-05T00:00:00.000Z"
+    },
+    {
+      "extent": 384,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1484782313",
       "isbn13": "9781484782316",
       "kind": "print",
-      "onsale": "2016-10-11T00:00:00.000Z"
+      "onsale": "2017-10-03T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

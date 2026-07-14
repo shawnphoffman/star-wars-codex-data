@@ -1,0 +1,53 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ken Lashley",
+      "role": "coverArtist",
+      "slug": "ken-lashley"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Sara Pichelli",
+      "role": "inker",
+      "slug": "sara-pichelli"
+    },
+    {
+      "name": "Sara Pichelli",
+      "role": "penciler",
+      "slug": "sara-pichelli"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Juan Fernandez",
+      "role": "coverArtist",
+      "slug": "juan-fernandez"
+    },
+    {
+      "name": "Alyssa Wong",
+      "role": "writer",
+      "slug": "alyssa-wong"
+    }
+  ],
+  "displayTitle": "Boba Fett: Black, White & Red (2025) #4",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "boba-fett-black-white-red-2025-4",
+  "title": "Boba Fett: Black, White & Red (2025) #4"
+}

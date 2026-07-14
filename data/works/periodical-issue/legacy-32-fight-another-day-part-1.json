@@ -5,6 +5,36 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "inker",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "penciler",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "artist",
+      "slug": "omar-francia"
+    },
+    {
+      "name": "Omar Francia",
+      "role": "coverArtist",
+      "slug": "omar-francia"
     }
   ],
   "displayTitle": "Legacy #32: Fight Another Day, Part 1",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-01-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-32-fight-another-day-part-1",
-  "synopsis": "Darth Krayt's program to exterminate the Mon Calamari is still in progress, with only the Mon Cal Rangers standing between the refugee populace and certain doom. Now a Sith scientist has a new weapon against which the Rangers are powerless. Faced with a choice between allowing refugees to perish and sacrificing themselves in a fruitless delaying action, the Rangers turn to an unexpected&mdash;and reluctant&mdash;source for help.",
+  "synopsis": "Darth Krayt's program to exterminate the Mon Calamari is still in progress, with only the Mon Cal Rangers standing between the refugee populace and certain doom. Now a Sith scientist has a new weapon against which the Rangers are powerless. Faced with a choice between allowing refugees to perish and sacrificing themselves in a fruitless delaying action, the Rangers turn to an unexpected-and reluctant-source for help. \"Star Wars: Legacy took a gamble by jumping the Star Wars saga one hundred years past what we knew about it and it has paid off. It's a great series.\" -BlogCritics.com",
   "title": "Legacy #32: Fight Another Day, Part 1"
 }

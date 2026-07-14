@@ -15,6 +15,16 @@
       "value": "9781419756283"
     }
   ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn13": "9781419756283",
+      "kind": "print",
+      "onsale": "2021-09-28T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "periodical": {

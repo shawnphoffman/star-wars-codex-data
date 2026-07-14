@@ -35,6 +35,36 @@
       "name": "Chris Fenoglio",
       "role": "artist",
       "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "penciler",
+      "slug": "jon-sommariva"
+    },
+    {
+      "name": "Mauricet",
+      "role": "penciler",
+      "slug": "mauricet"
+    },
+    {
+      "name": "Matt Herms",
+      "role": "colorist",
+      "slug": "matt-herms"
+    },
+    {
+      "name": "Chris Fenoglio",
+      "role": "colorist",
+      "slug": "chris-fenoglio"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Jon Sommariva",
+      "role": "coverArtist",
+      "slug": "jon-sommariva"
     }
   ],
   "displayTitle": "Adventures Annual 2018 - The Lost Eggs Of Livorno",

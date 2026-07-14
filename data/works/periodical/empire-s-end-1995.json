@@ -15,6 +15,31 @@
       "name": "Jim Baikie",
       "role": "artist",
       "slug": "jim-baikie"
+    },
+    {
+      "name": "Jim Baikie",
+      "role": "penciler",
+      "slug": "jim-baikie"
+    },
+    {
+      "name": "Jim Baikie",
+      "role": "inker",
+      "slug": "jim-baikie"
+    },
+    {
+      "name": "Jim Baikie",
+      "role": "colorist",
+      "slug": "jim-baikie"
+    },
+    {
+      "name": "Lois Buhalis",
+      "role": "letterer",
+      "slug": "lois-buhalis"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Empire's End",
@@ -23,7 +48,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-10-24T00:00:00.000Z",
+  "releaseDate": "1995-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-s-end-1995",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Darksaber",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553099744"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553099744",
+      "kind": "print",
+      "onsale": "1995-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: Against the Empire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439681413"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 146,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439681413",
+      "kind": "print",
+      "onsale": "2007-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

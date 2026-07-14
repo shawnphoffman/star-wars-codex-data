@@ -5,6 +5,41 @@
       "name": "Tom Veitch",
       "role": "writer",
       "slug": "tom-veitch"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "colorist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "inker",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "penciler",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Todd Klein",
+      "role": "letterer",
+      "slug": "todd-klein"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "artist",
+      "slug": "cam-kennedy"
+    },
+    {
+      "name": "Barbara Kesel",
+      "role": "editor",
+      "slug": "barbara-kesel"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Dark Empire #3: The Battle for Calamari",
@@ -17,7 +52,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1992-04-21T00:00:00.000Z",
+  "releaseDate": "1992-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-empire-3-the-battle-for-calamari",

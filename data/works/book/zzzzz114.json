@@ -11,11 +11,22 @@
   "displayTitle": "Jedi Apprentice: The Call to Vengeance",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "043913935X"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139359"
     }
   ],
   "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "043913935X",
+      "kind": "print",
+      "onsale": "2001-12-01T00:00:00.000Z"
+    },
     {
       "extent": 144,
       "imprint": "Scholastic",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "X-Wing: Wraith Squadron",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553578942"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 432,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553578942",
+      "kind": "print",
+      "onsale": "1998-02-02T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

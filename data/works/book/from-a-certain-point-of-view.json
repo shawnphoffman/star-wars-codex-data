@@ -216,10 +216,19 @@
       "name": "Tom Angleberger",
       "role": "writer",
       "slug": "tom-angleberger"
+    },
+    {
+      "name": "43 authors",
+      "role": "writer",
+      "slug": "43-authors"
     }
   ],
   "displayTitle": "From a Certain Point of View",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511476"
+    },
     {
       "type": "isbn13",
       "value": "9780345511478"
@@ -230,12 +239,13 @@
       "extent": 496,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511476",
       "isbn13": "9780345511478",
       "kind": "print",
       "onsale": "2017-10-03T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

@@ -5,9 +5,39 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "artist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "artist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
     }
   ],
-  "displayTitle": "Legacy #0 1/2",
+  "displayTitle": "Legacy (2006) #0.5",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2006-06-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2006-0",
-  "synopsis": "Welcome to the beginning of a grand, new chapter in the Star Wars saga! More than a hundred years have passed since the events in Return of the Jedi and the days of the The New Jedi Order. There is a new evil gripping the galaxy, shattering a resurgent Empire and seeking to destroy the last of the Jedi. Even as their power is failing, the Jedi hold to one final hope: the last remaining heir to the Skywalker legacy. It's a brave new galaxy for Star Wars fans, at once familiar and surprising&mdash;interplanetary intrigue and adventure on an epic scale; iconic heroes and villains cast in new role",
-  "title": "Legacy #0 1/2"
+  "synopsis": "Welcome to the beginning of a grand, new chapter in the Star Wars saga! More than a hundred years have passed since the events in Return of the Jedi and the days of the New Jedi Order. There is a new evil gripping the galaxy, shattering a resurgent Empire and seeking to destroy the last of the Jedi. Even as their power is failing, the Jedi hold to one final hope: the last remaining heir to the Skywalker legacy. It's a brave new galaxy for Star Wars fans, at once familiar and surprising-interplanetary intrigue and adventure on an epic scale; iconic heroes and villains cast in new roles and caught in surprising new situations. Everything you've loved about Star Wars, but nothing you expect! This special 25&cent; comic sets the stage for the launch of the new Star Wars: Legacy series, which begins in June! • Continuing Dark Horse's exciting relaunch of its Star Wars publishing line, celebrating the company's twentieth anniversary.",
+  "title": "Legacy (2006) #0.5"
 }

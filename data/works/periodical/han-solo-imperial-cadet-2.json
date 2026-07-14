@@ -15,6 +15,11 @@
       "name": "Leonard Kirk",
       "role": "artist",
       "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
     }
   ],
   "displayTitle": "Han Solo: Imperial Cadet",
@@ -23,7 +28,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2019-05-14T00:00:00.000Z",
+  "releaseDate": "2018-11-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "han-solo-imperial-cadet-2",

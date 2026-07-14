@@ -5,6 +5,7 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 75,
     "publicationKind": "magazine"
   },
   "releaseDate": "2024-08-27T00:00:00.000Z",
@@ -12,5 +13,5 @@
   "releaseStatus": "released",
   "slug": "star-wars-insider-227",
   "synopsis": "Magazine issue featuring exclusive Star Wars fiction, interviews, and features.",
-  "title": "Star Wars Insider #227"
+  "title": "Insider #227"
 }

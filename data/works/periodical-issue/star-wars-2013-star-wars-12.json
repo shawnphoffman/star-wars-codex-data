@@ -1,0 +1,68 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "penciler",
+      "slug": "stuart-immonen"
+    },
+    {
+      "name": "Wade Von Grawbadger",
+      "role": "inker",
+      "slug": "wade-von-grawbadger"
+    },
+    {
+      "name": "Justin Ponsor",
+      "role": "colorist",
+      "slug": "justin-ponsor"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "coverArtist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "Star Wars #12",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-12-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-12",
+  "synopsis": "After a battle with the Empire, it is a time of reunions, departures, and reassessments. Han and Chewie return from their mission to Coruscant, Luke deals with love lost, and Leia must accept greater responsibilities within the Rebellion. But first she has an important announcement for the Rebel commanders . . . * Wedge forms Rogue Squadron! * Leia uncovers a deep betrayal! “If you ever wondered if Star Wars could ever recapture that childlike glee of those earliest of memories, wonder no more. Star Wars is back and it’s never been better.”—Newsarama “Wood's stories are filled with sentiment and suspense, action and adventure.”—Comic Book Resources",
+  "title": "Star Wars #12"
+}

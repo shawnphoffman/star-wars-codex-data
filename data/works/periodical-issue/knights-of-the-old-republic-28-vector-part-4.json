@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "coverArtist",
+      "slug": "dustin-weaver"
     }
   ],
   "displayTitle": "Knights of the Old Republic #28: Vector, Part 4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-05-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-28-vector-part-4",
-  "synopsis": "The first phase of the most important Star Wars story of 2008 ends with devastation on an awe-inspiring scale in part four of \"Vector\"! Nearly overwhelmed by an ancient evil run rampant, fugitive Padawan Zayne Carrick, the con-artist Gryph, and the Jedi Celeste Morne have made a choice of cosmic significance, its consequences reshaping not only the course of their lives, but the fate of the entire galaxy! Surrounded by Mandalorians, they face a crossroads where every path demands sacrifice, and no matter what is saved, something else will be lost! • Leaving Knights of the Old Republic changed ",
+  "synopsis": "The first phase of the most important Star Wars story of 2008 ends with devastation on an awe-inspiring scale in part four of \"Vector\"! Nearly overwhelmed by an ancient evil run rampant, fugitive Padawan Zayne Carrick, the con-artist Gryph, and the Jedi Celeste Morne have made a choice of cosmic significance, its consequences reshaping not only the course of their lives, but the fate of the entire galaxy! Surrounded by Mandalorians, they face a crossroads where every path demands sacrifice, and no matter what is saved, something else will be lost! * Leaving Knights of the Old Republic changed forever and launching the yearlong \"Vector\" storyline into Dark Times next month, this issue is not to be missed!",
   "title": "Knights of the Old Republic #28: Vector, Part 4"
 }

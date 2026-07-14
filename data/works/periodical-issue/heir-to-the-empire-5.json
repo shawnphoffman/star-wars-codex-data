@@ -5,6 +5,55 @@
       "name": "Mike Baron",
       "role": "writer",
       "slug": "mike-baron"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Vatine Olivier",
+      "role": "inker",
+      "slug": "vatine-olivier"
+    },
+    {
+      "name": "Vatine Olivier",
+      "role": "penciler",
+      "slug": "vatine-olivier"
+    },
+    {
+      "name": "Olivier Vatine",
+      "role": "artist",
+      "slug": "olivier-vatine"
+    },
+    {
+      "name": "Fred Blanchard",
+      "role": "artist",
+      "slug": "fred-blanchard"
+    },
+    {
+      "name": "Isabelle Rabarot",
+      "role": "colorist",
+      "slug": "isabelle-rabarot"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "Heir to the Empire #5",
@@ -17,7 +66,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-03-12T00:00:00.000Z",
+  "releaseDate": "1996-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heir-to-the-empire-5",

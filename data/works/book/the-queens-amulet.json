@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Queen's Amulet",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811824624"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "0811824624",
+      "kind": "print",
+      "onsale": "1999-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

@@ -10,6 +10,41 @@
       "name": "Ario Anindito",
       "role": "artist",
       "slug": "ario-anindito"
+    },
+    {
+      "name": "Yanick Paquette",
+      "role": "coverArtist",
+      "slug": "yanick-paquette"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "inker",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Andrea Broccardo",
+      "role": "penciler",
+      "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
+    },
+    {
+      "name": "Alejandro Sanchez",
+      "role": "coverArtist",
+      "slug": "alejandro-sanchez"
+    },
+    {
+      "name": "Frank William",
+      "role": "colorist",
+      "slug": "frank-william"
     }
   ],
   "displayTitle": "The High Republic (2022) #05",
@@ -18,7 +53,7 @@
   "inUniverseDate": {
     "startYear": -382
   },
-  "parentWorkSlug": "the-high-republic-2022",
+  "parentWorkSlug": "the-high-republic",
   "periodical": {
     "publicationKind": "comic"
   },

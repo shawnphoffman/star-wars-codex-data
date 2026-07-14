@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Pierluigi Baldassini",
+      "role": "inker",
+      "slug": "pierluigi-baldassini"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "colorist",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Paul Renaud",
+      "role": "coverArtist",
+      "slug": "paul-renaud"
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral #5",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-12-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-spiral-2012-5",
-  "synopsis": "Parlan Spinner, an outcast from the Lost Tribe, takes the newly discovered Jedi starship *Last Hope* on a joyride that carries him into the atmosphere above Kesh. Before he can escape into the wider galaxy, Remulus Dreypa contacts him with an ultimatum: hand over the ship or he will harm the Sith princess Takara Hilts, who has become Spinner's unlikely ally and friend. Dreypa summons Spinner to Tahv, the Lost Tribe's capital.\n\nDreypa and his Leviathans lay waste to much of Tahv before Spinner turns the *Last Hope*'s turbolasers on the monsters. Takara uses Force lightning to kill the last Leviathan and breaks free, and she and Dreypa land aboard the ship. Spinner flies to the shores of the Southern Ocean, \"hands\" the vessel to Dreypa, then leaps into the water with Takara. Too late, Dreypa discovers Spinner has set the ship on a one-way course into Sessal Spire, a volcano at the edge of Keshtah Minor. Dreypa and the *Last Hope* are destroyed, denying Kesh any hyperspace-capable ship and keeping the Lost Tribe's existence secret. Spinner becomes a hero of the Tribe, is named one of Grand Lord Varner Hilts's Hands, and begins a romance with his former enemy Takara.",
+  "synopsis": "Lord Dreypa’s Leviathans continue their destruction of the lost tribe of Sith, searching in vain for an ancient, well-hidden Jedi starship. Beating Dreypa to the ship, a Sith rebel finds himself on the cusp of attaining his dreams—destruction of the tribe and discovery of a way to reach the galaxy. But there could be something that would cause him to have a change of heart, and Lord Dreypa could have found it! * The final action-packed issue! * Sequel to the best-selling e-books.",
   "title": "Lost Tribe of the Sith: Spiral #5"
 }

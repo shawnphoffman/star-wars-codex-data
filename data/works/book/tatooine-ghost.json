@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tatooine Ghost",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345456687"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 416,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345456687",
+      "kind": "print",
+      "onsale": "2003-03-04T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

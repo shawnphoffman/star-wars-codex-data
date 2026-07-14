@@ -1,0 +1,48 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-05-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-the-bad-batch-rogue-agents-2025-hyperspace-stories-the-bad-batch-rogue-agents-3",
+  "synopsis": "As the Bad Batch closes in on the scientist they’ve been searching for, their adversaries make a tempting offer. Is it too good to be true? Meanwhile, another deadly (and all too familiar) enemy trains their sights on Clone Force 99... • The team that brought you the hit comics miniseries Star Wars: Hyperspace Stories: The Bad Batch—Ghost Agents returns with this thrilling follow-up series! • Four-issue series.",
+  "title": "Hyperspace Stories: The Bad Batch: Rogue Agents #3"
+}

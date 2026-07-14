@@ -15,6 +15,31 @@
       "name": "Raul Fernandez",
       "role": "artist",
       "slug": "raul-fernandez"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "penciler",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Raul Fernandez",
+      "role": "inker",
+      "slug": "raul-fernandez"
+    },
+    {
+      "name": "Bodhi Tree",
+      "role": "colorist",
+      "slug": "bodhi-tree"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "coverArtist",
+      "slug": "ramn-f-bachs"
     }
   ],
   "displayTitle": "Qui-Gon & Obi-Wan: Last Stand On Ord Mantell",

@@ -14,12 +14,33 @@
     }
   ],
   "displayTitle": "The Glove of Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553158872"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553158878"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Bantam Skylark",
+      "isPrimary": true,
+      "isbn10": "0553158872",
+      "isbn13": "9780553158878",
+      "kind": "print",
+      "onsale": "1992-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
   },
-  "releaseDate": "1992-06-01T00:00:00.000Z",
+  "releaseDate": "1992-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-glove-of-darth-vader",

@@ -5,6 +5,46 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "colorist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "inker",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "penciler",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "artist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
+    },
+    {
+      "name": "Tsuneo Sanda",
+      "role": "coverArtist",
+      "slug": "tsuneo-sanda"
     }
   ],
   "displayTitle": "Darth Vader and the Ghost Prison #1",
@@ -15,12 +55,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ghost-prison-graphic-novel",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-05-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ghost-prison-1",
-  "synopsis": "The graduation celebration for the first class of Imperial cadets is disrupted by a sudden terrorist strike! But the real targets of the attack are the new Emperor and his second in command, Darth Vader. Only one man, a disabled, brilliant cadet who, up until the moment of the attack, was experiencing the best moment of his life, stands ready to fight alongside Vader for the life of his Emperor!",
+  "synopsis": "The graduation celebration for the first class of Imperial cadets is disrupted by a sudden terrorist strike! But the real targets of the attack are the new Emperor and his second in command, Darth Vader. Only one man—a disabled, brilliant cadet who, up until the moment of the attack, was experiencing the best moment of his life—stands ready to fight alongside Vader for the life of his Emperor! * A brand new series by Haden Blackman! * Stunning art by Agustin Alessio! * Covers by Dave Wilkins. Vader Takes Control!",
   "title": "Darth Vader and the Ghost Prison #1"
 }

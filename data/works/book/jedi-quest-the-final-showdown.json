@@ -11,11 +11,23 @@
   "displayTitle": "Jedi Quest: The Final Showdown",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "043933926X"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339261"
     }
   ],
   "editions": [
+    {
+      "extent": 151,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "043933926X",
+      "kind": "print",
+      "onsale": "2004-11-01T00:00:00.000Z"
+    },
     {
       "extent": 151,
       "imprint": "Scholastic",

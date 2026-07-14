@@ -6,6 +6,10 @@
       "name": "George Mann",
       "role": "writer",
       "slug": "george-mann"
+    },
+    {
+      "name": "Nilah Magruder",
+      "slug": "nilah-magruder"
     }
   ],
   "displayTitle": "Quest for the Hidden City",
@@ -21,8 +25,8 @@
   ],
   "editions": [
     {
-      "extent": 240,
-      "imprint": "Disney-Lucasfilm Press",
+      "extent": 304,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368080103",
       "isbn13": "9781368080101",

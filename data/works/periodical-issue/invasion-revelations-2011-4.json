@@ -5,6 +5,36 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
     }
   ],
   "displayTitle": "Invasion: Revelations #4",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "invasion-revelations-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-10-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-revelations-2011-4",
-  "synopsis": "Queen Nina and Princess Kaye's attack on the Yuuzhan Vong collaborators on Shramar has brought Warmaster Tsavong Lah and his armada to the scene.\nBut the New Republic has some special forces in reserve: namely, every free ship in the sector! It's a space battle of epic proportions as pirate ships, freighters, and Imperial vessels join the New Republic's fleet against the invaders from another galaxy!",
+  "synopsis": "Queen Nina and Princess Kaye's attack on the Yuuzhan Vong collaborators on Shramar has brought Warmaster Tsavong Lah and his armada to the scene. But the New Republic has some special forces in reserve: namely, every free ship in the sector! It's a space battle of epic proportions as pirate ships, freighters, and Imperial vessels join the New Republic's fleet against the invaders from another galaxy!",
   "title": "Invasion: Revelations #4"
 }

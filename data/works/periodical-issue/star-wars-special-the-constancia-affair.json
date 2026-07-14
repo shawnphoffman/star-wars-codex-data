@@ -1,11 +1,51 @@
 {
   "bookType": "other",
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Russ Manning",
       "role": "writer",
       "slug": "russ-manning"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "penciler",
+      "slug": "tony-harris"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Tradd Moore",
+      "role": "coverArtist",
+      "slug": "tradd-moore"
+    },
+    {
+      "name": "James Robinson",
+      "role": "writer",
+      "slug": "james-robinson"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "inker",
+      "slug": "tony-harris"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "colorist",
+      "slug": "tony-harris"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "coverArtist",
+      "slug": "tony-harris"
     }
   ],
   "displayTitle": "Special: The Constancia Affair",

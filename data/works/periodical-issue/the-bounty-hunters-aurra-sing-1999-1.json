@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "inker",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "penciler",
+      "slug": "tim-truman"
+    },
+    {
+      "name": "Tim Truman",
+      "role": "writer",
+      "slug": "tim-truman"
+    }
+  ],
+  "displayTitle": "The Bounty Hunters: Aurra Sing (1999) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-bounty-hunters-aurra-sing-1999-1",
+  "title": "The Bounty Hunters: Aurra Sing (1999) #1"
+}

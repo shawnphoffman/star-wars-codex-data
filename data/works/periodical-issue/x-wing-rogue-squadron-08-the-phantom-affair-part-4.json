@@ -10,6 +10,40 @@
       "name": "Darko Macan",
       "role": "writer",
       "slug": "darko-macan"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "inker",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "penciler",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Annie Parkhouse",
+      "role": "letterer",
+      "slug": "annie-parkhouse"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "artist",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mathieu Lauffray",
+      "role": "coverArtist",
+      "slug": "mathieu-lauffray"
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #08: The Phantom Affair, Part 4",
@@ -22,10 +56,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-05-01T00:00:00.000Z",
+  "releaseDate": "1996-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-08-the-phantom-affair-part-4",
-  "synopsis": "The residents of Mrlsst should have learned their lesson long ago, when a noble Jedi sacrificed himself that the Empire might leave the Academy unharmed&mdash;nobody wins when you play in politics. But old lessons are easily forgotten in the heat of war. Over the years, the Academy has become a snake pit of secrets and plotting, and students and professors fight each other and one another. And now they're about to get a refresher course, the kind that's taught with blood and fire. Unfortunately for Wedge and the Rogue Squadron crew, the lesson comes just as they arrive on Mrlsst.",
+  "synopsis": "The residents of Mrlsst should have learned their lesson long ago, when a noble Jedi sacrificed himself that the Empire might leave the Academy unharmed -- nobody wins when you play in politics. But old lessons are easily forgotten in the heat of war. Over the years, the Academy has become a snakepit of secrets and plotting, and students and professors fight each other and one another. And now they're about to get a refresher course, the kind that's taught with blood and fire. Unfortunately for Wedge and the Rogue Squadron crew, the lesson comes just as they arrive on Mrlsst.",
   "title": "X-Wing Rogue Squadron #08: The Phantom Affair, Part 4"
 }

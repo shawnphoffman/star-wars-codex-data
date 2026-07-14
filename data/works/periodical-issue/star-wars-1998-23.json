@@ -1,0 +1,38 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pat Mills",
+      "role": "writer",
+      "slug": "pat-mills"
+    },
+    {
+      "name": "Vickie Williams",
+      "role": "letterer",
+      "slug": "vickie-williams"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Raul Fonts",
+      "role": "inker",
+      "slug": "raul-fonts"
+    },
+    {
+      "name": "Ramon Bachs",
+      "role": "penciler",
+      "slug": "ramon-bachs"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #23",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998-23",
+  "title": "Star Wars (1998) #23"
+}

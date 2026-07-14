@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Petra Goldberg",
+      "role": "colorist",
+      "slug": "petra-goldberg"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
     }
   ],
   "displayTitle": "Star Wars (1977) #26: Doom Mission",

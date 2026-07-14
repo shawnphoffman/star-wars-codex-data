@@ -1,0 +1,65 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bruce Jones",
+      "role": "writer",
+      "slug": "bruce-jones"
+    },
+    {
+      "name": "Bret Blevins",
+      "role": "artist",
+      "slug": "bret-blevins"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Bret Blevins",
+      "role": "penciler",
+      "slug": "bret-blevins"
+    },
+    {
+      "name": "Bret Blevins",
+      "role": "inker",
+      "slug": "bret-blevins"
+    }
+  ],
+  "displayTitle": "Tales from Mos Eisley",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-mos-eisley",
+  "synopsis": "\"Mos Eisley Spaceport. You'll never find a more wretched hive of scum and villainy.\" With those words, Obi-Wan Kenobi introduced the most famous, not to mention dangerous, drinking establishment in the history of science fiction. Now, you can get a table of your own. Belly up to the bar and let the patrons regale you with a tale of Tatooine, a story of interstellar romance, and a saga of Rebel triumph. And please be sure to check your droids and your blaster at the door.",
+  "title": "Tales from Mos Eisley"
+}

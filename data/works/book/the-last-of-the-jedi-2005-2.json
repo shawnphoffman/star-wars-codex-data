@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: Dark Warning",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439681359"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 139,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439681359",
+      "kind": "print",
+      "onsale": "2005-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
@@ -28,7 +44,7 @@
     "the-last-of-the-jedi-2005-8",
     "the-last-of-the-jedi-2005-9"
   ],
-  "releaseDate": "2005-09-01T00:00:00.000Z",
+  "releaseDate": "2005-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-of-the-jedi-2005-2",

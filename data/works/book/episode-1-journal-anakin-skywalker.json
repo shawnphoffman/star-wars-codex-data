@@ -11,6 +11,10 @@
   "displayTitle": "Episode I Journal: Anakin Skywalker",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590520938"
+    },
+    {
       "type": "isbn13",
       "value": "9780590520935"
     }
@@ -20,6 +24,7 @@
       "extent": 112,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590520938",
       "isbn13": "9780590520935",
       "kind": "print",
       "onsale": "1999-05-01T00:00:00.000Z"

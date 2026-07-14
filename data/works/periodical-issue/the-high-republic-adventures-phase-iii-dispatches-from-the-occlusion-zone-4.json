@@ -1,0 +1,32 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Vincenzo Riccardi",
+      "role": "artist",
+      "slug": "vincenzo-riccardi"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures Phase III: Dispatches from the Occlusion Zone #4",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-phase-iii-dispatches-from-the-occlusion-zone-4",
+  "synopsis": "As calls for help make their way across the Stormwall, the Marshal of the Republic Fleet turns to an unlikely ally: former Jedi Ty Yorrick! But can the maverick saber-for-hire be trusted when she encounters an old enemy on the ravaged plains of Dalna?",
+  "title": "The High Republic Adventures Phase III: Dispatches from the Occlusion Zone #4"
+}

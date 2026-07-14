@@ -5,6 +5,60 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Ellie Deville",
+      "role": "letterer",
+      "slug": "ellie-deville"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Corey Stephens",
+      "slug": "corey-stephens"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jim Amash",
+      "role": "inker",
+      "slug": "jim-amash"
+    },
+    {
+      "name": "Brian Gregory",
+      "role": "colorist",
+      "slug": "brian-gregory"
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire #1",
@@ -21,6 +75,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "boba-fett-enemy-of-the-empire-1999-1",
-  "synopsis": "Before the events of A New Hope, Darth Vader employed the galaxy's greatest bounty hunter on a search-and-retrieval mission: Boba Fett must discover and return to Vader a single small box, the contents of which could change the fate of the galaxy. For such an important mission, Vader cannot rely on a single operative&hellip; nor can he allow that operative to walk away alive!",
+  "synopsis": "Before the events of A New Hope, Darth Vader employed the galaxy's greatest bounty hunter on a search-and-retrieval mission: Boba Fett must discover and return to Vader a single small box, the contents of which could change the fate of the galaxy. For such an important mission, Vader cannot rely on a single operative . . . nor can he allow that operative to walk away alive!",
   "title": "Boba Fett: Enemy of the Empire #1"
 }

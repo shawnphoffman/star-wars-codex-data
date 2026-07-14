@@ -1,6 +1,6 @@
 {
-  "bookType": "other",
-  "canonStatus": "canon",
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
   "displayTitle": "Starfighter (Little Golden Book)",
   "editionIds": [
     {
@@ -25,5 +25,5 @@
   "releaseDate": "2027-04-20T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-starfighter-2027",
-  "title": "Starfighter (Little Golden Book)"
+  "title": "Star Wars: Starfighter (Little Golden Book)"
 }

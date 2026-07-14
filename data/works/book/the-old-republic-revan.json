@@ -11,8 +11,16 @@
   "displayTitle": "The Old Republic: Revan",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511344"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511348"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511355"
     }
   ],
   "editions": [
@@ -23,6 +31,12 @@
       "isbn13": "9780345511348",
       "kind": "print",
       "onsale": "2011-11-15T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn10": "0345511344",
+      "isbn13": "9780345511355",
+      "kind": "print"
     }
   ],
   "era": "oldRepublic",

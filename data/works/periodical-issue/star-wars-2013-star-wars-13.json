@@ -1,0 +1,73 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Facundo Percio",
+      "role": "penciler",
+      "slug": "facundo-percio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    },
+    {
+      "name": "Tom Lyle",
+      "role": "penciler",
+      "slug": "tom-lyle"
+    },
+    {
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "coverArtist",
+      "slug": "mark-schultz"
+    }
+  ],
+  "displayTitle": "Star Wars #13",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-13",
+  "synopsis": "After a defeat by Rebel forces and the escape of prisoner Luke Skywalker, Darth Vader decides to clean house. From one end of the galaxy to the other, Vader’s “new broom”—a squad of elite stormtroopers backed by the Dark Lord’s own lightsaber—is sweeping the ranks of the Empire! “Brian Wood’s writing of this new Star Wars series has been excellent from the first issue.”—Den of Geek",
+  "title": "Star Wars #13"
+}

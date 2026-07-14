@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "The Clone Wars: Decide Your Destiny: Tethan Battle Adventure",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780448453361"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn13": "9780448453361",
+      "kind": "print",
+      "onsale": "2010-01-07T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2009-07-01T00:00:00.000Z",
+  "releaseDate": "2010-01-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-decide-your-destiny-tethan-battle-adventure",

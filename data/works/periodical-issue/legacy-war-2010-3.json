@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy: War #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-war-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-02-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-war-2010-3",
-  "synopsis": "While Emperor Krayt's forces strike at hundreds of targets across the galaxy without thought for their own losses, one place has remained safe: the hidden Jedi temple on Taivas. But that happens to be the one place Krayt most wants to annihilate--if he can locate it and learn the secrets of its defenses.\nSo, it's only a matter of time... and torture...",
+  "synopsis": "While Emperor Krayt's forces strike at hundreds of targets across the galaxy without thought for their own losses, one place has remained safe: the hidden Jedi temple on Taivas. But that happens to be the one place Krayt most wants to annihilate--if he can locate it and learn the secrets of its defenses. So, it's only a matter of time . . . and torture . . . * The final chapter of Legacy continues! * Featuring Cade Skywalker!",
   "title": "Legacy: War #3"
 }

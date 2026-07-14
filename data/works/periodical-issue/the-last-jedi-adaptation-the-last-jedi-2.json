@@ -1,5 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "inker",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Kamome Shirahama",
+      "role": "coverArtist",
+      "slug": "kamome-shirahama"
+    },
+    {
+      "name": "Michael Spicer",
+      "role": "colorist",
+      "slug": "michael-spicer"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "penciler",
+      "slug": "michael-walsh"
+    }
+  ],
   "displayTitle": "The Last Jedi #2",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",

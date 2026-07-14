@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9781368069830"
+    },
+    {
+      "type": "isbn13",
       "value": "9781760509682"
     }
   ],
@@ -25,6 +29,14 @@
       "isPrimary": false,
       "kind": "print",
       "onsale": "2021-01-26T00:00:00.000Z"
+    },
+    {
+      "extent": 24,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781368069830",
+      "kind": "print",
+      "onsale": "2021-01-05T00:00:00.000Z"
     },
     {
       "extent": 24,

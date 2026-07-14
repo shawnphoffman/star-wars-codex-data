@@ -1,5 +1,102 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Ian Edginton",
+      "role": "writer",
+      "slug": "ian-edginton"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "writer",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Steve Pugh",
+      "role": "inker",
+      "slug": "steve-pugh"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "inker",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "colorist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Steve Pugh",
+      "role": "penciler",
+      "slug": "steve-pugh"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "penciler",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Steve Pugh",
+      "role": "artist",
+      "slug": "steve-pugh"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "artist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "editor",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Lee Bermejo",
+      "role": "coverArtist",
+      "slug": "lee-bermejo"
+    }
+  ],
   "displayTitle": "Tales #22",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +108,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-22",
-  "synopsis": "The \"new\" Star Wars Tales continues! The vastness of the Star Wars galaxy hosts an ever-unfolding mythology, filled with character-driven stories of loss and tragedy, of heroism and redemption. This issue contributes three more such tales to the mythos&mdash;the tragic saga of mysterious Jedi Darca Nyl continues to unravel, courtesy of Cla$$war writer Rob Williams and Star Wars: Empire artist Brandon Badeaux; Two enemy soldiers accidentally left behind after Return of the Jedi Battle of Endor must survive a tribe of disgruntled Ewoks and each other in \"Marooned\" by Lucas Marangon; and we kick ",
+  "synopsis": "The \"new\" Star Wars Tales continues! The vastness of the Star Wars galaxy hosts an ever-unfolding mythology, filled with character-driven stories of loss and tragedy, of heroism and redemption. This issue contributes three more such tales to the mythos-the tragic saga of mysterious Jedi Darca Nyl continues to unravel, courtesy of Cla$$war writer Rob Williams and Star Wars: Empire artist Brandon Badeaux; Two enemy soldiers accidentally left behind after Return of the Jedi's Battle of Endor must survive a tribe of disgruntled Ewoks and each other in \"Marooned\" by Lucas Marangon; and we kick off the issue with a tie-in to the highly anticipated LucasArts video game Republic Commando. Sophisticated yet easily accessible-it's Star Wars comics at their best! • Covers by Lee Bermejo (Batman/Deathblow; Batman: Gotham Knights) • New-reader friendly-each story is self-contained and easily accessible. Available worldwide from Dark Horse Comics (available in the UK from Titan)",
   "title": "Star Wars Tales #22"
 }

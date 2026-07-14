@@ -11,11 +11,23 @@
   "displayTitle": "Jedi Apprentice Special Edition: Deceptions",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439139384"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139380"
     }
   ],
   "editions": [
+    {
+      "extent": 188,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439139384",
+      "kind": "print",
+      "onsale": "2001-07-01T00:00:00.000Z"
+    },
     {
       "extent": 188,
       "imprint": "Scholastic",

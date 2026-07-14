@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "X-Wing: Starfighters of Adumar",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780553574180"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 320,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn13": "9780553574180",
+      "kind": "print",
+      "onsale": "1999-08-03T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

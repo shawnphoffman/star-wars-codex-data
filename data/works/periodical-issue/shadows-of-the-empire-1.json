@@ -5,6 +5,45 @@
       "name": "John Wagner",
       "role": "writer",
       "slug": "john-wagner"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Dave Cooper",
+      "role": "letterer",
+      "slug": "dave-cooper"
+    },
+    {
+      "name": "P. Craig Russell",
+      "role": "inker",
+      "slug": "p-craig-russell"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Shadows of the Empire #1",
@@ -17,10 +56,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1996-05-07T00:00:00.000Z",
+  "releaseDate": "1996-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shadows-of-the-empire-1",
-  "synopsis": "While a grim Luke Skywalker reels from Darth Vader's revelation on the cloud city of Bespin, the tattered remnants of the Rebel fleet desperately seek sanctuary and time to muster new allies. Their forces are weak, and that has not escaped the notice of Emperor Palpatine&mdash;ultimate victory lies within his grasp. All it will take is another blow to crush this Rebel Alliance, one more straw to break their backs. A blow, Palpatine reasons, that could be struck by the vast, criminal underworld that lurks within the Shadows of the Empire&hellip;",
+  "synopsis": "While a grim Luke Skywalker reels from Darth Vader's revelation on the cloud city of Bespin, the tattered remnants of the Rebel fleet desperately seek sanctuary and time to muster new allies. Their forces are weak, and that has not escaped the notice of Emperor Palpatine -- ultimate victory lies within his grasp. All it will take is another blow to crush this Rebel Alliance, one more straw to break their backs. A blow, Palpatine reasons, that could be struck by the vast, criminal underworld that lurks within the Shadows of the Empire . . .",
   "title": "Shadows of the Empire #1"
 }

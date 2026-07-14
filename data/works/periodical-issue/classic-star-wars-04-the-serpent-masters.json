@@ -5,6 +5,36 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Steve Buccellato",
+      "role": "colorist",
+      "slug": "steve-buccellato"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Anina Bennett",
+      "role": "editor",
+      "slug": "anina-bennett"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
     }
   ],
   "displayTitle": "Classic Star Wars #04: The Serpent Masters",
@@ -17,7 +47,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1992-11-03T00:00:00.000Z",
+  "releaseDate": "1992-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "classic-star-wars-04-the-serpent-masters",

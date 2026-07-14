@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Last of the Jedi: Master of Deception",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439681421"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 154,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439681421",
+      "kind": "print",
+      "onsale": "2008-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

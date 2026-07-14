@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Nadia Darries",
@@ -10,6 +10,11 @@
       "name": "Daniel Clarke",
       "role": "director",
       "slug": "daniel-clarke"
+    },
+    {
+      "name": "Julia Smuts Louw",
+      "role": "writer",
+      "slug": "julia-smuts-louw"
     }
   ],
   "displayTitle": "Aau's Song",

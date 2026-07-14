@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Children of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553840088"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 345,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553840088",
+      "kind": "print",
+      "onsale": "1995-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

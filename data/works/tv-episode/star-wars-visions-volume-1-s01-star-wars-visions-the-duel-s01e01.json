@@ -1,10 +1,15 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Takanobu Mizuno",
       "role": "director",
       "slug": "takanobu-mizuno"
+    },
+    {
+      "name": "Mitsuyasu Sakai",
+      "role": "writer",
+      "slug": "mitsuyasu-sakai"
     }
   ],
   "displayTitle": "The Duel",

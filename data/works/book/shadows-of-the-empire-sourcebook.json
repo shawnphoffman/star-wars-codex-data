@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Shadows of the Empire Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312817"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 127,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312817",
+      "kind": "print",
+      "onsale": "1996-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

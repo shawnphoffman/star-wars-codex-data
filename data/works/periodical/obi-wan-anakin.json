@@ -10,12 +10,23 @@
       "name": "Marco Checchetto",
       "role": "artist",
       "slug": "marco-checchetto"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "penciler",
+      "slug": "marco-checchetto"
+    },
+    {
+      "name": "Marco Checchetto",
+      "role": "coverArtist",
+      "slug": "marco-checchetto"
     }
   ],
   "displayTitle": "Obi-Wan & Anakin",
   "era": "fallOfTheJedi",
   "format": "periodical",
   "periodical": {
+    "imprint": "Marvel",
     "publicationKind": "comic"
   },
   "releaseDate": "2016-01-06T00:00:00.000Z",

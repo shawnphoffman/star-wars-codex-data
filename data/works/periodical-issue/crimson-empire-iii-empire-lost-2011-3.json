@@ -5,6 +5,41 @@
       "name": "Mike Richardson",
       "role": "writer",
       "slug": "mike-richardson"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "inker",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "penciler",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Bartolo",
+      "role": "colorist",
+      "slug": "michael-bartolo"
+    },
+    {
+      "name": "Paul Gulacy",
+      "role": "artist",
+      "slug": "paul-gulacy"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Crimson Empire III: Empire Lost #3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-12-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "crimson-empire-iii-empire-lost-2011-3",
-  "synopsis": "Kir Kanos strikes back at the Empire! Kidnapped and dragooned into a hard-liner Imperial plot, Kir Kanos, the last surviving member of Emperor Palpatine's Royal Guard, has had enough! He goes to war with one Imperial faction, even as Leia Organa Solo receives an invitation to meet with emissaries from another. Treachery layered on treachery is revealed and Kanos answers it the only way he knows how - with violence!",
+  "synopsis": "Kir Kanos strikes back at the Empire! Kidnapped and dragooned into a hard-liner Imperial plot, Kir Kanos, the last surviving member of Emperor Palpatine's royal guard, has had enough! He goes to war with one Imperial faction, even as Leia Organa Solo receives an invitation to meet with emissaries from another. Treachery layered on treachery is revealed and Kanos answers it the only way he knows how--with violence!",
   "title": "Crimson Empire III: Empire Lost #3"
 }

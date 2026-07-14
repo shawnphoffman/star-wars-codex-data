@@ -5,6 +5,41 @@
       "name": "W. Haden Blackman",
       "role": "writer",
       "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "colorist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "inker",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "penciler",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Haden Blackman",
+      "role": "writer",
+      "slug": "haden-blackman"
+    },
+    {
+      "name": "Agustin Alessio",
+      "role": "artist",
+      "slug": "agustin-alessio"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Darth Vader and the Ghost Prison #5",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ghost-prison-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-09-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ghost-prison-5",
-  "synopsis": "General Gentis's plan to take over the fledgling Empire and depose the Emperor and Darth Vader is nearly complete. All that remains is to lure Grand Moff Tarkin to Coruscant and capture him. But Gentis has not reckoned with the power of the dark side, or with the secrets of the Ghost Prison. War has come to Coruscant, and even thousands of loyal cadets and troopers are no match for what Vader has unleashed!",
+  "synopsis": "General Gentis’s plan to take over the fledgling Empire and depose the Emperor and Darth Vader is nearly complete. All that remains is to lure Grand Moff Tarkin to Coruscant and capture him. But Gentis has not reckoned with the power of the dark side—or with the secrets of the Ghost Prison. War has come to Coruscant, and even thousands of loyal cadets and troopers are no match for what Vader has unleashed! * Vader on a rampage!",
   "title": "Darth Vader and the Ghost Prison #5"
 }

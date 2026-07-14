@@ -1,0 +1,42 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
+    }
+  ],
+  "displayTitle": "Star Wars #45: Rite of Passage",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-09-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-45-rite-of-passage",
+  "synopsis": "To secure the future of the planet Ryloth -- and the continued stability of the Republic -- newly-Knighted Jedi Aayla Secura must breech an impenetrable fortress and rescue the young heir of one of Ryloth's ruling clans, while her former teacher, Quinlan Vos, fights a battle to the death against a father-and-son team of Morgukai assassins who are armed with weapons his lightsaber can't stop. It may be true that Jedi don't seek excitement, but excitement has found Quin and Aayla, and it will take every bit of their training to come out of this adventure alive!",
+  "title": "Star Wars #45: Rite of Passage"
+}

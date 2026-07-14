@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
   "displayTitle": "Star Wars®: Episode V: The Empire Strikes Back™",
   "editionIds": [
     {
@@ -10,17 +17,20 @@
   ],
   "editions": [
     {
-      "imprint": "Scholastic, Incorporated",
+      "imprint": "Scholastic",
       "isPrimary": true,
       "isbn13": "9780545482332",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2004-01-31T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-01-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-episode-v-the-empire-strikes-back-2",
   "synopsis": "The further adventures of Luke skywalker and his friends in their continuing battle against Darth Vader and the evil side of the Force.",
   "title": "Star Wars®: Episode V: The Empire Strikes Back™"

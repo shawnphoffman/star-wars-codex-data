@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780593128404"
+    },
+    {
+      "type": "isbn13",
       "value": "9781984818645"
     }
   ],
@@ -23,11 +27,19 @@
     {
       "extent": 368,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780593128404",
+      "kind": "print",
+      "onsale": "2020-03-17T00:00:00.000Z"
+    },
+    {
+      "extent": 352,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1984818643",
       "isbn13": "9781984818645",
       "kind": "print",
-      "onsale": "2020-03-17T00:00:00.000Z"
+      "onsale": "2020-10-27T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -39,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-expanded-edition",
-  "synopsis": "As the war between the Resistance and the First Order rages on, Rey teams up with Poe and Finn to locate what might be the galaxy’s one last hope.",
+  "synopsis": "As the war between the Resistance and the First Order rages on, Rey teams up with Poe and Finn to locate what might be the galaxy's one last hope.",
   "title": "The Rise of Skywalker: Expanded Edition"
 }

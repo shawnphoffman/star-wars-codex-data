@@ -11,6 +11,14 @@
   "displayTitle": "Rogue Planet",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593974778"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345435385"
+    },
+    {
       "type": "isbn13",
       "value": "9780593974773"
     }
@@ -19,10 +27,19 @@
     {
       "extent": 352,
       "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn13": "9780593974773",
+      "isPrimary": false,
+      "isbn13": "9780345435385",
       "kind": "print",
       "onsale": "2000-05-02T00:00:00.000Z"
+    },
+    {
+      "extent": 352,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "0593974778",
+      "isbn13": "9780593974773",
+      "kind": "print",
+      "onsale": "2025-06-03T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

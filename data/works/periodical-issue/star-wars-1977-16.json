@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Denise Wohl",
+      "role": "letterer",
+      "slug": "denise-wohl"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
+    },
+    {
+      "name": "Bob Wiacek",
+      "role": "inker",
+      "slug": "bob-wiacek"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "penciler",
+      "slug": "walt-simonson"
     }
   ],
   "displayTitle": "Star Wars (1977) #16: The Hunter",

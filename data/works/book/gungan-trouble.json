@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Gungan Trouble!",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101660"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101660",
+      "kind": "print",
+      "onsale": "2000-06-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

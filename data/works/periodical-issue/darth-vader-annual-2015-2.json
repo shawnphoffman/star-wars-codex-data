@@ -1,0 +1,58 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "coverArtist",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Scott Hanna",
+      "role": "inker",
+      "slug": "scott-hanna"
+    },
+    {
+      "name": "Walden Wong",
+      "role": "inker",
+      "slug": "walden-wong"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "coverArtist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "Chuck Wendig",
+      "role": "writer",
+      "slug": "chuck-wendig"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "colorist",
+      "slug": "nolan-woodard"
+    }
+  ],
+  "displayTitle": "Darth Vader Annual (2015) #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "darth-vader-annual-2015-2",
+  "title": "Darth Vader Annual (2015) #2"
+}

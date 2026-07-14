@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780553100358"
+    },
+    {
+      "type": "isbn13",
       "value": "9780553108507"
     }
   ],
   "editions": [
+    {
+      "extent": 528,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn13": "9780553100358",
+      "kind": "print",
+      "onsale": "1998-09-01T00:00:00.000Z"
+    },
     {
       "extent": 608,
       "imprint": "Bantam Spectra",
@@ -34,7 +46,7 @@
   "inUniverseDate": {
     "startYear": 19
   },
-  "releaseDate": "1998-08-31T00:00:00.000Z",
+  "releaseDate": "1998-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "vision-of-the-future",

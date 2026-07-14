@@ -10,6 +10,46 @@
       "name": "Vincenzo Federici",
       "role": "artist",
       "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Giorgia Sposito",
+      "role": "artist",
+      "slug": "giorgia-sposito"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Francesco Segala",
+      "role": "colorist",
+      "slug": "francesco-segala"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "penciler",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Giorgia Sposito",
+      "role": "inker",
+      "slug": "giorgia-sposito"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear #3",
@@ -20,12 +60,13 @@
   },
   "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear-5",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2024-11-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-echoes-of-fear-3",
-  "synopsis": "Issue 3 of 4 from Dark Horse Comics The High Republic Adventures: Echoes of Fear Mini Series\nJedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo continue researching the Echo Stones. In doing so, they learn of the daring mission of a Republic Pathfinder team as they attempt to discover what happened to the famous Jedi Barnabas Vim, who went missing decades earlier, and whose fate appears inexorably tied to the mysterious Echo Stones.",
+  "synopsis": "Jedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo continue researching the Echo Stones. In doing so, they learn of the daring mission of a Republic Pathfinder team as they attempt to discover what happened to the famous Jedi Barnabas Vim, who went missing decades earlier, and whose fate appears inexorably tied to the mysterious Echo Stones. • Four issue series.",
   "title": "The High Republic Adventures: Echoes of Fear #3"
 }

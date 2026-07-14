@@ -1,16 +1,26 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Jon Kroll",
       "role": "director",
       "slug": "jon-kroll"
+    },
+    {
+      "name": "Jon Kroll",
+      "role": "writer",
+      "slug": "jon-kroll"
+    },
+    {
+      "name": "Alberta Chu",
+      "role": "producer",
+      "slug": "alberta-chu"
     }
   ],
   "displayTitle": "From Star Wars to Star Wars: The Story of Industrial Light & Magic",
   "format": "movie",
   "movie": {
-    "movieType": "tvMovie",
+    "movieType": "other",
     "runtimeMinutes": 45
   },
   "periodical": {

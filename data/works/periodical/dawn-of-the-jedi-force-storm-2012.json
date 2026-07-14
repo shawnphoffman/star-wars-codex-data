@@ -15,6 +15,31 @@
       "name": "Dan Parsons",
       "role": "artist",
       "slug": "dan-parsons"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gonzalo Flores",
+      "role": "coverArtist",
+      "slug": "gonzalo-flores"
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm",
@@ -23,7 +48,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2012-02-15T00:00:00.000Z",
+  "releaseDate": "2012-03-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dawn-of-the-jedi-force-storm-2012",

@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Joe Pimentel",
+      "role": "inker",
+      "slug": "joe-pimentel"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Travis Charest",
+      "role": "coverArtist",
+      "slug": "travis-charest"
     }
   ],
   "displayTitle": "Knights of the Old Republic #25: Vector, Part 1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2008-01-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-25-vector-part-1",
-  "synopsis": "A yearlong event with repercussions for every era and every hero in the Star Wars galaxy begins here! When a terrible vision reaching more than four thousand years into the future alerts the secret Jedi Covenant to the importance of Taris, they activate an operative already on this planet overrun by Mandalorians. There, in the deadly Undercity, she will encounter a monstrous threat, an ancient legend, and Zayne Carrick, the Padawan accused of killing his fellow students! For anyone who never knew where to start with Star Wars comics, \"Vector\" is the perfect introduction to the entire Star Wars",
+  "synopsis": "A yearlong event with repercussions for every era and every hero in the Star Wars galaxy begins here! When a terrible vision reaching more than four thousand years into the future alerts the secret Jedi Covenant to the importance of Taris, they activate an operative already on this planet overrun by Mandalorians. There, in the deadly Undercity, she will encounter a monstrous threat, an ancient legend, and Zayne Carrick, the Padawan accused of killing his fellow students! For anyone who never knew where to start with Star Wars comics, \"Vector\" is the perfect introduction to the entire Star Wars line! For any serious Star Wars fan, \"Vector\" is the must-see event of 2008, with major happenings throughout the most important moments of the galaxy's history!",
   "title": "Knights of the Old Republic #25: Vector, Part 1"
 }

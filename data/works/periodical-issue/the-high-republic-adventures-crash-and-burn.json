@@ -10,6 +10,31 @@
       "name": "Nick Brokenshire",
       "role": "artist",
       "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Nick Brokenshire",
+      "role": "penciler",
+      "slug": "nick-brokenshire"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Rachele Aragno",
+      "role": "coverArtist",
+      "slug": "rachele-aragno"
     }
   ],
   "displayTitle": "The High Republic Adventures: Crash and Burn",

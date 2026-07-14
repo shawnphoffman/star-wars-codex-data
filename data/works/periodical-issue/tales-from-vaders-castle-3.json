@@ -35,6 +35,31 @@
       "name": "Francesco Francavilla",
       "role": "artist",
       "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Corin Howell",
+      "role": "penciler",
+      "slug": "corin-howell"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "colorist",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Robbie Robbins",
+      "role": "letterer",
+      "slug": "robbie-robbins"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Tales From Vader's Castle #3",

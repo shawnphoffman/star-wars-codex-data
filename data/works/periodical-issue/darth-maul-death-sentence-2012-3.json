@@ -5,6 +5,26 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Bruno Redondo",
+      "role": "penciler",
+      "slug": "bruno-redondo"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Darth Maul: Death Sentence #3",
@@ -15,12 +35,13 @@
   },
   "parentWorkSlug": "darth-maul-death-sentence-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-09-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-maul-death-sentence-2012-3",
-  "synopsis": "Star Wars: Darth Maul - Death Sentence (also stylized Darth Maul: Death Sentence or Darth Maul - Death Sentence) is a four-issue comic book miniseries from Dark Horse Comics written by Tom Taylor.",
+  "synopsis": "While an injured Darth Maul recuperates from his recent battle with a team of Jedi, he plots his revenge—and the rescue of his brother Savage Opress (now in Jedi custody). But it isn’t simply the Jedi that Maul must face; it’s a powerful mining magnate with forces of his own! Luckily for Maul, the mine owner has made a career out of exploiting the local work force, and the natives are . . . revolting! * A direct follow-up to season 4 of The Clone Wars! * Outnumbered and alone, Darth Maul doesn’t back down!",
   "title": "Darth Maul: Death Sentence #3"
 }

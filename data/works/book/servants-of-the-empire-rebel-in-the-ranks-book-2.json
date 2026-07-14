@@ -11,6 +11,10 @@
   "displayTitle": "Servants of the Empire: Rebel in the Ranks",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484716442"
+    },
+    {
       "type": "isbn13",
       "value": "9781484716441"
     }
@@ -20,6 +24,7 @@
       "extent": 171,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484716442",
       "isbn13": "9781484716441",
       "kind": "print",
       "onsale": "2015-03-03T00:00:00.000Z"

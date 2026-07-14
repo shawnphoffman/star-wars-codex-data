@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Kia Asamiya",
@@ -60,6 +60,131 @@
       "name": "Jimmy Palmiotti",
       "role": "artist",
       "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kia Asamiya",
+      "role": "inker",
+      "slug": "kia-asamiya"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "inker",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "inker",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jimmy Palmiotti",
+      "role": "inker",
+      "slug": "jimmy-palmiotti"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "inker",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "inker",
+      "slug": "brian-horton"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Kia Asamiya",
+      "role": "penciler",
+      "slug": "kia-asamiya"
+    },
+    {
+      "name": "Chris Brunner",
+      "role": "penciler",
+      "slug": "chris-brunner"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Paul Lee",
+      "role": "penciler",
+      "slug": "paul-lee"
+    },
+    {
+      "name": "Brian Horton",
+      "role": "penciler",
+      "slug": "brian-horton"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Amanda Connor",
+      "role": "penciler",
+      "slug": "amanda-connor"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "letterer",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Brian Herring",
+      "role": "penciler",
+      "slug": "brian-herring"
+    },
+    {
+      "name": "David McCaig",
+      "role": "penciler",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Jason Hvam",
+      "role": "colorist",
+      "slug": "jason-hvam"
+    },
+    {
+      "name": "Todd Broeker",
+      "role": "colorist",
+      "slug": "todd-broeker"
+    },
+    {
+      "name": "David Nestelle",
+      "role": "colorist",
+      "slug": "david-nestelle"
     }
   ],
   "displayTitle": "Tales #11",

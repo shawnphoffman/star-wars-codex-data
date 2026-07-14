@@ -5,6 +5,95 @@
       "name": "George Carragone",
       "role": "writer",
       "slug": "george-carragone"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "inker",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "penciler",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Mary Wilshire",
+      "role": "penciler",
+      "slug": "mary-wilshire"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
+    },
+    {
+      "name": "Ian Gibson",
+      "role": "artist",
+      "slug": "ian-gibson"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Dan Thorsland",
+      "role": "editor",
+      "slug": "dan-thorsland"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "inker",
+      "slug": "keith-williams"
+    },
+    {
+      "name": "Rich Perrotta",
+      "role": "inker",
+      "slug": "rich-perrotta"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Chris Chalenor",
+      "role": "colorist",
+      "slug": "chris-chalenor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
     }
   ],
   "displayTitle": "Droids #5: Separated",
@@ -17,9 +106,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1986-12-01T00:00:00.000Z",
+  "releaseDate": "1994-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-5-separated",
+  "synopsis": "In the droid trade the only use for old units is as spare parts and scrap. So even See-Threepio is impressed when he and Artoo meet veritable antiques Q-E and 2-E, two diminutive Model-Es who have operated a nursery for several generations of Kalarbans. But despite their longevity, Q-E and 2-E carry a horrific secret that could spell the end for all droids!",
   "title": "Star Wars Droids #5: Separated"
 }

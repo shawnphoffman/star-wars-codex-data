@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "penciler",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Ivan Rodriguez",
+      "role": "inker",
+      "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Belardino Brabo",
+      "role": "inker",
+      "slug": "belardino-brabo"
+    },
+    {
+      "name": "Marcio Loezer",
+      "role": "inker",
+      "slug": "marcio-loezer"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant: Aflame #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-12-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010-3",
-  "synopsis": "It is a time of great darkness in the galaxy. The Republic has been beaten back time and again by the various Sith factions, who for now battle amongst each other in the Outer Rim.\nInto the chaos comes a group of Jedi Knights, determined to help the innocents caught up in the conflict to the best of their ability. Among them is Kerra Holt, who has only recently knighted, and is now returning to her native territory for the first time since childhood. Now, as she encounters the Sith Lord whose lust for war robbed her of everything, she will be tested in ways she could not have imagined!",
+  "synopsis": "Amidst Sith--on--Sith violence, lone Jedi Kerra Holt persists with her near--broken mission! Trapped behind enemy lines and still eager to follow through with help for the oppressed miners on Chelloa, Kerra strikes out on her own to rid the galaxy of at least one Sith Lord. But she's still incredibly green and ruled too much by her strong feelings, and keeping her plan on track might prove to be too much for the young Jedi . . . * Follow this young Jedi heroine through an unchartered era of Star Wars. * Kerra Holt's adventure continues in John Jackson Miller's Knight Errant novel from Del Rey.",
   "title": "Knight Errant: Aflame #3"
 }

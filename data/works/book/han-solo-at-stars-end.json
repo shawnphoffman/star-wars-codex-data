@@ -6,9 +6,45 @@
       "name": "Brian Daley",
       "role": "writer",
       "slug": "brian-daley"
+    },
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Alfredo Alcala",
+      "role": "penciler",
+      "slug": "alfredo-alcala"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "coverArtist",
+      "slug": "al-williamson"
     }
   ],
   "displayTitle": "Han Solo At Stars' End",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345282514"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345282514",
+      "kind": "print",
+      "onsale": "1979-04-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

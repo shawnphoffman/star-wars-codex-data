@@ -11,6 +11,10 @@
   "displayTitle": "Battlefront: Twilight Company",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511212"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511218"
     }
@@ -20,6 +24,7 @@
       "extent": 397,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511212",
       "isbn13": "9780345511218",
       "kind": "print",
       "onsale": "2015-11-03T00:00:00.000Z"

@@ -1,5 +1,120 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Williams",
+      "role": "writer",
+      "slug": "rob-williams"
+    },
+    {
+      "name": "Joshua Ortega",
+      "role": "writer",
+      "slug": "joshua-ortega"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Wil Glass",
+      "role": "colorist",
+      "slug": "wil-glass"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrew Pepoy",
+      "role": "inker",
+      "slug": "andrew-pepoy"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "inker",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "inker",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Serge LaPointe",
+      "role": "inker",
+      "slug": "serge-lapointe"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michel Lacombe",
+      "role": "penciler",
+      "slug": "michel-lacombe"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "penciler",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "penciler",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "artist",
+      "slug": "dustin-weaver"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "artist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "editor",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Richard E. Jones",
+      "slug": "richard-e-jones"
+    },
+    {
+      "name": "Joshua Elliott",
+      "slug": "joshua-elliott"
+    },
+    {
+      "name": "Brandon Badeaux",
+      "role": "coverArtist",
+      "slug": "brandon-badeaux"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "coverArtist",
+      "slug": "brad-anderson"
+    }
+  ],
   "displayTitle": "Tales #23",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +126,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-23",
-  "synopsis": "The \"new\" Star Wars Tales continues! Thousands of years before the fall and redemption of Anakin Skywalker, there were other Jedi who grappled with the same Human emotions that overwhelmed the man who became Darth Vader. During the time of the Old Republic, three young Jedi in particular&mdash;one bearing the surname Qel-Droma&mdash;traveled the Sith Homeworld of Korriban intending to finish their Order's \"Great Hunt.\" What they find lurking in their own hearts proves more dangerous than any prey they're after, in this prequel to the popular Knights of the Old Republic video game. Also in this",
+  "synopsis": "The \"new\" Star Wars Tales continues! Thousands of years before the fall and redemption of Anakin Skywalker, there were other Jedi who grappled with the same human emotions that overwhelmed the man who became Darth Vader. During the time of the Old Republic, three young Jedi in particular-one bearing the surname Qel Droma-traveled the Sith Homeworld of Korriban intending to finish their Order's \"Great Hunt.\" What they find lurking in their own hearts proves more dangerous than any prey they're after, in this prequel to the popular Knights of the Old Republic video game. Also in this issue: the tragic third chapter in the story of lone Jedi Darca Nyl. Sophisticated yet easily accessible-it's Star Wars comics at their best! Available worldwide from Dark Horse Comics (available in the UK from Titan)",
   "title": "Star Wars Tales #23"
 }

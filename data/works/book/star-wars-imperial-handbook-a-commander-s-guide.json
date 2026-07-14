@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Imperial Handbook: A Commander's Guide",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781603803403"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "becker&mayer!",
+      "isPrimary": true,
+      "isbn13": "9781603803403",
+      "kind": "print",
+      "onsale": "2014-10-14T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

@@ -10,6 +10,36 @@
       "name": "Andrea Broccardo",
       "role": "artist",
       "slug": "andrea-broccardo"
+    },
+    {
+      "name": "Gerald Parel",
+      "role": "coverArtist",
+      "slug": "gerald-parel"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "inker",
+      "slug": "angel-unzueta"
+    },
+    {
+      "name": "Angel Unzueta",
+      "role": "penciler",
+      "slug": "angel-unzueta"
     }
   ],
   "displayTitle": "Star Wars (2015) #65: The Scourging Of Shu-Torun Part IV",

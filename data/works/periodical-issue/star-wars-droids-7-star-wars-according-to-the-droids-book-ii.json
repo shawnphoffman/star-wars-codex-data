@@ -5,6 +5,65 @@
       "name": "David Manak",
       "role": "writer",
       "slug": "david-manak"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Jan Strnad",
+      "role": "writer",
+      "slug": "jan-strnad"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "inker",
+      "slug": "keith-williams"
+    },
+    {
+      "name": "Rich Perrotta",
+      "role": "inker",
+      "slug": "rich-perrotta"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
+    },
+    {
+      "name": "Ernie Colon",
+      "role": "penciler",
+      "slug": "ernie-colon"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Perry McNamee",
+      "role": "colorist",
+      "slug": "perry-mcnamee"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "Droids #7: Star Wars According to the Droids, Book II",
@@ -17,10 +76,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1987-04-01T00:00:00.000Z",
+  "releaseDate": "1995-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-7-star-wars-according-to-the-droids-book-ii",
-  "synopsis": "Droids 7 is the seventh issue of the Star Wars Droids series of comics. It was published January 13, 1987 with a cover date of April 1987.",
+  "synopsis": "In order to save their friend Smiley, Artoo-Detoo and See-Threepio have fallen in with a crew of Targonnian revoltists looking to overthrow Dictator-Forever Craw. Smiley is trapped in Craw's castle, behind the palace's impenetrable force field. To save their friend, Artoo-Detoo and See-Threepio must infiltrate the castle and shut down its protective field! The droids need to save Smiley because his brain contains the secret of the savorium herb . . . a secret which could shake the galaxy to its foundations!",
   "title": "Star Wars Droids #7: Star Wars According to the Droids, Book II"
 }

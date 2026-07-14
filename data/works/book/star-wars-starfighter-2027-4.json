@@ -1,7 +1,7 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "displayTitle": "Starfighter",
+  "displayTitle": "Starfighter Storybook",
   "editionIds": [
     {
       "type": "isbn13",
@@ -19,11 +19,15 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 40
+  },
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2027-04-20T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-starfighter-2027-4",
-  "title": "Star Wars: Starfighter"
+  "synopsis": "This full-color storybook is based on Star Wars: Starfighter, staring Ryan Gosling and directed by Shawn Levy.",
+  "title": "Star Wars: Starfighter Storybook"
 }

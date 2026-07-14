@@ -14,6 +14,22 @@
     }
   ],
   "displayTitle": "Young Jedi Knights: Trouble on Cloud City",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0425164160"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 210,
+      "imprint": "Boulevard",
+      "isPrimary": true,
+      "isbn10": "0425164160",
+      "kind": "print",
+      "onsale": "1998-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

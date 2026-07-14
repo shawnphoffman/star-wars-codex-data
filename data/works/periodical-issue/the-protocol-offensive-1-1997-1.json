@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Igor Kordey",
+      "role": "colorist",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "inker",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "penciler",
+      "slug": "igor-kordey"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Protocol Offensive 1 (1997) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-protocol-offensive-1-1997-1",
+  "title": "The Protocol Offensive 1 (1997) #1"
+}

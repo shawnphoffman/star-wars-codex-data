@@ -1,11 +1,41 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Caìo Filipe",
+      "role": "artist",
+      "slug": "caio-filipe"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "letterer",
+      "slug": "jake-bartok"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Pathfinders #4",
   "format": "periodicalIssue",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-08-19T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "the-high-republic-adventures-pathfinders-4",
+  "synopsis": "Mysterious happenings in the Outer Rim have led Jedi Master Temesh, Padawan Anula, and the rest of the Pathfinder team to a seemingly abandoned listening station. Yet to their horror the station’s twisting corridors are all but empty, bristling with hazardous traps and stalked by killer droids. Someone, or something, has been waiting for the Pathfinders . . . Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Six-issue series.",
   "title": "The High Republic Adventures: Pathfinders #4"
 }

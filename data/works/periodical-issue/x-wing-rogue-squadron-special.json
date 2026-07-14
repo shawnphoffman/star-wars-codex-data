@@ -6,9 +6,34 @@
       "name": "Ryder Windham",
       "role": "writer",
       "slug": "ryder-windham"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Monty Sheldon",
+      "role": "inker",
+      "slug": "monty-sheldon"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
-  "displayTitle": "X-Wing Rogue Squadron Special",
+  "displayTitle": "X-Wing Rogue Squadron Special (1995) #1",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -22,5 +47,5 @@
   "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron-special",
   "synopsis": "It's the Battle of Tandankin and the Rogue Squadron aim to win!",
-  "title": "X-Wing Rogue Squadron Special"
+  "title": "X-Wing Rogue Squadron Special (1995) #1"
 }

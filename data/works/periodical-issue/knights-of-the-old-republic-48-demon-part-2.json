@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "inker",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Brian Ching",
+      "role": "penciler",
+      "slug": "brian-ching"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "Knights of the Old Republic #48: Demon, Part 2",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2009-12-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-48-demon-part-2",
-  "synopsis": "Once again a fugitive from justice, former Jedi student Zayne Carrick and his partner Gryph finally find out the truth behind their enemy, the macabre Mandalorian scientist Demagol. Yet they've learned it too late to save a friend from deadly peril! The origin of Demagol is finally revealed!",
+  "synopsis": "Once again a fugitive from justice, former Jedi student Zayne Carrick and his partner Gryph finally find out the truth behind their enemy, the macabre Mandalorian scientist Demagol. Yet they've learned it too late to save a friend from deadly peril! The origin of Demagol revealed!",
   "title": "Knights of the Old Republic #48: Demon, Part 2"
 }

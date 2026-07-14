@@ -11,11 +11,20 @@
   "displayTitle": "Shatterpoint",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345455738"
+    },
+    {
       "type": "isbn13",
       "value": "9780345455734"
     }
   ],
   "editions": [
+    {
+      "isPrimary": false,
+      "isbn10": "0345455738",
+      "kind": "print"
+    },
     {
       "extent": 408,
       "imprint": "Del Rey",

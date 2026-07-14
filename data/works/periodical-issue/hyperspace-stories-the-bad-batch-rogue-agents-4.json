@@ -1,12 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Reese Hannigan",
+      "role": "penciler",
+      "slug": "reese-hannigan"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Valeria Favoccia",
+      "role": "coverArtist",
+      "slug": "valeria-favoccia"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    }
+  ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents #4",
   "format": "periodicalIssue",
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-07-15T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "hyperspace-stories-the-bad-batch-rogue-agents-4",
+  "synopsis": "The Bad Batch find themselves in Aurra Sing’s crosshairs once again! With the help of her rogue agents, the deadly assassin is determined to capture the doomsday device and get her revenge on Clone Force 99. Witness their epic rematch in this thrilling conclusion! Aurra Sing is back and looking for revenge! Witness the epic rematch in this thrilling conclusion!",
   "title": "Hyperspace Stories: The Bad Batch: Rogue Agents #4"
 }

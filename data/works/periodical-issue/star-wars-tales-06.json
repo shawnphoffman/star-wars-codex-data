@@ -1,5 +1,126 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Geraci",
+      "role": "inker",
+      "slug": "drew-geraci"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "inker",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Scott Morse",
+      "role": "inker",
+      "slug": "scott-morse"
+    },
+    {
+      "name": "Sergio Aragones",
+      "role": "inker",
+      "slug": "sergio-aragones"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dave Stewart",
+      "role": "colorist",
+      "slug": "dave-stewart"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "James Pascoe",
+      "role": "writer",
+      "slug": "james-pascoe"
+    },
+    {
+      "name": "Mark Evanier",
+      "role": "writer",
+      "slug": "mark-evanier"
+    },
+    {
+      "name": "Ian Edginton",
+      "role": "writer",
+      "slug": "ian-edginton"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "writer",
+      "slug": "mark-schultz"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Eric Powell",
+      "role": "penciler",
+      "slug": "eric-powell"
+    },
+    {
+      "name": "Scott Morse",
+      "role": "colorist",
+      "slug": "scott-morse"
+    },
+    {
+      "name": "Scott Morse",
+      "role": "writer",
+      "slug": "scott-morse"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "penciler",
+      "slug": "kilian-plunkett"
+    },
+    {
+      "name": "Scott Morse",
+      "role": "penciler",
+      "slug": "scott-morse"
+    },
+    {
+      "name": "Sergio Aragones",
+      "role": "penciler",
+      "slug": "sergio-aragones"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Mark Cox",
+      "slug": "mark-cox"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
+    }
+  ],
   "displayTitle": "Tales #06",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +132,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-06",
-  "synopsis": "Where can you find an encounter between Yoda and a probe droid on Dagobah, the chance meeting of C-3PO and Darth Vader on Cloud City, and a cannonball by Boba Fett into the Sarlacc on Tatooine? In the many pages of Star Wars Tales #6, the ultimate quarterly romp through a galaxy far, far away! This stellar issue features a Yoda story by Sean Konot and Scott Morse, a haunting tale of Darth Vader and C-3PO by Ryder Windham and Kilian Plunkett, a gritty yarn showcasing Greedo by Jim Pascoe, Tom Fassbender, and Eric Powell, plus many others!",
+  "synopsis": "Where can you find an encounter between Yoda and a probe droid on Degobah, the chance meeting of C-3PO and Darth Vader on Cloud City, and a cannonball by Boba Fett into the Sarlacc on Tatooine? In the many pages of Star Wars Tales #6, the ultimate quarterly romp through a galaxy far, far away ! This stellar issue features a Yoda story by Sean Konot and Scott Morse, a haunting tale of Darth Vader and C-3PO by Ryder Windham and Kilian Plunkett, a gritty yarn showcasing Greedo by Jim Pascoe, Tom Fassbender, and Eric Powell, plus many others!",
   "title": "Star Wars Tales #06"
 }

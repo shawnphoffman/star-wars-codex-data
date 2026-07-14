@@ -5,6 +5,41 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "artist",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
     }
   ],
   "displayTitle": "Invasion: Revelations #1",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "invasion-revelations-2011",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-07-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "invasion-revelations-2011-1",
-  "synopsis": "As the invading Yuuzhan Vong penetrate deeper into the galaxy, the Jedi fight back!\nBut one Jedi in training has taken a different path: Finn Galfridian, under the guidance of the mysterious Master Dray, infiltrates Coruscant and discovers revelations about the leaders of the New Republic that could lead to disaster!",
+  "synopsis": "As the invading Yuuzhan Vong penetrate deeper into the galaxy, the Jedi fight back! But one Jedi in training has taken a different path: Finn Galfridian, under the guidance of the mysterious Master Dray, infiltrates Coruscant and discovers revelations about the leaders of the New Republic that could lead to disaster! * Luke Skywalker, at the height of his Jedi powers, goes to war! Covers by Chris Scalf, artist of Blood Ties and Purge! Set within the time frame of the New Jedi Order novels from Del Rey!",
   "title": "Invasion: Revelations #1"
 }

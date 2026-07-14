@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Balance Point",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345428579"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 333,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345428579",
+      "kind": "print",
+      "onsale": "2000-10-31T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

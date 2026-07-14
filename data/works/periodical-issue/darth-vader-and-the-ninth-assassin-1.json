@@ -5,6 +5,31 @@
       "name": "Tim Siedell",
       "role": "writer",
       "slug": "tim-siedell"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Mark Irwin",
+      "role": "inker",
+      "slug": "mark-irwin"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Stephen Thompson",
+      "role": "penciler",
+      "slug": "stephen-thompson"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "role": "coverArtist",
+      "slug": "ariel-olivetti"
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin #1",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "darth-vader-and-the-ninth-assassin-graphic-novel",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-04-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "darth-vader-and-the-ninth-assassin-1",
-  "synopsis": "Eight assassins hired to murder Darth Vader, eight assassins dead. Now the man who enlisted them seeks a ninth assassin. The price? A cost higher than all the credits in his bottomless coffers. But when it comes to avenging his son, no sacrifice is too great to acquire the one man who can kill the Dark Lord of the Sith...",
+  "synopsis": "Eight assassins hired to murder Darth Vader—eight assassins dead. Now the man who enlisted them seeks a ninth assassin. The price? A cost higher than all the credits in his bottomless coffers. But when it comes to avenging his son, no sacrifice is too great to acquire the one man who can kill the Dark Lord of the Sith . . . The Hunt for Darth Vader is on! * All-new series starring Darth Vader! * Tim Siedell (@badbanana) has one of Time’s 140 Best Twitter Feeds!",
   "title": "Darth Vader and the Ninth Assassin #1"
 }

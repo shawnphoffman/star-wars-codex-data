@@ -1,5 +1,240 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
+  "creators": [
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "Paul Hornschemeier",
+      "role": "colorist",
+      "slug": "paul-hornschemeier"
+    },
+    {
+      "name": "Bob Fingerman",
+      "role": "colorist",
+      "slug": "bob-fingerman"
+    },
+    {
+      "name": "James Kochalka",
+      "role": "colorist",
+      "slug": "james-kochalka"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pete Bagge",
+      "role": "colorist",
+      "slug": "pete-bagge"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "letterer",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Gilbert Hernandez",
+      "role": "letterer",
+      "slug": "gilbert-hernandez"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Rick Geary",
+      "role": "letterer",
+      "slug": "rick-geary"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    },
+    {
+      "name": "Bob Fingerman",
+      "role": "letterer",
+      "slug": "bob-fingerman"
+    },
+    {
+      "name": "James Kochalka",
+      "role": "letterer",
+      "slug": "james-kochalka"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "letterer",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pete Bagge",
+      "role": "letterer",
+      "slug": "pete-bagge"
+    },
+    {
+      "name": "Bob Fingerman",
+      "role": "inker",
+      "slug": "bob-fingerman"
+    },
+    {
+      "name": "James Kochalka",
+      "role": "inker",
+      "slug": "james-kochalka"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "inker",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Gilbert Hernandez",
+      "role": "inker",
+      "slug": "gilbert-hernandez"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "inker",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Rick Geary",
+      "role": "inker",
+      "slug": "rick-geary"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "inker",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pete Bagge",
+      "role": "inker",
+      "slug": "pete-bagge"
+    },
+    {
+      "name": "Bob Fingerman",
+      "role": "penciler",
+      "slug": "bob-fingerman"
+    },
+    {
+      "name": "James Kochalka",
+      "role": "penciler",
+      "slug": "james-kochalka"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "penciler",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Gilbert Hernandez",
+      "role": "penciler",
+      "slug": "gilbert-hernandez"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "penciler",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Rick Geary",
+      "role": "penciler",
+      "slug": "rick-geary"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "penciler",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pete Bagge",
+      "role": "penciler",
+      "slug": "pete-bagge"
+    },
+    {
+      "name": "Bob Fingerman",
+      "role": "writer",
+      "slug": "bob-fingerman"
+    },
+    {
+      "name": "James Kochalka",
+      "role": "writer",
+      "slug": "james-kochalka"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "writer",
+      "slug": "tony-millionaire"
+    },
+    {
+      "name": "Gilbert Hernandez",
+      "role": "writer",
+      "slug": "gilbert-hernandez"
+    },
+    {
+      "name": "Vc Chris Eliopoulos",
+      "role": "writer",
+      "slug": "vc-chris-eliopoulos"
+    },
+    {
+      "name": "Rick Geary",
+      "role": "writer",
+      "slug": "rick-geary"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "writer",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Pete Bagge",
+      "role": "writer",
+      "slug": "pete-bagge"
+    },
+    {
+      "name": "Peter Bagge",
+      "slug": "peter-bagge"
+    },
+    {
+      "name": "James Kolchaka",
+      "slug": "james-kolchaka"
+    },
+    {
+      "name": "Tony Millionaire",
+      "role": "coverArtist",
+      "slug": "tony-millionaire"
+    }
+  ],
   "displayTitle": "Tales #20",
   "era": "multiEra",
   "format": "periodicalIssue",
@@ -11,6 +246,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-tales-20",
-  "synopsis": "A non-canon comedy anthology built around Jar Jar Binks, with contributions from independent-comics creators. The featured stories are:\n\n- *George R. Binks*, spotlighting Jar Jar's long-suffering father.\n- *Who's Your Daddy*.\n- *Fred Jawa*.\n- *Luke Skywalker: Detective*.\n- *Hunger Pains*.\n- *Failing Up With Jar Jar Binks*, skewering the Gungan's leadership skills as a senator.\n- *Nobody's Perfect*.\n- *Problem Solvers*.\n- *Melvin Fett*, following Boba Fett's hapless cousin.\n- *Young Lando Calrissian*.",
+  "synopsis": "This issue features some of the heavy hitters from the world of indy comics! Gasp as Tony Millionaire (Sock Monkey) offers up a story featuring JAR JAR BINKS’S long suffering father—George R. Binks! Squeal in delight at Peter Bagge (Hate) exposes the underdeveloped leadership skills of Senate Representative JAR JAR BINKS! Gasp as James Kolchaka (American Elf) chronicles the exploits of Boba Fett’s cousin Melvin as he tries to assassinate a JAR JAR BINKS sippy cup! And marvel at the utter lack of JAR JAR BINKS in stories by Gilbert Hernandez (Love & Rockets) and Bob Fingerman (Minimum Wage)! Plus much MORE! • Star Wars is now available worldwide (except UK).",
   "title": "Star Wars Tales #20"
 }

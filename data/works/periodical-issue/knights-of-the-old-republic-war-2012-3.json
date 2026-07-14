@@ -5,6 +5,31 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Gigi Baldassini",
+      "role": "inker",
+      "slug": "gigi-baldassini"
+    },
+    {
+      "name": "Benjamin Carr&eacute;",
+      "role": "coverArtist",
+      "slug": "benjamin-carreacute"
     }
   ],
   "displayTitle": "Knights of the Old Republic: War #3",
@@ -15,12 +40,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic-war-2012",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-03-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-war-2012-3",
-  "synopsis": "Peace-loving Jedi Zayne Carrick is an unwilling recruit in the war between the Republic and the Mandalorians. When he discovers that his homeworld is about to become the center of a battle zone, Zayne is prepared to do everything to prevent bloodshed, like calling in a favor from an old friend and putting together a complicated ruse!",
+  "synopsis": "Peace-loving Jedi Zayne Carrick is an unwilling recruit in the war between the Republic and the Mandalorians. When he discovers that his homeworld is about to become the center of a battle zone, Zayne is prepared to do everything to prevent bloodshed—like calling in a favor from an old friend and putting together a complicated ruse! *The Knights of the Old Republic video games and comics are legendary among Star Wars fans!",
   "title": "Knights of the Old Republic: War #3"
 }

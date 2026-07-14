@@ -62,9 +62,9 @@
       "slug": "salvador-larroca"
     },
     {
-      "name": "Frank Martin jr",
+      "name": "Frank Martin",
       "role": "artist",
-      "slug": "frank-martin-jr"
+      "slug": "frank-martin"
     },
     {
       "name": "Laura Martin",
@@ -90,6 +90,41 @@
       "name": "Terry Dodson",
       "role": "artist",
       "slug": "terry-dodson"
+    },
+    {
+      "name": "Paul Mounts",
+      "role": "coverArtist",
+      "slug": "paul-mounts"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "inker",
+      "slug": "salvador-larroca"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
     }
   ],
   "displayTitle": "Star Wars (2015) #54: Hope Dies Part V",

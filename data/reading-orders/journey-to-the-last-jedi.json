@@ -1,0 +1,47 @@
+{
+  "entries": [
+    {
+      "note": "Phasma's escape from Starkiller Base, bridging the two films.",
+      "priority": "essential",
+      "workSlug": "captain-phasma"
+    },
+    {
+      "note": "Teenage Leia's path into the Rebellion and her Alderaanian roots.",
+      "priority": "essential",
+      "workSlug": "leia-princess-of-alderaan"
+    },
+    {
+      "note": "The chrome trooper's brutal origin on Parnassos.",
+      "priority": "essential",
+      "workSlug": "phasma"
+    },
+    {
+      "note": "IDW's all-ages ongoing, launched under the banner.",
+      "priority": "optional",
+      "workSlug": "star-wars-adventures-2017"
+    },
+    {
+      "note": "Tall tales about Luke that echo his myth in the sequel era.",
+      "priority": "recommended",
+      "workSlug": "the-legends-of-luke-skywalker"
+    },
+    {
+      "note": "Rose and Paige Tico with the Resistance bomber corps.",
+      "priority": "recommended",
+      "workSlug": "cobalt-squadron"
+    },
+    {
+      "note": "Reference volume on the troopers (catalogued as non-canon).",
+      "priority": "optional",
+      "workSlug": "stormtroopers-beyond-the-armor"
+    },
+    {
+      "note": "Four novellas set in the casino city before the Resistance arrives.",
+      "priority": "recommended",
+      "workSlug": "canto-bight"
+    }
+  ],
+  "slug": "journey-to-the-last-jedi",
+  "summary": "The 2017 publishing program leading into Episode VIII. Novels, a Phasma comic, and connected fiction, in release order.",
+  "title": "Journey to Star Wars: The Last Jedi"
+}

@@ -1,0 +1,73 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Facundo Percio",
+      "role": "penciler",
+      "slug": "facundo-percio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "penciler",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "inker",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Frank Martin",
+      "role": "colorist",
+      "slug": "frank-martin"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
+    }
+  ],
+  "displayTitle": "Star Wars #14",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2014-02-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-14",
+  "synopsis": "Ben Kenobi haunts Darth Vader’s dreams, even as the name Skywalker occupies his waking thoughts. The Rebel victory over his former flagship has exposed spies and incompetence within the Empire, and Vader has decided an off-the-record mission of vengeance is needed to clear his head—and restore his reputation! * Artist Facundo Percio from Warren Ellis’s Anna Mercury! “If you haven’t read this series yet, please do so.”—Comic Booked “A great read and has been each and every issue.”—Comic List",
+  "title": "Star Wars #14"
+}

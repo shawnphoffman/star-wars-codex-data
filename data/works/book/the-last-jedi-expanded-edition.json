@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9781524797119"
+    },
+    {
+      "type": "isbn13",
       "value": "9781524797133"
     }
   ],
@@ -23,11 +27,19 @@
     {
       "extent": 336,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9781524797119",
+      "kind": "print",
+      "onsale": "2018-03-06T00:00:00.000Z"
+    },
+    {
+      "extent": 432,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "1524797138",
       "isbn13": "9781524797133",
       "kind": "print",
-      "onsale": "2018-03-06T00:00:00.000Z"
+      "onsale": "2018-11-27T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -39,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-expanded-edition",
-  "synopsis": "Luke Skywalker has been found. But as Rey is about to discover, it’s not going to be easy to convince him to join yet another fight against tyranny.",
+  "synopsis": "Luke Skywalker has been found. But as Rey is about to discover, it's not going to be easy to convince him to join yet another fight against tyranny.",
   "title": "The Last Jedi: Expanded Edition"
 }

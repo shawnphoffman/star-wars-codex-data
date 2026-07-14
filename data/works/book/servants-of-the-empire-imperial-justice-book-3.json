@@ -15,11 +15,23 @@
       "value": "1405277807"
     },
     {
+      "type": "isbn10",
+      "value": "1484716604"
+    },
+    {
       "type": "isbn13",
       "value": "9781405277808"
     }
   ],
   "editions": [
+    {
+      "extent": 164,
+      "imprint": "Disney–Lucasfilm Press",
+      "isPrimary": false,
+      "isbn10": "1484716604",
+      "kind": "print",
+      "onsale": "2015-07-07T00:00:00.000Z"
+    },
     {
       "extent": 164,
       "imprint": "Disney-Lucasfilm Press",

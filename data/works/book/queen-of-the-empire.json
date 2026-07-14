@@ -14,6 +14,21 @@
     }
   ],
   "displayTitle": "Queen of the Empire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553158910"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553158910",
+      "kind": "print",
+      "onsale": "1993-03-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

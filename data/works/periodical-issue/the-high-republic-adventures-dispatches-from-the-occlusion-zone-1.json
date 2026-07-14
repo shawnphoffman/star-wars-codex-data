@@ -10,6 +10,31 @@
       "name": "Paris Alleyne",
       "role": "artist",
       "slug": "paris-alleyne"
+    },
+    {
+      "name": "Paris Alleyne",
+      "role": "penciler",
+      "slug": "paris-alleyne"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
     }
   ],
   "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #1",

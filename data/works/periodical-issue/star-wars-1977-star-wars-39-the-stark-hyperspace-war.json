@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Jon Foster",
+      "role": "coverArtist",
+      "slug": "jon-foster"
+    }
+  ],
+  "displayTitle": "Star Wars #39: The Stark Hyperspace War",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-1977",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-02-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-1977-star-wars-39-the-stark-hyperspace-war",
+  "synopsis": "While Tholme and Quinlan Vos try to make their escape from Thyferra, the Republic forces on Troiken stage a desperate battle against the overwhelming might of the Stark Collective. Can Plo Koon, Qui-Gon Jinn, and Adi Gallia rally the troops? And can they get Senator Valorum back to Coruscant before the Republic surrenders to Stark's demands? Don't miss the thrilling conclusion to the Stark Hyperspace War.",
+  "title": "Star Wars #39: The Stark Hyperspace War"
+}

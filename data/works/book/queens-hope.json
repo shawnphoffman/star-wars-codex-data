@@ -21,13 +21,13 @@
   ],
   "editions": [
     {
-      "extent": 352,
-      "imprint": "Disney-Lucasfilm Press",
+      "extent": 288,
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368075932",
       "isbn13": "9781368075930",
       "kind": "print",
-      "onsale": "2022-01-25T00:00:00.000Z"
+      "onsale": "2022-04-05T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
@@ -35,7 +35,7 @@
   "inUniverseDate": {
     "startYear": -22
   },
-  "releaseDate": "2022-01-25T00:00:00.000Z",
+  "releaseDate": "2022-04-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "queens-hope",

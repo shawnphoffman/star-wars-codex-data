@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brennan Anderson",
+      "role": "composer",
+      "slug": "brennan-anderson"
+    }
+  ],
   "displayTitle": "Assault Team",
   "era": "ageOfRebellion",
   "format": "videoGame",

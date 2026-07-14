@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Gary Erskine",
+      "role": "inker",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Gary Erskine",
+      "role": "penciler",
+      "slug": "gary-erskine"
+    },
+    {
+      "name": "Mike W. Barr",
+      "role": "writer",
+      "slug": "mike-w-barr"
+    },
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    },
+    {
+      "name": "Annie Parkhouse",
+      "role": "letterer",
+      "slug": "annie-parkhouse"
+    }
+  ],
+  "displayTitle": "X-Wing Rogue Squadron (1995) #0.5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "x-wing-rogue-squadron-2",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "x-wing-rogue-squadron-2-x-wing-rogue-squadron-1995-05",
+  "title": "X-Wing Rogue Squadron (1995) #0.5"
+}

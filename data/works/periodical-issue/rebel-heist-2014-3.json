@@ -5,6 +5,36 @@
       "name": "Matt Kindt",
       "role": "writer",
       "slug": "matt-kindt"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Marco Castiello",
+      "role": "penciler",
+      "slug": "marco-castiello"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Adam Hughes",
+      "role": "coverArtist",
+      "slug": "adam-hughes"
     }
   ],
   "displayTitle": "Rebel Heist #3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "rebel-heist-2014",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-06-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-heist-2014-3",
-  "synopsis": "Han Solo is in an Imperial jail, and a crime boss has the information that will free him. Enter Chewbacca, who pounds and pummels his way through the mission, accompanied by an untrusting ex-Imperial who can't understand a word Chewie says. Not that words matter much to a Wookiee on a rampage!",
+  "synopsis": "Han Solo is in an Imperial jail, and a crime boss has the information that will free him. Enter Chewbacca, who pounds and pummels his way through the mission, accompanied by an untrusting ex-Imperial who can’t understand a word Chewie says. Not that words matter much to a Wookiee on a rampage! * Covers by Adam Hughes and Matt Kindt!",
   "title": "Rebel Heist #3"
 }

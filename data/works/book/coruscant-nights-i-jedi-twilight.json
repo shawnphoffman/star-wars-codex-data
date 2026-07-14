@@ -11,15 +11,20 @@
   "displayTitle": "Coruscant Nights I: Jedi Twilight",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345477502"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477507"
     }
   ],
   "editions": [
     {
-      "extent": 350,
-      "imprint": "Del Rey",
+      "extent": 368,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345477502",
       "isbn13": "9780345477507",
       "kind": "print",
       "onsale": "2008-06-24T00:00:00.000Z"

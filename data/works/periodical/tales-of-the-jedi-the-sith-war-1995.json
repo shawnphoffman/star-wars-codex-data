@@ -30,6 +30,51 @@
       "name": "David Jacob Beckett",
       "role": "artist",
       "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Dario Carrasco, Jr.",
+      "role": "penciler",
+      "slug": "dario-carrasco-jr"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Mark G. Heike",
+      "role": "inker",
+      "slug": "mark-g-heike"
+    },
+    {
+      "name": "Bill Black",
+      "role": "inker",
+      "slug": "bill-black"
+    },
+    {
+      "name": "David Jacob Beckett",
+      "role": "inker",
+      "slug": "david-jacob-beckett"
+    },
+    {
+      "name": "Rachelle Menashe",
+      "role": "colorist",
+      "slug": "rachelle-menashe"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Willie Schubert",
+      "role": "letterer",
+      "slug": "willie-schubert"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
     }
   ],
   "displayTitle": "Tales of the Jedi: The Sith War",
@@ -38,7 +83,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "1995-08-15T00:00:00.000Z",
+  "releaseDate": "1995-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-of-the-jedi-the-sith-war-1995",

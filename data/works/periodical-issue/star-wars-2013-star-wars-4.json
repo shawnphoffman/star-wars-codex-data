@@ -1,0 +1,68 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Alex Ross",
+      "role": "coverArtist",
+      "slug": "alex-ross"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "penciler",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "inker",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "colorist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "coverArtist",
+      "slug": "john-cassaday"
+    }
+  ],
+  "displayTitle": "Star Wars #4",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-2013",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-04-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-2013-star-wars-4",
+  "synopsis": "As Princess Leia’s stealth squadron lays a trap for the spy within their ranks, she soon realizes that the Rebels are ill prepared for the Empire’s zealous pursuit. Meanwhile, Han Solo flees from the Empire through the lower levels of Coruscant, and Luke Skywalker enjoys being grounded with a female friend . . . * Classic era characters! * Brian Wood! Alex Ross! * Ask your retailer about the Alex Ross Star Wars #1 sketch variant!",
+  "title": "Star Wars #4"
+}

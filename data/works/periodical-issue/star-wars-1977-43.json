@@ -5,6 +5,26 @@
       "name": "Archie Goodwin",
       "role": "writer",
       "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "penciler",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Rick Veitch",
+      "role": "letterer",
+      "slug": "rick-veitch"
+    },
+    {
+      "name": "Glynis Oliver",
+      "role": "colorist",
+      "slug": "glynis-oliver"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
     }
   ],
   "displayTitle": "Star Wars (1977) #43: The Empire Strikes Back: Betrayal at Bespin",

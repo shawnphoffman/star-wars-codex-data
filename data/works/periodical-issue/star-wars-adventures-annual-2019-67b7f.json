@@ -15,6 +15,56 @@
       "name": "Stan Sakai",
       "role": "artist",
       "slug": "stan-sakai"
+    },
+    {
+      "name": "Hare-Brained Heist",
+      "role": "writer",
+      "slug": "hare-brained-heist"
+    },
+    {
+      "name": "Pierrick Colinet",
+      "role": "writer",
+      "slug": "pierrick-colinet"
+    },
+    {
+      "name": "So Much More",
+      "role": "writer",
+      "slug": "so-much-more"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "writer",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Mauricet",
+      "role": "penciler",
+      "slug": "mauricet"
+    },
+    {
+      "name": "Margaux Saltel",
+      "role": "penciler",
+      "slug": "margaux-saltel"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "colorist",
+      "slug": "charlie-kirchoff"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Stan Sakai",
+      "role": "coverArtist",
+      "slug": "stan-sakai"
+    },
+    {
+      "name": "Thomas Deer",
+      "role": "coverArtist",
+      "slug": "thomas-deer"
     }
   ],
   "displayTitle": "Adventures Annual 2019 - So Much More",

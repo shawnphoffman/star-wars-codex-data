@@ -10,6 +10,36 @@
       "name": "Nico Leon",
       "role": "artist",
       "slug": "nico-leon"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "inker",
+      "slug": "nico-leon"
+    },
+    {
+      "name": "Nico Leon",
+      "role": "penciler",
+      "slug": "nico-leon"
+    },
+    {
+      "name": "Dono Sanchez-Almara",
+      "role": "colorist",
+      "slug": "dono-sanchez-almara"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Yoda #03",

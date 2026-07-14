@@ -1,0 +1,47 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "artist",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Francesco Segala",
+      "role": "colorist",
+      "slug": "francesco-segala"
+    },
+    {
+      "name": "Gloria Martinelli",
+      "role": "colorist",
+      "slug": "gloria-martinelli"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Valentina Taddeo",
+      "role": "coverArtist",
+      "slug": "valentina-taddeo"
+    }
+  ],
+  "displayTitle": "The High Republic Adventures Phase III: Echoes of Fear #4",
+  "format": "periodicalIssue",
+  "periodical": {
+    "pageCount": 32,
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-01-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-adventures-phase-iii-echoes-of-fear-4",
+  "synopsis": "Jedi Knight Reath Silas and Jedi Padawan Amadeo Azzazzo embark on a desperate mission to recover the Rod of Ages—the last known fragment of an Echo Stone--in time to help contain the greatest threat that has ever faced the Jedi Order: the deadly Force-eaters known as the Nameless. • Series finale!",
+  "title": "The High Republic Adventures Phase III: Echoes of Fear #4"
+}

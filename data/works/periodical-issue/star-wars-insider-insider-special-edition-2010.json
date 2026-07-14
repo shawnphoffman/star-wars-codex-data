@@ -1,10 +1,11 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "other",
   "displayTitle": "Insider - Special Edition 2010",
   "era": "multiEra",
   "format": "periodicalIssue",
   "parentWorkSlug": "star-wars-insider",
   "periodical": {
+    "pageCount": 149,
     "publicationKind": "magazine"
   },
   "releaseDate": "2009-11-17T00:00:00.000Z",

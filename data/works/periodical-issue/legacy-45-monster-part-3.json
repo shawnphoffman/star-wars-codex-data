@@ -5,6 +5,41 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "writer",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "coverArtist",
+      "slug": "chris-scalf"
     }
   ],
   "displayTitle": "Legacy #45: Monster, Part 3",
@@ -15,12 +50,13 @@
   },
   "parentWorkSlug": "legacy-2006",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-02-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-45-monster-part-3",
-  "synopsis": "Wayland is a world overrun with Yuuzhan Vong flora and fauna -- almost all of it hostile to humans. Cade and his friends have been separated, Deliah Blue has been captured, and they're about to meet the source of all of the Vongspawn! Elsewhere, the Jedi, Roan Fel's Imperials, and the Sith are preparing to converge on Agamar -- revealing some unexpected alliances...",
+  "synopsis": "Wayland is a world overrun with Yuuzhan Vong flora and fauna -- almost all of it hostile to humans. Cade and his friends have been separated, Deliah Blue has been captured, and they're about to meet the source of all of the Vongspawn! Elsewhere, the Jedi, Roan Fel's Imperials, and the Sith are preparing to converge on Agamar -- revealing some unexpected alliances . . .",
   "title": "Legacy #45: Monster, Part 3"
 }

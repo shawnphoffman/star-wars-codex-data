@@ -6,21 +6,46 @@
       "name": "Charles Soule",
       "role": "writer",
       "slug": "charles-soule"
+    },
+    {
+      "name": "Cavan Scott",
+      "role": "writer",
+      "slug": "cavan-scott"
+    },
+    {
+      "name": "Justina Ireland",
+      "role": "writer",
+      "slug": "justina-ireland"
     }
   ],
   "displayTitle": "Insider: The High Republic: Starlight Stories",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1787738655"
+    },
+    {
       "type": "isbn13",
       "value": "9781787738652"
     }
   ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "isbn10": "1787738655",
+      "isbn13": "9781787738652",
+      "kind": "print",
+      "onsale": "2022-12-06T00:00:00.000Z"
+    }
+  ],
   "era": "highRepublic",
   "format": "book",
-  "releaseDate": "2022-12-01T00:00:00.000Z",
+  "releaseDate": "2022-12-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "starlight",
-  "synopsis": "High Republic-era short tales told from the satellite station Starlight Beacon, centuries before the films at the height of the Jedi Order; gathers the Insider \"Starlight\" shorts for the first time with illustrations and architect interviews.",
+  "synopsis": "Titan Comics, publisher of the official Star Wars Insider magazine, is proud to offer an amazing collection of exclusive short stories for Star Wars: The High Republic. Written by The New York Times ’ best-selling authors Charles Soule, Cavan Scott and Justina Ireland, with supporting original illustrations by Louie De Martinis. EXPERIENCE THE GALAXY CENTURIES BEFORE THE STRUGGLE OF THE REBEL ALLIANCE AGAINST THE GALACTIC EMPIRE—AT THE HEIGHT OF THE JEDI ORDER! A compendium of tales from the High Republic era, told from aboard the incredible satellite station, the Starlight Beacon, collected for the first time from the pages of Star Wars Insider . All stories are written by The New York Times ’ best-selling authors Cavan Scott, Charles Soule, and Justina Ireland. Also includes in-depth interviews with the story architects behind the best-selling publishing and multimedia initiative. Stories included: “Go Together” by Charles Soule “First Duty” by Cavan Scott “Hidden Danger” by Justina Ireland “Past Mistakes” by Cavan Scott “Shadows Remain” by Justina Ireland",
   "title": "Star Wars Insider: The High Republic: Starlight Stories"
 }

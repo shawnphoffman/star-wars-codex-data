@@ -10,9 +10,19 @@
       "name": "Nicole Dubuc",
       "role": "writer",
       "slug": "nicole-dubuc"
+    },
+    {
+      "name": "Mel Zwyer",
+      "role": "director",
+      "slug": "mel-zwyer"
+    },
+    {
+      "name": "Gary Whitta",
+      "role": "writer",
+      "slug": "gary-whitta"
     }
   ],
-  "displayTitle": "The Wykanthu Job",
+  "displayTitle": "The Wynkahthu Job",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
   "inUniverseDate": {

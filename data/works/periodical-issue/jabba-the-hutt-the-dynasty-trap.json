@@ -6,6 +6,40 @@
       "name": "Jim Woodring",
       "role": "writer",
       "slug": "jim-woodring"
+    },
+    {
+      "name": "Art Wetherell",
+      "role": "penciler",
+      "slug": "art-wetherell"
+    },
+    {
+      "name": "Monty Sheldon",
+      "role": "inker",
+      "slug": "monty-sheldon"
+    },
+    {
+      "name": "Rachelle Menashe",
+      "role": "colorist",
+      "slug": "rachelle-menashe"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "editor",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Mick Harrison",
+      "role": "coverArtist",
+      "slug": "mick-harrison"
     }
   ],
   "displayTitle": "Jabba the Hutt: The Dynasty Trap",

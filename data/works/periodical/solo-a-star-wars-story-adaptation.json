@@ -10,12 +10,28 @@
       "name": "Will Sliney",
       "role": "artist",
       "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "coverArtist",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Solo: A Star Wars Story Adaptation",
   "era": "reignOfTheEmpire",
   "format": "periodical",
   "periodical": {
+    "imprint": "Marvel",
     "publicationKind": "comic"
   },
   "releaseDate": "2018-10-10T00:00:00.000Z",

@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "General Jar Jar",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780439101608"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439101608",
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

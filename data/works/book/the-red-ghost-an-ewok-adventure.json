@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "The Red Ghost: An Ewok Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394878655"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0394878655",
+      "kind": "print",
+      "onsale": "1986-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "1986-07-01T00:00:00.000Z",
+  "releaseDate": "1986-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-red-ghost-an-ewok-adventure",

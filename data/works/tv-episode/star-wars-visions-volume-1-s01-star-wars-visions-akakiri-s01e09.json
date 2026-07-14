@@ -1,10 +1,15 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "other",
   "creators": [
     {
       "name": "Eunyoung Choi",
       "role": "director",
       "slug": "eunyoung-choi"
+    },
+    {
+      "name": "Yuichiro Kido",
+      "role": "writer",
+      "slug": "yuichiro-kido"
     }
   ],
   "displayTitle": "Akakiri",

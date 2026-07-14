@@ -5,6 +5,31 @@
       "name": "Haden Blackman",
       "role": "writer",
       "slug": "haden-blackman"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "penciler",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Raul Fernandez",
+      "role": "inker",
+      "slug": "raul-fernandez"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "letterer",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "coverArtist",
+      "slug": "ramn-f-bachs"
     }
   ],
   "displayTitle": "Jango Fett: Open Seasons",
@@ -17,7 +42,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2002-11-01T00:00:00.000Z",
+  "releaseDate": "2002-05-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jango-fett-open-seasons-graphic-novel",

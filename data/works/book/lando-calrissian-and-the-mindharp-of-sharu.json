@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Lando Calrissian and the Mindharp of Sharu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345311580"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345311580",
+      "kind": "print",
+      "onsale": "1983-06-12T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

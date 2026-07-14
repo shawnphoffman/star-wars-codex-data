@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Jedi Dawn (Lost Jedi Adventure Game Book)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1852838086"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Boxtree",
+      "isPrimary": true,
+      "isbn10": "1852838086",
+      "kind": "print",
+      "onsale": "1993-09-30T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

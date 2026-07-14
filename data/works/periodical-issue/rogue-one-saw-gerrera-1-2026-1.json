@@ -1,0 +1,53 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Laura Martin",
+      "role": "coverArtist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Federico Blee",
+      "role": "colorist",
+      "slug": "federico-blee"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
+    },
+    {
+      "name": "Marc Bernardin",
+      "role": "writer",
+      "slug": "marc-bernardin"
+    }
+  ],
+  "displayTitle": "Rogue One: Saw Gerrera #1 (2026) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "rogue-one-saw-gerrera-1-2026-1",
+  "title": "Rogue One: Saw Gerrera #1 (2026) #1"
+}

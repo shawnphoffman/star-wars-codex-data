@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Lando Calrissian and the Starcave of ThonBoka",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345311641"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345311641",
+      "kind": "print",
+      "onsale": "1983-11-12T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

@@ -1,0 +1,70 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bruce Jones",
+      "role": "writer",
+      "slug": "bruce-jones"
+    },
+    {
+      "name": "Eduardo Barreto",
+      "role": "penciler",
+      "slug": "eduardo-barreto"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "inker",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "Cary Porter",
+      "role": "colorist",
+      "slug": "cary-porter"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Dave Dorman",
+      "role": "coverArtist",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Eduardo Barreto",
+      "role": "inker",
+      "slug": "eduardo-barreto"
+    },
+    {
+      "name": "James Sinclair",
+      "role": "colorist",
+      "slug": "james-sinclair"
+    }
+  ],
+  "displayTitle": "A New Hope: The Special Edition #3",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-hope-the-special-edition-3",
+  "synopsis": "The all-new adaptation of the first Star Wars motion picture continues! So special is this Special Edition motion picture that Dark Horse is releasing the comics version simultaneously as a four-issue, monthly comics series and as a single-volume, trade paperback collection. The covers of the four-issue series are each painted by Dave Dorman, and, when placed beside one another, they form one massive Star Wars image with the Death Star at the center.",
+  "title": "A New Hope: The Special Edition #3"
+}

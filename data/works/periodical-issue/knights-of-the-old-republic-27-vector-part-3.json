@@ -5,6 +5,36 @@
       "name": "John Jackson Miller",
       "role": "writer",
       "slug": "john-jackson-miller"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Scott Hepburn",
+      "role": "penciler",
+      "slug": "scott-hepburn"
+    },
+    {
+      "name": "Daniel J. Parsons",
+      "role": "inker",
+      "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Dustin Weaver",
+      "role": "coverArtist",
+      "slug": "dustin-weaver"
     }
   ],
   "displayTitle": "Knights of the Old Republic #27: Vector, Part 3",
@@ -15,12 +45,13 @@
   },
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
-  "releaseDate": "2008-04-23T00:00:00.000Z",
+  "releaseDate": "2008-04-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "knights-of-the-old-republic-27-vector-part-3",
-  "synopsis": "An ancient evil gains long-coveted power in the third part of 2008's biggest Star Wars event! Something terrible is spreading among the Mandalorians, threatening to bring their conquest of the galaxy to a previously unthinkable new level! Unfortunately, fugitive Padawan Zayne Carrick and the con artist Gryph don't even know how they're going to survive their current predicament, let alone stop this horrifying threat! Lucky for the galaxy, their companion Jedi Celeste Morne has a few ideas about what to do. Unlucky for Zayne, Celeste's boss wants him dead!",
+  "synopsis": "An ancient evil gains long-coveted power in the third part of 2008's biggest Star Wars event! Something terrible is spreading among the Mandalorians, threatening to bring their conquest of the galaxy to a previously unthinkable new level! Unfortunately, fugitive Padawan Zayne Carrick and the con artist Gryph don't even know how they're going to survive their current predicament, let alone stop this horrifying threat! Lucky for the galaxy, their companion Jedi Celeste Morne has a few ideas about what to do. Unlucky for Zayne, Celeste's boss wants him dead! * This is only the third issue of \"Vector,\" a 12-part storyline that will run through every Star Wars title, from Knights of the Old Republic, to Dark Times, to Rebellion, to Legacy.",
   "title": "Knights of the Old Republic #27: Vector, Part 3"
 }

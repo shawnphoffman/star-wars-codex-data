@@ -1,0 +1,55 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "artist",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Frank Lopez",
+      "role": "colorist",
+      "slug": "frank-lopez"
+    },
+    {
+      "name": "Rick Veitch",
+      "role": "letterer",
+      "slug": "rick-veitch"
+    },
+    {
+      "name": "Bob Cooper",
+      "role": "editor",
+      "slug": "bob-cooper"
+    },
+    {
+      "name": "Edward Martin III",
+      "role": "editor",
+      "slug": "edward-martin-iii"
+    },
+    {
+      "name": "Scott Tice",
+      "slug": "scott-tice"
+    },
+    {
+      "name": "Cam Kennedy",
+      "role": "coverArtist",
+      "slug": "cam-kennedy"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Empire Strikes Back #2",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-empire-strikes-back-2",
+  "synopsis": "The classic adaptation of the second Star Wars movie continues as Luke's Jedi training with Yoda progresses, and the Rebels' fight against the Empire takes a turn for the worse as Han Solo gets himself into a rather sticky situation. This second of two volumes reprints the Marvel Comics adaptation of The Empire Strikes Back from 1980.",
+  "title": "Classic Star Wars: The Empire Strikes Back #2"
+}

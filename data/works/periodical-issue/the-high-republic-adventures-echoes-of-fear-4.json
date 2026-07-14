@@ -10,6 +10,41 @@
       "name": "Vincenzo Federici",
       "role": "artist",
       "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "penciler",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Francesco Segala",
+      "role": "colorist",
+      "slug": "francesco-segala"
+    },
+    {
+      "name": "Gloria Martinelli",
+      "role": "colorist",
+      "slug": "gloria-martinelli"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Eduardo Mello",
+      "role": "coverArtist",
+      "slug": "eduardo-mello"
+    },
+    {
+      "name": "Valentina Taddeo",
+      "role": "coverArtist",
+      "slug": "valentina-taddeo"
     }
   ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear #4",
