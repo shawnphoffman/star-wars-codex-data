@@ -8,16 +8,44 @@
       "slug": "mur-lafferty"
     }
   ],
-  "displayTitle": "Solo",
-  "editions": [
+  "displayTitle": "Solo: A Star Wars Story",
+  "editionIds": [
     {
-      "imprint": "Del Rey",
-      "isPrimary": true,
-      "kind": "print"
+      "type": "isbn10",
+      "value": "1984819283"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780525619390"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984819284"
     }
   ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780525619390",
+      "kind": "print",
+      "onsale": "2018-09-04T00:00:00.000Z"
+    },
+    {
+      "extent": 368,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "1984819283",
+      "isbn13": "9781984819284",
+      "kind": "print",
+      "onsale": "2019-04-30T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
+    "endYear": -10,
     "startYear": -13
   },
   "releaseDate": "2018-09-04T00:00:00.000Z",
@@ -25,5 +53,5 @@
   "releaseStatus": "released",
   "slug": "solo-novelization",
   "synopsis": "Board the Millennium Falcon and journey to a galaxy far, far away with the most beloved scoundrel in the galaxy in this thrilling novelization of Solo: A Star Wars Story.",
-  "title": "Solo"
+  "title": "Solo: A Star Wars Story"
 }

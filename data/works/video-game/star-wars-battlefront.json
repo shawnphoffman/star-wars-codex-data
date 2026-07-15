@@ -10,6 +10,9 @@
   "displayTitle": "Battlefront",
   "era": "multiEra",
   "format": "videoGame",
+  "relatedWorkSlugs": [
+    "battlefront-twilight-company"
+  ],
   "releaseDate": "2020-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

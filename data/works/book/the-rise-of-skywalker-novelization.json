@@ -9,11 +9,37 @@
     }
   ],
   "displayTitle": "The Rise of Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1984818643"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593128404"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781984818645"
+    }
+  ],
   "editions": [
     {
+      "extent": 368,
       "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780593128404",
+      "kind": "print",
+      "onsale": "2020-03-17T00:00:00.000Z"
+    },
+    {
+      "extent": 352,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "1984818643",
+      "isbn13": "9781984818645",
+      "kind": "print",
+      "onsale": "2020-10-27T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",

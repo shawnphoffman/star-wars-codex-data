@@ -9,14 +9,40 @@
     }
   ],
   "displayTitle": "The Last Jedi",
-  "editions": [
+  "editionIds": [
     {
-      "imprint": "Del Rey",
-      "isPrimary": true,
-      "kind": "print"
+      "type": "isbn10",
+      "value": "1524797138"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781524797119"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781524797133"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9781524797119",
+      "kind": "print",
+      "onsale": "2018-03-06T00:00:00.000Z"
+    },
+    {
+      "extent": 432,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn10": "1524797138",
+      "isbn13": "9781524797133",
+      "kind": "print",
+      "onsale": "2018-11-27T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

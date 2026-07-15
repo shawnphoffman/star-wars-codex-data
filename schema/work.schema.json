@@ -9,8 +9,7 @@
     "canonStatus": {
       "enum": [
         "canon",
-        "non-canon",
-        "other"
+        "non-canon"
       ],
       "type": "string"
     },

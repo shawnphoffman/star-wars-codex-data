@@ -36,6 +36,11 @@
     "endYear": 3,
     "startYear": -6
   },
+  "relatedWorkSlugs": [
+    "battlefront-ii-2017-game",
+    "battlefront-ii-inferno-squad",
+    "star-wars-battlefront"
+  ],
   "releaseDate": "2015-11-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

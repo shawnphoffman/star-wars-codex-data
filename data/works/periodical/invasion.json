@@ -10,6 +10,26 @@
       "name": "Colin Wilson",
       "role": "artist",
       "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Jo Chen",
+      "role": "coverArtist",
+      "slug": "jo-chen"
     }
   ],
   "displayTitle": "Invasion",

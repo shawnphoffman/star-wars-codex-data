@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9781484728222"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484735503"
     }
   ],
   "editions": [
@@ -40,6 +44,12 @@
       "isbn13": "9781484728222",
       "kind": "print",
       "onsale": "2015-12-18T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney Publishing Worldwide",
+      "isPrimary": false,
+      "isbn13": "9781484735503",
+      "kind": "print"
     }
   ],
   "era": "riseOfTheFirstOrder",
