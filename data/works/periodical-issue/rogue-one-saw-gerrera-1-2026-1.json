@@ -43,11 +43,16 @@
     }
   ],
   "displayTitle": "Rogue One: Saw Gerrera #1 (2026) #1",
+  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -1
+  },
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "rogue-one-saw-gerrera-1-2026-1",
   "title": "Rogue One: Saw Gerrera #1 (2026) #1"
 }
