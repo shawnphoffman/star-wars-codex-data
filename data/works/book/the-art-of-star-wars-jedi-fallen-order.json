@@ -11,10 +11,24 @@
       "name": "Jordan Lamarre-Wan",
       "role": "writer",
       "slug": "jordan-lamarre-wan"
+    },
+    {
+      "name": "Respawn Entertainment",
+      "role": "writer",
+      "slug": "respawn-entertainment"
+    },
+    {
+      "name": "Lucasfilm Ltd.",
+      "role": "writer",
+      "slug": "lucasfilm-ltd"
     }
   ],
   "displayTitle": "The Art of Star Wars Jedi: Fallen Order",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1506715559"
+    },
     {
       "type": "isbn13",
       "value": "9781506715551"
@@ -25,19 +39,20 @@
       "extent": 240,
       "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506715559",
       "isbn13": "9781506715551",
       "kind": "print",
-      "onsale": "2019-11-20T00:00:00.000Z"
+      "onsale": "2019-11-19T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2019-11-20T00:00:00.000Z",
+  "releaseDate": "2019-11-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-art-of-star-wars-jedi-fallen-order",
-  "synopsis": "The Art of Star Wars Jedi: Fallen Order is a reference book written by Aaron Contreras, with a foreword by Jordan Lamarre-Wan. It features annotated concept art from the production of Star Wars Jedi: Fallen Order, a canon video game. The book was published by Dark Horse Books on November 19, 2019. A limited edition was also published, which includes an exclusive cover and lithograph.",
+  "synopsis": "A full-color oversized hardcover volume that captures the development of the newest canonical and interactive addition to the Star Wars universe. A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order , the new action-adventure videogame from Respawn Entertainment. Explore the artistic creation of Cal Kestis's quest to rebuild the Jedi Order as he learns the ways of the Force, travels to exotic worlds, and battles tyrannical foes. With detailed concept art of all-new characters, exciting weapons and equipment, and locales both familiar and new, this tome offers a behind-the-scenes look at the production of a hit game--all accompanied by intimate artists' commentary that reveals how this incredible universe is brought together. Dark Horse Books, Lucasfilm Limited, and Respawn Entertainment are honored to present The Art of Star Wars Jedi: Fallen Order, guiding readers on Cal's odyssey. This uniquely designed work is sure to thrill dedicated Jedi acolytes and gamers alike.",
   "title": "The Art of Star Wars Jedi: Fallen Order"
 }

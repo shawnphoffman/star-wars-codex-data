@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "1368069835"
+    },
+    {
+      "type": "isbn10",
       "value": "176050968X"
     },
     {
@@ -34,6 +38,7 @@
       "extent": 24,
       "imprint": "Disney–Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1368069835",
       "isbn13": "9781368069830",
       "kind": "print",
       "onsale": "2021-01-05T00:00:00.000Z"

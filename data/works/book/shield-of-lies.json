@@ -11,6 +11,10 @@
   "displayTitle": "Shield of Lies",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553572776"
+    },
+    {
       "type": "isbn13",
       "value": "9780553572773"
     }
@@ -18,11 +22,12 @@
   "editions": [
     {
       "extent": 352,
-      "imprint": "Bantam Spectra",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0553572776",
       "isbn13": "9780553572773",
       "kind": "print",
-      "onsale": "1996-09-01T00:00:00.000Z"
+      "onsale": "1996-08-01T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
@@ -30,10 +35,10 @@
   "inUniverseDate": {
     "startYear": 16
   },
-  "releaseDate": "1996-09-01T00:00:00.000Z",
+  "releaseDate": "1996-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shield-of-lies",
-  "synopsis": "The New Republic's triumph grows ever more precarious in the face of an arrogant race bent on war, as the bestselling Star Wars saga continues.... As Leia must deal with a new threat to the fragile alliance that binds the New Republic, Lando becomes a prisoner aboard a runaway spacecraft of unknown origin. Luke continues his quest to learn more about his mother among the Fallanassi, where his every belief about the use of the Force is about to be challenged. And while Leia ponders a diplomatic solution to the aggression of the fierce Yevetha race, Han pilots a spy ship into the heart of Yeveth",
+  "synopsis": "As Leia must deal with a new threat to the fragile alliance that binds the New Republic, Lando becomes a prisoner aboard a runaway spacecraft of unknown origin. The ship is following an unstoppable path to its homeworld, destroyed by Imperial forces. Luke continues his quest to learn more about his mother among the Fallanassi, where his every belief about the use of the Force is about to be challenged. And while Leia ponders a diplomatic solution to the aggression of the fierce Yevetha race, Han pilots a spy ship into the heart of Yevethan space and finds himself a hostage on one of the vast fleet of warships under the command of a ruthless leader.",
   "title": "Shield of Lies"
 }

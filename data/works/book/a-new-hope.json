@@ -54,6 +54,11 @@
       "isbn13": "9780736435383",
       "kind": "print",
       "onsale": "2015-07-28T00:00:00.000Z"
+    },
+    {
+      "imprint": "Random House Audio",
+      "kind": "audio",
+      "onsale": "2027-02-02T00:00:00.000Z"
     }
   ],
   "format": "book",

@@ -1,8 +1,19 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Random House",
+      "role": "writer",
+      "slug": "random-house"
+    }
+  ],
   "displayTitle": "Five Rebel Adventures: Step Into Reading Collection",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "073644940X"
+    },
     {
       "type": "isbn13",
       "value": "9780736449403"
@@ -11,8 +22,9 @@
   "editions": [
     {
       "extent": 144,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Step into Reading",
       "isPrimary": true,
+      "isbn10": "073644940X",
       "isbn13": "9780736449403",
       "kind": "print",
       "onsale": "2027-01-05T00:00:00.000Z"
@@ -25,5 +37,6 @@
   "releaseDate": "2027-01-05T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "five-rebel-adventures-step-into-reading-collection",
+  "synopsis": "A collection of five Step 2 Step into Reading leveled readers based on the original three Star Wars films! Journey to a galaxy far, far away with this collection of five stories based on A New Hope , The Empire Strikes Back , and Return of the Jedi . The readers included in this collection are Trouble on Tatooine , Trapped in the Death Star! , Use the Force! , Captured on Cloud City , and Rescue from Jabba's Palace . These Step 2 Step into Reading stories are sure to thrill Star Wars fans. Star Wars has captivated millions worldwide for nearly fifty years. The phenomenon began with the 1977 theatrical debut of Star Wars , later retitled A New Hope , and has expanded to include ten additional major motion pictures ( The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Force Awakens, Rogue One: A Star Wars Story, The Last Jedi, Solo: A Star Wars Story , and The Rise of Skywalker ), television programming, publishing, video games, and much more.",
   "title": "Five Rebel Adventures: Step Into Reading Collection"
 }

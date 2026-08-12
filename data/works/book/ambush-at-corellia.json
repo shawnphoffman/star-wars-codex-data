@@ -11,6 +11,10 @@
   "displayTitle": "Ambush at Corellia",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553298038"
+    },
+    {
       "type": "isbn13",
       "value": "9780553298031"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 320,
-      "imprint": "Bantam Spectra",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0553298038",
       "isbn13": "9780553298031",
       "kind": "print",
       "onsale": "1995-02-02T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "ambush-at-corellia",
-  "synopsis": "A trade summit on Corellia brings Han Solo back to the home world he left many years before. Arriving on the distant planet with Leia, their children, and Chewbacca, Han finds Corellia overrun with agents of the New Republic Intelligence and finds himself part of a deceptive plan whose aim not even he understands. One thing is clear: the five inhabited worlds of the sector are on the brink of civil war and the once peaceful co-existence of the three leading races&mdash;human, Selonian, and Drallan&mdash;has come to an end. Suddenly all that Han, Leia, and others of the Alliance have fought for",
+  "synopsis": "A trade summit on Corellia brings Han Solo back to the home world he left many years before. Arriving on the distant planet with Leia, their children and Chewbacca, Han finds Corellia overrun with agents of the New Republic Intelligence and finds himself part of a deceptive plan whose aim not even he understands. One thing is clear: the five inhabited worlds of the sector are on the brink of civil war and the once peaceful coexistence of the three leading races -- human, Selonian, and Drallan -- has come to an end.",
   "title": "Ambush at Corellia"
 }

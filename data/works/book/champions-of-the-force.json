@@ -11,18 +11,23 @@
   "displayTitle": "Champions of the Force",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "055329802X"
+    },
+    {
       "type": "isbn13",
       "value": "9780553298024"
     }
   ],
   "editions": [
     {
-      "extent": 368,
-      "imprint": "Bantam Spectra",
+      "extent": 336,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "055329802X",
       "isbn13": "9780553298024",
       "kind": "print",
-      "onsale": "1994-10-01T00:00:00.000Z"
+      "onsale": "1994-09-01T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -30,10 +35,10 @@
   "inUniverseDate": {
     "startYear": 11
   },
-  "releaseDate": "1994-10-01T00:00:00.000Z",
+  "releaseDate": "1994-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "champions-of-the-force",
-  "synopsis": "As the New Republic continues its struggle for survival, a scattered but powerful remnant of the shattered Empire seeks to destroy three precious children&mdash;among them Han and Leia's Jedi twins&mdash;who represent the next generation of Jedi Knights, in this third and final novel of the Jedi Academy Trilogy&hellip; Suspended helplessly between life and death, Luke Skywalker lies in state at the Jedi academy. But on the spirit plane, Luke fights desperately for survival, reaching out physically to the Jedi twins. At the same time, Leia is on a life-and-death mission of her own, a race again",
+  "synopsis": "Suspended helplessly between life and death, Luke Skywalker lies in state at the Jedi academy. But on the spirit plane, Luke fights desperately for survival, reaching out physically to the Jedi twins. At the same time, Leia is on a life-and-death mission of her own, a race against Imperial agents hoping to destroy a third Jedi child -- Leia and Han's baby Anakin -- hidden on the planet Anoth. Meanwhile, Luke's former protÚgÚ Kyp Durron has pirated the deadly Sun Crusher on an apocalyptic mission of mass destruction, convinced he is fighting for a just cause. Hunting down the rogue warrior, Han must persuade Kyp to renounce his dark crusade and regain his lost honor. To do it, Kyp must take the Sun Crusher on a suicide mission against the awesome Death Star prototype -- a battle Han knows they may be unable to win... even with Luke Skywalker at their side!",
   "title": "Champions of the Force"
 }

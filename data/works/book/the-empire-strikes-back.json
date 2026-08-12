@@ -58,6 +58,11 @@
       "isbn13": "9780307795458",
       "kind": "print",
       "onsale": "2011-06-28T00:00:00.000Z"
+    },
+    {
+      "imprint": "Random House Audio",
+      "kind": "audio",
+      "onsale": "2027-02-02T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -68,6 +73,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-empire-strikes-back",
-  "synopsis": "Based on the story by George Lucas and the screenplay by Leigh Brackett and Lawrence Kasdan The adventures of Luke Skywalker did not end with the destruction of the Death Star. Though the Rebel Alliance won a significant battle, the war against the Empire has only just begun. Several months have passed, and the Rebels have established a hidden outpost on the frozen wasteland of Hoth. But even on that icy backwater planet, they cannot escape the evil Darth Vader’s notice for long. Soon Luke, Han, Princess Leia, and their faithful companions will be forced to flee, scattering in all directions—with the Dark Lord’s minions in fevered pursuit. Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
+  "synopsis": "Based on the story by George Lucas and the screenplay by Leigh Brackett and Lawrence Kasdan The adventures of Luke Skywalker did not end with the destruction of the Death Star. Though the Rebel Alliance won a significant battle, the war against the Empire has only just begun. Several months have passed, and the Rebels have established a hidden outpost on the frozen wasteland of Hoth. But even on that icy backwater planet, they cannot escape the evil Darth Vader's notice for long. Soon Luke, Han, Princess Leia, and their faithful companions will be forced to flee, scattering in all directions - with the Dark Lord's minions in fevered pursuit. Features a bonus section following the novel that includes a primer on the Star Wars expanded universe, and over half a dozen excerpts from some of the most popular Star Wars books of the last thirty years!",
   "title": "The Empire Strikes Back"
 }

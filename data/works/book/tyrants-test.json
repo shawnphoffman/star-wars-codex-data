@@ -11,15 +11,20 @@
   "displayTitle": "Tyrant's Test",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "055357275X"
+    },
+    {
       "type": "isbn13",
       "value": "9780553572759"
     }
   ],
   "editions": [
     {
-      "extent": 400,
-      "imprint": "Bantam Spectra",
+      "extent": 384,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "055357275X",
       "isbn13": "9780553572759",
       "kind": "print",
       "onsale": "1996-12-01T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tyrants-test",
-  "synopsis": "In the wake of a shattered alliance, the New Republic fights a relentless new enemy in an all-new adventure in the bestselling Star Wars saga&hellip; Faced with an alarming image of Han as a battered hostage of the Yevetha, Chewbacca takes on an urgent mission. Meanwhile, Leia calls upon the Senate to take a stand and eliminate the Yevetha threat&mdash;even at the cost of Han's life. As a former Imperial governor takes his battle to the runaway Qella spaceship, Luke's continuing search for his mother brings him dangerously close to Nil Spaar's deadly forces. And as the Yevetha close in on the ",
+  "synopsis": "In the wake of a shattered alliance, the New Republic fights a relentless new enemy in an all-new adventure in the bestselling Star Wars saga... Faced with an alarming image of Han as a battered hostage of the Yevetha, Chewbacca takes on an urgent mission. Meanwhile, Leia calls upon the Senate to take a stand and eliminate the Yevetha threat--even at the cost of Han's life. As a former Imperial governor takes his battle to the runaway Qella spaceship, Luke's continuing search for his mother brings him dangerously close to Nil Spaar's deadly forces. And as the Yevetha close in on the forces of the New Republic, Luke takes a desperate gamble with an invisible weapon...",
   "title": "Tyrant's Test"
 }

@@ -11,6 +11,10 @@
   "displayTitle": "The Mandalorian: Allies & Enemies",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1368070817"
+    },
+    {
       "type": "isbn13",
       "value": "9781368070812"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368070817",
       "isbn13": "9781368070812",
       "kind": "print",
       "onsale": "2020-12-01T00:00:00.000Z"

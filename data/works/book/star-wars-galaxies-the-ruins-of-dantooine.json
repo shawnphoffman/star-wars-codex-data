@@ -26,6 +26,10 @@
   "displayTitle": "Galaxies: The Ruins of Dantooine",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345470664"
+    },
+    {
       "type": "isbn13",
       "value": "9780345470669"
     }
@@ -33,8 +37,9 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345470664",
       "isbn13": "9780345470669",
       "kind": "print",
       "onsale": "2003-12-30T00:00:00.000Z"
@@ -49,6 +54,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-galaxies-the-ruins-of-dantooine",
-  "synopsis": "It is a time of great turmoil. The oppressive Empire is close to seizing complete control of the galaxy. The ragtag guerrilla army of the Rebel Alliance fights on, striking wherever it can, but now something has come to light that could spell certain doom. Hidden in the Jedi ruins of Dantooine is a Holocron containing a list of high-level Rebel sympathizers. If that list were to fall into the hands of Darth Vader, the Rebel Alliance would lose its most valued support&mdash;and possibly the war itself. As an Imperial bioengineer who frequently visits other worlds, Dusque Mistflier is the perfec",
+  "synopsis": "Enter the explosive universe of the exciting online game STAR WARS GALAXIES: AN EMPIRE DIVIDED ! It is a time of great turmoil. The oppressive Empire is close to seizing complete control of the galaxy. The ragtag guerrilla army of the Rebel Alliance fights on, striking wherever it can, but now something has come to light that could spell certain doom. Hidden in the Jedi ruins of Dantooine is a Holocron containing a list of high-level Rebel sympathizers. If that list were to fall into the hands of Darth Vader, the Rebel Alliance would lose its most valued support - and possibly the war itself. As an Imperial bio-engineer who frequently visits other worlds, Dusque Mistflier is the perfect cover for a Rebel who needs to travel far and wide without arousing suspicion. And so she agrees to help Rebel spy Finn Darktrin in his quest to recover the crucial Holocron. Despite help from Han, Luke, and Leia, the mission is fraught with peril. And as their journey takes them into the fiery belly of the beast that is galactic civil war, Dusque and Finn will learn that the hardest part of all is figuring out whose side you're on - and how far you're willing to go to win. . . .",
   "title": "Galaxies: The Ruins of Dantooine"
 }

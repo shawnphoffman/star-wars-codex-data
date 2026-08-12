@@ -20,10 +20,6 @@
     },
     {
       "type": "isbn13",
-      "value": "9780736449076"
-    },
-    {
-      "type": "isbn13",
       "value": "9781484782316"
     }
   ],
@@ -35,14 +31,6 @@
       "isbn10": "1484705661",
       "kind": "print",
       "onsale": "2016-10-11T00:00:00.000Z"
-    },
-    {
-      "extent": 24,
-      "imprint": "Random House/Star Wars",
-      "isPrimary": false,
-      "isbn13": "9780736449076",
-      "kind": "print",
-      "onsale": "2027-01-05T00:00:00.000Z"
     },
     {
       "extent": 384,

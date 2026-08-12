@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett (Marvel) #1",
+  "era": "newRepublic",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-book-of-boba-fett-marvel-comic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-09-09T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-book-of-boba-fett-marvel-comic-1",
+  "title": "The Book of Boba Fett (Marvel) #1"
+}

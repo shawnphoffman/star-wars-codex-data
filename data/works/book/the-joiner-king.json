@@ -11,6 +11,10 @@
   "displayTitle": "The Joiner King",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345463048"
+    },
+    {
       "type": "isbn13",
       "value": "9780345463043"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 544,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345463048",
       "isbn13": "9780345463043",
       "kind": "print",
       "onsale": "2005-07-26T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-joiner-king",
-  "synopsis": "After triumphing in Star Wars: The Unifying Force, the heroes of the New Jedi Order return in a dazzling new adventure! Luke Skywalker is worried: A handful of Jedi Knights, including his nephew and niece, Jaina and Jacen Solo, have disappeared into the Unknown Regions in response to a strange cry for help that only they could hear. Now the alien Chiss have angrily lodged a formal complaint, accusing the missing Jedi of meddling in a border dispute between the Chiss and an unidentified aggressor. Luke has no choice but to head to the Unknown Regions for serious damage control. Han and Leia fol",
+  "synopsis": "After triumphing in Star Wars: The Unifying Force, the heroes of the New Jedi Order return in a dazzling new adventure! Luke Skywalker is worried: A handful of Jedi Knights, including his nephew and niece, Jaina and Jacen Solo, have disappeared into the Unknown Regions in response to a strange cry for help that only they could hear. Now the alien Chiss have angrily lodged a formal complaint, accusing the missing Jedi of meddling in a border dispute between the Chiss and an unidentified aggressor. Luke has no choice but to head to the Unknown Regions for serious damage control. Han and Leia follow, intent on protecting their children from what could be grave danger. But none of them are prepared for what they find when they reach their destination. A colony of mysterious aliens is expanding toward the edge of Chiss space. The leader of the alien nest is resolute. Adept in the Force, he is drawing old friends to his side, compelling them to join the colony and meld their Force-abilities with his, even if it leads to all-out war. . . .",
   "title": "The Joiner King"
 }

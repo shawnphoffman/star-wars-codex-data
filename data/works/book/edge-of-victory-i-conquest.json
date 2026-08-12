@@ -11,6 +11,10 @@
   "displayTitle": "Edge of Victory I: Conquest",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345428641"
+    },
+    {
       "type": "isbn13",
       "value": "9780345428646"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345428641",
       "isbn13": "9780345428646",
       "kind": "print",
       "onsale": "2001-04-03T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "edge-of-victory-i-conquest",
-  "synopsis": "The dazzling Star Wars space adventure The New Jedi Order continues as Luke Skywalker, Anakin Solo, Mara Jade Skywalker, and others battle their deadliest enemy in a tale of nonstop action, shadowy evil, and spectacular triumph&hellip; No longer content with the destruction the Yuuzhan Vong have already sown, Warmaster Tsavong Lah has demanded the heads of all the Jedi. Now the Jedi Knights are in terrible danger&mdash;and none more so than the young students at the Jedi academy on Yavin 4. Already the sympathizers known as the Peace Brigade are in the Yavin system&mdash;and a Yuuzhan Vong fle",
+  "synopsis": "The dazzling Star Wars space adventure continues in The New Jedi Order as Luke Skywalker, Anakin Solo, Mara Jade Skywalker, and others battle their deadliest enemy in a tale of nonstop action, shadowy evil, and spectacular triumph . . . No longer content with the destruction the Yuuzhan Vong have already sown, Warmaster Tsavong Lah has demanded the heads of all the Jedi. Now the Jedi Knights are in terrible danger-and none more so than the young students at the Jedi academy on Yavin 4. Already the sympathizers known as the Peace Brigade are in the Yavin system-and a Yuuzhan Vong fleet is not far behind. At Luke Skywalker's request, Talon Karrde mounts an expedition to rescue the young students. Anakin Solo has his own ideas. Impatient, and figuring that forgiveness is easier to come by than permission, he takes off for Yavin 4 in his X-wing. When it comes to confidence, courage, and raw Force talent, Anakin has few peers. But when his friend Tahiri is separated from the other academy kids and captured by the Yuuzhan Vong, even Anakin may be in over his head. For the aliens have a different future in mind for Tahiri, and they will stop at nothing to achieve their horrific ends . . .",
   "title": "Edge of Victory I: Conquest"
 }

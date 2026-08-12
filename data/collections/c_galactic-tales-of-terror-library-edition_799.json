@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "collectionType": "hardcover",
   "collects": [
     "star-wars-tales-from-the-nightlands-1",
@@ -9,6 +9,7 @@
     "tales-from-the-rancor-pit"
   ],
   "displayTitle": "Galactic Tales of Terror Library Edition",
+  "releaseDate": "2026-09-22T00:00:00.000Z",
   "slug": "c_galactic-tales-of-terror-library-edition_799",
   "title": "Galactic Tales of Terror Library Edition"
 }

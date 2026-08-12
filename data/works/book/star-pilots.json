@@ -27,11 +27,11 @@
     {
       "asin": "B0GQBJJWLQ",
       "extent": 416,
-      "imprint": "DK Publishing",
+      "imprint": "DK",
       "isPrimary": true,
       "isbn13": "9798217305841",
       "kind": "print",
-      "onsale": "2026-10-01T00:00:00.000Z"
+      "onsale": "2026-10-06T00:00:00.000Z"
     },
     {
       "extent": 416,
@@ -47,7 +47,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2026-10-01T00:00:00.000Z",
+  "releaseDate": "2026-10-06T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "releaseStatus": "announced",
   "slug": "star-pilots",

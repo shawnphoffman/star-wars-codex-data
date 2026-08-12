@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "DK",
+      "role": "writer",
+      "slug": "dk"
+    }
+  ],
   "displayTitle": "LEGO Star Wars: Meet Grogu",
   "editionIds": [
     {
@@ -16,7 +23,7 @@
     {
       "asin": "B0GNZPQKXX",
       "extent": 32,
-      "imprint": "Dorling Kindersley",
+      "imprint": "DK Children",
       "isPrimary": true,
       "isbn13": "9798217139958",
       "kind": "print",

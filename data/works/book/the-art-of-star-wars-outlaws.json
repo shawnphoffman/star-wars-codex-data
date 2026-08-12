@@ -1,8 +1,19 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Massive Entertainment",
+      "role": "writer",
+      "slug": "massive-entertainment"
+    }
+  ],
   "displayTitle": "The Art of Star Wars: Outlaws",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1506747574"
+    },
     {
       "type": "isbn13",
       "value": "9781506747576"
@@ -10,8 +21,10 @@
   ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506747574",
       "isbn13": "9781506747576",
       "kind": "print",
       "onsale": "2025-08-19T00:00:00.000Z"
@@ -25,6 +38,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-art-of-star-wars-outlaws",
-  "synopsis": "The Art of Star Wars: Outlaws is a canon reference book that details the development of the video game Star Wars Outlaws. The book was published by Dark Horse Books on August 19, 2025.",
+  "synopsis": "A FULL-COLOR ART BOOK COLLECTING CONCEPT ART AND CREATOR COMMENTARY FROM THE FIRST-EVER OPEN-WORLD STAR WARS GAME, SET BETWEEN THE EVENTS OF THE EMPIRE STRIKES BACK AND RETURN OF THE JEDI . Developed by Massive Entertainment in collaboration with Lucasfilm Games, Star Wars Outlaws gives players the opportunity to explore distinct locations across the galaxy, both iconic and new, as Kay Vess - a scoundrel seeking freedom from her past with her companion Nix. As the unlikely heroes embark on a stars-spanning series of high-stakes missions, they constantly risk running afoul of rivaling gangs or falling into the clutches of the evil Galactic Empire. The Art of Star Wars Outlaws explores the creation of this underworld adventure with an expertly designed assembly of thrilling imagery and intimate insights from the game's creators. Now readers can get down and dirty as they acquaint themselves with charming rogues, plunge into alien environments, examine exotic tools and weapons, and see how Kay Vess was made to defy the odds.",
   "title": "The Art of Star Wars: Outlaws"
 }

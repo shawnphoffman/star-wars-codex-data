@@ -6,10 +6,18 @@
       "name": "Peter M. Schweighofer",
       "role": "writer",
       "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "Craig Carey",
+      "slug": "craig-carey"
     }
   ],
   "displayTitle": "Tales from the New Republic",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553578820"
+    },
     {
       "type": "isbn13",
       "value": "9780553578829"
@@ -18,8 +26,9 @@
   "editions": [
     {
       "extent": 432,
-      "imprint": "Bantam Spectra",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0553578820",
       "isbn13": "9780553578829",
       "kind": "print",
       "onsale": "1999-12-01T00:00:00.000Z"
@@ -35,6 +44,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-new-republic",
-  "synopsis": "Written by some of today's leading science fiction writers, these tales sweep us into a world where the only laws are cunning, force, and power&mdash;and only the bravest, craziest, and deadliest dare to tread. Here mercs and smugglers, gangsters and warriors fight toe to toe, side by side, and behind each other's backs in the backwaters of a universe ripped apart by war.... On Zelos II a man and a woman are held prisoner in a dark cell, each fighting in their own way for survival at the hands of Imperial captors&mdash;and a chance for escape that could cost one of them their life. On the tort",
+  "synopsis": "Written by some of today's leading science fiction writers, these tales sweep us into a world where the only laws are cunning, force, and power - and only the bravest, craziest, and deadliest dare to tread. Here mercs and smugglers, gangsters and warriors fight toe to toe, side by side, and behind each other ' s backs in the backwaters of a universe ripped apart by war. On Zelos II a man and a woman are held prisoner in a dark cell, each fighting in their own way for survival at the hands of Imperial captors - and a chance for escape that could cost one of them their life. On the tortured landscape of Ryloth, Fenig Nabon awaits a ship of women warriors to complete a dangerous deal: the smuggling of a troupe of dancers to the homeworld of the Hutts - only to get more than she bargained for. And in a stunning novella written especially for this collection by Hugo Award-winning, New York Times bestselling author Timothy Zahn and Michael A. Stackpole, Senator Garm Bel Iblis, believed dead at the hands of an Imperial assassin, teams up with Hal Horn in a duel against the Empire's most dangerous agent. At stake are the plans for a terrifying new weapon called the Death Star - and the fate of both the Empire and the New Republic. Including these stories of intergalactic derring-do: \"Interlude at Darkknell\" by Timothy Zahn and Michael A. Stackpole \"Jade Solitaire\" by Timothy Zahn \"Gathering Shadows\" by Kathy Burdette \"Hutt and Seek\" by Chris Cassidy and Tish Pahl \"The Longest Fall\" by Patricia A. Jackson \"Conflict of Interest\" by Laurie Burns \"No Disintegrations, Please\" by Paul Danner \"Day of the Sepulchral Night\" by Jean Rabe \"Uhl Eharl Khoehng\" by Patricia A. Jackson \"The Last Hand\" by Paul Danner \"Simple Tricks\" by Chris Cassidy and Tish Pahl",
   "title": "Tales from the New Republic"
 }

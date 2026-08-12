@@ -6,6 +6,11 @@
       "name": "Nate Millici",
       "role": "writer",
       "slug": "nate-millici"
+    },
+    {
+      "name": "Lucasfilm Press",
+      "role": "writer",
+      "slug": "lucasfilm-press"
     }
   ],
   "displayTitle": "This is Luke",
@@ -22,7 +27,7 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "136805725X",
       "isbn13": "9781368057257",

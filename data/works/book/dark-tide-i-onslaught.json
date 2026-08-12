@@ -11,6 +11,10 @@
   "displayTitle": "Dark Tide I: Onslaught",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345428544"
+    },
+    {
       "type": "isbn13",
       "value": "9780345428547"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0345428544",
       "isbn13": "9780345428547",
       "kind": "print",
       "onsale": "2000-02-01T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-tide-i-onslaught",
-  "synopsis": "It is a perilous time for the New Republic. Just when unity is needed most, mistrust is on the rise. Even the Jedi feel the strain, as rogue elements rebel against Luke Skywalker's leadership. When alien invaders known as the Yuuzhan Vong strike without warning, the New Republic is thrown on the defensive. Luke must wield all the awesome powers of a Jedi Master to defeat the gravest threat since Emperor Palpatine. As Leia Organa Solo and Gavin Darklighter lead desperate refugees in a fighting retreat from Yuuzhan Vong forces, Mara Jade Skywalker, Jedi apprentices Jacen and Anakin Solo, and Jed",
+  "synopsis": "In this epic of unsurpassed action and imagination, Michael Stackpole helps to launch an exciting new era in Star Wars history. Onslaught pits the battle-tested heroes of the past - Luke Skywalker, Han Solo, and Leia Organa Solo - along with the next generation of Jedi and droids, against fearsome never-before-encountered enemies from beyond the galactic rim . . . It is a perilous time for the New Republic. Just when unity is needed most, mistrust is on the rise. Even the Jedi feel the strain, as rogue elements rebel against Luke's leadership. When alien invaders known as the Yunnan Vong strike without warning, the New Republic is thrown on the defensive. Merciless warriors, the Yunnan Vong glory in torture. Their technology is as strange as it is deadly. Most ominous of all, they are impervious to the Force. Now Luke must wield all the awesome powers of a Jedi Master to defeat the gravest threat since Darth Vader. As Leia and Gavin Darklighter lead desperate refugees in a fighting retreat from Yunnan Vong forces, Mara Jade, Anakin, Jacen, and Corran Horn find themselves tested as never before by a faceless, implacable foe determined to smother the light of the New Republic forever beneath a shroud of darkest evil . . .",
   "title": "Dark Tide I: Onslaught"
 }

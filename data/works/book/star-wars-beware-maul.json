@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "DK",
+      "role": "writer",
+      "slug": "dk"
+    }
+  ],
   "displayTitle": "Beware Maul!",
   "editionIds": [
     {
@@ -16,7 +23,7 @@
     {
       "asin": "B0GXTW2CXV",
       "extent": 48,
-      "imprint": "Dorling Kindersley",
+      "imprint": "DK Children",
       "isPrimary": true,
       "isbn13": "9798217316021",
       "kind": "print",

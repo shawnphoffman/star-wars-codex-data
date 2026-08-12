@@ -1,8 +1,19 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lucasfilm Press",
+      "role": "writer",
+      "slug": "lucasfilm-press"
+    }
+  ],
   "displayTitle": "Meet the Galactic Heroes",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368063578"
+    },
     {
       "type": "isbn13",
       "value": "9781368063579"
@@ -11,8 +22,9 @@
   "editions": [
     {
       "extent": 160,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
+      "isbn10": "1368063578",
       "isbn13": "9781368063579",
       "kind": "print",
       "onsale": "2023-10-17T00:00:00.000Z"
@@ -26,5 +38,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-meet-the-galactic-heroes",
+  "synopsis": "Padawans learning to read will love this introductory approach to the Force. Young fans and reluctant readers can get to know the most iconic heroes from the Skywalker saga! Featuring the vibrant illustration style from the celebrated Galaxy of Adventures animation shorts, this bind-up of level 1 readers includes five stories about Obi-Wan, Leia, Luke, Rey, and the ever-popular droids C-3PO, R2-D2, and BB-8! The World of Reading early readers are designed to offer reluctant readers books they will want to read by featuring stories about the characters they love from a galaxy far, far away.",
   "title": "Star Wars: Meet the Galactic Heroes"
 }

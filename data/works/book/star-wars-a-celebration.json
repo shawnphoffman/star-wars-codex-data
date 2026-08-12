@@ -1,0 +1,42 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "author",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Anthony Breznican",
+      "role": "author",
+      "slug": "anthony-breznican"
+    }
+  ],
+  "displayTitle": "A Celebration",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217315925"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 336,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn13": "9798217315925",
+      "kind": "print",
+      "onsale": "2027-04-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-04-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-a-celebration",
+  "synopsis": "A 50th-anniversary guide to the making of Star Wars, with new interviews with the creators and talent who brought the galaxy to life, behind-the-scenes photography, and concept art.",
+  "title": "Star Wars: A Celebration"
+}

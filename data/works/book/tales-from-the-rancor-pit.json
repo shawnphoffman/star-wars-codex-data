@@ -46,6 +46,10 @@
   "displayTitle": "Tales from the Rancor Pit",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1506732844"
+    },
+    {
       "type": "isbn13",
       "value": "9781506732848"
     }
@@ -53,11 +57,12 @@
   "editions": [
     {
       "extent": 56,
-      "imprint": "Dark Horse Comics",
+      "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506732844",
       "isbn13": "9781506732848",
       "kind": "print",
-      "onsale": "2022-11-23T00:00:00.000Z"
+      "onsale": "2023-01-03T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
@@ -65,10 +70,10 @@
   "inUniverseDate": {
     "startYear": 4
   },
-  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "releaseDate": "2023-01-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-rancor-pit",
-  "synopsis": "A Canon graphic novel published by Dark Horse Comics. Set in Jabba's Palace the comic contains three stories and continues the tradition of Halloween comics begun by Scott's Tales from Vader's Castle written for IDW Publishing.\nA galaxy of fear!\nIts a dark and stormy night on Tatooine as Jabba the Hutts victim hangs perilously above the rancor pit with only his collection of scary stories to save him. New York Times bestseller Cavan Scott (Star Wars: The High Republic, Tales from Vaders Castle) teams up with with fan-favorites artists Nick Brokenshire, Juan Samu, Rafael Pérez, and Puste for a trio of terrifying tales just in time for Halloween. Experience clanking droid ghosts, explore the chilling wampa caves of Hoth and go monster hunting with Saber-For-Hire Ty Yorrick.\nAll-new all-ages adventures from throughout the galaxy!",
+  "synopsis": "It's a dark and stormy night on Tatooine as Jabba the Hutt's victim hangs perilously above the rancor pit with only his collection of scary stories to save him. New York Times Bestseller Cavan Scott ( Star Wars : The High Republic , Tales from Vader's Castle ) teams up with with fan-favorites artists Nick Brokenshire, Juan Samu, Rafael P&eacute;rez, and Puste for a trio of terrifying tales just in time for Halloween. Experience clanking droid ghosts, explore the chilling wampa caves of Hoth and go monster hunting with Saber-For-Hire Ty Yorrick.",
   "title": "Tales from the Rancor Pit"
 }

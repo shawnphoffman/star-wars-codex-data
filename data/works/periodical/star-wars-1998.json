@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "John Nadeau",
@@ -18,7 +18,7 @@
     }
   ],
   "displayTitle": "Star Wars (1998)",
-  "format": "periodicalIssue",
+  "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },

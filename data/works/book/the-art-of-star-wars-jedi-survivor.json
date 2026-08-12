@@ -1,8 +1,24 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Respawn Entertainment",
+      "role": "writer",
+      "slug": "respawn-entertainment"
+    },
+    {
+      "name": "Lucasfilm Ltd.",
+      "role": "writer",
+      "slug": "lucasfilm-ltd"
+    }
+  ],
   "displayTitle": "The Art of Star Wars Jedi: Survivor",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "150673667X"
+    },
     {
       "type": "isbn13",
       "value": "9781506736679"
@@ -11,8 +27,9 @@
   "editions": [
     {
       "extent": 240,
-      "imprint": "Dark Horse Books **Mike Richardson",
+      "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "150673667X",
       "isbn13": "9781506736679",
       "kind": "print",
       "onsale": "2024-02-20T00:00:00.000Z"
@@ -26,6 +43,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-art-of-star-wars-jedi-survivor",
-  "synopsis": "The Art of Star Wars Jedi: Survivor is a canon reference book that details the development of the video game Star Wars Jedi: Survivor. The book also includes concept art and creator commentary. The book was published by Dark Horse Books on February 20, 2024.",
+  "synopsis": "An oversized, full-color hardcover art book collecting concept art and creator commentary from the next chapter in Cal Kestis' thrilling saga. Cal and his friends continue to evade the Empire's clutches in the dark times following Order 66, but just as a hidden hope reveals itself, new dangers emerge and threaten to destroy everything that the young Jedi has fought to preserve. Explore the creation of the newest Star Wars Jedi adventure with a tome that intimately chronicles the game's development - from visionary design to inspirational artwork to stunning final renders. With heroes and villains both familiar and new, breathtaking locales, and incredible ships and weapons, The Art of Star Wars Jedi: Survivor offers a unique look at the inner workings of a galaxy far, far away.",
   "title": "The Art of Star Wars Jedi: Survivor"
 }

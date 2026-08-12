@@ -1,0 +1,38 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Beth Revis",
+      "role": "author",
+      "slug": "beth-revis"
+    }
+  ],
+  "displayTitle": "Twin Crossroads",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780525478850"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9780525478850",
+      "kind": "print",
+      "onsale": "2027-04-06T00:00:00.000Z"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2027-04-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-twin-crossroads",
+  "synopsis": "Following the destruction of the second Death Star, Luke Skywalker takes his twin sister Leia Organa as his first student, and the two train together on a New Republic mission that forces them to confront their parents’ legacies.",
+  "title": "Star Wars: Twin Crossroads"
+}

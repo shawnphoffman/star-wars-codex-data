@@ -11,6 +11,10 @@
   "displayTitle": "The Rise and Fall of the Galactic Empire",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0744098823"
+    },
+    {
       "type": "isbn13",
       "value": "9780744098822"
     }
@@ -18,11 +22,12 @@
   "editions": [
     {
       "extent": 432,
-      "imprint": "Dorling Kindersley",
+      "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0744098823",
       "isbn13": "9780744098822",
       "kind": "print",
-      "onsale": "2024-07-04T00:00:00.000Z"
+      "onsale": "2024-07-09T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -30,10 +35,10 @@
   "inUniverseDate": {
     "startYear": 35
   },
-  "releaseDate": "2024-07-04T00:00:00.000Z",
+  "releaseDate": "2024-07-09T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-the-rise-and-fall-of-the-galactic-empire",
-  "synopsis": "Uncover a history of galactic evil.\n\n\"So this is how liberty dies, with thunderous applause.\" - Senator Padme Amidala\n\nWhen Sheev Palpatine declared the birth of his new Empire, he expected it would stand for thousands of years. Instead, it lasted only 24. This is the story of how a tyrannical regime rose from the ashes of democracy, ruled the galaxy with an iron fist, and then collapsed into dust.\n\nIt is a story of war and heroes. It is a story of propaganda and the power of fascism. But most of all, it is a story of normal people trying to live their lives in the face of brutal dictatorship.\n\nFrom the barbarity of Darth Vader's campaigns to the horrors of the Tarkin Initiative, this book offers new insights into the dark entity at the core of the Star Wars saga, with chapters covering economic strategy and political organisation, propaganda, crime and punishment, military tactics, and warfare, giving even the most expert Star Wars fans a fresh perspective on the Galactic Empire.",
+  "synopsis": "A history of the dark times \"So this is how liberty dies - with thunderous applause.\" -Senator Padmé Amidala When Palpatine declared the birth of his new Empire, he expected it would stand for millennia. Instead, it lasted only 24 years. This is the story of how a tyrannical regime rose from the ashes of democracy, ruled the galaxy with an iron fist, and then collapsed into dust. It is a story of war and heroes, of the power of propaganda and the dangers of complacency. But most of all, it is a story of normal people trying to live their lives in the face of a brutal dictatorship. From the ruthlessness of Darth Vader's campaigns to the horrors of the Tarkin Initiative, this book offers fresh new insights into the dark entity at the core of Star Wars. © AND ™ 2024 LUCASFILM LTD.",
   "title": "Star Wars: The Rise and Fall of the Galactic Empire"
 }

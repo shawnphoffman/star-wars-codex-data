@@ -6,6 +6,11 @@
       "name": "Emeli Juhlin",
       "role": "writer",
       "slug": "emeli-juhlin"
+    },
+    {
+      "name": "Lucasfilm Press",
+      "role": "writer",
+      "slug": "lucasfilm-press"
     }
   ],
   "displayTitle": "Meet the Galactic Villains",
@@ -22,7 +27,7 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Random House/Star Wars",
       "isPrimary": true,
       "isbn10": "1368101275",
       "isbn13": "9781368101271",
@@ -38,6 +43,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-meet-the-galactic-villains",
-  "synopsis": "Meet the sinister villains of the Skywalker saga! Featuring a vibrant illustration style, young fans and reluctant readers can get to know the most popular villains from the Skywalker saga in this level 2 reader—including Darth Vader, Darth Maul, Darth Sidious, Count Dooku, Jango Fett, and more! The World of Reading early readers are designed to offer reluctant readers books they will want to read by featuring stories about the characters they love from a galaxy far, far away.",
+  "synopsis": "Meet the sinister villains of the Skywalker saga! Featuring a vibrant illustration style, young fans and reluctant readers can get to know the most popular villains from the Skywalker saga in this level 2 reader - including Darth Vader, Darth Maul, Darth Sidious, Count Dooku, Jango Fett, and more! The World of Reading early readers are designed to offer reluctant readers books they will want to read by featuring stories about the characters they love from a galaxy far, far away.",
   "title": "Star Wars: Meet the Galactic Villains"
 }

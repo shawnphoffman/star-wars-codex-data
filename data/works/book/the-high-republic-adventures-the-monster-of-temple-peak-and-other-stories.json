@@ -76,10 +76,18 @@
       "name": "Rachael Stott",
       "role": "coverArtist",
       "slug": "rachael-stott"
+    },
+    {
+      "name": "Watermark Studio",
+      "slug": "watermark-studio"
     }
   ],
   "displayTitle": "The High Republic Adventures: The Monster of Temple Peak and Other Stories",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "150673779X"
+    },
     {
       "type": "isbn13",
       "value": "9781506737799"
@@ -88,8 +96,9 @@
   "editions": [
     {
       "extent": 184,
-      "imprint": "Dark Horse Comics",
+      "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "150673779X",
       "isbn13": "9781506737799",
       "kind": "print",
       "onsale": "2023-10-31T00:00:00.000Z"
@@ -103,6 +112,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-the-monster-of-temple-peak-and-other-stories",
-  "synopsis": "Ty Yorrick is a brave yet superstitious monster hunter, traversing the galaxy with droid companion KL-03 and her trusty rune-stones fighting the deadliest monsters on any world.",
+  "synopsis": "Ty Yorrick is a brave yet superstitious monster hunter, traversing the galaxy with droid companion KL-03 and her trusty rune-stones, fighting the deadliest monsters on any world. After dealing with an escaped gundark being transported to the Republic Fair, Ty heads to Loreth, where local pioneers have tasked her with taking on the fearsome Gretalax that terrorizes them. She takes the mission but can't shake the feeling that something is amiss with The Force. Follow former Jedi turned saber-for-hire monster hunter Ty Yorrick in her first comics appearance from Phase I of Star Wars: The High Republic Adventures by Cavan Scott and Rachael Stott. This volume collects issues 1 through 4 of Star Wars: The High Republic Adventures: The Monster of Temple Peak ! This volume also features Phase I short stories by Daniel Jos&eacute; Older, Charles Soule, Claudia Grey, and Justina Ireland, with art by Sam Beck, Jason Loo, Yael Nathan, Jesse Lonergan, and Stefano Simeone!",
   "title": "The High Republic Adventures: The Monster of Temple Peak and Other Stories"
 }

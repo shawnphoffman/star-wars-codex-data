@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett (Marvel)",
+  "era": "newRepublic",
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-09-09T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-book-of-boba-fett-marvel-comic",
+  "synopsis": "A seven-issue comic adaptation of the Disney+ series The Book of Boba Fett.",
+  "title": "The Book of Boba Fett (Marvel)"
+}

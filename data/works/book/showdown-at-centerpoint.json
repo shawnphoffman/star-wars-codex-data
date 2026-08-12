@@ -11,6 +11,10 @@
   "displayTitle": "Showdown at Centerpoint",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553298062"
+    },
+    {
       "type": "isbn13",
       "value": "9780553298062"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 336,
-      "imprint": "Bantam Spectra",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0553298062",
       "isbn13": "9780553298062",
       "kind": "print",
       "onsale": "1995-09-01T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "showdown-at-centerpoint",
-  "synopsis": "When a loyalist ship approaching Selonia is blasted out of space, Han Solo quickly realizes that rebel forces are turning planetary repulsors into weapons of immense destruction. Meanwhile, Luke Skywalker and Lando Calrissian manage to discover the terrifying secret of Centerpoint Station. It is the infamous Starbuster itself, and its next programmed nova, hard-wired in, is set to annihilate a chosen star, its inhabited worlds, and millions of innocent lives. There's only one way to stop it: blow up the station. But as a massive rebel fleet closes in on Centerpoint, Han, Luke and their friends",
+  "synopsis": "In this third and final volume of the Corellian trilogy, Han and Luke lead the Alliance in a mad scramble against the Selonian rebels for control of the planetary technology. When a loyalist ship approaching Selonia is blasted out of space, Han Solo quickly realizes that rebel forces are turning planetary repulsors into weapons of immense destruction. Meanwhile, Luke Skywalker and Lando Calrissian manage to discover the terrifying secret of Centerpoint Station. It is the infamous Starbuster itself, and its next programmed nova, hard-wired in, is set to annihilate a chosen star, its inhabited worlds, and millions of innocent lives. There's only one way to stop it: blow up the station. But as a massive rebel fleet closes in on Centerpoint, Han, Luke, and their friends will discover time is running out. Then the true leaders of the rebellion reveal their identities and issue their final ultimatum: The New Republic must withdraw all claim to power over the entire Corellian sector. With the future of Corellian freedom at stake, Han and those loyal to the Republic must somehow resist. But how can they possibly stop the deadliest weapon the galaxy has ever known?",
   "title": "Showdown at Centerpoint"
 }

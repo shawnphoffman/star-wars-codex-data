@@ -1,0 +1,46 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "author",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Labyrinth of Evil (The Essential Legends Collection)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217093625"
+    },
+    {
+      "type": "isbn13",
+      "value": "9798217290390"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House Worlds",
+      "isPrimary": true,
+      "isbn13": "9798217093625",
+      "kind": "print",
+      "onsale": "2026-08-11T00:00:00.000Z"
+    },
+    {
+      "imprint": "Random House Audio",
+      "isbn13": "9798217290390",
+      "kind": "audio",
+      "onsale": "2026-08-11T00:00:00.000Z"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-08-11T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "labyrinth-of-evil-the-essential-legends-collection",
+  "title": "Labyrinth of Evil (The Essential Legends Collection)"
+}

@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Christopher Cantwell",
@@ -42,7 +42,7 @@
     "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDate": "2001-12-20T00:00:00.000Z",
+  "releaseDate": "2022-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "obi-wan",

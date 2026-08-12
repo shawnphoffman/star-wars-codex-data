@@ -1,0 +1,26 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "artist",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Fall of Kylo Ren #1",
+  "era": "riseOfTheFirstOrder",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-fall-of-kylo-ren",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-08-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-fall-of-kylo-ren-1",
+  "title": "The Fall of Kylo Ren #1"
+}

@@ -11,10 +11,19 @@
       "name": "Dave Filoni",
       "role": "writer",
       "slug": "dave-filoni"
+    },
+    {
+      "name": "Dan Wallace",
+      "role": "writer",
+      "slug": "dan-wallace"
     }
   ],
   "displayTitle": "The Art of Star Wars Rebels",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1506710913"
+    },
     {
       "type": "isbn13",
       "value": "9781506710914"
@@ -25,6 +34,7 @@
       "extent": 208,
       "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506710913",
       "isbn13": "9781506710914",
       "kind": "print",
       "onsale": "2020-04-24T00:00:00.000Z"
@@ -38,6 +48,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-art-of-star-wars-rebels",
-  "synopsis": "The Art of Star Wars Rebels is a book of concept art and process pieces from the animated television series Star Wars Rebels. The book was written by Daniel Wallace, with a foreword by Rebels co-creator Dave Filoni, and it was published on April 24, 2020 by Dark Horse Books.",
+  "synopsis": "An incredible hardcover amassing art and creator commentary chronicling four seasons of adventure in a galaxy far, far away! In the early days of the rebellion, a tight-knit group of rebels from various backgrounds banded together against all odds to do their part in the larger mission of defeating the Galactic Empire, sparking hope across the galaxy. The award-winning team from Lucasfilm Animation brought the beloved occupants of the Ghost into our homes five years ago, now, take a step behind-the-scenes to witness the journey from paper to screen with The Art of Star Wars Rebels . Featuring never-before-seen concept art and process pieces along with exclusive commentary from the creative team behind the show, Dark Horse Books and Lucasfilm proudly present the official look inside one of the galaxy's most beloved shows.",
   "title": "The Art of Star Wars Rebels"
 }

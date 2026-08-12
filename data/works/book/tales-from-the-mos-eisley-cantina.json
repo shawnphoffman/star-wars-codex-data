@@ -6,10 +6,19 @@
       "name": "Michael Manley",
       "role": "artist",
       "slug": "michael-manley"
+    },
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
     }
   ],
   "displayTitle": "Tales from the Mos Eisley Cantina",
   "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553564684"
+    },
     {
       "type": "isbn13",
       "value": "9780553564686"
@@ -17,9 +26,10 @@
   ],
   "editions": [
     {
-      "extent": 416,
-      "imprint": "Bantam Spectra",
+      "extent": 400,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
+      "isbn10": "0553564684",
       "isbn13": "9780553564686",
       "kind": "print",
       "onsale": "1995-07-01T00:00:00.000Z"
@@ -34,6 +44,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tales-from-the-mos-eisley-cantina",
-  "synopsis": "In a far corner of the universe, on the small desert planet of Tatooine, there is a dark, nic-i-tain&ndash;filled cantina where you can down your favorite intoxicant while listening to the best jizz riffs in the universe. But beware your fellow denizens of this pangalactic watering hole, for they are cutthroats and cutpurses, assassins and troopers, humans and aliens, gangsters and thieves....",
+  "synopsis": "Sixteen stories from the most infamous cantina in the universe...by some of today's leading writers of science fiction. In a far corner of the universe, on the small desert planet of Tatooine, there is a dark, nic-i-tain-filled cantina where you can down your favorite intoxicant while listening to the best jazz riffs in the universe. But beware your fellow denizens of this pangalactic watering hole, for they are cutthroats and cutpurses, assassins and troopers, humans and aliens, gangsters and thieves.... Featuring original stories by: Kevin J. Anderson * Doug Beason * M. Shayne Bell * David Bischoff * A.C. Crispin * Kenneth C. Flint * Barbara Hambly * Rebecca Moesta * Daniel Keys Moran * Jerry Oltion * Judith & Garfield Reeves-Stevens * Jennifer Roberson * Kathy Tyers * Tom Veitch & Martha Veitch * Dave Wolverton * Timothy Zahn",
   "title": "Tales from the Mos Eisley Cantina"
 }
