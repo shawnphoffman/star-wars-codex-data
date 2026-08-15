@@ -1,0 +1,42 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    },
+    {
+      "name": "Maya Kaathryn Bohnhoff",
+      "role": "writer",
+      "slug": "maya-kaathryn-bohnhoff"
+    }
+  ],
+  "displayTitle": "The Last Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345511409"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 480,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345511409",
+      "kind": "print",
+      "onsale": "2013-02-26T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-02-26T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-last-jedi-coruscant-nights",
+  "title": "The Last Jedi"
+}
