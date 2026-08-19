@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 48,
-      "imprint": "DK Publishing",
+      "imprint": "DK",
       "isPrimary": true,
       "isbn13": "9781465455529",
       "kind": "print",
@@ -26,9 +26,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2017-12-15T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

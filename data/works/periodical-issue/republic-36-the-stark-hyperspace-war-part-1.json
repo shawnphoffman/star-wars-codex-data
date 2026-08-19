@@ -5,6 +5,26 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
     }
   ],
   "displayTitle": "Republic #36: The Stark Hyperspace War, Part 1",

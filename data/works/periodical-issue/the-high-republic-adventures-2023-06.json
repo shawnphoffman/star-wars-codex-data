@@ -10,6 +10,21 @@
       "name": "Harvey Tolibao",
       "role": "artist",
       "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "inker",
+      "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "coverArtist",
+      "slug": "harvey-tolibao"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023) #06",
@@ -20,6 +35,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2024-05-29T00:00:00.000Z",

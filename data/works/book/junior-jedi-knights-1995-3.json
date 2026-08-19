@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 114,
-      "imprint": "Boulevard/Berkley Jam",
+      "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "0425169553",
       "kind": "print",
@@ -29,9 +29,6 @@
   "format": "book",
   "inUniverseDate": {
     "startYear": 22
-  },
-  "periodical": {
-    "publicationKind": "comic"
   },
   "relatedWorkSlugs": [
     "junior-jedi-knights-1995-1",

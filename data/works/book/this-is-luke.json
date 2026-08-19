@@ -6,11 +6,6 @@
       "name": "Nate Millici",
       "role": "writer",
       "slug": "nate-millici"
-    },
-    {
-      "name": "Lucasfilm Press",
-      "role": "writer",
-      "slug": "lucasfilm-press"
     }
   ],
   "displayTitle": "This is Luke",
@@ -27,7 +22,7 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "136805725X",
       "isbn13": "9781368057257",
@@ -36,9 +31,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2020-09-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    }
+  ],
+  "displayTitle": "Infinities: The Empire Strikes Back (2002) #4",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "infinities-esb",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-infinities-the-empire-strikes-back-2002-4",
+  "title": "Star Wars Infinities: The Empire Strikes Back (2002) #4"
+}

@@ -1,6 +1,6 @@
 {
   "bookType": "referenceBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "S.T. Bende",
@@ -41,9 +41,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2026-09-29T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-the-phantom-menace-a-visual-archive",

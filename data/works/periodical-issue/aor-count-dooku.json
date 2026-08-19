@@ -10,6 +10,36 @@
       "name": "Luke Ross",
       "role": "artist",
       "slug": "luke-ross"
+    },
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "penciler",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
   "displayTitle": "Age of Republic: Count Dooku",

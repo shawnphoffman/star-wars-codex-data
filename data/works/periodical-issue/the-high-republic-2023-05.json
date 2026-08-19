@@ -10,6 +10,46 @@
       "name": "Ario Anindito",
       "role": "artist",
       "slug": "ario-anindito"
+    },
+    {
+      "name": "Mark Morales",
+      "role": "inker",
+      "slug": "mark-morales"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "inker",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Ario Anindito",
+      "role": "penciler",
+      "slug": "ario-anindito"
+    },
+    {
+      "name": "Marika Cresta",
+      "role": "penciler",
+      "slug": "marika-cresta"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
     }
   ],
   "displayTitle": "The High Republic (2023) #05",

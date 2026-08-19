@@ -22,7 +22,7 @@
   ],
   "editions": [
     {
-      "imprint": "Boulevard/Berkley Jam",
+      "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "1572973315",
       "kind": "print",
@@ -33,9 +33,6 @@
   "format": "book",
   "inUniverseDate": {
     "startYear": 24
-  },
-  "periodical": {
-    "publicationKind": "comic"
   },
   "relatedWorkSlugs": [
     "young-jedi-knights-1995-1",

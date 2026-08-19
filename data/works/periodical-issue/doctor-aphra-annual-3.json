@@ -40,6 +40,21 @@
       "name": "Matt Hollingsworth",
       "role": "coverArtist",
       "slug": "matt-hollingsworth"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "coverArtist",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Si Spurrier",
+      "role": "writer",
+      "slug": "si-spurrier"
     }
   ],
   "displayTitle": "Doctor Aphra (2016) Annual #3",
@@ -48,7 +63,7 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "doctor-aphra-2016",
+  "parentWorkSlug": "doctor-aphra-2016-annual",
   "periodical": {
     "publicationKind": "comic"
   },

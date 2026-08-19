@@ -5,6 +5,26 @@
       "name": "Chris Claremont",
       "role": "writer",
       "slug": "chris-claremont"
+    },
+    {
+      "name": "Steve Leialoha",
+      "role": "inker",
+      "slug": "steve-leialoha"
+    },
+    {
+      "name": "Mike Vosburg",
+      "role": "penciler",
+      "slug": "mike-vosburg"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Bob Sharen",
+      "role": "colorist",
+      "slug": "bob-sharen"
     }
   ],
   "displayTitle": "Star Wars (1977) Annual #1: The Long Hunt",

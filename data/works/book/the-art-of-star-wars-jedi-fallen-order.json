@@ -11,16 +11,6 @@
       "name": "Jordan Lamarre-Wan",
       "role": "writer",
       "slug": "jordan-lamarre-wan"
-    },
-    {
-      "name": "Respawn Entertainment",
-      "role": "writer",
-      "slug": "respawn-entertainment"
-    },
-    {
-      "name": "Lucasfilm Ltd.",
-      "role": "writer",
-      "slug": "lucasfilm-ltd"
     }
   ],
   "displayTitle": "The Art of Star Wars Jedi: Fallen Order",
@@ -46,9 +36,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2019-11-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

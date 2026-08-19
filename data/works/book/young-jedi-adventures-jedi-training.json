@@ -6,10 +6,6 @@
       "name": "Caitlin Kennedy",
       "role": "writer",
       "slug": "caitlin-kennedy"
-    },
-    {
-      "name": "Lucasfilm Press",
-      "slug": "lucasfilm-press"
     }
   ],
   "displayTitle": "Young Jedi Adventures: Jedi Training",
@@ -26,7 +22,7 @@
   "editions": [
     {
       "extent": 40,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368090982",
       "isbn13": "9781368090988",
@@ -43,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "young-jedi-adventures-jedi-training",
-  "synopsis": "Tied to the very first full-length animated Star Wars series created for preschoolers and their families, set in the exciting new era of the High Republic! Join youngling Kai Brightstar and his best friends, Lys and Nubs, on Tenoo as they learn the way of the Force and train to become Jedi Knights! Featuring concept art that inspired the style for the series and filled with empowering messages about teamwork and the importance of helping others, young readers will find the adventure and heart they can only get in a galaxy far, far away.",
+  "synopsis": "Follow three Jedi younglings as they train hard to one day become skilled Jedi Knights.",
   "title": "Young Jedi Adventures: Jedi Training"
 }

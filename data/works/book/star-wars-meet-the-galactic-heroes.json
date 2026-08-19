@@ -1,13 +1,6 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Lucasfilm Press",
-      "role": "writer",
-      "slug": "lucasfilm-press"
-    }
-  ],
   "displayTitle": "Meet the Galactic Heroes",
   "editionIds": [
     {
@@ -22,7 +15,7 @@
   "editions": [
     {
       "extent": 160,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "1368063578",
       "isbn13": "9781368063579",
@@ -31,9 +24,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2023-10-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

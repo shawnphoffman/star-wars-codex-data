@@ -28,7 +28,7 @@
   "editions": [
     {
       "extent": 176,
-      "imprint": "HarperDesign",
+      "imprint": "Harper Design",
       "isPrimary": true,
       "isbn13": "9780062681171",
       "kind": "print",
@@ -36,9 +36,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2017-10-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

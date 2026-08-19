@@ -10,6 +10,36 @@
       "name": "Will Sliney",
       "role": "artist",
       "slug": "will-sliney"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "The Fall of Kylo Ren #1",
@@ -20,7 +50,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2026-08-12T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-fall-of-kylo-ren-1",
   "title": "The Fall of Kylo Ren #1"
 }

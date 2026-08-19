@@ -33,6 +33,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
+  "relatedWorkSlugs": [
+    "true-believers-star-wars-darth-vader"
+  ],
   "releaseDate": "2015-02-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

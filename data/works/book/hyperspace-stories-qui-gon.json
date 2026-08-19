@@ -1,0 +1,67 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Andrea Mutti",
+      "role": "penciler",
+      "slug": "andrea-mutti"
+    },
+    {
+      "name": "Gigi Baldassini",
+      "role": "inker",
+      "slug": "gigi-baldassini"
+    },
+    {
+      "name": "Vladimir Popov",
+      "role": "colorist",
+      "slug": "vladimir-popov"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Michael Cho",
+      "role": "coverArtist",
+      "slug": "michael-cho"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Qui-Gon",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781506739847"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 88,
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn13": "9781506739847",
+      "kind": "print",
+      "onsale": "2025-03-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "relatedWorkSlugs": [
+    "hyperspace-stories-mace"
+  ],
+  "releaseDate": "2025-03-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-qui-gon",
+  "title": "Hyperspace Stories: Qui-Gon"
+}

@@ -25,6 +25,95 @@
       "name": "Daniel J. Parsons",
       "role": "inker",
       "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Ryan Kelly",
+      "role": "artist",
+      "slug": "ryan-kelly"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    },
+    {
+      "name": "Rod Pereira",
+      "role": "penciler",
+      "slug": "rod-pereira"
+    },
+    {
+      "name": "Stephen Hawthorne",
+      "role": "inker",
+      "slug": "stephen-hawthorne"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Kristen Burda",
+      "slug": "kristen-burda"
+    },
+    {
+      "name": "Ken Kelly",
+      "role": "coverArtist",
+      "slug": "ken-kelly"
+    },
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "penciler",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "inker",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "Tom Palmer",
+      "role": "colorist",
+      "slug": "tom-palmer"
+    },
+    {
+      "name": "John Costanza",
+      "role": "letterer",
+      "slug": "john-costanza"
+    },
+    {
+      "name": "Gil Kane",
+      "role": "coverArtist",
+      "slug": "gil-kane"
+    },
+    {
+      "name": "Tony DeZuniga",
+      "role": "coverArtist",
+      "slug": "tony-dezuniga"
     }
   ],
   "displayTitle": "Star Wars (2013) #09",
@@ -35,6 +124,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-09-11T00:00:00.000Z",

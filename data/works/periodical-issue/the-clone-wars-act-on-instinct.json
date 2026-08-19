@@ -8,12 +8,13 @@
       "slug": "pablo-hidalgo"
     }
   ],
-  "displayTitle": "The Clone Wars - Act On Instinct",
+  "displayTitle": "The Clone Wars: Act on Instinct",
   "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -21
   },
+  "parentWorkSlug": "the-clone-wars-webcomics",
   "periodical": {
     "publicationKind": "comic"
   },
@@ -22,5 +23,5 @@
   "releaseStatus": "released",
   "slug": "the-clone-wars-act-on-instinct",
   "synopsis": "The Clone Wars: Act on Instinct is a webcomic in the Star Wars: The Clone Wars webcomic series taking place concurrently with The Clone Wars television series' second season. It began on September 30, 2009 and was updated semi-regularly until May 7, 2010, when its final chapter was published. The Clone Wars: Act on Instinct was written by Pablo Hidalgo. The art of the comic was done by Thomas Hodges, Grant Gould, Jeffery Carlisle, and Daniel Falconer. Special thanks were given to Sue Rostoni, Leland Chee, and Dave Filoni.",
-  "title": "The Clone Wars - Act On Instinct"
+  "title": "The Clone Wars: Act on Instinct"
 }

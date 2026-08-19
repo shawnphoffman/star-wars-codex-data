@@ -1,18 +1,6 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Respawn Entertainment",
-      "role": "writer",
-      "slug": "respawn-entertainment"
-    },
-    {
-      "name": "Lucasfilm Ltd.",
-      "role": "writer",
-      "slug": "lucasfilm-ltd"
-    }
-  ],
   "displayTitle": "The Art of Star Wars Jedi: Survivor",
   "editionIds": [
     {
@@ -36,9 +24,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2024-02-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

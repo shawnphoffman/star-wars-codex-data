@@ -3,11 +3,9 @@
   "displayTitle": "Fun with Nubs Season 2",
   "format": "tvSeason",
   "parentWorkSlug": "star-wars-fun-with-nubs",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2025-02-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-fun-with-nubs-season-2-s02",
   "title": "Star Wars: Fun with Nubs Season 2"
 }

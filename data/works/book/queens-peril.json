@@ -30,7 +30,7 @@
   "editions": [
     {
       "extent": 288,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1368057144",
       "isbn13": "9781368057141",
@@ -38,13 +38,13 @@
       "onsale": "2020-06-02T00:00:00.000Z"
     },
     {
-      "extent": 320,
-      "imprint": "Random House/Star Wars",
+      "extent": 288,
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368077196",
       "isbn13": "9781368077194",
       "kind": "print",
-      "onsale": "2021-10-05T00:00:00.000Z"
+      "onsale": "2020-06-02T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
@@ -56,6 +56,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "queens-peril",
-  "synopsis": "Being the Queen of Naboo isn’t easy, but thanks to the Trade Federation, Padme Amidala is about to discover it can be even more of a challenge than she imagined.",
+  "synopsis": "Being the Queen of Naboo isn't easy - but thanks to the Trade Federation, Padme Amidala is about to discover it can be even more of a challenge than she imagined.",
   "title": "Queen's Peril"
 }

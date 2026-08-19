@@ -5,11 +5,9 @@
   "movie": {
     "runtimeMinutes": 22
   },
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2011-07-22T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "lego-star-wars-the-padawan-menace",
   "synopsis": "Master Yoda must go retrieve secret battle plans. However, things become a little more complicated when a class of younglings join the mission.",
   "title": "LEGO Star Wars: The Padawan Menace"

@@ -27,7 +27,7 @@
   "editions": [
     {
       "extent": 372,
-      "imprint": "Random House Worlds",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "0345509617",
       "isbn13": "9780345509611",
@@ -36,9 +36,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2010-10-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

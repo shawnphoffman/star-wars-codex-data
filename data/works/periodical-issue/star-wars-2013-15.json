@@ -25,6 +25,41 @@
       "name": "Gabe Eltaeb",
       "role": "colorist",
       "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "penciler",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "inker",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "colorist",
+      "slug": "mike-mayhew"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Mike Mayhew",
+      "role": "coverArtist",
+      "slug": "mike-mayhew"
     }
   ],
   "displayTitle": "Star Wars (2013) #15",
@@ -35,6 +70,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-03-12T00:00:00.000Z",

@@ -1,0 +1,30 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Ken Lashley",
+      "role": "coverArtist",
+      "slug": "ken-lashley"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-book-of-boba-fett-marvel-comic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-14T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-3",
+  "title": "The Book of Boba Fett #3"
+}

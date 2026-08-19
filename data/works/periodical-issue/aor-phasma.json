@@ -10,6 +10,41 @@
       "name": "Leonard Kirk",
       "role": "artist",
       "slug": "leonard-kirk"
+    },
+    {
+      "name": "Leonard Kirk",
+      "role": "penciler",
+      "slug": "leonard-kirk"
+    },
+    {
+      "name": "Cory Hamscher",
+      "role": "inker",
+      "slug": "cory-hamscher"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Bryan Young",
+      "role": "writer",
+      "slug": "bryan-young"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Age Of Resistance: Captain Phasma",

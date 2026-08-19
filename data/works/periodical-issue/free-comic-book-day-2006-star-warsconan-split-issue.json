@@ -1,7 +1,18 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
   "displayTitle": "Free Comic Book Day 2006 Star Wars/Conan Split Issue",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "periodical": {
     "publicationKind": "comic"
   },

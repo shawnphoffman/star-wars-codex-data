@@ -10,6 +10,46 @@
       "name": "Marc Laming",
       "role": "artist",
       "slug": "marc-laming"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Bria Lavorgna",
+      "role": "writer",
+      "slug": "bria-lavorgna"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "coverArtist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "inker",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Ramón F. Bachs",
+      "role": "penciler",
+      "slug": "ramn-f-bachs"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
   "displayTitle": "Age Of Rebellion: Darth Vader",

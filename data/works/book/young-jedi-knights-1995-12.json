@@ -23,7 +23,7 @@
   "editions": [
     {
       "extent": 230,
-      "imprint": "Berkley Boulevard",
+      "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "0425163628",
       "kind": "print",
@@ -34,9 +34,6 @@
   "format": "book",
   "inUniverseDate": {
     "startYear": 24
-  },
-  "periodical": {
-    "publicationKind": "comic"
   },
   "relatedWorkSlugs": [
     "young-jedi-knights-1995-1",

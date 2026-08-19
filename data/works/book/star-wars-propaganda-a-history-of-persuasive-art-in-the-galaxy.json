@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 112,
-      "imprint": "Harper Design *becker&mayer!",
+      "imprint": "Harper Design",
       "isPrimary": true,
       "isbn13": "9780062466822",
       "kind": "print",
@@ -26,9 +26,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2016-10-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

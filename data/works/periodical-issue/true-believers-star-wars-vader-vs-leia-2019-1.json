@@ -1,0 +1,39 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Larry Hama",
+      "role": "writer",
+      "slug": "larry-hama"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "coverArtist",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Carlos Garzon",
+      "role": "penciler",
+      "slug": "carlos-garzon"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    }
+  ],
+  "displayTitle": "True Believers: Star Wars: Vader vs. Leia (2019) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "true-believers-star-wars-vader-vs-leia",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "true-believers-star-wars-vader-vs-leia-2019-1",
+  "title": "True Believers: Star Wars: Vader vs. Leia (2019) #1"
+}

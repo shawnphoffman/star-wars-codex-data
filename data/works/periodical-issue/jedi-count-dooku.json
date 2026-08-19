@@ -36,6 +36,20 @@
       "name": "Brad Anderson",
       "role": "coverArtist",
       "slug": "brad-anderson"
+    },
+    {
+      "name": "Michael Thomas",
+      "role": "letterer",
+      "slug": "michael-thomas"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "editor",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "David Nestelle",
+      "slug": "david-nestelle"
     }
   ],
   "displayTitle": "Jedi: Count Dooku",

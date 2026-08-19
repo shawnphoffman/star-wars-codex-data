@@ -5,9 +5,29 @@
       "name": "Tom Taylor",
       "role": "writer",
       "slug": "tom-taylor"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "inker",
+      "slug": "colin-wilson"
+    },
+    {
+      "name": "Colin Wilson",
+      "role": "penciler",
+      "slug": "colin-wilson"
     }
   ],
-  "displayTitle": "Invasion: Refugees #1",
+  "displayTitle": "Invasion (2009) #1",
   "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -23,5 +43,5 @@
   "releaseStatus": "released",
   "slug": "invasion-refugees-2009-1",
   "synopsis": "A new series comes to Dark Horse's Star Wars line! After its special sixteen-page preview on starwars.com, Star Wars: Invasion continues in print! This series is set twenty-five years after the Battle of Yavin. The Jedi, and the galaxy, are facing their first real threat since the Sith were defeated: an invasion of hostile warriors called the Yuuzhan Vong. The forces of the New Republic and the fledgling New Jedi Order stand ready to face the invaders, but they've never seen anything like the Yuuzhan Vong! Luke Skywalker is about to discover that it's not his galaxy anymore...",
-  "title": "Invasion: Refugees #1"
+  "title": "Invasion (2009) #1"
 }

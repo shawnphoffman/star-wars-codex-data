@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "0345477588"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477583"
     }
   ],
   "editions": [
@@ -28,17 +32,25 @@
       "isbn10": "0345477588",
       "kind": "print",
       "onsale": "2009-01-27T00:00:00.000Z"
+    },
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345477583",
+      "kind": "print",
+      "onsale": "2009-01-27T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -19
+    "startYear": -18
   },
   "releaseDate": "2009-01-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "coruscant-nights-iii-patterns-of-force",
-  "synopsis": "After the Empire's bloody purge of the Jedi, one lone Knight still fights for those who can't, unaware that he's about to be swept into a cataclysmic battle against the Master of Darkness himself. Throughout the galaxy, a captured Jedi is a dead Jedi, even in Coruscant's most foul subterranean slums, where Jedi Knight Jax Pavan champions the causes of the oppressed with the help of hard-nosed reporter Den Dhur and the wisecracking droid I-5YQ. But Jax is also involved in another struggle -- to unlock the secrets of his father's death and his own past. While Jax believes that I-5YQ holds some o",
+  "synopsis": "Jax Pavan has successfully outrun the evil Darth Vader since Order 66, but the Jedi Knight's luck may finally soon run out.",
   "title": "Coruscant Nights III: Patterns of Force"
 }

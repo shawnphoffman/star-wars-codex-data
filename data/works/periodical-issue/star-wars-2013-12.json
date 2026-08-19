@@ -15,6 +15,46 @@
       "name": "Gabe Eltaeb",
       "role": "colorist",
       "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "penciler",
+      "slug": "stuart-immonen"
+    },
+    {
+      "name": "Wade Von Grawbadger",
+      "role": "inker",
+      "slug": "wade-von-grawbadger"
+    },
+    {
+      "name": "Justin Ponsor",
+      "role": "colorist",
+      "slug": "justin-ponsor"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "coverArtist",
+      "slug": "stuart-immonen"
     }
   ],
   "displayTitle": "Star Wars (2013) #12",
@@ -25,6 +65,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-12-11T00:00:00.000Z",

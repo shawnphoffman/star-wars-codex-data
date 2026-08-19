@@ -27,8 +27,8 @@
       "onsale": "2021-06-29T00:00:00.000Z"
     },
     {
-      "extent": 208,
-      "imprint": "Random House/Star Wars",
+      "extent": 240,
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368060668",
       "isbn13": "9781368060660",
@@ -45,6 +45,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-junior-novel-2",
-  "synopsis": "The Republic Fair is in trouble, and Jedi Padawan Ram Jomaram has to warn the Jedi before it’s too late!",
+  "synopsis": "The Republic Fair is in trouble - and Jedi Padawan Ram Jomaram has to warn the Jedi before it's too late!",
   "title": "Race to Crashpoint Tower"
 }

@@ -6,6 +6,17 @@
   "periodical": {
     "publicationKind": "comic"
   },
+  "relatedWorkSlugs": [
+    "classic-star-wars-a-long-time-ago",
+    "classic-star-wars-a-new-hope",
+    "classic-star-wars-the-empire-strikes-back",
+    "true-believers-star-wars-according-to-the-droids",
+    "true-believers-star-wars-death-probe",
+    "true-believers-star-wars-hutt-run",
+    "true-believers-star-wars-the-hunter",
+    "true-believers-star-wars-the-original-marvel-years",
+    "true-believers-star-wars-vader-vs-leia"
+  ],
   "releaseDate": "1977-04-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

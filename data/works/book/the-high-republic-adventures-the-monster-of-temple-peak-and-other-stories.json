@@ -76,10 +76,6 @@
       "name": "Rachael Stott",
       "role": "coverArtist",
       "slug": "rachael-stott"
-    },
-    {
-      "name": "Watermark Studio",
-      "slug": "watermark-studio"
     }
   ],
   "displayTitle": "The High Republic Adventures: The Monster of Temple Peak and Other Stories",
@@ -105,9 +101,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2023-10-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

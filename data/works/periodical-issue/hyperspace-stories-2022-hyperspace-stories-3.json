@@ -1,0 +1,51 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cecil Castellucci",
+      "role": "writer",
+      "slug": "cecil-castellucci"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "penciler",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Andy Duggan",
+      "role": "inker",
+      "slug": "andy-duggan"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "coverArtist",
+      "slug": "megan-huang"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #03",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-2022",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-11-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-2022-hyperspace-stories-3",
+  "title": "Hyperspace Stories #03"
+}

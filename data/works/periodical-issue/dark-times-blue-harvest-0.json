@@ -16,6 +16,21 @@
       "name": "David McCaig",
       "role": "colorist",
       "slug": "david-mccaig"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
     }
   ],
   "displayTitle": "Dark Times: Blue Harvest #0",
@@ -24,6 +39,7 @@
   "inUniverseDate": {
     "startYear": -19
   },
+  "parentWorkSlug": "dark-times",
   "periodical": {
     "pageCount": 40,
     "publicationKind": "comic"

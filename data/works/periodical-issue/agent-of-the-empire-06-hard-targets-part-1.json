@@ -5,6 +5,31 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "inker",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
     }
   ],
   "displayTitle": "Agent of the Empire #06: Hard Targets, Part 1",

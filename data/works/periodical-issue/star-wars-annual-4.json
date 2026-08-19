@@ -65,6 +65,16 @@
       "name": "Matthew Wilson",
       "role": "coverArtist",
       "slug": "matthew-wilson"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
     }
   ],
   "displayTitle": "Star Wars (2015) Annual #4",
@@ -73,7 +83,7 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "star-wars-annual-1979",
+  "parentWorkSlug": "star-wars-2015-annual",
   "periodical": {
     "publicationKind": "comic"
   },

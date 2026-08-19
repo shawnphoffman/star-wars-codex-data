@@ -20,6 +20,51 @@
       "name": "Daniel J. Parsons",
       "role": "inker",
       "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Facundo Percio",
+      "role": "penciler",
+      "slug": "facundo-percio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "penciler",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Mike Deodato Jr.",
+      "role": "inker",
+      "slug": "mike-deodato-jr"
+    },
+    {
+      "name": "Frank Martin",
+      "role": "colorist",
+      "slug": "frank-martin"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
     }
   ],
   "displayTitle": "Star Wars (2013) #14: Five Days of Sith, Part Two",
@@ -30,6 +75,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-02-12T00:00:00.000Z",

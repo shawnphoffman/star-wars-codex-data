@@ -5,6 +5,26 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "penciler",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
     }
   ],
   "displayTitle": "Agent of the Empire #04: Iron Eclipse, Part 4",

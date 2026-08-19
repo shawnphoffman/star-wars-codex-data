@@ -10,6 +10,21 @@
       "name": "Elisa Rombol",
       "role": "artist",
       "slug": "elisa-rombol"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "artist",
+      "slug": "elisa-romboli"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "coverArtist",
+      "slug": "harvey-tolibao"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023) #04",
@@ -20,6 +35,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2024-03-13T00:00:00.000Z",

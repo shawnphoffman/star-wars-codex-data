@@ -26,20 +26,20 @@
   "editions": [
     {
       "extent": 356,
-      "imprint": "Disney–Lucasfilm Press *Gakken",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1484705661",
       "kind": "print",
       "onsale": "2016-10-11T00:00:00.000Z"
     },
     {
-      "extent": 384,
-      "imprint": "Random House/Star Wars",
+      "extent": 356,
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1484782313",
       "isbn13": "9781484782316",
       "kind": "print",
-      "onsale": "2017-10-03T00:00:00.000Z"
+      "onsale": "2016-10-11T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

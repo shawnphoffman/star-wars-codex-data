@@ -1,0 +1,36 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cecil Castellucci",
+      "role": "writer",
+      "slug": "cecil-castellucci"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michael Cho",
+      "role": "coverArtist",
+      "slug": "michael-cho"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories: Obi-Wan",
+  "editions": [
+    {
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "relatedWorkSlugs": [
+    "hyperspace-stories-mace"
+  ],
+  "releaseDisplayState": "announced",
+  "slug": "hyperspace-stories-obi-wan",
+  "title": "Hyperspace Stories: Obi-Wan"
+}

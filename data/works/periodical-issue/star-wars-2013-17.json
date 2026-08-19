@@ -25,6 +25,41 @@
       "name": "Gabe Eltaeb",
       "role": "colorist",
       "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Víctor Manuel Leza",
+      "role": "coverArtist",
+      "slug": "vctor-manuel-leza"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "penciler",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Gerry Alanguilan",
+      "role": "inker",
+      "slug": "gerry-alanguilan"
+    },
+    {
+      "name": "Sunny Gho",
+      "role": "colorist",
+      "slug": "sunny-gho"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
     }
   ],
   "displayTitle": "Star Wars (2013) #17",
@@ -35,6 +70,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-05-14T00:00:00.000Z",

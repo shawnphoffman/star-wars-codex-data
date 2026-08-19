@@ -1,0 +1,29 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Cassaday",
+      "role": "coverArtist",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    }
+  ],
+  "displayTitle": "True Believers: Star Wars: Skywalker Strikes (2019) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "true-believers-star-wars-skywalker-strikes",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "true-believers-star-wars-skywalker-strikes-2019-1",
+  "title": "True Believers: Star Wars: Skywalker Strikes (2019) #1"
+}

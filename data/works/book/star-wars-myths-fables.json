@@ -22,7 +22,7 @@
   "editions": [
     {
       "extent": 192,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368043453",
       "isbn13": "9781368043458",
@@ -31,9 +31,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2019-08-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

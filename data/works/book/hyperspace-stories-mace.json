@@ -41,13 +41,23 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
+  "inUniverseDate": {
+    "startYear": -48
   },
+  "relatedWorkSlugs": [
+    "hyperspace-stories-darth-vader",
+    "hyperspace-stories-grievous",
+    "hyperspace-stories-kylo-ren",
+    "hyperspace-stories-luke-skywalker",
+    "hyperspace-stories-obi-wan",
+    "hyperspace-stories-princess-leia",
+    "hyperspace-stories-qui-gon",
+    "hyperspace-stories-rey"
+  ],
   "releaseDate": "2026-10-20T00:00:00.000Z",
-  "releaseDisplayState": "released",
-  "releaseStatus": "released",
+  "releaseDisplayState": "upcoming",
+  "releaseStatus": "announced",
   "slug": "hyperspace-stories-mace",
-  "synopsis": "Hyperspace Stories: Mace is an upcoming graphic novel in the Star Wars: Hyperspace Stories series of graphic novels featuring a young Mace Windu. The issue will be written by Justina Ireland, illustrated by Georges Duarte and PH Gomes, and published by Dark Horse Comics on October 20, 2026.",
+  "synopsis": "The intrepid Jedi Master Mace Windu seeks to rescue a kidnapped king before the kingdom is engulfed by civil war! After young Mace Windu bungles a sensitive assignment, his superiors task him with protecting an alien king. Windu isn't thrilled, but when the monarch is kidnapped in a daring heist, the Jedi Master finds himself at the center of an exciting conspiracy surrounded by scheming politicians and ruthless rebels. Danger lurks around every corner as Windu seeks to unravel the kidnapping plot before the planet is engulfed by civil war. Who knew diplomacy could be so much fun? Join New York Times bestselling author Justina Ireland, one of the original story architects of the Star Wars High Republic initiative, for this quintessential standalone tale of one of the galaxy's most powerful Jedi Masters! Featuring cover art by award-winning artist Michael Cho!",
   "title": "Hyperspace Stories: Mace"
 }

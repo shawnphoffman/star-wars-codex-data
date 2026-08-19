@@ -1,0 +1,29 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "letterer",
+      "slug": "jordi-ensign"
+    }
+  ],
+  "displayTitle": "Star Wars (1998) #0",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "republic-1999",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-1998",
+  "title": "Star Wars (1998) #0"
+}

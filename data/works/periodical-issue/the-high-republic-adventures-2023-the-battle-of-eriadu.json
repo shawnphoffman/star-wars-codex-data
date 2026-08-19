@@ -5,6 +5,36 @@
       "name": "Alyssa Wong",
       "role": "writer",
       "slug": "alyssa-wong"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "artist",
+      "slug": "elisa-romboli"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "penciler",
+      "slug": "elisa-romboli"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023): The Battle of Eriadu",
@@ -15,6 +45,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-04-30T00:00:00.000Z",

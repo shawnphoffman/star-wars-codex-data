@@ -1,13 +1,6 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
-  "creators": [
-    {
-      "name": "Random House",
-      "role": "writer",
-      "slug": "random-house"
-    }
-  ],
   "displayTitle": "Five Rebel Adventures: Step Into Reading Collection",
   "editionIds": [
     {
@@ -22,7 +15,7 @@
   "editions": [
     {
       "extent": 144,
-      "imprint": "Step into Reading",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "073644940X",
       "isbn13": "9780736449403",
@@ -31,9 +24,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2027-01-05T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "five-rebel-adventures-step-into-reading-collection",

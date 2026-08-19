@@ -52,7 +52,7 @@
     {
       "asin": "B00513E5MU",
       "extent": 224,
-      "imprint": "Random House Worlds",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "0307795454",
       "isbn13": "9780307795458",
@@ -66,9 +66,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2011-06-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

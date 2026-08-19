@@ -1,0 +1,30 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "displayTitle": "Jedi the Last",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683690885"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683690887"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Random House Publishing Services",
+      "isPrimary": true,
+      "isbn10": "1683690885",
+      "isbn13": "9781683690887",
+      "kind": "ebook",
+      "onsale": "2018-07-10T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2018-07-10T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jedi-the-last",
+  "title": "Jedi the Last"
+}

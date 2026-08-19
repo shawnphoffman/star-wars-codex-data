@@ -1,0 +1,34 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jim Cheung",
+      "role": "coverArtist",
+      "slug": "jim-cheung"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    }
+  ],
+  "displayTitle": "True Believers: Star Wars: Darth Vader (2019) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "true-believers-star-wars-darth-vader",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "true-believers-star-wars-darth-vader-2019-1",
+  "title": "True Believers: Star Wars: Darth Vader (2019) #1"
+}

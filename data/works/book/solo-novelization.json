@@ -8,7 +8,7 @@
       "slug": "mur-lafferty"
     }
   ],
-  "displayTitle": "Solo: A Star Wars Story",
+  "displayTitle": "Solo: A Star Wars Story: Expanded Edition",
   "editionIds": [
     {
       "type": "isbn10",
@@ -33,13 +33,13 @@
       "onsale": "2018-09-04T00:00:00.000Z"
     },
     {
-      "extent": 368,
-      "imprint": "Random House Worlds",
+      "extent": 304,
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "1984819283",
       "isbn13": "9781984819284",
       "kind": "print",
-      "onsale": "2019-04-30T00:00:00.000Z"
+      "onsale": "2018-09-04T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -52,6 +52,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "solo-novelization",
-  "synopsis": "Board the Millennium Falcon and journey to a galaxy far, far away with the most beloved scoundrel in the galaxy in this thrilling novelization of Solo: A Star Wars Story.",
-  "title": "Solo: A Star Wars Story"
+  "synopsis": "Han Solo's daring escape from Corellia also separated him from the love of his life. Years later, he finds himself tangled in a complicated deal with Crimson Dawn - just as he and Qi'ra reunite under unexpected circumstances.",
+  "title": "Solo: A Star Wars Story: Expanded Edition"
 }

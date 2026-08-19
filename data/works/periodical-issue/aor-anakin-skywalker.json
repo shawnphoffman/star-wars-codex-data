@@ -10,6 +10,36 @@
       "name": "Wilton Santos",
       "role": "artist",
       "slug": "wilton-santos"
+    },
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Walden Wong",
+      "role": "inker",
+      "slug": "walden-wong"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
+    },
+    {
+      "name": "Cory Smith",
+      "role": "penciler",
+      "slug": "cory-smith"
     }
   ],
   "displayTitle": "Age of Republic: Anakin Skywalker",

@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 128,
-      "imprint": "Berkley Boulevard",
+      "imprint": "Boulevard",
       "isPrimary": true,
       "isbn13": "9781572971738",
       "kind": "print",
@@ -29,9 +29,6 @@
   "format": "book",
   "inUniverseDate": {
     "startYear": 22
-  },
-  "periodical": {
-    "publicationKind": "comic"
   },
   "relatedWorkSlugs": [
     "junior-jedi-knights-1995-1",

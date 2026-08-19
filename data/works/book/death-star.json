@@ -16,11 +16,28 @@
   "displayTitle": "Death Star",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "034547743X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307795847"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477422"
     }
   ],
   "editions": [
+    {
+      "extent": 384,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "034547743X",
+      "isbn13": "9780307795847",
+      "kind": "print",
+      "onsale": "2007-10-16T00:00:00.000Z"
+    },
     {
       "extent": 384,
       "imprint": "Del Rey",
@@ -30,7 +47,7 @@
       "onsale": "2007-10-16T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "endYear": 0,
@@ -40,6 +57,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "death-star",
-  "synopsis": "The Death Star's name says it all, with bone-chilling accuracy. It is a virtual world unto itself&mdash;equipped with uncanny power for a singularly brutal purpose: to obliterate entire planets in the blink of an eye. Its annihilation of the planet Alderaan, at the merciless command of Grand Moff Tarkin, lives in infamy. And its own ultimate destruction, at the hands of Luke Skywalker, is the stuff of legend. But what is the whole story, and who are the players, behind the creation of this world-killing satellite of doom? The near extermination of the Jedi Order cleared the way for Palpatine&m",
+  "synopsis": "At last, the story of how the ominous Death Star came to be is finally revealed…",
   "title": "Death Star"
 }

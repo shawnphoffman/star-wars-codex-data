@@ -1,0 +1,34 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Larry Hama",
+      "role": "penciler",
+      "slug": "larry-hama"
+    },
+    {
+      "name": "Carmine Infantino",
+      "role": "penciler",
+      "slug": "carmine-infantino"
+    },
+    {
+      "name": "Archie Goodwin",
+      "role": "writer",
+      "slug": "archie-goodwin"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    }
+  ],
+  "displayTitle": "True Believers: Star Wars: Death Probe (2019) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "true-believers-star-wars-death-probe",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "true-believers-star-wars-death-probe-2019-1",
+  "title": "True Believers: Star Wars: Death Probe (2019) #1"
+}

@@ -5,6 +5,26 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Guy Major",
+      "role": "colorist",
+      "slug": "guy-major"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
     }
   ],
   "displayTitle": "Republic #40: The Devaronian Version part 1",

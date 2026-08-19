@@ -11,7 +11,7 @@
   "editions": [
     {
       "extent": 24,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn13": "9780736449199",
       "kind": "print",
@@ -21,9 +21,6 @@
   "format": "book",
   "inUniverseDate": {
     "startYear": 40
-  },
-  "periodical": {
-    "publicationKind": "comic"
   },
   "releaseDate": "2027-04-20T00:00:00.000Z",
   "releaseDisplayState": "upcoming",

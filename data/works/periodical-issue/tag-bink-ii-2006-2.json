@@ -25,6 +25,21 @@
       "name": "Lucas Marangon",
       "role": "penciler",
       "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "artist",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
     }
   ],
   "displayTitle": "Tag & Bink II (2006) #2",
@@ -33,7 +48,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2006-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "tag-bink-ii-2006-2",
+  "synopsis": "Behold, the long-awaited prequel to the Tag & Bink saga! Many a Star Wars fan has lain awake at night, plagued by suspense and wondering just how this infamous Rebel pair came to be. Well wonder no more, faithful readers! Your plague has ended with this tell-all issue that caps the space-opera legend, courtesy of fan-favorite Star Wars creators Kevin Rubio and Lucas Marangon. The origin story of our hapless heroes begins on their respective planets, Alderaan and Corellia. These future soldiers of the Rebel Alliance are sized up for Padawan potential, and we are treated to a rare inside look at the rigorous mental and physical training undergone by aspiring Knights in the Jedi Temple! Mace Windu, Yoda, Obi-Wan Kenobi, and the elder Fett each have a role in the miseducation of Tag and Bink, but despite all this schoolin', the two decide that spying on Padme and \"the Chosen One\" is a pretty good idea . . . • Featuring the cast of the Star Wars prequels!",
   "title": "Tag & Bink II (2006) #2"
 }

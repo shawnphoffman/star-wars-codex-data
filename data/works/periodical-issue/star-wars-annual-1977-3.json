@@ -35,15 +35,40 @@
       "name": "Michael Walsh",
       "role": "coverArtist",
       "slug": "michael-walsh"
+    },
+    {
+      "name": "Klaus Janson",
+      "role": "colorist",
+      "slug": "klaus-janson"
+    },
+    {
+      "name": "Klaus Janson",
+      "role": "inker",
+      "slug": "klaus-janson"
+    },
+    {
+      "name": "Klaus Janson",
+      "role": "penciler",
+      "slug": "klaus-janson"
+    },
+    {
+      "name": "Jo Duffy",
+      "role": "writer",
+      "slug": "jo-duffy"
+    },
+    {
+      "name": "Joe Rosen",
+      "role": "letterer",
+      "slug": "joe-rosen"
     }
   ],
-  "displayTitle": "Star Wars (1977) Annual #3: The Apprentice",
+  "displayTitle": "Annual (1979) #3",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
-  "parentWorkSlug": "star-wars-annual-1979",
+  "parentWorkSlug": "star-wars-annual-1977",
   "periodical": {
     "publicationKind": "comic"
   },
@@ -52,5 +77,5 @@
   "releaseStatus": "released",
   "slug": "star-wars-annual-1977-3",
   "synopsis": "When a young boy hoping to become a Jedi Knight finds no encouragement from Luke Skywalker, Darth Vader welcomes him to the Dark Side of the Force. An allegory of space, power, and human nature crafted by Jo Duffy, scripter; and Klaus Janson, pencils, inks and colors.",
-  "title": "Star Wars (1977) Annual #3: The Apprentice"
+  "title": "Star Wars Annual (1979) #3"
 }

@@ -1,13 +1,6 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Massive Entertainment",
-      "role": "writer",
-      "slug": "massive-entertainment"
-    }
-  ],
   "displayTitle": "The Art of Star Wars: Outlaws",
   "editionIds": [
     {
@@ -31,9 +24,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2025-08-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

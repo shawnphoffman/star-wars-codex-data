@@ -40,6 +40,16 @@
       "name": "Caspar Wijngaard",
       "role": "coverArtist",
       "slug": "caspar-wijngaard"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
     }
   ],
   "displayTitle": "Doctor Aphra (2016) Annual #2: Winloss And Nokk",
@@ -48,7 +58,7 @@
   "inUniverseDate": {
     "startYear": 1
   },
-  "parentWorkSlug": "doctor-aphra-2016",
+  "parentWorkSlug": "doctor-aphra-2016-annual",
   "periodical": {
     "publicationKind": "comic"
   },

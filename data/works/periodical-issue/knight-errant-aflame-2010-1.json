@@ -20,9 +20,24 @@
       "name": "Dave Ross",
       "role": "coverArtist",
       "slug": "dave-ross"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "inker",
+      "slug": "federico-dallocchio"
+    },
+    {
+      "name": "Federico Dallocchio",
+      "role": "penciler",
+      "slug": "federico-dallocchio"
     }
   ],
-  "displayTitle": "Knight Errant: Aflame #1",
+  "displayTitle": "Knight Errant (2010) #1",
   "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -38,5 +53,5 @@
   "releaseStatus": "released",
   "slug": "knight-errant-aflame-2010-1",
   "synopsis": "More than one thousand years before Luke Skywalker, a dark age grips the galaxy as an ineffectual Republic abandons entire systems to Sith control. A newly knighted Jedi on her first mission, eighteen-year-old Kerra Holt has joined a band of Jedi volunteers traveling deep behind enemy lines, with no support from the Republic and little chance of survival. She thinks she is prepared for anything. She's wrong. o A new series in a new era, introducing a new female hero to Star Wars! o John Jackson Miller is also writing a Knight Errant novel for Del Rey starring Kerra Holt in an original adventure! See her here first! Meet a new kind of Jedi for a new era of Star Wars!",
-  "title": "Knight Errant: Aflame #1"
+  "title": "Knight Errant (2010) #1"
 }

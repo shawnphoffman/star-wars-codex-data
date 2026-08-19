@@ -20,10 +20,36 @@
       "name": "Josemaria Casanovas",
       "role": "coverArtist",
       "slug": "josemaria-casanovas"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "inker",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "coverArtist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
     }
   ],
-  "displayTitle": "Cassian Andor",
+  "displayTitle": "Rogue One: Cassian Andor #1",
   "format": "periodicalIssue",
+  "parentWorkSlug": "rogue-one-cassian-andor",
   "periodical": {
     "publicationKind": "comic"
   },
@@ -31,5 +57,5 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "cassian-andor",
-  "title": "Cassian Andor"
+  "title": "Rogue One: Cassian Andor #1"
 }

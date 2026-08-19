@@ -10,6 +10,81 @@
       "name": "Marc Laming",
       "role": "artist",
       "slug": "marc-laming"
+    },
+    {
+      "name": "Terry Dodson",
+      "role": "coverArtist",
+      "slug": "terry-dodson"
+    },
+    {
+      "name": "Greg Pak",
+      "role": "writer",
+      "slug": "greg-pak"
+    },
+    {
+      "name": "Bria Lavorgna",
+      "role": "writer",
+      "slug": "bria-lavorgna"
+    },
+    {
+      "name": "Rachel Dodson",
+      "role": "coverArtist",
+      "slug": "rachel-dodson"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Andres Mossa",
+      "role": "colorist",
+      "slug": "andres-mossa"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "colorist",
+      "slug": "neeraj-menon"
+    },
+    {
+      "name": "Marco Turini",
+      "role": "inker",
+      "slug": "marco-turini"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "inker",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "inker",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Marco Turini",
+      "role": "penciler",
+      "slug": "marco-turini"
+    },
+    {
+      "name": "Roland Boschi",
+      "role": "penciler",
+      "slug": "roland-boschi"
+    },
+    {
+      "name": "Emilio Laiso",
+      "role": "penciler",
+      "slug": "emilio-laiso"
+    },
+    {
+      "name": "Vc Travis Lanham",
+      "role": "letterer",
+      "slug": "vc-travis-lanham"
     }
   ],
   "displayTitle": "Age Of Rebellion: Jabba The Hutt",

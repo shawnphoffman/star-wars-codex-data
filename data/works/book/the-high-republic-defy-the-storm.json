@@ -39,7 +39,7 @@
   "editions": [
     {
       "extent": 464,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1368093817",
       "isbn13": "9781368093811",
@@ -49,7 +49,7 @@
     {
       "asin": "B0CQ4L6XDX",
       "extent": 464,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "136809516X",
       "isbn13": "9781368095167",
@@ -66,6 +66,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-defy-the-storm",
-  "synopsis": "The instant New York Times bestseller! Nowhere is safe within the eye of the storm. . . . The Galactic Republic is in chaos following the Nihil's shocking destruction of the gleaming space station Starlight Beacon. Capitalizing on their victory, the Nihil have erected a barrier called the Stormwall around a section of Republic space and claimed it for themselves. Within this Occlusion Zone, people live at the mercy of the Nihil - and the Nihil are not known for mercy. Jedi Knight Vernestra Rwoh, believing her Padawan, Imri Cantaros, to be among the casualties of Starlight Beacon, has retreated to a peaceful planet where she hopes to nurse her wounds and regain some sense of equilibrium. But her old friend Avon Starros has other plans. Avon knows that Imri is alive inside the Occlusion Zone - and she and Vernestra must be the ones to find him. With the help of former frontier deputy Jordanna Sparkburn and the extremely untrustworthy Xylan Graf, Avon and Vernestra set out to breach the Stormwall and enter the Occlusion Zone in search of Imri. But within Nihil territory, danger lurks around every corner . . . as do terrifying creatures known as the Nameless. How can Vernestra find her lost Padawan when her very strength in the Force becomes her ultimate weakness? And what are Avon's true motivations behind enemy lines?",
+  "synopsis": "Jedi Knight Vernestra Rwoh seeks the help of Avon Starros to find her Padawan, who may still be alive and trapped behind the Nihil's Occlusion Zone.",
   "title": "Defy the Storm"
 }

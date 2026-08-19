@@ -11,16 +11,13 @@
   "displayTitle": "Reign of the Empire: From the Ashes",
   "editions": [
     {
-      "imprint": "Random House Worlds",
+      "imprint": "Random House",
       "isPrimary": true,
       "kind": "print"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDisplayState": "announced",
   "releaseStatus": "announced",
   "slug": "reign-of-the-empire-from-the-ashes",

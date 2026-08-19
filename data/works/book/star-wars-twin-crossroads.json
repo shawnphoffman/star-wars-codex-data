@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 288,
-      "imprint": "Random House Worlds",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn13": "9780525478850",
       "kind": "print",
@@ -27,8 +27,8 @@
   ],
   "era": "newRepublic",
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
+  "inUniverseDate": {
+    "startYear": 4
   },
   "releaseDate": "2027-04-06T00:00:00.000Z",
   "releaseDisplayState": "upcoming",

@@ -22,7 +22,7 @@
   "editions": [
     {
       "extent": 192,
-      "imprint": "Random House Worlds",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "0345307674",
       "isbn13": "9780345307675",
@@ -36,9 +36,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "1983-05-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

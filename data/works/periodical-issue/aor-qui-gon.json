@@ -10,6 +10,41 @@
       "name": "Corey Smith",
       "role": "artist",
       "slug": "corey-smith"
+    },
+    {
+      "name": "Paolo Rivera",
+      "role": "coverArtist",
+      "slug": "paolo-rivera"
+    },
+    {
+      "name": "Nolan Woodard",
+      "role": "coverArtist",
+      "slug": "nolan-woodard"
+    },
+    {
+      "name": "Luke Ross",
+      "role": "coverArtist",
+      "slug": "luke-ross"
+    },
+    {
+      "name": "Walden Wong",
+      "role": "inker",
+      "slug": "walden-wong"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Javier Tartaglia",
+      "role": "colorist",
+      "slug": "javier-tartaglia"
+    },
+    {
+      "name": "Cory Smith",
+      "role": "penciler",
+      "slug": "cory-smith"
     }
   ],
   "displayTitle": "Age of Republic: Qui-Gon Jinn",

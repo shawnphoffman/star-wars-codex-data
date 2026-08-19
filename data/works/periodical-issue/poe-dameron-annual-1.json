@@ -122,13 +122,13 @@
       "slug": "dan-mora-chavez"
     }
   ],
-  "displayTitle": "Poe Dameron Annual 1 (2017) #1",
+  "displayTitle": "Poe Dameron Annual #1",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 34
   },
-  "parentWorkSlug": "poe-dameron",
+  "parentWorkSlug": "poe-dameron-annual",
   "periodical": {
     "publicationKind": "comic"
   },
@@ -137,5 +137,5 @@
   "releaseStatus": "released",
   "slug": "poe-dameron-annual-1",
   "synopsis": "Poe Dameron has never been one to follow the rules. So when he disobeys a direct order from General Leia Organa and gets stranded in First Order space…with no ship and little oxygen…how will he survive?",
-  "title": "Poe Dameron Annual 1 (2017) #1"
+  "title": "Poe Dameron Annual #1"
 }

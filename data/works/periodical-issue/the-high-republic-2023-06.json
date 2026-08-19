@@ -10,6 +10,46 @@
       "name": "Ario Anindito",
       "role": "artist",
       "slug": "ario-anindito"
+    },
+    {
+      "name": "Laura Braga",
+      "role": "inker",
+      "slug": "laura-braga"
+    },
+    {
+      "name": "James Howe",
+      "role": "inker",
+      "slug": "james-howe"
+    },
+    {
+      "name": "Laura Braga",
+      "role": "penciler",
+      "slug": "laura-braga"
+    },
+    {
+      "name": "James Howe",
+      "role": "penciler",
+      "slug": "james-howe"
+    },
+    {
+      "name": "Jim Campbell",
+      "role": "colorist",
+      "slug": "jim-campbell"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Daniel Khazem",
+      "role": "editor",
+      "slug": "daniel-khazem"
+    },
+    {
+      "name": "Vc Ariana Maher",
+      "role": "letterer",
+      "slug": "vc-ariana-maher"
     }
   ],
   "displayTitle": "The High Republic (2023) #06",

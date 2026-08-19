@@ -11,8 +11,16 @@
   "displayTitle": "Lando Calrissian and the Flamewind of Oseon",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "059372609X"
+    },
+    {
       "type": "isbn13",
       "value": "9780345311634"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593726099"
     }
   ],
   "editions": [
@@ -23,9 +31,18 @@
       "isbn13": "9780345311634",
       "kind": "print",
       "onsale": "1983-09-12T00:00:00.000Z"
+    },
+    {
+      "extent": 192,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "059372609X",
+      "isbn13": "9780593726099",
+      "kind": "print",
+      "onsale": "1983-09-12T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3
@@ -34,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "lando-calrissian-and-the-flamewind-of-oseon",
-  "synopsis": "A solar system with little more than luxury hotels catering to the underemployed filthy-rich, the Oseon was every gambler's dream come true. And so it was for Lando Calrissian, gambler, rogue, and con-artiste. Until he broke the gambler's cardinal rule: never beat a cop at high-stake games of chance. Soon Lando and his feckless five-armed robot companion were being stalked by two enemies&mdash;one they knew but could not see, and one they saw but did not recognize&hellip;until it was too late.",
+  "synopsis": "One mistake at the gambling table leads Lando Calrissian on the run … again.",
   "title": "Lando Calrissian and the Flamewind of Oseon"
 }

@@ -18,7 +18,7 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn13": "9781368057349",
       "kind": "print",
@@ -26,9 +26,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2023-10-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

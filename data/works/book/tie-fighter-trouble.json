@@ -25,7 +25,7 @@
     },
     {
       "extent": 24,
-      "imprint": "Disney–Lucasfilm Press *Scholastic India",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn13": "9788184775570",
       "kind": "print",
@@ -41,6 +41,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "tie-fighter-trouble",
-  "synopsis": "Ezra and Zeb are on an important mission, but they have to avoid running into the Empire in order to succeed.",
+  "synopsis": "Ezra and Zeb are on an important mission - but they have to avoid running into the Empire in order to succeed.",
   "title": "TIE Fighter Trouble"
 }

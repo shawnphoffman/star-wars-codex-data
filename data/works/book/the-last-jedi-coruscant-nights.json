@@ -32,11 +32,9 @@
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2013-02-26T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-last-jedi-coruscant-nights",
   "title": "The Last Jedi"
 }

@@ -8,7 +8,7 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode II Adventures 1: Hunt the Sun Runner",
+  "displayTitle": "Episode I Adventures 1: Search for the Lost Jedi",
   "editionIds": [
     {
       "type": "isbn10",
@@ -49,12 +49,12 @@
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -23
+    "startYear": -32
   },
   "releaseDate": "1999-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-1-hunt-the-sun-runner",
-  "synopsis": "The people of the planet Fondor can’t agree on who should get to claim the mysterious ship that recently appeared nearby. This seems like a conflict only the Jedi Order can peacefully resolve.",
-  "title": "Episode II Adventures 1: Hunt the Sun Runner"
+  "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it's too late?",
+  "title": "Episode I Adventures 1: Search for the Lost Jedi"
 }

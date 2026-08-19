@@ -5,6 +5,26 @@
       "name": "John Ostrander",
       "role": "writer",
       "slug": "john-ostrander"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "colorist",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Brad Anderson",
+      "role": "letterer",
+      "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Ray Kryssing",
+      "role": "inker",
+      "slug": "ray-kryssing"
     }
   ],
   "displayTitle": "Republic #43: Rite of Passage, Part 2",

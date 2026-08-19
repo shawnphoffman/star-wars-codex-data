@@ -8,7 +8,7 @@
       "slug": "jason-fry"
     }
   ],
-  "displayTitle": "The Last Jedi",
+  "displayTitle": "The Last Jedi: Expanded Edition",
   "editionIds": [
     {
       "type": "isbn10",
@@ -33,13 +33,13 @@
       "onsale": "2018-03-06T00:00:00.000Z"
     },
     {
-      "extent": 432,
-      "imprint": "Random House Worlds",
+      "extent": 336,
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "1524797138",
       "isbn13": "9781524797133",
       "kind": "print",
-      "onsale": "2018-11-27T00:00:00.000Z"
+      "onsale": "2018-03-06T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -51,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-novelization",
-  "synopsis": "Written with input from director Rian Johnson, this official adaptation of Star Wars: The Last Jedi expands on the film to include scenes from alternate versions of the script and other additional content.",
-  "title": "The Last Jedi"
+  "synopsis": "Luke Skywalker has been found. But as Rey is about to discover, it's not going to be easy to convince him to join yet another fight against tyranny.",
+  "title": "The Last Jedi: Expanded Edition"
 }

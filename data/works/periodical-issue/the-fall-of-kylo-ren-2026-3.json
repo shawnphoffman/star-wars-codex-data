@@ -1,0 +1,49 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "The Fall Of Kylo Ren (2026) #3",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-fall-of-kylo-ren",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-fall-of-kylo-ren-2026-3",
+  "title": "The Fall Of Kylo Ren (2026) #3"
+}

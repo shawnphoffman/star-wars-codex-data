@@ -42,17 +42,19 @@
       "slug": "marc-bernardin"
     }
   ],
-  "displayTitle": "Rogue One: Saw Gerrera #1 (2026) #1",
+  "displayTitle": "Rogue One: Saw Gerrera #1",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "parentWorkSlug": "rogue-one-saw-gerrera",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2026-07-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "rogue-one-saw-gerrera-1-2026-1",
-  "title": "Rogue One: Saw Gerrera #1 (2026) #1"
+  "title": "Rogue One: Saw Gerrera #1"
 }

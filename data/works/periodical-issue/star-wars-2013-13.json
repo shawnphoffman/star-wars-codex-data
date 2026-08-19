@@ -20,6 +20,51 @@
       "name": "Daniel J. Parsons",
       "role": "inker",
       "slug": "daniel-j-parsons"
+    },
+    {
+      "name": "Facundo Percio",
+      "role": "penciler",
+      "slug": "facundo-percio"
+    },
+    {
+      "name": "Dan Parsons",
+      "role": "inker",
+      "slug": "dan-parsons"
+    },
+    {
+      "name": "Hugh Fleming",
+      "role": "coverArtist",
+      "slug": "hugh-fleming"
+    },
+    {
+      "name": "Timothy Truman",
+      "role": "writer",
+      "slug": "timothy-truman"
+    },
+    {
+      "name": "Tom Lyle",
+      "role": "penciler",
+      "slug": "tom-lyle"
+    },
+    {
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "coverArtist",
+      "slug": "mark-schultz"
     }
   ],
   "displayTitle": "Star Wars (2013) #13",
@@ -30,6 +75,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-01-08T00:00:00.000Z",

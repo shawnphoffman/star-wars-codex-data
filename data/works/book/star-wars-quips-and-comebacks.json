@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chronicle Books",
+      "role": "writer",
+      "slug": "chronicle-books"
+    }
+  ],
   "displayTitle": "Quips and Comebacks",
   "editionIds": [
     {
@@ -19,9 +26,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2026-09-22T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-quips-and-comebacks",

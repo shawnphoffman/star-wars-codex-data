@@ -2,11 +2,11 @@
   "canonStatus": "non-canon",
   "collectionType": "tradePaperback",
   "collects": [
-    "episode-i-anakin-skywalker",
     "episode-i-obi-wan-kenobi",
     "episode-i-queen-amidala-1999",
     "episode-i-qui-gon-jinn",
-    "episode-i-the-phantom-menace-1-2"
+    "episode-i-the-phantom-menace-1-2",
+    "episode-i-the-phantom-menace-anakin-skywalker"
   ],
   "displayTitle": "Episode I Adventures",
   "slug": "c_episode-i-adventures_852",

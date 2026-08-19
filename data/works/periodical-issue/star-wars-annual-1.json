@@ -45,6 +45,16 @@
       "name": "Walt Simonson",
       "role": "coverArtist",
       "slug": "walt-simonson"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "coverArtist",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Angel Unzueta Galarza",
+      "role": "penciler",
+      "slug": "angel-unzueta-galarza"
     }
   ],
   "displayTitle": "Star Wars (2015) Annual #1",
@@ -53,7 +63,7 @@
   "inUniverseDate": {
     "startYear": 0
   },
-  "parentWorkSlug": "star-wars-annual-1979",
+  "parentWorkSlug": "star-wars-2015-annual",
   "periodical": {
     "publicationKind": "comic"
   },

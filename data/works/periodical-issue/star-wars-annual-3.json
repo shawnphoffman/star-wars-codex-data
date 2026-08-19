@@ -10,6 +10,36 @@
       "name": "Michael Walsh",
       "role": "artist",
       "slug": "michael-walsh"
+    },
+    {
+      "name": "Vc Clayton Cowles",
+      "role": "letterer",
+      "slug": "vc-clayton-cowles"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "colorist",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "coverArtist",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "inker",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Michael Walsh",
+      "role": "penciler",
+      "slug": "michael-walsh"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
     }
   ],
   "displayTitle": "Star Wars (2015) Annual 3",
@@ -18,7 +48,7 @@
   "inUniverseDate": {
     "startYear": 2
   },
-  "parentWorkSlug": "star-wars-2015",
+  "parentWorkSlug": "star-wars-2015-annual",
   "periodical": {
     "publicationKind": "comic"
   },

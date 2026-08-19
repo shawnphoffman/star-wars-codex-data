@@ -27,7 +27,7 @@
     },
     {
       "extent": 224,
-      "imprint": "Sphere Books *Del Rey",
+      "imprint": "Del Rey",
       "isPrimary": false,
       "isbn13": "9780345275660",
       "kind": "print",
@@ -36,9 +36,6 @@
   ],
   "era": "ageOfRebellion",
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "1978-02-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -2,6 +2,7 @@
   "canonStatus": "non-canon",
   "displayTitle": "Classic Star Wars: A Long Time Ago #1",
   "format": "periodicalIssue",
+  "parentWorkSlug": "classic-star-wars-a-long-time-ago",
   "periodical": {
     "publicationKind": "comic"
   },

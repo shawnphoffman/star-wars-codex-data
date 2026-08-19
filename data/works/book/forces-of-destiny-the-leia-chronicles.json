@@ -30,7 +30,7 @@
   "editions": [
     {
       "extent": 128,
-      "imprint": "Disney–Lucasfilm Press",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn13": "9781368011181",
       "kind": "print",
@@ -38,8 +38,8 @@
     },
     {
       "asin": "B071NBGMTB",
-      "extent": 112,
-      "imprint": "Random House/Star Wars",
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368017150",
       "isbn13": "9781368017152",

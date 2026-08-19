@@ -51,11 +51,6 @@
       "name": "Roseanne A. Brown",
       "role": "writer",
       "slug": "roseanne-a-brown"
-    },
-    {
-      "name": "Lucasfilm Press",
-      "role": "writer",
-      "slug": "lucasfilm-press"
     }
   ],
   "displayTitle": "Stories of Jedi and Sith",
@@ -72,7 +67,7 @@
   "editions": [
     {
       "extent": 352,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368080545",
       "isbn13": "9781368080545",

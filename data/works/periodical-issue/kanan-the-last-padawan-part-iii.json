@@ -35,6 +35,36 @@
       "name": "Mark Brooks",
       "role": "artist",
       "slug": "mark-brooks"
+    },
+    {
+      "name": "Mark Brooks",
+      "role": "coverArtist",
+      "slug": "mark-brooks"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "inker",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "Pepe Larraz",
+      "role": "penciler",
+      "slug": "pepe-larraz"
+    },
+    {
+      "name": "David Curiel",
+      "role": "colorist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
     }
   ],
   "displayTitle": "Kanan 3: The Last Padawan, Part III: Pivot",

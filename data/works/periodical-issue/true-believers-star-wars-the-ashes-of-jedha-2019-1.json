@@ -1,0 +1,34 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "Kieron Gillen",
+      "role": "writer",
+      "slug": "kieron-gillen"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Salvador Larroca",
+      "role": "penciler",
+      "slug": "salvador-larroca"
+    }
+  ],
+  "displayTitle": "True Believers: Star Wars: The Ashes of Jedha (2019) #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "true-believers-star-wars-the-ashes-of-jedha",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "true-believers-star-wars-the-ashes-of-jedha-2019-1",
+  "title": "True Believers: Star Wars: The Ashes of Jedha (2019) #1"
+}

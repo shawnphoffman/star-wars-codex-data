@@ -1,0 +1,51 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amanda Deibert",
+      "role": "writer",
+      "slug": "amanda-deibert"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "coverArtist",
+      "slug": "lucas-marangon"
+    }
+  ],
+  "displayTitle": "Hyperspace Stories #04",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "hyperspace-stories-2022",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hyperspace-stories-2022-hyperspace-stories-4",
+  "title": "Hyperspace Stories #04"
+}

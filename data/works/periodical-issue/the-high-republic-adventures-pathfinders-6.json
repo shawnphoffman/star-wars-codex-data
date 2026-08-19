@@ -33,7 +33,12 @@
     }
   ],
   "displayTitle": "The High Republic Adventures: Pathfinders #6",
+  "era": "highRepublic",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -362
+  },
+  "parentWorkSlug": "the-high-republic-adventures-pathfinders",
   "periodical": {
     "pageCount": 32,
     "publicationKind": "comic"

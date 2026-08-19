@@ -10,9 +10,29 @@
       "name": "Chris Scalf",
       "role": "artist",
       "slug": "chris-scalf"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "colorist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "inker",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "penciler",
+      "slug": "chris-scalf"
     }
   ],
-  "displayTitle": "Blood Ties: A Tale of Jango and Boba Fett #3",
+  "displayTitle": "Blood Ties (2010) #3",
   "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -29,5 +49,5 @@
   "releaseStatus": "released",
   "slug": "blood-ties-a-tale-of-jango-and-boba-fett-2010-3",
   "synopsis": "Boba Fett has discovered that his father left a legacy to someone Boba has never heard of. He manages to track down the man, but if he is to learn the reasons behind Jango's posthumous generosity, Boba Fett must first save the man from an army of bounty hunters who want the guy's head! Jango Fett and Boba Fett together!",
-  "title": "Blood Ties: A Tale of Jango and Boba Fett #3"
+  "title": "Blood Ties (2010) #3"
 }

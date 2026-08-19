@@ -1,0 +1,38 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kristin Baver",
+      "role": "writer",
+      "slug": "kristin-baver"
+    },
+    {
+      "name": "Leslye Headland",
+      "role": "writer",
+      "slug": "leslye-headland"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: The Acolyte",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781419777349"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn13": "9781419777349",
+      "kind": "print",
+      "onsale": "2026-02-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "releaseDate": "2026-02-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-art-of-star-wars-the-acolyte",
+  "title": "The Art of Star Wars: The Acolyte"
+}

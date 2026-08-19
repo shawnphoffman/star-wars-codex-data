@@ -30,6 +30,41 @@
       "name": "Jim Cheung",
       "role": "artist",
       "slug": "jim-cheung"
+    },
+    {
+      "name": "Jim Cheung",
+      "role": "coverArtist",
+      "slug": "jim-cheung"
+    },
+    {
+      "name": "Cam Smith",
+      "role": "inker",
+      "slug": "cam-smith"
+    },
+    {
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler",
+      "slug": "giuseppe-camuncoli"
+    },
+    {
+      "name": "Vc Joe Caramagna",
+      "role": "letterer",
+      "slug": "vc-joe-caramagna"
+    },
+    {
+      "name": "Matthew Wilson",
+      "role": "coverArtist",
+      "slug": "matthew-wilson"
+    },
+    {
+      "name": "David Curiel",
+      "role": "colorist",
+      "slug": "david-curiel"
+    },
+    {
+      "name": "Jordan White",
+      "role": "editor",
+      "slug": "jordan-white"
     }
   ],
   "displayTitle": "Darth Vader: Dark Lord of the Sith 01: The Chosen One, Part I",

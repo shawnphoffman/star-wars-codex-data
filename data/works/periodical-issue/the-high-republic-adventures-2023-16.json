@@ -10,6 +10,21 @@
       "name": "Toni Bruno",
       "role": "artist",
       "slug": "toni-bruno"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "coverArtist",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Kevin Tolibao",
+      "role": "coverArtist",
+      "slug": "kevin-tolibao"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023) #16",
@@ -20,6 +35,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-03-19T00:00:00.000Z",

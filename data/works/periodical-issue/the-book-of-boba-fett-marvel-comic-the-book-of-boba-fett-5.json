@@ -1,0 +1,24 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-book-of-boba-fett-marvel-comic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-5",
+  "title": "The Book of Boba Fett #5"
+}

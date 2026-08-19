@@ -25,6 +25,51 @@
       "name": "Gabe Eltaeb",
       "role": "colorist",
       "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Sean Cooke",
+      "role": "coverArtist",
+      "slug": "sean-cooke"
+    },
+    {
+      "name": "Charles Soule",
+      "role": "writer",
+      "slug": "charles-soule"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Carlo Pagulayan",
+      "role": "coverArtist",
+      "slug": "carlo-pagulayan"
+    },
+    {
+      "name": "Jason Paz",
+      "role": "coverArtist",
+      "slug": "jason-paz"
+    },
+    {
+      "name": "Rain Beredo",
+      "role": "coverArtist",
+      "slug": "rain-beredo"
     }
   ],
   "displayTitle": "Star Wars (2013) #16",
@@ -35,6 +80,7 @@
   },
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2014-04-09T00:00:00.000Z",

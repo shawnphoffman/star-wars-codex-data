@@ -8,7 +8,7 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode I Adventures: Pirates from Beyond the Sea",
+  "displayTitle": "Episode I Adventures 11: Pirates from Beyond the Sea",
   "editionIds": [
     {
       "type": "isbn10",
@@ -37,14 +37,13 @@
       "onsale": "2000-07-01T00:00:00.000Z"
     }
   ],
-  "era": "fallOfTheJedi",
+  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33
   },
   "periodical": {
-    "imprint": "Scholastic",
-    "publicationKind": "comic"
+    "imprint": "Scholastic"
   },
   "relatedWorkSlugs": [
     "episode-i-adventures-1-search-for-the-lost-jedi",
@@ -67,5 +66,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-11-pirates-from-beyond-the-sea",
   "synopsis": "Pirates have invaded the Gungans’ home, and there may only be one way to save the day.",
-  "title": "Episode I Adventures: Pirates from Beyond the Sea"
+  "title": "Episode I Adventures 11: Pirates from Beyond the Sea"
 }

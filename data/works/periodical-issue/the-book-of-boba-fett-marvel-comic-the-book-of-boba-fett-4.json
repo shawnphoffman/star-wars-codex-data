@@ -1,0 +1,30 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Felipe Massafera",
+      "role": "coverArtist",
+      "slug": "felipe-massafera"
+    }
+  ],
+  "displayTitle": "The Book of Boba Fett #4",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-book-of-boba-fett-marvel-comic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-10-28T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-4",
+  "title": "The Book of Boba Fett #4"
+}

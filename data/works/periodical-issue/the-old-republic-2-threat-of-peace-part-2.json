@@ -30,6 +30,16 @@
       "name": "Rob Chestney",
       "role": "writer",
       "slug": "rob-chestney"
+    },
+    {
+      "name": "Alex Sanchez",
+      "role": "artist",
+      "slug": "alex-sanchez"
+    },
+    {
+      "name": "Benjamin Caron",
+      "role": "coverArtist",
+      "slug": "benjamin-caron"
     }
   ],
   "displayTitle": "The Old Republic #2: Threat of Peace, Part 2",
@@ -40,6 +50,7 @@
   },
   "parentWorkSlug": "the-old-republic",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2010-08-04T00:00:00.000Z",

@@ -11,16 +11,17 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn13": "9780736449175",
       "kind": "print",
       "onsale": "2027-04-20T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
+  "inUniverseDate": {
+    "startYear": 40
   },
   "releaseDate": "2027-04-20T00:00:00.000Z",
   "releaseDisplayState": "upcoming",

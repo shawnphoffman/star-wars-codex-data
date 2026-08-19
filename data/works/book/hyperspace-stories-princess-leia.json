@@ -1,0 +1,19 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "displayTitle": "Hyperspace Stories: Princess Leia",
+  "editions": [
+    {
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "kind": "print"
+    }
+  ],
+  "format": "book",
+  "relatedWorkSlugs": [
+    "hyperspace-stories-mace"
+  ],
+  "releaseDisplayState": "announced",
+  "slug": "hyperspace-stories-princess-leia",
+  "title": "Hyperspace Stories: Princess Leia"
+}

@@ -8,7 +8,7 @@
       "slug": "rae-carson"
     }
   ],
-  "displayTitle": "The Rise of Skywalker",
+  "displayTitle": "The Rise of Skywalker: Expanded Edition",
   "editionIds": [
     {
       "type": "isbn10",
@@ -33,13 +33,13 @@
       "onsale": "2020-03-17T00:00:00.000Z"
     },
     {
-      "extent": 352,
-      "imprint": "Random House Worlds",
+      "extent": 368,
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "1984818643",
       "isbn13": "9781984818645",
       "kind": "print",
-      "onsale": "2020-10-27T00:00:00.000Z"
+      "onsale": "2020-03-17T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",
@@ -51,6 +51,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-novelization",
-  "synopsis": "Witness the epic final chapter of the Skywalker saga with the official novelization of Star Wars: The Rise of Skywalker, including expanded scenes and additional content not seen in theaters!",
-  "title": "The Rise of Skywalker"
+  "synopsis": "As the war between the Resistance and the First Order rages on, Rey teams up with Poe and Finn to locate what might be the galaxy's one last hope.",
+  "title": "The Rise of Skywalker: Expanded Edition"
 }

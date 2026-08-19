@@ -22,7 +22,7 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Random House/Star Wars",
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "1368080081",
       "isbn13": "9781368080088",
@@ -31,9 +31,6 @@
     }
   ],
   "format": "book",
-  "periodical": {
-    "publicationKind": "comic"
-  },
   "releaseDate": "2022-01-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -16,7 +16,10 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2015-11-10T00:00:00.000Z",
+  "relatedWorkSlugs": [
+    "classic-star-wars-return-of-the-jedi"
+  ],
+  "releaseDate": "1983-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "episode-vi-return-of-the-jedi-hardcover-graphic-novel",

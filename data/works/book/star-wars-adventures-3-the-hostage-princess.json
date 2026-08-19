@@ -8,7 +8,7 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode II Adventures 3: The Hostage Princess",
+  "displayTitle": "Episode I Adventures 3: The Fury of Darth Maul",
   "editionIds": [
     {
       "type": "isbn10",
@@ -54,12 +54,12 @@
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -23
+    "startYear": -32
   },
   "releaseDate": "1999-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-3-the-hostage-princess",
-  "synopsis": "The Jedi must save a princess from the evil droids who kidnapped her.",
-  "title": "Episode II Adventures 3: The Hostage Princess"
+  "synopsis": "Darth Sidious recruits the help of another Sith Lord to take back something that belongs to him.",
+  "title": "Episode I Adventures 3: The Fury of Darth Maul"
 }
