@@ -16,15 +16,20 @@
   "displayTitle": "The Last Jedi",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511409"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511409"
     }
   ],
   "editions": [
     {
-      "extent": 480,
-      "imprint": "Del Rey",
+      "extent": 496,
+      "imprint": "Random House",
       "isPrimary": true,
+      "isbn10": "0345511409",
       "isbn13": "9780345511409",
       "kind": "print",
       "onsale": "2013-02-26T00:00:00.000Z"

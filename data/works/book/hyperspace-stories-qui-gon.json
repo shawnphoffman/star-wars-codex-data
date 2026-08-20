@@ -41,6 +41,10 @@
   "displayTitle": "Hyperspace Stories: Qui-Gon",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1506739849"
+    },
+    {
       "type": "isbn13",
       "value": "9781506739847"
     }
@@ -48,8 +52,9 @@
   "editions": [
     {
       "extent": 88,
-      "imprint": "Dark Horse Comics",
+      "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506739849",
       "isbn13": "9781506739847",
       "kind": "print",
       "onsale": "2025-03-04T00:00:00.000Z"

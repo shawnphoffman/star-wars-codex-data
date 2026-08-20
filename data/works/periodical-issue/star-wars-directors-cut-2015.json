@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "John Cassaday",
+      "role": "coverArtist",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "John Cassaday",
+      "role": "penciler",
+      "slug": "john-cassaday"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "Jason Aaron",
+      "role": "writer",
+      "slug": "jason-aaron"
+    }
+  ],
+  "displayTitle": "Director's Cut (2015)",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-directors-cut-2015",
+  "title": "Star Wars Director's Cut (2015)"
+}

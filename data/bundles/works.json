@@ -3930,13 +3930,13 @@
         "onsale": "2016-10-11T00:00:00.000Z"
       },
       {
-        "extent": 356,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 384,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1484782313",
         "isbn13": "9781484782316",
         "kind": "print",
-        "onsale": "2016-10-11T00:00:00.000Z"
+        "onsale": "2017-10-03T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -5351,8 +5351,8 @@
     ],
     "editions": [
       {
-        "extent": 460,
-        "imprint": "Del Rey",
+        "extent": 480,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1984820079",
         "isbn13": "9781984820075",
@@ -5396,12 +5396,12 @@
     "editions": [
       {
         "extent": 416,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1984820044",
         "isbn13": "9781984820044",
         "kind": "print",
-        "onsale": "2020-06-03T00:00:00.000Z"
+        "onsale": "2020-06-23T00:00:00.000Z"
       }
     ],
     "era": "newRepublic",
@@ -5409,7 +5409,7 @@
     "inUniverseDate": {
       "startYear": 5
     },
-    "releaseDate": "2020-06-03T00:00:00.000Z",
+    "releaseDate": "2020-06-23T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "alphabet-squadron-shadow-fall",
@@ -9908,13 +9908,13 @@
     ],
     "editions": [
       {
-        "extent": 240,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 224,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368108210",
         "isbn13": "9781368108218",
         "kind": "print",
-        "onsale": "2015-12-18T00:00:00.000Z"
+        "onsale": "2025-09-02T00:00:00.000Z"
       },
       {
         "extent": 240,
@@ -15809,8 +15809,8 @@
     ],
     "editions": [
       {
-        "extent": 329,
-        "imprint": "Del Rey",
+        "extent": 352,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593358570",
         "isbn13": "9780593358573",
@@ -17657,7 +17657,7 @@
     "editions": [
       {
         "extent": 144,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368043380",
         "isbn13": "9781368043380",
@@ -21131,13 +21131,13 @@
         "onsale": "2001-05-29T00:00:00.000Z"
       },
       {
-        "extent": 342,
-        "imprint": "Del Rey",
+        "extent": 368,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345442970",
         "isbn13": "9780345442970",
         "kind": "print",
-        "onsale": "2001-05-29T00:00:00.000Z"
+        "onsale": "2002-06-25T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -21328,8 +21328,8 @@
     ],
     "editions": [
       {
-        "extent": 401,
-        "imprint": "Del Rey",
+        "extent": 432,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345509005",
         "isbn13": "9780345509000",
@@ -21372,8 +21372,8 @@
     ],
     "editions": [
       {
-        "extent": 409,
-        "imprint": "Del Rey",
+        "extent": 432,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345509021",
         "isbn13": "9780345509024",
@@ -21639,8 +21639,8 @@
     ],
     "editions": [
       {
-        "extent": 350,
-        "imprint": "Del Rey",
+        "extent": 368,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345477502",
         "isbn13": "9780345477507",
@@ -21683,13 +21683,13 @@
     ],
     "editions": [
       {
-        "extent": 308,
-        "imprint": "Del Rey",
+        "extent": 320,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345477545",
         "isbn13": "9780345477545",
         "kind": "print",
-        "onsale": "2009-08-26T00:00:00.000Z"
+        "onsale": "2008-08-26T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -21697,7 +21697,7 @@
     "inUniverseDate": {
       "startYear": -19
     },
-    "releaseDate": "2009-08-26T00:00:00.000Z",
+    "releaseDate": "2008-08-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "coruscant-nights-ii-street-of-shadows",
@@ -21784,7 +21784,7 @@
     "editions": [
       {
         "extent": 368,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368093752",
         "isbn13": "9781368093750",
@@ -41043,8 +41043,12 @@
     "displayTitle": "Death Star",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B00513H3P6"
+      },
+      {
         "type": "isbn10",
-        "value": "034547743X"
+        "value": "0307795845"
       },
       {
         "type": "isbn13",
@@ -41057,10 +41061,11 @@
     ],
     "editions": [
       {
+        "asin": "B00513H3P6",
         "extent": 384,
         "imprint": "Del Rey",
         "isPrimary": false,
-        "isbn10": "034547743X",
+        "isbn10": "0307795845",
         "isbn13": "9780307795847",
         "kind": "print",
         "onsale": "2007-10-16T00:00:00.000Z"
@@ -55287,7 +55292,7 @@
     ],
     "editions": [
       {
-        "extent": 352,
+        "extent": 400,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0736448586",
@@ -57691,7 +57696,7 @@
     "editions": [
       {
         "extent": 496,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345511476",
         "isbn13": "9780345511478",
@@ -58186,7 +58191,7 @@
     "editions": [
       {
         "extent": 576,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593157745",
         "isbn13": "9780593157749",
@@ -60234,7 +60239,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736443916",
         "isbn13": "9780736443913",
@@ -65239,6 +65244,10 @@
     "displayTitle": "Hyperspace Stories: Qui-Gon",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "1506739849"
+      },
+      {
         "type": "isbn13",
         "value": "9781506739847"
       }
@@ -65246,8 +65255,9 @@
     "editions": [
       {
         "extent": 88,
-        "imprint": "Dark Horse Comics",
+        "imprint": "Dark Horse Books",
         "isPrimary": true,
+        "isbn10": "1506739849",
         "isbn13": "9781506739847",
         "kind": "print",
         "onsale": "2025-03-04T00:00:00.000Z"
@@ -66513,8 +66523,8 @@
     ],
     "editions": [
       {
-        "extent": 449,
-        "imprint": "Del Rey",
+        "extent": 464,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345511131",
         "isbn13": "9780345511133",
@@ -66742,6 +66752,7 @@
     "era": "multiEra",
     "format": "periodical",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2003-04-02T00:00:00.000Z",
@@ -66765,6 +66776,7 @@
     "era": "multiEra",
     "format": "periodical",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2004-03-31T00:00:00.000Z",
@@ -67364,8 +67376,8 @@
     ],
     "editions": [
       {
-        "extent": 352,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 448,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368057284",
         "isbn13": "9781368057288",
@@ -79943,6 +79955,10 @@
     "displayTitle": "Labyrinth of Evil (The Essential Legends Collection)",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B0G1XYFHVC"
+      },
+      {
         "type": "isbn13",
         "value": "9798217093625"
       },
@@ -79953,6 +79969,8 @@
     ],
     "editions": [
       {
+        "asin": "B0G1XYFHVC",
+        "extent": 384,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn13": "9798217093625",
@@ -79961,6 +79979,7 @@
       },
       {
         "imprint": "Random House Audio",
+        "isPrimary": false,
         "isbn13": "9798217290390",
         "kind": "audio",
         "onsale": "2026-08-11T00:00:00.000Z"
@@ -90903,8 +90922,8 @@
     ],
     "editions": [
       {
-        "extent": 330,
-        "imprint": "Del Rey",
+        "extent": 352,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0525619372",
         "isbn13": "9780525619376",
@@ -90947,7 +90966,7 @@
     ],
     "editions": [
       {
-        "extent": 304,
+        "extent": 384,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593874730",
@@ -91528,8 +91547,8 @@
     ],
     "editions": [
       {
-        "extent": 309,
-        "imprint": "Del Rey",
+        "extent": 320,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345463102",
         "isbn13": "9780345463104",
@@ -91577,8 +91596,8 @@
     ],
     "editions": [
       {
-        "extent": 302,
-        "imprint": "Del Rey",
+        "extent": 320,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345463110",
         "isbn13": "9780345463111",
@@ -91743,7 +91762,7 @@
       },
       {
         "extent": 496,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368060676",
         "isbn13": "9781368060677",
@@ -91881,13 +91900,13 @@
     ],
     "editions": [
       {
-        "extent": 240,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 272,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368068006",
         "isbn13": "9781368068000",
         "kind": "print",
-        "onsale": "2022-01-04T00:00:00.000Z"
+        "onsale": "2022-03-01T00:00:00.000Z"
       }
     ],
     "era": "highRepublic",
@@ -91895,7 +91914,7 @@
     "inUniverseDate": {
       "startYear": -230
     },
-    "releaseDate": "2022-01-04T00:00:00.000Z",
+    "releaseDate": "2022-03-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "mission-to-disaster",
@@ -91912,6 +91931,20 @@
     "slug": "monopoly-star-wars",
     "synopsis": "Monopoly Star Wars is the 1997 Monopoly franchise Star Wars video game, based on the board game. The game was developed by Artech Studios and published by Hasbro Interactive. It was released exclusively for Microsoft Windows computers. The game employs the same basic ruleset of traditional Monopoly gameplay, but the Star Wars theme includes famous characters and locales in place of the original game pieces and properties.",
     "title": "Monopoly Star Wars"
+  },
+  {
+    "canonStatus": "canon",
+    "displayTitle": "Monopoly: Star Wars Heroes vs. Villains",
+    "format": "videoGame",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2026-06-11T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "monopoly-star-wars-heroes-vs-villains",
+    "synopsis": "Get ready for a dynamic, team-based twist on MONOPOLY set in the Star Wars galaxy! Choose your favorite heroes or villains, use their unique powers, and battle for control of the galaxy.",
+    "title": "Monopoly: Star Wars Heroes vs. Villains"
   },
   {
     "bookType": "yaNovel",
@@ -94193,13 +94226,13 @@
         "onsale": "2008-09-16T00:00:00.000Z"
       },
       {
-        "extent": 432,
-        "imprint": "Del Rey",
+        "extent": 496,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345513851",
         "isbn13": "9780345513854",
         "kind": "print",
-        "onsale": "2008-09-16T00:00:00.000Z"
+        "onsale": "2009-05-19T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -98091,13 +98124,13 @@
     ],
     "editions": [
       {
-        "extent": 352,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 288,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368075932",
         "isbn13": "9781368075930",
         "kind": "print",
-        "onsale": "2022-01-25T00:00:00.000Z"
+        "onsale": "2022-04-05T00:00:00.000Z"
       }
     ],
     "era": "fallOfTheJedi",
@@ -98105,7 +98138,7 @@
     "inUniverseDate": {
       "startYear": -22
     },
-    "releaseDate": "2022-01-25T00:00:00.000Z",
+    "releaseDate": "2022-04-05T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "queens-hope",
@@ -98768,15 +98801,20 @@
     "displayTitle": "Rebel Dawn",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553574175"
+      },
+      {
         "type": "isbn13",
         "value": "9780553574173"
       }
     ],
     "editions": [
       {
-        "extent": 389,
-        "imprint": "Bantam Spectra",
+        "extent": 400,
+        "imprint": "Random House",
         "isPrimary": true,
+        "isbn10": "0553574175",
         "isbn13": "9780553574173",
         "kind": "print",
         "onsale": "1998-03-09T00:00:00.000Z"
@@ -103629,7 +103667,7 @@
     "editions": [
       {
         "extent": 496,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593723465",
         "isbn13": "9780593723463",
@@ -108191,13 +108229,13 @@
         "onsale": "2006-02-28T00:00:00.000Z"
       },
       {
-        "extent": 393,
-        "imprint": "Del Rey",
+        "extent": 496,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593722167",
         "isbn13": "9780593722169",
         "kind": "print",
-        "onsale": "2006-02-28T00:00:00.000Z"
+        "onsale": "2023-08-15T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -113898,7 +113936,7 @@
     ],
     "editions": [
       {
-        "extent": 329,
+        "extent": 320,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593874463",
@@ -117979,7 +118017,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368070396",
         "isbn13": "9781368070393",
@@ -124795,6 +124833,24 @@
     "slug": "star-wars-1977-99",
     "synopsis": "Talk about pouring gasoline on a fire&mdash;Lando's in trouble, and the only way Han and Luke can save him is to start a war! Plus: the long-awaited return of Captain Drebble [and] Lemo! And discover how Sanda clears up the mystery of the Dancing Goddess",
     "title": "Star Wars (1977) #99: Touch of the Goddess"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      }
+    ],
+    "displayTitle": "Star Wars 1977 Facsimile Edition (2025) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "star-wars-1977-facsimile-edition-2025-1",
+    "title": "Star Wars 1977 Facsimile Edition (2025) #1"
   },
   {
     "canonStatus": "non-canon",
@@ -135630,12 +135686,17 @@
     "displayTitle": "A Celebration",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B0H9CLDCGV"
+      },
+      {
         "type": "isbn13",
         "value": "9798217315925"
       }
     ],
     "editions": [
       {
+        "asin": "B0H9CLDCGV",
         "extent": 336,
         "imprint": "DK",
         "isPrimary": true,
@@ -141368,6 +141429,39 @@
   },
   {
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "John Cassaday",
+        "role": "coverArtist",
+        "slug": "john-cassaday"
+      },
+      {
+        "name": "John Cassaday",
+        "role": "penciler",
+        "slug": "john-cassaday"
+      },
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      },
+      {
+        "name": "Jason Aaron",
+        "role": "writer",
+        "slug": "jason-aaron"
+      }
+    ],
+    "displayTitle": "Director's Cut (2015)",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "star-wars-directors-cut-2015",
+    "title": "Star Wars Director's Cut (2015)"
+  },
+  {
+    "canonStatus": "canon",
     "displayTitle": "Droid Diaries",
     "format": "tvSeries",
     "releaseDate": "2025-09-05T00:00:00.000Z",
@@ -144329,6 +144423,39 @@
     "title": "Malani the Warrior"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Howard Chaykin",
+        "role": "coverArtist",
+        "slug": "howard-chaykin"
+      },
+      {
+        "name": "Howard Chaykin",
+        "role": "penciler",
+        "slug": "howard-chaykin"
+      },
+      {
+        "name": "Roy Thomas",
+        "role": "writer",
+        "slug": "roy-thomas"
+      },
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      }
+    ],
+    "displayTitle": "Facsimile Edition (2019) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "star-wars-facsimile-edition-2019-1",
+    "title": "Star Wars Facsimile Edition (2019) #1"
+  },
+  {
     "canonStatus": "non-canon",
     "displayTitle": "Flight of the Falcon",
     "era": "riseOfTheFirstOrder",
@@ -144921,6 +145048,23 @@
   },
   {
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "James Waugh",
+        "role": "producer",
+        "slug": "james-waugh"
+      },
+      {
+        "name": "Jacqui Lopez",
+        "role": "producer",
+        "slug": "jacqui-lopez"
+      },
+      {
+        "name": "Josh Rimes",
+        "role": "producer",
+        "slug": "josh-rimes"
+      }
+    ],
     "displayTitle": "Galaxy of Adventures",
     "format": "tvSeries",
     "releaseDate": "2018-11-30T00:00:00.000Z",
@@ -152216,7 +152360,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-jedi-knight-ii-jedi-outcast",
-    "synopsis": "The Legacy of Star Wars Dark Forces™ and Star Wars® Jedi Knight lives on in the intense first-person action of Jedi Outcast.",
+    "synopsis": "The Legacy of Star Wars Dark Forces and Star Wars Jedi Knight lives on in the intense first-person action of Jedi Outcast.",
     "title": "Star Wars Jedi Knight II - Jedi Outcast"
   },
   {
@@ -152228,7 +152372,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-jedi-knight-jedi-academy",
-    "synopsis": "Forge your weapon and follow the path of the Jedi. Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series. Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.",
+    "synopsis": "Forge your weapon and follow the path of the Jedi Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series. Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.",
     "title": "Star Wars Jedi Knight - Jedi Academy"
   },
   {
@@ -152652,7 +152796,7 @@
         "kind": "audio"
       },
       {
-        "extent": 304,
+        "extent": 416,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593982665",
@@ -153600,6 +153744,24 @@
     "slug": "star-wars-missions-9-revolt-of-the-battle-droids",
     "synopsis": "You are an Imperial soldier. A revolt has begun on Boonda the Hutt's moon. The leader of the revolution is the devious droid Wuntoo Force Forwun. His army is made up of hundreds of droids... and they are all prepared to kill on sight. Your mission: to stop the battle droids before they take on the Empire. Good luck.",
     "title": "Star Wars Missions 9: Revolt of the Battle Droids"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Peter Charpentier",
+        "role": "editor",
+        "slug": "peter-charpentier"
+      }
+    ],
+    "displayTitle": "Movie Sampler (2015) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "star-wars-movie-sampler-2015-1",
+    "title": "Star Wars Movie Sampler (2015) #1"
   },
   {
     "bookType": "other",
@@ -154573,12 +154735,12 @@
     "editions": [
       {
         "asin": "B0F1XFPRYG",
-        "extent": 418,
-        "imprint": "Del Rey",
+        "extent": 448,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn13": "9798217090983",
         "kind": "print",
-        "onsale": "2005-04-02T00:00:00.000Z"
+        "onsale": "2025-10-14T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -154586,7 +154748,7 @@
     "inUniverseDate": {
       "startYear": -19
     },
-    "releaseDate": "2005-04-02T00:00:00.000Z",
+    "releaseDate": "2025-10-14T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-revenge-of-the-sith",
@@ -159646,6 +159808,10 @@
     "displayTitle": "Twin Crossroads",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "052547885X"
+      },
+      {
         "type": "isbn13",
         "value": "9780525478850"
       }
@@ -159655,6 +159821,7 @@
         "extent": 288,
         "imprint": "Random House",
         "isPrimary": true,
+        "isbn10": "052547885X",
         "isbn13": "9780525478850",
         "kind": "print",
         "onsale": "2027-04-06T00:00:00.000Z"
@@ -161046,7 +161213,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns",
-    "synopsis": "Real-time against real pilots; this is Star Wars space combat as it was meant to be! Featuring challenging real-time dogfights of 2 to 8 players, Star Wars™: X-Wing vs. TIE Fighter is one of the most historically significant space combat simulators ever made.",
+    "synopsis": "Real-time against real pilots; this is Star Wars space combat as it was meant to be! Featuring challenging real-time dogfights of 2 to 8 players, Star Wars: X-Wing vs. TIE Fighter is one of the most historically significant space combat simulators ever made.",
     "title": "Star Wars X-Wing vs Tie Fighter - Balance of Power Campaigns"
   },
   {
@@ -161750,7 +161917,7 @@
     "editions": [
       {
         "extent": 352,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368080545",
         "isbn13": "9781368080545",
@@ -162667,7 +162834,7 @@
     "editions": [
       {
         "extent": 112,
-        "imprint": "Titan Magazines",
+        "imprint": "Titan Comics",
         "isPrimary": true,
         "isbn10": "180618401X",
         "isbn13": "9781806184019",
@@ -168026,7 +168193,7 @@
     "editions": [
       {
         "extent": 448,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368070124",
         "isbn13": "9781368070126",
@@ -168438,6 +168605,34 @@
     "title": "The Acolyte: Wayseeker"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      },
+      {
+        "name": "John Tyler Christopher",
+        "role": "coverArtist",
+        "slug": "john-tyler-christopher"
+      },
+      {
+        "name": "Jess Harrold",
+        "role": "writer",
+        "slug": "jess-harrold"
+      }
+    ],
+    "displayTitle": "The Action Figure Variant Covers (2020) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "the-action-figure-variant-covers-2020-1",
+    "title": "The Action Figure Variant Covers (2020) #1"
+  },
+  {
     "bookType": "other",
     "canonStatus": "canon",
     "creators": [
@@ -168572,13 +168767,13 @@
         "onsale": "2002-01-29T00:00:00.000Z"
       },
       {
-        "extent": 352,
-        "imprint": "Del Rey",
+        "extent": 384,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0345442997",
         "isbn13": "9780345442994",
         "kind": "print",
-        "onsale": "2002-01-29T00:00:00.000Z"
+        "onsale": "2003-01-01T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -170738,8 +170933,8 @@
     ],
     "editions": [
       {
-        "extent": 208,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 240,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368092284",
         "isbn13": "9781368092289",
@@ -179776,6 +179971,39 @@
     "title": "The Empire Strikes Back: Manga #4"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Chris Sprouse",
+        "role": "coverArtist",
+        "slug": "chris-sprouse"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "penciler",
+        "slug": "chris-sprouse"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "writer",
+        "slug": "chris-sprouse"
+      },
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      }
+    ],
+    "displayTitle": "The Empire Strikes Back: The 40th Anniversary Covers by Chris Sprouse (2021) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "the-empire-strikes-back-the-40th-anniversary-covers-by-chris-sprouse-2021-1",
+    "title": "The Empire Strikes Back: The 40th Anniversary Covers by Chris Sprouse (2021) #1"
+  },
+  {
     "bookType": "other",
     "canonStatus": "non-canon",
     "creators": [
@@ -180258,8 +180486,8 @@
         "onsale": "2022-01-04T00:00:00.000Z"
       },
       {
-        "extent": 352,
-        "imprint": "Del Rey",
+        "extent": 368,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593355393",
         "isbn13": "9780593355398",
@@ -188100,8 +188328,8 @@
         "onsale": "2023-09-05T00:00:00.000Z"
       },
       {
-        "extent": 400,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 352,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368093795",
         "isbn13": "9781368093798",
@@ -188155,8 +188383,8 @@
     ],
     "editions": [
       {
-        "extent": 240,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 336,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368095194",
         "isbn13": "9781368095198",
@@ -188199,7 +188427,7 @@
     ],
     "editions": [
       {
-        "extent": 400,
+        "extent": 416,
         "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593500350",
@@ -188405,7 +188633,7 @@
     "editions": [
       {
         "extent": 384,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368093809",
         "isbn13": "9781368093804",
@@ -188924,8 +189152,8 @@
         "onsale": "2021-06-29T00:00:00.000Z"
       },
       {
-        "extent": 240,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 208,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368060668",
         "isbn13": "9781368060660",
@@ -188974,8 +189202,8 @@
         "onsale": "2021-01-05T00:00:00.000Z"
       },
       {
-        "extent": 380,
-        "imprint": "Del Rey",
+        "extent": 400,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593157710",
         "isbn13": "9780593157718",
@@ -189068,8 +189296,8 @@
         "onsale": "2021-07-27T00:00:00.000Z"
       },
       {
-        "extent": 423,
-        "imprint": "Del Rey",
+        "extent": 432,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "136806065X",
         "isbn13": "9781368060653",
@@ -189128,7 +189356,7 @@
       },
       {
         "extent": 352,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368076122",
         "isbn13": "9781368076128",
@@ -189180,7 +189408,7 @@
     "editions": [
       {
         "extent": 528,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368082882",
         "isbn13": "9781368082884",
@@ -189243,7 +189471,7 @@
     "editions": [
       {
         "extent": 288,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368082874",
         "isbn13": "9781368082877",
@@ -189290,8 +189518,8 @@
     ],
     "editions": [
       {
-        "extent": 240,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 304,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368080103",
         "isbn13": "9781368080101",
@@ -189946,7 +190174,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368069851",
         "isbn13": "9781368069854",
@@ -191374,7 +191602,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368080286",
         "isbn13": "9781368080286",
@@ -193001,15 +193229,20 @@
     "displayTitle": "The Last Jedi",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345511409"
+      },
+      {
         "type": "isbn13",
         "value": "9780345511409"
       }
     ],
     "editions": [
       {
-        "extent": 480,
-        "imprint": "Del Rey",
+        "extent": 496,
+        "imprint": "Random House",
         "isPrimary": true,
+        "isbn10": "0345511409",
         "isbn13": "9780345511409",
         "kind": "print",
         "onsale": "2013-02-26T00:00:00.000Z"
@@ -193787,7 +194020,7 @@
     "editions": [
       {
         "extent": 464,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368065619",
         "isbn13": "9781368065610",
@@ -195048,7 +195281,7 @@
     "editions": [
       {
         "extent": 208,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368057136",
         "isbn13": "9781368057134",
@@ -196343,8 +196576,8 @@
     ],
     "editions": [
       {
-        "extent": 208,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 224,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368075967",
         "isbn13": "9781368075961",
@@ -197699,6 +197932,29 @@
     "slug": "the-only-good-clanker",
     "synopsis": "\"The Only Good Clanker\" is a short comic included with Star Wars: The Clone Wars Comic 6.26.",
     "title": "The Only Good Clanker"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Michael Kelleher",
+        "role": "colorist",
+        "slug": "michael-kelleher"
+      },
+      {
+        "name": "Jeff Youngquist",
+        "role": "editor",
+        "slug": "jeff-youngquist"
+      }
+    ],
+    "displayTitle": "The Original Marvel Years 50 Facsimile Edition (2019) #1",
+    "format": "periodicalIssue",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "the-original-marvel-years-50-facsimile-edition-2019-1",
+    "title": "The Original Marvel Years 50 Facsimile Edition (2019) #1"
   },
   {
     "bookType": "other",
@@ -201227,8 +201483,8 @@
     ],
     "editions": [
       {
-        "extent": 342,
-        "imprint": "Del Rey",
+        "extent": 368,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "052548048X",
         "isbn13": "9780525480488",
@@ -201637,7 +201893,7 @@
     "editions": [
       {
         "extent": 400,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593157680",
         "isbn13": "9780593157688",
@@ -201680,8 +201936,8 @@
     ],
     "editions": [
       {
-        "extent": 416,
-        "imprint": "Del Rey",
+        "extent": 432,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593158296",
         "isbn13": "9780593158296",
@@ -201725,7 +201981,7 @@
     "editions": [
       {
         "extent": 576,
-        "imprint": "Del Rey",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593158326",
         "isbn13": "9780593158326",
@@ -202094,13 +202350,13 @@
     ],
     "editions": [
       {
-        "extent": 272,
-        "imprint": "Del Rey",
+        "extent": 512,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "0593872789",
         "isbn13": "9780593872789",
         "kind": "print",
-        "onsale": "2019-07-23T00:00:00.000Z"
+        "onsale": "2024-02-20T00:00:00.000Z"
       },
       {
         "extent": 333,
@@ -204214,7 +204470,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368069843",
         "isbn13": "9781368069847",
@@ -204264,8 +204520,8 @@
     ],
     "editions": [
       {
-        "extent": 377,
-        "imprint": "Disney-Lucasfilm Press",
+        "extent": 384,
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368076033",
         "isbn13": "9781368076036",
@@ -211231,7 +211487,7 @@
     "editions": [
       {
         "extent": 40,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368090982",
         "isbn13": "9781368090988",
@@ -211280,7 +211536,7 @@
     "editions": [
       {
         "extent": 12,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0744099641",
         "isbn13": "9780744099645",
@@ -214072,7 +214328,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736443509",
         "isbn13": "9780736443500",
@@ -214160,7 +214416,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368070892",
         "isbn13": "9781368070898",
@@ -214214,7 +214470,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736444289",
         "isbn13": "9780736444286",
@@ -214288,7 +214544,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "136809337X",
         "isbn13": "9781368093378",
@@ -214332,7 +214588,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Disney-Lucasfilm Press",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1368093388",
         "isbn13": "9781368093385",

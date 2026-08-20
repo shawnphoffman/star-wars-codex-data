@@ -1,5 +1,22 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "James Waugh",
+      "role": "producer",
+      "slug": "james-waugh"
+    },
+    {
+      "name": "Jacqui Lopez",
+      "role": "producer",
+      "slug": "jacqui-lopez"
+    },
+    {
+      "name": "Josh Rimes",
+      "role": "producer",
+      "slug": "josh-rimes"
+    }
+  ],
   "displayTitle": "Galaxy of Adventures",
   "format": "tvSeries",
   "releaseDate": "2018-11-30T00:00:00.000Z",

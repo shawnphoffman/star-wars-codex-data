@@ -16,8 +16,12 @@
   "displayTitle": "Death Star",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00513H3P6"
+    },
+    {
       "type": "isbn10",
-      "value": "034547743X"
+      "value": "0307795845"
     },
     {
       "type": "isbn13",
@@ -30,10 +34,11 @@
   ],
   "editions": [
     {
+      "asin": "B00513H3P6",
       "extent": 384,
       "imprint": "Del Rey",
       "isPrimary": false,
-      "isbn10": "034547743X",
+      "isbn10": "0307795845",
       "isbn13": "9780307795847",
       "kind": "print",
       "onsale": "2007-10-16T00:00:00.000Z"

@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Howard Chaykin",
+      "role": "coverArtist",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Howard Chaykin",
+      "role": "penciler",
+      "slug": "howard-chaykin"
+    },
+    {
+      "name": "Roy Thomas",
+      "role": "writer",
+      "slug": "roy-thomas"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    }
+  ],
+  "displayTitle": "Facsimile Edition (2019) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "star-wars-facsimile-edition-2019-1",
+  "title": "Star Wars Facsimile Edition (2019) #1"
+}

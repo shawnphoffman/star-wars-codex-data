@@ -11,6 +11,10 @@
   "displayTitle": "Twin Crossroads",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "052547885X"
+    },
+    {
       "type": "isbn13",
       "value": "9780525478850"
     }
@@ -20,6 +24,7 @@
       "extent": 288,
       "imprint": "Random House",
       "isPrimary": true,
+      "isbn10": "052547885X",
       "isbn13": "9780525478850",
       "kind": "print",
       "onsale": "2027-04-06T00:00:00.000Z"

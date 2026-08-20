@@ -1,0 +1,33 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chris Sprouse",
+      "role": "coverArtist",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "penciler",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "writer",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back: The 40th Anniversary Covers by Chris Sprouse (2021) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-empire-strikes-back-the-40th-anniversary-covers-by-chris-sprouse-2021-1",
+  "title": "The Empire Strikes Back: The 40th Anniversary Covers by Chris Sprouse (2021) #1"
+}

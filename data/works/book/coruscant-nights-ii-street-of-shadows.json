@@ -21,13 +21,13 @@
   ],
   "editions": [
     {
-      "extent": 308,
-      "imprint": "Del Rey",
+      "extent": 320,
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn10": "0345477545",
       "isbn13": "9780345477545",
       "kind": "print",
-      "onsale": "2009-08-26T00:00:00.000Z"
+      "onsale": "2008-08-26T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -35,7 +35,7 @@
   "inUniverseDate": {
     "startYear": -19
   },
-  "releaseDate": "2009-08-26T00:00:00.000Z",
+  "releaseDate": "2008-08-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "coruscant-nights-ii-street-of-shadows",

@@ -11,15 +11,20 @@
   "displayTitle": "Rebel Dawn",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553574175"
+    },
+    {
       "type": "isbn13",
       "value": "9780553574173"
     }
   ],
   "editions": [
     {
-      "extent": 389,
-      "imprint": "Bantam Spectra",
+      "extent": 400,
+      "imprint": "Random House",
       "isPrimary": true,
+      "isbn10": "0553574175",
       "isbn13": "9780553574173",
       "kind": "print",
       "onsale": "1998-03-09T00:00:00.000Z"

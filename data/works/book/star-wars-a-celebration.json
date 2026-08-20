@@ -16,12 +16,17 @@
   "displayTitle": "A Celebration",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0H9CLDCGV"
+    },
+    {
       "type": "isbn13",
       "value": "9798217315925"
     }
   ],
   "editions": [
     {
+      "asin": "B0H9CLDCGV",
       "extent": 336,
       "imprint": "DK",
       "isPrimary": true,

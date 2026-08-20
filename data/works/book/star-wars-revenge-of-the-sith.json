@@ -22,12 +22,12 @@
   "editions": [
     {
       "asin": "B0F1XFPRYG",
-      "extent": 418,
-      "imprint": "Del Rey",
+      "extent": 448,
+      "imprint": "Random House",
       "isPrimary": true,
       "isbn13": "9798217090983",
       "kind": "print",
-      "onsale": "2005-04-02T00:00:00.000Z"
+      "onsale": "2025-10-14T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -35,7 +35,7 @@
   "inUniverseDate": {
     "startYear": -19
   },
-  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDate": "2025-10-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-revenge-of-the-sith",

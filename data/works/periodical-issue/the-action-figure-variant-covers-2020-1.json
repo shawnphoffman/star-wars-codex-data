@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeff Youngquist",
+      "role": "editor",
+      "slug": "jeff-youngquist"
+    },
+    {
+      "name": "John Tyler Christopher",
+      "role": "coverArtist",
+      "slug": "john-tyler-christopher"
+    },
+    {
+      "name": "Jess Harrold",
+      "role": "writer",
+      "slug": "jess-harrold"
+    }
+  ],
+  "displayTitle": "The Action Figure Variant Covers (2020) #1",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDisplayState": "announced",
+  "slug": "the-action-figure-variant-covers-2020-1",
+  "title": "The Action Figure Variant Covers (2020) #1"
+}
