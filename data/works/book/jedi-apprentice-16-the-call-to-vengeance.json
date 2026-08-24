@@ -8,33 +8,32 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice: The Ties That Bind",
+  "displayTitle": "Jedi Apprentice: The Call to Vengeance",
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0439139333"
+      "value": "043913935X"
     },
     {
       "type": "isbn13",
-      "value": "9780439139335"
+      "value": "9780439139359"
     }
   ],
   "editions": [
     {
-      "extent": 136,
       "imprint": "Scholastic",
       "isPrimary": false,
-      "isbn10": "0439139333",
+      "isbn10": "043913935X",
       "kind": "print",
-      "onsale": "2001-08-01T00:00:00.000Z"
+      "onsale": "2001-12-01T00:00:00.000Z"
     },
     {
-      "extent": 136,
+      "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780439139335",
+      "isbn13": "9780439139359",
       "kind": "print",
-      "onsale": "2001-08-01T00:00:00.000Z"
+      "onsale": "2001-12-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -42,10 +41,10 @@
   "inUniverseDate": {
     "startYear": -41
   },
-  "releaseDate": "2001-08-01T00:00:00.000Z",
+  "releaseDate": "2001-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
-  "slug": "zzzzz112",
-  "synopsis": "Qui-Gon Jinn and his fellow Jedi Knight Tahl have a seemingly unbreakable bond. A bond that will be tested when the two Jedi and Obi-Wan Kenobi embark on a mission against the will of the Jedi Council.",
-  "title": "Jedi Apprentice: The Ties That Bind"
+  "slug": "jedi-apprentice-16-the-call-to-vengeance",
+  "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
+  "title": "Jedi Apprentice: The Call to Vengeance"
 }

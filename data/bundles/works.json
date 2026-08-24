@@ -42698,6 +42698,107 @@
         "slug": "wilton-santos"
       },
       {
+        "name": "Caspar Wijngaard",
+        "role": "artist",
+        "slug": "caspar-wijngaard"
+      },
+      {
+        "name": "Andrea Broccardo",
+        "role": "artist",
+        "slug": "andrea-broccardo"
+      },
+      {
+        "name": "Walden Wong",
+        "role": "inker",
+        "slug": "walden-wong"
+      },
+      {
+        "name": "Marc Deering",
+        "role": "inker",
+        "slug": "marc-deering"
+      },
+      {
+        "name": "Caspar Wijngaard",
+        "role": "inker",
+        "slug": "caspar-wijngaard"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
+      },
+      {
+        "name": "Vc Joe Caramagna",
+        "role": "letterer",
+        "slug": "vc-joe-caramagna"
+      },
+      {
+        "name": "Andrea Broccardo",
+        "role": "penciler",
+        "slug": "andrea-broccardo"
+      },
+      {
+        "name": "Caspar Wijngaard",
+        "role": "penciler",
+        "slug": "caspar-wijngaard"
+      },
+      {
+        "name": "Wilton Santos",
+        "role": "penciler",
+        "slug": "wilton-santos"
+      },
+      {
+        "name": "Ashley Witter",
+        "role": "coverArtist",
+        "slug": "ashley-witter"
+      },
+      {
+        "name": "Chris O'halloran",
+        "role": "colorist",
+        "slug": "chris-ohalloran"
+      },
+      {
+        "name": "Stephane Paitreau",
+        "role": "colorist",
+        "slug": "stephane-paitreau"
+      },
+      {
+        "name": "Si Spurrier",
+        "role": "writer",
+        "slug": "si-spurrier"
+      }
+    ],
+    "displayTitle": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II",
+    "era": "ageOfRebellion",
+    "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 2
+    },
+    "parentWorkSlug": "doctor-aphra-2016",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2019-06-19T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "doctor-aphra-2016-33-unspeakable-rebel-superweapon-part-ii",
+    "synopsis": "**Unspeakable Rebel Superweapon, Part 2**\n\nCounting the cost of her incorrigible thievery, sticky-fingered archaeologist Doctor Aphra is at the mercy of Rebel High Command. But things are about to get stickier. What's the one thing every galactic treasure hunter knows for sure? Exes never mark the spot.",
+    "title": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Simon Spurrier",
+        "role": "writer",
+        "slug": "simon-spurrier"
+      },
+      {
+        "name": "Wilton Santos",
+        "role": "artist",
+        "slug": "wilton-santos"
+      },
+      {
         "name": "Cris Bolson",
         "role": "artist",
         "slug": "cris-bolson"
@@ -69900,6 +70001,904 @@
     "slug": "jedi-apprentice-1-the-rising-force",
     "synopsis": "Padawan Obi-Wan Kenobi must learn to control his anger and fear if he’s ever going to train with Qui-Gon Jinn and become a Jedi Knight.",
     "title": "Jedi Apprentice: The Rising Force"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Shattered Peace",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590520849"
+      },
+      {
+        "type": "isbn10",
+        "value": "0613330501"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590520843"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0590520849",
+        "kind": "print"
+      },
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0613330501",
+        "kind": "print",
+        "onsale": "2000-10-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590520843",
+        "kind": "print",
+        "onsale": "2000-10-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "2000-10-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-10-the-shattered-peace",
+    "synopsis": "When the heir to the Rutan throne is in danger of becoming the next victim in a long planetary tradition, Qui-Gon Jinn and Obi-Wan Kenobi must step in, hoping they can prevent a war.",
+    "title": "Jedi Apprentice: The Shattered Peace"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Deadly Hunter",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139309"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139304"
+      }
+    ],
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439139309",
+        "kind": "print",
+        "onsale": "2000-12-01T00:00:00.000Z"
+      },
+      {
+        "extent": 128,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139304",
+        "kind": "print",
+        "onsale": "2000-12-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -43
+    },
+    "releaseDate": "2000-12-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-11-the-deadly-hunter",
+    "synopsis": "A friend of Jedi Master Qui-Gon Jinn has become the target of a dangerous bounty hunter, and he’ll need the help of his apprentice, Obi-Wan Kenobi, to save the day.",
+    "title": "Jedi Apprentice: The Deadly Hunter"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Evil Experiment",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139317"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139311"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0439139317",
+        "kind": "print"
+      },
+      {
+        "extent": 160,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139311",
+        "kind": "print",
+        "onsale": "2001-02-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -43
+    },
+    "releaseDate": "2001-02-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-12-the-evil-experiment",
+    "synopsis": "When Jedi Master Qui-Gon Jinn becomes the prisoner of an evil scientist, it’s up to Obi-Wan Kenobi to rescue him.",
+    "title": "Jedi Apprentice: The Evil Experiment"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Dangerous Rescue",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139325"
+      },
+      {
+        "type": "isbn10",
+        "value": "0613357140"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139328"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0439139325",
+        "kind": "print"
+      },
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0613357140",
+        "kind": "print",
+        "onsale": "2001-04-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139328",
+        "kind": "print",
+        "onsale": "2001-04-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -43
+    },
+    "releaseDate": "2001-04-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-13-the-dangerous-rescue",
+    "synopsis": "Jenna Zan Arbor’s quest for power and hunger for deeper knowledge of the Force is not the kind that can be used for good. Only the Jedi can stop her before it’s too late.",
+    "title": "Jedi Apprentice: The Dangerous Rescue"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Ties That Bind",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139333"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139335"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 136,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439139333",
+        "kind": "print",
+        "onsale": "2001-08-01T00:00:00.000Z"
+      },
+      {
+        "extent": 136,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139335",
+        "kind": "print",
+        "onsale": "2001-08-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -41
+    },
+    "releaseDate": "2001-08-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-14-the-ties-that-bind",
+    "synopsis": "Qui-Gon Jinn and his fellow Jedi Knight Tahl have a seemingly unbreakable bond. A bond that will be tested when the two Jedi and Obi-Wan Kenobi embark on a mission against the will of the Jedi Council.",
+    "title": "Jedi Apprentice: The Ties That Bind"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Death of Hope",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139341"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139342"
+      }
+    ],
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439139341",
+        "kind": "print",
+        "onsale": "2001-10-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139342",
+        "kind": "print",
+        "onsale": "2001-10-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -41
+    },
+    "releaseDate": "2001-10-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-15-the-death-of-hope",
+    "synopsis": "Qui-Gon Jinn has fallen in love. When the Jedi Knight he believes he can’t live without is kidnapped, he’s ready to do whatever it takes to get her back.",
+    "title": "Jedi Apprentice: The Death of Hope"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Call to Vengeance",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "043913935X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139359"
+      }
+    ],
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "043913935X",
+        "kind": "print",
+        "onsale": "2001-12-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139359",
+        "kind": "print",
+        "onsale": "2001-12-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -41
+    },
+    "releaseDate": "2001-12-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-16-the-call-to-vengeance",
+    "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
+    "title": "Jedi Apprentice: The Call to Vengeance"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Only Witness",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139368"
+      },
+      {
+        "type": "isbn10",
+        "value": "0439979226"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139366"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0439139368",
+        "kind": "print"
+      },
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439979226",
+        "kind": "print",
+        "onsale": "2002-02-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139366",
+        "kind": "print",
+        "onsale": "2002-02-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -40
+    },
+    "releaseDate": "2002-02-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-17-the-only-witness",
+    "synopsis": "When Qui-Gon Jinn and Obi-Wan Kenobi take on an assignment forcing them to confront a dangerous crime family, they quickly realize a mission they thought would be simple is going to prove much more complicated than they expected.",
+    "title": "Jedi Apprentice: The Only Witness"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Threat Within",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139376"
+      },
+      {
+        "type": "isbn10",
+        "value": "0439979234"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139373"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0439139376",
+        "kind": "print"
+      },
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439979234",
+        "kind": "print",
+        "onsale": "2002-03-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780439139373",
+        "kind": "print",
+        "onsale": "2002-03-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -40
+    },
+    "releaseDate": "2002-03-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-18-the-threat-within",
+    "synopsis": "As he gets closer to becoming a Jedi Knight, Obi-Wan Kenobi’s changing relationship with his master, Qui-Gon Jinn, is about to put them both in even more danger as a mysterious threat approaches.",
+    "title": "Jedi Apprentice: The Threat Within"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Dark Rival",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590519255"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519250"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": false,
+        "isbn10": "0590519255",
+        "kind": "print"
+      },
+      {
+        "extent": 128,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590519250",
+        "kind": "print",
+        "onsale": "1999-05-03T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "1999-05-03T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-2-the-dark-rival",
+    "synopsis": "Master Qui-Gon Jinn struggles to train his Padawan, Obi-Wan Kenobi, as the master's past haunts him - and then returns unexpectedly.",
+    "title": "Jedi Apprentice: The Dark Rival"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      },
+      {
+        "name": "Dave Wolverton",
+        "role": "writer",
+        "slug": "dave-wolverton"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Hidden Past",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439014476"
+      },
+      {
+        "type": "isbn10",
+        "value": "0590519336"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519335"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 138,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439014476",
+        "kind": "print",
+        "onsale": "1999-08-01T00:00:00.000Z"
+      },
+      {
+        "isPrimary": false,
+        "isbn10": "0590519336",
+        "kind": "print"
+      },
+      {
+        "extent": 138,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590519335",
+        "kind": "print",
+        "onsale": "1999-08-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "1999-08-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-3-the-hidden-past",
+    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves trapped on a dangerous planet, where they must rely on each other for hope - and survival.",
+    "title": "Jedi Apprentice: The Hidden Past"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Mark of the Crown",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590519344"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519342"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0590519344",
+        "kind": "print",
+        "onsale": "1999-10-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590519342",
+        "kind": "print",
+        "onsale": "1999-10-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "1999-10-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-4-the-mark-of-the-crown",
+    "synopsis": "Qui-Gon Jinn and young Obi-Wan Kenobi must save the planet Gala from its own people as a war for the royal throne threatens to tear the civilization apart.",
+    "title": "Jedi Apprentice: The Mark of the Crown"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Defenders of the Dead",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590519565"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519564"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0590519565",
+        "isbn13": "9780590519564",
+        "kind": "print",
+        "onsale": "1999-12-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "1999-12-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-5-the-defenders-of-the-dead",
+    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves on opposite sides of a brewing war as the padawan discovers who the rebels leading the fight truly are.",
+    "title": "Jedi Apprentice: The Defenders of the Dead"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Uncertain Path",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590519697"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519694"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0590519697",
+        "kind": "print",
+        "onsale": "2000-02-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590519694",
+        "kind": "print",
+        "onsale": "2000-02-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "2000-02-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-6-the-uncertain-path",
+    "synopsis": "Obi-Wan Kenobi thought he was on the right side of a revolution. But now that everything is going wrong, and his master has returned to the Jedi Temple without him, he’s going to have to find a way out of trouble all on his own.",
+    "title": "Jedi Apprentice: The Uncertain Path"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Captive Temple",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439994934"
+      },
+      {
+        "type": "isbn10",
+        "value": "0590519700"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590519700"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 192,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0439994934",
+        "kind": "print",
+        "onsale": "2000-04-01T00:00:00.000Z"
+      },
+      {
+        "isPrimary": false,
+        "isbn10": "0590519700",
+        "kind": "print"
+      },
+      {
+        "extent": 192,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590519700",
+        "kind": "print",
+        "onsale": "2000-04-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "2000-04-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-7-the-captive-temple",
+    "synopsis": "An attack on the Jedi Temple has left Qui-Gon Jinn and Obi-Wan Kenobi in charge of figuring out what’s really going on.",
+    "title": "Jedi Apprentice: The Captive Temple"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Day of Reckoning",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590520792"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590520799"
+      }
+    ],
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0590520792",
+        "kind": "print",
+        "onsale": "2000-06-01T00:00:00.000Z"
+      },
+      {
+        "extent": 144,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn13": "9780590520799",
+        "kind": "print",
+        "onsale": "2000-06-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "2000-06-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-8-the-day-of-reckoning",
+    "synopsis": "When Qui-Gon Jinn and his Padawan Obi-Wan Kenobi are framed for a crime they did not commit, they must work together to survive on a planet where they’re more unsafe than ever.",
+    "title": "Jedi Apprentice: The Day of Reckoning"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Jude Watson",
+        "role": "writer",
+        "slug": "jude-watson"
+      }
+    ],
+    "displayTitle": "Jedi Apprentice: The Fight for Truth",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590520806"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590520805"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 138,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0590520806",
+        "isbn13": "9780590520805",
+        "kind": "print",
+        "onsale": "2000-08-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": -44
+    },
+    "releaseDate": "2000-08-01T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "jedi-apprentice-9-the-fight-for-truth",
+    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi travel to he planet Kegan to retrieve a Force-sensitive child and bring them back to train as a Jedi. But master and apprentice arrive to discover they are quite unwelcome.",
+    "title": "Jedi Apprentice: The Fight for Truth"
   },
   {
     "bookType": "juniorReader",
@@ -111318,6 +112317,48 @@
     "title": "Revelations (2023) #1"
   },
   {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Patricia C. Wrede",
+        "role": "writer",
+        "slug": "patricia-c-wrede"
+      }
+    ],
+    "displayTitle": "Episode III Revenge of the Sith (junior novelization)",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439139295"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439139298"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 192,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439139295",
+        "isbn13": "9780439139298",
+        "kind": "print",
+        "onsale": "2005-05-01T00:00:00.000Z"
+      }
+    ],
+    "era": "reignOfTheEmpire",
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2005-05-01T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "revenge-of-the-sith-junior-novelization",
+    "title": "Star Wars: Episode III Revenge of the Sith (junior novelization)"
+  },
+  {
     "bookType": "shortStory",
     "canonStatus": "non-canon",
     "creators": [
@@ -135050,6 +136091,67 @@
         "slug": "phil-noto"
       }
     ],
+    "displayTitle": "Star Wars (2015) #68: Rebels and Rogues Part 1",
+    "era": "ageOfRebellion",
+    "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 2
+    },
+    "parentWorkSlug": "star-wars-2015",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2019-07-10T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "star-wars-68-rebels-and-rogues-part",
+    "synopsis": "**Rebels and Rogues!**\n\n\"The evil lord Darth Vader, obsessed with finding young Skywalker, has dispatched thousands of remote probes into the far reaches of space...\" That's right, you remember the opening titles of The Empire Strikes Back. Now find out what happened just before, as Luke and his friends launch a desperate, three-pronged mission of deception to keep the Empire from finding their new rebel base in a brand-new epic from the new ongoing team of Greg \"Planet Hulk\" Pak and Phil \"Poe Dameron\" Noto! Featuring Han and Leia undercover in a noir world of romance and danger! Luke and R2 facing off against the Executor in a single X-wing! And Chewie and Threepio, the greatest team-up you never knew you always needed!",
+    "title": "Star Wars (2015) #68: Rebels and Rogues Part 1"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Greg Pak",
+        "role": "writer",
+        "slug": "greg-pak"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "artist",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
+      },
+      {
+        "name": "Vc Clayton Cowles",
+        "role": "letterer",
+        "slug": "vc-clayton-cowles"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "colorist",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "coverArtist",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "inker",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "penciler",
+        "slug": "phil-noto"
+      }
+    ],
     "displayTitle": "Star Wars (2015) #69: Rebels and Rogues, Part II",
     "era": "ageOfRebellion",
     "format": "periodicalIssue",
@@ -136847,6 +137949,47 @@
     "slug": "star-wars-adventures-2017-19",
     "synopsis": "Normally we see Obi Wan paired up with Clone Commander Cody. This issue of Star Wars Adventures spices things up a bit by bringing you an Obi Wan/Captain Rex mash-up!",
     "title": "Star Wars Adventures (2017) #19 - Roger, Roger"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Pierrick Colinet",
+        "role": "writer",
+        "slug": "pierrick-colinet"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "writer",
+        "slug": "elsa-charretier"
+      },
+      {
+        "name": "Jon Waterhouse",
+        "role": "writer",
+        "slug": "jon-waterhouse"
+      },
+      {
+        "name": "Tony Fleecs",
+        "role": "artist",
+        "slug": "tony-fleecs"
+      }
+    ],
+    "displayTitle": "Adventures (2017) #22 - A Matter Of Perception",
+    "era": "ageOfRebellion",
+    "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "parentWorkSlug": "star-wars-adventures-2017",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2019-06-05T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "star-wars-adventures-2017-22-a-matter-of-perception",
+    "synopsis": "After losing the man she loves to a bounty hunter, Princess Leia embarks on a dangerous mission with R2-D2 and C-3PO in this exciting tale set just before The Empire Strikes Back!",
+    "title": "Star Wars Adventures (2017) #22 - A Matter Of Perception"
   },
   {
     "canonStatus": "canon",
@@ -167597,6 +168740,107 @@
     "slug": "target-vader",
     "synopsis": "Star Wars: Target Vader is a Marvel Comics miniseries focusing on the character Beilert Valance during his time as a bounty hunter. The series is written by Robbie Thompson with art by Marc Laming and was published starting July 2019.",
     "title": "Target Vader"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Robbie Thompson",
+        "role": "writer",
+        "slug": "robbie-thompson"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "artist",
+        "slug": "marc-laming"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
+      },
+      {
+        "name": "Nic Klein",
+        "role": "coverArtist",
+        "slug": "nic-klein"
+      },
+      {
+        "name": "Andres Mossa",
+        "role": "colorist",
+        "slug": "andres-mossa"
+      },
+      {
+        "name": "Jordan Boyd",
+        "role": "colorist",
+        "slug": "jordan-boyd"
+      },
+      {
+        "name": "Erick Arciniega",
+        "role": "colorist",
+        "slug": "erick-arciniega"
+      },
+      {
+        "name": "Federico Blee",
+        "role": "colorist",
+        "slug": "federico-blee"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "colorist",
+        "slug": "neeraj-menon"
+      },
+      {
+        "name": "Vc Clayton Cowles",
+        "role": "letterer",
+        "slug": "vc-clayton-cowles"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "inker",
+        "slug": "marc-laming"
+      },
+      {
+        "name": "Cris Loureiro Bolson",
+        "role": "inker",
+        "slug": "cris-loureiro-bolson"
+      },
+      {
+        "name": "Marc Laming",
+        "role": "penciler",
+        "slug": "marc-laming"
+      },
+      {
+        "name": "Cris Loureiro Bolson",
+        "role": "penciler",
+        "slug": "cris-loureiro-bolson"
+      },
+      {
+        "name": "Cris Bolson",
+        "role": "penciler",
+        "slug": "cris-bolson"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "letterer",
+        "slug": "clayton-cowles"
+      }
+    ],
+    "displayTitle": "Target Vader #1",
+    "era": "reignOfTheEmpire",
+    "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": -1
+    },
+    "parentWorkSlug": "target-vader",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2019-07-03T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "target-vader-1",
+    "synopsis": "**The Hunter!**\n\nDarth Vader is on the hunt for a mysterious criminal syndicate operating outside of the Empire's rule. But little does he know he's being hunted by a group of the galaxy's deadliest bounty hunters, hired by the syndicate to take out Vader once and for all. Led by fallen Imperial officer Beilert Valance, this ragtag group of assassins will stop at nothing to kill the biggest bounty of their lives.",
+    "title": "Target Vader #1"
   },
   {
     "canonStatus": "canon",
@@ -215602,1207 +216846,5 @@
     "slug": "zorba-the-hutts-revenge",
     "synopsis": "Han Solo is thinking of getting married. Trioculus has found his queen. But the father of Jabba the Hutt is about to shatter their plans. The battle to defeat the forces of the evil Galactic Empire rages on. Throughout the vastness of space, heroic men, women, and aliens of the Rebel Alliance fight valiantly to keep alive the hopes for freedom and to restore the ways of the Old Republic with its wise Senate and noble line of Jedi Knights. But a feud between two powerful villains may prove disastrous for the Alliance. Trioculus is determined to steal away Princess Leia from Han Solo and make he",
     "title": "Zorba the Hutt's Revenge"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Dark Rival",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590519255"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519250"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0590519255",
-        "kind": "print"
-      },
-      {
-        "extent": 128,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590519250",
-        "kind": "print",
-        "onsale": "1999-05-03T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "1999-05-03T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz101",
-    "synopsis": "Master Qui-Gon Jinn struggles to train his Padawan, Obi-Wan Kenobi, as the master's past haunts him - and then returns unexpectedly.",
-    "title": "Jedi Apprentice: The Dark Rival"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      },
-      {
-        "name": "Dave Wolverton",
-        "role": "writer",
-        "slug": "dave-wolverton"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Hidden Past",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439014476"
-      },
-      {
-        "type": "isbn10",
-        "value": "0590519336"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519335"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 138,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439014476",
-        "kind": "print",
-        "onsale": "1999-08-01T00:00:00.000Z"
-      },
-      {
-        "isPrimary": false,
-        "isbn10": "0590519336",
-        "kind": "print"
-      },
-      {
-        "extent": 138,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590519335",
-        "kind": "print",
-        "onsale": "1999-08-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "1999-08-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz102",
-    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves trapped on a dangerous planet, where they must rely on each other for hope - and survival.",
-    "title": "Jedi Apprentice: The Hidden Past"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Mark of the Crown",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590519344"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519342"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0590519344",
-        "kind": "print",
-        "onsale": "1999-10-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590519342",
-        "kind": "print",
-        "onsale": "1999-10-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "1999-10-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz103",
-    "synopsis": "Qui-Gon Jinn and young Obi-Wan Kenobi must save the planet Gala from its own people as a war for the royal throne threatens to tear the civilization apart.",
-    "title": "Jedi Apprentice: The Mark of the Crown"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Defenders of the Dead",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590519565"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519564"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn10": "0590519565",
-        "isbn13": "9780590519564",
-        "kind": "print",
-        "onsale": "1999-12-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "1999-12-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz104",
-    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi find themselves on opposite sides of a brewing war as the padawan discovers who the rebels leading the fight truly are.",
-    "title": "Jedi Apprentice: The Defenders of the Dead"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Uncertain Path",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590519697"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519694"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0590519697",
-        "kind": "print",
-        "onsale": "2000-02-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590519694",
-        "kind": "print",
-        "onsale": "2000-02-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "2000-02-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz105",
-    "synopsis": "Obi-Wan Kenobi thought he was on the right side of a revolution. But now that everything is going wrong, and his master has returned to the Jedi Temple without him, he’s going to have to find a way out of trouble all on his own.",
-    "title": "Jedi Apprentice: The Uncertain Path"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Captive Temple",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439994934"
-      },
-      {
-        "type": "isbn10",
-        "value": "0590519700"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590519700"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 192,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439994934",
-        "kind": "print",
-        "onsale": "2000-04-01T00:00:00.000Z"
-      },
-      {
-        "isPrimary": false,
-        "isbn10": "0590519700",
-        "kind": "print"
-      },
-      {
-        "extent": 192,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590519700",
-        "kind": "print",
-        "onsale": "2000-04-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "2000-04-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz106",
-    "synopsis": "An attack on the Jedi Temple has left Qui-Gon Jinn and Obi-Wan Kenobi in charge of figuring out what’s really going on.",
-    "title": "Jedi Apprentice: The Captive Temple"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Day of Reckoning",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590520792"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590520799"
-      }
-    ],
-    "editions": [
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0590520792",
-        "kind": "print",
-        "onsale": "2000-06-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590520799",
-        "kind": "print",
-        "onsale": "2000-06-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "2000-06-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz107",
-    "synopsis": "When Qui-Gon Jinn and his Padawan Obi-Wan Kenobi are framed for a crime they did not commit, they must work together to survive on a planet where they’re more unsafe than ever.",
-    "title": "Jedi Apprentice: The Day of Reckoning"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Fight for Truth",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590520806"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590520805"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 138,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn10": "0590520806",
-        "isbn13": "9780590520805",
-        "kind": "print",
-        "onsale": "2000-08-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "2000-08-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz108",
-    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi travel to he planet Kegan to retrieve a Force-sensitive child and bring them back to train as a Jedi. But master and apprentice arrive to discover they are quite unwelcome.",
-    "title": "Jedi Apprentice: The Fight for Truth"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Shattered Peace",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0590520849"
-      },
-      {
-        "type": "isbn10",
-        "value": "0613330501"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780590520843"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0590520849",
-        "kind": "print"
-      },
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0613330501",
-        "kind": "print",
-        "onsale": "2000-10-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780590520843",
-        "kind": "print",
-        "onsale": "2000-10-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -44
-    },
-    "releaseDate": "2000-10-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz109",
-    "synopsis": "When the heir to the Rutan throne is in danger of becoming the next victim in a long planetary tradition, Qui-Gon Jinn and Obi-Wan Kenobi must step in, hoping they can prevent a war.",
-    "title": "Jedi Apprentice: The Shattered Peace"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Deadly Hunter",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139309"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139304"
-      }
-    ],
-    "editions": [
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439139309",
-        "kind": "print",
-        "onsale": "2000-12-01T00:00:00.000Z"
-      },
-      {
-        "extent": 128,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139304",
-        "kind": "print",
-        "onsale": "2000-12-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -43
-    },
-    "releaseDate": "2000-12-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz11",
-    "synopsis": "A friend of Jedi Master Qui-Gon Jinn has become the target of a dangerous bounty hunter, and he’ll need the help of his apprentice, Obi-Wan Kenobi, to save the day.",
-    "title": "Jedi Apprentice: The Deadly Hunter"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Evil Experiment",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139317"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139311"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0439139317",
-        "kind": "print"
-      },
-      {
-        "extent": 160,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139311",
-        "kind": "print",
-        "onsale": "2001-02-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -43
-    },
-    "releaseDate": "2001-02-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz110",
-    "synopsis": "When Jedi Master Qui-Gon Jinn becomes the prisoner of an evil scientist, it’s up to Obi-Wan Kenobi to rescue him.",
-    "title": "Jedi Apprentice: The Evil Experiment"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Dangerous Rescue",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139325"
-      },
-      {
-        "type": "isbn10",
-        "value": "0613357140"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139328"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0439139325",
-        "kind": "print"
-      },
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0613357140",
-        "kind": "print",
-        "onsale": "2001-04-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139328",
-        "kind": "print",
-        "onsale": "2001-04-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -43
-    },
-    "releaseDate": "2001-04-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz111",
-    "synopsis": "Jenna Zan Arbor’s quest for power and hunger for deeper knowledge of the Force is not the kind that can be used for good. Only the Jedi can stop her before it’s too late.",
-    "title": "Jedi Apprentice: The Dangerous Rescue"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Ties That Bind",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139333"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139335"
-      }
-    ],
-    "editions": [
-      {
-        "extent": 136,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439139333",
-        "kind": "print",
-        "onsale": "2001-08-01T00:00:00.000Z"
-      },
-      {
-        "extent": 136,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139335",
-        "kind": "print",
-        "onsale": "2001-08-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -41
-    },
-    "releaseDate": "2001-08-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz112",
-    "synopsis": "Qui-Gon Jinn and his fellow Jedi Knight Tahl have a seemingly unbreakable bond. A bond that will be tested when the two Jedi and Obi-Wan Kenobi embark on a mission against the will of the Jedi Council.",
-    "title": "Jedi Apprentice: The Ties That Bind"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Death of Hope",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139341"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139342"
-      }
-    ],
-    "editions": [
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439139341",
-        "kind": "print",
-        "onsale": "2001-10-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139342",
-        "kind": "print",
-        "onsale": "2001-10-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -41
-    },
-    "releaseDate": "2001-10-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz113",
-    "synopsis": "Qui-Gon Jinn has fallen in love. When the Jedi Knight he believes he can’t live without is kidnapped, he’s ready to do whatever it takes to get her back.",
-    "title": "Jedi Apprentice: The Death of Hope"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Call to Vengeance",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "043913935X"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139359"
-      }
-    ],
-    "editions": [
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "043913935X",
-        "kind": "print",
-        "onsale": "2001-12-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139359",
-        "kind": "print",
-        "onsale": "2001-12-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -41
-    },
-    "releaseDate": "2001-12-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz114",
-    "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
-    "title": "Jedi Apprentice: The Call to Vengeance"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Only Witness",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139368"
-      },
-      {
-        "type": "isbn10",
-        "value": "0439979226"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139366"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0439139368",
-        "kind": "print"
-      },
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439979226",
-        "kind": "print",
-        "onsale": "2002-02-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139366",
-        "kind": "print",
-        "onsale": "2002-02-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -40
-    },
-    "releaseDate": "2002-02-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz115",
-    "synopsis": "When Qui-Gon Jinn and Obi-Wan Kenobi take on an assignment forcing them to confront a dangerous crime family, they quickly realize a mission they thought would be simple is going to prove much more complicated than they expected.",
-    "title": "Jedi Apprentice: The Only Witness"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jude Watson",
-        "role": "writer",
-        "slug": "jude-watson"
-      }
-    ],
-    "displayTitle": "Jedi Apprentice: The Threat Within",
-    "editionIds": [
-      {
-        "type": "isbn10",
-        "value": "0439139376"
-      },
-      {
-        "type": "isbn10",
-        "value": "0439979234"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439139373"
-      }
-    ],
-    "editions": [
-      {
-        "isPrimary": false,
-        "isbn10": "0439139376",
-        "kind": "print"
-      },
-      {
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439979234",
-        "kind": "print",
-        "onsale": "2002-03-01T00:00:00.000Z"
-      },
-      {
-        "extent": 144,
-        "imprint": "Scholastic",
-        "isPrimary": true,
-        "isbn13": "9780439139373",
-        "kind": "print",
-        "onsale": "2002-03-01T00:00:00.000Z"
-      }
-    ],
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -40
-    },
-    "releaseDate": "2002-03-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz116",
-    "synopsis": "As he gets closer to becoming a Jedi Knight, Obi-Wan Kenobi’s changing relationship with his master, Qui-Gon Jinn, is about to put them both in even more danger as a mysterious threat approaches.",
-    "title": "Jedi Apprentice: The Threat Within"
-  },
-  {
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Simon Spurrier",
-        "role": "writer",
-        "slug": "simon-spurrier"
-      },
-      {
-        "name": "Wilton Santos",
-        "role": "artist",
-        "slug": "wilton-santos"
-      },
-      {
-        "name": "Caspar Wijngaard",
-        "role": "artist",
-        "slug": "caspar-wijngaard"
-      },
-      {
-        "name": "Andrea Broccardo",
-        "role": "artist",
-        "slug": "andrea-broccardo"
-      },
-      {
-        "name": "Walden Wong",
-        "role": "inker",
-        "slug": "walden-wong"
-      },
-      {
-        "name": "Marc Deering",
-        "role": "inker",
-        "slug": "marc-deering"
-      },
-      {
-        "name": "Caspar Wijngaard",
-        "role": "inker",
-        "slug": "caspar-wijngaard"
-      },
-      {
-        "name": "Mark Paniccia",
-        "role": "editor",
-        "slug": "mark-paniccia"
-      },
-      {
-        "name": "Vc Joe Caramagna",
-        "role": "letterer",
-        "slug": "vc-joe-caramagna"
-      },
-      {
-        "name": "Andrea Broccardo",
-        "role": "penciler",
-        "slug": "andrea-broccardo"
-      },
-      {
-        "name": "Caspar Wijngaard",
-        "role": "penciler",
-        "slug": "caspar-wijngaard"
-      },
-      {
-        "name": "Wilton Santos",
-        "role": "penciler",
-        "slug": "wilton-santos"
-      },
-      {
-        "name": "Ashley Witter",
-        "role": "coverArtist",
-        "slug": "ashley-witter"
-      },
-      {
-        "name": "Chris O'halloran",
-        "role": "colorist",
-        "slug": "chris-ohalloran"
-      },
-      {
-        "name": "Stephane Paitreau",
-        "role": "colorist",
-        "slug": "stephane-paitreau"
-      },
-      {
-        "name": "Si Spurrier",
-        "role": "writer",
-        "slug": "si-spurrier"
-      }
-    ],
-    "displayTitle": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II",
-    "era": "ageOfRebellion",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 2
-    },
-    "parentWorkSlug": "doctor-aphra-2016",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2019-06-19T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz12",
-    "synopsis": "**Unspeakable Rebel Superweapon, Part 2**\n\nCounting the cost of her incorrigible thievery, sticky-fingered archaeologist Doctor Aphra is at the mercy of Rebel High Command. But things are about to get stickier. What's the one thing every galactic treasure hunter knows for sure? Exes never mark the spot.",
-    "title": "Doctor Aphra (2016) #33: Unspeakable Rebel Superweapon Part II"
-  },
-  {
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Pierrick Colinet",
-        "role": "writer",
-        "slug": "pierrick-colinet"
-      },
-      {
-        "name": "Elsa Charretier",
-        "role": "writer",
-        "slug": "elsa-charretier"
-      },
-      {
-        "name": "Jon Waterhouse",
-        "role": "writer",
-        "slug": "jon-waterhouse"
-      },
-      {
-        "name": "Tony Fleecs",
-        "role": "artist",
-        "slug": "tony-fleecs"
-      }
-    ],
-    "displayTitle": "Adventures (2017) #22 - A Matter Of Perception",
-    "era": "ageOfRebellion",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 3
-    },
-    "parentWorkSlug": "star-wars-adventures-2017",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2019-06-05T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz13",
-    "synopsis": "After losing the man she loves to a bounty hunter, Princess Leia embarks on a dangerous mission with R2-D2 and C-3PO in this exciting tale set just before The Empire Strikes Back!",
-    "title": "Star Wars Adventures (2017) #22 - A Matter Of Perception"
-  },
-  {
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Greg Pak",
-        "role": "writer",
-        "slug": "greg-pak"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "artist",
-        "slug": "phil-noto"
-      },
-      {
-        "name": "Mark Paniccia",
-        "role": "editor",
-        "slug": "mark-paniccia"
-      },
-      {
-        "name": "Vc Clayton Cowles",
-        "role": "letterer",
-        "slug": "vc-clayton-cowles"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "colorist",
-        "slug": "phil-noto"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "coverArtist",
-        "slug": "phil-noto"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "inker",
-        "slug": "phil-noto"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "penciler",
-        "slug": "phil-noto"
-      }
-    ],
-    "displayTitle": "Star Wars (2015) #68: Rebels and Rogues Part 1",
-    "era": "ageOfRebellion",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 2
-    },
-    "parentWorkSlug": "star-wars-2015",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2019-07-10T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz14",
-    "synopsis": "**Rebels and Rogues!**\n\n\"The evil lord Darth Vader, obsessed with finding young Skywalker, has dispatched thousands of remote probes into the far reaches of space...\" That's right, you remember the opening titles of The Empire Strikes Back. Now find out what happened just before, as Luke and his friends launch a desperate, three-pronged mission of deception to keep the Empire from finding their new rebel base in a brand-new epic from the new ongoing team of Greg \"Planet Hulk\" Pak and Phil \"Poe Dameron\" Noto! Featuring Han and Leia undercover in a noir world of romance and danger! Luke and R2 facing off against the Executor in a single X-wing! And Chewie and Threepio, the greatest team-up you never knew you always needed!",
-    "title": "Star Wars (2015) #68: Rebels and Rogues Part 1"
-  },
-  {
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Robbie Thompson",
-        "role": "writer",
-        "slug": "robbie-thompson"
-      },
-      {
-        "name": "Marc Laming",
-        "role": "artist",
-        "slug": "marc-laming"
-      },
-      {
-        "name": "Mark Paniccia",
-        "role": "editor",
-        "slug": "mark-paniccia"
-      },
-      {
-        "name": "Nic Klein",
-        "role": "coverArtist",
-        "slug": "nic-klein"
-      },
-      {
-        "name": "Andres Mossa",
-        "role": "colorist",
-        "slug": "andres-mossa"
-      },
-      {
-        "name": "Jordan Boyd",
-        "role": "colorist",
-        "slug": "jordan-boyd"
-      },
-      {
-        "name": "Erick Arciniega",
-        "role": "colorist",
-        "slug": "erick-arciniega"
-      },
-      {
-        "name": "Federico Blee",
-        "role": "colorist",
-        "slug": "federico-blee"
-      },
-      {
-        "name": "Neeraj Menon",
-        "role": "colorist",
-        "slug": "neeraj-menon"
-      },
-      {
-        "name": "Vc Clayton Cowles",
-        "role": "letterer",
-        "slug": "vc-clayton-cowles"
-      },
-      {
-        "name": "Marc Laming",
-        "role": "inker",
-        "slug": "marc-laming"
-      },
-      {
-        "name": "Cris Loureiro Bolson",
-        "role": "inker",
-        "slug": "cris-loureiro-bolson"
-      },
-      {
-        "name": "Marc Laming",
-        "role": "penciler",
-        "slug": "marc-laming"
-      },
-      {
-        "name": "Cris Loureiro Bolson",
-        "role": "penciler",
-        "slug": "cris-loureiro-bolson"
-      },
-      {
-        "name": "Cris Bolson",
-        "role": "penciler",
-        "slug": "cris-bolson"
-      },
-      {
-        "name": "Clayton Cowles",
-        "role": "letterer",
-        "slug": "clayton-cowles"
-      }
-    ],
-    "displayTitle": "Target Vader #1",
-    "era": "reignOfTheEmpire",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -1
-    },
-    "parentWorkSlug": "target-vader",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2019-07-03T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "zzzzz9",
-    "synopsis": "**The Hunter!**\n\nDarth Vader is on the hunt for a mysterious criminal syndicate operating outside of the Empire's rule. But little does he know he's being hunted by a group of the galaxy's deadliest bounty hunters, hired by the syndicate to take out Vader once and for all. Led by fallen Imperial officer Beilert Valance, this ragtag group of assassins will stop at nothing to kill the biggest bounty of their lives.",
-    "title": "Target Vader #1"
   }
 ]

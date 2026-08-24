@@ -8,41 +8,41 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice: The Dark Rival",
+  "displayTitle": "Jedi Apprentice: The Evil Experiment",
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0590519255"
+      "value": "0439139317"
     },
     {
       "type": "isbn13",
-      "value": "9780590519250"
+      "value": "9780439139311"
     }
   ],
   "editions": [
     {
       "isPrimary": false,
-      "isbn10": "0590519255",
+      "isbn10": "0439139317",
       "kind": "print"
     },
     {
-      "extent": 128,
+      "extent": 160,
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780590519250",
+      "isbn13": "9780439139311",
       "kind": "print",
-      "onsale": "1999-05-03T00:00:00.000Z"
+      "onsale": "2001-02-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -44
+    "startYear": -43
   },
-  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDate": "2001-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
-  "slug": "zzzzz101",
-  "synopsis": "Master Qui-Gon Jinn struggles to train his Padawan, Obi-Wan Kenobi, as the master's past haunts him - and then returns unexpectedly.",
-  "title": "Jedi Apprentice: The Dark Rival"
+  "slug": "jedi-apprentice-12-the-evil-experiment",
+  "synopsis": "When Jedi Master Qui-Gon Jinn becomes the prisoner of an evil scientist, it’s up to Obi-Wan Kenobi to rescue him.",
+  "title": "Jedi Apprentice: The Evil Experiment"
 }

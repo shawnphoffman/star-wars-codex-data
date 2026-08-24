@@ -8,15 +8,15 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice: The Mark of the Crown",
+  "displayTitle": "Jedi Apprentice: The Uncertain Path",
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0590519344"
+      "value": "0590519697"
     },
     {
       "type": "isbn13",
-      "value": "9780590519342"
+      "value": "9780590519694"
     }
   ],
   "editions": [
@@ -24,17 +24,17 @@
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": false,
-      "isbn10": "0590519344",
+      "isbn10": "0590519697",
       "kind": "print",
-      "onsale": "1999-10-01T00:00:00.000Z"
+      "onsale": "2000-02-01T00:00:00.000Z"
     },
     {
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780590519342",
+      "isbn13": "9780590519694",
       "kind": "print",
-      "onsale": "1999-10-01T00:00:00.000Z"
+      "onsale": "2000-02-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -42,10 +42,10 @@
   "inUniverseDate": {
     "startYear": -44
   },
-  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "releaseDate": "2000-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
-  "slug": "zzzzz103",
-  "synopsis": "Qui-Gon Jinn and young Obi-Wan Kenobi must save the planet Gala from its own people as a war for the royal throne threatens to tear the civilization apart.",
-  "title": "Jedi Apprentice: The Mark of the Crown"
+  "slug": "jedi-apprentice-6-the-uncertain-path",
+  "synopsis": "Obi-Wan Kenobi thought he was on the right side of a revolution. But now that everything is going wrong, and his master has returned to the Jedi Temple without him, he’s going to have to find a way out of trouble all on his own.",
+  "title": "Jedi Apprentice: The Uncertain Path"
 }

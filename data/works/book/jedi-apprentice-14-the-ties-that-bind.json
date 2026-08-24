@@ -1,0 +1,51 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Jedi Apprentice: The Ties That Bind",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439139333"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439139335"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 136,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0439139333",
+      "kind": "print",
+      "onsale": "2001-08-01T00:00:00.000Z"
+    },
+    {
+      "extent": 136,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780439139335",
+      "kind": "print",
+      "onsale": "2001-08-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -41
+  },
+  "releaseDate": "2001-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-apprentice-14-the-ties-that-bind",
+  "synopsis": "Qui-Gon Jinn and his fellow Jedi Knight Tahl have a seemingly unbreakable bond. A bond that will be tested when the two Jedi and Obi-Wan Kenobi embark on a mission against the will of the Jedi Council.",
+  "title": "Jedi Apprentice: The Ties That Bind"
+}

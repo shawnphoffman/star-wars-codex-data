@@ -8,41 +8,41 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice: The Only Witness",
+  "displayTitle": "Jedi Apprentice: The Threat Within",
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0439139368"
+      "value": "0439139376"
     },
     {
       "type": "isbn10",
-      "value": "0439979226"
+      "value": "0439979234"
     },
     {
       "type": "isbn13",
-      "value": "9780439139366"
+      "value": "9780439139373"
     }
   ],
   "editions": [
     {
       "isPrimary": false,
-      "isbn10": "0439139368",
+      "isbn10": "0439139376",
       "kind": "print"
     },
     {
       "imprint": "Scholastic",
       "isPrimary": false,
-      "isbn10": "0439979226",
+      "isbn10": "0439979234",
       "kind": "print",
-      "onsale": "2002-02-01T00:00:00.000Z"
+      "onsale": "2002-03-01T00:00:00.000Z"
     },
     {
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780439139366",
+      "isbn13": "9780439139373",
       "kind": "print",
-      "onsale": "2002-02-01T00:00:00.000Z"
+      "onsale": "2002-03-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -50,10 +50,10 @@
   "inUniverseDate": {
     "startYear": -40
   },
-  "releaseDate": "2002-02-01T00:00:00.000Z",
+  "releaseDate": "2002-03-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
-  "slug": "zzzzz115",
-  "synopsis": "When Qui-Gon Jinn and Obi-Wan Kenobi take on an assignment forcing them to confront a dangerous crime family, they quickly realize a mission they thought would be simple is going to prove much more complicated than they expected.",
-  "title": "Jedi Apprentice: The Only Witness"
+  "slug": "jedi-apprentice-18-the-threat-within",
+  "synopsis": "As he gets closer to becoming a Jedi Knight, Obi-Wan Kenobi’s changing relationship with his master, Qui-Gon Jinn, is about to put them both in even more danger as a mysterious threat approaches.",
+  "title": "Jedi Apprentice: The Threat Within"
 }

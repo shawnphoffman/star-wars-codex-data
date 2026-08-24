@@ -8,32 +8,32 @@
       "slug": "jude-watson"
     }
   ],
-  "displayTitle": "Jedi Apprentice: The Call to Vengeance",
+  "displayTitle": "Jedi Apprentice: The Death of Hope",
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "043913935X"
+      "value": "0439139341"
     },
     {
       "type": "isbn13",
-      "value": "9780439139359"
+      "value": "9780439139342"
     }
   ],
   "editions": [
     {
       "imprint": "Scholastic",
       "isPrimary": false,
-      "isbn10": "043913935X",
+      "isbn10": "0439139341",
       "kind": "print",
-      "onsale": "2001-12-01T00:00:00.000Z"
+      "onsale": "2001-10-01T00:00:00.000Z"
     },
     {
       "extent": 144,
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780439139359",
+      "isbn13": "9780439139342",
       "kind": "print",
-      "onsale": "2001-12-01T00:00:00.000Z"
+      "onsale": "2001-10-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -41,10 +41,10 @@
   "inUniverseDate": {
     "startYear": -41
   },
-  "releaseDate": "2001-12-01T00:00:00.000Z",
+  "releaseDate": "2001-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
-  "slug": "zzzzz114",
-  "synopsis": "Qui-Gon Jinn is a wise and trustworthy Jedi, but tragedy can change just about anyone. The master’s quest for revenge is about to lead him down a path he may never return from.",
-  "title": "Jedi Apprentice: The Call to Vengeance"
+  "slug": "jedi-apprentice-15-the-death-of-hope",
+  "synopsis": "Qui-Gon Jinn has fallen in love. When the Jedi Knight he believes he can’t live without is kidnapped, he’s ready to do whatever it takes to get her back.",
+  "title": "Jedi Apprentice: The Death of Hope"
 }

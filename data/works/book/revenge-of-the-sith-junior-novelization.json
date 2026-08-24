@@ -1,0 +1,42 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Patricia C. Wrede",
+      "role": "writer",
+      "slug": "patricia-c-wrede"
+    }
+  ],
+  "displayTitle": "Episode III Revenge of the Sith (junior novelization)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439139295"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439139298"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 192,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439139295",
+      "isbn13": "9780439139298",
+      "kind": "print",
+      "onsale": "2005-05-01T00:00:00.000Z"
+    }
+  ],
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-05-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "revenge-of-the-sith-junior-novelization",
+  "title": "Star Wars: Episode III Revenge of the Sith (junior novelization)"
+}
