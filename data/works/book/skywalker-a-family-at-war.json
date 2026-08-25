@@ -1,0 +1,28 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kristin Baver",
+      "role": "writer",
+      "slug": "kristin-baver"
+    }
+  ],
+  "displayTitle": "Skywalker: A Family at War",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2021-04-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-04-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "skywalker-a-family-at-war",
+  "title": "Skywalker: A Family at War"
+}

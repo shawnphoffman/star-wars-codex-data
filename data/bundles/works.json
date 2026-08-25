@@ -1085,6 +1085,34 @@
     "title": "A Race to the Finish"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Landry Q. Walker",
+        "role": "writer",
+        "slug": "landry-q-walker"
+      }
+    ],
+    "displayTitle": "A Recipe for Death",
+    "editions": [
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2016-04-05T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2016-04-05T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "a-recipe-for-death",
+    "title": "A Recipe for Death"
+  },
+  {
     "bookType": "other",
     "canonStatus": "non-canon",
     "creators": [
@@ -8188,6 +8216,35 @@
     "slug": "assessment",
     "synopsis": "\"Assessment\" is a comic strip published in the eleventh issue of the Star Wars Rebels Magazine series by Egmont UK Ltd. It was written by Martin Fisher, illustrated by Ingo Römling and edited by Gunther Nickel. The comic was released on November 4, 2015.",
     "title": "Assessment"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Patricia C. Wrede",
+        "role": "writer",
+        "slug": "patricia-c-wrede"
+      }
+    ],
+    "displayTitle": "Episode II Attack of the Clones (junior novelization)",
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2002-04-23T00:00:00.000Z"
+      }
+    ],
+    "era": "fallOfTheJedi",
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2002-04-23T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "attack-of-the-clones-junior-novelization",
+    "title": "Star Wars: Episode II Attack of the Clones (junior novelization)"
   },
   {
     "bookType": "adultNovel",
@@ -17657,7 +17714,7 @@
     "editions": [
       {
         "extent": 144,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368043380",
         "isbn13": "9781368043380",
@@ -21784,7 +21841,7 @@
     "editions": [
       {
         "extent": 368,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368093752",
         "isbn13": "9781368093750",
@@ -41142,7 +41199,7 @@
         "onsale": "2009-10-13T00:00:00.000Z"
       }
     ],
-    "era": "ageOfRebellion",
+    "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
       "startYear": -1
@@ -41151,7 +41208,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "death-troopers",
-    "synopsis": "====Back cover==== No fate could be more terrifying than being trapped inside deep space. Unless there's something unknown out there with you.",
+    "synopsis": "Brothers Trig and Kale Longo have no idea they're about to fight for their lives aboard an imperial prison barge.",
     "title": "Death Troopers"
   },
   {
@@ -54158,6 +54215,34 @@
     "title": "Episode III: Revenge of the Sith"
   },
   {
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Matthew Stover",
+        "role": "writer",
+        "slug": "matthew-stover"
+      }
+    ],
+    "displayTitle": "Equipment",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2003-08-01T00:00:00.000Z"
+      }
+    ],
+    "era": "fallOfTheJedi",
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2003-08-01T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "equipment-short-story",
+    "title": "Equipment"
+  },
+  {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
     "creators": [
@@ -57797,7 +57882,7 @@
     "editions": [
       {
         "extent": 496,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345511476",
         "isbn13": "9780345511478",
@@ -58292,7 +58377,7 @@
     "editions": [
       {
         "extent": 576,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0593157745",
         "isbn13": "9780593157749",
@@ -59969,7 +60054,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-08-19T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galaxys-edge-echoes-of-the-empire-2026-5",
     "title": "Galaxy's Edge: Echoes of the Empire (2026) #5"
   },
@@ -64032,6 +64118,34 @@
     "slug": "hiding-from-the-dark",
     "synopsis": "Explore the darkest corners of the Star Wars galaxy in this chilling horror-themed middle grade novel by New York Times bestselling author Kiersten White. Pursued by Imperial forces, a young girl named Bia must flee her home planet of Coruscant and find her mother. All the time, she is hunted by a figure in black, a presence more horrifying than she has ever encountered before. Can Bia escape - and what does she have that the Empire wants so badly? Horror readers and Star Wars fans of all ages will thrill to this fright-filled middle grade novel.",
     "title": "Hiding from the Dark"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Landry Q. Walker",
+        "role": "writer",
+        "slug": "landry-q-walker"
+      }
+    ],
+    "displayTitle": "High Noon on Jakku",
+    "editions": [
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2015-11-30T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2015-11-30T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "high-noon-on-jakku",
+    "title": "High Noon on Jakku"
   },
   {
     "bookType": "shortStory",
@@ -75093,6 +75207,33 @@
     "slug": "join-the-resistance-escape-from-vodran",
     "synopsis": "J Squadron find themselves trapped on the planet Vodran, their mission all but over. Their only hope for escape is each other.",
     "title": "Join the Resistance: Escape from Vodran"
+  },
+  {
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Timothy Zahn",
+        "role": "writer",
+        "slug": "timothy-zahn"
+      }
+    ],
+    "displayTitle": "Judge's Call",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2004-02-01T00:00:00.000Z"
+      }
+    ],
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2004-02-01T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "judges-call",
+    "title": "Judge's Call"
   },
   {
     "bookType": "juniorReader",
@@ -90306,6 +90447,230 @@
     "title": "Lost Stars: Vol. 2 (Manga)"
   },
   {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Pantheon",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2011-07-18T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2011-07-18T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-pantheon",
+    "title": "Lost Tribe of the Sith: Pantheon"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Paragon",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2010-02-10T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2010-02-10T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-paragon",
+    "title": "Lost Tribe of the Sith: Paragon"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Precipice",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2009-05-28T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2009-05-28T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-precipice",
+    "title": "Lost Tribe of the Sith: Precipice"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Purgatory",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2010-10-25T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2010-10-25T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-purgatory",
+    "title": "Lost Tribe of the Sith: Purgatory"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Savior",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2010-04-27T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2010-04-27T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-savior",
+    "title": "Lost Tribe of the Sith: Savior"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Secrets",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2012-03-05T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2012-03-05T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-secrets",
+    "title": "Lost Tribe of the Sith: Secrets"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Sentinel",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2011-02-21T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2011-02-21T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-sentinel",
+    "title": "Lost Tribe of the Sith: Sentinel"
+  },
+  {
+    "bookType": "shortStory",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "John Jackson Miller",
+        "role": "writer",
+        "slug": "john-jackson-miller"
+      }
+    ],
+    "displayTitle": "Lost Tribe of the Sith: Skyborn",
+    "editions": [
+      {
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2009-07-21T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2009-07-21T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lost-tribe-of-the-sith-skyborn",
+    "title": "Lost Tribe of the Sith: Skyborn"
+  },
+  {
     "canonStatus": "non-canon",
     "creators": [
       {
@@ -92761,7 +93126,7 @@
       },
       {
         "extent": 496,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368060676",
         "isbn13": "9781368060677",
@@ -104666,7 +105031,7 @@
     "editions": [
       {
         "extent": 496,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0593723465",
         "isbn13": "9780593723463",
@@ -115531,7 +115896,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2000-02-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "sergio-aragones-stomps-star-wars",
     "title": "Sergio Aragones Stomps Star Wars"
   },
@@ -118142,6 +118508,34 @@
     "title": "Skeleton Crew Season 1"
   },
   {
+    "bookType": "referenceBook",
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Kristin Baver",
+        "role": "writer",
+        "slug": "kristin-baver"
+      }
+    ],
+    "displayTitle": "Skywalker: A Family at War",
+    "editions": [
+      {
+        "imprint": "DK Publishing",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2021-04-06T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2021-04-06T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "skywalker-a-family-at-war",
+    "title": "Skywalker: A Family at War"
+  },
+  {
     "bookType": "graphicNovel",
     "canonStatus": "non-canon",
     "creators": [
@@ -119058,7 +119452,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368070396",
         "isbn13": "9781368070393",
@@ -136996,7 +137390,7 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures 1: Search for the Lost Jedi",
+    "displayTitle": "Adventures 1: Hunt the Sun Runner",
     "editionIds": [
       {
         "type": "isbn10",
@@ -137037,14 +137431,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -23
     },
     "releaseDate": "1999-09-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-1-hunt-the-sun-runner",
-    "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it's too late?",
-    "title": "Episode I Adventures 1: Search for the Lost Jedi"
+    "synopsis": "The people of the planet Fondor can't agree on who should get to claim the mysterious ship that recently appeared nearby. This seems like a conflict only the Jedi Order can peacefully resolve.",
+    "title": "Star Wars Adventures 1: Hunt the Sun Runner"
   },
   {
     "canonStatus": "canon",
@@ -137448,7 +137842,7 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures 2: The Bartokk Assassins",
+    "displayTitle": "Adventures 2: The Cavern of Screaming Skulls",
     "editionIds": [
       {
         "type": "isbn10",
@@ -137496,14 +137890,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -23
     },
     "releaseDate": "1999-10-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-2-the-cavern-of-screaming-skulls",
-    "synopsis": "A group of deadly assassins with Trade Federation weapons is bad enough. Now they've kidnapped a child - and only the Jedi can save the day.",
-    "title": "Episode I Adventures 2: The Bartokk Assassins"
+    "synopsis": "A group of stranded Jedi embark on a quest to locate a mysterous artifact.",
+    "title": "Star Wars Adventures 2: The Cavern of Screaming Skulls"
   },
   {
     "canonStatus": "canon",
@@ -138989,7 +139383,7 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures 3: The Fury of Darth Maul",
+    "displayTitle": "Adventures 3: The Hostage Princess",
     "editionIds": [
       {
         "type": "isbn10",
@@ -139035,14 +139429,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -23
     },
     "releaseDate": "1999-11-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-3-the-hostage-princess",
-    "synopsis": "Darth Sidious recruits the help of another Sith Lord to take back something that belongs to him.",
-    "title": "Episode I Adventures 3: The Fury of Darth Maul"
+    "synopsis": "The Jedi must save a princess from the evil droids who kidnapped her.",
+    "title": "Star Wars Adventures 3: The Hostage Princess"
   },
   {
     "bookType": "juniorReader",
@@ -139054,7 +139448,7 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures 4: Jedi Emergency",
+    "displayTitle": "Adventures 4: Jango Fett vs. the Razor Eaters",
     "editionIds": [
       {
         "type": "isbn10",
@@ -139103,14 +139497,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -23
     },
     "releaseDate": "1999-12-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-4-jango-fett-vs-the-razor-eaters",
-    "synopsis": "Masters Yoda and Mace Windu are sent to a distant planet to help save a Force-sensitive girl and her world.",
-    "title": "Episode I Adventures 4: Jedi Emergency"
+    "synopsis": "Count Dooku recruits renowned bounty hunter Jango Fett to take care of something he can't fix himself.",
+    "title": "Star Wars Adventures 4: Jango Fett vs. the Razor Eaters"
   },
   {
     "canonStatus": "canon",
@@ -139178,7 +139572,7 @@
         "slug": "dave-wolverton"
       }
     ],
-    "displayTitle": "Episode I Adventures 5: The Ghostling Children",
+    "displayTitle": "Adventures 5: The Shape-Shifter Strikes",
     "editionIds": [
       {
         "type": "isbn10",
@@ -139219,14 +139613,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -33
+      "startYear": -23
     },
     "releaseDate": "2000-01-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-5-the-shape-shifter-strikes",
-    "synopsis": "The Ghostling children have been captured and brought to the strange, hostile world of Tatooine. Their only hope of escape is a young slave named Anakin Skywalker.",
-    "title": "Episode I Adventures 5: The Ghostling Children"
+    "synopsis": "Bounty hunter Zam Wesell is hired by Darth Tyranus to track down a droid engineer.",
+    "title": "Star Wars Adventures 5: The Shape-Shifter Strikes"
   },
   {
     "bookType": "juniorReader",
@@ -139243,7 +139637,7 @@
         "slug": "dave-wolverton"
       }
     ],
-    "displayTitle": "Episode I Adventures 6: The Hunt for Anakin Skywalker",
+    "displayTitle": "Adventures 6: The Warlords of Balmorra",
     "editionIds": [
       {
         "type": "isbn10",
@@ -139296,14 +139690,14 @@
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -33
+      "startYear": -23
     },
     "releaseDate": "2000-02-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-6-the-warlords-of-balmorra",
-    "synopsis": "Gardulla the Hutt has sent trackers after young Anakin Skywalker. It's not going to be so easy to escape trouble this time.",
-    "title": "Episode I Adventures 6: The Hunt for Anakin Skywalker"
+    "synopsis": "Bounty Hunters Jango Fett and Aurra Sing take on a dangerous assignment from none other than Count Dooku.",
+    "title": "Star Wars Adventures 6: The Warlords of Balmorra"
   },
   {
     "canonStatus": "canon",
@@ -147447,7 +147841,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368080081",
         "isbn13": "9781368080088",
@@ -154062,7 +154456,7 @@
     "editions": [
       {
         "extent": 160,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368063578",
         "isbn13": "9781368063579",
@@ -154102,7 +154496,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368101275",
         "isbn13": "9781368101271",
@@ -160340,6 +160734,35 @@
     "title": "The Empire Strikes Back: So You Want to Be a Jedi?"
   },
   {
+    "bookType": "juniorReader",
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Michael Kogge",
+        "role": "writer",
+        "slug": "michael-kogge"
+      }
+    ],
+    "displayTitle": "The Force Awakens: A Junior Novel",
+    "editions": [
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2015-12-18T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2015-12-18T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "star-wars-the-force-awakens-a-junior-novel",
+    "title": "Star Wars: The Force Awakens: A Junior Novel"
+  },
+  {
     "bookType": "other",
     "canonStatus": "canon",
     "creators": [
@@ -163060,7 +163483,7 @@
     "editions": [
       {
         "extent": 352,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368080545",
         "isbn13": "9781368080545",
@@ -163977,7 +164400,7 @@
     "editions": [
       {
         "extent": 112,
-        "imprint": "Titan Comics",
+        "imprint": "Titan Magazines",
         "isPrimary": true,
         "isbn10": "180618401X",
         "isbn13": "9781806184019",
@@ -169437,7 +169860,7 @@
     "editions": [
       {
         "extent": 448,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368070124",
         "isbn13": "9781368070126",
@@ -180912,6 +181335,34 @@
     "title": "The Courtship of Princess Leia"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Landry Q. Walker",
+        "role": "writer",
+        "slug": "landry-q-walker"
+      }
+    ],
+    "displayTitle": "The Crimson Corsair and the Lost Treasure of Count Dooku",
+    "editions": [
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2015-11-30T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2015-11-30T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "the-crimson-corsair-and-the-lost-treasure-of-count-dooku",
+    "title": "The Crimson Corsair and the Lost Treasure of Count Dooku"
+  },
+  {
     "bookType": "shortStory",
     "canonStatus": "non-canon",
     "creators": [
@@ -189877,7 +190328,7 @@
     "editions": [
       {
         "extent": 384,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368093809",
         "isbn13": "9781368093804",
@@ -190600,7 +191051,7 @@
       },
       {
         "extent": 352,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368076122",
         "isbn13": "9781368076128",
@@ -190652,7 +191103,7 @@
     "editions": [
       {
         "extent": 528,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368082882",
         "isbn13": "9781368082884",
@@ -190715,7 +191166,7 @@
     "editions": [
       {
         "extent": 288,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368082874",
         "isbn13": "9781368082877",
@@ -191418,7 +191869,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368069851",
         "isbn13": "9781368069854",
@@ -192846,7 +193297,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368080286",
         "isbn13": "9781368080286",
@@ -195264,7 +195715,7 @@
     "editions": [
       {
         "extent": 464,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368065619",
         "isbn13": "9781368065610",
@@ -196366,7 +196817,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368070817",
         "isbn13": "9781368070812",
@@ -196525,7 +196976,7 @@
     "editions": [
       {
         "extent": 208,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368057136",
         "isbn13": "9781368057134",
@@ -199379,6 +199830,35 @@
     "slug": "the-phantom-menace-25th-anniversary-special-2024-1",
     "synopsis": "**Celebrating the 25th Anniversary of The Phantom Menace With an All-New Story!**\n\nExplore the earliest days and secret inner life of Anakin Skywalker with never-before-seen, revelatory stories set before, after and between the scenes of the classic movie! Featuring the dream of a Jedi, the gift of a Tusken Raider, the heart of a Gungan, the ache of a mother and the horror of a hero!",
     "title": "Phantom Menace 25th Anniversary Special 1"
+  },
+  {
+    "bookType": "juniorReader",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Patricia C. Wrede",
+        "role": "writer",
+        "slug": "patricia-c-wrede"
+      }
+    ],
+    "displayTitle": "Episode I The Phantom Menace (junior novelization)",
+    "editions": [
+      {
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "1999-05-01T00:00:00.000Z"
+      }
+    ],
+    "era": "fallOfTheJedi",
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "1999-05-01T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "the-phantom-menace-junior-novelization",
+    "title": "Star Wars: Episode I The Phantom Menace (junior novelization)"
   },
   {
     "bookType": "childrensBook",
@@ -202584,7 +203064,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "136805725X",
         "isbn13": "9781368057257",
@@ -203137,7 +203617,7 @@
     "editions": [
       {
         "extent": 400,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0593157680",
         "isbn13": "9780593157688",
@@ -203225,7 +203705,7 @@
     "editions": [
       {
         "extent": 576,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0593158326",
         "isbn13": "9780593158326",
@@ -204930,6 +205410,34 @@
     "title": "True Believers: Star Wars: Vader vs. Leia (2019) #1"
   },
   {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Landry Q. Walker",
+        "role": "writer",
+        "slug": "landry-q-walker"
+      }
+    ],
+    "displayTitle": "True Love",
+    "editions": [
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2016-04-05T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "shortStory",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2016-04-05T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "true-love-short-story",
+    "title": "True Love"
+  },
+  {
     "bookType": "adultNovel",
     "canonStatus": "non-canon",
     "creators": [
@@ -205714,7 +206222,7 @@
     "editions": [
       {
         "extent": 24,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368069843",
         "isbn13": "9781368069847",
@@ -208597,6 +209105,35 @@
     "slug": "william-shakespeare-s-tragedy-of-the-sith-s-revenge-star-wars-part-the-third",
     "synopsis": "The curtain rises once again on that star-crossed galaxy far, faraway, this time to chronicle a once-heroic knight's transformation into the darkest of villains. William Shakespeare's Tragedy of the Sith's Revenge is the climactic conclusion to the fall of the house of Skywalker, a collaboration between William Shakespeare and George Lucas that's filled with masterful meter, stirring soliloquies, inside jokes, and intricate Elizabethan illustrations. You'll fall in love with Star Wars, and Shakespeare, all over again. At the same time!",
     "title": "William Shakespeare's Tragedy of the Sith's Revenge: Star Wars Part the Third"
+  },
+  {
+    "bookType": "other",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Ian Doescher",
+        "role": "writer",
+        "slug": "ian-doescher"
+      }
+    ],
+    "displayTitle": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth",
+    "editions": [
+      {
+        "imprint": "Quirk Books",
+        "isPrimary": true,
+        "kind": "print",
+        "onsale": "2018-07-10T00:00:00.000Z"
+      }
+    ],
+    "era": "riseOfTheFirstOrder",
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2018-07-10T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "william-shakespeares-jedi-the-last",
+    "title": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth"
   },
   {
     "bookType": "other",
@@ -212731,7 +213268,7 @@
     "editions": [
       {
         "extent": 40,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368090982",
         "isbn13": "9781368090988",
@@ -215660,7 +216197,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368070892",
         "isbn13": "9781368070898",
@@ -215788,7 +216325,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "136809337X",
         "isbn13": "9781368093378",
@@ -215832,7 +216369,7 @@
     "editions": [
       {
         "extent": 32,
-        "imprint": "Random House",
+        "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1368093388",
         "isbn13": "9781368093385",

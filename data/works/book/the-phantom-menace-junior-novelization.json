@@ -1,0 +1,29 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Patricia C. Wrede",
+      "role": "writer",
+      "slug": "patricia-c-wrede"
+    }
+  ],
+  "displayTitle": "Episode I The Phantom Menace (junior novelization)",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-05-01T00:00:00.000Z"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-phantom-menace-junior-novelization",
+  "title": "Star Wars: Episode I The Phantom Menace (junior novelization)"
+}

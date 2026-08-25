@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    }
+  ],
+  "displayTitle": "The Crimson Corsair and the Lost Treasure of Count Dooku",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-11-30T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-11-30T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-crimson-corsair-and-the-lost-treasure-of-count-dooku",
+  "title": "The Crimson Corsair and the Lost Treasure of Count Dooku"
+}

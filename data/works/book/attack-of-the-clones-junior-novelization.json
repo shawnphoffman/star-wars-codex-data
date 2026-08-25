@@ -1,0 +1,29 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Patricia C. Wrede",
+      "role": "writer",
+      "slug": "patricia-c-wrede"
+    }
+  ],
+  "displayTitle": "Episode II Attack of the Clones (junior novelization)",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "attack-of-the-clones-junior-novelization",
+  "title": "Star Wars: Episode II Attack of the Clones (junior novelization)"
+}

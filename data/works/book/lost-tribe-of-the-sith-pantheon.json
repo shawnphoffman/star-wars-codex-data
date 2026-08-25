@@ -1,0 +1,28 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Pantheon",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-07-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-07-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lost-tribe-of-the-sith-pantheon",
+  "title": "Lost Tribe of the Sith: Pantheon"
+}

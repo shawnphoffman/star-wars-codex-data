@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    }
+  ],
+  "displayTitle": "High Noon on Jakku",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-11-30T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-11-30T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "high-noon-on-jakku",
+  "title": "High Noon on Jakku"
+}

@@ -1,0 +1,27 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Judge's Call",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2004-02-01T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2004-02-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "judges-call",
+  "title": "Judge's Call"
+}

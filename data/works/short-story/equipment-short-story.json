@@ -1,0 +1,28 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Stover",
+      "role": "writer",
+      "slug": "matthew-stover"
+    }
+  ],
+  "displayTitle": "Equipment",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2003-08-01T00:00:00.000Z"
+    }
+  ],
+  "era": "fallOfTheJedi",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-08-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "equipment-short-story",
+  "title": "Equipment"
+}

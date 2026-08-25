@@ -1,0 +1,29 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "The Force Awakens: A Junior Novel",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-the-force-awakens-a-junior-novel",
+  "title": "Star Wars: The Force Awakens: A Junior Novel"
+}

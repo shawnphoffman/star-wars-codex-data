@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Landry Q. Walker",
+      "role": "writer",
+      "slug": "landry-q-walker"
+    }
+  ],
+  "displayTitle": "True Love",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-04-05T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-04-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "true-love-short-story",
+  "title": "True Love"
+}

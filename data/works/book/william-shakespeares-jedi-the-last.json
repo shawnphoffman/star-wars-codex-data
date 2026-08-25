@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ian Doescher",
+      "role": "writer",
+      "slug": "ian-doescher"
+    }
+  ],
+  "displayTitle": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth",
+  "editions": [
+    {
+      "imprint": "Quirk Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2018-07-10T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-07-10T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "william-shakespeares-jedi-the-last",
+  "title": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth"
+}
