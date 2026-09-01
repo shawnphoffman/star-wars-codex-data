@@ -23,7 +23,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "1999-05-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-phantom-menace-junior-novelization",
   "title": "Star Wars: Episode I The Phantom Menace (junior novelization)"
 }

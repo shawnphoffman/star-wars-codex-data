@@ -680,7 +680,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1997-01-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "a-new-hope-the-special-edition-1997",
     "title": "A New Hope: The Special Edition (1997)"
   },
@@ -1108,7 +1109,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-04-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "a-recipe-for-death",
     "title": "A Recipe for Death"
   },
@@ -8242,7 +8244,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2002-04-23T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "attack-of-the-clones-junior-novelization",
     "title": "Star Wars: Episode II Attack of the Clones (junior novelization)"
   },
@@ -19186,7 +19189,8 @@
       "star-wars-1977"
     ],
     "releaseDate": "1999-03-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "classic-star-wars-a-long-time-ago",
     "title": "Classic Star Wars: A Long Time Ago"
   },
@@ -19613,7 +19617,8 @@
       "star-wars-1977"
     ],
     "releaseDate": "1994-06-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "classic-star-wars-a-new-hope",
     "title": "Classic Star Wars: A New Hope"
   },
@@ -20194,7 +20199,8 @@
       "episode-vi-return-of-the-jedi-hardcover-graphic-novel"
     ],
     "releaseDate": "1994-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "classic-star-wars-return-of-the-jedi",
     "title": "Classic Star Wars: Return of the Jedi"
   },
@@ -20991,7 +20997,8 @@
       "star-wars-1977"
     ],
     "releaseDate": "1994-08-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "classic-star-wars-the-empire-strikes-back",
     "title": "Classic Star Wars: The Empire Strikes Back"
   },
@@ -21240,7 +21247,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2005-10-19T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "clone-wars-adventures",
     "title": "Clone Wars Adventures"
   },
@@ -31529,7 +31537,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-12-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vader-2015-annual",
     "title": "Darth Vader (2015) Annual"
   },
@@ -39611,7 +39620,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-07-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vader-dark-lord-of-the-sith-annual",
     "title": "Darth Vader: Dark Lord of the Sith Annual"
   },
@@ -39760,7 +39770,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2012-02-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "dawn-of-the-jedi-0-2012",
     "title": "Dawn of the Jedi #0"
   },
@@ -43007,7 +43018,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2017-08-23T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "doctor-aphra-2016-annual",
     "title": "Doctor Aphra (2016) Annual"
   },
@@ -54238,7 +54250,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2003-08-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "equipment-short-story",
     "title": "Equipment"
   },
@@ -59749,7 +59762,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-06-24T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galaxys-edge-echoes-of-the-empire-2026",
     "title": "Galaxy's Edge: Echoes of the Empire (2026)"
   },
@@ -62192,7 +62206,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-02-04T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "han-solo-hunt-for-the-falcon-4",
     "title": "Han Solo: Hunt for the Falcon #4"
   },
@@ -62205,7 +62220,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-03-11T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "han-solo-hunt-for-the-falcon-5",
     "title": "Han Solo: Hunt for the Falcon #5"
   },
@@ -64143,7 +64159,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-11-30T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "high-noon-on-jakku",
     "title": "High Noon on Jakku"
   },
@@ -74450,7 +74467,8 @@
     ],
     "format": "book",
     "releaseDate": "2018-07-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "jedi-the-last",
     "title": "Jedi the Last"
   },
@@ -75231,7 +75249,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-02-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "judges-call",
     "title": "Judge's Call"
   },
@@ -90470,7 +90489,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2011-07-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-pantheon",
     "title": "Lost Tribe of the Sith: Pantheon"
   },
@@ -90498,7 +90518,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2010-02-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-paragon",
     "title": "Lost Tribe of the Sith: Paragon"
   },
@@ -90526,7 +90547,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2009-05-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-precipice",
     "title": "Lost Tribe of the Sith: Precipice"
   },
@@ -90554,7 +90576,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2010-10-25T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-purgatory",
     "title": "Lost Tribe of the Sith: Purgatory"
   },
@@ -90582,7 +90605,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2010-04-27T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-savior",
     "title": "Lost Tribe of the Sith: Savior"
   },
@@ -90610,7 +90634,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2012-03-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-secrets",
     "title": "Lost Tribe of the Sith: Secrets"
   },
@@ -90638,7 +90663,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2011-02-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-sentinel",
     "title": "Lost Tribe of the Sith: Sentinel"
   },
@@ -90666,7 +90692,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2009-07-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lost-tribe-of-the-sith-skyborn",
     "title": "Lost Tribe of the Sith: Skyborn"
   },
@@ -98343,7 +98370,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2017-06-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-annual",
     "title": "Poe Dameron Annual"
   },
@@ -99380,7 +99408,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2012-12-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "purge-the-tyrants-fist-2012",
     "title": "Purge: The Tyrant's Fist (2012)"
   },
@@ -112719,7 +112748,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2005-05-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "revenge-of-the-sith-junior-novelization",
     "title": "Star Wars: Episode III Revenge of the Sith (junior novelization)"
   },
@@ -113802,7 +113832,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-05-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-cassian-andor",
     "title": "Rogue One: Cassian Andor"
   },
@@ -114141,7 +114172,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-07-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-saw-gerrera",
     "title": "Rogue One: Saw Gerrera"
   },
@@ -118520,7 +118552,7 @@
     "displayTitle": "Skywalker: A Family at War",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2021-04-06T00:00:00.000Z"
@@ -118531,7 +118563,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2021-04-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "skywalker-a-family-at-war",
     "title": "Skywalker: A Family at War"
   },
@@ -128182,7 +128215,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-12-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-2015-annual",
     "title": "Star Wars (2015) Annual"
   },
@@ -138456,7 +138490,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-10-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-adventures-2017-27-ghosts-of-kashyyyk-part-1",
     "title": "Star Wars Adventures (2017) #27 - Ghosts Of Kashyyyk part 1"
   },
@@ -138469,7 +138504,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-11-26T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-adventures-2017-28-ghosts-of-kashyyyk-part-2",
     "title": "Star Wars Adventures (2017) #28 - Ghosts Of Kashyyyk part 2"
   },
@@ -138482,7 +138518,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-12-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-adventures-2017-29-ghosts-of-kashyyyk-part-3",
     "title": "Star Wars Adventures (2017) #29 - Ghosts Of Kashyyyk part 3"
   },
@@ -138690,7 +138727,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2020-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-adventures-2020-02-the-obstacle-course-part-2",
     "title": "Star Wars Adventures (2020) #02 - The Obstacle Course part 2"
   },
@@ -142882,7 +142920,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2014-04-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-comic-2013",
     "title": "Star Wars Comic (2013)"
   },
@@ -154206,7 +154245,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2000-08-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-kids-1999",
     "title": "Star Wars Kids (1999)"
   },
@@ -154413,7 +154453,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1980-03-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-marvel-uk",
     "title": "Star Wars (Marvel UK)"
   },
@@ -160592,7 +160633,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2009-12-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-the-clone-wars-comic",
     "title": "Star Wars: The Clone Wars Comic"
   },
@@ -160758,7 +160800,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-12-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-the-force-awakens-a-junior-novel",
     "title": "Star Wars: The Force Awakens: A Junior Novel"
   },
@@ -163919,7 +163962,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2006-03-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "tag-bink-ii",
     "title": "Tag & Bink II"
   },
@@ -170698,7 +170742,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-02-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-art-of-star-wars-the-acolyte",
     "title": "The Art of Star Wars: The Acolyte"
   },
@@ -181131,7 +181176,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2008-10-02T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-clone-wars-webcomics",
     "title": "The Clone Wars (webcomics)"
   },
@@ -181358,7 +181404,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-11-30T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-crimson-corsair-and-the-lost-treasure-of-count-dooku",
     "title": "The Crimson Corsair and the Lost Treasure of Count Dooku"
   },
@@ -188845,7 +188892,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-03-25T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders",
     "synopsis": "The High Republic Adventures: Pathfinders Trade Paperback collecting all six issues from Dark Comics The High Republic Adventures: Pathfinders Series A new team of Republic Pathfinders bravely ventures into a distant corner of the galaxy to investigate a Jedi's mysterious death in this six-issue mini-series! The strange death of Jedi Master Atticus Cale has sent shock waves through the High Republic! Investigating the mysterious tragedy is a brand-new team of Republic Pathfinders: stoic Jedi Master Temesh, his ever-eager Padawan Anula, cynical medic Harby, bubbly pilot Pol, and their flying lizard companion Ezal! In their search for the truth of the Jedi's demise, the Pathfinder team explores the furthest reaches of the known galaxy. There, they encounter cruel alien despots, weird hyperspace abnormalities, and giant monsters. But the truth poses the greatest threat of all as the Pathfinders finally face who - or what - killed Master Cale!",
     "title": "The High Republic Adventures: Pathfinders"
@@ -188859,7 +188907,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-03-25T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-1",
     "title": "The High Republic Adventures: Pathfinders #1"
   },
@@ -188872,7 +188921,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-05-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-2",
     "title": "The High Republic Adventures: Pathfinders #2"
   },
@@ -188885,7 +188935,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-07-08T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-3",
     "title": "The High Republic Adventures: Pathfinders #3"
   },
@@ -188926,7 +188977,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-08-19T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-4",
     "synopsis": "Mysterious happenings in the Outer Rim have led Jedi Master Temesh, Padawan Anula, and the rest of the Pathfinder team to a seemingly abandoned listening station. Yet to their horror the station’s twisting corridors are all but empty, bristling with hazardous traps and stalked by killer droids. Someone, or something, has been waiting for the Pathfinders . . . Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Six-issue series.",
     "title": "The High Republic Adventures: Pathfinders #4"
@@ -199856,7 +199908,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1999-05-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-phantom-menace-junior-novelization",
     "title": "Star Wars: Episode I The Phantom Menace (junior novelization)"
   },
@@ -205433,7 +205486,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-04-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "true-love-short-story",
     "title": "True Love"
   },
@@ -209131,7 +209185,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-07-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "william-shakespeares-jedi-the-last",
     "title": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth"
   },

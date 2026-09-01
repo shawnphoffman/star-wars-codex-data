@@ -22,7 +22,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2016-04-05T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "a-recipe-for-death",
   "title": "A Recipe for Death"
 }

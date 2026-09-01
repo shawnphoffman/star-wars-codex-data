@@ -22,7 +22,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2011-02-21T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "lost-tribe-of-the-sith-sentinel",
   "title": "Lost Tribe of the Sith: Sentinel"
 }

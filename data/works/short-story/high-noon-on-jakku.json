@@ -22,7 +22,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2015-11-30T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "high-noon-on-jakku",
   "title": "High Noon on Jakku"
 }

@@ -6,7 +6,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2000-08-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-kids-1999",
   "title": "Star Wars Kids (1999)"
 }

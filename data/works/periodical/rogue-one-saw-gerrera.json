@@ -6,7 +6,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2026-07-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "rogue-one-saw-gerrera",
   "title": "Rogue One: Saw Gerrera"
 }

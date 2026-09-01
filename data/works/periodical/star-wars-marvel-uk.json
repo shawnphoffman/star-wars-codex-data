@@ -6,7 +6,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "1980-03-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-marvel-uk",
   "title": "Star Wars (Marvel UK)"
 }

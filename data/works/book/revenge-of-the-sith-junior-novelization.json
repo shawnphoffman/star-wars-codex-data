@@ -36,7 +36,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2005-05-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "revenge-of-the-sith-junior-novelization",
   "title": "Star Wars: Episode III Revenge of the Sith (junior novelization)"
 }
