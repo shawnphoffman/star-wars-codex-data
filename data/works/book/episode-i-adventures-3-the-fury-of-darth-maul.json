@@ -8,7 +8,28 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode I Adventures: The Fury of Darth Maul",
+  "displayTitle": "Episode I Adventures 3: The Fury of Darth Maul",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101409"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101400"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101409",
+      "isbn13": "9780439101400",
+      "kind": "print",
+      "onsale": "1999-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
@@ -38,5 +59,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-3-the-fury-of-darth-maul",
   "synopsis": "Darth Sidious recruits the help of another Sith Lord to take back something that belongs to him.",
-  "title": "Episode I Adventures: The Fury of Darth Maul"
+  "title": "Episode I Adventures 3: The Fury of Darth Maul"
 }

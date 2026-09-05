@@ -8,11 +8,41 @@
       "slug": "dave-wolverton"
     }
   ],
-  "displayTitle": "Episode I Adventures: The Hunt for Anakin Skywalker",
+  "displayTitle": "Episode I Adventures 6: The Hunt for Anakin Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101433"
+    },
+    {
+      "type": "isbn10",
+      "value": "0439129893"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439129893"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 100,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439129893",
+      "isbn13": "9780439129893",
+      "kind": "print",
+      "onsale": "2000-02-01T00:00:00.000Z"
+    },
+    {
+      "isPrimary": false,
+      "isbn10": "0439101433",
+      "kind": "print"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -32
+    "startYear": -33
   },
   "periodical": {
     "imprint": "Scholastic"
@@ -38,5 +68,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-6-the-hunt-for-anakin-skywalker",
   "synopsis": "Gardulla the Hutt has sent trackers after young Anakin Skywalker. It’s not going to be so easy to escape trouble this time.",
-  "title": "Episode I Adventures: The Hunt for Anakin Skywalker"
+  "title": "Episode I Adventures 6: The Hunt for Anakin Skywalker"
 }

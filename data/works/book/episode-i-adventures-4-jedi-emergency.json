@@ -8,7 +8,28 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode I Adventures: Jedi Emergency",
+  "displayTitle": "Episode I Adventures 4: Jedi Emergency",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101417"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101417"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 92,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101417",
+      "isbn13": "9780439101417",
+      "kind": "print",
+      "onsale": "1999-12-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
@@ -38,5 +59,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-4-jedi-emergency",
   "synopsis": "Masters Yoda and Mace Windu are sent to a distant planet to help save a Force-sensitive girl and her world.",
-  "title": "Episode I Adventures: Jedi Emergency"
+  "title": "Episode I Adventures 4: Jedi Emergency"
 }

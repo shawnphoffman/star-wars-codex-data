@@ -8,7 +8,28 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode I Adventures: The Bartokk Assassins",
+  "displayTitle": "Episode I Adventures 2: The Bartokk Assassins",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101395"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101394"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 91,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101395",
+      "isbn13": "9780439101394",
+      "kind": "print",
+      "onsale": "1999-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
@@ -38,5 +59,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-2-the-bartokk-assassins",
   "synopsis": "A group of deadly assassins with Trade Federation weapons is bad enough. Now they've kidnapped a child, and only the Jedi can save the day.",
-  "title": "Episode I Adventures: The Bartokk Assassins"
+  "title": "Episode I Adventures 2: The Bartokk Assassins"
 }

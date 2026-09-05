@@ -8,7 +8,28 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Episode I Adventures: Search for the Lost Jedi",
+  "displayTitle": "Episode I Adventures 1: Search for the Lost Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101387"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101387"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101387",
+      "isbn13": "9780439101387",
+      "kind": "print",
+      "onsale": "1999-09-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
@@ -38,5 +59,5 @@
   "releaseStatus": "released",
   "slug": "episode-i-adventures-1-search-for-the-lost-jedi",
   "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it’s too late?",
-  "title": "Episode I Adventures: Search for the Lost Jedi"
+  "title": "Episode I Adventures 1: Search for the Lost Jedi"
 }

@@ -16,10 +16,6 @@
     },
     {
       "type": "isbn13",
-      "value": "9780439101387"
-    },
-    {
-      "type": "isbn13",
       "value": "9780439458795"
     }
   ],
@@ -28,14 +24,6 @@
       "isPrimary": false,
       "isbn10": "043945879X",
       "kind": "print"
-    },
-    {
-      "extent": 96,
-      "imprint": "Scholastic",
-      "isPrimary": false,
-      "isbn13": "9780439101387",
-      "kind": "print",
-      "onsale": "1999-09-01T00:00:00.000Z"
     },
     {
       "extent": 90,
@@ -51,7 +39,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "1999-09-01T00:00:00.000Z",
+  "releaseDate": "2002-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-1-hunt-the-sun-runner",

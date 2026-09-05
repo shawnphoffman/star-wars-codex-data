@@ -16,10 +16,6 @@
     },
     {
       "type": "isbn13",
-      "value": "9780439101400"
-    },
-    {
-      "type": "isbn13",
       "value": "9780439458818"
     },
     {
@@ -28,14 +24,6 @@
     }
   ],
   "editions": [
-    {
-      "extent": 96,
-      "imprint": "Scholastic",
-      "isPrimary": false,
-      "isbn13": "9780439101400",
-      "kind": "print",
-      "onsale": "1999-11-01T00:00:00.000Z"
-    },
     {
       "extent": 90,
       "imprint": "Scholastic",
@@ -56,7 +44,7 @@
   "inUniverseDate": {
     "startYear": -23
   },
-  "releaseDate": "1999-11-01T00:00:00.000Z",
+  "releaseDate": "2002-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-adventures-3-the-hostage-princess",

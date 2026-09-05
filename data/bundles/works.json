@@ -51828,7 +51828,28 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures: Search for the Lost Jedi",
+    "displayTitle": "Episode I Adventures 1: Search for the Lost Jedi",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101387"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439101387"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 96,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439101387",
+        "isbn13": "9780439101387",
+        "kind": "print",
+        "onsale": "1999-09-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
@@ -51858,7 +51879,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-1-search-for-the-lost-jedi",
     "synopsis": "Qui-Gon Jinn and Obi-Wan Kenobi are on a mission to rescue a missing Jedi Master. Will they locate the lost Jedi before it’s too late?",
-    "title": "Episode I Adventures: Search for the Lost Jedi"
+    "title": "Episode I Adventures 1: Search for the Lost Jedi"
   },
   {
     "bookType": "juniorReader",
@@ -52245,7 +52266,28 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures: The Bartokk Assassins",
+    "displayTitle": "Episode I Adventures 2: The Bartokk Assassins",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101395"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439101394"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 91,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439101395",
+        "isbn13": "9780439101394",
+        "kind": "print",
+        "onsale": "1999-10-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
@@ -52275,7 +52317,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-2-the-bartokk-assassins",
     "synopsis": "A group of deadly assassins with Trade Federation weapons is bad enough. Now they've kidnapped a child, and only the Jedi can save the day.",
-    "title": "Episode I Adventures: The Bartokk Assassins"
+    "title": "Episode I Adventures 2: The Bartokk Assassins"
   },
   {
     "bookType": "juniorReader",
@@ -52287,7 +52329,28 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures: The Fury of Darth Maul",
+    "displayTitle": "Episode I Adventures 3: The Fury of Darth Maul",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101409"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439101400"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 96,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439101409",
+        "isbn13": "9780439101400",
+        "kind": "print",
+        "onsale": "1999-11-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
@@ -52317,7 +52380,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-3-the-fury-of-darth-maul",
     "synopsis": "Darth Sidious recruits the help of another Sith Lord to take back something that belongs to him.",
-    "title": "Episode I Adventures: The Fury of Darth Maul"
+    "title": "Episode I Adventures 3: The Fury of Darth Maul"
   },
   {
     "bookType": "juniorReader",
@@ -52329,7 +52392,28 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Episode I Adventures: Jedi Emergency",
+    "displayTitle": "Episode I Adventures 4: Jedi Emergency",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101417"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439101417"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 92,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439101417",
+        "isbn13": "9780439101417",
+        "kind": "print",
+        "onsale": "1999-12-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
@@ -52359,7 +52443,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-4-jedi-emergency",
     "synopsis": "Masters Yoda and Mace Windu are sent to a distant planet to help save a Force-sensitive girl and her world.",
-    "title": "Episode I Adventures: Jedi Emergency"
+    "title": "Episode I Adventures 4: Jedi Emergency"
   },
   {
     "bookType": "juniorReader",
@@ -52371,11 +52455,32 @@
         "slug": "dave-wolverton"
       }
     ],
-    "displayTitle": "Episode I Adventures: The Ghostling Children",
+    "displayTitle": "Episode I Adventures 5: The Ghostling Children",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101425"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439101424"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 128,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439101425",
+        "isbn13": "9780439101424",
+        "kind": "print",
+        "onsale": "2000-01-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -33
     },
     "periodical": {
       "imprint": "Scholastic"
@@ -52401,7 +52506,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-5-the-ghostling-children",
     "synopsis": "The Ghostling children have been captured and brought to the strange, hostile world of Tatooine. Their only hope of escape is a young slave named Anakin Skywalker.",
-    "title": "Episode I Adventures: The Ghostling Children"
+    "title": "Episode I Adventures 5: The Ghostling Children"
   },
   {
     "bookType": "juniorReader",
@@ -52413,11 +52518,41 @@
         "slug": "dave-wolverton"
       }
     ],
-    "displayTitle": "Episode I Adventures: The Hunt for Anakin Skywalker",
+    "displayTitle": "Episode I Adventures 6: The Hunt for Anakin Skywalker",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439101433"
+      },
+      {
+        "type": "isbn10",
+        "value": "0439129893"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439129893"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 100,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439129893",
+        "isbn13": "9780439129893",
+        "kind": "print",
+        "onsale": "2000-02-01T00:00:00.000Z"
+      },
+      {
+        "isPrimary": false,
+        "isbn10": "0439101433",
+        "kind": "print"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -32
+      "startYear": -33
     },
     "periodical": {
       "imprint": "Scholastic"
@@ -52443,7 +52578,7 @@
     "releaseStatus": "released",
     "slug": "episode-i-adventures-6-the-hunt-for-anakin-skywalker",
     "synopsis": "Gardulla the Hutt has sent trackers after young Anakin Skywalker. It’s not going to be so easy to escape trouble this time.",
-    "title": "Episode I Adventures: The Hunt for Anakin Skywalker"
+    "title": "Episode I Adventures 6: The Hunt for Anakin Skywalker"
   },
   {
     "bookType": "juniorReader",
@@ -137432,10 +137567,6 @@
       },
       {
         "type": "isbn13",
-        "value": "9780439101387"
-      },
-      {
-        "type": "isbn13",
         "value": "9780439458795"
       }
     ],
@@ -137444,14 +137575,6 @@
         "isPrimary": false,
         "isbn10": "043945879X",
         "kind": "print"
-      },
-      {
-        "extent": 96,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn13": "9780439101387",
-        "kind": "print",
-        "onsale": "1999-09-01T00:00:00.000Z"
       },
       {
         "extent": 90,
@@ -137467,7 +137590,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "1999-09-01T00:00:00.000Z",
+    "releaseDate": "2002-10-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-1-hunt-the-sun-runner",
@@ -137880,10 +138003,6 @@
     "editionIds": [
       {
         "type": "isbn10",
-        "value": "0439101395"
-      },
-      {
-        "type": "isbn10",
         "value": "0439458803"
       },
       {
@@ -137892,21 +138011,6 @@
       }
     ],
     "editions": [
-      {
-        "extent": 91,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "kind": "print",
-        "onsale": "1999-10-01T00:00:00.000Z"
-      },
-      {
-        "extent": 91,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439101395",
-        "kind": "print",
-        "onsale": "1999-10-01T00:00:00.000Z"
-      },
       {
         "isPrimary": false,
         "isbn10": "0439458803",
@@ -137926,7 +138030,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "1999-10-01T00:00:00.000Z",
+    "releaseDate": "2002-11-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-2-the-cavern-of-screaming-skulls",
@@ -139429,10 +139533,6 @@
       },
       {
         "type": "isbn13",
-        "value": "9780439101400"
-      },
-      {
-        "type": "isbn13",
         "value": "9780439458818"
       },
       {
@@ -139441,14 +139541,6 @@
       }
     ],
     "editions": [
-      {
-        "extent": 96,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn13": "9780439101400",
-        "kind": "print",
-        "onsale": "1999-11-01T00:00:00.000Z"
-      },
       {
         "extent": 90,
         "imprint": "Scholastic",
@@ -139469,7 +139561,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "1999-11-01T00:00:00.000Z",
+    "releaseDate": "2002-12-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-3-the-hostage-princess",
@@ -139490,15 +139582,7 @@
     "editionIds": [
       {
         "type": "isbn10",
-        "value": "0439101417"
-      },
-      {
-        "type": "isbn10",
         "value": "0439458838"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439101417"
       },
       {
         "type": "isbn13",
@@ -139506,22 +139590,6 @@
       }
     ],
     "editions": [
-      {
-        "extent": 92,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439101417",
-        "kind": "print",
-        "onsale": "1999-12-01T00:00:00.000Z"
-      },
-      {
-        "extent": 92,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn13": "9780439101417",
-        "kind": "print",
-        "onsale": "1999-12-01T00:00:00.000Z"
-      },
       {
         "extent": 86,
         "imprint": "Scholastic",
@@ -139537,7 +139605,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "1999-12-01T00:00:00.000Z",
+    "releaseDate": "2003-01-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-4-jango-fett-vs-the-razor-eaters",
@@ -139618,10 +139686,6 @@
       },
       {
         "type": "isbn13",
-        "value": "9780439101424"
-      },
-      {
-        "type": "isbn13",
         "value": "9780439458849"
       }
     ],
@@ -139630,14 +139694,6 @@
         "isPrimary": false,
         "isbn10": "0439458846",
         "kind": "print"
-      },
-      {
-        "extent": 128,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn13": "9780439101424",
-        "kind": "print",
-        "onsale": "2000-01-01T00:00:00.000Z"
       },
       {
         "extent": 82,
@@ -139653,7 +139709,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "2000-01-01T00:00:00.000Z",
+    "releaseDate": "2003-02-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-5-the-shape-shifter-strikes",
@@ -139679,15 +139735,7 @@
     "editionIds": [
       {
         "type": "isbn10",
-        "value": "0439101433"
-      },
-      {
-        "type": "isbn10",
         "value": "0439458854"
-      },
-      {
-        "type": "isbn13",
-        "value": "9780439129893"
       },
       {
         "type": "isbn13",
@@ -139696,25 +139744,9 @@
     ],
     "editions": [
       {
-        "extent": 100,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn10": "0439101433",
-        "kind": "print",
-        "onsale": "2000-02-01T00:00:00.000Z"
-      },
-      {
         "isPrimary": false,
         "isbn10": "0439458854",
         "kind": "print"
-      },
-      {
-        "extent": 100,
-        "imprint": "Scholastic",
-        "isPrimary": false,
-        "isbn13": "9780439129893",
-        "kind": "print",
-        "onsale": "2000-02-01T00:00:00.000Z"
       },
       {
         "extent": 126,
@@ -139730,7 +139762,7 @@
     "inUniverseDate": {
       "startYear": -23
     },
-    "releaseDate": "2000-02-01T00:00:00.000Z",
+    "releaseDate": "2003-03-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-adventures-6-the-warlords-of-balmorra",
