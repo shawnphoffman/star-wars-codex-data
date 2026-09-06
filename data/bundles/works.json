@@ -145501,6 +145501,38 @@
     "title": "Star Wars®: Episode V: The Empire Strikes Back™"
   },
   {
+    "bookType": "other",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Ryder Windham",
+        "role": "author",
+        "slug": "ryder-windham"
+      }
+    ],
+    "displayTitle": "Episode VI: Return of the Jedi",
+    "editionIds": [
+      {
+        "type": "isbn13",
+        "value": "9780545482356"
+      }
+    ],
+    "editions": [
+      {
+        "isPrimary": true,
+        "isbn13": "9780545482356",
+        "kind": "print"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDisplayState": "announced",
+    "slug": "star-wars-episode-vi-return-of-the-jedi",
+    "title": "Star Wars: Episode VI: Return of the Jedi"
+  },
+  {
     "canonStatus": "canon",
     "creators": [
       {
