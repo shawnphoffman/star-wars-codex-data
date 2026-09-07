@@ -5,19 +5,42 @@
   "editionIds": [
     {
       "type": "isbn13",
+      "value": "9780439681230"
+    },
+    {
+      "type": "isbn13",
       "value": "9780545482325"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484717226"
     }
   ],
   "editions": [
     {
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn13": "9780439681230",
+      "kind": "print",
+      "onsale": "2004-10-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
       "isbn13": "9780545482325",
       "kind": "print"
+    },
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": false,
+      "isbn13": "9781484717226",
+      "kind": "ebook",
+      "onsale": "2014-05-04T00:00:00.000Z"
     }
   ],
   "format": "book",
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-episode-iv-a-new-hope",
   "synopsis": "A long time ago in a galaxy far, far away... A young Jedi is discovered. A rebellion grows. A deadly weapon unleashes its power. A master confronts his old apprentice. The journey begins a new chapter.",
   "title": "Star Wars: Episode IV: A New Hope"
