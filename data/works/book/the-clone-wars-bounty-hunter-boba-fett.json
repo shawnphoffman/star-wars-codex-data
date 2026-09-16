@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Bounty Hunter: Boba Fett",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448454130"
+    },
+    {
       "type": "isbn13",
       "value": "9780448454139"
     }
@@ -20,12 +24,13 @@
       "extent": 80,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448454130",
       "isbn13": "9780448454139",
       "kind": "print",
       "onsale": "2010-05-13T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -21

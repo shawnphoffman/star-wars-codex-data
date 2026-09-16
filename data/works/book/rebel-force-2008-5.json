@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0545140854"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545140850"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0545140854",
+      "isbn13": "9780545140850",
       "kind": "print",
       "onsale": "2010-01-01T00:00:00.000Z"
     }

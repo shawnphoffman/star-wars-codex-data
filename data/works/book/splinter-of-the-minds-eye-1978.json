@@ -21,14 +21,10 @@
   ],
   "editions": [
     {
-      "isPrimary": true,
-      "isbn10": "0345275667",
-      "kind": "print"
-    },
-    {
       "extent": 224,
       "imprint": "Del Rey",
-      "isPrimary": false,
+      "isPrimary": true,
+      "isbn10": "0345275667",
       "isbn13": "9780345275660",
       "kind": "print",
       "onsale": "1978-02-12T00:00:00.000Z"

@@ -11,8 +11,16 @@
   "displayTitle": "The Wrath of Darth Maul",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0545433673"
+    },
+    {
       "type": "isbn13",
       "value": "9780545383271"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545433679"
     }
   ],
   "editions": [
@@ -23,13 +31,22 @@
       "isbn13": "9780545383271",
       "kind": "print",
       "onsale": "2012-01-01T00:00:00.000Z"
+    },
+    {
+      "extent": 224,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0545433673",
+      "isbn13": "9780545433679",
+      "kind": "print",
+      "onsale": "2012-01-01T00:00:00.000Z"
     }
   ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": -20,
-    "startYear": -51
+    "startYear": -21
   },
   "releaseDate": "2012-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",

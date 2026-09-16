@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0439681359"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439681353"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0439681359",
+      "isbn13": "9780439681353",
       "kind": "print",
       "onsale": "2005-08-01T00:00:00.000Z"
     }

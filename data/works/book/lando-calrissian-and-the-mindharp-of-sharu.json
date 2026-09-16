@@ -13,6 +13,10 @@
     {
       "type": "isbn13",
       "value": "9780345311580"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345391100"
     }
   ],
   "editions": [
@@ -23,9 +27,17 @@
       "isbn13": "9780345311580",
       "kind": "print",
       "onsale": "1983-06-12T00:00:00.000Z"
+    },
+    {
+      "extent": 192,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780345391100",
+      "kind": "print",
+      "onsale": "1983-06-12T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -4

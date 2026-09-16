@@ -11,6 +11,10 @@
   "displayTitle": "The Last of the Jedi: Master of Deception",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439681421"
+    },
+    {
       "type": "isbn13",
       "value": "9780439681421"
     }
@@ -20,6 +24,7 @@
       "extent": 154,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439681421",
       "isbn13": "9780439681421",
       "kind": "print",
       "onsale": "2008-02-01T00:00:00.000Z"

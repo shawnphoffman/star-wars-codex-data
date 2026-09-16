@@ -26,17 +26,10 @@
   ],
   "editions": [
     {
-      "extent": 288,
+      "extent": 304,
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345477588",
-      "kind": "print",
-      "onsale": "2009-01-27T00:00:00.000Z"
-    },
-    {
-      "extent": 304,
-      "imprint": "Del Rey",
-      "isPrimary": false,
       "isbn13": "9780345477583",
       "kind": "print",
       "onsale": "2009-01-27T00:00:00.000Z"

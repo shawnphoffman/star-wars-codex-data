@@ -21,14 +21,10 @@
   ],
   "editions": [
     {
-      "isPrimary": false,
-      "isbn10": "0345475720",
-      "kind": "print"
-    },
-    {
       "extent": 452,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345475720",
       "isbn13": "9780345475725",
       "kind": "print",
       "onsale": "2005-01-25T00:00:00.000Z"

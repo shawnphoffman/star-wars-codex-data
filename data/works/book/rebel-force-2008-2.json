@@ -11,6 +11,10 @@
   "displayTitle": "Rebel Force: Hostage",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0545112184"
+    },
+    {
       "type": "isbn13",
       "value": "9780545112185"
     }
@@ -20,9 +24,10 @@
       "extent": 188,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0545112184",
       "isbn13": "9780545112185",
       "kind": "print",
-      "onsale": "2009-01-01T00:00:00.000Z"
+      "onsale": "2008-12-02T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
@@ -37,7 +42,7 @@
     "rebel-force-2008-5",
     "rebel-force-2008-6"
   ],
-  "releaseDate": "2009-01-01T00:00:00.000Z",
+  "releaseDate": "2008-12-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-force-2008-2",

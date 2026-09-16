@@ -21,20 +21,16 @@
   ],
   "editions": [
     {
-      "isPrimary": false,
-      "isbn10": "0590519255",
-      "kind": "print"
-    },
-    {
       "extent": 128,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590519255",
       "isbn13": "9780590519250",
       "kind": "print",
       "onsale": "1999-05-03T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -44

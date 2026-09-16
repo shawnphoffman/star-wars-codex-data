@@ -23,21 +23,14 @@
     {
       "extent": 144,
       "imprint": "Scholastic",
-      "isPrimary": false,
-      "isbn10": "0590519344",
-      "kind": "print",
-      "onsale": "1999-10-01T00:00:00.000Z"
-    },
-    {
-      "extent": 144,
-      "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590519344",
       "isbn13": "9780590519342",
       "kind": "print",
       "onsale": "1999-10-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -44

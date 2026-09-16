@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Journal: Captive to Evil",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780590959520"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 104,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn13": "9780590959520",
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

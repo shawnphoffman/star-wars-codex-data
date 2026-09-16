@@ -11,6 +11,10 @@
   "displayTitle": "Rebel Force: Renegade",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0545112117"
+    },
+    {
       "type": "isbn13",
       "value": "9780545112116"
     }
@@ -20,6 +24,7 @@
       "extent": 176,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0545112117",
       "isbn13": "9780545112116",
       "kind": "print",
       "onsale": "2009-05-01T00:00:00.000Z"

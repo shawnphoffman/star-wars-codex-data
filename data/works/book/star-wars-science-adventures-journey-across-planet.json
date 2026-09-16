@@ -16,6 +16,10 @@
   "displayTitle": "Science Adventures: Journey Across Planet X",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590202286"
+    },
+    {
       "type": "isbn13",
       "value": "9780590202282"
     }
@@ -25,6 +29,7 @@
       "extent": 128,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590202286",
       "isbn13": "9780590202282",
       "kind": "print",
       "onsale": "1999-02-01T00:00:00.000Z"

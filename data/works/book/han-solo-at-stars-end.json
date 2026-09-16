@@ -31,6 +31,10 @@
   "displayTitle": "Han Solo At Stars' End",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345379802"
+    },
+    {
       "type": "isbn13",
       "value": "9780345282514"
     },
@@ -52,12 +56,13 @@
       "extent": 208,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0345379802",
       "isbn13": "9780345379801",
       "kind": "print",
       "onsale": "1979-04-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2

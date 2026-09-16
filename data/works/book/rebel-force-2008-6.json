@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0545140862"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545140867"
     }
   ],
   "editions": [
@@ -21,8 +25,9 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0545140862",
+      "isbn13": "9780545140867",
       "kind": "print",
-      "onsale": "2010-05-01T00:00:00.000Z"
+      "onsale": "2010-04-27T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",
@@ -37,7 +42,7 @@
     "rebel-force-2008-4",
     "rebel-force-2008-5"
   ],
-  "releaseDate": "2010-05-01T00:00:00.000Z",
+  "releaseDate": "2010-04-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "rebel-force-2008-6",

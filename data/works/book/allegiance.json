@@ -16,10 +16,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780099491972"
+    },
+    {
+      "type": "isbn13",
       "value": "9780345477385"
     }
   ],
   "editions": [
+    {
+      "extent": 336,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780099491972",
+      "kind": "print",
+      "onsale": "2007-01-30T00:00:00.000Z"
+    },
     {
       "extent": 324,
       "imprint": "Del Rey",

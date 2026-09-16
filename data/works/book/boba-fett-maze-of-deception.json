@@ -28,21 +28,14 @@
     {
       "extent": 137,
       "imprint": "Scholastic",
-      "isPrimary": false,
-      "isbn10": "0439442451",
-      "kind": "print",
-      "onsale": "2003-04-01T00:00:00.000Z"
-    },
-    {
-      "extent": 137,
-      "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439442451",
       "isbn13": "9780439442459",
       "kind": "print",
       "onsale": "2003-04-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

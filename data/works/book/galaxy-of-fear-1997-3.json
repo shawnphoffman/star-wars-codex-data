@@ -12,7 +12,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553484524"
+    },
+    {
+      "type": "isbn10",
       "value": "0553542982"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553484526"
     }
   ],
   "editions": [
@@ -21,6 +29,15 @@
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553542982",
+      "kind": "print",
+      "onsale": "1997-04-01T00:00:00.000Z"
+    },
+    {
+      "extent": 125,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn10": "0553484524",
+      "isbn13": "9780553484526",
       "kind": "print",
       "onsale": "1997-04-01T00:00:00.000Z"
     }

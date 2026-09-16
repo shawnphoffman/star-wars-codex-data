@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Darth Maul: Shadow Conspiracy",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0545470633"
+    },
+    {
       "type": "isbn13",
       "value": "9780545470636"
     }
@@ -20,12 +24,13 @@
       "extent": 160,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0545470633",
       "isbn13": "9780545470636",
       "kind": "print",
       "onsale": "2013-02-04T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20

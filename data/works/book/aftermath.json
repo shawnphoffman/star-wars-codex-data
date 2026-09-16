@@ -11,6 +11,10 @@
   "displayTitle": "Aftermath",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0593972694"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511621"
     },
@@ -32,6 +36,7 @@
       "extent": 410,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0593972694",
       "isbn13": "9780593972694",
       "kind": "print",
       "onsale": "2015-09-04T00:00:00.000Z"

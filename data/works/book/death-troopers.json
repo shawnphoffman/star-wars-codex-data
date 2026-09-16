@@ -13,6 +13,14 @@
     {
       "type": "isbn10",
       "value": "0345509625"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593497066"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593497067"
     }
   ],
   "editions": [
@@ -23,9 +31,18 @@
       "isbn10": "0345509625",
       "kind": "print",
       "onsale": "2009-10-13T00:00:00.000Z"
+    },
+    {
+      "extent": 265,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0593497066",
+      "isbn13": "9780593497067",
+      "kind": "print",
+      "onsale": "2009-10-13T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1

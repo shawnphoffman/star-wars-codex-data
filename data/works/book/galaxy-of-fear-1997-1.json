@@ -11,6 +11,10 @@
   "displayTitle": "Galaxy of Fear: Eaten Alive",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553484508"
+    },
+    {
       "type": "isbn13",
       "value": "9780553484502"
     }
@@ -20,6 +24,7 @@
       "extent": 160,
       "imprint": "Bantam Skylark",
       "isPrimary": true,
+      "isbn10": "0553484508",
       "isbn13": "9780553484502",
       "kind": "print",
       "onsale": "1997-01-01T00:00:00.000Z"

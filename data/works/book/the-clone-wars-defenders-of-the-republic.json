@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Defenders of the Republic",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448454645"
+    },
+    {
       "type": "isbn13",
       "value": "9780448454641"
     }
@@ -20,12 +24,13 @@
       "extent": 160,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448454645",
       "isbn13": "9780448454641",
       "kind": "print",
       "onsale": "2010-10-07T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

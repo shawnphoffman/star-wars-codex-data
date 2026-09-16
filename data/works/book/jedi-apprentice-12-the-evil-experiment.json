@@ -21,20 +21,16 @@
   ],
   "editions": [
     {
-      "isPrimary": false,
-      "isbn10": "0439139317",
-      "kind": "print"
-    },
-    {
       "extent": 160,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439139317",
       "isbn13": "9780439139311",
       "kind": "print",
       "onsale": "2001-02-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -43

@@ -11,6 +11,10 @@
   "displayTitle": "Chopper Saves the Day",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0606352848"
+    },
+    {
       "type": "isbn13",
       "value": "9780606352840"
     },
@@ -24,6 +28,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "0606352848",
       "isbn13": "9780606352840",
       "kind": "print",
       "onsale": "2014-08-05T00:00:00.000Z"

@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0439681383"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439681384"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0439681383",
+      "isbn13": "9780439681384",
       "kind": "print",
       "onsale": "2006-07-01T00:00:00.000Z"
     }
@@ -28,7 +33,7 @@
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -19
+    "startYear": -18
   },
   "relatedWorkSlugs": [
     "the-last-of-the-jedi-2005-1",

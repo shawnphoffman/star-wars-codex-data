@@ -15,6 +15,10 @@
       "value": "0439101441"
     },
     {
+      "type": "isbn10",
+      "value": "0439129907"
+    },
+    {
       "type": "isbn13",
       "value": "9780439129909"
     }
@@ -32,12 +36,13 @@
       "extent": 91,
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "0439129907",
       "isbn13": "9780439129909",
       "kind": "print",
       "onsale": "2000-03-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33

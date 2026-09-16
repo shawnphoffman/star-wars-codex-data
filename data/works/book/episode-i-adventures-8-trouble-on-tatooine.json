@@ -16,6 +16,10 @@
   "displayTitle": "Episode I Adventures 8: Trouble on Tatooine",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439147425"
+    },
+    {
       "type": "isbn13",
       "value": "9780439147422"
     },
@@ -29,6 +33,7 @@
       "extent": 97,
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "0439147425",
       "isbn13": "9780439147422",
       "kind": "print",
       "onsale": "2000-04-01T00:00:00.000Z"
@@ -42,7 +47,7 @@
       "onsale": "2017-05-02T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33

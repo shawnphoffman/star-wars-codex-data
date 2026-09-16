@@ -16,6 +16,10 @@
   "displayTitle": "Science Adventures: Emergency in Escape Pod Four",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0590202278"
+    },
+    {
       "type": "isbn13",
       "value": "9780590202275"
     }
@@ -25,6 +29,7 @@
       "extent": 96,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590202278",
       "isbn13": "9780590202275",
       "kind": "print",
       "onsale": "1999-02-01T00:00:00.000Z"

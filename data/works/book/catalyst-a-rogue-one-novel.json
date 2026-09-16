@@ -11,6 +11,10 @@
   "displayTitle": "Catalyst",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511492"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511492"
     }
@@ -20,6 +24,7 @@
       "extent": 330,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511492",
       "isbn13": "9780345511492",
       "kind": "print",
       "onsale": "2016-11-15T00:00:00.000Z"

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Wild Space",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345509013"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345509017"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 342,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345509013",
+      "isbn13": "9780345509017",
+      "kind": "print",
+      "onsale": "2008-12-09T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

@@ -13,7 +13,7 @@
       "slug": "maya-kaathryn-bohnhoff"
     }
   ],
-  "displayTitle": "The Last Jedi",
+  "displayTitle": "The Last Jedi (Legends)",
   "editionIds": [
     {
       "type": "isbn10",
@@ -21,10 +21,22 @@
     },
     {
       "type": "isbn13",
+      "value": "9780099542674"
+    },
+    {
+      "type": "isbn13",
       "value": "9780345511409"
     }
   ],
   "editions": [
+    {
+      "extent": 480,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn13": "9780099542674",
+      "kind": "print",
+      "onsale": "2013-02-26T00:00:00.000Z"
+    },
     {
       "extent": 496,
       "imprint": "Random House",
@@ -37,9 +49,13 @@
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
+  "inUniverseDate": {
+    "endYear": -17,
+    "startYear": -18
+  },
   "releaseDate": "2013-02-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-jedi-coruscant-nights",
-  "title": "The Last Jedi"
+  "title": "The Last Jedi (Legends)"
 }

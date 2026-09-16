@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "0345511204"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511201"
     }
   ],
   "editions": [
@@ -26,6 +30,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345511204",
+      "isbn13": "9780345511201",
       "kind": "print",
       "onsale": "2011-11-29T00:00:00.000Z"
     }
@@ -33,7 +38,7 @@
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -1
+    "startYear": 0
   },
   "releaseDate": "2011-11-29T00:00:00.000Z",
   "releaseDisplayState": "released",

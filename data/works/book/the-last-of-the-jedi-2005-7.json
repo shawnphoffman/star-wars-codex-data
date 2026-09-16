@@ -11,8 +11,16 @@
   "displayTitle": "The Last of the Jedi: Secret Weapon",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "9351033686"
+    },
+    {
       "type": "isbn13",
       "value": "9780439681407"
+    },
+    {
+      "type": "isbn13",
+      "value": "9789351033684"
     }
   ],
   "editions": [
@@ -23,12 +31,21 @@
       "isbn13": "9780439681407",
       "kind": "print",
       "onsale": "2007-04-01T00:00:00.000Z"
+    },
+    {
+      "extent": 149,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "9351033686",
+      "isbn13": "9789351033684",
+      "kind": "print",
+      "onsale": "2007-04-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
-    "startYear": -19
+    "startYear": -18
   },
   "relatedWorkSlugs": [
     "the-last-of-the-jedi-2005-1",

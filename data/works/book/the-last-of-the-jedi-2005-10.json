@@ -13,16 +13,21 @@
     {
       "type": "isbn10",
       "value": "043968143X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439681438"
     }
   ],
   "editions": [
     {
-      "extent": 151,
+      "extent": 160,
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "043968143X",
+      "isbn13": "9780439681438",
       "kind": "print",
-      "onsale": "2008-05-01T00:00:00.000Z"
+      "onsale": "2008-06-01T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
@@ -41,7 +46,7 @@
     "the-last-of-the-jedi-2005-8",
     "the-last-of-the-jedi-2005-9"
   ],
-  "releaseDate": "2008-05-01T00:00:00.000Z",
+  "releaseDate": "2008-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-last-of-the-jedi-2005-10",

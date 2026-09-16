@@ -21,20 +21,16 @@
   ],
   "editions": [
     {
-      "isPrimary": false,
-      "isbn10": "0345456831",
-      "kind": "print"
-    },
-    {
       "extent": 464,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345456831",
       "isbn13": "9780345456830",
       "kind": "print",
       "onsale": "2006-01-31T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -27

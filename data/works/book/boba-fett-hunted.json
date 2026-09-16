@@ -11,6 +11,10 @@
   "displayTitle": "Boba Fett: Hunted",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439339308"
+    },
+    {
       "type": "isbn13",
       "value": "9780439339308"
     }
@@ -20,12 +24,13 @@
       "extent": 153,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439339308",
       "isbn13": "9780439339308",
       "kind": "print",
       "onsale": "2003-10-01T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
+  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
