@@ -42,6 +42,10 @@
   ],
   "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "endYear": -230,
+    "startYear": -232
+  },
   "releaseDate": "2022-12-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

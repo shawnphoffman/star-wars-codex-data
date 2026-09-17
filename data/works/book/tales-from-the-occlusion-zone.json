@@ -40,7 +40,11 @@
       "onsale": "2026-07-07T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "releaseDate": "2026-07-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

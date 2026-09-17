@@ -50,6 +50,9 @@
   "displayTitle": "Allegiance #4",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "allegiance-0",
   "periodical": {
     "publicationKind": "comic"

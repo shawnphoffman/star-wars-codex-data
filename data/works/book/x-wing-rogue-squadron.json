@@ -1,0 +1,45 @@
+{
+  "bookType": "adultNovel",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael A. Stackpole",
+      "role": "writer",
+      "slug": "michael-a-stackpole"
+    }
+  ],
+  "displayTitle": "X-Wing: Rogue Squadron",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553568019"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553568011"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553568019",
+      "isbn13": "9780553568011",
+      "kind": "print",
+      "onsale": "1996-02-01T00:00:00.000Z"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 6
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-02-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "x-wing-rogue-squadron",
+  "title": "X-Wing: Rogue Squadron"
+}

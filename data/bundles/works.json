@@ -344,6 +344,11 @@
         "name": "Dave Filoni",
         "role": "writer",
         "slug": "dave-filoni"
+      },
+      {
+        "name": "Douglas Wheatley",
+        "role": "coverArtist",
+        "slug": "douglas-wheatley"
       }
     ],
     "displayTitle": "A New Dawn",
@@ -393,18 +398,9 @@
     "title": "A New Dawn"
   },
   {
-    "bookType": "other",
+    "bookType": "adultNovel",
     "canonStatus": "non-canon",
     "creators": [
-      {
-        "name": "Geof Smith",
-        "role": "writer",
-        "slug": "geof-smith"
-      },
-      {
-        "name": "Caleb Meurer",
-        "slug": "caleb-meurer"
-      },
       {
         "name": "Alan Dean Foster",
         "role": "writer",
@@ -420,7 +416,7 @@
     "editionIds": [
       {
         "type": "isbn10",
-        "value": "0736435387"
+        "value": "0345341465"
       },
       {
         "type": "isbn13",
@@ -428,39 +424,43 @@
       },
       {
         "type": "isbn13",
-        "value": "9780736435383"
+        "value": "9780345341464"
       }
     ],
     "editions": [
       {
+        "imprint": "Random House Audio",
+        "isPrimary": false,
+        "kind": "audio",
+        "onsale": "2027-02-02T00:00:00.000Z"
+      },
+      {
         "extent": 224,
         "imprint": "Ballantine Books",
-        "isPrimary": false,
+        "isPrimary": true,
         "isbn13": "9780345260611",
         "kind": "print",
         "onsale": "1976-11-12T00:00:00.000Z"
       },
       {
-        "extent": 24,
-        "imprint": "Golden Books",
-        "isPrimary": true,
-        "isbn10": "0736435387",
-        "isbn13": "9780736435383",
+        "extent": 224,
+        "imprint": "Ballantine Books",
+        "isPrimary": false,
+        "isbn10": "0345341465",
+        "isbn13": "9780345341464",
         "kind": "print",
-        "onsale": "2015-07-28T00:00:00.000Z"
-      },
-      {
-        "imprint": "Random House Audio",
-        "kind": "audio",
-        "onsale": "2027-02-02T00:00:00.000Z"
+        "onsale": "1976-11-12T00:00:00.000Z"
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "releaseDate": "1976-11-12T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "a-new-hope",
-    "synopsis": "The epic space saga, Star Wars: A New Hope , is finally retold in the iconic Little Golden Book format! Luke Skywalker begins a journey that will change the galaxy, as he leaves his home planet, battles the evil Empire, and learns the ways of the Force. Featuring stunning retro illustrations, this book is perfect for Star Wars —and Little Golden Book—fans of all ages!",
+    "synopsis": "The novelization of the original film, published months before its 1977 release as *Star Wars: From the Adventures of Luke Skywalker*.\n\nLuke Skywalker, a farm boy on the desert world of Tatooine, is drawn into the Rebellion when two droids carrying the stolen plans to the Empire’s Death Star fall into his hands. With the aging Jedi Obi-Wan Kenobi, the smuggler Han Solo, and the rescued Princess Leia Organa, he joins the fight to destroy the battle station before it can crush the Alliance.\n\nCredited to George Lucas and written by Alan Dean Foster, the book keeps scenes and background the finished film left out.",
     "title": "A New Hope"
   },
   {
@@ -661,6 +661,9 @@
     ],
     "displayTitle": "A New Hope: The Special Edition #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "parentWorkSlug": "a-new-hope-the-special-edition-1997",
     "periodical": {
       "publicationKind": "comic"
@@ -740,6 +743,9 @@
     ],
     "displayTitle": "A New Hope: The Special Edition #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "parentWorkSlug": "a-new-hope-the-special-edition-1997",
     "periodical": {
       "publicationKind": "comic"
@@ -811,6 +817,9 @@
     ],
     "displayTitle": "A New Hope: The Special Edition #3",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "parentWorkSlug": "a-new-hope-the-special-edition-1997",
     "periodical": {
       "publicationKind": "comic"
@@ -872,6 +881,9 @@
     ],
     "displayTitle": "A New Hope: The Special Edition #4",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "parentWorkSlug": "a-new-hope-the-special-edition-1997",
     "periodical": {
       "publicationKind": "comic"
@@ -1492,6 +1504,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "David M. Buisán",
+        "role": "artist",
+        "slug": "david-m-buisan"
+      },
+      {
+        "name": "Lucy Ruth Cummins",
+        "role": "coverArtist",
+        "slug": "lucy-ruth-cummins"
       }
     ],
     "displayTitle": "Adventures in Wild Space: The Cold",
@@ -1602,6 +1624,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "David M. Buisán",
+        "role": "artist",
+        "slug": "david-m-buisan"
+      },
+      {
+        "name": "Lucy Ruth Cummins",
+        "role": "coverArtist",
+        "slug": "lucy-ruth-cummins"
       }
     ],
     "displayTitle": "Adventures in Wild Space: The Escape",
@@ -1700,6 +1732,16 @@
         "name": "Tom Huddleston",
         "role": "writer",
         "slug": "tom-huddleston"
+      },
+      {
+        "name": "David M. Buisán",
+        "role": "artist",
+        "slug": "david-m-buisan"
+      },
+      {
+        "name": "Lucy Ruth Cummins",
+        "role": "coverArtist",
+        "slug": "lucy-ruth-cummins"
       }
     ],
     "displayTitle": "Adventures in Wild Space: The Nest",
@@ -1767,6 +1809,16 @@
         "name": "Tom Huddleston",
         "role": "writer",
         "slug": "tom-huddleston"
+      },
+      {
+        "name": "David M. Buisán",
+        "role": "artist",
+        "slug": "david-m-buisan"
+      },
+      {
+        "name": "Lucy Ruth Cummins",
+        "role": "coverArtist",
+        "slug": "lucy-ruth-cummins"
       }
     ],
     "displayTitle": "Adventures in Wild Space: The Rescue",
@@ -1811,6 +1863,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "David M. Buisán",
+        "role": "artist",
+        "slug": "david-m-buisan"
+      },
+      {
+        "name": "Lucy Ruth Cummins",
+        "role": "coverArtist",
+        "slug": "lucy-ruth-cummins"
       }
     ],
     "displayTitle": "Adventures in Wild Space: The Snare",
@@ -1867,6 +1929,11 @@
         "name": "Chuck Wendig",
         "role": "writer",
         "slug": "chuck-wendig"
+      },
+      {
+        "name": "Christopher M. Zucker",
+        "role": "coverArtist",
+        "slug": "christopher-m-zucker"
       }
     ],
     "displayTitle": "Aftermath",
@@ -1923,6 +1990,11 @@
         "name": "Chuck Wendig",
         "role": "writer",
         "slug": "chuck-wendig"
+      },
+      {
+        "name": "Christopher M. Zucker",
+        "role": "coverArtist",
+        "slug": "christopher-m-zucker"
       }
     ],
     "displayTitle": "Aftermath: Empire's End",
@@ -1967,6 +2039,11 @@
         "name": "Chuck Wendig",
         "role": "writer",
         "slug": "chuck-wendig"
+      },
+      {
+        "name": "Christopher M. Zucker",
+        "role": "coverArtist",
+        "slug": "christopher-m-zucker"
       }
     ],
     "displayTitle": "Aftermath: Life Debt",
@@ -3938,6 +4015,11 @@
         "name": "E.K. Johnston",
         "role": "writer",
         "slug": "e-k-johnston"
+      },
+      {
+        "name": "Wojtek Fus",
+        "role": "coverArtist",
+        "slug": "wojtek-fus"
       }
     ],
     "displayTitle": "Ahsoka",
@@ -5086,6 +5168,9 @@
     "displayTitle": "Allegiance #1",
     "era": "riseOfTheFirstOrder",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 34
+    },
     "parentWorkSlug": "allegiance-0",
     "periodical": {
       "publicationKind": "comic"
@@ -5149,6 +5234,9 @@
     "displayTitle": "Allegiance #2",
     "era": "riseOfTheFirstOrder",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 34
+    },
     "parentWorkSlug": "allegiance-0",
     "periodical": {
       "publicationKind": "comic"
@@ -5212,6 +5300,9 @@
     "displayTitle": "Allegiance #3",
     "era": "riseOfTheFirstOrder",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 34
+    },
     "parentWorkSlug": "allegiance-0",
     "periodical": {
       "publicationKind": "comic"
@@ -5275,6 +5366,9 @@
     "displayTitle": "Allegiance #4",
     "era": "riseOfTheFirstOrder",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 34
+    },
     "parentWorkSlug": "allegiance-0",
     "periodical": {
       "publicationKind": "comic"
@@ -5317,6 +5411,11 @@
         "name": "Alexander Freed",
         "role": "writer",
         "slug": "alexander-freed"
+      },
+      {
+        "name": "Jeff Langevin",
+        "role": "coverArtist",
+        "slug": "jeff-langevin"
       }
     ],
     "displayTitle": "Alphabet Squadron",
@@ -8082,7 +8181,7 @@
         "onsale": "2012-03-13T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 44
@@ -8149,7 +8248,7 @@
         "onsale": "2011-08-09T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 44
@@ -8293,7 +8392,7 @@
         "onsale": "2010-03-09T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 43
@@ -9684,7 +9783,7 @@
         "onsale": "2017-07-25T00:00:00.000Z"
       }
     ],
-    "era": "reignOfTheEmpire",
+    "era": "ageOfRebellion",
     "format": "book",
     "inUniverseDate": {
       "startYear": 0
@@ -9707,6 +9806,11 @@
         "name": "Alexander Freed",
         "role": "writer",
         "slug": "alexander-freed"
+      },
+      {
+        "name": "Aaron McBride",
+        "role": "coverArtist",
+        "slug": "aaron-mcbride"
       }
     ],
     "displayTitle": "Battlefront: Twilight Company",
@@ -9962,6 +10066,16 @@
         "name": "Greg Rucka",
         "role": "writer",
         "slug": "greg-rucka"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "artist",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "coverArtist",
+        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Before the Awakening",
@@ -10032,7 +10146,7 @@
       }
     ],
     "displayTitle": "Before the Storm",
-    "era": "ageOfRebellion",
+    "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "startYear": 16
@@ -10055,7 +10169,7 @@
       }
     ],
     "displayTitle": "Legacy of the Force: Betrayal",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -10749,6 +10863,11 @@
         "name": "Claudia Gray",
         "role": "writer",
         "slug": "claudia-gray"
+      },
+      {
+        "name": "Scott Biel",
+        "role": "coverArtist",
+        "slug": "scott-biel"
       }
     ],
     "displayTitle": "Bloodline",
@@ -10808,7 +10927,7 @@
       }
     ],
     "displayTitle": "Bloodlines",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -11396,7 +11515,8 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-09-17T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "boba-fett-black-white-red",
     "title": "Boba Fett: Black, White & Red"
   },
@@ -11446,11 +11566,15 @@
     ],
     "displayTitle": "Boba Fett: Black, White & Red (2025) #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 1
+    },
     "parentWorkSlug": "boba-fett-black-white-red",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-09-17T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "boba-fett-black-white-red-2025-1",
     "title": "Boba Fett: Black, White & Red (2025) #1"
   },
@@ -11495,11 +11619,15 @@
     ],
     "displayTitle": "Boba Fett: Black, White & Red (2025) #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 1
+    },
     "parentWorkSlug": "boba-fett-black-white-red",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-10-29T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "boba-fett-black-white-red-2025-2",
     "title": "Boba Fett: Black, White & Red (2025) #2"
   },
@@ -11544,11 +11672,15 @@
     ],
     "displayTitle": "Boba Fett: Black, White & Red (2025) #3",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 1
+    },
     "parentWorkSlug": "boba-fett-black-white-red",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-11-26T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "boba-fett-black-white-red-2025-3",
     "title": "Boba Fett: Black, White & Red (2025) #3"
   },
@@ -11598,11 +11730,15 @@
     ],
     "displayTitle": "Boba Fett: Black, White & Red (2025) #4",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 1
+    },
     "parentWorkSlug": "boba-fett-black-white-red",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-12-31T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "boba-fett-black-white-red-2025-4",
     "title": "Boba Fett: Black, White & Red (2025) #4"
   },
@@ -12852,6 +12988,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "bounty-hunters",
+    "synopsis": "\"VALANCE'S FIRST APPEARANCES, ALSO AVAILABLE…\" \"NEVER BETRAY A BOUNTY HUNTER - ESPECIALLY IF IT'S BOBA FETT!\" Years ago, VALANCE and fellow bounty hunters BOSSK and BOBA FETT took on a mission that went sideways in a bad way after Valance's mentor, NAKANO LASH, violently betrayed them. Valance's team barely escaped with their lives. He never thought he'd face his old mentor ever again…until Lash finally resurfaces under mysterious circumstances. Every bounty hunter in the galaxy wants a piece and Valance is hell-bent on getting to the prize first. He has score to settle - but so does Boba Fett! ETHAN SACKS (OLD MAN HAWKEYE and GALAXY'S EDGE) and PAOLO VILLANELLI (VADER: DARK VISIONS and JEDI FALLEN ORDER - DARK TEMPLE) are teaming up to bring you the bounty hunter adventure you've been waiting for this March!",
     "title": "Bounty Hunters"
   },
   {
@@ -16634,6 +16771,11 @@
         "name": "James Luceno",
         "role": "writer",
         "slug": "james-luceno"
+      },
+      {
+        "name": "Scott Biel",
+        "role": "coverArtist",
+        "slug": "scott-biel"
       }
     ],
     "displayTitle": "Catalyst",
@@ -17717,6 +17859,11 @@
         "name": "Elsa Charretier",
         "role": "artist",
         "slug": "elsa-charretier"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "coverArtist",
+        "slug": "elsa-charretier"
       }
     ],
     "displayTitle": "Choose Your Destiny: A Finn & Poe Adventure",
@@ -17761,6 +17908,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "artist",
+        "slug": "elsa-charretier"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "coverArtist",
+        "slug": "elsa-charretier"
       }
     ],
     "displayTitle": "Choose Your Destiny: A Han & Chewie Adventure",
@@ -17822,6 +17979,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "artist",
+        "slug": "elsa-charretier"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "coverArtist",
+        "slug": "elsa-charretier"
       }
     ],
     "displayTitle": "Choose Your Destiny: A Luke & Leia Adventure",
@@ -17866,6 +18033,16 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "artist",
+        "slug": "elsa-charretier"
+      },
+      {
+        "name": "Elsa Charretier",
+        "role": "coverArtist",
+        "slug": "elsa-charretier"
       }
     ],
     "displayTitle": "Choose Your Destiny: An Obi-Wan & Anakin Adventure",
@@ -21565,6 +21742,11 @@
         "name": "Phil Noto",
         "role": "artist",
         "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "coverArtist",
+        "slug": "phil-noto"
       }
     ],
     "displayTitle": "The Last Jedi: Cobalt Squadron",
@@ -21690,7 +21872,7 @@
         "onsale": "2011-05-24T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 44
@@ -23968,7 +24150,7 @@
         "onsale": "2013-07-09T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 45
@@ -24574,6 +24756,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-droids-d-squad",
+    "synopsis": "THE UNSUNG HEROES OF THE CLONE WARS RETURN! A terrible scourge is corrupting the galaxy's droids! To fight this menace, ARTOO-DETOO has to assemble a team of droid heroes: THE D-SQUAD! Filled with guest stars from across the galaxy, including a special appearance (and showdown!) by CHOPPER from STAR WARS REBELS. PLUS: THE BOOK OF AJAX provides the missing pieces linking REVELATIONS, DARK DROIDS and HAN SOLO & CHEWBACCA - read to see how IT'S ALL CONNECTED.",
     "title": "Dark Droids: D-Squad"
   },
   {
@@ -26411,7 +26594,7 @@
         "onsale": "1998-10-14T00:00:00.000Z"
       }
     ],
-    "era": "ageOfRebellion",
+    "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "startYear": 5
@@ -37013,6 +37196,16 @@
         "name": "Leinil Yu",
         "role": "coverArtist",
         "slug": "leinil-yu"
+      },
+      {
+        "name": "Leinil Francis Yu",
+        "role": "coverArtist",
+        "slug": "leinil-francis-yu"
+      },
+      {
+        "name": "Leinil Francis Yu",
+        "role": "penciler",
+        "slug": "leinil-francis-yu"
       }
     ],
     "displayTitle": "Darth Vader (2015) Annual 1",
@@ -47871,6 +48064,51 @@
     "title": "Doctor Aphra (2016) Annual #3"
   },
   {
+    "bookType": "other",
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Sarah Kuhn",
+        "role": "writer",
+        "slug": "sarah-kuhn"
+      }
+    ],
+    "displayTitle": "Doctor Aphra (Script)",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0593157257"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593157251"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 304,
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "isbn10": "0593157257",
+        "isbn13": "9780593157251",
+        "kind": "print",
+        "onsale": "2021-04-06T00:00:00.000Z"
+      }
+    ],
+    "era": "ageOfRebellion",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2021-04-06T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "doctor-aphra-script",
+    "title": "Doctor Aphra (Script)"
+  },
+  {
     "canonStatus": "canon",
     "creators": [
       {
@@ -55482,6 +55720,7 @@
       }
     ],
     "displayTitle": "Exile",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -58055,7 +58294,7 @@
         "onsale": "2017-10-03T00:00:00.000Z"
       }
     ],
-    "era": "reignOfTheEmpire",
+    "era": "ageOfRebellion",
     "format": "book",
     "inUniverseDate": {
       "startYear": 0
@@ -58721,6 +58960,7 @@
         "onsale": "2007-11-27T00:00:00.000Z"
       }
     ],
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -60604,18 +60844,6 @@
   {
     "bookType": "juniorReader",
     "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Golden Books",
-        "role": "author",
-        "slug": "golden-books"
-      },
-      {
-        "name": "Golden Books",
-        "role": "writer",
-        "slug": "golden-books"
-      }
-    ],
     "displayTitle": "Get Well, Nubs!",
     "editionIds": [
       {
@@ -61285,6 +61513,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "han-solo",
+    "synopsis": "Everyone's favorite scoundrel gets his very own series! Han is given a top-secret undercover mission for the Rebellion - rescuing a number of informants and spies. His cover for the assignment? Only the biggest and most infamous starship race in the galaxy! You know - the race Han has dreamt of winning his entire life. Will he keep his mind on the mission? And can he manage to pull it off while keeping the lead? Best-selling author Marjorie Liu (X-MEN) comes to the Galaxy Far, Far Away along with superstar cover artist Mark Brooks (ULTIMATE X-MEN) in his return to interior art! Face it, readers - there aren't enough scoundrels in your life!",
     "title": "Han Solo"
   },
   {
@@ -63572,6 +63801,11 @@
         "name": "Kevin Hearne",
         "role": "writer",
         "slug": "kevin-hearne"
+      },
+      {
+        "name": "Larry Rostant",
+        "role": "coverArtist",
+        "slug": "larry-rostant"
       }
     ],
     "displayTitle": "Heir to the Jedi",
@@ -65229,6 +65463,11 @@
         "name": "Diego Galindo",
         "role": "coverArtist",
         "slug": "diego-galindo"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Codebreaker #01",
@@ -65276,6 +65515,11 @@
         "name": "Diego Galindo",
         "role": "coverArtist",
         "slug": "diego-galindo"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Codebreaker #02",
@@ -65323,6 +65567,11 @@
         "name": "Jose Marzan Jr.",
         "role": "coverArtist",
         "slug": "jose-marzan-jr"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Codebreaker #03",
@@ -65370,6 +65619,11 @@
         "name": "Diego Galindo",
         "role": "coverArtist",
         "slug": "diego-galindo"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Codebreaker #04",
@@ -65720,7 +65974,7 @@
     "title": "Hyperspace Stories: Rey"
   },
   {
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Michael Moreci",
@@ -65803,6 +66057,11 @@
         "name": "Valeria \"Lux\" Favoccia",
         "role": "coverArtist",
         "slug": "valeria-lux-favoccia"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #1",
@@ -65856,6 +66115,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #2",
@@ -65909,6 +66173,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #3",
@@ -65977,6 +66246,11 @@
         "name": "Valeria \"Lux\" Favoccia",
         "role": "coverArtist",
         "slug": "valeria-lux-favoccia"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #4",
@@ -66036,6 +66310,11 @@
         "name": "Valeria \"Lux\" Favoccia",
         "role": "coverArtist",
         "slug": "valeria-lux-favoccia"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #5",
@@ -66139,6 +66418,11 @@
         "name": "Bobby Bradford",
         "role": "letterer",
         "slug": "bobby-bradford"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents #1",
@@ -66382,6 +66666,11 @@
         "name": "Eduardo Mello",
         "role": "coverArtist",
         "slug": "eduardo-mello"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Tides of Terror #02",
@@ -66429,6 +66718,11 @@
         "name": "Eduardo Mello",
         "role": "coverArtist",
         "slug": "eduardo-mello"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Tides of Terror #03",
@@ -66476,6 +66770,11 @@
         "name": "Eduardo Mello",
         "role": "coverArtist",
         "slug": "eduardo-mello"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Hyperspace Stories: Tides of Terror #04",
@@ -67154,6 +67453,7 @@
       }
     ],
     "displayTitle": "Inferno",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -67459,6 +67759,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "inquisitors",
+    "synopsis": "THE JEDI MUST DIE! Weapons of the EMPEROR, sent out into the galaxy to track down and kill any Jedi who survived ORDER 66, the ruthless INQUISITORS are among the most skilled and deadly threats to those who served the light side of the Force. Buried in the annals of Jedi lore is the story of TENSU RUN, the Jedi who faced the Inquisitors and DARTH VADER! What became of him, and why did the EMPIRE so greatly fear his existence?",
     "title": "Inquisitors"
   },
   {
@@ -68034,6 +68335,16 @@
         "name": "Colin Wilson",
         "role": "penciler",
         "slug": "colin-wilson"
+      },
+      {
+        "name": "Colin Wilson",
+        "role": "artist",
+        "slug": "colin-wilson"
+      },
+      {
+        "name": "Jo Chen",
+        "role": "coverArtist",
+        "slug": "jo-chen"
       }
     ],
     "displayTitle": "Invasion (2009) #3",
@@ -68081,6 +68392,16 @@
         "name": "Colin Wilson",
         "role": "penciler",
         "slug": "colin-wilson"
+      },
+      {
+        "name": "Colin Wilson",
+        "role": "artist",
+        "slug": "colin-wilson"
+      },
+      {
+        "name": "Jo Chen",
+        "role": "coverArtist",
+        "slug": "jo-chen"
       }
     ],
     "displayTitle": "Invasion (2009) #4",
@@ -68128,6 +68449,16 @@
         "name": "Colin Wilson",
         "role": "penciler",
         "slug": "colin-wilson"
+      },
+      {
+        "name": "Colin Wilson",
+        "role": "artist",
+        "slug": "colin-wilson"
+      },
+      {
+        "name": "Jo Chen",
+        "role": "coverArtist",
+        "slug": "jo-chen"
       }
     ],
     "displayTitle": "Invasion (2009) #5",
@@ -68886,7 +69217,7 @@
         "onsale": "2008-05-13T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 41
@@ -75105,6 +75436,11 @@
         "name": "Annie Wu",
         "role": "artist",
         "slug": "annie-wu"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "coverArtist",
+        "slug": "annie-wu"
       }
     ],
     "displayTitle": "Join the Resistance",
@@ -75176,6 +75512,11 @@
         "name": "Annie Wu",
         "role": "artist",
         "slug": "annie-wu"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "coverArtist",
+        "slug": "annie-wu"
       }
     ],
     "displayTitle": "Join the Resistance: Attack on Starkiller Base",
@@ -75246,6 +75587,11 @@
       {
         "name": "Annie Wu",
         "role": "artist",
+        "slug": "annie-wu"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "coverArtist",
         "slug": "annie-wu"
       }
     ],
@@ -76994,6 +77340,16 @@
         "name": "Ivan Rodriguez",
         "role": "penciler",
         "slug": "ivan-rodriguez"
+      },
+      {
+        "name": "Marcio Loezer",
+        "role": "inker",
+        "slug": "marcio-loezer"
+      },
+      {
+        "name": "Joe Quinones",
+        "role": "coverArtist",
+        "slug": "joe-quinones"
       }
     ],
     "displayTitle": "Knight Errant (2010) #4",
@@ -77004,6 +77360,7 @@
     },
     "parentWorkSlug": "knight-errant-aflame-2010",
     "periodical": {
+      "pageCount": 40,
       "publicationKind": "comic"
     },
     "releaseDate": "2011-01-12T00:00:00.000Z",
@@ -82068,6 +82425,16 @@
         "name": "Justina Ireland",
         "role": "writer",
         "slug": "justina-ireland"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "artist",
+        "slug": "annie-wu"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "coverArtist",
+        "slug": "annie-wu"
       }
     ],
     "displayTitle": "Lando's Luck",
@@ -82332,7 +82699,7 @@
       }
     ],
     "displayTitle": "Legacy #01: Broken, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 130
@@ -82434,7 +82801,7 @@
       }
     ],
     "displayTitle": "Legacy #02: Broken, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -82536,7 +82903,7 @@
       }
     ],
     "displayTitle": "Legacy #03: Broken, Part 3",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -82638,7 +83005,7 @@
       }
     ],
     "displayTitle": "Legacy #04: Noob",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -82740,7 +83107,7 @@
       }
     ],
     "displayTitle": "Legacy #05: Broken, Part 4",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -82842,7 +83209,7 @@
       }
     ],
     "displayTitle": "Legacy #06: Broken, Part 5",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -82944,7 +83311,7 @@
       }
     ],
     "displayTitle": "Legacy #07: Broken, Part 6",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83036,7 +83403,7 @@
       }
     ],
     "displayTitle": "Legacy #08: Allies",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 130
@@ -83123,7 +83490,7 @@
       }
     ],
     "displayTitle": "Legacy #09: Trust Issues, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83215,7 +83582,7 @@
       }
     ],
     "displayTitle": "Legacy #10: Trust Issues, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83322,7 +83689,7 @@
       }
     ],
     "displayTitle": "Legacy #11: Ghosts, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83419,7 +83786,7 @@
       }
     ],
     "displayTitle": "Legacy #12: Ghosts, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83516,7 +83883,7 @@
       }
     ],
     "displayTitle": "Legacy #13: Ready to Die",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83613,7 +83980,7 @@
       }
     ],
     "displayTitle": "Legacy #14: Claws of the Dragon pt. 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83710,7 +84077,7 @@
       }
     ],
     "displayTitle": "Legacy #15: Claws of the Dragon pt. 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83807,7 +84174,7 @@
       }
     ],
     "displayTitle": "Legacy #16: Claws of the Dragon pt. 3",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -83904,7 +84271,7 @@
       }
     ],
     "displayTitle": "Legacy #17: Claws of the Dragon pt. 4",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -84006,7 +84373,7 @@
       }
     ],
     "displayTitle": "Legacy #18: Claws of the Dragon, Part 5",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -84068,7 +84435,7 @@
       }
     ],
     "displayTitle": "Legacy #19: Claws of the Dragon, Part 6",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -84120,7 +84487,7 @@
       }
     ],
     "displayTitle": "Legacy #20: Indomitable, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -84369,7 +84736,7 @@
       }
     ],
     "displayTitle": "Legacy (2006) #0.5",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85036,7 +85403,7 @@
       }
     ],
     "displayTitle": "Legacy #21: Indomitable, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85083,7 +85450,7 @@
       }
     ],
     "displayTitle": "Legacy #22: The Wrath of the Dragon",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85135,7 +85502,7 @@
       }
     ],
     "displayTitle": "Legacy #23: Loyalties, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85202,7 +85569,7 @@
       }
     ],
     "displayTitle": "Legacy #24: Loyalties, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85254,7 +85621,7 @@
       }
     ],
     "displayTitle": "Legacy #25: The Hidden Temple, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85311,7 +85678,7 @@
       }
     ],
     "displayTitle": "Legacy #26: The Hidden Temple, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85363,7 +85730,7 @@
       }
     ],
     "displayTitle": "Legacy #27: Into the Core",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85420,7 +85787,7 @@
       }
     ],
     "displayTitle": "Legacy #28: Vector, Part 9",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85482,7 +85849,7 @@
       }
     ],
     "displayTitle": "Legacy #29: Vector, Part 10",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85544,7 +85911,7 @@
       }
     ],
     "displayTitle": "Legacy #30: Vector, Part 11",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85606,7 +85973,7 @@
       }
     ],
     "displayTitle": "Legacy #31: Vector, Part 12",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85663,7 +86030,7 @@
       }
     ],
     "displayTitle": "Legacy #32: Fight Another Day, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85715,7 +86082,7 @@
       }
     ],
     "displayTitle": "Legacy #33: Fight Another Day pt. 2 of 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85772,7 +86139,7 @@
       }
     ],
     "displayTitle": "Legacy #34: Storms, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85829,7 +86196,7 @@
       }
     ],
     "displayTitle": "Legacy #35: Storms, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85881,7 +86248,7 @@
       }
     ],
     "displayTitle": "Legacy #36: Renegade",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -85943,7 +86310,7 @@
       }
     ],
     "displayTitle": "Legacy #37: Tatooine, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86005,7 +86372,7 @@
       }
     ],
     "displayTitle": "Legacy #38: Tatooine, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86067,7 +86434,7 @@
       }
     ],
     "displayTitle": "Legacy #39: Tatooine, Part 3",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86129,7 +86496,7 @@
       }
     ],
     "displayTitle": "Legacy #40: Tatooine, Part 4",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86186,7 +86553,7 @@
       }
     ],
     "displayTitle": "Legacy #41: Rogue's End",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86243,7 +86610,7 @@
       }
     ],
     "displayTitle": "Legacy #42: Divided Loyalties",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86305,7 +86672,7 @@
       }
     ],
     "displayTitle": "Legacy #43: Vongspawn",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86367,7 +86734,7 @@
       }
     ],
     "displayTitle": "Legacy #44: Monster, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86429,7 +86796,7 @@
       }
     ],
     "displayTitle": "Legacy #45: Monster, Part 3",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86491,7 +86858,7 @@
       }
     ],
     "displayTitle": "Legacy #46: Monster, Part 4",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86553,7 +86920,7 @@
       }
     ],
     "displayTitle": "Legacy #47: The Fate of Dac",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 137
@@ -86615,7 +86982,7 @@
       }
     ],
     "displayTitle": "Legacy #48: Extremes, Part 1",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 138
@@ -86677,7 +87044,7 @@
       }
     ],
     "displayTitle": "Legacy #49: Extremes, Part 2",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 138
@@ -86739,7 +87106,7 @@
       }
     ],
     "displayTitle": "Legacy #50: Extremes, Part 3",
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 138
@@ -88367,13 +88734,6 @@
   {
     "bookType": "other",
     "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "DK",
-        "role": "writer",
-        "slug": "dk"
-      }
-    ],
     "displayTitle": "LEGO Star Wars: Meet Grogu",
     "editionIds": [
       {
@@ -89653,6 +90013,11 @@
         "name": "Claudia Gray",
         "role": "writer",
         "slug": "claudia-gray"
+      },
+      {
+        "name": "Daniel Bolling Walsh",
+        "role": "coverArtist",
+        "slug": "daniel-bolling-walsh"
       }
     ],
     "displayTitle": "Leia: Princess of Alderaan",
@@ -90241,6 +90606,11 @@
         "name": "Paul S. Kemp",
         "role": "writer",
         "slug": "paul-s-kemp"
+      },
+      {
+        "name": "Aaron McBride",
+        "role": "coverArtist",
+        "slug": "aaron-mcbride"
       }
     ],
     "displayTitle": "Lords of the Sith",
@@ -90337,7 +90707,7 @@
     "format": "book",
     "inUniverseDate": {
       "endYear": 5,
-      "startYear": -6
+      "startYear": -11
     },
     "releaseDate": "2015-09-04T00:00:00.000Z",
     "releaseDisplayState": "released",
@@ -91339,6 +91709,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "mace-windu",
+    "synopsis": "ONE OF THE GREATEST JEDI MUST STOP AN INCENDIARY SECRET FROM FALLING INTO THE WRONG HANDS! Even in the years before THE CLONE WARS, MACE WINDU was known for his discipline, determination and combat skills. When a scientist's discovery threatens the balance of the galaxy, Mace is led down a treacherous path of mystery and action. Introducing AZITA CRUUZ, a pirate with a deadly secret, who the HUTTS and the REPUBLIC will stop at nothing to control!",
     "title": "Mace Windu"
   },
   {
@@ -92359,6 +92730,11 @@
         "name": "Claudia Gray",
         "role": "writer",
         "slug": "claudia-gray"
+      },
+      {
+        "name": "Alice X. Zhang",
+        "role": "coverArtist",
+        "slug": "alice-x-zhang"
       }
     ],
     "displayTitle": "Master and Apprentice",
@@ -93406,6 +93782,11 @@
         "name": "Rae Carson",
         "role": "writer",
         "slug": "rae-carson"
+      },
+      {
+        "name": "Florian Nicolle",
+        "role": "coverArtist",
+        "slug": "florian-nicolle"
       }
     ],
     "displayTitle": "Most Wanted",
@@ -94720,6 +95101,7 @@
       }
     ],
     "displayTitle": "Tales of Kenobi (Barnes & Noble Collectible Editions)",
+    "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
       "endYear": 22,
@@ -95546,6 +95928,7 @@
       }
     ],
     "displayTitle": "Omen",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 43
@@ -95818,6 +96201,7 @@
       }
     ],
     "displayTitle": "Outcast",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 43
@@ -96266,6 +96650,11 @@
         "name": "Annie Wu",
         "role": "artist",
         "slug": "annie-wu"
+      },
+      {
+        "name": "Annie Wu",
+        "role": "coverArtist",
+        "slug": "annie-wu"
       }
     ],
     "displayTitle": "Pirate's Price",
@@ -96529,6 +96918,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "poe-dameron",
+    "synopsis": "Poe Dameron, former Republic flyer turned Resistance fighter, is the best pilot in the galaxy. Hand-picked for the resistance by General Leia Organa to lead a squadron on a top secret and vital mission…Poe sets off investigating sites of historical importance to the Force. Revealing backstory leading directly into the holidays' greatest adventure, follow Poe and his X-Wing squadron on covert missions against the First Order brought to you by writer Charles Soule (Star Wars: Lando, Daredevil) and artist Phil Noto (Star Wars: Chewbacca, Black Widow)!",
     "title": "Poe Dameron"
   },
   {
@@ -98637,7 +99027,7 @@
         "onsale": "2020-08-04T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "endYear": 19,
@@ -99660,6 +100050,11 @@
         "name": "E.K. Johnston",
         "role": "writer",
         "slug": "e-k-johnston"
+      },
+      {
+        "name": "Tara Phillips",
+        "role": "coverArtist",
+        "slug": "tara-phillips"
       }
     ],
     "displayTitle": "Queen's Shadow",
@@ -112405,7 +112800,7 @@
       }
     ],
     "displayTitle": "Revelation",
-    "era": "ageOfRebellion",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 41
@@ -112927,7 +113322,7 @@
         "onsale": "2011-10-25T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 41
@@ -115033,7 +115428,7 @@
         "onsale": "2007-05-29T00:00:00.000Z"
       }
     ],
-    "era": "riseOfTheFirstOrder",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -115107,6 +115502,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "sana-starros",
+    "synopsis": "STARRING IN HER FIRST EVER SOLO SERIES! Fresh off of a string of disappointments, Sana Starros returns to her family's ancestral home for some downtime. But family time is far from relaxing for a scoundrel and her family of ne'er do wells, especially when Stormtroopers crash dinner… Watch as JUSTINA IRELAND and PERE PEREZ bring Sana Starros to new heights!",
     "title": "Sana Starros"
   },
   {
@@ -116101,6 +116497,11 @@
         "name": "Jason Fry",
         "role": "writer",
         "slug": "jason-fry"
+      },
+      {
+        "name": "Jean-Paul Balmet",
+        "role": "artist",
+        "slug": "jean-paul-balmet"
       }
     ],
     "displayTitle": "Servants of the Empire: Edge of the Galaxy",
@@ -116158,6 +116559,11 @@
         "name": "Jason Fry",
         "role": "writer",
         "slug": "jason-fry"
+      },
+      {
+        "name": "Jean-Paul Balmet",
+        "role": "artist",
+        "slug": "jean-paul-balmet"
       }
     ],
     "displayTitle": "Servants of the Empire: Imperial Justice",
@@ -116214,6 +116620,11 @@
         "name": "Jason Fry",
         "role": "writer",
         "slug": "jason-fry"
+      },
+      {
+        "name": "Jean-Paul Balmet",
+        "role": "artist",
+        "slug": "jean-paul-balmet"
       }
     ],
     "displayTitle": "Servants of the Empire: Rebel in the Ranks",
@@ -116258,6 +116669,11 @@
         "name": "Jason Fry",
         "role": "writer",
         "slug": "jason-fry"
+      },
+      {
+        "name": "Jean-Paul Balmet",
+        "role": "artist",
+        "slug": "jean-paul-balmet"
       }
     ],
     "displayTitle": "Servants of the Empire: The Secret Academy",
@@ -116907,6 +117323,9 @@
     ],
     "era": "ageOfRebellion",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 3
+    },
     "releaseDate": "1996-05-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -118119,7 +118538,7 @@
         "onsale": "1996-08-01T00:00:00.000Z"
       }
     ],
-    "era": "ageOfRebellion",
+    "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "startYear": 16
@@ -119459,6 +119878,11 @@
         "name": "Joe Schreiber",
         "role": "writer",
         "slug": "joe-schreiber"
+      },
+      {
+        "name": "Mur Lafferty",
+        "role": "writer",
+        "slug": "mur-lafferty"
       }
     ],
     "displayTitle": "Solo: A Star Wars Story (Junior Novel)",
@@ -120432,6 +120856,9 @@
     ],
     "era": "ageOfRebellion",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 2
+    },
     "releaseDate": "1978-02-12T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -128189,6 +128616,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-2015",
+    "synopsis": "Luke Skywalker and the ragtag band of rebels fighting against the Galactic Empire are fresh off their biggest victory yet - the destruction of the massive battle station known as the Death Star. But the Empire's not toppled yet! Join Luke along with Princess Leia, smugglers Han Solo and Chewbacca, droids C-3PO and R2-D2 and the rest of the Rebel Alliance as they strike out for freedom against the evil forces of Darth Vader and his master, the Emperor. Written by Jason Aaron (Original Sin, Thor: God of Thunder) and with art by John Cassaday (Astonishing X-Men, Uncanny Avengers), this is the Star Wars saga as only Marvel Comics could make it!",
     "title": "Star Wars (2015)"
   },
   {
@@ -137349,6 +137777,54 @@
     "title": "Star Wars: A Celebration"
   },
   {
+    "bookType": "childrensBook",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Geof Smith",
+        "role": "writer",
+        "slug": "geof-smith"
+      },
+      {
+        "name": "Caleb Meurer",
+        "role": "artist",
+        "slug": "caleb-meurer"
+      }
+    ],
+    "displayTitle": "A New Hope (Little Golden Book)",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0736435387"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780736435383"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 24,
+        "imprint": "Golden Books",
+        "isPrimary": true,
+        "isbn10": "0736435387",
+        "isbn13": "9780736435383",
+        "kind": "print",
+        "onsale": "2015-07-28T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2015-07-28T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "star-wars-a-new-hope-little-golden-book",
+    "synopsis": "The epic space saga, Star Wars: A New Hope , is finally retold in the iconic Little Golden Book format! Luke Skywalker begins a journey that will change the galaxy, as he leaves his home planet, battles the evil Empire, and learns the ways of the Force. Featuring stunning retro illustrations, this book is perfect for Star Wars —and Little Golden Book—fans of all ages!",
+    "title": "Star Wars: A New Hope (Little Golden Book)"
+  },
+  {
     "canonStatus": "canon",
     "displayTitle": "A New Hope - Triple Take",
     "era": "ageOfRebellion",
@@ -142340,13 +142816,6 @@
   {
     "bookType": "other",
     "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "DK",
-        "role": "writer",
-        "slug": "dk"
-      }
-    ],
     "displayTitle": "Beware Maul!",
     "editionIds": [
       {
@@ -142960,6 +143429,56 @@
         "name": "Greg Pak",
         "role": "writer",
         "slug": "greg-pak"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
+      },
+      {
+        "name": "Vc Joe Caramagna",
+        "role": "letterer",
+        "slug": "vc-joe-caramagna"
+      },
+      {
+        "name": "Vc Clayton Cowles",
+        "role": "letterer",
+        "slug": "vc-clayton-cowles"
+      },
+      {
+        "name": "Ramon Rosanas",
+        "role": "inker",
+        "slug": "ramon-rosanas"
+      },
+      {
+        "name": "Ibraim Roberson",
+        "role": "inker",
+        "slug": "ibraim-roberson"
+      },
+      {
+        "name": "Ramon Rosanas",
+        "role": "penciler",
+        "slug": "ramon-rosanas"
+      },
+      {
+        "name": "Ibraim Roberson",
+        "role": "penciler",
+        "slug": "ibraim-roberson"
+      },
+      {
+        "name": "Guru Efx",
+        "role": "colorist",
+        "slug": "guru-efx"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "coverArtist",
+        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Free Comic Book Day 2024: Star Wars/Darth Vader #1",
@@ -145316,6 +145835,9 @@
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "releaseDate": "2004-10-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -145451,7 +145973,7 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Star Wars®: Episode V: The Empire Strikes Back™",
+    "displayTitle": "Episode V: The Empire Strikes Back",
     "editionIds": [
       {
         "type": "isbn13",
@@ -145468,12 +145990,15 @@
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 3
+    },
     "releaseDate": "2004-01-31T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-episode-v-the-empire-strikes-back-2",
     "synopsis": "The further adventures of Luke skywalker and his friends in their continuing battle against Darth Vader and the evil side of the Force.",
-    "title": "Star Wars®: Episode V: The Empire Strikes Back™"
+    "title": "Star Wars: Episode V: The Empire Strikes Back"
   },
   {
     "bookType": "other",
@@ -145523,11 +146048,15 @@
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 4
+    },
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "2004-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-episode-vi-return-of-the-jedi",
     "synopsis": "A long time ago in a galaxy far, far away... A rebellion makes its most desperate move. A galaxy hangs in the balance. A new Jedi rises. A circle is completed. The journey ends.",
     "title": "Star Wars: Episode VI: Return of the Jedi"
@@ -160468,6 +160997,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Tales From the Nightlands #1",
@@ -160550,6 +161084,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "Tales From the Nightlands #3",
@@ -163430,6 +163969,10 @@
     ],
     "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "endYear": -230,
+      "startYear": -232
+    },
     "releaseDate": "2022-12-06T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -164547,7 +165090,11 @@
         "onsale": "2026-07-07T00:00:00.000Z"
       }
     ],
+    "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -228
+    },
     "releaseDate": "2026-07-07T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -169741,6 +170288,11 @@
         "name": "James Luceno",
         "role": "writer",
         "slug": "james-luceno"
+      },
+      {
+        "name": "David Smit",
+        "role": "coverArtist",
+        "slug": "david-smit"
       }
     ],
     "displayTitle": "Tarkin",
@@ -169827,6 +170379,7 @@
       }
     ],
     "displayTitle": "Tempest",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 40
@@ -172689,6 +173242,11 @@
         "name": "Carrie Beck",
         "role": "producer",
         "slug": "carrie-beck"
+      },
+      {
+        "name": "Jon Favreau",
+        "role": "producer",
+        "slug": "jon-favreau"
       }
     ],
     "displayTitle": "The Book of Boba Fett",
@@ -172787,7 +173345,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-09-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-book-of-boba-fett-marvel-comic",
     "synopsis": "A seven-issue comic adaptation of the Disney+ series The Book of Boba Fett.",
     "title": "The Book of Boba Fett"
@@ -182273,7 +182832,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-09-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-fall-of-kylo-ren-2",
     "synopsis": "THE RETURN OF TAVA REN AND THE KNIGHTS OF REN! TAVA REN returns to KYLO REN and the FIRST ORDER seeking help from a terrifying new DROID threat. Can even the SUPREME LEADER stop what is coming? The rivalry of HUX and PRYDE intensifies as it threatens to undermine Kylo's aggressive plans for galactic domination!",
     "title": "The Fall of Kylo Ren #2"
@@ -186655,6 +187215,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #04",
@@ -186702,6 +187267,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #05",
@@ -186749,6 +187319,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #06",
@@ -186791,6 +187366,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #07",
@@ -186833,6 +187413,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #08",
@@ -186875,6 +187460,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #09",
@@ -186917,6 +187507,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #10",
@@ -186959,6 +187554,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #11",
@@ -187001,6 +187601,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #12",
@@ -187043,6 +187648,11 @@
         "name": "Harvey Tolibao",
         "role": "coverArtist",
         "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #13",
@@ -187142,6 +187752,11 @@
         "name": "Kevin Tolibao",
         "role": "coverArtist",
         "slug": "kevin-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #15",
@@ -187189,6 +187804,11 @@
         "name": "Kevin Tolibao",
         "role": "coverArtist",
         "slug": "kevin-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #16",
@@ -187236,6 +187856,11 @@
         "name": "Kevin Tolibao",
         "role": "coverArtist",
         "slug": "kevin-tolibao"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #17",
@@ -187278,6 +187903,11 @@
         "name": "Elisa Romboli",
         "role": "coverArtist",
         "slug": "elisa-romboli"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #18",
@@ -187320,6 +187950,11 @@
         "name": "Elisa Romboli",
         "role": "coverArtist",
         "slug": "elisa-romboli"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #19",
@@ -187362,6 +187997,11 @@
         "name": "Daniel José Older",
         "role": "coverArtist",
         "slug": "daniel-jose-older"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #20",
@@ -187628,6 +188268,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023): The Battle of Eriadu",
@@ -188201,6 +188846,11 @@
         "name": "Rachele Aragno",
         "role": "coverArtist",
         "slug": "rachele-aragno"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Crash and Burn",
@@ -188285,6 +188935,11 @@
         "name": "Rachele Aragno",
         "role": "coverArtist",
         "slug": "rachele-aragno"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Crash Landing",
@@ -188411,6 +189066,11 @@
         "name": "Jake Bartok",
         "role": "coverArtist",
         "slug": "jake-bartok"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #1",
@@ -188468,6 +189128,11 @@
         "name": "Jake Bartok",
         "role": "coverArtist",
         "slug": "jake-bartok"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #2",
@@ -188530,6 +189195,11 @@
         "name": "Lucas Marangon",
         "role": "artist",
         "slug": "lucas-marangon"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #3",
@@ -188582,6 +189252,11 @@
         "name": "Jake Bartok",
         "role": "coverArtist",
         "slug": "jake-bartok"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Dispatches from the Occlusion Zone #4",
@@ -188659,6 +189334,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Echoes of Fear #1",
@@ -188813,6 +189493,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Echoes of Fear #3",
@@ -188880,6 +189565,16 @@
         "name": "Valentina Taddeo",
         "role": "coverArtist",
         "slug": "valentina-taddeo"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
+      },
+      {
+        "name": "Eduardo Melo with Valentina Tadde",
+        "role": "coverArtist",
+        "slug": "eduardo-melo-with-valentina-tadde"
       }
     ],
     "displayTitle": "The High Republic Adventures: Echoes of Fear #4",
@@ -189032,40 +189727,100 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-high-republic-adventures-pathfinders",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2026-03-25T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-1",
+    "synopsis": "Twenty years after Phase II of the High Republic, a brand-new team of Republic Pathfinders is dispatched to a distant corner of the galaxy to investigate the strange death of a Jedi Master! But as the team wades into a web of mystery, they discover not everything about this mission is as it seems. Can the team save the day and solve the Jedi's mysterious demise? Jump into an all-new, six-issue Star Wars miniseries. Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Written by George Mann, the author of fan-favorite Star Wars titles The High Republic Adventures: Echoes of Fear and Hyperspace Stories: Qui-Gon! Six-issue series.",
     "title": "The High Republic Adventures: Pathfinders #1"
   },
   {
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "George Mann",
+        "role": "writer",
+        "slug": "george-mann"
+      },
+      {
+        "name": "Caìo Filipe",
+        "role": "artist",
+        "slug": "caio-filipe"
+      },
+      {
+        "name": "Michael Atiyeh",
+        "role": "colorist",
+        "slug": "michael-atiyeh"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
+      },
+      {
+        "name": "Jake Bartok",
+        "role": "coverArtist",
+        "slug": "jake-bartok"
+      }
+    ],
     "displayTitle": "The High Republic Adventures: Pathfinders #2",
     "format": "periodicalIssue",
     "parentWorkSlug": "the-high-republic-adventures-pathfinders",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2026-05-29T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-2",
+    "synopsis": "On their way to investigate a mysterious comms disturbance, the Pathfinder team is caught in a hyperspace abnormality! As the abnormality and its monstrous inhabitants threaten to trap the Pathfinders forever, they send a desperate distress call into the galaxy… and the answer comes in the form of a fan-favorite High Republic character! Can the team escape before they are lost to the darkness between the stars? Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Six-issue series.",
     "title": "The High Republic Adventures: Pathfinders #2"
   },
   {
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "George Mann",
+        "role": "writer",
+        "slug": "george-mann"
+      },
+      {
+        "name": "Caìo Filipe",
+        "role": "artist",
+        "slug": "caio-filipe"
+      },
+      {
+        "name": "Michael Atiyeh",
+        "role": "colorist",
+        "slug": "michael-atiyeh"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
+      },
+      {
+        "name": "Jake Bartok",
+        "role": "coverArtist",
+        "slug": "jake-bartok"
+      }
+    ],
     "displayTitle": "The High Republic Adventures: Pathfinders #3",
     "format": "periodicalIssue",
     "parentWorkSlug": "the-high-republic-adventures-pathfinders",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2026-07-08T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-3",
+    "synopsis": "The Pathfinder team traces the origins of a wrecked EX droid to the frozen planet Bathoris. There, they discover an isolated Comms team has been mysteriously murdered! Can the Pathfinders sift through the suspects in time? To uncover the truth, they might just need some help from another fan-favorite High Republic hero! Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Six-issue series.",
     "title": "The High Republic Adventures: Pathfinders #3"
   },
   {
@@ -189133,6 +189888,11 @@
         "name": "Jake Bartok",
         "role": "coverArtist",
         "slug": "jake-bartok"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Pathfinders #5",
@@ -189143,7 +189903,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-09-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-5",
     "synopsis": "The mystery behind the Pathfinders’ plight is revealed! From a listening post on a lonely asteroid, a Republic comms team scours galactic frequencies for vital transmissions. It’s routine work—that is, until the station’s two inhabitants begin to unravel in the far reaches of space. See their spine-tingling transformations unfold in this inventive flashback issue! Six-issue series.",
     "title": "The High Republic Adventures: Pathfinders #5"
@@ -189180,6 +189941,16 @@
         "name": "Jake Bartok",
         "role": "coverArtist",
         "slug": "jake-bartok"
+      },
+      {
+        "name": "Comicraft",
+        "role": "colorist",
+        "slug": "comicraft"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Pathfinders #6",
@@ -189313,6 +190084,11 @@
         "name": "5healthMONO",
         "role": "coverArtist",
         "slug": "5healthmono"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures Phase III: The Wedding Spectacular",
@@ -189439,6 +190215,11 @@
         "name": "Rachael Stott",
         "role": "coverArtist",
         "slug": "rachael-stott"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Saber for Hire #1",
@@ -189496,6 +190277,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Saber for Hire #2",
@@ -189558,6 +190344,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Saber for Hire #3",
@@ -189615,6 +190406,11 @@
         "name": "Jimmy Betancourt",
         "role": "letterer",
         "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Comicraft",
+        "role": "letterer",
+        "slug": "comicraft"
       }
     ],
     "displayTitle": "The High Republic Adventures: Saber for Hire #4",
@@ -191056,6 +191852,11 @@
         "name": "Charles Soule",
         "role": "writer",
         "slug": "charles-soule"
+      },
+      {
+        "name": "Joseph Meehan",
+        "role": "coverArtist",
+        "slug": "joseph-meehan"
       }
     ],
     "displayTitle": "Light of the Jedi",
@@ -191106,6 +191907,11 @@
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
+      },
+      {
+        "name": "Joseph Meehan",
+        "role": "coverArtist",
+        "slug": "joseph-meehan"
       }
     ],
     "displayTitle": "The Rising Storm",
@@ -196015,6 +196821,16 @@
         "name": "Ken Liu",
         "role": "writer",
         "slug": "ken-liu"
+      },
+      {
+        "name": "J. G. Jones",
+        "role": "artist",
+        "slug": "j-g-jones"
+      },
+      {
+        "name": "J. G. Jones",
+        "role": "coverArtist",
+        "slug": "j-g-jones"
       }
     ],
     "displayTitle": "The Legends of Luke Skywalker",
@@ -196447,6 +197263,11 @@
         "name": "Karen Gilchrist",
         "role": "producer",
         "slug": "karen-gilchrist"
+      },
+      {
+        "name": "Jon Favreau",
+        "role": "producer",
+        "slug": "jon-favreau"
       }
     ],
     "displayTitle": "The Mandalorian",
@@ -198756,6 +199577,11 @@
         "name": "Tom Angleberger",
         "role": "writer",
         "slug": "tom-angleberger"
+      },
+      {
+        "name": "Andie Tong",
+        "role": "artist",
+        "slug": "andie-tong"
       }
     ],
     "displayTitle": "The Mighty Chewbacca in the Forest of Fear",
@@ -199409,7 +200235,7 @@
     "era": "oldRepublic",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -3645
+      "startYear": -3653
     },
     "releaseDate": "2011-03-22T00:00:00.000Z",
     "releaseDisplayState": "released",
@@ -199453,7 +200279,7 @@
     "era": "oldRepublic",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -3543
+      "startYear": -3643
     },
     "releaseDate": "2010-07-20T00:00:00.000Z",
     "releaseDisplayState": "released",
@@ -201932,6 +202758,26 @@
         "name": "Nick Runge",
         "role": "coverArtist",
         "slug": "nick-runge"
+      },
+      {
+        "name": "Brian Wood",
+        "role": "writer",
+        "slug": "brian-wood"
+      },
+      {
+        "name": "Carlos D'Anda",
+        "role": "artist",
+        "slug": "carlos-danda"
+      },
+      {
+        "name": "Gabe Eltaeb",
+        "role": "colorist",
+        "slug": "gabe-eltaeb"
+      },
+      {
+        "name": "Alex Ross",
+        "role": "coverArtist",
+        "slug": "alex-ross"
       }
     ],
     "displayTitle": "The Star Wars (2013) #1",
@@ -201985,6 +202831,26 @@
         "name": "Nick Runge",
         "role": "coverArtist",
         "slug": "nick-runge"
+      },
+      {
+        "name": "Brian Wood",
+        "role": "writer",
+        "slug": "brian-wood"
+      },
+      {
+        "name": "Carlos D'Anda",
+        "role": "artist",
+        "slug": "carlos-danda"
+      },
+      {
+        "name": "Gabe Eltaeb",
+        "role": "colorist",
+        "slug": "gabe-eltaeb"
+      },
+      {
+        "name": "Alex Ross",
+        "role": "coverArtist",
+        "slug": "alex-ross"
       }
     ],
     "displayTitle": "The Star Wars (2013) #2",
@@ -202038,6 +202904,26 @@
         "name": "Nick Runge",
         "role": "coverArtist",
         "slug": "nick-runge"
+      },
+      {
+        "name": "Brian Wood",
+        "role": "writer",
+        "slug": "brian-wood"
+      },
+      {
+        "name": "Carlos D'Anda",
+        "role": "artist",
+        "slug": "carlos-danda"
+      },
+      {
+        "name": "Gabe Eltaeb",
+        "role": "colorist",
+        "slug": "gabe-eltaeb"
+      },
+      {
+        "name": "Alex Ross",
+        "role": "coverArtist",
+        "slug": "alex-ross"
       }
     ],
     "displayTitle": "The Star Wars (2013) #3",
@@ -202197,6 +203083,26 @@
         "name": "Nick Runge",
         "role": "coverArtist",
         "slug": "nick-runge"
+      },
+      {
+        "name": "Brian Wood",
+        "role": "writer",
+        "slug": "brian-wood"
+      },
+      {
+        "name": "Carlos D'Anda",
+        "role": "artist",
+        "slug": "carlos-danda"
+      },
+      {
+        "name": "Gabe Eltaeb",
+        "role": "colorist",
+        "slug": "gabe-eltaeb"
+      },
+      {
+        "name": "Rodolfo Migliari",
+        "role": "coverArtist",
+        "slug": "rodolfo-migliari"
       }
     ],
     "displayTitle": "The Star Wars (2013) #6",
@@ -202541,11 +203447,6 @@
         "name": "Fabio Laguna",
         "role": "artist",
         "slug": "fabio-laguna"
-      },
-      {
-        "name": "Golden Books",
-        "role": "writer",
-        "slug": "golden-books"
       }
     ],
     "displayTitle": "The Story of the Faithful Wookiee (Little Golden Book)",
@@ -203409,6 +204310,11 @@
         "name": "Timothy Zahn",
         "role": "writer",
         "slug": "timothy-zahn"
+      },
+      {
+        "name": "Two Dots",
+        "role": "coverArtist",
+        "slug": "two-dots"
       }
     ],
     "displayTitle": "Thrawn",
@@ -203480,6 +204386,11 @@
         "name": "Timothy Zahn",
         "role": "writer",
         "slug": "timothy-zahn"
+      },
+      {
+        "name": "Two Dots",
+        "role": "coverArtist",
+        "slug": "two-dots"
       }
     ],
     "displayTitle": "Thrawn: Alliances",
@@ -203916,7 +204827,7 @@
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
-      "startYear": -39
+      "startYear": -19
     },
     "releaseDate": "2020-09-01T00:00:00.000Z",
     "releaseDisplayState": "released",
@@ -204001,7 +204912,7 @@
         "onsale": "2021-11-16T00:00:00.000Z"
       }
     ],
-    "era": "fallOfTheJedi",
+    "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
       "startYear": -18
@@ -204343,6 +205254,11 @@
         "name": "Timothy Zahn",
         "role": "writer",
         "slug": "timothy-zahn"
+      },
+      {
+        "name": "Two Dots",
+        "role": "coverArtist",
+        "slug": "two-dots"
       }
     ],
     "displayTitle": "Thrawn: Treason",
@@ -205758,7 +206674,7 @@
         "onsale": "1996-12-01T00:00:00.000Z"
       }
     ],
-    "era": "ageOfRebellion",
+    "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "startYear": 16
@@ -207545,6 +208461,7 @@
         "onsale": "2010-11-30T00:00:00.000Z"
       }
     ],
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 44
@@ -209463,6 +210380,24 @@
     "title": "William Shakespeare's Star Wars: Ahsoka's Tale"
   },
   {
+    "bookType": "adultNovel",
+    "canonStatus": "non-canon",
+    "displayTitle": "William Shakespeare's Star Wars Mandalorianus Part the First",
+    "era": "newRepublic",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": 9
+    },
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2026-04-07T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "william-shakespeares-star-wars-mandalorianus-part-the-first",
+    "synopsis": "The Bard returns to a galaxy far, far away in the newest book in the NYT bestselling series, retelling the events of the hit Disney+ show The Mandalorian in the classic meter and voice of William Shakespeare. Enjoy the adventures of the Mandalorian and Grogu all over again, now with a fun Shakespearean twist! The newest book continuing the New York Times bestselling William Shakespeare's Star Wars series, William Shakespeare's Star Wars Mandalorianus: Part the First retells the events of the hit Star Wars show in the meter and style of the Bard himself, including dialogue from each character from the show, stage directions, and plenty of Easter eggs, all alongside twenty gorgeous woodcut illustrations that give these iconic Star Wars characters a playful Elizabethan air. AUTHENTIC METER. Shakespeare scholars and Star Wars fans alike will delight in the period-accurate musicality of the text and the authenticity, exploring the story of the Mandalorian through the lens of Shakespeare. WITH STUNNING ILLUSTRATIONS. Twenty detailed inked illustrations accompany the text, putting a unique Shakespearean spin on the characters from The Mandalorian. EASTER EGGS. Hidden nods to both the Star Wars franchise and the full works of Shakespeare will impress sharp-eyed fans of both! COMPLETE CAST. Each character from the first season of The Mandalorian steps into the spotlight with reimagined dialogue written in Shakespearean verse.",
+    "title": "William Shakespeare's Star Wars Mandalorianus Part the First"
+  },
+  {
     "bookType": "shortStory",
     "canonStatus": "non-canon",
     "creators": [
@@ -209655,7 +210590,7 @@
         "onsale": "2012-08-07T00:00:00.000Z"
       }
     ],
-    "era": "newRepublic",
+    "era": "legacy",
     "format": "book",
     "inUniverseDate": {
       "startYear": 44
@@ -209896,6 +210831,51 @@
     "slug": "x-wing-rogue-leader-2005-3",
     "synopsis": "Imperial terrorists have landed a devastating strike on Wedge Antilles'home planet and captured a member of Rogue Squadron. Now, Wedge and the rest of the Rogues are hot on their trail, determined to find their friend and bring these Imperial thugs to justice. The fighting is fierce and the flying is faster in this whiz-bang conclusion to the series that defines the hottest heroes in the expanded Universe and launches an ace fighter squadron like none other in the galaxy!",
     "title": "X-Wing: Rogue Leader #3"
+  },
+  {
+    "bookType": "adultNovel",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Michael A. Stackpole",
+        "role": "writer",
+        "slug": "michael-a-stackpole"
+      }
+    ],
+    "displayTitle": "X-Wing: Rogue Squadron",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0553568019"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553568011"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 400,
+        "imprint": "Bantam Spectra",
+        "isPrimary": true,
+        "isbn10": "0553568019",
+        "isbn13": "9780553568011",
+        "kind": "print",
+        "onsale": "1996-02-01T00:00:00.000Z"
+      }
+    ],
+    "era": "newRepublic",
+    "format": "book",
+    "inUniverseDate": {
+      "startYear": 6
+    },
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "1996-02-01T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "x-wing-rogue-squadron",
+    "title": "X-Wing: Rogue Squadron"
   },
   {
     "canonStatus": "non-canon",
@@ -213586,11 +214566,6 @@
         "name": "Frankie Hallam",
         "role": "writer",
         "slug": "frankie-hallam"
-      },
-      {
-        "name": "DK",
-        "role": "writer",
-        "slug": "dk"
       }
     ],
     "displayTitle": "Young Jedi Adventures: Pop-Up Peekaboo!",
@@ -216378,11 +217353,6 @@
         "name": "Erik Doescher",
         "role": "artist",
         "slug": "erik-doescher"
-      },
-      {
-        "name": "Golden Books",
-        "role": "writer",
-        "slug": "golden-books"
       }
     ],
     "displayTitle": "Young Jedi Adventures: Snowy Mountain Rescue",
@@ -216515,11 +217485,6 @@
         "name": "Erik Doescher",
         "role": "writer",
         "slug": "erik-doescher"
-      },
-      {
-        "name": "Golden Books",
-        "role": "writer",
-        "slug": "golden-books"
       },
       {
         "name": "Christopher Nicholas",

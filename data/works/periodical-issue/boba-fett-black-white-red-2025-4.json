@@ -44,11 +44,15 @@
   ],
   "displayTitle": "Boba Fett: Black, White & Red (2025) #4",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
   "parentWorkSlug": "boba-fett-black-white-red",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-12-31T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "boba-fett-black-white-red-2025-4",
   "title": "Boba Fett: Black, White & Red (2025) #4"
 }

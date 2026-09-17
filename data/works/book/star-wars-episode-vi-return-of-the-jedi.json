@@ -46,11 +46,15 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2004-10-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "star-wars-episode-vi-return-of-the-jedi",
   "synopsis": "A long time ago in a galaxy far, far away... A rebellion makes its most desperate move. A galaxy hangs in the balance. A new Jedi rises. A circle is completed. The journey ends.",
   "title": "Star Wars: Episode VI: Return of the Jedi"

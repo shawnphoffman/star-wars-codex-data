@@ -1,14 +1,43 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Caìo Filipe",
+      "role": "artist",
+      "slug": "caio-filipe"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Pathfinders #2",
   "format": "periodicalIssue",
   "parentWorkSlug": "the-high-republic-adventures-pathfinders",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2026-05-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-adventures-pathfinders-2",
+  "synopsis": "On their way to investigate a mysterious comms disturbance, the Pathfinder team is caught in a hyperspace abnormality! As the abnormality and its monstrous inhabitants threaten to trap the Pathfinders forever, they send a desperate distress call into the galaxy… and the answer comes in the form of a fan-favorite High Republic character! Can the team escape before they are lost to the darkness between the stars? Return to the High Republic! Set 20 years after the end of Phase II, when Republic Pathfinders explored the furthest, and most dangerous, reaches of the galaxy! Six-issue series.",
   "title": "The High Republic Adventures: Pathfinders #2"
 }

@@ -1,0 +1,45 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sarah Kuhn",
+      "role": "writer",
+      "slug": "sarah-kuhn"
+    }
+  ],
+  "displayTitle": "Doctor Aphra (Script)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593157257"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593157251"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0593157257",
+      "isbn13": "9780593157251",
+      "kind": "print",
+      "onsale": "2021-04-06T00:00:00.000Z"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-04-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "doctor-aphra-script",
+  "title": "Doctor Aphra (Script)"
+}

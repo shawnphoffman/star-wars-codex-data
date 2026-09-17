@@ -1,18 +1,6 @@
 {
   "bookType": "juniorReader",
   "canonStatus": "canon",
-  "creators": [
-    {
-      "name": "Golden Books",
-      "role": "author",
-      "slug": "golden-books"
-    },
-    {
-      "name": "Golden Books",
-      "role": "writer",
-      "slug": "golden-books"
-    }
-  ],
   "displayTitle": "Get Well, Nubs!",
   "editionIds": [
     {

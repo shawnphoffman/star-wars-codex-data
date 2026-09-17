@@ -30,6 +30,16 @@
       "name": "Ivan Rodriguez",
       "role": "penciler",
       "slug": "ivan-rodriguez"
+    },
+    {
+      "name": "Marcio Loezer",
+      "role": "inker",
+      "slug": "marcio-loezer"
+    },
+    {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
     }
   ],
   "displayTitle": "Knight Errant (2010) #4",
@@ -40,6 +50,7 @@
   },
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
+    "pageCount": 40,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-01-12T00:00:00.000Z",

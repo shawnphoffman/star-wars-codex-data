@@ -39,6 +39,9 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "releaseDate": "2004-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

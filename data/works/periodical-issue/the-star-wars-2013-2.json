@@ -35,6 +35,26 @@
       "name": "Nick Runge",
       "role": "coverArtist",
       "slug": "nick-runge"
+    },
+    {
+      "name": "Brian Wood",
+      "role": "writer",
+      "slug": "brian-wood"
+    },
+    {
+      "name": "Carlos D'Anda",
+      "role": "artist",
+      "slug": "carlos-danda"
+    },
+    {
+      "name": "Gabe Eltaeb",
+      "role": "colorist",
+      "slug": "gabe-eltaeb"
+    },
+    {
+      "name": "Alex Ross",
+      "role": "coverArtist",
+      "slug": "alex-ross"
     }
   ],
   "displayTitle": "The Star Wars (2013) #2",

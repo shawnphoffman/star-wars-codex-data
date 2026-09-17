@@ -8,7 +8,7 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Star Wars®: Episode V: The Empire Strikes Back™",
+  "displayTitle": "Episode V: The Empire Strikes Back",
   "editionIds": [
     {
       "type": "isbn13",
@@ -25,10 +25,13 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "releaseDate": "2004-01-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-v-the-empire-strikes-back-2",
   "synopsis": "The further adventures of Luke skywalker and his friends in their continuing battle against Darth Vader and the evil side of the Force.",
-  "title": "Star Wars®: Episode V: The Empire Strikes Back™"
+  "title": "Star Wars: Episode V: The Empire Strikes Back"
 }
