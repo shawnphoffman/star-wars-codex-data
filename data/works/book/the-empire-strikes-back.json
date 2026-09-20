@@ -66,6 +66,9 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "releaseDate": "2011-06-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

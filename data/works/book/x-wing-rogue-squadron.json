@@ -39,7 +39,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "1996-02-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "x-wing-rogue-squadron",
   "title": "X-Wing: Rogue Squadron"
 }

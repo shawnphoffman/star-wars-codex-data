@@ -11516,7 +11516,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-09-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "boba-fett-black-white-red",
     "title": "Boba Fett: Black, White & Red"
   },
@@ -11574,7 +11575,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-09-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "boba-fett-black-white-red-2025-1",
     "title": "Boba Fett: Black, White & Red (2025) #1"
   },
@@ -11627,7 +11629,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-10-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "boba-fett-black-white-red-2025-2",
     "title": "Boba Fett: Black, White & Red (2025) #2"
   },
@@ -11680,7 +11683,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-11-26T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "boba-fett-black-white-red-2025-3",
     "title": "Boba Fett: Black, White & Red (2025) #3"
   },
@@ -11738,7 +11742,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-12-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "boba-fett-black-white-red-2025-4",
     "title": "Boba Fett: Black, White & Red (2025) #4"
   },
@@ -17820,6 +17825,10 @@
     "displayTitle": "Choices of One",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345511255"
+      },
+      {
         "type": "isbn13",
         "value": "9780345511256"
       }
@@ -17829,6 +17838,7 @@
         "extent": 384,
         "imprint": "Del Rey",
         "isPrimary": true,
+        "isbn10": "0345511255",
         "isbn13": "9780345511256",
         "kind": "print",
         "onsale": "2011-07-19T00:00:00.000Z"
@@ -59597,6 +59607,10 @@
       {
         "type": "isbn10",
         "value": "0553484559"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553484557"
       }
     ],
     "editions": [
@@ -59605,6 +59619,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553484559",
+        "isbn13": "9780553484557",
         "kind": "print",
         "onsale": "1997-10-01T00:00:00.000Z"
       }
@@ -111858,6 +111873,9 @@
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 4
+    },
     "releaseDate": "1983-05-12T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -182330,6 +182348,9 @@
       }
     ],
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 3
+    },
     "releaseDate": "2011-06-28T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -210393,7 +210414,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-04-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "william-shakespeares-star-wars-mandalorianus-part-the-first",
     "synopsis": "The Bard returns to a galaxy far, far away in the newest book in the NYT bestselling series, retelling the events of the hit Disney+ show The Mandalorian in the classic meter and voice of William Shakespeare. Enjoy the adventures of the Mandalorian and Grogu all over again, now with a fun Shakespearean twist! The newest book continuing the New York Times bestselling William Shakespeare's Star Wars series, William Shakespeare's Star Wars Mandalorianus: Part the First retells the events of the hit Star Wars show in the meter and style of the Bard himself, including dialogue from each character from the show, stage directions, and plenty of Easter eggs, all alongside twenty gorgeous woodcut illustrations that give these iconic Star Wars characters a playful Elizabethan air. AUTHENTIC METER. Shakespeare scholars and Star Wars fans alike will delight in the period-accurate musicality of the text and the authenticity, exploring the story of the Mandalorian through the lens of Shakespeare. WITH STUNNING ILLUSTRATIONS. Twenty detailed inked illustrations accompany the text, putting a unique Shakespearean spin on the characters from The Mandalorian. EASTER EGGS. Hidden nods to both the Star Wars franchise and the full works of Shakespeare will impress sharp-eyed fans of both! COMPLETE CAST. Each character from the first season of The Mandalorian steps into the spotlight with reimagined dialogue written in Shakespearean verse.",
     "title": "William Shakespeare's Star Wars Mandalorianus Part the First"
@@ -210874,7 +210896,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1996-02-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "x-wing-rogue-squadron",
     "title": "X-Wing: Rogue Squadron"
   },
