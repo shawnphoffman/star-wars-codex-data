@@ -17853,7 +17853,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "choices-of-one",
-    "synopsis": "Choices of One is a Star Wars Legends novel by author Timothy Zahn that serves as a sequel to Zahn's 2007 novel, Allegiance. It was first published by Del Rey in hardcover on July 19, 2011. The first paperback edition was released on June 26, 2012.",
+    "synopsis": "Luke Skywalker, Leia Organa, Han Solo, and Chewbacca set out on a mission that could finally secure a base for the Rebel Alliance. Little do they know, Emperor's Hand Mara Jade is headed for the same location.",
     "title": "Choices of One"
   },
   {
@@ -48117,6 +48117,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "doctor-aphra-script",
+    "synopsis": "Dr. Chelli Lona Aphra, rogue archaeologist, is in trouble again. A pioneer in the field of criminal xenoarchaeology, Aphra recognizes no law, has no fear, and possesses no impulse control. To her, the true worth of the galactic relics she discovers isn't found in a museum but in an arsenal. This viewpoint has led to a lot of misunderstandings. After her latest plan goes horribly wrong, her roguish ways are on the verge of catching up to her, when suddenly Darth Vader, terror of the galaxy, swoops in with his lightsaber ignited and…saves her life? Don't get her wrong - it's not like she's ungrateful. Sure, her new boss is a lord of the Sith. And okay, she may have just become a pawn in a deadly game being played by him and HIS boss, who happens to be the Galactic Emperor. And yes, the life expectancy of anyone who disappoints Vader can be measured in seconds. But she's back doing what she does best. She's got a ship to fly, a heist to pull, and two unorthodox but effective metal buddies: Triple-Zero, a protocol droid specializing in etiquette, customs, translation, and torture; and BT-1, an astromech loaded with enough firepower to take down a battlecruiser. Together, they might just find a way to get the job done and avoid the deadly performance review that waits at its conclusion. Just kidding. She's doomed.",
     "title": "Doctor Aphra (Script)"
   },
   {
@@ -59646,7 +59647,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-6",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "Tash, Zak, and Hoole travel to a seemingly empty planet on a mission that will take a very dark turn.",
     "title": "Galaxy of Fear: Army of Terror"
   },
   {
@@ -154330,6 +154331,32 @@
     "slug": "star-wars-insider-rebellion-the-story-of-rogue-one-and-andor",
     "synopsis": "A deluxe hardcover collection drawn from interviews and features from Star Wars Insider. Covering the making of Rogue One: A Star Wars Story and Andor , the book celebrates the 10th anniversary of the Star Wars spin-off movie and subsequent TV series. The in-depth companion to the hit 2016 feature film Rogue One: A Star Wars Story and linked Disney+ series, Andor . This deluxe collector's edition explores the making of both projects through interviews with cast members and crew, including Kathleen Kennedy, Gareth Edwards, John Knoll, John Gilroy, Felicity Jones, Ben Mendelsohn, Genevieve O'Reilly, Stellan Skarsgard, Riz Ahmed, Forest Whitaker, and more. Featuring a plot synopsis for each individual episode of Andor and for Rogue One , and illustrated with incredible photos and concept art, the book examines the characters and themes of both productions and their impact on the Star Wars galaxy.",
     "title": "Star Wars Insider: Rebellion: The Story of Rogue One and Andor"
+  },
+  {
+    "bookType": "other",
+    "canonStatus": "non-canon",
+    "displayTitle": "Insider: The Fiction Collection: Volume #1",
+    "format": "periodical",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2021-05-04T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "star-wars-insider-the-fiction-collection-volume-1",
+    "title": "Star Wars Insider: The Fiction Collection: Volume #1"
+  },
+  {
+    "bookType": "other",
+    "canonStatus": "non-canon",
+    "displayTitle": "Insider: The Fiction Collection Volume #2",
+    "format": "periodical",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2021-11-09T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "star-wars-insider-the-fiction-collection-volume-2",
+    "title": "Star Wars Insider: The Fiction Collection Volume #2"
   },
   {
     "bookType": "adultNovel",
