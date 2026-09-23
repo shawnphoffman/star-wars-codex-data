@@ -154341,7 +154341,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2021-05-04T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-insider-the-fiction-collection-volume-1",
     "title": "Star Wars Insider: The Fiction Collection: Volume #1"
   },
@@ -154354,7 +154355,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2021-11-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-insider-the-fiction-collection-volume-2",
     "title": "Star Wars Insider: The Fiction Collection Volume #2"
   },
@@ -156160,7 +156162,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-09-22T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-quips-and-comebacks",
     "title": "Star Wars: Quips and Comebacks"
   },
