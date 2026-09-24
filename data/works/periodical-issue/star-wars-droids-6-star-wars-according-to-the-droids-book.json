@@ -2,41 +2,6 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "David Manak",
-      "role": "writer",
-      "slug": "david-manak"
-    },
-    {
-      "name": "Steve Dutro",
-      "role": "letterer",
-      "slug": "steve-dutro"
-    },
-    {
-      "name": "Jan Strnad",
-      "role": "writer",
-      "slug": "jan-strnad"
-    },
-    {
-      "name": "Keith Williams",
-      "role": "inker",
-      "slug": "keith-williams"
-    },
-    {
-      "name": "Marie Severin",
-      "role": "colorist",
-      "slug": "marie-severin"
-    },
-    {
-      "name": "Marie Severin",
-      "role": "inker",
-      "slug": "marie-severin"
-    },
-    {
-      "name": "Ernie Colon",
-      "role": "penciler",
-      "slug": "ernie-colon"
-    },
-    {
       "name": "Dan Thorsland",
       "role": "writer",
       "slug": "dan-thorsland"
@@ -57,13 +22,14 @@
       "slug": "pamela-rambo"
     },
     {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
       "name": "Ryder Windham",
       "role": "editor",
       "slug": "ryder-windham"
-    },
-    {
-      "name": "Scott Tice",
-      "slug": "scott-tice"
     },
     {
       "name": "Kilian Plunkett",
@@ -71,22 +37,11 @@
       "slug": "kilian-plunkett"
     },
     {
-      "name": "Daniel Kurt Thorsland",
-      "role": "writer",
-      "slug": "daniel-kurt-thorsland"
-    },
-    {
-      "name": "Perry McNamee",
-      "role": "colorist",
-      "slug": "perry-mcnamee"
-    },
-    {
-      "name": "Peet Janes",
-      "role": "editor",
-      "slug": "peet-janes"
+      "name": "Scott Tice",
+      "slug": "scott-tice"
     }
   ],
-  "displayTitle": "Droids #6: Star Wars According to the Droids, Book I",
+  "displayTitle": "Droids (1994) #6",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -101,5 +56,5 @@
   "releaseStatus": "released",
   "slug": "star-wars-droids-6-star-wars-according-to-the-droids-book",
   "synopsis": "In the conclusion to the adventures of Artoo-Detoo and See-Threepio in the Kalarba system, a power core rupture on Hosk forces all life forms to be evacuated, but life forms doesn't include droids! As Olag Greck makes his final stand, Artoo-Detoo and See-Threepio race against time to save the industrial moon... but first they'll have to survive Greck's droid armada!",
-  "title": "Star Wars Droids #6: Star Wars According to the Droids, Book I"
+  "title": "Star Wars Droids (1994) #6"
 }

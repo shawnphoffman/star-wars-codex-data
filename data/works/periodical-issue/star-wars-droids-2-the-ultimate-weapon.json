@@ -2,56 +2,6 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Dave Manak",
-      "role": "writer",
-      "slug": "dave-manak"
-    },
-    {
-      "name": "Ellie Deville",
-      "role": "letterer",
-      "slug": "ellie-deville"
-    },
-    {
-      "name": "Ian Gibson",
-      "role": "inker",
-      "slug": "ian-gibson"
-    },
-    {
-      "name": "Ian Gibson",
-      "role": "penciler",
-      "slug": "ian-gibson"
-    },
-    {
-      "name": "Ryder Windham",
-      "role": "writer",
-      "slug": "ryder-windham"
-    },
-    {
-      "name": "Al Williamson",
-      "role": "inker",
-      "slug": "al-williamson"
-    },
-    {
-      "name": "Jon Dagostino",
-      "role": "inker",
-      "slug": "jon-dagostino"
-    },
-    {
-      "name": "George Roussos",
-      "role": "colorist",
-      "slug": "george-roussos"
-    },
-    {
-      "name": "David Manak",
-      "role": "writer",
-      "slug": "david-manak"
-    },
-    {
-      "name": "John Romita Sr.",
-      "role": "penciler",
-      "slug": "john-romita-sr"
-    },
-    {
       "name": "Dan Thorsland",
       "role": "writer",
       "slug": "dan-thorsland"
@@ -82,36 +32,16 @@
       "slug": "ryder-windham"
     },
     {
-      "name": "Scott Tice",
-      "slug": "scott-tice"
-    },
-    {
       "name": "Kilian Plunkett",
       "role": "coverArtist",
       "slug": "kilian-plunkett"
     },
     {
-      "name": "Daniel Kurt Thorsland",
-      "role": "writer",
-      "slug": "daniel-kurt-thorsland"
-    },
-    {
-      "name": "Ian Gibson",
-      "role": "artist",
-      "slug": "ian-gibson"
-    },
-    {
-      "name": "Perry McNamee",
-      "role": "colorist",
-      "slug": "perry-mcnamee"
-    },
-    {
-      "name": "Peet Janes",
-      "role": "editor",
-      "slug": "peet-janes"
+      "name": "Scott Tice",
+      "slug": "scott-tice"
     }
   ],
-  "displayTitle": "Droids #2: The Ultimate Weapon",
+  "displayTitle": "Droids (1994) #2",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
@@ -126,5 +56,5 @@
   "releaseStatus": "released",
   "slug": "star-wars-droids-2-the-ultimate-weapon",
   "synopsis": "A gang of interplanetary thieves steal See-Threepio and Artoo-Detoo from the Pitareeze family, and take the droids to Kalarba's moon, Indobok. The droids meet a nefarious character from their past, and realize that their troubles have just begun!",
-  "title": "Star Wars Droids #2: The Ultimate Weapon"
+  "title": "Star Wars Droids (1994) #2"
 }

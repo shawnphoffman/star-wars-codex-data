@@ -16959,16 +16959,6 @@
         "name": "Darko Macan",
         "role": "writer",
         "slug": "darko-macan"
-      },
-      {
-        "name": "Gerry Duggan",
-        "role": "writer",
-        "slug": "gerry-duggan"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "coverArtist",
-        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Chewbacca (2000)",
@@ -17339,6 +17329,11 @@
       {
         "name": "Phil Noto",
         "role": "artist",
+        "slug": "phil-noto"
+      },
+      {
+        "name": "Phil Noto",
+        "role": "coverArtist",
         "slug": "phil-noto"
       }
     ],
@@ -48081,6 +48076,11 @@
         "name": "Sarah Kuhn",
         "role": "writer",
         "slug": "sarah-kuhn"
+      },
+      {
+        "name": "Kevin Tong",
+        "role": "coverArtist",
+        "slug": "kevin-tong"
       }
     ],
     "displayTitle": "Doctor Aphra (Script)",
@@ -62675,11 +62675,6 @@
         "slug": "robbie-thompson"
       },
       {
-        "name": "Gerry Duggan",
-        "role": "writer",
-        "slug": "gerry-duggan"
-      },
-      {
         "name": "Leonard Kirk",
         "role": "artist",
         "slug": "leonard-kirk"
@@ -74866,7 +74861,7 @@
     ],
     "editions": [
       {
-        "imprint": "Random House Publishing Services",
+        "imprint": "Random House",
         "isPrimary": true,
         "isbn10": "1683690885",
         "isbn13": "9781683690887",
@@ -93778,7 +93773,7 @@
     "title": "Monopoly Star Wars"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Monopoly: Star Wars Heroes vs. Villains",
     "format": "videoGame",
     "periodical": {
@@ -105525,7 +105520,8 @@
     ],
     "era": "reignOfTheEmpire",
     "format": "book",
-    "releaseDisplayState": "announced",
+    "releaseDate": "2027-08-10T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "releaseStatus": "announced",
     "slug": "reign-of-the-empire-from-the-ashes",
     "synopsis": "Reign of the Empire: From the Ashes is an upcoming novel and the final entry in the Star Wars: Reign of the Empire trilogy written by Fran Wilde and set to be published by Random House Worlds in summer 2027.",
@@ -114604,7 +114600,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "rogue-one-novelization",
-    "synopsis": "Jyn Erso is used to everyone leaving her behind. On a mission to track down her father, she discovers some causes are worth sticking around to fight for.",
+    "synopsis": "Go beyond the film with a novelization featuring new scenes and expanded material. As the shadows of the Empire loom ever larger across the galaxy, so do deeply troubling rumors. The Rebellion has learned of a sinister Imperial plot to bring entire worlds to their knees. Deep in Empire-dominated space, a machine of unimaginable destructive power is nearing completion. A weapon too terrifying to contemplate . . . and a threat that may be too great to overcome. If the worlds at the Empire's mercy stand any chance, it lies with an unlikely band of allies: Jyn Erso, a resourceful young woman seeking vengeance; Cassian Andor, a war-weary rebel commander; Bodhi Rook, a defector from the Empire's military; Chirrut Îmwe, a blind holy man and his crack-shot companion, Baze Malbus; and K-2SO, a deadly Imperial droid turned against its former masters. In their hands rests the new hope that could turn the tide toward a crucial Rebellion victory - if only they can capture the plans to the Empire's new weapon. But even as they race toward their dangerous goal, the specter of their ultimate enemy - a monstrous world unto itself - darkens the skies. Waiting to herald the Empire's brutal reign with a burst of annihilation worthy of its dreaded name: Death Star.",
     "title": "Rogue One"
   },
   {
@@ -143722,51 +143718,6 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Dave Manak",
-        "role": "writer",
-        "slug": "dave-manak"
-      },
-      {
-        "name": "Ellie Deville",
-        "role": "letterer",
-        "slug": "ellie-deville"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "inker",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "penciler",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "Marie Severin",
-        "role": "colorist",
-        "slug": "marie-severin"
-      },
-      {
-        "name": "Carlos Garzon",
-        "role": "inker",
-        "slug": "carlos-garzon"
-      },
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "John Romita Sr.",
-        "role": "penciler",
-        "slug": "john-romita-sr"
-      },
-      {
         "name": "Dan Thorsland",
         "role": "writer",
         "slug": "dan-thorsland"
@@ -143797,41 +143748,16 @@
         "slug": "ryder-windham"
       },
       {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
         "name": "Cam Kennedy",
         "role": "coverArtist",
         "slug": "cam-kennedy"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "artist",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
-      },
-      {
-        "name": "Kilian Plunkett",
-        "role": "coverArtist",
-        "slug": "kilian-plunkett"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #1: The Destroyer",
+    "displayTitle": "Droids (1994) #1",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -143846,7 +143772,7 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-1-the-destroyer",
     "synopsis": "In the Star Wars galaxy, automatons are so much necessary property, but even first-degree droids are considered expendable! Set before the events of Star Wars: A New Hope and the formation of the Empire, Droids features the adventures of protocol droid See-Threepio and astromech droid Artoo-Detoo in the Kalarba system (as seen in DHC #17, 18, and 19). Despite their differences, See-Threepio and Artoo-Detoo know that the best way to survive is to stick together. Thank the maker!",
-    "title": "Star Wars Droids #1: The Destroyer"
+    "title": "Star Wars Droids (1994) #1"
   },
   {
     "canonStatus": "non-canon",
@@ -143864,56 +143790,6 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Dave Manak",
-        "role": "writer",
-        "slug": "dave-manak"
-      },
-      {
-        "name": "Ellie Deville",
-        "role": "letterer",
-        "slug": "ellie-deville"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "inker",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "penciler",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "Al Williamson",
-        "role": "inker",
-        "slug": "al-williamson"
-      },
-      {
-        "name": "Jon Dagostino",
-        "role": "inker",
-        "slug": "jon-dagostino"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
-      },
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "John Romita Sr.",
-        "role": "penciler",
-        "slug": "john-romita-sr"
-      },
-      {
         "name": "Dan Thorsland",
         "role": "writer",
         "slug": "dan-thorsland"
@@ -143944,36 +143820,16 @@
         "slug": "ryder-windham"
       },
       {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "artist",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #2: The Ultimate Weapon",
+    "displayTitle": "Droids (1994) #2",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -143988,56 +143844,11 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-2-the-ultimate-weapon",
     "synopsis": "A gang of interplanetary thieves steal See-Threepio and Artoo-Detoo from the Pitareeze family, and take the droids to Kalarba's moon, Indobok. The droids meet a nefarious character from their past, and realize that their troubles have just begun!",
-    "title": "Star Wars Droids #2: The Ultimate Weapon"
+    "title": "Star Wars Droids (1994) #2"
   },
   {
     "canonStatus": "non-canon",
     "creators": [
-      {
-        "name": "Dave Manak",
-        "role": "writer",
-        "slug": "dave-manak"
-      },
-      {
-        "name": "Ellie Deville",
-        "role": "letterer",
-        "slug": "ellie-deville"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "inker",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "penciler",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "Joe Sinnott",
-        "role": "inker",
-        "slug": "joe-sinnott"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
-      },
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "John Romita Sr.",
-        "role": "penciler",
-        "slug": "john-romita-sr"
-      },
       {
         "name": "Dan Thorsland",
         "role": "writer",
@@ -144045,7 +143856,12 @@
       },
       {
         "name": "Ian Gibson",
-        "role": "artist",
+        "role": "penciler",
+        "slug": "ian-gibson"
+      },
+      {
+        "name": "Ian Gibson",
+        "role": "inker",
         "slug": "ian-gibson"
       },
       {
@@ -144064,31 +143880,16 @@
         "slug": "ryder-windham"
       },
       {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #3: The Scarlet Pirate",
+    "displayTitle": "Droids (1994) #3",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -144103,56 +143904,11 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-3-the-scarlet-pirate",
     "synopsis": "In a deadly case of mistaken identity, See-Threepio and Artoo-Detoo become entangled in an illegal operation on the Hosk moon, and are forced to enter a droid battle arena.",
-    "title": "Star Wars Droids #3: The Scarlet Pirate"
+    "title": "Star Wars Droids (1994) #3"
   },
   {
     "canonStatus": "non-canon",
     "creators": [
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "Ellie Deville",
-        "role": "letterer",
-        "slug": "ellie-deville"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "inker",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "penciler",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
-      },
-      {
-        "name": "Jon Dagostino",
-        "role": "inker",
-        "slug": "jon-dagostino"
-      },
-      {
-        "name": "Warren Kremer",
-        "role": "penciler",
-        "slug": "warren-kremer"
-      },
-      {
-        "name": "John Romita Sr.",
-        "role": "penciler",
-        "slug": "john-romita-sr"
-      },
       {
         "name": "Dan Thorsland",
         "role": "writer",
@@ -144184,36 +143940,16 @@
         "slug": "ryder-windham"
       },
       {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "artist",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #4: Lost in Time",
+    "displayTitle": "Droids (1994) #4",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -144228,54 +143964,24 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-4-lost-in-time",
     "synopsis": "When Star Wars hit the big screen in 1977, the world fell in love with Artoo-Detoo and See-Threepio. Now the events that led them to their fateful meeting with Luke Skywalker are revealed for the first time! In this issue, Corellian rogue Jace Forno leases the dysfunctional duo for a deadly mission to the moon Indobok!",
-    "title": "Star Wars Droids #4: Lost in Time"
+    "title": "Star Wars Droids (1994) #4"
   },
   {
     "canonStatus": "non-canon",
     "creators": [
-      {
-        "name": "George Carragone",
-        "role": "writer",
-        "slug": "george-carragone"
-      },
-      {
-        "name": "Steve Dutro",
-        "role": "letterer",
-        "slug": "steve-dutro"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "inker",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "penciler",
-        "slug": "ian-gibson"
-      },
       {
         "name": "Ryder Windham",
         "role": "writer",
         "slug": "ryder-windham"
       },
       {
-        "name": "Al Williamson",
-        "role": "inker",
-        "slug": "al-williamson"
-      },
-      {
-        "name": "Mary Wilshire",
-        "role": "penciler",
-        "slug": "mary-wilshire"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
+        "name": "Ian Gibson",
+        "role": "artist",
+        "slug": "ian-gibson"
       },
       {
         "name": "Ian Gibson",
-        "role": "artist",
+        "role": "penciler",
         "slug": "ian-gibson"
       },
       {
@@ -144284,13 +143990,14 @@
         "slug": "pamela-rambo"
       },
       {
+        "name": "Steve Dutro",
+        "role": "letterer",
+        "slug": "steve-dutro"
+      },
+      {
         "name": "Dan Thorsland",
         "role": "editor",
         "slug": "dan-thorsland"
-      },
-      {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
       },
       {
         "name": "Kilian Plunkett",
@@ -144298,37 +144005,11 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      },
-      {
-        "name": "Keith Williams",
-        "role": "inker",
-        "slug": "keith-williams"
-      },
-      {
-        "name": "Rich Perrotta",
-        "role": "inker",
-        "slug": "rich-perrotta"
-      },
-      {
-        "name": "Bill Hughes",
-        "role": "penciler",
-        "slug": "bill-hughes"
-      },
-      {
-        "name": "Chris Chalenor",
-        "role": "colorist",
-        "slug": "chris-chalenor"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #5: Separated",
+    "displayTitle": "Droids (1994) #5",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -144343,46 +144024,11 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-5-separated",
     "synopsis": "In the droid trade the only use for old units is as spare parts and scrap. So even See-Threepio is impressed when he and Artoo meet veritable antiques Q-E and 2-E, two diminutive Model-Es who have operated a nursery for several generations of Kalarbans. But despite their longevity, Q-E and 2-E carry a horrific secret that could spell the end for all droids!",
-    "title": "Star Wars Droids #5: Separated"
+    "title": "Star Wars Droids (1994) #5"
   },
   {
     "canonStatus": "non-canon",
     "creators": [
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "Steve Dutro",
-        "role": "letterer",
-        "slug": "steve-dutro"
-      },
-      {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      },
-      {
-        "name": "Keith Williams",
-        "role": "inker",
-        "slug": "keith-williams"
-      },
-      {
-        "name": "Marie Severin",
-        "role": "colorist",
-        "slug": "marie-severin"
-      },
-      {
-        "name": "Marie Severin",
-        "role": "inker",
-        "slug": "marie-severin"
-      },
-      {
-        "name": "Ernie Colon",
-        "role": "penciler",
-        "slug": "ernie-colon"
-      },
       {
         "name": "Dan Thorsland",
         "role": "writer",
@@ -144404,13 +144050,14 @@
         "slug": "pamela-rambo"
       },
       {
+        "name": "Steve Dutro",
+        "role": "letterer",
+        "slug": "steve-dutro"
+      },
+      {
         "name": "Ryder Windham",
         "role": "editor",
         "slug": "ryder-windham"
-      },
-      {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
       },
       {
         "name": "Kilian Plunkett",
@@ -144418,22 +144065,11 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
-    "displayTitle": "Droids #6: Star Wars According to the Droids, Book I",
+    "displayTitle": "Droids (1994) #6",
     "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "inUniverseDate": {
@@ -144448,177 +144084,7 @@
     "releaseStatus": "released",
     "slug": "star-wars-droids-6-star-wars-according-to-the-droids-book",
     "synopsis": "In the conclusion to the adventures of Artoo-Detoo and See-Threepio in the Kalarba system, a power core rupture on Hosk forces all life forms to be evacuated, but life forms doesn't include droids! As Olag Greck makes his final stand, Artoo-Detoo and See-Threepio race against time to save the industrial moon... but first they'll have to survive Greck's droid armada!",
-    "title": "Star Wars Droids #6: Star Wars According to the Droids, Book I"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "Steve Dutro",
-        "role": "letterer",
-        "slug": "steve-dutro"
-      },
-      {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      },
-      {
-        "name": "Keith Williams",
-        "role": "inker",
-        "slug": "keith-williams"
-      },
-      {
-        "name": "Rich Perrotta",
-        "role": "inker",
-        "slug": "rich-perrotta"
-      },
-      {
-        "name": "Al Williamson",
-        "role": "inker",
-        "slug": "al-williamson"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
-      },
-      {
-        "name": "Ernie Colon",
-        "role": "penciler",
-        "slug": "ernie-colon"
-      },
-      {
-        "name": "Bill Hughes",
-        "role": "penciler",
-        "slug": "bill-hughes"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
-      },
-      {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
-        "name": "Kilian Plunkett",
-        "role": "coverArtist",
-        "slug": "kilian-plunkett"
-      }
-    ],
-    "displayTitle": "Droids #7: Star Wars According to the Droids, Book II",
-    "era": "reignOfTheEmpire",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 0
-    },
-    "parentWorkSlug": "star-wars-droids",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1995-11-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-7-star-wars-according-to-the-droids-book-ii",
-    "synopsis": "In order to save their friend Smiley, Artoo-Detoo and See-Threepio have fallen in with a crew of Targonnian revoltists looking to overthrow Dictator-Forever Craw. Smiley is trapped in Craw's castle, behind the palace's impenetrable force field. To save their friend, Artoo-Detoo and See-Threepio must infiltrate the castle and shut down its protective field! The droids need to save Smiley because his brain contains the secret of the savorium herb . . . a secret which could shake the galaxy to its foundations!",
-    "title": "Star Wars Droids #7: Star Wars According to the Droids, Book II"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "David Manak",
-        "role": "writer",
-        "slug": "david-manak"
-      },
-      {
-        "name": "Steve Dutro",
-        "role": "letterer",
-        "slug": "steve-dutro"
-      },
-      {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      },
-      {
-        "name": "Keith Williams",
-        "role": "inker",
-        "slug": "keith-williams"
-      },
-      {
-        "name": "Rich Perrotta",
-        "role": "inker",
-        "slug": "rich-perrotta"
-      },
-      {
-        "name": "Al Williamson",
-        "role": "inker",
-        "slug": "al-williamson"
-      },
-      {
-        "name": "George Roussos",
-        "role": "colorist",
-        "slug": "george-roussos"
-      },
-      {
-        "name": "Ernie Colon",
-        "role": "penciler",
-        "slug": "ernie-colon"
-      },
-      {
-        "name": "Bill Hughes",
-        "role": "penciler",
-        "slug": "bill-hughes"
-      },
-      {
-        "name": "Perry McNamee",
-        "role": "colorist",
-        "slug": "perry-mcnamee"
-      },
-      {
-        "name": "Peet Janes",
-        "role": "editor",
-        "slug": "peet-janes"
-      },
-      {
-        "name": "Scott Tice",
-        "slug": "scott-tice"
-      },
-      {
-        "name": "Kilian Plunkett",
-        "role": "coverArtist",
-        "slug": "kilian-plunkett"
-      }
-    ],
-    "displayTitle": "Droids #8: Star Wars According to the Droids, Book III",
-    "era": "reignOfTheEmpire",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 0
-    },
-    "parentWorkSlug": "star-wars-droids",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1995-12-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-8-star-wars-according-to-the-droids-book-iii",
-    "synopsis": "The galaxy teeters on the brink of revolution, and See-Threepio and Artoo-Detoo are the only ones who can stop it! The Ithorian's plan to seed a rapture-producing herb, known as Savorium, throughout the troubled galaxy is interrupted by the power-mad dictator Craw. Now Threepio and Artoo face a dilemma: they can defend the Ithorian's plan, and survive, or they can destroy the Ithorian's ship and cargo, at the cost of their own existence!",
-    "title": "Star Wars Droids #8: Star Wars According to the Droids, Book III"
+    "title": "Star Wars Droids (1994) #6"
   },
   {
     "bookType": "other",
@@ -144900,6 +144366,45 @@
         "name": "Jan Strnad",
         "role": "writer",
         "slug": "jan-strnad"
+      },
+      {
+        "name": "Bill Hughes",
+        "role": "penciler",
+        "slug": "bill-hughes"
+      },
+      {
+        "name": "Keith Williams",
+        "role": "inker",
+        "slug": "keith-williams"
+      },
+      {
+        "name": "Rich Perrotta",
+        "role": "inker",
+        "slug": "rich-perrotta"
+      },
+      {
+        "name": "Perry McNamee",
+        "role": "colorist",
+        "slug": "perry-mcnamee"
+      },
+      {
+        "name": "Steve Dutro",
+        "role": "letterer",
+        "slug": "steve-dutro"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Kilian Plunkett",
+        "role": "coverArtist",
+        "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
     "displayTitle": "Droids: Season of Revolt #3",
@@ -144926,6 +144431,45 @@
         "name": "Jan Strnad",
         "role": "writer",
         "slug": "jan-strnad"
+      },
+      {
+        "name": "Bill Hughes",
+        "role": "penciler",
+        "slug": "bill-hughes"
+      },
+      {
+        "name": "Keith Williams",
+        "role": "inker",
+        "slug": "keith-williams"
+      },
+      {
+        "name": "Rich Perrotta",
+        "role": "inker",
+        "slug": "rich-perrotta"
+      },
+      {
+        "name": "Perry McNamee",
+        "role": "colorist",
+        "slug": "perry-mcnamee"
+      },
+      {
+        "name": "Steve Dutro",
+        "role": "letterer",
+        "slug": "steve-dutro"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Kilian Plunkett",
+        "role": "coverArtist",
+        "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Scott Tice",
+        "slug": "scott-tice"
       }
     ],
     "displayTitle": "Droids: Season of Revolt #4",
@@ -173324,7 +172868,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-09-23T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-book-of-boba-fett-2",
     "synopsis": "BOBA FETT FACES NEW CHALLENGES ON TATOOINE! BOBA FETT attempts to safeguard a fragile peace with the other syndicates while remembering his grueling recovery and training with the TUSKEN RAIDERS!",
     "title": "The Book of Boba Fett #2"
