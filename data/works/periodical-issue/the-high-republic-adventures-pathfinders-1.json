@@ -1,5 +1,37 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Partha Pratim",
+      "role": "artist",
+      "slug": "partha-pratim"
+    },
+    {
+      "name": "Jagdish Kumar",
+      "role": "artist",
+      "slug": "jagdish-kumar"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Comicraft",
+      "role": "letterer",
+      "slug": "comicraft"
+    },
+    {
+      "name": "Jake Bartok",
+      "role": "coverArtist",
+      "slug": "jake-bartok"
+    }
+  ],
   "displayTitle": "The High Republic Adventures: Pathfinders #1",
   "format": "periodicalIssue",
   "parentWorkSlug": "the-high-republic-adventures-pathfinders",
