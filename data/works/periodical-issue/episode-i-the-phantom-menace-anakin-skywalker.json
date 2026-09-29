@@ -2,9 +2,9 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Tim Truman",
+      "name": "Timothy Truman",
       "role": "writer",
-      "slug": "tim-truman"
+      "slug": "timothy-truman"
     },
     {
       "name": "Steve Crespo",
@@ -43,21 +43,6 @@
       "name": "Tim Bradstreet",
       "role": "coverArtist",
       "slug": "tim-bradstreet"
-    },
-    {
-      "name": "Timothy Truman",
-      "role": "writer",
-      "slug": "timothy-truman"
-    },
-    {
-      "name": "David Nestelle",
-      "role": "colorist",
-      "slug": "david-nestelle"
-    },
-    {
-      "name": "Timothy Bradstreet",
-      "role": "coverArtist",
-      "slug": "timothy-bradstreet"
     }
   ],
   "displayTitle": "Episode I: Anakin Skywalker",

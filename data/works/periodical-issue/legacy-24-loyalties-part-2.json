@@ -22,9 +22,9 @@
       "slug": "jan-duursema"
     },
     {
-      "name": "Daniel J. Parsons",
+      "name": "Dan Parsons",
       "role": "inker",
-      "slug": "daniel-j-parsons"
+      "slug": "dan-parsons"
     },
     {
       "name": "Jan Duursema",
@@ -32,19 +32,14 @@
       "slug": "jan-duursema"
     },
     {
-      "name": "Dan Parsons",
-      "role": "inker",
-      "slug": "dan-parsons"
-    },
-    {
-      "name": "Jan Duursema/Brad Anderson",
-      "role": "colorist",
-      "slug": "jan-duursemabrad-anderson"
-    },
-    {
       "name": "Brad Anderson",
       "role": "coverArtist",
       "slug": "brad-anderson"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "coverArtist",
+      "slug": "jan-duursema"
     }
   ],
   "displayTitle": "Legacy #24: Loyalties, Part 2",

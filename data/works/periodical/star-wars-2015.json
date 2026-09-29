@@ -7,24 +7,9 @@
       "slug": "jason-aaron"
     },
     {
-      "name": "Star Wars",
-      "role": "writer",
-      "slug": "star-wars"
-    },
-    {
-      "name": "Chris Eliopoulos",
-      "role": "writer",
-      "slug": "chris-eliopoulos"
-    },
-    {
       "name": "Kieron Gillen",
       "role": "writer",
       "slug": "kieron-gillen"
-    },
-    {
-      "name": "Star Wars Annual",
-      "role": "writer",
-      "slug": "star-wars-annual"
     },
     {
       "name": "Greg Pak",
@@ -70,6 +55,11 @@
       "name": "Phil Noto",
       "role": "artist",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Chris Eliopoulos",
+      "role": "letterer",
+      "slug": "chris-eliopoulos"
     }
   ],
   "displayTitle": "Star Wars (2015)",

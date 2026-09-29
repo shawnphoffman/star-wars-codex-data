@@ -2,19 +2,14 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Douglas Petrie",
+      "name": "Doug Petrie",
       "role": "writer",
-      "slug": "douglas-petrie"
+      "slug": "doug-petrie"
     },
     {
       "name": "Steward Lee",
       "role": "director",
       "slug": "steward-lee"
-    },
-    {
-      "name": "Doug Petrie",
-      "role": "writer",
-      "slug": "doug-petrie"
     },
     {
       "name": "Drew Z. Greenberg",

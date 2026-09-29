@@ -346,9 +346,9 @@
         "slug": "dave-filoni"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "A New Dawn",
@@ -2201,9 +2201,9 @@
         "slug": "allen-douglas"
       },
       {
-        "name": "Anthony Foti",
+        "name": "Tony Foti",
         "role": "artist",
-        "slug": "anthony-foti"
+        "slug": "tony-foti"
       },
       {
         "name": "Mariusz Gandzel",
@@ -4865,9 +4865,9 @@
         "slug": "jennifer-getzinger"
       },
       {
-        "name": "Geeta Vasant Patel",
+        "name": "Geeta Patel",
         "role": "director",
-        "slug": "geeta-vasant-patel"
+        "slug": "geeta-patel"
       },
       {
         "name": "Rick Famuyiwa",
@@ -5850,11 +5850,6 @@
         "name": "Ron Fontes",
         "role": "writer",
         "slug": "ron-fontes"
-      },
-      {
-        "name": "Justine",
-        "role": "writer",
-        "slug": "justine"
       }
     ],
     "displayTitle": "Anakin's Pit Droid",
@@ -11073,9 +11068,9 @@
         "slug": "john-nadeau"
       },
       {
-        "name": "Timothy Bradstreet",
+        "name": "Tim Bradstreet",
         "role": "coverArtist",
-        "slug": "timothy-bradstreet"
+        "slug": "tim-bradstreet"
       },
       {
         "name": "Ken Kelly",
@@ -13726,9 +13721,9 @@
         "slug": "ethan-sacks"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "artist",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Giuseppe Camuncoli",
@@ -13746,19 +13741,9 @@
         "slug": "ramn-f-bachs"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "inker",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Vc Travis Lanham",
@@ -13807,9 +13792,9 @@
         "slug": "ethan-sacks"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "artist",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Edgar Delgado",
@@ -13832,19 +13817,9 @@
         "slug": "ramn-f-bachs"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "inker",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Vc Travis Lanham",
@@ -15895,21 +15870,6 @@
         "name": "Timothy Truman",
         "role": "inker",
         "slug": "timothy-truman"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "inker",
-        "slug": "tim-truman"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "penciler",
-        "slug": "tim-truman"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "The Bounty Hunters: Aurra Sing",
@@ -15975,16 +15935,6 @@
         "name": "David McCaig",
         "role": "coverArtist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Douglas Wheatley",
-        "role": "coverArtist",
-        "slug": "douglas-wheatley"
-      },
-      {
-        "name": "Chris Ivy",
-        "role": "inker",
-        "slug": "chris-ivy"
       }
     ],
     "displayTitle": "The Bounty Hunters: Kenix Kil",
@@ -16452,11 +16402,6 @@
         "name": "Kelly Thompson",
         "role": "writer",
         "slug": "kelly-thompson"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Captain Phasma, Part I",
@@ -16513,11 +16458,6 @@
         "name": "Kelly Thompson",
         "role": "writer",
         "slug": "kelly-thompson"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Captain Phasma, Part II",
@@ -16574,11 +16514,6 @@
         "name": "Kelly Thompson",
         "role": "writer",
         "slug": "kelly-thompson"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Captain Phasma, Part III",
@@ -16635,11 +16570,6 @@
         "name": "Kelly Thompson",
         "role": "writer",
         "slug": "kelly-thompson"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Captain Phasma, Part IV",
@@ -17355,9 +17285,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Chris Cerasi",
+        "name": "Christopher Cerasi",
         "role": "writer",
-        "slug": "chris-cerasi"
+        "slug": "christopher-cerasi"
       }
     ],
     "displayTitle": "Adventures: Chewbacca And The Slavers Of The Shadowlands",
@@ -17417,9 +17347,9 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Chewbacca (2015) Part I",
@@ -17466,11 +17396,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Phil Noto",
@@ -17529,14 +17454,14 @@
         "slug": "ariel-olivetti"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Chewbacca (2015) Part III",
@@ -17575,14 +17500,14 @@
         "slug": "ariel-olivetti"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Chewbacca (2015) Part IV",
@@ -17646,9 +17571,9 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Chewbacca (2015) Part V",
@@ -18917,9 +18842,9 @@
         "slug": "bob-cooper"
       },
       {
-        "name": "Tom Yeates",
+        "name": "Thomas Yeates",
         "role": "coverArtist",
-        "slug": "tom-yeates"
+        "slug": "thomas-yeates"
       }
     ],
     "displayTitle": "Classic Star Wars #13: Revenge Of The Jedi",
@@ -20590,11 +20515,6 @@
         "name": "Rick Hoberg",
         "role": "penciler",
         "slug": "rick-hoberg"
-      },
-      {
-        "name": "Michael Allred",
-        "role": "coverArtist",
-        "slug": "michael-allred"
       }
     ],
     "displayTitle": "Classic Star Wars: The Early Adventures #1",
@@ -25011,11 +24931,6 @@
         "slug": "mark-paniccia"
       },
       {
-        "name": "Peter M. Woods",
-        "role": "coverArtist",
-        "slug": "peter-m-woods"
-      },
-      {
         "name": "Pete Woods",
         "role": "coverArtist",
         "slug": "pete-woods"
@@ -26976,9 +26891,9 @@
         "slug": "randy-stradley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Lui Antonio",
@@ -26996,9 +26911,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Dave Ross",
@@ -27051,9 +26966,9 @@
         "slug": "michael-heisler"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Zach Howard",
@@ -27093,9 +27008,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -27123,14 +27038,14 @@
         "slug": "welles-hartley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #01: The Path to Nowhere",
@@ -27160,9 +27075,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -27190,9 +27105,9 @@
         "slug": "welles-hartley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #02: The Path to Nowhere",
@@ -27222,9 +27137,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Jackson",
@@ -27257,9 +27172,9 @@
         "slug": "welles-hartley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #03: The Path to Nowhere",
@@ -27319,9 +27234,9 @@
         "slug": "welles-hartley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #04: The Path to Nowhere",
@@ -27381,9 +27296,9 @@
         "slug": "welles-hartley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "artist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #05: The Path to Nowhere",
@@ -27723,9 +27638,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "David McCaig",
@@ -27745,11 +27660,6 @@
       {
         "name": "Doug Wheatley",
         "role": "inker",
-        "slug": "doug-wheatley"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "penciler",
         "slug": "doug-wheatley"
       },
       {
@@ -27852,9 +27762,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "David McCaig",
@@ -27862,9 +27772,9 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Michael Heisler",
@@ -27874,11 +27784,6 @@
       {
         "name": "Doug Wheatley",
         "role": "inker",
-        "slug": "doug-wheatley"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "penciler",
         "slug": "doug-wheatley"
       },
       {
@@ -27914,9 +27819,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "David McCaig",
@@ -27924,9 +27829,9 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Michael Heisler",
@@ -27936,11 +27841,6 @@
       {
         "name": "Doug Wheatley",
         "role": "inker",
-        "slug": "doug-wheatley"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "penciler",
         "slug": "doug-wheatley"
       },
       {
@@ -28043,9 +27943,9 @@
         "slug": "mick-harrison"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Dan Jackson",
@@ -28053,9 +27953,9 @@
         "slug": "dan-jackson"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Dustin Weaver",
@@ -28070,11 +27970,6 @@
       {
         "name": "Doug Wheatley",
         "role": "inker",
-        "slug": "doug-wheatley"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "penciler",
         "slug": "doug-wheatley"
       },
       {
@@ -28135,19 +28030,14 @@
         "slug": "randy-stradley"
       },
       {
-        "name": "Douglas Wheatley",
-        "role": "penciler",
-        "slug": "douglas-wheatley"
-      },
-      {
         "name": "Chris Chuckry",
         "role": "colorist",
         "slug": "chris-chuckry"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times #17: Blue Harvest, Part 5",
@@ -28987,11 +28877,6 @@
         "slug": "vc-joe-caramagna"
       },
       {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
-      },
-      {
         "name": "Greg Smallwood",
         "role": "coverArtist",
         "slug": "greg-smallwood"
@@ -29058,11 +28943,6 @@
         "slug": "arif-pianto"
       },
       {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
-      },
-      {
         "name": "Greg Smallwood",
         "role": "coverArtist",
         "slug": "greg-smallwood"
@@ -29117,11 +28997,6 @@
         "name": "Vc Joe Caramagna",
         "role": "letterer",
         "slug": "vc-joe-caramagna"
-      },
-      {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
       },
       {
         "name": "Greg Smallwood",
@@ -29195,11 +29070,6 @@
         "slug": "muntsa-vicente"
       },
       {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
-      },
-      {
         "name": "Greg Smallwood",
         "role": "coverArtist",
         "slug": "greg-smallwood"
@@ -29269,11 +29139,6 @@
         "name": "Geraldo Borges",
         "role": "penciler",
         "slug": "geraldo-borges"
-      },
-      {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
       },
       {
         "name": "Greg Smallwood",
@@ -30451,11 +30316,6 @@
         "name": "Rafael Albuquerque",
         "role": "coverArtist",
         "slug": "rafael-albuquerque"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Darth Maul (2017) #2",
@@ -30522,11 +30382,6 @@
         "name": "Rafael Albuquerque",
         "role": "coverArtist",
         "slug": "rafael-albuquerque"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Darth Maul (2017) #3",
@@ -30593,11 +30448,6 @@
         "name": "Rafael Albuquerque",
         "role": "coverArtist",
         "slug": "rafael-albuquerque"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Darth Maul (2017) #4",
@@ -30654,11 +30504,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Nolan Woodard",
@@ -31257,9 +31102,9 @@
         "slug": "salvador-larroca"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader (2015) #14: Vader Down, Part IV",
@@ -31323,9 +31168,9 @@
         "slug": "salvador-larroca"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader (2015) #15: Vader Down, Part VI",
@@ -31440,9 +31285,9 @@
         "slug": "salvador-larroca"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader (2015) #17: The Shu-Torun War, Part II",
@@ -36483,9 +36328,9 @@
         "slug": "haden-blackman"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Darth Vader and the Lost Command #1",
@@ -36545,9 +36390,9 @@
         "slug": "tsuneo-sanda"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Darth Vader and the Lost Command #2",
@@ -36773,9 +36618,9 @@
         "slug": "tsuneo-sanda"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Darth Vader and the Lost Command",
@@ -37178,9 +37023,9 @@
         "slug": "jason-keith"
       },
       {
-        "name": "Leinil Yu",
+        "name": "Leinil Francis Yu",
         "role": "penciler",
-        "slug": "leinil-yu"
+        "slug": "leinil-francis-yu"
       },
       {
         "name": "Gerry Alanguilan",
@@ -37198,18 +37043,8 @@
         "slug": "joe-caramagna"
       },
       {
-        "name": "Leinil Yu",
-        "role": "coverArtist",
-        "slug": "leinil-yu"
-      },
-      {
         "name": "Leinil Francis Yu",
         "role": "coverArtist",
-        "slug": "leinil-francis-yu"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "penciler",
         "slug": "leinil-francis-yu"
       }
     ],
@@ -37778,11 +37613,6 @@
         "name": "Taurin Clarke",
         "role": "coverArtist",
         "slug": "taurin-clarke"
-      },
-      {
-        "name": "Danny Earls",
-        "role": "penciler",
-        "slug": "danny-earls"
       }
     ],
     "displayTitle": "Darth Vader: Black, White & Red #4",
@@ -37903,9 +37733,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 01: The Chosen One, Part I",
@@ -37989,9 +37819,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV",
@@ -38075,9 +37905,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I",
@@ -38146,9 +37976,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II",
@@ -38217,9 +38047,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 13: Burning Seas Part I",
@@ -38288,9 +38118,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 14: Burning Seas Part II",
@@ -38739,9 +38569,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 02: The Chosen One, Part II",
@@ -39286,9 +39116,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 03: The Chosen One, Part III",
@@ -39372,9 +39202,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 04: The Chosen One, Part IV",
@@ -39458,9 +39288,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 05: The Chosen One, Part V",
@@ -39544,9 +39374,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 06: The Chosen One, Part VI",
@@ -39630,9 +39460,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 07: The Dying Light, Part I",
@@ -39716,9 +39546,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 08: The Dying Light, Part II",
@@ -39802,9 +39632,9 @@
         "slug": "daniele-orlandini"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Darth Vader: Dark Lord of the Sith 09: The Dying Light, Part III",
@@ -40104,11 +39934,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: Force Storm #1 (3rd printing)",
@@ -40158,9 +39983,9 @@
         "slug": "wes-dzioba"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: Force Storm #2",
@@ -40217,11 +40042,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: Force Storm #3",
@@ -40279,11 +40099,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: Force Storm #4",
@@ -40341,11 +40156,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: Force Storm #5",
@@ -40452,11 +40262,6 @@
         "slug": "wes-dzioba"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -40512,11 +40317,6 @@
         "name": "Wes Dzioba",
         "role": "colorist",
         "slug": "wes-dzioba"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -40576,11 +40376,6 @@
         "slug": "wes-dzioba"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -40638,11 +40433,6 @@
         "slug": "wes-dzioba"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -40698,11 +40488,6 @@
         "name": "Wes Dzioba",
         "role": "colorist",
         "slug": "wes-dzioba"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -40872,11 +40657,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #1",
@@ -40934,11 +40714,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #2",
@@ -41006,11 +40781,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #3",
@@ -41068,11 +40838,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #4",
@@ -41120,11 +40885,6 @@
         "name": "Wes Dzioba",
         "role": "colorist",
         "slug": "wes-dzioba"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -41986,11 +41746,6 @@
         "slug": "jordan-d-white"
       },
       {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
-      },
-      {
         "name": "Kamome Shirahama",
         "role": "coverArtist",
         "slug": "kamome-shirahama"
@@ -42080,11 +41835,6 @@
         "name": "Marc Deering",
         "role": "inker",
         "slug": "marc-deering"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #11: The Enormous Profit, Part III",
@@ -42166,11 +41916,6 @@
         "name": "Marc Deering",
         "role": "inker",
         "slug": "marc-deering"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #12: The Enormous Profit, Part IV",
@@ -42252,11 +41997,6 @@
         "name": "Marc Deering",
         "role": "inker",
         "slug": "marc-deering"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #13: The Enormous Profit, Part V",
@@ -42338,11 +42078,6 @@
         "name": "Ashley Witter",
         "role": "coverArtist",
         "slug": "ashley-witter"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #14: Remastered, Part I",
@@ -42424,11 +42159,6 @@
         "name": "Si Spurrier",
         "role": "writer",
         "slug": "si-spurrier"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #15: Remastered, Part II",
@@ -42510,11 +42240,6 @@
         "name": "Si Spurrier",
         "role": "writer",
         "slug": "si-spurrier"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #16: Remastered, Part III",
@@ -42596,11 +42321,6 @@
         "name": "Si Spurrier",
         "role": "writer",
         "slug": "si-spurrier"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #17: Remastered, Part IV",
@@ -42682,11 +42402,6 @@
         "name": "Si Spurrier",
         "role": "writer",
         "slug": "si-spurrier"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #18: Remastered, Part V",
@@ -43182,9 +42897,9 @@
         "slug": "walden-wong"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "inker",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Mark Paniccia",
@@ -43217,9 +42932,9 @@
         "slug": "wilton-santos"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "penciler",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #36: Unspeakable Rebel Superweapon Part V",
@@ -43484,9 +43199,9 @@
         "slug": "minkyu-jung"
       },
       {
-        "name": "Joshua \"Sway” Swaby",
+        "name": "Joshua Swaby",
         "role": "coverArtist",
-        "slug": "joshua-sway-swaby"
+        "slug": "joshua-swaby"
       }
     ],
     "displayTitle": "Doctor Aphra (2020) #07",
@@ -43545,9 +43260,9 @@
         "slug": "minkyu-jung"
       },
       {
-        "name": "Joshua \"Sway” Swaby",
+        "name": "Joshua Swaby",
         "role": "coverArtist",
-        "slug": "joshua-sway-swaby"
+        "slug": "joshua-swaby"
       }
     ],
     "displayTitle": "Doctor Aphra (2020) #08",
@@ -43611,9 +43326,9 @@
         "slug": "minkyu-jung"
       },
       {
-        "name": "Joshua \"Sway” Swaby",
+        "name": "Joshua Swaby",
         "role": "coverArtist",
-        "slug": "joshua-sway-swaby"
+        "slug": "joshua-swaby"
       }
     ],
     "displayTitle": "Doctor Aphra (2020) #09",
@@ -43738,9 +43453,9 @@
         "slug": "rachelle-rosenberg"
       },
       {
-        "name": "Joshua \"Sway” Swaby",
+        "name": "Joshua Swaby",
         "role": "coverArtist",
-        "slug": "joshua-sway-swaby"
+        "slug": "joshua-swaby"
       }
     ],
     "displayTitle": "Doctor Aphra (2020) #10",
@@ -47062,9 +46777,9 @@
         "slug": "marc-deering"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "inker",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Mark Paniccia",
@@ -47087,9 +46802,9 @@
         "slug": "wilton-santos"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "penciler",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Ashley Witter",
@@ -47526,11 +47241,6 @@
         "name": "Marc Deering",
         "role": "inker",
         "slug": "marc-deering"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #05: Aphra, Part V",
@@ -47612,11 +47322,6 @@
         "name": "Marc Deering",
         "role": "inker",
         "slug": "marc-deering"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #06: Aphra, Part VI",
@@ -47690,9 +47395,9 @@
         "slug": "andrea-broccardo"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Doctor Aphra (2016) #07: The Screaming Citadel, Part III",
@@ -47754,11 +47459,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Marco Checchetto",
@@ -47845,11 +47545,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Kamome Shirahama",
@@ -49586,19 +49281,14 @@
         "slug": "raul-trevino"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Raul Trevino",
         "role": "artist",
         "slug": "raul-trevino"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50163,9 +49853,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Tomás Giorello",
@@ -50219,9 +49909,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50232,11 +49922,6 @@
         "name": "Adriana Melo",
         "role": "penciler",
         "slug": "adriana-melo"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50294,9 +49979,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Brandon Badeaux",
@@ -50345,19 +50030,14 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Jeff Johnson",
         "role": "artist",
         "slug": "jeff-johnson"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50420,19 +50100,14 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Joe Corroney",
         "role": "artist",
         "slug": "joe-corroney"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50490,9 +50165,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Adriana Melo",
@@ -50503,11 +50178,6 @@
         "name": "Nicola Scott",
         "role": "artist",
         "slug": "nicola-scott"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -50555,19 +50225,14 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Nicola Scott",
         "role": "artist",
         "slug": "nicola-scott"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -53184,11 +52849,6 @@
         "name": "Tim Bradstreet",
         "role": "coverArtist",
         "slug": "tim-bradstreet"
-      },
-      {
-        "name": "Timothy Bradstreet",
-        "role": "coverArtist",
-        "slug": "timothy-bradstreet"
       }
     ],
     "displayTitle": "Episode I: Queen Amidala",
@@ -53336,9 +52996,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Tim Truman",
+        "name": "Timothy Truman",
         "role": "writer",
-        "slug": "tim-truman"
+        "slug": "timothy-truman"
       },
       {
         "name": "Henry Gilroy",
@@ -53386,9 +53046,9 @@
         "slug": "howard-m-shum"
       },
       {
-        "name": "Christopher Chuckry",
+        "name": "Chris Chuckry",
         "role": "inker",
-        "slug": "christopher-chuckry"
+        "slug": "chris-chuckry"
       },
       {
         "name": "P. Craig Russell",
@@ -53396,9 +53056,9 @@
         "slug": "p-craig-russell"
       },
       {
-        "name": "Christopher Chuckry",
+        "name": "Chris Chuckry",
         "role": "colorist",
-        "slug": "christopher-chuckry"
+        "slug": "chris-chuckry"
       },
       {
         "name": "Vickie Williams",
@@ -53406,9 +53066,9 @@
         "slug": "vickie-williams"
       },
       {
-        "name": "Timothy Bradstreet",
+        "name": "Tim Bradstreet",
         "role": "coverArtist",
-        "slug": "timothy-bradstreet"
+        "slug": "tim-bradstreet"
       }
     ],
     "displayTitle": "Episode I: The Phantom Menace ½",
@@ -53473,11 +53133,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "David Nestelle",
-        "role": "colorist",
-        "slug": "david-nestelle"
       }
     ],
     "displayTitle": "Episode I: The Phantom Menace #2",
@@ -53641,9 +53296,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Tim Truman",
+        "name": "Timothy Truman",
         "role": "writer",
-        "slug": "tim-truman"
+        "slug": "timothy-truman"
       },
       {
         "name": "Steve Crespo",
@@ -53682,21 +53337,6 @@
         "name": "Tim Bradstreet",
         "role": "coverArtist",
         "slug": "tim-bradstreet"
-      },
-      {
-        "name": "Timothy Truman",
-        "role": "writer",
-        "slug": "timothy-truman"
-      },
-      {
-        "name": "David Nestelle",
-        "role": "colorist",
-        "slug": "david-nestelle"
-      },
-      {
-        "name": "Timothy Bradstreet",
-        "role": "coverArtist",
-        "slug": "timothy-bradstreet"
       }
     ],
     "displayTitle": "Episode I: Anakin Skywalker",
@@ -54074,9 +53714,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -54150,9 +53790,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -54226,9 +53866,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -54268,16 +53908,6 @@
         "name": "Dave Dorman",
         "role": "coverArtist",
         "slug": "dave-dorman"
-      },
-      {
-        "name": "Douglas Wheatley",
-        "role": "penciler",
-        "slug": "douglas-wheatley"
-      },
-      {
-        "name": "Douglas Wheatley",
-        "role": "inker",
-        "slug": "douglas-wheatley"
       }
     ],
     "displayTitle": "Episode III: Revenge of the Sith #3",
@@ -54311,9 +53941,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -54349,16 +53979,6 @@
         "name": "Dave Dorman",
         "role": "coverArtist",
         "slug": "dave-dorman"
-      },
-      {
-        "name": "Douglas Wheatley",
-        "role": "penciler",
-        "slug": "douglas-wheatley"
-      },
-      {
-        "name": "Douglas Wheatley",
-        "role": "inker",
-        "slug": "douglas-wheatley"
       }
     ],
     "displayTitle": "Episode III: Revenge of the Sith #4",
@@ -54486,9 +54106,9 @@
         "slug": "al-williamson"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "Steve Dutro",
@@ -54875,9 +54495,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #01: The Rainbow Bridge",
@@ -54901,9 +54521,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #02: Rites of Power",
@@ -54926,9 +54546,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #03: Flight to Danger",
@@ -55028,9 +54648,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #07: The Perilous Laughing Spell",
@@ -55053,9 +54673,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #08: Eye of the Kreegon",
@@ -55129,9 +54749,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #11: The Incredible Shrinking Princess",
@@ -55155,9 +54775,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #12: The Thorn Monster",
@@ -55181,9 +54801,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "David Manak",
+        "name": "Dave Manak",
         "role": "writer",
-        "slug": "david-manak"
+        "slug": "dave-manak"
       }
     ],
     "displayTitle": "Ewoks #13: The Black Cavern",
@@ -55276,11 +54896,6 @@
         "name": "Laura Braga",
         "role": "penciler",
         "slug": "laura-braga"
-      },
-      {
-        "name": "Peter M. Woods",
-        "role": "coverArtist",
-        "slug": "peter-m-woods"
       },
       {
         "name": "Pete Woods",
@@ -55694,11 +55309,6 @@
         "name": "Paul Chadwick",
         "role": "writer",
         "slug": "paul-chadwick"
-      },
-      {
-        "name": "Jim",
-        "role": "director",
-        "slug": "jim"
       },
       {
         "name": "Thomas G. Smith",
@@ -57906,9 +57516,9 @@
         "slug": "ryan-hill"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Free Comic Book Day 2013: Star Wars/Captain Midnight/Avatar: The Last Airbender",
@@ -58277,11 +57887,6 @@
         "name": "Tom Angleberger",
         "role": "writer",
         "slug": "tom-angleberger"
-      },
-      {
-        "name": "43 authors",
-        "role": "writer",
-        "slug": "43-authors"
       }
     ],
     "displayTitle": "From a Certain Point of View",
@@ -58521,11 +58126,6 @@
         "name": "Tom Angleberger",
         "role": "writer",
         "slug": "tom-angleberger"
-      },
-      {
-        "name": "40 authors",
-        "role": "writer",
-        "slug": "40-authors"
       }
     ],
     "displayTitle": "From a Certain Point of View: Return of the Jedi",
@@ -58772,11 +58372,6 @@
         "name": "Tom Angleberger",
         "role": "writer",
         "slug": "tom-angleberger"
-      },
-      {
-        "name": "40 authors",
-        "role": "writer",
-        "slug": "40-authors"
       }
     ],
     "displayTitle": "From a Certain Point of View: The Empire Strikes Back",
@@ -66024,9 +65619,9 @@
         "slug": "comicraft"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       }
     ],
     "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents",
@@ -66066,9 +65661,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       },
       {
         "name": "Comicraft",
@@ -66114,9 +65709,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       },
       {
         "name": "Tyler Smith",
@@ -66172,9 +65767,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       },
       {
         "name": "Tyler Smith",
@@ -66255,11 +65850,6 @@
         "slug": "bobby-bradford"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
-        "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
-      },
-      {
         "name": "Comicraft",
         "role": "letterer",
         "slug": "comicraft"
@@ -66317,11 +65907,6 @@
         "name": "Bobby Bradford",
         "role": "letterer",
         "slug": "bobby-bradford"
-      },
-      {
-        "name": "Valeria \"Lux\" Favoccia",
-        "role": "coverArtist",
-        "slug": "valeria-lux-favoccia"
       },
       {
         "name": "Comicraft",
@@ -67549,9 +67134,9 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       }
     ],
     "displayTitle": "Republic #24: Infinity's End part 2",
@@ -67595,9 +67180,9 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       }
     ],
     "displayTitle": "Republic #25: Infinity's End part 3",
@@ -67641,9 +67226,9 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       }
     ],
     "displayTitle": "Republic #26: Infinity's End part 4",
@@ -69865,11 +69450,6 @@
         "slug": "w-haden-blackman"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -69938,11 +69518,6 @@
         "name": "W. Haden Blackman",
         "role": "writer",
         "slug": "w-haden-blackman"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -70025,11 +69600,6 @@
         "slug": "w-haden-blackman"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -70075,11 +69645,6 @@
         "name": "W. Haden Blackman",
         "role": "writer",
         "slug": "w-haden-blackman"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -71922,18 +71487,13 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Michael Thomas",
-        "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
         "name": "Randy Stradley",
         "role": "editor",
         "slug": "randy-stradley"
       },
       {
-        "name": "David Nestelle",
-        "slug": "david-nestelle"
+        "name": "Dave Nestelle",
+        "slug": "dave-nestelle"
       }
     ],
     "displayTitle": "Jedi: Count Dooku",
@@ -74939,11 +74499,6 @@
         "slug": "steve-dutro"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -75002,11 +74557,6 @@
         "name": "Steve Dutro",
         "role": "letterer",
         "slug": "steve-dutro"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -75069,11 +74619,6 @@
         "slug": "steve-dutro"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -75132,11 +74677,6 @@
         "name": "Steve Dutro",
         "role": "letterer",
         "slug": "steve-dutro"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -75199,11 +74739,6 @@
         "slug": "steve-dutro"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -75262,11 +74797,6 @@
         "name": "Steve Dutro",
         "role": "letterer",
         "slug": "steve-dutro"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -75407,11 +74937,6 @@
         "name": "HOON",
         "role": "coverArtist",
         "slug": "hoon"
-      },
-      {
-        "name": "Michael Thomas",
-        "role": "letterer",
-        "slug": "michael-thomas"
       }
     ],
     "displayTitle": "Jedi: Yoda",
@@ -76561,9 +76086,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Kanan 5: The Last Padawan, Part V: Release",
@@ -76715,9 +76240,9 @@
         "slug": "david-curiel"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Kanan 3: The Last Padawan, Part III: Pivot",
@@ -79423,11 +78948,6 @@
         "slug": "dustin-weaver"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -79480,11 +79000,6 @@
         "slug": "dustin-weaver"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -79535,11 +79050,6 @@
         "name": "Dustin Weaver",
         "role": "penciler",
         "slug": "dustin-weaver"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -79646,19 +79156,14 @@
         "slug": "joe-pimentel"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Scott Hepburn",
         "role": "penciler",
         "slug": "scott-hepburn"
-      },
-      {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
       },
       {
         "name": "Dustin Weaver",
@@ -79706,11 +79211,6 @@
         "name": "Scott Hepburn",
         "role": "penciler",
         "slug": "scott-hepburn"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -79763,11 +79263,6 @@
         "name": "Scott Hepburn",
         "role": "penciler",
         "slug": "scott-hepburn"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -81140,9 +80635,9 @@
         "slug": "gigi-baldassini"
       },
       {
-        "name": "Benjamin Carr&eacute;",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-carreacute"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Benjamin Caron",
@@ -81202,9 +80697,9 @@
         "slug": "gigi-baldassini"
       },
       {
-        "name": "Benjamin Carr&eacute;",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-carreacute"
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Knights of the Old Republic: War #2",
@@ -81254,9 +80749,9 @@
         "slug": "gigi-baldassini"
       },
       {
-        "name": "Benjamin Carr&eacute;",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-carreacute"
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Knights of the Old Republic: War #3",
@@ -82650,14 +82145,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -82712,14 +82202,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -82774,14 +82259,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -82836,9 +82316,9 @@
         "slug": "travel-foreman"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Jan Duursema",
@@ -82898,14 +82378,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -82960,14 +82435,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -83022,14 +82492,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -83255,9 +82720,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Jan Duursema",
@@ -83320,11 +82785,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -83446,11 +82906,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -83506,11 +82961,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -83570,11 +83020,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -83630,11 +83075,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -83694,11 +83134,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -83754,11 +83189,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -83818,9 +83248,9 @@
         "slug": "omar-francia"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Legacy #20: Indomitable, Part 1",
@@ -83980,9 +83410,9 @@
         "slug": "travis-charest"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "coverArtist",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Dan Scott",
@@ -84828,11 +84258,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -84880,9 +84305,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Jan Duursema",
@@ -84890,19 +84315,14 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
-      },
-      {
-        "name": "Jan Duursema/Brad Anderson",
-        "role": "colorist",
-        "slug": "jan-duursemabrad-anderson"
-      },
-      {
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Legacy #24: Loyalties, Part 2",
@@ -84945,11 +84365,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85007,11 +84422,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Legacy #26: The Hidden Temple, Part 2",
@@ -85108,11 +84518,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -85168,11 +84573,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85240,11 +84640,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Legacy #30: Vector, Part 11",
@@ -85292,11 +84687,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85465,9 +84855,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Jan Duursema",
@@ -85520,11 +84910,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85631,11 +85016,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -85691,11 +85071,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85755,11 +85130,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -85817,11 +85187,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -85869,9 +85234,9 @@
         "slug": "jesus-aburtov"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -85941,9 +85306,9 @@
         "slug": "dave-ross"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       }
     ],
     "displayTitle": "Legacy #42: Divided Loyalties",
@@ -85991,11 +85356,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -86055,11 +85415,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -86115,11 +85470,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -86179,11 +85529,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -86239,11 +85584,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -86303,11 +85643,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -86365,11 +85700,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -86425,11 +85755,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -87250,11 +86575,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -87310,11 +86630,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -87374,11 +86689,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -87434,11 +86744,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -87498,11 +86803,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -87558,11 +86858,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -92275,9 +91570,9 @@
         "slug": "carrie-beck"
       },
       {
-        "name": "Athena Yvette Portillo",
+        "name": "Athena Portillo",
         "role": "producer",
-        "slug": "athena-yvette-portillo"
+        "slug": "athena-portillo"
       },
       {
         "name": "Josh Rimes",
@@ -92332,9 +91627,9 @@
         "slug": "carrie-beck"
       },
       {
-        "name": "Athena Yvette Portillo",
+        "name": "Athena Portillo",
         "role": "producer",
-        "slug": "athena-yvette-portillo"
+        "slug": "athena-portillo"
       },
       {
         "name": "Josh Rimes",
@@ -96282,14 +95577,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -96328,14 +95623,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -96374,14 +95669,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -96709,14 +96004,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -96727,11 +96022,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Arif Pianto",
@@ -96790,14 +96080,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -96808,11 +96098,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Arif Pianto",
@@ -96871,14 +96156,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -96947,19 +96232,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97008,14 +96293,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -97069,19 +96354,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97120,19 +96405,19 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97169,14 +96454,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Mark Paniccia",
@@ -97218,14 +96503,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Mark Paniccia",
@@ -97267,14 +96552,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Mark Paniccia",
@@ -97316,14 +96601,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Mark Paniccia",
@@ -97365,14 +96650,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Mark Paniccia",
@@ -97439,19 +96724,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97515,19 +96800,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97591,19 +96876,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97667,19 +96952,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97743,19 +97028,19 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -97804,14 +97089,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -97850,14 +97135,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -97896,14 +97181,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -97942,14 +97227,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -98003,14 +97288,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "inker",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       },
       {
         "name": "Vc Joe Caramagna",
@@ -98031,11 +97316,6 @@
         "name": "Phil Noto",
         "role": "coverArtist",
         "slug": "phil-noto"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Poe Dameron #07: The Gathering Storm",
@@ -98069,14 +97349,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -98115,14 +97395,14 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "penciler",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Jordan D. White",
@@ -98582,9 +97862,9 @@
         "slug": "jordie-bellaire"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       }
     ],
     "displayTitle": "Princess Leia, Part II",
@@ -98874,14 +98154,14 @@
         "slug": "john-ostrander"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "penciler",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
-        "name": "Douglas Wheatley",
+        "name": "Doug Wheatley",
         "role": "inker",
-        "slug": "douglas-wheatley"
+        "slug": "doug-wheatley"
       },
       {
         "name": "Ronda Pattison",
@@ -98897,21 +98177,6 @@
         "name": "Adam Hughes",
         "role": "coverArtist",
         "slug": "adam-hughes"
-      },
-      {
-        "name": "Michael Thomas",
-        "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "inker",
-        "slug": "doug-wheatley"
-      },
-      {
-        "name": "Doug Wheatley",
-        "role": "penciler",
-        "slug": "doug-wheatley"
       },
       {
         "name": "Doug Wheatley",
@@ -99509,11 +98774,6 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -99579,11 +98839,6 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -99647,11 +98902,6 @@
         "name": "Raul Fonts",
         "role": "inker",
         "slug": "raul-fonts"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -100407,11 +99657,6 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -100462,11 +99707,6 @@
         "name": "Gabe Eltaeb",
         "role": "colorist",
         "slug": "gabe-eltaeb"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -100521,11 +99761,6 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -100576,11 +99811,6 @@
         "name": "Gabe Eltaeb",
         "role": "colorist",
         "slug": "gabe-eltaeb"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -105195,11 +104425,6 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
-      },
-      {
         "name": "Mark Lipka",
         "role": "inker",
         "slug": "mark-lipka"
@@ -105249,11 +104474,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #11: Outlander, Part 5",
@@ -105295,11 +104515,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #14: Emissaries to Malastare, Part 2",
@@ -105341,11 +104556,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #15: Emissaries to Malastare, Part 3",
@@ -105397,11 +104607,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #16: Emissaries to Malastare, Part 4",
@@ -105547,11 +104752,6 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
-      },
-      {
         "name": "Mark Lipka",
         "role": "inker",
         "slug": "mark-lipka"
@@ -105606,11 +104806,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #12: Outlander, Part 6",
@@ -105652,11 +104847,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #13: Emissaries to Malastare, Part 1",
@@ -105698,11 +104888,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #17: Emissaries to Malastare, Part 5",
@@ -105749,11 +104934,6 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #18: Emissaries to Malastare, Part 6",
@@ -105843,9 +105023,9 @@
         "slug": "raul-fonts"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       }
     ],
     "displayTitle": "Republic #23: Infinity's End part 1",
@@ -105887,11 +105067,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       },
       {
         "name": "Davidé Fabbri",
@@ -105938,11 +105113,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       },
       {
         "name": "Davidé Fabbri",
@@ -106260,19 +105430,14 @@
         "slug": "ray-kryssing"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Haden Blackman",
         "role": "writer",
         "slug": "haden-blackman"
-      },
-      {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
       },
       {
         "name": "Joe Wayne",
@@ -106335,9 +105500,9 @@
         "slug": "w-haden-blackman"
       },
       {
-        "name": "Curtis Arnold",
+        "name": "Curtis P. Arnold",
         "role": "inker",
-        "slug": "curtis-arnold"
+        "slug": "curtis-p-arnold"
       },
       {
         "name": "Joe Wayne",
@@ -106575,11 +105740,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -106658,11 +105818,6 @@
         "name": "Brad Anderson",
         "role": "colorist",
         "slug": "brad-anderson"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Republic #68: Armor",
@@ -106699,11 +105854,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       },
       {
         "name": "Mark Lipka",
@@ -106745,11 +105895,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -106817,24 +105962,14 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Randy Stradley",
@@ -106892,14 +106027,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -106953,14 +106083,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -107012,11 +106137,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       }
     ],
     "displayTitle": "Republic #09: Outlander, Part 3",
@@ -107152,11 +106272,6 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
-      },
-      {
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
@@ -107201,11 +106316,6 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
-      },
-      {
-        "name": "Tim Truman",
-        "role": "writer",
-        "slug": "tim-truman"
       },
       {
         "name": "Davidé Fabbri",
@@ -107964,9 +107074,9 @@
         "slug": "w-haden-blackman"
       },
       {
-        "name": "Curtis Arnold",
+        "name": "Curtis P. Arnold",
         "role": "inker",
-        "slug": "curtis-arnold"
+        "slug": "curtis-p-arnold"
       },
       {
         "name": "Joe Wayne",
@@ -108087,11 +107197,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -108317,11 +107422,6 @@
         "name": "Brad Anderson",
         "role": "colorist",
         "slug": "brad-anderson"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       }
     ],
     "displayTitle": "Republic #59: Enemy Lines",
@@ -108461,11 +107561,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -108524,11 +107619,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -108662,11 +107752,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -108730,11 +107815,6 @@
         "name": "Jan Duursema",
         "role": "penciler",
         "slug": "jan-duursema"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
       },
       {
         "name": "Dan Parsons",
@@ -108802,11 +107882,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -108872,11 +107947,6 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
-      },
-      {
         "name": "Dan Parsons",
         "role": "inker",
         "slug": "dan-parsons"
@@ -108928,14 +107998,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -108989,14 +108054,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -109065,9 +108125,9 @@
         "slug": "luke-ross"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       }
     ],
     "displayTitle": "Republic #78: Loyalties",
@@ -109101,9 +108161,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -109167,9 +108227,9 @@
         "slug": "chris-chuckry"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Doug Wheatley",
@@ -109238,14 +108298,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -109299,14 +108354,9 @@
         "slug": "jan-duursema"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
-      },
-      {
-        "name": "Daniel J. Parsons",
-        "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Parsons",
@@ -109568,9 +108618,9 @@
         "slug": "dave-filoni"
       },
       {
-        "name": "Athena Yvette Portillo",
+        "name": "Athena Portillo",
         "role": "producer",
-        "slug": "athena-yvette-portillo"
+        "slug": "athena-portillo"
       },
       {
         "name": "Justin Ridge",
@@ -110210,9 +109260,9 @@
         "slug": "kevin-burke"
       },
       {
-        "name": "Chris \"Doc\" Wyatt",
+        "name": "Chris Wyatt",
         "role": "writer",
-        "slug": "chris-doc-wyatt"
+        "slug": "chris-wyatt"
       }
     ],
     "displayTitle": "The Platform Classic",
@@ -110739,9 +109789,9 @@
         "slug": "kevin-burke"
       },
       {
-        "name": "Chris \"Doc\" Wyatt",
+        "name": "Chris Wyatt",
         "role": "writer",
-        "slug": "chris-doc-wyatt"
+        "slug": "chris-wyatt"
       }
     ],
     "displayTitle": "From Beneath",
@@ -112765,9 +111815,9 @@
         "slug": "roy-richardson"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "Steve Dutro",
@@ -115471,9 +114521,9 @@
         "slug": "vc-clayton-cowles"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       },
       {
         "name": "Marco Checchetto",
@@ -115535,11 +114585,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Vc Clayton Cowles",
@@ -117548,14 +116593,9 @@
         "slug": "phil-noto"
       },
       {
-        "name": "Marco ChcchettoMarco Checchetto",
-        "role": "artist",
-        "slug": "marco-chcchettomarco-checchetto"
-      },
-      {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Marco Checchetto",
@@ -117576,11 +116616,6 @@
         "name": "Joe Caramagna",
         "role": "letterer",
         "slug": "joe-caramagna"
-      },
-      {
-        "name": "Phil Noto",
-        "role": "coverArtist",
-        "slug": "phil-noto"
       }
     ],
     "displayTitle": "Shattered Empire #1",
@@ -117634,9 +116669,9 @@
         "slug": "andres-mossa"
       },
       {
-        "name": "Philip J. Noto",
+        "name": "Phil Noto",
         "role": "coverArtist",
-        "slug": "philip-j-noto"
+        "slug": "phil-noto"
       },
       {
         "name": "Marco Checchetto",
@@ -118569,9 +117604,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Robert Chestney",
+        "name": "Rob Chestney",
         "role": "writer",
-        "slug": "robert-chestney"
+        "slug": "rob-chestney"
       }
     ],
     "displayTitle": "Smuggler's Vanguard",
@@ -118599,11 +117634,6 @@
         "name": "Lawrence Kasdan",
         "role": "writer",
         "slug": "lawrence-kasdan"
-      },
-      {
-        "name": "Jon Kasdan",
-        "role": "writer",
-        "slug": "jon-kasdan"
       },
       {
         "name": "Ron Howard",
@@ -120599,9 +119629,9 @@
         "slug": "vc-chris-eliopoulos"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       },
       {
         "name": "Terry Dodson",
@@ -126392,7 +125422,7 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2013-02-13T00:00:00.000Z",
+    "releaseDate": "2013-01-09T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-2013",
@@ -126428,7 +125458,7 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2013-09-01T00:00:00.000Z",
+    "releaseDate": "2013-01-09T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-2013-1",
@@ -126462,36 +125492,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "penciler",
-        "slug": "stuart-immonen"
-      },
-      {
-        "name": "Wade Von Grawbadger",
-        "role": "inker",
-        "slug": "wade-von-grawbadger"
-      },
-      {
-        "name": "Justin Ponsor",
-        "role": "colorist",
-        "slug": "justin-ponsor"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "coverArtist",
-        "slug": "stuart-immonen"
       }
     ],
     "displayTitle": "Star Wars (2013) #10",
@@ -126539,36 +125539,6 @@
         "name": "Sean Cooke",
         "role": "coverArtist",
         "slug": "sean-cooke"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "penciler",
-        "slug": "stuart-immonen"
-      },
-      {
-        "name": "Wade Von Grawbadger",
-        "role": "inker",
-        "slug": "wade-von-grawbadger"
-      },
-      {
-        "name": "Justin Ponsor",
-        "role": "colorist",
-        "slug": "justin-ponsor"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "coverArtist",
-        "slug": "stuart-immonen"
       }
     ],
     "displayTitle": "Star Wars (2013) #11",
@@ -126616,36 +125586,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "penciler",
-        "slug": "stuart-immonen"
-      },
-      {
-        "name": "Wade Von Grawbadger",
-        "role": "inker",
-        "slug": "wade-von-grawbadger"
-      },
-      {
-        "name": "Justin Ponsor",
-        "role": "colorist",
-        "slug": "justin-ponsor"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "coverArtist",
-        "slug": "stuart-immonen"
       }
     ],
     "displayTitle": "Star Wars (2013) #12",
@@ -126685,9 +125625,9 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Facundo Percio",
@@ -126695,44 +125635,9 @@
         "slug": "facundo-percio"
       },
       {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
-      },
-      {
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Timothy Truman",
-        "role": "writer",
-        "slug": "timothy-truman"
-      },
-      {
-        "name": "Tom Lyle",
-        "role": "penciler",
-        "slug": "tom-lyle"
-      },
-      {
-        "name": "Robert Jones",
-        "role": "inker",
-        "slug": "robert-jones"
-      },
-      {
-        "name": "Dan Jackson",
-        "role": "colorist",
-        "slug": "dan-jackson"
-      },
-      {
-        "name": "Michael Taylor",
-        "role": "letterer",
-        "slug": "michael-taylor"
-      },
-      {
-        "name": "Mark Schultz",
-        "role": "coverArtist",
-        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Star Wars (2013) #13",
@@ -126772,9 +125677,9 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Facundo Percio",
@@ -126782,44 +125687,9 @@
         "slug": "facundo-percio"
       },
       {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
-      },
-      {
         "name": "Sean Cooke",
         "role": "coverArtist",
         "slug": "sean-cooke"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Mike Deodato Jr.",
-        "role": "penciler",
-        "slug": "mike-deodato-jr"
-      },
-      {
-        "name": "Mike Deodato Jr.",
-        "role": "inker",
-        "slug": "mike-deodato-jr"
-      },
-      {
-        "name": "Frank Martin",
-        "role": "colorist",
-        "slug": "frank-martin"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Mark Brooks",
-        "role": "coverArtist",
-        "slug": "mark-brooks"
       }
     ],
     "displayTitle": "Star Wars (2013) #14: Five Days of Sith, Part Two",
@@ -126872,36 +125742,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "penciler",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "inker",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "colorist",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "coverArtist",
-        "slug": "mike-mayhew"
       }
     ],
     "displayTitle": "Star Wars (2013) #15",
@@ -126954,46 +125794,6 @@
         "name": "Sean Cooke",
         "role": "coverArtist",
         "slug": "sean-cooke"
-      },
-      {
-        "name": "Charles Soule",
-        "role": "writer",
-        "slug": "charles-soule"
-      },
-      {
-        "name": "Ramon Rosanas",
-        "role": "penciler",
-        "slug": "ramon-rosanas"
-      },
-      {
-        "name": "Ramon Rosanas",
-        "role": "inker",
-        "slug": "ramon-rosanas"
-      },
-      {
-        "name": "Rachelle Rosenberg",
-        "role": "colorist",
-        "slug": "rachelle-rosenberg"
-      },
-      {
-        "name": "Clayton Cowles",
-        "role": "letterer",
-        "slug": "clayton-cowles"
-      },
-      {
-        "name": "Carlo Pagulayan",
-        "role": "coverArtist",
-        "slug": "carlo-pagulayan"
-      },
-      {
-        "name": "Jason Paz",
-        "role": "coverArtist",
-        "slug": "jason-paz"
-      },
-      {
-        "name": "Rain Beredo",
-        "role": "coverArtist",
-        "slug": "rain-beredo"
       }
     ],
     "displayTitle": "Star Wars (2013) #16",
@@ -127046,36 +125846,6 @@
         "name": "Víctor Manuel Leza",
         "role": "coverArtist",
         "slug": "vctor-manuel-leza"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "penciler",
-        "slug": "leinil-francis-yu"
-      },
-      {
-        "name": "Gerry Alanguilan",
-        "role": "inker",
-        "slug": "gerry-alanguilan"
-      },
-      {
-        "name": "Sunny Gho",
-        "role": "colorist",
-        "slug": "sunny-gho"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Terry Dodson",
-        "role": "coverArtist",
-        "slug": "terry-dodson"
       }
     ],
     "displayTitle": "Star Wars (2013) #17",
@@ -127128,36 +125898,6 @@
         "name": "Víctor Manuel Leza",
         "role": "coverArtist",
         "slug": "vctor-manuel-leza"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "penciler",
-        "slug": "leinil-francis-yu"
-      },
-      {
-        "name": "Gerry Alanguilan",
-        "role": "inker",
-        "slug": "gerry-alanguilan"
-      },
-      {
-        "name": "Sunny Gho",
-        "role": "colorist",
-        "slug": "sunny-gho"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "coverArtist",
-        "slug": "leinil-francis-yu"
       }
     ],
     "displayTitle": "Star Wars (2013) #18",
@@ -127205,41 +125945,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "penciler",
-        "slug": "leinil-francis-yu"
-      },
-      {
-        "name": "Gerry Alanguilan",
-        "role": "inker",
-        "slug": "gerry-alanguilan"
-      },
-      {
-        "name": "Sunny Gho",
-        "role": "colorist",
-        "slug": "sunny-gho"
-      },
-      {
-        "name": "Java Tartaglia",
-        "role": "colorist",
-        "slug": "java-tartaglia"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Leinil Francis Yu",
-        "role": "coverArtist",
-        "slug": "leinil-francis-yu"
       }
     ],
     "displayTitle": "Star Wars (2013) #19",
@@ -127323,36 +126028,6 @@
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "penciler",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "inker",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "colorist",
-        "slug": "mike-mayhew"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Mike Mayhew",
-        "role": "coverArtist",
-        "slug": "mike-mayhew"
       }
     ],
     "displayTitle": "Star Wars (2013) #20",
@@ -127436,36 +126111,6 @@
         "name": "Alex Ross",
         "role": "coverArtist",
         "slug": "alex-ross"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "penciler",
-        "slug": "john-cassaday"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "inker",
-        "slug": "john-cassaday"
-      },
-      {
-        "name": "Laura Martin",
-        "role": "colorist",
-        "slug": "laura-martin"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "coverArtist",
-        "slug": "john-cassaday"
       }
     ],
     "displayTitle": "Star Wars (2013) #04: In the Shadow of Yavin, Part Four",
@@ -127513,36 +126158,6 @@
         "name": "Rodolfo Migliari",
         "role": "coverArtist",
         "slug": "rodolfo-migliari"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "penciler",
-        "slug": "john-cassaday"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "inker",
-        "slug": "john-cassaday"
-      },
-      {
-        "name": "Laura Martin",
-        "role": "colorist",
-        "slug": "laura-martin"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "John Cassaday",
-        "role": "coverArtist",
-        "slug": "john-cassaday"
       }
     ],
     "displayTitle": "Star Wars (2013) #05",
@@ -127623,9 +126238,9 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       }
     ],
     "displayTitle": "Star Wars (2013) #07",
@@ -127669,9 +126284,9 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Ryan Kelly",
@@ -127679,44 +126294,9 @@
         "slug": "ryan-kelly"
       },
       {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
-      },
-      {
         "name": "David Michael Beck",
         "role": "coverArtist",
         "slug": "david-michael-beck"
-      },
-      {
-        "name": "Jason Aaron",
-        "role": "writer",
-        "slug": "jason-aaron"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "penciler",
-        "slug": "stuart-immonen"
-      },
-      {
-        "name": "Wade Von Grawbadger",
-        "role": "inker",
-        "slug": "wade-von-grawbadger"
-      },
-      {
-        "name": "Justin Ponsor",
-        "role": "colorist",
-        "slug": "justin-ponsor"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "letterer",
-        "slug": "chris-eliopoulos"
-      },
-      {
-        "name": "Stuart Immonen",
-        "role": "coverArtist",
-        "slug": "stuart-immonen"
       }
     ],
     "displayTitle": "Star Wars (2013) #08",
@@ -127761,9 +126341,9 @@
         "slug": "gabe-eltaeb"
       },
       {
-        "name": "Daniel J. Parsons",
+        "name": "Dan Parsons",
         "role": "inker",
-        "slug": "daniel-j-parsons"
+        "slug": "dan-parsons"
       },
       {
         "name": "Ryan Kelly",
@@ -127771,88 +126351,9 @@
         "slug": "ryan-kelly"
       },
       {
-        "name": "Dan Parsons",
-        "role": "inker",
-        "slug": "dan-parsons"
-      },
-      {
         "name": "Hugh Fleming",
         "role": "coverArtist",
         "slug": "hugh-fleming"
-      },
-      {
-        "name": "Timothy Truman",
-        "role": "writer",
-        "slug": "timothy-truman"
-      },
-      {
-        "name": "Rod Pereira",
-        "role": "penciler",
-        "slug": "rod-pereira"
-      },
-      {
-        "name": "Stephen Hawthorne",
-        "role": "inker",
-        "slug": "stephen-hawthorne"
-      },
-      {
-        "name": "David McCaig",
-        "role": "colorist",
-        "slug": "david-mccaig"
-      },
-      {
-        "name": "Steve Dutro",
-        "role": "letterer",
-        "slug": "steve-dutro"
-      },
-      {
-        "name": "Dave Land",
-        "role": "editor",
-        "slug": "dave-land"
-      },
-      {
-        "name": "Kristen Burda",
-        "slug": "kristen-burda"
-      },
-      {
-        "name": "Ken Kelly",
-        "role": "coverArtist",
-        "slug": "ken-kelly"
-      },
-      {
-        "name": "Roy Thomas",
-        "role": "writer",
-        "slug": "roy-thomas"
-      },
-      {
-        "name": "Howard Chaykin",
-        "role": "penciler",
-        "slug": "howard-chaykin"
-      },
-      {
-        "name": "Tom Palmer",
-        "role": "inker",
-        "slug": "tom-palmer"
-      },
-      {
-        "name": "Tom Palmer",
-        "role": "colorist",
-        "slug": "tom-palmer"
-      },
-      {
-        "name": "John Costanza",
-        "role": "letterer",
-        "slug": "john-costanza"
-      },
-      {
-        "name": "Gil Kane",
-        "role": "coverArtist",
-        "slug": "gil-kane"
-      },
-      {
-        "name": "Tony DeZuniga",
-        "role": "coverArtist",
-        "slug": "tony-dezuniga"
       }
     ],
     "displayTitle": "Star Wars (2013) #09",
@@ -127882,24 +126383,9 @@
         "slug": "jason-aaron"
       },
       {
-        "name": "Star Wars",
-        "role": "writer",
-        "slug": "star-wars"
-      },
-      {
-        "name": "Chris Eliopoulos",
-        "role": "writer",
-        "slug": "chris-eliopoulos"
-      },
-      {
         "name": "Kieron Gillen",
         "role": "writer",
         "slug": "kieron-gillen"
-      },
-      {
-        "name": "Star Wars Annual",
-        "role": "writer",
-        "slug": "star-wars-annual"
       },
       {
         "name": "Greg Pak",
@@ -127945,6 +126431,11 @@
         "name": "Phil Noto",
         "role": "artist",
         "slug": "phil-noto"
+      },
+      {
+        "name": "Chris Eliopoulos",
+        "role": "letterer",
+        "slug": "chris-eliopoulos"
       }
     ],
     "displayTitle": "Star Wars (2015)",
@@ -128045,9 +126536,9 @@
         "slug": "vc-chris-eliopoulos"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       },
       {
         "name": "Mike Mayhew",
@@ -132689,11 +131180,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #29: Yoda's Secret War, Part IV",
@@ -132917,11 +131403,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #30: Yoda's Secret War, Part V",
@@ -132969,11 +131450,6 @@
         "name": "Jordan D. White",
         "role": "editor",
         "slug": "jordan-d-white"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       },
       {
         "name": "Vc Clayton Cowles",
@@ -133070,11 +131546,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #34: The Thirteen Crates",
@@ -133151,11 +131622,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #35: The Hutt Run",
@@ -133232,11 +131698,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #36: Revenge of the Astromech",
@@ -133323,11 +131784,6 @@
         "name": "Andrea Sorrentino",
         "role": "penciler",
         "slug": "andrea-sorrentino"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #37: Imperial Pride",
@@ -133409,11 +131865,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #38: The Ashes of Jedha, Part I",
@@ -133495,11 +131946,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #39: The Ashes of Jedha, Part II",
@@ -133637,11 +132083,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #40: The Ashes of Jedha, Part III",
@@ -133723,11 +132164,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #41: The Ashes of Jedha, Part IV",
@@ -133814,11 +132250,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #42: The Ashes of Jedha, Part V",
@@ -133905,11 +132336,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #43: The Ashes of Jedha, Part VI",
@@ -133996,11 +132422,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #44: Mutiny at Mon Cala, Part I",
@@ -134087,11 +132508,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #45: Mutiny at Mon Cala, Part II",
@@ -134178,11 +132594,6 @@
         "name": "Salvador Larroca",
         "role": "penciler",
         "slug": "salvador-larroca"
-      },
-      {
-        "name": "Jordan White",
-        "role": "editor",
-        "slug": "jordan-white"
       }
     ],
     "displayTitle": "Star Wars (2015) #46: Mutiny at Mon Cala, Part III",
@@ -136872,9 +135283,9 @@
         "slug": "vc-chris-eliopoulos"
       },
       {
-        "name": "Jordan White",
+        "name": "Jordan D. White",
         "role": "editor",
-        "slug": "jordan-white"
+        "slug": "jordan-d-white"
       },
       {
         "name": "Stuart Immonen",
@@ -138746,11 +137157,6 @@
         "name": "Katie Cook",
         "role": "writer",
         "slug": "katie-cook"
-      },
-      {
-        "name": "Shaun Manning",
-        "role": "writer",
-        "slug": "shaun-manning"
       },
       {
         "name": "Cara McGee",
@@ -141499,44 +139905,14 @@
         "slug": "john-cassaday"
       },
       {
-        "name": "Chris Claremont",
-        "role": "writer",
-        "slug": "chris-claremont"
-      },
-      {
-        "name": "Mike Vosburg",
-        "role": "penciler",
-        "slug": "mike-vosburg"
-      },
-      {
-        "name": "Steve Leialoha",
-        "role": "inker",
-        "slug": "steve-leialoha"
-      },
-      {
-        "name": "Bob Sharen",
-        "role": "colorist",
-        "slug": "bob-sharen"
-      },
-      {
-        "name": "John Costanza",
-        "role": "letterer",
-        "slug": "john-costanza"
-      },
-      {
-        "name": "Walt Simonson",
-        "role": "coverArtist",
-        "slug": "walt-simonson"
-      },
-      {
         "name": "John Cassaday",
         "role": "coverArtist",
         "slug": "john-cassaday"
       },
       {
-        "name": "Angel Unzueta Galarza",
+        "name": "Angel Unzueta",
         "role": "penciler",
-        "slug": "angel-unzueta-galarza"
+        "slug": "angel-unzueta"
       }
     ],
     "displayTitle": "Star Wars (2015) Annual #1",
@@ -143834,11 +142210,6 @@
         "slug": "andy-mushynsky"
       },
       {
-        "name": "Daniel Kurt Thorsland",
-        "role": "writer",
-        "slug": "daniel-kurt-thorsland"
-      },
-      {
         "name": "Bill Hughes",
         "role": "penciler",
         "slug": "bill-hughes"
@@ -144768,11 +143139,6 @@
         "slug": "george-lucas"
       },
       {
-        "name": "Special Edition",
-        "role": "producer",
-        "slug": "special-edition"
-      },
-      {
         "name": "George Lucas",
         "role": "producer",
         "slug": "george-lucas"
@@ -144833,11 +143199,6 @@
         "name": "John Williams",
         "role": "composer",
         "slug": "john-williams"
-      },
-      {
-        "name": "Special Edition",
-        "role": "producer",
-        "slug": "special-edition"
       }
     ],
     "displayTitle": "Episode V: The Empire Strikes Back",
@@ -145007,11 +143368,6 @@
         "name": "George Lucas",
         "role": "producer",
         "slug": "george-lucas"
-      },
-      {
-        "name": "Special Edition",
-        "role": "producer",
-        "slug": "special-edition"
       }
     ],
     "displayTitle": "Episode VI: Return Of The Jedi",
@@ -147934,9 +146290,9 @@
         "slug": "peet-janes"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "John Nadeau",
@@ -147982,11 +146338,6 @@
         "name": "Stan n' Vince",
         "role": "artist",
         "slug": "stan-n-vince"
-      },
-      {
-        "name": "Dave Nestelle",
-        "role": "colorist",
-        "slug": "dave-nestelle"
       },
       {
         "name": "Peet Janes",
@@ -155231,11 +153582,6 @@
         "name": "Vanessa Rubio-Barreau",
         "role": "writer",
         "slug": "vanessa-rubio-barreau"
-      },
-      {
-        "name": "Vanessa Rubio",
-        "role": "writer",
-        "slug": "vanessa-rubio"
       }
     ],
     "displayTitle": "Rebels: Le Choix d'Ezra",
@@ -155588,9 +153934,9 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Vanessa Rubio",
+        "name": "Vanessa Rubio-Barreau",
         "role": "writer",
-        "slug": "vanessa-rubio"
+        "slug": "vanessa-rubio-barreau"
       }
     ],
     "displayTitle": "Rebels: Une Pilote Hors Pair",
@@ -156398,9 +154744,9 @@
         "slug": "timothy-zahn"
       },
       {
-        "name": "James Woodring",
+        "name": "Jim Woodring",
         "role": "writer",
-        "slug": "james-woodring"
+        "slug": "jim-woodring"
       },
       {
         "name": "Chris Chuckry",
@@ -156724,9 +155070,9 @@
         "slug": "lucas-marangon"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Lovern Kindzierski",
@@ -156799,9 +155145,9 @@
         "slug": "lucas-marangon"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "inker",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Dave Land",
@@ -157008,9 +155354,9 @@
         "slug": "david-mccaig"
       },
       {
-        "name": "James Pascoe",
+        "name": "Jim Pascoe",
         "role": "writer",
-        "slug": "james-pascoe"
+        "slug": "jim-pascoe"
       },
       {
         "name": "Mark Evanier",
@@ -157213,9 +155559,9 @@
         "slug": "mark-cox"
       },
       {
-        "name": "Francisco Velasco",
+        "name": "Francisco Ruiz Velasco",
         "role": "coverArtist",
-        "slug": "francisco-velasco"
+        "slug": "francisco-ruiz-velasco"
       }
     ],
     "displayTitle": "Tales #07",
@@ -157840,9 +156186,9 @@
         "slug": "todd-broeker"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       }
     ],
     "displayTitle": "Tales #11",
@@ -158182,9 +156528,9 @@
         "slug": "jon-sommariva"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Steve Dutro",
@@ -158339,9 +156685,9 @@
         "slug": "timothy-ii"
       },
       {
-        "name": "Sean Gordon Murphy",
+        "name": "Sean Murphy",
         "role": "artist",
-        "slug": "sean-gordon-murphy"
+        "slug": "sean-murphy"
       },
       {
         "name": "Paco Medina",
@@ -158454,19 +156800,9 @@
         "slug": "dave-land"
       },
       {
-        "name": "James Beard",
-        "role": "writer",
-        "slug": "james-beard"
-      },
-      {
         "name": "Christopher Cerasi",
         "role": "writer",
         "slug": "christopher-cerasi"
-      },
-      {
-        "name": "Sean Murphy",
-        "role": "artist",
-        "slug": "sean-murphy"
       },
       {
         "name": "Digital Chameleon",
@@ -158719,9 +157055,9 @@
         "slug": "lucas-marangon"
       },
       {
-        "name": "Gregory Titus",
+        "name": "Greg Titus",
         "role": "penciler",
-        "slug": "gregory-titus"
+        "slug": "greg-titus"
       },
       {
         "name": "David Nakayama",
@@ -158900,9 +157236,9 @@
         "slug": "peter-alilunas"
       },
       {
-        "name": "Dub w/Nico Henrichon",
+        "name": "Dub",
         "role": "penciler",
-        "slug": "dub-wnico-henrichon"
+        "slug": "dub"
       },
       {
         "name": "Chris Blythe",
@@ -159042,9 +157378,9 @@
         "slug": "andrew-c-robinson"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Greg Tocchini",
@@ -159143,9 +157479,9 @@
         "slug": "jim-campbell"
       },
       {
-        "name": "Pete Bagge",
+        "name": "Peter Bagge",
         "role": "colorist",
-        "slug": "pete-bagge"
+        "slug": "peter-bagge"
       },
       {
         "name": "Michael Heisler",
@@ -159208,9 +157544,9 @@
         "slug": "jim-campbell"
       },
       {
-        "name": "Pete Bagge",
+        "name": "Peter Bagge",
         "role": "letterer",
-        "slug": "pete-bagge"
+        "slug": "peter-bagge"
       },
       {
         "name": "Bob Fingerman",
@@ -159248,9 +157584,9 @@
         "slug": "jim-campbell"
       },
       {
-        "name": "Pete Bagge",
+        "name": "Peter Bagge",
         "role": "inker",
-        "slug": "pete-bagge"
+        "slug": "peter-bagge"
       },
       {
         "name": "Bob Fingerman",
@@ -159293,9 +157629,9 @@
         "slug": "jim-campbell"
       },
       {
-        "name": "Pete Bagge",
+        "name": "Peter Bagge",
         "role": "penciler",
-        "slug": "pete-bagge"
+        "slug": "peter-bagge"
       },
       {
         "name": "Bob Fingerman",
@@ -159333,9 +157669,9 @@
         "slug": "jim-campbell"
       },
       {
-        "name": "Pete Bagge",
+        "name": "Peter Bagge",
         "role": "writer",
-        "slug": "pete-bagge"
+        "slug": "peter-bagge"
       },
       {
         "name": "Peter Bagge",
@@ -159409,9 +157745,9 @@
         "slug": "jeremy-barlow"
       },
       {
-        "name": "Nate Butler",
+        "name": "Nathan P. Butler",
         "role": "writer",
-        "slug": "nate-butler"
+        "slug": "nathan-p-butler"
       },
       {
         "name": "Michael Atiyeh",
@@ -159447,11 +157783,6 @@
         "name": "Thomas Andrews",
         "role": "writer",
         "slug": "thomas-andrews"
-      },
-      {
-        "name": "Nathan P. Butler",
-        "role": "writer",
-        "slug": "nathan-p-butler"
       },
       {
         "name": "Brandon Badeaux",
@@ -159776,9 +158107,9 @@
         "slug": "jeremy-barlow"
       },
       {
-        "name": "Christopher Avellone",
+        "name": "Chris Avellone",
         "role": "writer",
-        "slug": "christopher-avellone"
+        "slug": "chris-avellone"
       },
       {
         "name": "Michael Heisler",
@@ -162570,9 +160901,9 @@
         "slug": "haden-blackman"
       },
       {
-        "name": "Ramon Bachs",
+        "name": "Ramón F. Bachs",
         "role": "penciler",
-        "slug": "ramon-bachs"
+        "slug": "ramn-f-bachs"
       },
       {
         "name": "Raul Fernandez",
@@ -162642,11 +160973,6 @@
         "slug": "w-haden-blackman"
       },
       {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
-      },
-      {
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
@@ -162710,11 +161036,6 @@
         "name": "W. Haden Blackman",
         "role": "writer",
         "slug": "w-haden-blackman"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -162790,11 +161111,6 @@
         "name": "W. Haden Blackman",
         "role": "writer",
         "slug": "w-haden-blackman"
-      },
-      {
-        "name": "Ramon Bachs",
-        "role": "penciler",
-        "slug": "ramon-bachs"
       },
       {
         "name": "Ramón F. Bachs",
@@ -163574,9 +161890,9 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Dan Jackson",
@@ -163602,11 +161918,6 @@
         "name": "Lucas Marangon",
         "role": "artist",
         "slug": "lucas-marangon"
-      },
-      {
-        "name": "Michael David Thomas",
-        "role": "letterer",
-        "slug": "michael-david-thomas"
       },
       {
         "name": "Lucas Marangon",
@@ -165044,11 +163355,6 @@
         "slug": "willie-schubert"
       },
       {
-        "name": "Michael Barreiro",
-        "role": "inker",
-        "slug": "michael-barreiro"
-      },
-      {
         "name": "Mike Barreiro",
         "role": "inker",
         "slug": "mike-barreiro"
@@ -165224,9 +163530,9 @@
         "slug": "rachelle-menashe"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "Willie Schubert",
@@ -165298,11 +163604,6 @@
         "name": "Willie Schubert",
         "role": "letterer",
         "slug": "willie-schubert"
-      },
-      {
-        "name": "Michael Barreiro",
-        "role": "inker",
-        "slug": "michael-barreiro"
       },
       {
         "name": "Mike Barreiro",
@@ -165573,11 +163874,6 @@
         "name": "Willie Schubert",
         "role": "letterer",
         "slug": "willie-schubert"
-      },
-      {
-        "name": "Michael Barreiro",
-        "role": "inker",
-        "slug": "michael-barreiro"
       },
       {
         "name": "Mike Barreiro",
@@ -167168,9 +165464,9 @@
         "slug": "denis-rodier"
       },
       {
-        "name": "Anthony Akins",
+        "name": "Tony Akins",
         "role": "inker",
-        "slug": "anthony-akins"
+        "slug": "tony-akins"
       },
       {
         "name": "Denis Rodier",
@@ -167178,9 +165474,9 @@
         "slug": "denis-rodier"
       },
       {
-        "name": "Anthony Akins",
+        "name": "Tony Akins",
         "role": "penciler",
-        "slug": "anthony-akins"
+        "slug": "tony-akins"
       },
       {
         "name": "Tony Akins",
@@ -167248,9 +165544,9 @@
         "slug": "denis-rodier"
       },
       {
-        "name": "Anthony Akins",
+        "name": "Tony Akins",
         "role": "inker",
-        "slug": "anthony-akins"
+        "slug": "tony-akins"
       },
       {
         "name": "Denis Rodier",
@@ -167258,9 +165554,9 @@
         "slug": "denis-rodier"
       },
       {
-        "name": "Anthony Akins",
+        "name": "Tony Akins",
         "role": "penciler",
-        "slug": "anthony-akins"
+        "slug": "tony-akins"
       },
       {
         "name": "Tony Akins",
@@ -168755,9 +167051,9 @@
         "slug": "john-mccrea"
       },
       {
-        "name": "Mike Spicer",
+        "name": "Michael Spicer",
         "role": "coverArtist",
-        "slug": "mike-spicer"
+        "slug": "michael-spicer"
       }
     ],
     "displayTitle": "Target Vader",
@@ -168832,19 +167128,14 @@
         "slug": "marc-laming"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "inker",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Marc Laming",
         "role": "penciler",
         "slug": "marc-laming"
-      },
-      {
-        "name": "Cris Loureiro Bolson",
-        "role": "penciler",
-        "slug": "cris-loureiro-bolson"
       },
       {
         "name": "Cris Bolson",
@@ -169055,9 +167346,9 @@
         "slug": "marco-failla"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "inker",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Rob DI Salvo",
@@ -169075,9 +167366,9 @@
         "slug": "marco-failla"
       },
       {
-        "name": "Cris Loureiro Bolson",
+        "name": "Cris Bolson",
         "role": "penciler",
-        "slug": "cris-loureiro-bolson"
+        "slug": "cris-bolson"
       },
       {
         "name": "Rob DI Salvo",
@@ -170235,11 +168526,6 @@
         "name": "Dave Filoni",
         "role": "writer",
         "slug": "dave-filoni"
-      },
-      {
-        "name": "Dan Wallace",
-        "role": "writer",
-        "slug": "dan-wallace"
       }
     ],
     "displayTitle": "The Art of Star Wars Rebels",
@@ -170631,11 +168917,6 @@
         "name": "Tamara Becher",
         "role": "writer",
         "slug": "tamara-becher"
-      },
-      {
-        "name": "Tamara Becher-Wilkinson",
-        "role": "writer",
-        "slug": "tamara-becher-wilkinson"
       }
     ],
     "displayTitle": "Rampage",
@@ -170829,11 +169110,6 @@
         "name": "Tamara Becher",
         "role": "writer",
         "slug": "tamara-becher"
-      },
-      {
-        "name": "Tamara Becher-Wilkinson",
-        "role": "writer",
-        "slug": "tamara-becher-wilkinson"
       }
     ],
     "displayTitle": "Devil's Deal",
@@ -171844,9 +170120,9 @@
         "slug": "george-lucas"
       },
       {
-        "name": "Athena Yvette Portillo",
+        "name": "Athena Portillo",
         "role": "producer",
-        "slug": "athena-yvette-portillo"
+        "slug": "athena-portillo"
       },
       {
         "name": "Carrie Beck",
@@ -173031,9 +171307,9 @@
         "slug": "dan-parsons"
       },
       {
-        "name": "Michael Wiggam",
+        "name": "Michael E. Wiggam",
         "role": "colorist",
-        "slug": "michael-wiggam"
+        "slug": "michael-e-wiggam"
       },
       {
         "name": "Scott Hepburn",
@@ -173172,9 +171448,9 @@
         "slug": "dan-parsons"
       },
       {
-        "name": "Michael Wiggam",
+        "name": "Michael E. Wiggam",
         "role": "colorist",
-        "slug": "michael-wiggam"
+        "slug": "michael-e-wiggam"
       }
     ],
     "displayTitle": "The Clone Wars #07: In Service of the Republic, Part 1",
@@ -173219,9 +171495,9 @@
         "slug": "dan-parsons"
       },
       {
-        "name": "Michael Wiggam",
+        "name": "Michael E. Wiggam",
         "role": "colorist",
-        "slug": "michael-wiggam"
+        "slug": "michael-e-wiggam"
       },
       {
         "name": "Scott Hepburn",
@@ -176531,19 +174807,14 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Douglas Petrie",
+        "name": "Doug Petrie",
         "role": "writer",
-        "slug": "douglas-petrie"
+        "slug": "doug-petrie"
       },
       {
         "name": "Steward Lee",
         "role": "director",
         "slug": "steward-lee"
-      },
-      {
-        "name": "Doug Petrie",
-        "role": "writer",
-        "slug": "doug-petrie"
       },
       {
         "name": "Drew Z. Greenberg",
@@ -176894,11 +175165,6 @@
         "name": "Steven Long Mitchell",
         "role": "writer",
         "slug": "steven-long-mitchell"
-      },
-      {
-        "name": "Steve Mitchell",
-        "role": "writer",
-        "slug": "steve-mitchell"
       }
     ],
     "displayTitle": "Evil Plans",
@@ -176932,11 +175198,6 @@
         "name": "Steven Long Mitchell",
         "role": "writer",
         "slug": "steven-long-mitchell"
-      },
-      {
-        "name": "Steve Mitchell",
-        "role": "writer",
-        "slug": "steve-mitchell"
       }
     ],
     "displayTitle": "Hunt for Ziro",
@@ -177484,11 +175745,6 @@
         "name": "Steven Long Mitchell",
         "role": "writer",
         "slug": "steven-long-mitchell"
-      },
-      {
-        "name": "Steve Mitchell",
-        "role": "writer",
-        "slug": "steve-mitchell"
       }
     ],
     "displayTitle": "Nomad Droids",
@@ -180487,9 +178743,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Chris Cerasi",
+        "name": "Christopher Cerasi",
         "role": "writer",
-        "slug": "chris-cerasi"
+        "slug": "christopher-cerasi"
       }
     ],
     "displayTitle": "The Clone Wars: The Hunt For Grievous",
@@ -185576,24 +183832,9 @@
         "slug": "daniel-jose-older"
       },
       {
-        "name": "The High Republic Adventures",
-        "role": "writer",
-        "slug": "the-high-republic-adventures"
-      },
-      {
-        "name": "Crash and the Crew Do What They Do",
-        "role": "writer",
-        "slug": "crash-and-the-crew-do-what-they-do"
-      },
-      {
         "name": "Claudia Gray",
         "role": "writer",
         "slug": "claudia-gray"
-      },
-      {
-        "name": "No Stone Unturned",
-        "role": "writer",
-        "slug": "no-stone-unturned"
       },
       {
         "name": "Justina Ireland",
@@ -185601,29 +183842,14 @@
         "slug": "justina-ireland"
       },
       {
-        "name": "First Mission",
-        "role": "writer",
-        "slug": "first-mission"
-      },
-      {
         "name": "Cavan Scott",
         "role": "writer",
         "slug": "cavan-scott"
       },
       {
-        "name": "The Haul",
-        "role": "writer",
-        "slug": "the-haul"
-      },
-      {
         "name": "Charles Soule",
         "role": "writer",
         "slug": "charles-soule"
-      },
-      {
-        "name": "Set For Life",
-        "role": "writer",
-        "slug": "set-for-life"
       },
       {
         "name": "Nick Brokenshire",
@@ -187274,9 +185500,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -187292,36 +185518,6 @@
         "name": "Stefano Simeone",
         "role": "artist",
         "slug": "stefano-simeone"
-      },
-      {
-        "name": "No Stone Unturned",
-        "role": "writer",
-        "slug": "no-stone-unturned"
-      },
-      {
-        "name": "First Mission",
-        "role": "writer",
-        "slug": "first-mission"
-      },
-      {
-        "name": "Crash",
-        "role": "writer",
-        "slug": "crash"
-      },
-      {
-        "name": "the Crew Do What They Do",
-        "role": "writer",
-        "slug": "the-crew-do-what-they-do"
-      },
-      {
-        "name": "The Haul",
-        "role": "writer",
-        "slug": "the-haul"
-      },
-      {
-        "name": "Set For Life",
-        "role": "writer",
-        "slug": "set-for-life"
       },
       {
         "name": "Sam Beck",
@@ -187435,9 +185631,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -187506,9 +185702,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -187577,9 +185773,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -187648,9 +185844,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -187719,9 +185915,9 @@
         "slug": "sam-beck"
       },
       {
-        "name": "Jesse Lonegran",
+        "name": "Jesse Lonergan",
         "role": "artist",
-        "slug": "jesse-lonegran"
+        "slug": "jesse-lonergan"
       },
       {
         "name": "Jason Loo",
@@ -188047,14 +186243,14 @@
         "slug": "alyssa-wong"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "artist",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       },
       {
-        "name": "Valeria \"Lux\" Favoccia",
+        "name": "Valeria Favoccia",
         "role": "penciler",
-        "slug": "valeria-lux-favoccia"
+        "slug": "valeria-favoccia"
       },
       {
         "name": "Michael Atiyeh",
@@ -192894,11 +191090,6 @@
         "name": "David Wachter",
         "role": "penciler",
         "slug": "david-wachter"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       }
     ],
     "displayTitle": "The High Republic: Trail of Shadows #1",
@@ -192960,11 +191151,6 @@
         "name": "David Wachter",
         "role": "penciler",
         "slug": "david-wachter"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       },
       {
         "name": "Joe Sabino",
@@ -193036,11 +191222,6 @@
         "name": "David Wachter",
         "role": "penciler",
         "slug": "david-wachter"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       }
     ],
     "displayTitle": "The High Republic: Trail of Shadows #3",
@@ -193102,11 +191283,6 @@
         "name": "David Wachter",
         "role": "penciler",
         "slug": "david-wachter"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       }
     ],
     "displayTitle": "The High Republic: Trail of Shadows #4",
@@ -193168,11 +191344,6 @@
         "name": "David Wachter",
         "role": "penciler",
         "slug": "david-wachter"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       },
       {
         "name": "Joe Sabino",
@@ -193450,9 +191621,9 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "Michael Taylor",
@@ -196107,11 +194278,6 @@
         "name": "Brad Bird",
         "role": "writer",
         "slug": "brad-bird"
-      },
-      {
-        "name": "J. W. Rinzler",
-        "role": "writer",
-        "slug": "j-w-rinzler"
       }
     ],
     "displayTitle": "The Making of Star Wars: Return of the Jedi (Enhanced Edition)",
@@ -196148,9 +194314,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "J. W. Rinzler",
+        "name": "Jonathan W. Rinzler",
         "role": "writer",
-        "slug": "j-w-rinzler"
+        "slug": "jonathan-w-rinzler"
       },
       {
         "name": "Ridley Scott",
@@ -198853,9 +197019,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Robert Chestney",
+        "name": "Rob Chestney",
         "role": "writer",
-        "slug": "robert-chestney"
+        "slug": "rob-chestney"
       },
       {
         "name": "Alex Sanchez",
@@ -198876,11 +197042,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Rob Chestney",
-        "role": "writer",
-        "slug": "rob-chestney"
       },
       {
         "name": "Alex Sanchez",
@@ -198915,9 +197076,9 @@
     "canonStatus": "non-canon",
     "creators": [
       {
-        "name": "Robert Chestney",
+        "name": "Rob Chestney",
         "role": "writer",
-        "slug": "robert-chestney"
+        "slug": "rob-chestney"
       },
       {
         "name": "Alex Sanchez",
@@ -198938,11 +197099,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Rob Chestney",
-        "role": "writer",
-        "slug": "rob-chestney"
       },
       {
         "name": "Alex Sanchez",
@@ -206034,9 +204190,9 @@
         "slug": "robert-teranishi"
       },
       {
-        "name": "Christopher Chuckry",
+        "name": "Chris Chuckry",
         "role": "artist",
-        "slug": "christopher-chuckry"
+        "slug": "chris-chuckry"
       },
       {
         "name": "Robert Teranishi",
@@ -206044,14 +204200,14 @@
         "slug": "robert-teranishi"
       },
       {
-        "name": "Christopher Chuckry",
+        "name": "Chris Chuckry",
         "role": "inker",
-        "slug": "christopher-chuckry"
+        "slug": "chris-chuckry"
       },
       {
-        "name": "Christopher Chuckry",
+        "name": "Chris Chuckry",
         "role": "colorist",
-        "slug": "christopher-chuckry"
+        "slug": "chris-chuckry"
       },
       {
         "name": "Vickie Williams",
@@ -206106,19 +204262,9 @@
         "slug": "vickie-williams"
       },
       {
-        "name": "Mike Stackpole",
-        "role": "writer",
-        "slug": "mike-stackpole"
-      },
-      {
         "name": "Robert Teranishi",
         "role": "artist",
         "slug": "robert-teranishi"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "colorist",
-        "slug": "christopher-chuckry"
       },
       {
         "name": "Peet Janes",
@@ -206174,16 +204320,6 @@
         "name": "Robert Teranishi",
         "role": "penciler",
         "slug": "robert-teranishi"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "inker",
-        "slug": "christopher-chuckry"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "colorist",
-        "slug": "christopher-chuckry"
       },
       {
         "name": "Amador Cisneros",
@@ -206256,16 +204392,6 @@
         "slug": "vickie-williams"
       },
       {
-        "name": "Christopher Chuckry",
-        "role": "inker",
-        "slug": "christopher-chuckry"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "colorist",
-        "slug": "christopher-chuckry"
-      },
-      {
         "name": "Peet Janes",
         "role": "editor",
         "slug": "peet-janes"
@@ -206324,21 +204450,6 @@
         "name": "Vickie Williams",
         "role": "letterer",
         "slug": "vickie-williams"
-      },
-      {
-        "name": "Mike Stackpole",
-        "role": "writer",
-        "slug": "mike-stackpole"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "inker",
-        "slug": "christopher-chuckry"
-      },
-      {
-        "name": "Christopher Chuckry",
-        "role": "colorist",
-        "slug": "christopher-chuckry"
       },
       {
         "name": "Peet Janes",
@@ -206602,11 +204713,6 @@
         "name": "Stephen Mooney",
         "role": "artist",
         "slug": "stephen-mooney"
-      },
-      {
-        "name": "Dennis \"Hopeless\" Hallum",
-        "role": "writer",
-        "slug": "dennis-hopeless-hallum"
       },
       {
         "name": "Paolo Villanelli",
@@ -208244,11 +206350,6 @@
         "name": "Vc Ariana Maher",
         "role": "letterer",
         "slug": "vc-ariana-maher"
-      },
-      {
-        "name": "Daniel Older",
-        "role": "writer",
-        "slug": "daniel-older"
       }
     ],
     "displayTitle": "War of the Bounty Hunters: 4-LOM & Zuckuss #1",
@@ -209648,9 +207749,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Tomás Giorello",
@@ -209709,9 +207810,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Tomás Giorello",
@@ -209770,9 +207871,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Michael Thomas",
+        "name": "Michael David Thomas",
         "role": "letterer",
-        "slug": "michael-thomas"
+        "slug": "michael-david-thomas"
       },
       {
         "name": "Tomás Giorello",
@@ -210148,9 +208249,9 @@
         "slug": "gary-erskine"
       },
       {
-        "name": "David Nestelle",
+        "name": "Dave Nestelle",
         "role": "colorist",
-        "slug": "david-nestelle"
+        "slug": "dave-nestelle"
       },
       {
         "name": "Annie Parkhouse",
@@ -211179,9 +209280,9 @@
         "slug": "scott-tice"
       },
       {
-        "name": "Timothy Bradstreet",
+        "name": "Tim Bradstreet",
         "role": "coverArtist",
-        "slug": "timothy-bradstreet"
+        "slug": "tim-bradstreet"
       }
     ],
     "displayTitle": "X-Wing Rogue Squadron #21: In the Empire's Service, Part 1",
@@ -211429,9 +209530,9 @@
         "slug": "scott-tice"
       },
       {
-        "name": "Timothy Bradstreet",
+        "name": "Tim Bradstreet",
         "role": "coverArtist",
-        "slug": "timothy-bradstreet"
+        "slug": "tim-bradstreet"
       }
     ],
     "displayTitle": "X-Wing Rogue Squadron #25: The Making of Baron Fel",
@@ -213890,9 +211991,9 @@
         "slug": "katie-kaniewski"
       },
       {
-        "name": "Shellie Kvilvang",
+        "name": "Shellie Kvilvang-O'Brien",
         "role": "director",
-        "slug": "shellie-kvilvang"
+        "slug": "shellie-kvilvang-obrien"
       },
       {
         "name": "Julius Harper",
@@ -215992,9 +214093,9 @@
         "slug": "katie-kaniewski"
       },
       {
-        "name": "Shellie Kvilvang",
+        "name": "Shellie Kvilvang-O'Brien",
         "role": "director",
-        "slug": "shellie-kvilvang"
+        "slug": "shellie-kvilvang-obrien"
       },
       {
         "name": "Casey Love",
@@ -216005,11 +214106,6 @@
         "name": "Christian Streaty",
         "role": "writer",
         "slug": "christian-streaty"
-      },
-      {
-        "name": "Shellie Kvilvang-O'Brien",
-        "role": "director",
-        "slug": "shellie-kvilvang-obrien"
       }
     ],
     "displayTitle": "The New Droid Friends",

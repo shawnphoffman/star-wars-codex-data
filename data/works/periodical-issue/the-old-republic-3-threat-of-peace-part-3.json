@@ -2,9 +2,9 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Robert Chestney",
+      "name": "Rob Chestney",
       "role": "writer",
-      "slug": "robert-chestney"
+      "slug": "rob-chestney"
     },
     {
       "name": "Alex Sanchez",
@@ -25,11 +25,6 @@
       "name": "Michael Heisler",
       "role": "letterer",
       "slug": "michael-heisler"
-    },
-    {
-      "name": "Rob Chestney",
-      "role": "writer",
-      "slug": "rob-chestney"
     },
     {
       "name": "Alex Sanchez",
