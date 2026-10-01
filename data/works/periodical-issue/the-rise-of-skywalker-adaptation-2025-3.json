@@ -43,7 +43,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-adaptation-2025-3",
   "title": "The Rise of Skywalker Adaptation (2025) #3"
 }

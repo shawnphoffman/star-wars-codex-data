@@ -30,6 +30,36 @@
       "name": "Comicraft",
       "role": "letterer",
       "slug": "comicraft"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "inker",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Elisa Romboli",
+      "role": "coverArtist",
+      "slug": "elisa-romboli"
+    },
+    {
+      "name": "Spencer Cushing",
+      "role": "editor",
+      "slug": "spencer-cushing"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023) #14",
@@ -40,6 +70,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

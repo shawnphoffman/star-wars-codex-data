@@ -45,6 +45,11 @@
       "name": "Dave Stewart",
       "role": "colorist",
       "slug": "dave-stewart"
+    },
+    {
+      "name": "Nick Choles",
+      "role": "inker",
+      "slug": "nick-choles"
     }
   ],
   "displayTitle": "Shadow Stalker",
@@ -54,6 +59,7 @@
     "startYear": 2
   },
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "1997-11-19T00:00:00.000Z",

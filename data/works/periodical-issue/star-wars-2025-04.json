@@ -35,6 +35,41 @@
       "name": "Phil Noto",
       "role": "penciler",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "coverArtist",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "EJ Su",
+      "role": "coverArtist",
+      "slug": "ej-su"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "coverArtist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "John Tyler Christopher",
+      "role": "coverArtist",
+      "slug": "john-tyler-christopher"
+    },
+    {
+      "name": "Karl Story",
+      "role": "coverArtist",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Neeraj Menon",
+      "role": "coverArtist",
+      "slug": "neeraj-menon"
     }
   ],
   "displayTitle": "Star Wars (2025) #04",
@@ -45,6 +80,8 @@
   },
   "parentWorkSlug": "star-wars",
   "periodical": {
+    "imprint": "Marvel Comics",
+    "pageCount": 23,
     "publicationKind": "comic"
   },
   "releaseDate": "2025-08-20T00:00:00.000Z",

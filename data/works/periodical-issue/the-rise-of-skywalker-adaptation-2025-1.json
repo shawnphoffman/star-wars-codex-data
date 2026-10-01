@@ -41,9 +41,12 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "the-rise-of-skywalker-adaptation",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-02-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-rise-of-skywalker-adaptation-2025-1",
   "title": "The Rise of Skywalker Adaptation (2025) #1"
 }

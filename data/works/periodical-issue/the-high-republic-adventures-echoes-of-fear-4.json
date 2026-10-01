@@ -55,6 +55,21 @@
       "name": "Eduardo Melo with Valentina Tadde",
       "role": "coverArtist",
       "slug": "eduardo-melo-with-valentina-tadde"
+    },
+    {
+      "name": "Vincenzo Federici",
+      "role": "inker",
+      "slug": "vincenzo-federici"
+    },
+    {
+      "name": "Joe Cavanagh",
+      "role": "editor",
+      "slug": "joe-cavanagh"
+    },
+    {
+      "name": "Spencer Cushing",
+      "role": "editor",
+      "slug": "spencer-cushing"
     }
   ],
   "displayTitle": "The High Republic Adventures: Echoes of Fear #4",
@@ -65,6 +80,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear-5",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

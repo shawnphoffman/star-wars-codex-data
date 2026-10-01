@@ -1007,6 +1007,7 @@
       "startYear": -2
     },
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2025-01-29T00:00:00.000Z",
@@ -36239,6 +36240,7 @@
     },
     "parentWorkSlug": "darth-vader-and-the-ghost-prison-graphic-novel",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -58810,13 +58812,19 @@
       {
         "type": "isbn10",
         "value": "0553486403"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553486407"
       }
     ],
     "editions": [
       {
+        "extent": 144,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553486403",
+        "isbn13": "9780553486407",
         "kind": "print",
         "onsale": "1998-06-01T00:00:00.000Z"
       }
@@ -58843,7 +58851,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-10",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "A voyage on a luxury space yacht will soon leave Tash and Zak trapped and alone with no way out …",
     "title": "Galaxy of Fear: The Doomsday Ship"
   },
   {
@@ -58861,13 +58869,19 @@
       {
         "type": "isbn10",
         "value": "0553486411"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553486414"
       }
     ],
     "editions": [
       {
+        "extent": 144,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553486411",
+        "isbn13": "9780553486414",
         "kind": "print",
         "onsale": "1998-08-01T00:00:00.000Z"
       }
@@ -58894,7 +58908,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-11",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "In the dark ruins on Dantooine, something waits for Tash that she isn't ready to face.",
     "title": "Galaxy of Fear: Clones"
   },
   {
@@ -58912,13 +58926,19 @@
       {
         "type": "isbn10",
         "value": "055348642X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553486421"
       }
     ],
     "editions": [
       {
+        "extent": 128,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "055348642X",
+        "isbn13": "9780553486421",
         "kind": "print",
         "onsale": "1998-08-01T00:00:00.000Z"
       }
@@ -58945,7 +58965,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-12",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "When Tash, Zak, and Hoole stumble upon a stranded group of crash survivors, they are faced with a mystery: How did the Children survive?",
     "title": "Galaxy of Fear: The Hunger"
   },
   {
@@ -59294,7 +59314,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-7",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "Jabba's Palace is filled with terrors, but nothing could prepare Tash and Zak for the monks wandering the halls.",
     "title": "Galaxy of Fear: The Brain Spiders"
   },
   {
@@ -59312,6 +59332,10 @@
       {
         "type": "isbn10",
         "value": "0553486381"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553486384"
       }
     ],
     "editions": [
@@ -59320,6 +59344,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553486381",
+        "isbn13": "9780553486384",
         "kind": "print",
         "onsale": "1998-02-01T00:00:00.000Z"
       }
@@ -59346,7 +59371,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-8",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "A garden filled with extraordinary creatures may be much more than it appears.",
     "title": "Galaxy of Fear: The Swarm"
   },
   {
@@ -59364,6 +59389,10 @@
       {
         "type": "isbn10",
         "value": "055348639X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553486391"
       }
     ],
     "editions": [
@@ -59372,6 +59401,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "055348639X",
+        "isbn13": "9780553486391",
         "kind": "print",
         "onsale": "1998-04-01T00:00:00.000Z"
       }
@@ -59398,7 +59428,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "galaxy-of-fear-1997-9",
-    "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+    "synopsis": "Tash, Zak, and Hoole's journey to a distant mining asteroid is nothing compared to what they're about to discover lurking there.",
     "title": "Galaxy of Fear: Spore"
   },
   {
@@ -111581,6 +111611,8 @@
     },
     "parentWorkSlug": "revelations-2023",
     "periodical": {
+      "imprint": "Marvel Comics",
+      "pageCount": 48,
       "publicationKind": "comic"
     },
     "releaseDate": "2023-12-20T00:00:00.000Z",
@@ -115547,6 +115579,11 @@
         "name": "Dave Stewart",
         "role": "colorist",
         "slug": "dave-stewart"
+      },
+      {
+        "name": "Nick Choles",
+        "role": "inker",
+        "slug": "nick-choles"
       }
     ],
     "displayTitle": "Shadow Stalker",
@@ -115556,6 +115593,7 @@
       "startYear": 2
     },
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "1997-11-19T00:00:00.000Z",
@@ -130318,6 +130356,41 @@
         "name": "Phil Noto",
         "role": "penciler",
         "slug": "phil-noto"
+      },
+      {
+        "name": "Clayton Cowles",
+        "role": "letterer",
+        "slug": "clayton-cowles"
+      },
+      {
+        "name": "Chris Sprouse",
+        "role": "coverArtist",
+        "slug": "chris-sprouse"
+      },
+      {
+        "name": "EJ Su",
+        "role": "coverArtist",
+        "slug": "ej-su"
+      },
+      {
+        "name": "Jesús Saiz",
+        "role": "coverArtist",
+        "slug": "jesus-saiz"
+      },
+      {
+        "name": "John Tyler Christopher",
+        "role": "coverArtist",
+        "slug": "john-tyler-christopher"
+      },
+      {
+        "name": "Karl Story",
+        "role": "coverArtist",
+        "slug": "karl-story"
+      },
+      {
+        "name": "Neeraj Menon",
+        "role": "coverArtist",
+        "slug": "neeraj-menon"
       }
     ],
     "displayTitle": "Star Wars (2025) #04",
@@ -130328,6 +130401,8 @@
     },
     "parentWorkSlug": "star-wars",
     "periodical": {
+      "imprint": "Marvel Comics",
+      "pageCount": 23,
       "publicationKind": "comic"
     },
     "releaseDate": "2025-08-20T00:00:00.000Z",
@@ -144446,7 +144521,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345470664",
         "isbn13": "9780345470669",
@@ -183201,6 +183276,8 @@
     },
     "parentWorkSlug": "the-high-republic",
     "periodical": {
+      "imprint": "Marvel Comics",
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2023-11-08T00:00:00.000Z",
@@ -184862,6 +184939,36 @@
         "name": "Comicraft",
         "role": "letterer",
         "slug": "comicraft"
+      },
+      {
+        "name": "Harvey Tolibao",
+        "role": "penciler",
+        "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Harvey Tolibao",
+        "role": "inker",
+        "slug": "harvey-tolibao"
+      },
+      {
+        "name": "Jimmy Betancourt",
+        "role": "letterer",
+        "slug": "jimmy-betancourt"
+      },
+      {
+        "name": "Tyler Smith",
+        "role": "letterer",
+        "slug": "tyler-smith"
+      },
+      {
+        "name": "Elisa Romboli",
+        "role": "coverArtist",
+        "slug": "elisa-romboli"
+      },
+      {
+        "name": "Spencer Cushing",
+        "role": "editor",
+        "slug": "spencer-cushing"
       }
     ],
     "displayTitle": "The High Republic Adventures (2023) #14",
@@ -184872,6 +184979,7 @@
     },
     "parentWorkSlug": "the-high-republic-adventures",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -186712,6 +186820,21 @@
         "name": "Eduardo Melo with Valentina Tadde",
         "role": "coverArtist",
         "slug": "eduardo-melo-with-valentina-tadde"
+      },
+      {
+        "name": "Vincenzo Federici",
+        "role": "inker",
+        "slug": "vincenzo-federici"
+      },
+      {
+        "name": "Joe Cavanagh",
+        "role": "editor",
+        "slug": "joe-cavanagh"
+      },
+      {
+        "name": "Spencer Cushing",
+        "role": "editor",
+        "slug": "spencer-cushing"
       }
     ],
     "displayTitle": "The High Republic Adventures: Echoes of Fear #4",
@@ -186722,6 +186845,7 @@
     },
     "parentWorkSlug": "the-high-republic-adventures-echoes-of-fear-5",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -186896,6 +187020,7 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-high-republic-adventures-pathfinders",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -186939,6 +187064,7 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-high-republic-adventures-pathfinders",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -187404,6 +187530,7 @@
     },
     "parentWorkSlug": "the-high-republic-adventures-saber-for-hire",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "pageCount": 32,
       "publicationKind": "comic"
     },
@@ -196014,6 +196141,7 @@
     },
     "parentWorkSlug": "the-mandalorian-season-2",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2023-06-21T00:00:00.000Z",
@@ -199135,9 +199263,10 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-rise-of-skywalker-adaptation",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
-    "releaseDate": "2020-03-18T00:00:00.000Z",
+    "releaseDate": "2025-05-28T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-4",
@@ -199188,9 +199317,10 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-rise-of-skywalker-adaptation",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
-    "releaseDate": "2020-04-15T00:00:00.000Z",
+    "releaseDate": "2025-06-11T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-5",
@@ -199228,7 +199358,7 @@
       "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
-    "releaseDate": "2020-03-18T00:00:00.000Z",
+    "releaseDate": "2025-02-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-adaptation",
@@ -199278,9 +199408,12 @@
     "format": "periodicalIssue",
     "parentWorkSlug": "the-rise-of-skywalker-adaptation",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-02-26T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-adaptation-2025-1",
     "title": "The Rise of Skywalker Adaptation (2025) #1"
   },
@@ -199329,7 +199462,9 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-03-26T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-adaptation-2025-2",
     "title": "The Rise of Skywalker Adaptation (2025) #2"
   },
@@ -199378,7 +199513,9 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2025-04-30T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-rise-of-skywalker-adaptation-2025-3",
     "title": "The Rise of Skywalker Adaptation (2025) #3"
   },
@@ -201798,6 +201935,7 @@
     },
     "parentWorkSlug": "thrawn-alliances-comics",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2024-03-20T00:00:00.000Z",
@@ -201880,6 +202018,7 @@
     },
     "parentWorkSlug": "thrawn-alliances-comics",
     "periodical": {
+      "imprint": "Marvel Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "2024-04-10T00:00:00.000Z",
@@ -204285,6 +204424,7 @@
     },
     "parentWorkSlug": "union-1999",
     "periodical": {
+      "imprint": "Dark Horse Comics",
       "publicationKind": "comic"
     },
     "releaseDate": "1999-11-10T00:00:00.000Z",

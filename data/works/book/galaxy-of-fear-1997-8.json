@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0553486381"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553486384"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553486381",
+      "isbn13": "9780553486384",
       "kind": "print",
       "onsale": "1998-02-01T00:00:00.000Z"
     }
@@ -47,6 +52,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "galaxy-of-fear-1997-8",
-  "synopsis": "Star Wars: Galaxy of Fear is a series of novels intended for young readers. The books cover a period of approximately 6 to 18 months ABY, serving as a sequel to the events of Star Wars: Episode IV A New Hope. The series of twelve books was written by John Whitman, and was released from February 1997 through October 1998. The books ranged from 100 pages to 200 pages in large print.",
+  "synopsis": "A garden filled with extraordinary creatures may be much more than it appears.",
   "title": "Galaxy of Fear: The Swarm"
 }
