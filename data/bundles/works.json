@@ -77400,6 +77400,11 @@
         "name": "Mike Hawthorne",
         "role": "coverArtist",
         "slug": "mike-hawthorne"
+      },
+      {
+        "name": "Benjamin Carré",
+        "role": "coverArtist",
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Knight Errant: Escape #1",
@@ -114863,7 +114868,7 @@
     "title": "Sergio Aragones Stomps Star Wars"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "creators": [
       {
         "name": "Sergio Aragones",
@@ -141669,6 +141674,11 @@
       {
         "name": "Scott Tice",
         "slug": "scott-tice"
+      },
+      {
+        "name": "Ian Gibson",
+        "role": "artist",
+        "slug": "ian-gibson"
       }
     ],
     "displayTitle": "Droids (1994) #3",
