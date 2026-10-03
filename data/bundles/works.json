@@ -16981,7 +16981,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "chewbacca-2000-1",
-    "synopsis": "Dark Horse proudly releases a series detailing, for the first time ever, the history of the galaxy's greatest Wookiee! Each issue will feature several chapters, each illustrated by a different artist, featuring the greatest tales of Chewbacca, narrated by the characters who know him best! This special first issue features stories narrated by Mallatobuck, Chewbacca's wife, and Attichitcuk, Chewbacca's father. Later issues will feature Luke Skywalker, Lando Calrissian, Princess Leia, Han Solo (of course!), and many more! No true Star Wars fan can be without this series&mdash;so don't be left beh",
+    "synopsis": "Dark Horse proudly releases a series detailing, for the first time ever, the history of the galaxy's greatest Wookiee! Each issue will feature several chapters, each illustrated by a different artist, featuring the greatest tales of Chewbacca, narrated by the characters who know him best! This special first issue features stories narrated by Mallatobuck, Chewbacca's wife, and Attichitcuk, Chewbacca's father. Later issues will feature Luke Skywalker, Lando Calrissian, Princess Leia, Han Solo (of course!), and many more! No true Star Wars fan can be without this series-so don't be left behind!",
     "title": "Chewbacca (2000) #1"
   },
   {
@@ -29422,7 +29422,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "darth-maul-2000-1",
-    "synopsis": "In hiding for generations, the Sith have waited for the precise moment to reveal themselves to the galaxy. Hoping to catch the Jedi unaware, Lord Sidious and his deadly apprentice, Darth Maul, have planned and waited patiently for their moment to pounce. Unfortunately, in the days before the Trade Federation blockade of the planet Naboo, Lord Sidious becomes aware of a threat to his plans. This threat comes from the deadly galactic crime organization Black Sun. But Sidious won't stand for any opposition, and Darth Maul is sent to deal with Black Sun&mdash;as only a master of the dark side can!",
+    "synopsis": "In hiding for generations, the Sith have waited for the precise moment to reveal themselves to the galaxy. Hoping to catch the Jedi unaware, Lord Sidious and his deadly apprentice, Darth Maul, have planned and waited patiently for their moment to pounce. Unfortunately, in the days before the Trade Federation blockade of the planet Naboo, Lord Sidious becomes aware of a threat to his plans. This threat comes from the deadly galactic crime organization Black Sun. But Sidious won't stand for any opposition, and Darth Maul is sent to deal with Black Sun -- as only a master of the dark side can!",
     "title": "Darth Maul (2000) #1"
   },
   {
@@ -29482,7 +29482,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "darth-maul-2000-2",
-    "synopsis": "The criminal organization Black Sun is feared across the galaxy. There is very little that their power and corruption do not influence. But now the tables are turned as the scheming Sith Lord, Darth Sidious, has sent his merciless enforcer, Darth Maul, to make sure that Black Sun stays out of his affairs. Gaining entrance to Black Sun, Maul works his way to the inner sanctum of the organization&mdash;and that's when the destruction begins!",
+    "synopsis": "The criminal organization Black Sun is feared across the galaxy. There is very little that their power and corruption do not influence. But now the tables are turned as the scheming Sith Lord, Darth Sidious, has sent his merciless enforcer, Darth Maul, to make sure that Black Sun stays out of his affairs. Gaining entrance to Black Sun, Maul works his way to the inner sanctum of the organization -- and that's when the destruction begins!",
     "title": "Darth Maul (2000) #2"
   },
   {
@@ -29542,7 +29542,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "darth-maul-2000-3",
-    "synopsis": "The ultimate enforcer, Darth Maul, continues his single-handed decimation of the ranks of the galactic crime syndicate Black Sun. As lieutenant after lieutenant falls under the swift blade of Maul's cold wrath, Black Sun pulls itself together to discuss how to deal with this new threat. Aware of Black Sun's plan, Maul shows up at Black Sun headquarters just as the in-fighting starts, and all hell breaks loose&mdash;Maul-style! Be sure not to miss this action-filled third chapter in the long-awaited Darth Maul series, written by comics superstar Ron Marz (Green Lantern, Batman/Tarzan) and with ",
+    "synopsis": "The ultimate enforcer, Darth Maul, continues his single-handed decimation of the ranks of the galactic crime syndicate Black Sun. As lieutenant after lieutenant falls under the swift blade of Maul's cold wrath, Black Sun pulls itself together to discuss how to deal with this new threat. Aware of Black Sun's plan, Maul shows up at Black Sun headquarters just as the in-fighting starts, and all hell breaks loose -- Maul-style! Be sure not to miss this action-filled third chapter in the long-awaited Darth Maul series, written by comics superstar Ron Marz (Green Lantern, Batman/Tarzan) and with dazzling art by Jan Duursema and Rick Magyar, fresh off their stint on Star Wars: Twilight!",
     "title": "Darth Maul (2000) #3"
   },
   {
@@ -67167,6 +67167,21 @@
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
+      },
+      {
+        "name": "Raul Fernandez",
+        "role": "inker",
+        "slug": "raul-fernandez"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Andrew Robinson",
+        "role": "coverArtist",
+        "slug": "andrew-robinson"
       }
     ],
     "displayTitle": "Republic #24: Infinity's End part 2",
@@ -104372,6 +104387,26 @@
         "name": "Jordi Ensign",
         "role": "inker",
         "slug": "jordi-ensign"
+      },
+      {
+        "name": "Dave Nestelle",
+        "role": "colorist",
+        "slug": "dave-nestelle"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Ken Kelly",
+        "role": "coverArtist",
+        "slug": "ken-kelly"
       }
     ],
     "displayTitle": "Republic #05: Prelude to Rebellion, Part 5",
@@ -104464,6 +104499,16 @@
         "name": "Mark Lipka",
         "role": "inker",
         "slug": "mark-lipka"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Ken Kelly",
+        "role": "coverArtist",
+        "slug": "ken-kelly"
       }
     ],
     "displayTitle": "Republic #08: Outlander, Part 2",
@@ -105016,6 +105061,16 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Republic #21: Twilight, Part 3",
@@ -105062,6 +105117,21 @@
         "name": "Ramón F. Bachs",
         "role": "penciler",
         "slug": "ramn-f-bachs"
+      },
+      {
+        "name": "Raul Fernandez",
+        "role": "inker",
+        "slug": "raul-fernandez"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Andrew Robinson",
+        "role": "coverArtist",
+        "slug": "andrew-robinson"
       }
     ],
     "displayTitle": "Republic #23: Infinity's End part 1",
@@ -105200,6 +105270,26 @@
         "name": "Jordi Ensign",
         "role": "inker",
         "slug": "jordi-ensign"
+      },
+      {
+        "name": "Dave Nestelle",
+        "role": "colorist",
+        "slug": "dave-nestelle"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Dan Brereton",
+        "role": "coverArtist",
+        "slug": "dan-brereton"
       }
     ],
     "displayTitle": "Republic #04: Prelude to Rebellion, Part 4",
@@ -106265,6 +106355,16 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Republic #22: Twilight, Part 4",
