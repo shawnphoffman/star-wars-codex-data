@@ -45,6 +45,9 @@
   "displayTitle": "Union",
   "era": "newRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 19
+  },
   "periodical": {
     "publicationKind": "comic"
   },

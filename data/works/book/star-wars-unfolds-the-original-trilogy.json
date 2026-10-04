@@ -1,0 +1,23 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "Unfolds: The Original Trilogy",
+  "editions": [
+    {
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-03-31T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-03-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-unfolds-the-original-trilogy",
+  "synopsis": "Watch the saga unfold with the turn of a page in this one-of-a-kind gift book.This groundbreaking storybook brings the saga to life like never before. As you turn the pages, one epic and seamlessly captivating illustration, printed on an accordion fold, moves forward with you - each section transitioning into the next to tell the story of a galaxy far, far away. Star Wars: The Saga Unfolds spans the series, and is perfect for young padawans, their Jedi Masters, and everyone in between.",
+  "title": "Star Wars Unfolds: The Original Trilogy"
+}

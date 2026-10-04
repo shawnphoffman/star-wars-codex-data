@@ -1,7 +1,10 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "A New Hope: Manga (1998)",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George R. Strayton",
+      "role": "writer",
+      "slug": "george-r-strayton"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "editor",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Tales of the Jedi Companion",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-the-jedi-companion",
+  "synopsis": "Tales of the Jedi Companion is a sourcebook for Star Wars: The Roleplaying Game, published by West End Games on August 1, 1996.The book covers information related to the first three story arcs of the Tales of the Jedi comic book series by Dark Horse Comics - Star Wars: Tales of the Jedi - Ulic Qel-Droma and the Beast Wars of Onderon, Star Wars: Tales of the Jedi - The Saga of Nomi Sunrider, and Star Wars: Tales of the Jedi - The Freedon Nadd Uprising.Publisher's summaryFour millennia before the rise of Emperor Palpatine, Jedi Knights struggle against the dark side of the Force and its minions. Ancient Sith sorceries have reemerged after a thousand years of dormancy, threatening the peace that has reigned across the galaxy since the Fall of the Sith Empire...The Beast Wars of Onderon and the Freedon Nadd Uprising have hurled the galaxy toward the inevitable clash between good and evil, and brave Jedi like Ulic Qel-Droma, Nomi Sunrider, and Tott Doneeta have joined force with the Republic to fend off the growing darkness.This companion to the popular Dark Horse comic book series features detailed game statistics and histories for the people, places, starships, vehicles, and droids involved in the events leading up to the Great Sith War. In addition, this book includes a detailed listing of all Force powers ever featured in any Star Wars Roleplaying Game product. A section on designing and running a Tales of the Jedi campaign, plus new equipment and character templates, enables gamemasters to create their own adventures during this time of conflict between shadow and light.The epic struggle against the dark side of the Force is only beginning...",
+  "title": "Tales of the Jedi Companion"
+}

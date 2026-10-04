@@ -27,9 +27,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Ejikure",
@@ -45,6 +45,7 @@
   },
   "parentWorkSlug": "doctor-aphra-2025-chaos-agent",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2025-10-29T00:00:00.000Z",

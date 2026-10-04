@@ -1,0 +1,34 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Episode VI: Return of the Jedi",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1983-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-episode-vi-return-of-the-jedi",
+  "title": "The Art of Star Wars Episode VI: Return of the Jedi"
+}

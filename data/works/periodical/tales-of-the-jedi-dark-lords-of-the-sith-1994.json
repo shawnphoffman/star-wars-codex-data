@@ -70,6 +70,9 @@
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith",
   "era": "oldRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -3997
+  },
   "periodical": {
     "publicationKind": "comic"
   },

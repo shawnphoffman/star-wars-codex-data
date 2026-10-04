@@ -7,9 +7,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Ramon Rosanas",
@@ -44,6 +44,7 @@
   },
   "parentWorkSlug": "boba-fett-black-white-red",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2025-10-29T00:00:00.000Z",

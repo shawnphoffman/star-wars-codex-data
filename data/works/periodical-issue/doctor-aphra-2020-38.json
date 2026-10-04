@@ -17,9 +17,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Rachelle Rosenberg",
@@ -50,6 +50,7 @@
   },
   "parentWorkSlug": "doctor-aphra",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-11-15T00:00:00.000Z",

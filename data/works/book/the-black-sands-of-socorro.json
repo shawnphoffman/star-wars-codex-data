@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Patricia A. Jackson",
+      "role": "writer",
+      "slug": "patricia-a-jackson"
+    },
+    {
+      "name": "Jerome De Crotie",
+      "role": "artist",
+      "slug": "jerome-de-crotie"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Black Sands of Socorro",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-black-sands-of-socorro",
+  "synopsis": "The Black Sands of Socorro is a supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Patricia A. Jackson and was first published in 1997.The book was written from an in-universe perspective, and provided information on the Outer Rim planet Socorro and the rest of the Socorro system. The author attempts to create an Arabian-like ambience for the locations and characters encountered on the planet.From the Publisher:A frontier world far from the tyranny of the Empire, Socorro offers opportunity, wealth - and danger!Travel the Doaba Badlands, learn the secrets of the infamous Black Bha'lir smuggling coalition... explore a world as distinctive as its unforgettable ebony surface.",
+  "title": "The Black Sands of Socorro"
+}

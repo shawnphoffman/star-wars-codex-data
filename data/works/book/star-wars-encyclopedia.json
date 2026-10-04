@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen J. Sansweet",
+      "role": "writer",
+      "slug": "stephen-j-sansweet"
+    }
+  ],
+  "displayTitle": "Encyclopedia",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-06-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-encyclopedia",
+  "synopsis": "Its vast history and environs have been explored, studied, and chronicled extensively for more than twenty years. Now, this landmark volume - a definitive reference devoted exclusively to the Star Wars milieu - draws together data from films, radio dramas, novels, short stories, computer games, and more, running the full gamut of this extraordinary galaxy.From science and technology to history and geography; from culture and biography to ecology and cosmology; from \"abo\" and \"Abrax\" to \"zwil\" and \"Zirtran's Anchor,\" this all-encompassing, fully illustrated, alphabetical reference covers all the elements which have developed and expanded the Star Wars universe, creating a rich and diverse history that spans millennia. Its scope ranges from the renowned and infamous (\"Luke Skywalker,\" \"Darth Vader\") to the obscure and enigmatic (\"Tnun Bdu\"); from the history of the Sith Wars to the Galactic Civil War that pit the Rebel Alliance against the Empire. It introduces us to the natives and customs of planets as diverse as Tatooine and Dagobah, and even to the secrets and beliefs of the Jedi Knights.",
+  "title": "Star Wars Encyclopedia"
+}

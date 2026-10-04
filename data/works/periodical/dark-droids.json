@@ -80,6 +80,9 @@
   "displayTitle": "Dark Droids",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 4
+  },
   "periodical": {
     "publicationKind": "comic"
   },

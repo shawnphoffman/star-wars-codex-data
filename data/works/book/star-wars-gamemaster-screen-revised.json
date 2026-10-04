@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "George R. Strayton",
+      "role": "writer",
+      "slug": "george-r-strayton"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Gamemaster Screen, Revised",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-gamemaster-screen-revised",
+  "synopsis": "Gamemaster Screen, Revised is a game accessory for Star Wars: The Roleplaying Game published by West End Games in December 1996.From the publisher\"As you race through the canyon, your speeder grazes the rocks, nearly spinning out of control. The Imperial speeder bike rounds the corner and opens fire! Wait a minute. I know there's something in the rules about maneuvers...\"It's hard to run a great Star Wars adventure when you're busy flipping through the rulebook. Keep your game moving with this easy-to-use screen, which summarizes rules, charts, and game statistics.ContentsThe 64-page booklet is filled with information that can be used in any adventure:Over a dozen player character templates.Lists of skills and Force powers.Game stats for common characters, starships and vehicles.Customized forms for creating starships, planets, sector maps, and much more.",
+  "title": "Star Wars Gamemaster Screen, Revised"
+}

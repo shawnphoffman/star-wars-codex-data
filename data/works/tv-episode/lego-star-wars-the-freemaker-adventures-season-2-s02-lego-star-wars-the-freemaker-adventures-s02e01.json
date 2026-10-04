@@ -1,5 +1,42 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Claus Darholt",
+      "role": "director",
+      "slug": "claus-darholt"
+    },
+    {
+      "name": "Frederik Budolph-Larsen",
+      "role": "director",
+      "slug": "frederik-budolph-larsen"
+    },
+    {
+      "name": "Jeppe Sandholt",
+      "role": "director",
+      "slug": "jeppe-sandholt"
+    },
+    {
+      "name": "Per Risager",
+      "role": "director",
+      "slug": "per-risager"
+    },
+    {
+      "name": "Bill Motz",
+      "role": "writer",
+      "slug": "bill-motz"
+    },
+    {
+      "name": "Bob Roth",
+      "role": "writer",
+      "slug": "bob-roth"
+    }
+  ],
   "displayTitle": "A New Home",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-2-s02",

@@ -1,0 +1,29 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: The Battle of Endor",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2023-03-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-the-battle-of-endor",
+  "title": "Return of the Jedi: The Battle of Endor"
+}

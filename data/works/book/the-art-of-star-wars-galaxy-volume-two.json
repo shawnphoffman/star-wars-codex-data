@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gary Gerani",
+      "role": "writer",
+      "slug": "gary-gerani"
+    },
+    {
+      "name": "Gary Gerani",
+      "role": "editor",
+      "slug": "gary-gerani"
+    },
+    {
+      "name": "Boris Vallejo",
+      "role": "coverArtist",
+      "slug": "boris-vallejo"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Galaxy: Volume Two",
+  "editions": [
+    {
+      "imprint": "Topps Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1994-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-galaxy-volume-two",
+  "synopsis": "Originally published in 1983 as The Art of Return of the Jedi, the book was reissued in 1994 with the expanded title, and updated in 1997 to include material from the Special Edition.",
+  "title": "The Art of Star Wars Galaxy: Volume Two"
+}

@@ -1,0 +1,56 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Moreci",
+      "role": "writer",
+      "slug": "michael-moreci"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "penciler",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "inker",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Mattia Iacono",
+      "role": "colorist",
+      "slug": "mattia-iacono"
+    },
+    {
+      "name": "Sara Martinelli",
+      "role": "colorist",
+      "slug": "sara-martinelli"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "coverArtist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Denton J. Tipton",
+      "role": "editor",
+      "slug": "denton-j-tipton"
+    }
+  ],
+  "displayTitle": "Adventures: Flight of the Falcon",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "star-wars-adventures-2017",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-2017-star-wars-adventures-flight-of-the-falcon",
+  "title": "Star Wars Adventures: Flight of the Falcon"
+}

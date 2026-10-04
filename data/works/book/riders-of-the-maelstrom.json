@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ray Winninger",
+      "role": "writer",
+      "slug": "ray-winninger"
+    },
+    {
+      "name": "Daniel Horne",
+      "role": "coverArtist",
+      "slug": "daniel-horne"
+    },
+    {
+      "name": "Greg Gorden",
+      "role": "editor",
+      "slug": "greg-gorden"
+    }
+  ],
+  "displayTitle": "Riders of the Maelstrom",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1989-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1989-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "riders-of-the-maelstrom",
+  "synopsis": "Riders of the Maelstrom is a roleplaying game book written by Ray Winninger, published by West End Games in July 1989. It was reprinted in Classic Adventures: Volume Three.Front coverAboard a luxury liner, Rebel heroes are caught between the power of two Imperial Moffs and a savage fleet of pirates, and the fate of an Alliance safe world hangs in the balance.Back coverDanger lurks aboard the Kuari Princess as Rebel heroes try to uncover the purpose behind a top-secret Imperial rendezvous while fighting notorious pirates - the Riders of the Maelstrom.A mission to rendezvous with a top Rebel spy on Aris goes wrong. The Rebels are chased by better than a full company of stormtroopers, strafed by Imperial sky swoopers, and risk death to escape along hundred-meter high tree limbs. When they manage to smuggle themselves onto the luxury liner Kuari Princess the Rebels know they can finally rest easy. The Rebels are wrong.Which Imperial officials are having a secret meeting aboard the Kuari Princess, and why? Can the Rebels stop the Imperial plot? Can the Rebels prevent the Riders' awful plan of destruction? Outmanned, outgunned and out of time, the Rebels must forge a victory from only their courage and resourcefulness.",
+  "title": "Riders of the Maelstrom"
+}

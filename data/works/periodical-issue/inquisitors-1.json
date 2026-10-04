@@ -17,9 +17,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Ramon Rosanas",
@@ -47,9 +47,29 @@
       "slug": "neeraj-menon"
     },
     {
-      "name": "Joe Caramagna",
-      "role": "letterer",
-      "slug": "joe-caramagna"
+      "name": "Alex Maleev",
+      "role": "coverArtist",
+      "slug": "alex-maleev"
+    },
+    {
+      "name": "Chris Sprouse",
+      "role": "coverArtist",
+      "slug": "chris-sprouse"
+    },
+    {
+      "name": "Karl Story",
+      "role": "coverArtist",
+      "slug": "karl-story"
+    },
+    {
+      "name": "Laura Martin",
+      "role": "coverArtist",
+      "slug": "laura-martin"
+    },
+    {
+      "name": "Walt Simonson",
+      "role": "coverArtist",
+      "slug": "walt-simonson"
     }
   ],
   "displayTitle": "Inquisitors #1",
@@ -60,6 +80,7 @@
   },
   "parentWorkSlug": "inquisitors",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2024-07-03T00:00:00.000Z",

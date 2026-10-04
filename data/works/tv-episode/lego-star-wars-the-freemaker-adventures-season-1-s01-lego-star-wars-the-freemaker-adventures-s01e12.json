@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jens Møller",
+      "role": "director",
+      "slug": "jens-mller"
+    }
+  ],
   "displayTitle": "Duel of Destiny",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-1-s01",

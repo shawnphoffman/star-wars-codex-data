@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Akira Himekawa",
+      "role": "artist",
+      "slug": "akira-himekawa"
+    },
+    {
+      "name": "Taiyo Matsumoto",
+      "role": "artist",
+      "slug": "taiyo-matsumoto"
+    },
+    {
+      "name": "Kamome Shirahama",
+      "role": "artist",
+      "slug": "kamome-shirahama"
+    }
+  ],
+  "displayTitle": "Tribute to Star Wars",
+  "editions": [
+    {
+      "imprint": "Kodansha",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-12-14T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-12-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tribute-to-star-wars",
+  "synopsis": "Star Wars: Tribute to Star Wars This is a manga trade paperback featuring 45 Japanese manga artists & illustrators' tributes to the Star Wars franchise. Forty-five of Japan's leading manga artists illustrate Star Wars! Explore the galaxy through the beautiful artwork of 45 outstanding Japanese manga artists and illustrators, including Akira Himekawa, Kamome Shirahama, and Taiyo Matsumoto. Celebrating the universal appeal of these iconic characters and their timeless stories, this collection presents each artist's unique tribute to the Star Wars universe and is a must-have for fans of Star Wars and manga alike!",
+  "title": "Tribute to Star Wars"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Ian Fullwood",
+      "role": "artist",
+      "slug": "ian-fullwood"
+    }
+  ],
+  "displayTitle": "The New Essential Guide to Weapons and Technology",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2004-10-26T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2004-10-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-essential-guide-to-weapons-and-technology",
+  "synopsis": "The tenth book in Del Rey's Essential Guide series, The New Essential Guide to Weapons and Technology is the updated version of The Essential Guide to Weapons and Technology. This book featured new full color and three-dimensional illustrations of over two hundred different devices, ranging from thermal detonators and Wookiee bowcasters to Lobot's cyborg implant and the Empire's superweapon devices. The book added many devices from The Phantom Menace, Attack of the Clones, and The New Jedi Order series of books.",
+  "title": "The New Essential Guide to Weapons and Technology"
+}

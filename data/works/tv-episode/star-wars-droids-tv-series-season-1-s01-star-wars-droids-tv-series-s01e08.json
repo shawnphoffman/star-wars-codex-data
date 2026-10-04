@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Raymond Jafelice",
+      "role": "director",
+      "slug": "raymond-jafelice"
+    },
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    }
+  ],
   "displayTitle": "The Revenge of Kybo Ren",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-droids-tv-series-season-1-s01",

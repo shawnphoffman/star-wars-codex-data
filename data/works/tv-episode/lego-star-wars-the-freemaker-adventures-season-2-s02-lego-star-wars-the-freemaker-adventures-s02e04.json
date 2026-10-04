@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Jeppe Sandholt",
+      "role": "director",
+      "slug": "jeppe-sandholt"
+    },
+    {
+      "name": "ND Stevenson",
+      "role": "writer",
+      "slug": "nd-stevenson"
+    }
+  ],
   "displayTitle": "The Embersteel Blade",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-2-s02",

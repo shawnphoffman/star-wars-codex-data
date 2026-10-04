@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "The Star Wars Album",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1977-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1977-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-album",
+  "synopsis": "The exclusive, behind-the-scenes story of the making of Star Wars - the most extraordinary film in motion picture history, including over a hundred exclusive photos, plus special effects secrets, interviews with George Lucas, Carrie Fisher, and Mark Hamill, the Anatomy of an Android, and a Star Wars Technical Glossary.",
+  "title": "The Star Wars Album"
+}

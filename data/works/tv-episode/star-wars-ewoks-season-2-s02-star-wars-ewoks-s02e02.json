@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dale Schott",
+      "role": "director",
+      "slug": "dale-schott"
+    },
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
+    }
+  ],
   "displayTitle": "The Wish Plant",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",

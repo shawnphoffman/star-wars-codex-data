@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lawrence Kasdan",
+      "role": "director",
+      "slug": "lawrence-kasdan"
+    }
+  ],
   "displayTitle": "\"I think I found my people.\"",
   "format": "tvEpisode",
   "parentWorkSlug": "light-and-magic-season-1-s01",

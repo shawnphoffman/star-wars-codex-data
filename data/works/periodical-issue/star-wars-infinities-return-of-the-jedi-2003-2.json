@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Ryan Benjamin",
@@ -62,7 +62,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-01-28T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-infinities-return-of-the-jedi-2003-2",
+  "synopsis": "As Leia, Lando, and Chewbacca pursue Boba Fett in an effort to retrieve the frozen form of Han Solo, Luke Skywalker discovers that he has arrived too late for his rendezvous with Yoda. Worse, he has run into the waiting clutches of Darth Vader. Unaware that Luke has been captured by the Empire, Leia and the others have their own encounter with Imperials ?as well as a fateful showdown with Fett! All of the characters and situations you loved from the film, but twisted and altered by fate as can only happen in Infinities!",
   "title": "Star Wars Infinities: Return of the Jedi (2003) #2"
 }

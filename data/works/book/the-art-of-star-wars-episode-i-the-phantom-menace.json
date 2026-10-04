@@ -1,0 +1,29 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan Bresman",
+      "role": "writer",
+      "slug": "jonathan-bresman"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Episode I: The Phantom Menace",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-09-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-09-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-episode-i-the-phantom-menace",
+  "title": "The Art of Star Wars Episode I: The Phantom Menace"
+}

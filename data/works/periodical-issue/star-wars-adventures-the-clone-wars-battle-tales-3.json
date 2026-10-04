@@ -30,11 +30,54 @@
       "name": "Philip Murphy",
       "role": "artist",
       "slug": "philip-murphy"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "penciler",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Davide Tinto",
+      "role": "penciler",
+      "slug": "davide-tinto"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "inker",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Valentina Pinto",
+      "role": "inker",
+      "slug": "valentina-pinto"
+    },
+    {
+      "name": "Luis Antonio Delgado",
+      "role": "colorist",
+      "slug": "luis-antonio-delgado"
+    },
+    {
+      "name": "Jake M. Wood",
+      "role": "letterer",
+      "slug": "jake-m-wood"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "coverArtist",
+      "slug": "derek-charm"
     }
   ],
   "displayTitle": "Adventures: The Clone Wars - Battle Tales #3",
   "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "parentWorkSlug": "star-wars-adventures-the-clone-wars-battle-tales",
   "periodical": {
     "publicationKind": "comic"

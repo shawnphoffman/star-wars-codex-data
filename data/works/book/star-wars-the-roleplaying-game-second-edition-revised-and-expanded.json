@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Roleplaying Game, Second Edition, Revised and Expanded",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-08-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-08-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-roleplaying-game-second-edition-revised-and-expanded",
+  "synopsis": "Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded is a Star Wars: The Roleplaying Game book written by Bill Smith and published by West End Games in August 1996. It supersedes the first and second editions of the core book.",
+  "title": "Star Wars: The Roleplaying Game, Second Edition, Revised and Expanded"
+}

@@ -37,9 +37,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Andrew Dalhouse",
@@ -82,9 +82,9 @@
       "slug": "heather-antos"
     },
     {
-      "name": "Matthew Owens",
+      "name": "Matt Owens",
       "role": "writer",
-      "slug": "matthew-owens"
+      "slug": "matt-owens"
     }
   ],
   "displayTitle": "Mace Windu #4",
@@ -95,6 +95,7 @@
   },
   "parentWorkSlug": "mace-windu",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2024-05-15T00:00:00.000Z",

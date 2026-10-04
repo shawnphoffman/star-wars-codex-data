@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "The Illustrated Star Wars Universe",
+  "editions": [
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-illustrated-star-wars-universe",
+  "synopsis": "Experience the Star Wars universe as you never have before in this stunning visual journey that carries you to the farthest reaches - and into the deepest mysteries - of George Lucas's cinematic masterpiece. Ralph McQuarrie, the legendary main concept artist for all three Star Wars films, and Kevin J. Anderson, the New York Times best-selling Star Wars author, present the ultimate voyage: a vivid and close-up look at the exotic worlds and remarkable inhabitants of the Star Wars universe, including two dozen paintings by Ralph McQuarrie, commissioned especially for these pages.The breathtaking artwork of McQuarrie and Anderson's delightful text are your guide to eight different Star Wars locales. You'll visit: Tatooine, the stark, desert home planet of Luke Skywalker, as presented by Senior Anthropologist Hoole, one of the rare Shi'ido species possessed of astonishing shape-changing abilities; Coruscant, the great and glorious center of the Empire, described by no less a personage than Pollux Hax, Imperial advisor to the Emperor's court; Dagobah, the swampy world of Yoda, as recorded by scientist Halka Four-Den in her rigorous research journals; and Bespin, the gas planet, site of the famed floating metropolis of Cloud City, its many virtues and tourist attractions enthusiastically promoted by councilman Lingsnot.You'll also explore the myth-enshrouded worlds of Endor, the forest moon sheltering the Ewoks, as detailed in the official - if somewhat embittered - report of Imperial scout Pfilbee Jhorn; Hoth, the frozen wasteland which is the site of a secret Rebel base, revealed by Major Kem Monnon, chief of the Rebel Alliance Corps of Engineers; Yavin 4, the jungle moon, nearly destroyed by the first Death Star, its significance to the Rebel Alliance recalled by the late naturalist Dr'uun Unnh; and Alderaan, Princess Leia's homeworld, cruelly annihilated by the same Death Star, memorialized by one of the few survivors, the renowned galactic poet Hari Seldona.",
+  "title": "The Illustrated Star Wars Universe"
+}

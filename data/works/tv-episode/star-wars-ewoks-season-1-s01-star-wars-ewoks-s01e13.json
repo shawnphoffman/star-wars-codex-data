@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Raymond Jafelice",
+      "role": "director",
+      "slug": "raymond-jafelice"
+    },
+    {
+      "name": "Paul Dini",
+      "role": "writer",
+      "slug": "paul-dini"
+    }
+  ],
   "displayTitle": "Asha",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-ewoks-season-1-s01",

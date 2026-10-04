@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "Richard Chasemore",
+      "role": "artist",
+      "slug": "richard-chasemore"
+    },
+    {
+      "name": "Hans Jenssen",
+      "role": "artist",
+      "slug": "hans-jenssen"
+    },
+    {
+      "name": "John Mullaney",
+      "role": "artist",
+      "slug": "john-mullaney"
+    }
+  ],
+  "displayTitle": "Inside the Worlds of Star Wars Trilogy",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2004-08-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2004-08-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "inside-the-worlds-of-star-wars-trilogy",
+  "synopsis": "Inside the Worlds of Star Wars Trilogy is a Star Wars Legends reference book that covers the locations of the original trilogy. It was written by James Luceno and illustrated by Hans Jenssen and Richard Chasemore with Curtis Saxton as consultant.",
+  "title": "Inside the Worlds of Star Wars Trilogy"
+}

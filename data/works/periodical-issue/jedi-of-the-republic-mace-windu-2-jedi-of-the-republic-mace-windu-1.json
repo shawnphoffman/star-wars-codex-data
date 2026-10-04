@@ -1,0 +1,51 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Owens",
+      "role": "writer",
+      "slug": "matt-owens"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "penciler",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "inker",
+      "slug": "roberto-poggi"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "coverArtist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    }
+  ],
+  "displayTitle": "Jedi of the Republic: Mace Windu #1",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "jedi-of-the-republic-mace-windu-2",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-08-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jedi-of-the-republic-mace-windu-2-jedi-of-the-republic-mace-windu-1",
+  "title": "Jedi of the Republic: Mace Windu #1"
+}

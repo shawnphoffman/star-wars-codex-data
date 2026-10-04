@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Year By Year: A Visual History, Updated and Expanded Edition",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-09-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-09-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-year-by-year-a-visual-history-updated-and-expanded-edition",
+  "synopsis": "Painstakingly produced, superbly illustrated, Star Wars™ Year By Year: A Visual Chronicle presents a unique Star Wars™ timeline - the full history of the amazing Star Wars phenomenon as you've never seen it before.This updated edition includes a whole new chapter covering Star Wars: The Force Awakens™ as well as the ongoing animated TV series Star Wars Rebels™ and new Star Wars-themed lands coming to Walt Disney World Florida and Disneyland California.Produced in full collaboration with Lucasfilm and written by renowned Star Wars experts, Star Wars Year By Year: A Visual Chronicle provides a unique timeline of every facet of Star Wars history, as well as the saga's impact on popular culture and world events.",
+  "title": "Star Wars Year By Year: A Visual History, Updated and Expanded Edition"
+}

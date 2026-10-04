@@ -65,6 +65,9 @@
   "displayTitle": "The High Republic Adventures: The Nameless Terror",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -382
+  },
   "periodical": {
     "publicationKind": "comic"
   },

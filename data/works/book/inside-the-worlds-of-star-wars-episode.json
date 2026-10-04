@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kristin Lund",
+      "role": "writer",
+      "slug": "kristin-lund"
+    },
+    {
+      "name": "Simon Beecroft",
+      "role": "editor",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Richard Chasemore",
+      "role": "artist",
+      "slug": "richard-chasemore"
+    },
+    {
+      "name": "Hans Jenssen",
+      "role": "artist",
+      "slug": "hans-jenssen"
+    }
+  ],
+  "displayTitle": "Inside the Worlds of Star Wars: Episode I",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2000-10-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-10-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "inside-the-worlds-of-star-wars-episode",
+  "synopsis": "Inside the Worlds of Star Wars: Episode I is a 48-page reference book that covers the locations of Star Wars: Episode I The Phantom Menace.Uncover the inside story of all the amazing locations from Star Wars: Episode I The Phantom Menace in this stunning new addition to DK's best-selling Star Wars series. Peer right into the buildings, trace the routes of the characters, and learn all the facts about the planets and locales of the movie. To produce this definitive guide, the DK team was given access to the original blueprints, scale drawings, and models for Episode I stored at Skywalker Ranch, Lucasfilm headquarters in California. Absolute accuracy and authority was ensured by the close involvement of insiders at Lucasfilm. With the addition of dozens of never-seen-before stills from the movie, illustrated maps and Kristin Lund's detailed, wide-ranging text, this book is the only reference work to provide Star Wars fans with all the background to the places and locations of Episode I.",
+  "title": "Inside the Worlds of Star Wars: Episode I"
+}

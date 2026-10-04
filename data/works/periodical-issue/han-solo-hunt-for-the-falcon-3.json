@@ -12,9 +12,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Ramon Rosanas",
@@ -40,11 +40,6 @@
       "name": "Guru Efx",
       "role": "coverArtist",
       "slug": "guru-efx"
-    },
-    {
-      "name": "Joe Caramagna",
-      "role": "letterer",
-      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Han Solo: Hunt for the Falcon #3",
@@ -56,6 +51,7 @@
   },
   "parentWorkSlug": "han-solo-hunt-for-the-falcon",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2025-11-12T00:00:00.000Z",

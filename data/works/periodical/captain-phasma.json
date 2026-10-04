@@ -20,6 +20,9 @@
   "displayTitle": "Captain Phasma",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

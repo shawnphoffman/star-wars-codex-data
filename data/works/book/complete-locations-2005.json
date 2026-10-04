@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kristin Lund",
+      "role": "writer",
+      "slug": "kristin-lund"
+    },
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    }
+  ],
+  "displayTitle": "Complete Locations",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2005-10-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-10-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "complete-locations-2005",
+  "synopsis": "\"Packed with more than 50 full-color, fantastically intricate cross-section artworks and 3-D maps, this amazing visual guide enables you to experience the incredible worlds and locations of the Star Wars galaxy in all their diversity. Detailed, authoritative text reveals essential background information on every key location from The Phantom Menace through to Return of the Jedi, from the towering skyscrapers of Coruscant and terrifying technoloy of the Death Star to the treetop villages of Endor.\"―Back cover summaryStar Wars: Complete Locations, also known as Star Wars: Complete Locations - Inside the Worlds of Episode I to VI, is a 176-page reference book released on October 17, 2005 by DK Publishing. Part of the Inside the Worlds of series of Star Wars reference books, Complete Locations is a compilation of the three previous books - Inside the Worlds of Star Wars: Episode I, Inside the Worlds of Star Wars: Attack of the Clones, and Inside the Worlds of Star Wars Trilogy - combined with new content covering the 2005 film Star Wars: Episode III Revenge of the Sith.",
+  "title": "Complete Locations"
+}

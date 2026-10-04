@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Grant S. Boucher",
+      "role": "writer",
+      "slug": "grant-s-boucher"
+    },
+    {
+      "name": "Michael Stern",
+      "role": "writer",
+      "slug": "michael-stern"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Movie Trilogy Sourcebook",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-movie-trilogy-sourcebook",
+  "synopsis": "The Movie Trilogy Sourcebook was a roleplaying guide published by West End Games for Star Wars: The Roleplaying Game. It was written by Grant S. Boucher and Michael Stern, and was first published in September 1993.The book summarizes and details the events of the original trilogy of Star Wars movies. It integrates information from three of the West End Games Galaxy Guides - Galaxy Guide 1: A New Hope, Galaxy Guide 3: The Empire Strikes Back, and Galaxy Guide 5: Return of the Jedi - into one volume, updated for the Second Edition rules.",
+  "title": "The Movie Trilogy Sourcebook"
+}

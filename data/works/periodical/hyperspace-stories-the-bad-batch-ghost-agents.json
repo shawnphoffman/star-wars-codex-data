@@ -45,6 +45,9 @@
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "periodical": {
     "publicationKind": "comic"
   },

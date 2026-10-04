@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Legends Of Luke Skywalker (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781974715848"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 212,
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn13": "9781974715848",
+      "kind": "print",
+      "onsale": "2020-01-14T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

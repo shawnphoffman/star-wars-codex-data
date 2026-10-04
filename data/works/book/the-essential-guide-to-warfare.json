@@ -1,0 +1,75 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Paul R. Urquhart",
+      "role": "writer",
+      "slug": "paul-r-urquhart"
+    },
+    {
+      "name": "Stephan Martiniere",
+      "role": "artist",
+      "slug": "stephan-martiniere"
+    },
+    {
+      "name": "Dave Seeley",
+      "role": "artist",
+      "slug": "dave-seeley"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "artist",
+      "slug": "darren-tan"
+    },
+    {
+      "name": "Bruno Werneck",
+      "role": "artist",
+      "slug": "bruno-werneck"
+    },
+    {
+      "name": "Paul Youll",
+      "role": "artist",
+      "slug": "paul-youll"
+    },
+    {
+      "name": "Ansel Hsiao",
+      "role": "artist",
+      "slug": "ansel-hsiao"
+    },
+    {
+      "name": "Drew Baker",
+      "role": "artist",
+      "slug": "drew-baker"
+    },
+    {
+      "name": "Modi",
+      "role": "artist",
+      "slug": "modi"
+    }
+  ],
+  "displayTitle": "The Essential Guide to Warfare",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-04-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-04-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-guide-to-warfare",
+  "synopsis": "THE DEFINITIVE GUIDE TO THE ULTIMATE INTERGALACTIC BATTLEFIELDLike many a great epic, Star Wars is rooted in a rich history of armed conflict. Now, for the first time, the facts, figures, and fascinating backstories of major clashes and combatants in the vast Star Wars universe have been documented in one fully illustrated volume. Extensively researched and inventively written, Star Wars: The Essential Guide to Warfare combines action-filled narrative with encyclopedic knowledge thatEXPLORES NOTABLE MILITARY UNITS AND GROUPSTRACES THE DEVELOPMENT OF SIGNIFICANT ARMAMENTS AND TECHNOLOGIESPROFILES KEY WARSHIP CLASSES, GROUND UNITS, AND MANUFACTURERSPROVIDES CAPSULE BIOGRAPHIES OF GREAT MILITARY LEADERSPRESENTS EYEWITNESS TROOPERS' ACCOUNTS OF COMBATPLUS-ENOUGH ADDITIONAL PROFILES, INTEL, HISTORY, AND LORE TO SPAN THE COSMOS!Encompassing all the Star Wars media, including the legendary films, the hit TV series Star Wars: The Clone Wars, the bestselling books, comics, and videogames, and packed with original full-color artwork, Star Wars: The Essential Guide to Warfare is a conquering achievement.",
+  "title": "The Essential Guide to Warfare"
+}

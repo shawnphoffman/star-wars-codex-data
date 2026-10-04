@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bradford Baruh",
+      "role": "director",
+      "slug": "bradford-baruh"
+    },
+    {
+      "name": "Brandon Bestenheider",
+      "role": "writer",
+      "slug": "brandon-bestenheider"
+    }
+  ],
   "displayTitle": "Score",
   "format": "tvEpisode",
   "parentWorkSlug": "disney-gallery-the-mandalorian-tv-series-season-1-s01",

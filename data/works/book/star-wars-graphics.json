@@ -1,0 +1,23 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "displayTitle": "Graphics",
+  "editions": [
+    {
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-05-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-graphics",
+  "synopsis": "This book helps you to unravel the secrets of the Star Wars universe with this wonderfully illustrated infographic book. It includes all you need to know about the ships, characters, locations and movie moments from the first six films in the franchise.",
+  "title": "Star Wars: Graphics"
+}

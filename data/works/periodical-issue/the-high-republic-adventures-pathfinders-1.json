@@ -33,7 +33,11 @@
     }
   ],
   "displayTitle": "The High Republic Adventures: Pathfinders #1",
+  "era": "highRepublic",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -362
+  },
   "parentWorkSlug": "the-high-republic-adventures-pathfinders",
   "periodical": {
     "imprint": "Dark Horse Comics",

@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Johnston",
+      "role": "director",
+      "slug": "joe-johnston"
+    }
+  ],
   "displayTitle": "There Must Be a Better Way",
   "format": "tvEpisode",
   "parentWorkSlug": "light-and-magic-season-2-s02",

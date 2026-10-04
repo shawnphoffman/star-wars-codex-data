@@ -1,0 +1,29 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Episode I What's What",
+  "editions": [
+    {
+      "imprint": "Running Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-04-21T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-04-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-i-whats-what",
+  "title": "Star Wars Episode I What's What"
+}

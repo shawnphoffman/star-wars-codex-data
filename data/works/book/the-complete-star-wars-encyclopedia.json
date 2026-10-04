@@ -1,0 +1,60 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Bob Vitas",
+      "role": "writer",
+      "slug": "bob-vitas"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Mary Franklin",
+      "role": "writer",
+      "slug": "mary-franklin"
+    },
+    {
+      "name": "Josh Kushins",
+      "role": "writer",
+      "slug": "josh-kushins"
+    },
+    {
+      "name": "Chris Cassidy",
+      "role": "writer",
+      "slug": "chris-cassidy"
+    },
+    {
+      "name": "Bob Vitas",
+      "role": "editor",
+      "slug": "bob-vitas"
+    }
+  ],
+  "displayTitle": "The Complete Star Wars Encyclopedia",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2008-12-09T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2008-12-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-complete-star-wars-encyclopedia",
+  "synopsis": "The Complete Star Wars Encyclopedia is a 2008 reference book written by Steve Sansweet and Pablo Hidalgo. Bob Vitas, Daniel Wallace, Chris Cassidy, Mary Franklin, and Josh Kushins are also contributors for the compendium. It is the second edition of the Star Wars Encyclopedia.The definitive reference guide to a space fantasy phenomenon.The Star Wars universe, much like our own, is constantly expanding. In the ten years since the publication of the Star Wars Encyclopedia, a lot has happened in that galaxy far, far away: four new feature films, a host of official original novels, comics, video games, and more. Now, thirty years of information on all things Star Wars - ranging from science and technology to history and geography, culture and biography to ecology and cosmology - has been supplemented with an entire decade's worth of all-new material. Abundantly illustrated with full-color artwork and photos, and now in a new three-volume addition to accommodate its wealth of detailed entries, the Star Wars Encyclopedia encompasses the full measure of George Lucas's creation.",
+  "title": "The Complete Star Wars Encyclopedia"
+}

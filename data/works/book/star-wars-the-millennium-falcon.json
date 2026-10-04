@@ -1,0 +1,40 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    },
+    {
+      "name": "Barbara Gibson",
+      "role": "artist",
+      "slug": "barbara-gibson"
+    },
+    {
+      "name": "Barbara Gibson",
+      "role": "coverArtist",
+      "slug": "barbara-gibson"
+    }
+  ],
+  "displayTitle": "The Millennium Falcon",
+  "editions": [
+    {
+      "imprint": "Little, Brown and Company",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-millennium-falcon",
+  "synopsis": "The Millennium Falcon is a \"Pop-Up\" book published in September 1997. The fastest ship in the galaxy is under attack! In this electrifying 3-D adventure, Han Solo fights against time to save the Millennium Falcon from complete destruction. As the Imperial Star Destroyer looms ever closer, pelting the Falcon with laser blasts, Han struggles to repair the hyperdrive before his ship and all on board are annihilated. But time is running out... Here's another fantastic pop-up pull-tab adventure for all Star Wars fans.",
+  "title": "Star Wars: The Millennium Falcon"
+}

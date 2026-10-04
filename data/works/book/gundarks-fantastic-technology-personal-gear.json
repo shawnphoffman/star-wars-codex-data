@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jerry DeCrotie",
+      "role": "artist",
+      "slug": "jerry-decrotie"
+    }
+  ],
+  "displayTitle": "Gundark's Fantastic Technology: Personal Gear",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "gundarks-fantastic-technology-personal-gear",
+  "synopsis": "Gundark's Fantastic Technology: Personal Gear is a roleplaying supplement published by West End Games for Star Wars: The Roleplaying Game. It is a compilation of material gathered from several West End Games sourcebooks and issues of Star Wars Adventure Journal.Like Galladinium's Fantastic Technology, this book features uncommon weapons and equipment, and is written in an in-universe perspective of being the black market catalog Gundark's Gear Datalog published by the illegal dealers Gundark Arms Ring during the New Republic era.\"Gundark\" is one of the most notorious illegal arms dealers in the galaxy, wanted by virtually every law-enforcement agency in known space... and now, for the first time, his catalog of illicit wares is available to you. From the ABC anti-personnel canister to the Z2 stun baton, Fantastic Technology: Personal Gear contains detailed game statistics and information on scores of items: weapons, armor, security mechanisms, computers, explosives, communications equipment, and other \"speciality devices\".Take a tour to the black market, where anything can be acquired... for the right price.",
+  "title": "Gundark's Fantastic Technology: Personal Gear"
+}

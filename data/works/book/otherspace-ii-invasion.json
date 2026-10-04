@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Douglas Kaufman",
+      "role": "writer",
+      "slug": "douglas-kaufman"
+    },
+    {
+      "name": "Jeff Dee",
+      "role": "coverArtist",
+      "slug": "jeff-dee"
+    }
+  ],
+  "displayTitle": "Otherspace II: Invasion",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1989-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1989-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "otherspace-ii-invasion",
+  "synopsis": "Otherspace II: Invasion is an adventure for Star Wars: The Roleplaying Game written by Douglas Kaufman. A sequel to Otherspace, it was published by West End Games in 1989.Death stalks the galaxy. The dread Charon, destroyers of worlds, killers of galaxies, have found their way into realspace. If they are not stopped - and soon - the Rebels' galaxy, too, will die.In a remote, little-traveled corner of the galaxy, the Alliance safe-world of Stronghold floats serenely against the bloody backdrop of Rebellion and Empire. Here, families of Alliance warriors hide, safe from Imperial attack.But something has gone wrong. Terribly wrong.There has been no contact with Stronghold for weeks. No comm reports, no ship traffic. Nothing. It is as though the entire planet has vanished. Six Alliance personnel race to Stronghold to find out what has happened to the planet - and to their friends and loved ones hiding there.Six Rebels - against the Invasion!",
+  "title": "Otherspace II: Invasion"
+}

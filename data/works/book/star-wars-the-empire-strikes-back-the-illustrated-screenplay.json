@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Leigh Brackett",
+      "role": "writer",
+      "slug": "leigh-brackett"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back: The Illustrated Screenplay",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-empire-strikes-back-the-illustrated-screenplay",
+  "synopsis": "Star Wars: The Empire Strikes Back: The Illustrated Screenplay was published in April 1998 by Del Rey. It presents the original screenplay for the 1980 film Star Wars: Episode V The Empire Strikes Back by Leigh Brackett and Lawrence Kasdan as well as accompanying original storyboard illustrations.",
+  "title": "Star Wars: The Empire Strikes Back: The Illustrated Screenplay"
+}

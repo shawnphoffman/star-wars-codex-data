@@ -50,6 +50,9 @@
   "displayTitle": "River of Chaos",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "publicationKind": "comic"
   },

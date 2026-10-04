@@ -30,10 +30,15 @@
       "name": "Benjamin Caron",
       "role": "coverArtist",
       "slug": "benjamin-caron"
+    },
+    {
+      "name": "Benjamin Carré",
+      "role": "coverArtist",
+      "slug": "benjamin-carre"
     }
   ],
   "displayTitle": "Knight Errant: Escape #3",
-  "era": "multiEra",
+  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1032

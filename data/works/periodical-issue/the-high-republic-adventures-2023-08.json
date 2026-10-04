@@ -25,6 +25,31 @@
       "name": "Comicraft",
       "role": "letterer",
       "slug": "comicraft"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Le Beau Underwood",
+      "role": "inker",
+      "slug": "le-beau-underwood"
+    },
+    {
+      "name": "Elisabetta D'Amico",
+      "role": "inker",
+      "slug": "elisabetta-damico"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
     }
   ],
   "displayTitle": "The High Republic Adventures (2023) #08",
@@ -35,6 +60,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

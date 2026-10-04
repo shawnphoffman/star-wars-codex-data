@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Johnston",
+      "role": "director",
+      "slug": "joe-johnston"
+    }
+  ],
   "displayTitle": "Are We Ready for This?",
   "format": "tvEpisode",
   "parentWorkSlug": "light-and-magic-season-2-s02",

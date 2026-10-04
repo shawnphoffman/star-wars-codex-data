@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Harrison Tunggal",
+      "role": "editor",
+      "slug": "harrison-tunggal"
+    },
+    {
+      "name": "Grace Orriss",
+      "role": "editor",
+      "slug": "grace-orriss"
+    }
+  ],
+  "displayTitle": "The Mini Book of Lightsabers",
+  "editions": [
+    {
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2022-05-24T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-05-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-mini-book-of-lightsabers",
+  "synopsis": "Star Wars: The Mini Book of Lightsabers is a small-sized reference book focusing on lightsabers. Hold an entire galaxy of iconic lightsabers in the palm of your hand! Discover the most legendary weapons in the galaxy with Star Wars: The Mini Book of Lightsabers. Iconic hilts from across movies, television shows, video games, comics, and novels are presented through highly detailed illustrations and photography, making this mini book a must-have, pocket-sized reference book for Star Wars fans of all ages. THE DEFINITIVE, POCKET-SIZED GUIDE: With its compact 2.5\" x 3.5\" size, this book has a wealth of lightsaber information and art you can take on all your galactic adventures! DETAILED ILLUSTRATIONS: This mini book features stunning illustrations of hilts from all across the Star Wars galaxy, including the weapons of Darth Vader, Luke Skywalker, Kylo Ren, Rey, Mace Windu, Yoda, and even the Darksaber. GREAT FOR FANS OF ALL AGES: As a stocking stuffer or a novelty gift for your favorite fan, this mini book will delight readers of all ages. COMPLETE YOUR COLLECTION: A mini but thrilling companion to your collection, Star Wars: The Mini Book of Lighsabers is an epic addition to Insight Editions' line of mini books, including Star Wars: The Poster Collection and Star Wars: The Concept Art of Ralph McQuarrie.",
+  "title": "Star Wars: The Mini Book of Lightsabers"
+}

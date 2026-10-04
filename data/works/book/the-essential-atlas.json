@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Modi",
+      "role": "artist",
+      "slug": "modi"
+    },
+    {
+      "name": "David Stevenson",
+      "role": "coverArtist",
+      "slug": "david-stevenson"
+    }
+  ],
+  "displayTitle": "The Essential Atlas",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2009-08-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-08-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-atlas",
+  "synopsis": "The Essential Atlas is a third-generation Essential Guide written by Jason Fry and Daniel Wallace. It was published by Del Rey on August 18, 2009. The book contains planet profiles as well as extensive star charts.Navigate the Star Wars universe as you never have before - with this fully illustrated, full-color guide that maps the entire galaxy.You know the planets - from Alderaan and Corellia to Tatooine and Zonama Sekot - and the star systems, from the Deep Core to the Outer Rim. But now, for the first time, you can pinpoint their locations and chart the travels of your favorite characters through the vast reaches of space. Star Wars: The Essential Atlas is a galaxy-spanning trove of vital statistics and information ranging from the astronomical and geographical (\"Systems, Sectors, Oversectors and Regions\") to the historical and political (\"The Sith Empire\" and \"The Great Hyperspace War\"). Encompassing the entire Star Wars canon, including all the films and the Clone Wars television series, plus the novels, comic books, video games, and more, this volume is packed with dozens of detailed maps and charts, as well as pertinent data and accompanying facts on'.the Empire: its length and breadth, political regions, populations, trade routes, major attractions and trouble spotsthe Clone Wars: the trajectory of this decisive conflict across the universe, data on key battles and major Loyalist and Separatist worldsthe Adventures of Han Solo: the heroic rogue's exploits throughout the galaxy - including his captaincy of the Millennium Falcon and his first, fateful meeting with Chewbacca - before his life-changing alliance with Luke Skywalker and Obi-Wan KenobiThe Sith Wars: the progression of the universal clash between the ancient Jedi Order, their dark side counterparts, and the Mandalorian warriors who fought against both ordersand much, much moreFrom Hutt Space to the Unknown Regions, from the Knights of the Old Republic and Episode I to the Fate of the Jedi and Legacy era, Star Wars: The Essential Atlas is the ultimate gateway to space fantasy's most brilliantly imagined and endlessly intriguing galaxy.",
+  "title": "The Essential Atlas"
+}

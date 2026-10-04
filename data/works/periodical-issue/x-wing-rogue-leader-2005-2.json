@@ -2,9 +2,9 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Haden Blackman",
+      "name": "W. Haden Blackman",
       "role": "writer",
-      "slug": "haden-blackman"
+      "slug": "w-haden-blackman"
     },
     {
       "name": "Michael Atiyeh",
@@ -25,11 +25,6 @@
       "name": "Tomás Giorello",
       "role": "penciler",
       "slug": "toms-giorello"
-    },
-    {
-      "name": "W. Haden Blackman",
-      "role": "writer",
-      "slug": "w-haden-blackman"
     },
     {
       "name": "Randy Stradley",

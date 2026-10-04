@@ -17,9 +17,9 @@
       "slug": "ariel-olivetti"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Phil Noto",
@@ -55,6 +55,7 @@
   },
   "parentWorkSlug": "chewbacca-2015",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2015-12-30T00:00:00.000Z",

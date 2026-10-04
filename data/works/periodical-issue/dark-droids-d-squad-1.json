@@ -42,9 +42,9 @@
       "slug": "salva-espin"
     },
     {
-      "name": "Vc Joe Sabino",
+      "name": "Joe Sabino",
       "role": "letterer",
-      "slug": "vc-joe-sabino"
+      "slug": "joe-sabino"
     },
     {
       "name": "Aaron Kuder",
@@ -60,11 +60,6 @@
       "name": "Bryan Valenza",
       "role": "colorist",
       "slug": "bryan-valenza"
-    },
-    {
-      "name": "Joe Sabino",
-      "role": "letterer",
-      "slug": "joe-sabino"
     }
   ],
   "displayTitle": "Dark Droids: D-Squad #1",
@@ -75,6 +70,7 @@
   },
   "parentWorkSlug": "dark-droids-d-squad",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-09-20T00:00:00.000Z",

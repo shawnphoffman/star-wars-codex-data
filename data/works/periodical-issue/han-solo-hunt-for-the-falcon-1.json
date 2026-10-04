@@ -12,9 +12,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Ramon Rosanas",
@@ -51,6 +51,7 @@
   },
   "parentWorkSlug": "han-solo-hunt-for-the-falcon",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2025-09-03T00:00:00.000Z",

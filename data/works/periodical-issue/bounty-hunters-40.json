@@ -27,9 +27,9 @@
       "slug": "marco-checchetto"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Marcio Menyz",
@@ -47,9 +47,14 @@
       "slug": "davide-tinto"
     },
     {
-      "name": "Travis Lanham",
-      "role": "letterer",
-      "slug": "travis-lanham"
+      "name": "Ben Harper",
+      "role": "coverArtist",
+      "slug": "ben-harper"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
     }
   ],
   "displayTitle": "Bounty Hunters #40",
@@ -60,6 +65,7 @@
   },
   "parentWorkSlug": "bounty-hunters",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-11-22T00:00:00.000Z",

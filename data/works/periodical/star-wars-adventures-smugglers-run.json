@@ -30,7 +30,11 @@
   "displayTitle": "Adventures: Smuggler's Run",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
+    "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
   "releaseDate": "2020-12-23T00:00:00.000Z",

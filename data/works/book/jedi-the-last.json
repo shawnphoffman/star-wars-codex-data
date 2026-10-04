@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ian Doescher",
+      "role": "writer",
+      "slug": "ian-doescher"
+    }
+  ],
   "displayTitle": "Jedi the Last",
   "editionIds": [
     {

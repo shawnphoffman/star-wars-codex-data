@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lawrence Kasdan",
+      "role": "writer",
+      "slug": "lawrence-kasdan"
+    },
+    {
+      "name": "Leigh Brackett",
+      "role": "writer",
+      "slug": "leigh-brackett"
+    },
+    {
+      "name": "Diana Attias",
+      "role": "editor",
+      "slug": "diana-attias"
+    },
+    {
+      "name": "Lindsay Smith",
+      "role": "editor",
+      "slug": "lindsay-smith"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back Notebook",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1980-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-empire-strikes-back-notebook",
+  "synopsis": "Here at last is the complete script of the exciting continuation in the STAR WARS saga - THE EMPIRE STRIKES BACK. Containing the dialogue and stage directions from the film, the script will take you - again and again - into the thrilling world of this space fantasy.Magnificently illustrating the script are beautiful selected storyboards - some of the essential tools used in visualizing this fabulous STAR WARS episode. Quotes by director Irvin Kershner and scriptwriter Lawrence Kasdan serve to further illuminate aspects of creating this complex film adventure.In addition, a fascinating foreword by Irvin Kershner describes how he combined storyboard with script as part of the filmmaking process involved in realizing the dazzling space story, THE EMPIRE STRIKES BACK.",
+  "title": "The Empire Strikes Back Notebook"
+}

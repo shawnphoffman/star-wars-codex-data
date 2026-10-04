@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bradford Baruh",
+      "role": "director",
+      "slug": "bradford-baruh"
+    },
+    {
+      "name": "Meghan Leon",
+      "role": "writer",
+      "slug": "meghan-leon"
+    }
+  ],
   "displayTitle": "Practical",
   "format": "tvEpisode",
   "parentWorkSlug": "disney-gallery-the-mandalorian-tv-series-season-1-s01",

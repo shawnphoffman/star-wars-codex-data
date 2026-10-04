@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    },
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Patrick Stutzman",
+      "role": "writer",
+      "slug": "patrick-stutzman"
+    },
+    {
+      "name": "Robert Wieland",
+      "role": "writer",
+      "slug": "robert-wieland"
+    }
+  ],
+  "displayTitle": "Scavenger's Guide to Droids",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2009-11-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "scavengers-guide-to-droids",
+  "synopsis": "The Scavenger's Guide to Droids gives players and Gamemasters access to a variety of droids from across the Star Wars saga. It includes new options for droid characters including talents, feats, equipment, modifications, quirks, and prestige classes, as well as other ways to customize droid characters, including templates based on different manufacturers. This supplement also contains scores of new droids that Gamemasters can include in adventures and campaigns set in any Star Wars era, as well as tips for building unique droid models.",
+  "title": "Scavenger's Guide to Droids"
+}

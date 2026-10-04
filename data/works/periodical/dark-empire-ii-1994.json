@@ -40,6 +40,9 @@
   "displayTitle": "Dark Empire II",
   "era": "newRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 10
+  },
   "periodical": {
     "publicationKind": "comic"
   },

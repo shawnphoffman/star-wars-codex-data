@@ -2,7 +2,14 @@
   "canonStatus": "non-canon",
   "collectionType": "omnibus",
   "collects": [
-    "the-rebel-opposition-1"
+    "the-rebel-opposition-1",
+    "the-rebel-opposition-2",
+    "the-rebel-opposition-3",
+    "the-rebel-opposition-4",
+    "x-wing-rogue-squadron-05-the-phantom-affair-part-1",
+    "x-wing-rogue-squadron-06-the-phantom-affair-part-2",
+    "x-wing-rogue-squadron-07-the-phantom-affair-part-3",
+    "x-wing-rogue-squadron-08-the-phantom-affair-part-4"
   ],
   "displayTitle": "Omnibus: X-Wing Rogue Squadron Volume 1",
   "releaseDate": "2006-06-07T00:00:00.000Z",

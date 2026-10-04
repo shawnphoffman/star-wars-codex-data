@@ -1,0 +1,80 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Danner",
+      "role": "writer",
+      "slug": "paul-danner"
+    },
+    {
+      "name": "Chris Trevas",
+      "role": "coverArtist",
+      "slug": "chris-trevas"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Tim Bobko",
+      "role": "artist",
+      "slug": "tim-bobko"
+    },
+    {
+      "name": "Jacen Burrows",
+      "role": "artist",
+      "slug": "jacen-burrows"
+    },
+    {
+      "name": "Joel Carroll",
+      "role": "artist",
+      "slug": "joel-carroll"
+    },
+    {
+      "name": "Joe Corroney",
+      "role": "artist",
+      "slug": "joe-corroney"
+    },
+    {
+      "name": "Tom O'Neill",
+      "role": "artist",
+      "slug": "tom-oneill"
+    },
+    {
+      "name": "Joey Robinson",
+      "role": "artist",
+      "slug": "joey-robinson"
+    },
+    {
+      "name": "Brian Schomburg",
+      "role": "artist",
+      "slug": "brian-schomburg"
+    },
+    {
+      "name": "Greg Smith",
+      "role": "artist",
+      "slug": "greg-smith"
+    }
+  ],
+  "displayTitle": "Wretched Hives of Scum & Villainy",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-05-12T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-05-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "wretched-hives-of-scum-villainy",
+  "synopsis": "Wretched Hives of Scum & Villainy is a supplement book for Star Wars: The Roleplaying Game. Written by Paul Danner and published by West End Games in 1997, the sourcebook details eight establishments for characters to visit: the Ace of Sabres, Exovar's Emporium, The Broken Tusk, Fathoms, Bantha Traxx, The Pits, the Glow Dome, and the Falling Star Saloon. Each location introduces new characters and features commentary by scoundrel Cohden K'Reye.\"Most of the best freighter pilots can be found here. Only watch your step. This place can be a little rough.\"\"I'm ready for anything.\"You might think that when you walk inside, but five minutes later, when you're hiding in a corner and some big alien thug is about to pound the stuffing out of you, you might be beginning to wonder if it was such a good idea to come here.So, how do you find a pilot when you're on a strange planet, with stormtroopers hot on your trail?Well, pal, you're in luck! This piece of fine literature is your indispensable guide to the places they don't tell you about in the tourist brochures, where you can find those little necessities, from black-market blasters to shrewd smugglers. Join me, Cohden K'Reye, as I guide you through eight of the galaxy's wildest watering holes, including:The Ace of Sabres. A luxurious vacation resort with a dozen of the galaxy's finest casinos...and enough seedy dealings to make Jabba the Hutt proud!Exovar's Emporium. It's neutral ground for smugglers, scouts, bounty hunters - and a long way from the prying eyes of the Empire.The Broken Tusk. With a horrific dueling arena as its centerpiece, the Tusk isn't a place for the kiddies.The Pits. It's paradise for swoop riders and only the best riders need apply.Falling Star Saloon. Located on the remote Starlyte Station, the Falling Star is the kind of place where you can disappear for a while. It's getting out alive that's the hard part.",
+  "title": "Wretched Hives of Scum & Villainy"
+}

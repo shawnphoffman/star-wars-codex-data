@@ -30,10 +30,15 @@
       "name": "Benjamin Caron",
       "role": "coverArtist",
       "slug": "benjamin-caron"
+    },
+    {
+      "name": "Benjamin Carré",
+      "role": "coverArtist",
+      "slug": "benjamin-carre"
     }
   ],
   "displayTitle": "Knights of the Old Republic: War #5",
-  "era": "multiEra",
+  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3962

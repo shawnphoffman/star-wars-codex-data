@@ -15,6 +15,9 @@
   "displayTitle": "Doctor Aphra (2025): Chaos Agent",
   "era": "newRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 6
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

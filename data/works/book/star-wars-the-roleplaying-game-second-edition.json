@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    }
+  ],
+  "displayTitle": "The Roleplaying Game, Second Edition",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1992-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1992-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-roleplaying-game-second-edition",
+  "synopsis": "The rulebook for the second edition of Star Wars: The Roleplaying Game was written by Bill Smith and published by West End Games in October 1992. It contains rules and guidelines for gamemasters and players as well as the setting, character templates, tips on how to design adventures and a number of adventure hooks.This edition supersedes the first edition of the rulebook and itself was revised and expanded into a new edition four years later.A long time ago, in a galaxy far, far away…Experience the drama and epic scope of the greatest space fantasy of all time! Adventure in a universe of epic heroes, fearsome villains, amazing technology and strange aliens.Pilot an X-wing against the Empire's devastating TIE fighters! Trade blasterfire with vicious bounty hunters! Smuggle contraband cargos through Imperial blockades! Learn the ways of the lightsaber-wielding Jedi Knights, and master the powers of the Force!This 176 page rulebook features:Sophisticated yet simple rules covering all aspects of the Star Wars universe! Completely revised, with a conversion system for first edition materials.Extensive information on the Star Wars universe, with guidelines on designing your own adventures set during the time of the movies or after the Battle of Endor!Includes a beginning adventure.Detailed skill descriptions with many new skills and special abilities for aliens!New movement, chase and combat rules covering everything from landspeeders to Imperial Star Destroyers!16 full-color pages, with never before published material.",
+  "title": "Star Wars: The Roleplaying Game, Second Edition"
+}

@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kristine Kathryn Rusch",
+      "role": "writer",
+      "slug": "kristine-kathryn-rusch"
+    },
+    {
+      "name": "Sue Rostoni",
+      "role": "editor",
+      "slug": "sue-rostoni"
+    },
+    {
+      "name": "Steve Saffel",
+      "role": "editor",
+      "slug": "steve-saffel"
+    },
+    {
+      "name": "Dreu Pennington-McNeil",
+      "role": "artist",
+      "slug": "dreu-pennington-mcneil"
+    },
+    {
+      "name": "Ann Gold",
+      "role": "artist",
+      "slug": "ann-gold"
+    }
+  ],
+  "displayTitle": "Diplomatic Corps Entrance Exam",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-06-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-06-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "diplomatic-corps-entrance-exam",
+  "synopsis": "The Diplomatic Corps Entrance Exam was a trivia book compiled by Kristine Kathryn Rusch, published in 1997. Like The New Essential Chronology and Galactic Phrase Book & Travel Guide, this book \"exists\" also as an in-universe publication, written by the New Republic Diplomatic Corps.Prepare for your position as an Ambassador, a Research Assistant, or another of the many exotic careers in the New Republic.WE'RE LOOKING FOR A FEW GOOD LIFE-FORMSNow, take the ultimate test that separates the Jedi from the jetsam!ATTENTION APPLICANTS:By taking this exam you are expressing your genuine desire to join the proud ranks of the New Republic Diplomatic Corps. You are to be congratulated for your ambition and discrimination in seeking such a lofty professional goal. However - it is imperative that you also be cautioned: Your chosen vocation is a challenging one, and accordingly, this test of your qualifications will be equally challenging. But don't be intimidated - be empowered. For only the confident few will succeed.ATTENTION STAR WARS FANS:So, do you think you're a \"Force\" to be reckoned with?! Then get ready for the toughest test since Yoda put Luke Skywalker through his paces on Dagobah. Remember, it's not just anybody (or anything) who can join the New Republic Diplomatic Corps. You've got to know your Fetts from your Hutts, your clearance codes from your Rebel ranks, your X-wings from your TIE fighters - and that's just the easy stuff.If you think you know your Star Wars facts and figures flawlessly, flip over your exam book, open the cover, and begin. But remember - do or do not. There is no try.",
+  "title": "Diplomatic Corps Entrance Exam"
+}

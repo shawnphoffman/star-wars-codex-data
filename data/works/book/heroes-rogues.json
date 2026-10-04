@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rick D. Stuart",
+      "role": "writer",
+      "slug": "rick-d-stuart"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Wayne Peacock",
+      "role": "writer",
+      "slug": "wayne-peacock"
+    }
+  ],
+  "displayTitle": "Heroes & Rogues",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-12-11T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-12-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heroes-rogues",
+  "synopsis": "Heroes & Rogues is a supplement book for Star Wars: The Roleplaying Game. The book was written by Rick Stuart and Paul Sudlow, and it was published by West End Games on December 11, 1995.The essential supplement for players and gamemasters looking to expand the horizons of detail and excitement in their Star Wars campaign!Develop your character's past… education, homeworld, family, past loves, past occupations are all at your fingertips! Was your character an honor student at the Academy, or a street tough fighting to survive on the mean streets of Nar Shaddaa? Are there people your character knew as a youth that can assist you now? Or are they rivals moving to thwart you at every turn?This supplement features over 60 character templates, 43 gamemaster characters, a \"free-form\" method of generating interesting and exciting backgrounds for characters, a guide to prominent homeworlds of the galaxy and - for the first time - guidelines for playing Imperials!",
+  "title": "Heroes & Rogues"
+}

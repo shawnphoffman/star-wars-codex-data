@@ -15,6 +15,26 @@
       "name": "Ruairí Coleman",
       "role": "artist",
       "slug": "ruairi-coleman"
+    },
+    {
+      "name": "Ruairí Coleman",
+      "role": "penciler",
+      "slug": "ruairi-coleman"
+    },
+    {
+      "name": "Chris O'halloran",
+      "role": "colorist",
+      "slug": "chris-ohalloran"
+    },
+    {
+      "name": "Amauri Osorio",
+      "role": "letterer",
+      "slug": "amauri-osorio"
+    },
+    {
+      "name": "Ruairí Coleman",
+      "role": "coverArtist",
+      "slug": "ruairi-coleman"
     }
   ],
   "displayTitle": "Adventures: The Weapon of a Jedi #2",

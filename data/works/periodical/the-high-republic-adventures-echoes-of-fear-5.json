@@ -25,6 +25,9 @@
   "displayTitle": "The High Republic Adventures: Echoes of Fear",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "periodical": {
     "publicationKind": "comic"
   },

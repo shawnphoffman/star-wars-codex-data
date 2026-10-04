@@ -7,9 +7,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Clayton Cowles",
+      "name": "Clayton Cowles",
       "role": "letterer",
-      "slug": "vc-clayton-cowles"
+      "slug": "clayton-cowles"
     },
     {
       "name": "Rachelle Rosenberg",
@@ -51,9 +51,11 @@
   "format": "periodicalIssue",
   "parentWorkSlug": "galaxys-edge-echoes-of-the-empire-2026",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-04-22T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "galaxys-edge-echoes-of-the-empire-2026-1",
   "title": "Galaxy's Edge: Echoes of the Empire (2026) #1"
 }

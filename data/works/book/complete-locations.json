@@ -1,0 +1,60 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "Kristin Lund",
+      "role": "writer",
+      "slug": "kristin-lund"
+    },
+    {
+      "name": "Richard Chasemore",
+      "role": "artist",
+      "slug": "richard-chasemore"
+    },
+    {
+      "name": "Hans Jenssen",
+      "role": "artist",
+      "slug": "hans-jenssen"
+    },
+    {
+      "name": "Kemp Remillard",
+      "role": "artist",
+      "slug": "kemp-remillard"
+    }
+  ],
+  "displayTitle": "Complete Locations",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-09-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-09-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "complete-locations",
+  "synopsis": "Star Wars: Complete Locations is a canon reference book and a reissue of the 2005 edition of the same name, also including new content from Star Wars: Episode VII The Force Awakens. The title was published by Dorling Kindersley on September 27, 2016Star Wars(TM): Complete Locations brings together the key buildings, environments, and battle scenes from the Star Wars saga in a single, definitive guide. This updated edition features four new cross-section spreads and a behind-the scenes look at how the artwork is crafted.Packed with more than 50 full-color, intricate cross-section artwork and 3-D maps, Star Wars(TM): Complete Locations is an amazing visual guide into the incredible worlds and locations of a galaxy far, far away….From the towering skyscrapers of Coruscant to the terrifying technology of the Death Star, see in astonishing detail the numerous worlds, bases, cities, landscapes, and battles from the Star Wars galaxy. Discover the secrets of the Jedi Temple Complex and tour Yoda's House on Dagobah.With brand-new cross-section artwork and sneak peek behind-the-scenes pages showing how the amazing artworks are crafted, Star Wars: Complete Locations is the definitive one-volume collection that takes you inside the world of the Star Wars saga",
+  "title": "Complete Locations"
+}

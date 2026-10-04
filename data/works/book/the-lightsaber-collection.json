@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Lukasz Liszko",
+      "role": "artist",
+      "slug": "lukasz-liszko"
+    },
+    {
+      "name": "Ryan Valle",
+      "role": "artist",
+      "slug": "ryan-valle"
+    }
+  ],
+  "displayTitle": "The Lightsaber Collection",
+  "editions": [
+    {
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-10-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-10-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-lightsaber-collection",
+  "synopsis": "Travel to a galaxy far, far away with this comprehensive guide featuring iconic lightsabers from the Star Wars galaxy.From Luke Skywalker's iconic lightsaber to Darth Maul's fearsome double-bladed hilt to Kylo Ren's unique crossguard design, there is no other weapon more deeply entwined within Star Wars than the lightsaber.Star Wars: The Lightsaber Collection is a comprehensive visual guide and exploration of the numerous lightsabers found within the Star Wars galaxy, featuring favorite hilts from the movies, animated series, comics, and video games.Each spread features a detailed illustration of each lightsaber, allowing readers to see the intricate detail in the hilts and the brilliance of each energy blade, as well as information about the construction and additional filmmaker anecdotes about the creation of each weapon.This striking book is a must-have for fans looking to discover more about legendary lightsabers and the warriors who wielded them.",
+  "title": "The Lightsaber Collection"
+}

@@ -45,6 +45,9 @@
   "displayTitle": "Princess Leia",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

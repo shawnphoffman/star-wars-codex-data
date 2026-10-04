@@ -1,0 +1,40 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Cynthia Alvarez",
+      "role": "writer",
+      "slug": "cynthia-alvarez"
+    },
+    {
+      "name": "Isidre Mones",
+      "role": "artist",
+      "slug": "isidre-mones"
+    },
+    {
+      "name": "Isidre Mones",
+      "role": "coverArtist",
+      "slug": "isidre-mones"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: A New Hope (Flap Book)",
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-01-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-a-new-hope-flap-book",
+  "synopsis": "Classic Star Wars is a children book published by Random House written by Cynthia Alvarez.",
+  "title": "Classic Star Wars: A New Hope (Flap Book)"
+}

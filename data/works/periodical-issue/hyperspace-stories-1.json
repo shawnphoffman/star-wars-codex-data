@@ -35,6 +35,16 @@
       "name": "Jimmy Betancourt",
       "role": "letterer",
       "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Megan Huang",
+      "role": "inker",
+      "slug": "megan-huang"
+    },
+    {
+      "name": "Bill Crabtree",
+      "role": "coverArtist",
+      "slug": "bill-crabtree"
     }
   ],
   "displayTitle": "Hyperspace Stories #11",
@@ -45,6 +55,7 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

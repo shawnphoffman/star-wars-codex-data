@@ -1,0 +1,60 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gary Astleford",
+      "role": "writer",
+      "slug": "gary-astleford"
+    },
+    {
+      "name": "Robert J. Schwalb",
+      "role": "writer",
+      "slug": "robert-j-schwalb"
+    },
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    },
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    },
+    {
+      "name": "J.D. Wiker",
+      "role": "writer",
+      "slug": "jd-wiker"
+    },
+    {
+      "name": "Gary M. Sarli",
+      "role": "editor",
+      "slug": "gary-m-sarli"
+    },
+    {
+      "name": "Bradley Will",
+      "role": "editor",
+      "slug": "bradley-will"
+    }
+  ],
+  "displayTitle": "Scum and Villainy",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2008-11-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2008-11-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "scum-and-villainy",
+  "synopsis": "\"You will never find a more wretched hive of scum and villainy.\"Explore the fringes of galactic society like never before. Customize your bounty hunter's suit of battle armor, outfit your smuggler's ship with illegal technology, and train your cantina brawler new tricks and techniques to help stay alive in places that can be more than a little rough.THIS BOOK PRESENTS EXCITING NEW OPTIONS FOR BOTH PLAYERS AND GAMEMASTERS:*New talents, feats, prestige classes, equipment, and other options for heroes.*An extensive gear modification system.*Information on running campaigns on the fringes of the galaxy.*A complete campaign locale and full-length adventure.",
+  "title": "Scum and Villainy"
+}

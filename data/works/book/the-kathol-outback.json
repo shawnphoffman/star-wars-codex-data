@@ -1,0 +1,70 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Lisa Smedman",
+      "role": "writer",
+      "slug": "lisa-smedman"
+    },
+    {
+      "name": "George R. Strayton",
+      "role": "writer",
+      "slug": "george-r-strayton"
+    },
+    {
+      "name": "Ray Lederer",
+      "role": "artist",
+      "slug": "ray-lederer"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "editor",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "editor",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Gabor Szikszai",
+      "role": "coverArtist",
+      "slug": "gabor-szikszai"
+    },
+    {
+      "name": "Zoltan Boros",
+      "role": "coverArtist",
+      "slug": "zoltan-boros"
+    }
+  ],
+  "displayTitle": "The Kathol Outback",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-01-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-01-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-kathol-outback",
+  "synopsis": "The Kathol Outback is a supplement for use with Star Wars: The Roleplaying Game and the second book in the four-part The DarkStryder Campaign. It was published by West End Games on January 15, 1996.Featured in The Kathol Outback are five adventure stories that further The DarkStryder Campaign: \"Plant Food,\" \"Little Empires,\" \"Wildfire,\" \"The Masters of Exocron,\" and \"Galaxy's Edge.\"The complete campaign is formed by:The DarkStryder CampaignThe Kathol OutbackThe Kathol RiftEndgameThe epic adventure that began in the DarkStryder Campaign Boxed Set continues!The New Republic vessel FarStar has pursued the renegade Imperial Moff Sarne into the uncharted reaches of the Kathol Outback. Join the intrepid FarStar crew as they track Sarne's forces through this isolated and dangerous region of space.A strange alien species with a mysterious hidden agenda menaces the FarStar as it ventures further into the unknown ...Lost colonies on the verge of civil war move to protect themselves from New Republic and Imperial incursion ...Hostile creatures invade the FarStar as the forces of Moff Sarne strike back at the New Republic ...This book features five adventures that continue the DarkStryder saga as well as extensive source material on the Kathol Outback, allowing gamemasters to expand the scope of the DarkStryder Campaign!",
+  "title": "The Kathol Outback"
+}

@@ -25,6 +25,9 @@
   "displayTitle": "The Rise of Skywalker Adaptation",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 35
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

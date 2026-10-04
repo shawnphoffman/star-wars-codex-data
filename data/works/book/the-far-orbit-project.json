@@ -1,0 +1,60 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Corroney",
+      "role": "artist",
+      "slug": "joe-corroney"
+    },
+    {
+      "name": "Michael Dubisch",
+      "role": "artist",
+      "slug": "michael-dubisch"
+    },
+    {
+      "name": "Tanner Goldbeck",
+      "role": "artist",
+      "slug": "tanner-goldbeck"
+    },
+    {
+      "name": "Andy Park",
+      "role": "artist",
+      "slug": "andy-park"
+    },
+    {
+      "name": "Jeff Reitz",
+      "role": "artist",
+      "slug": "jeff-reitz"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "editor",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Joe Bavitz",
+      "role": "coverArtist",
+      "slug": "joe-bavitz"
+    }
+  ],
+  "displayTitle": "The Far Orbit Project",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-04-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-far-orbit-project",
+  "synopsis": "The Far Orbit Project was written by Timothy S. O'Brien for the Star Wars: The Roleplaying Game, published by West End Games in 1998. It is a campaign book detailing adventures within a Rebel privateering operation using the guidelines seen in the previous publication, Pirates & Privateers.One of the book's main features is a partial map of an EF76 Nebulon-B escort frigate, detailing 14 decks in 12 pages.The Far Orbit Project was the last original book published by West End Games, only preceding the re-edition of The DarkStryder Campaign collection in a boxed set.Join the fearless crew of the Far Orbit, the first Rebel privateer ship. The Far Orbit's mission is simple: stage a daring series of strikes on the Core Worlds and wreak havoc on the forces of the Empire. The Far Orbit Project is the first supplement designed for use with the material presented in Pirates & Privateers.",
+  "title": "The Far Orbit Project"
+}

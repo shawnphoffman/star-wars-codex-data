@@ -1,6 +1,18 @@
 {
   "bookType": "referenceBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
   "displayTitle": "The Comics Companion",
   "format": "book",
   "releaseDate": "2006-01-01T00:00:00.000Z",

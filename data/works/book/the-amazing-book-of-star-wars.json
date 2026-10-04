@@ -1,0 +1,29 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Dowsett",
+      "role": "writer",
+      "slug": "elizabeth-dowsett"
+    }
+  ],
+  "displayTitle": "The Amazing Book of Star Wars",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-10-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-10-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-amazing-book-of-star-wars",
+  "title": "The Amazing Book of Star Wars"
+}

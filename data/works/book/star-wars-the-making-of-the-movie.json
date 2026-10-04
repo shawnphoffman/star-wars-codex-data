@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Larry Weinberg",
+      "role": "writer",
+      "slug": "larry-weinberg"
+    }
+  ],
+  "displayTitle": "The Making of the Movie",
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1980-09-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-09-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-making-of-the-movie",
+  "synopsis": "Star Wars: The Making of the Movie was a children's book published in September 1980 by Random House as part of the \"Step-Up Books\" series and written by Larry Weinberg. The cover price was $4.95.The book gave children a behind-the-scenes look at the making of Star Wars: Episode IV A New Hope, and also retold the story of the film.",
+  "title": "Star Wars: The Making of the Movie"
+}

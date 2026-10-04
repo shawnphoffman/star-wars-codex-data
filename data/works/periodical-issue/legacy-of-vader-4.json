@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Stefano Raffaele",
@@ -12,9 +12,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Charles Soule",
@@ -40,6 +40,9 @@
   "displayTitle": "Legacy of Vader #4",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "legacy-of-vader",
   "periodical": {
     "publicationKind": "comic"

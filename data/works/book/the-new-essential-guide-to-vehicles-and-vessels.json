@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Ian Fullwood",
+      "role": "artist",
+      "slug": "ian-fullwood"
+    },
+    {
+      "name": "Steven D. Anderson",
+      "role": "coverArtist",
+      "slug": "steven-d-anderson"
+    }
+  ],
+  "displayTitle": "The New Essential Guide to Vehicles and Vessels",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2003-09-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-09-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-essential-guide-to-vehicles-and-vessels",
+  "synopsis": "The ninth book in Del Rey's Essential Guide series, The New Essential Guide to Vehicles and Vessels features an in-depth look at one hundred ships, fighters, and other flying machines from the original trilogy, The Phantom Menace, Attack of the Clones, as well as the Expanded Universe, including the New Jedi Order series, each with its own one- to two-page spread including detailed schematics. There were, however, some glaring errors throughout the book.",
+  "title": "The New Essential Guide to Vehicles and Vessels"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    },
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Blueprints: Designs and Artwork from the Skywalker Saga",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2025-10-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-blueprints-designs-and-artwork-from-the-skywalker-saga",
+  "synopsis": "A magnificent showcase for the technical drawings of Star Wars spacecraft, vehicles, weapons, and technology. Drawing on exclusive access to Lucasfilm archives, this deluxe volume reveals and celebrates the spectacular work of the many technical artists and designers who conceived the unforgettable look and feel of the Star Wars universe. Discover how ingenious ideas, such as the Millennium Falcon, Ghost, and Razor Crest, were transformed from concept to screen into iconic creations. Explore, relive and appreciate the glory of Star Wars in a whole, new, insightful way.",
+  "title": "Star Wars: The Blueprints: Designs and Artwork from the Skywalker Saga"
+}

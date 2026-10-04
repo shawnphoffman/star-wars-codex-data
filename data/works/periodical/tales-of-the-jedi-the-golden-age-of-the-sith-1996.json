@@ -95,6 +95,9 @@
   "displayTitle": "Tales of the Jedi: The Golden Age of the Sith",
   "era": "oldRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -5000
+  },
   "periodical": {
     "publicationKind": "comic"
   },

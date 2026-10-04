@@ -37,19 +37,14 @@
       "slug": "marco-checchetto"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Marcio Menyz",
       "role": "coverArtist",
       "slug": "marcio-menyz"
-    },
-    {
-      "name": "Travis Lanham",
-      "role": "letterer",
-      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Bounty Hunters #36",
@@ -60,6 +55,7 @@
   },
   "parentWorkSlug": "bounty-hunters",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-07-12T00:00:00.000Z",

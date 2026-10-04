@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Steve Dutro",
@@ -33,7 +33,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2002-07-10T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-infinities-the-empire-strikes-back-2002-1",
+  "synopsis": "With the Death Star destroyed, Luke Skywalker leaves Hoth to train as a Jedi with Yoda. Han Solo is encased in carbonite on Cloud City. Vader's dark secret is revealed. You know the story. Or do you?! In the unique Infinities universe, nothing is taken for granted. Have you ever wondered how things would play out if Han never rescued battered Luke on Hoth's frozen tundra? If Boba Fett arrived at Cloud City earlier and cut a deal with Lando? If Vader uncovered secret Rebel information hidden in C-3PO, the droid young Anakin Skywalker created? Well, start wondering! It's the miniseries that blows the cap off everything you thought you knew about The Empire Strikes Back! This series contains more twists and turns than you'd ever expect and culminates in an uncanny battle between two of the most famous -- and infamous -- living Jedi ever to pick up a lightsaber! It's all wrapped in incredible covers by Steampunk's Chris Bachalo. Don't miss the most startling take on The Empire Strikes Back you'll ever see!",
   "title": "Star Wars Infinities: The Empire Strikes Back (2002) #1"
 }

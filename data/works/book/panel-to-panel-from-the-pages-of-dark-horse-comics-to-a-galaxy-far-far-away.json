@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
   "displayTitle": "Panel to Panel: From the Pages of Dark Horse Comics to a Galaxy Far, Far Away",
   "format": "book",
   "releaseDate": "2004-01-01T00:00:00.000Z",

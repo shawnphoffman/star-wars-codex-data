@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Bunka",
+      "role": "artist",
+      "slug": "bunka"
+    }
+  ],
+  "displayTitle": "The Force Awakens: Graphics",
+  "editions": [
+    {
+      "imprint": "Egmont UK Ltd",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-05-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-force-awakens-graphics",
+  "synopsis": "How big is the new TIE Fighter? How has the First Order Stormtrooper evolved? What proportion of new characters are droids? From Jakku to Takodana, what planets do the heroes visit?Unravel the secrets of the Star Wars universe with this wonderfully illustrated infographic book.Includes all the new ships, characters, locations and movie moments from The Force Awakens.",
+  "title": "The Force Awakens: Graphics"
+}

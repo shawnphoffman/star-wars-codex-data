@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Arnie Jorgensen",
+      "role": "artist",
+      "slug": "arnie-jorgensen"
+    }
+  ],
+  "displayTitle": "From Pencil to Pixel: The Art of Star Wars Galaxies",
+  "editions": [
+    {
+      "imprint": "Prima Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2003-06-26T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-06-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-pencil-to-pixel-the-art-of-star-wars-galaxies",
+  "synopsis": "From Pencil to Pixel: The Art of Star Wars Galaxies is a 2003 reference book that features concept art drawings and computer game art from Sony Online Entertainment's MMORPG Star Wars Galaxies. It contains artwork for each of the original playable species, for the first ten planets and their plants and beasts, and for the game's general architecture and starships.The book was included with the Collector's Edition of Star Wars Galaxies: An Empire Divided and was not for sale elsewhere. However, Star Wars Galaxies: The Complete Online Adventures later included excerpts from the book.",
+  "title": "From Pencil to Pixel: The Art of Star Wars Galaxies"
+}

@@ -1,0 +1,34 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lucile Galliot",
+      "role": "writer",
+      "slug": "lucile-galliot"
+    },
+    {
+      "name": "Thierry Arson",
+      "role": "writer",
+      "slug": "thierry-arson"
+    }
+  ],
+  "displayTitle": "A New Hope - The Film Novel",
+  "editions": [
+    {
+      "imprint": "Hachette Jeunesse",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-09-09T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-09-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-hope-the-film-novel",
+  "title": "A New Hope - The Film Novel"
+}

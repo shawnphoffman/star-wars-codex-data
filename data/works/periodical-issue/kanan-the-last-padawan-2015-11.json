@@ -7,9 +7,9 @@
       "slug": "mark-brooks"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Jordan D. White",
@@ -43,7 +43,8 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2016-02-24T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "kanan-the-last-padawan-2015-11",
   "title": "Kanan 11: First Blood, Part V: The Fog of War"
 }

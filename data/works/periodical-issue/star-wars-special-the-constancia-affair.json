@@ -1,6 +1,6 @@
 {
   "bookType": "other",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Russ Manning",
@@ -46,6 +46,21 @@
       "name": "Tony Harris",
       "role": "coverArtist",
       "slug": "tony-harris"
+    },
+    {
+      "name": "Russ Manning",
+      "role": "penciler",
+      "slug": "russ-manning"
+    },
+    {
+      "name": "Chris Chalenor",
+      "role": "colorist",
+      "slug": "chris-chalenor"
+    },
+    {
+      "name": "Igor Kordey",
+      "role": "coverArtist",
+      "slug": "igor-kordey"
     }
   ],
   "displayTitle": "Special: The Constancia Affair",

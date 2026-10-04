@@ -40,6 +40,9 @@
   "displayTitle": "Crimson Empire III: Empire Lost",
   "era": "newRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 13
+  },
   "periodical": {
     "publicationKind": "comic"
   },

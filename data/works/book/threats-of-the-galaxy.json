@@ -1,0 +1,55 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gary Astleford",
+      "role": "writer",
+      "slug": "gary-astleford"
+    },
+    {
+      "name": "Eric Cagle",
+      "role": "writer",
+      "slug": "eric-cagle"
+    },
+    {
+      "name": "Robert J. Schwalb",
+      "role": "writer",
+      "slug": "robert-j-schwalb"
+    },
+    {
+      "name": "John Snead",
+      "role": "writer",
+      "slug": "john-snead"
+    },
+    {
+      "name": "Patrick Stutzman",
+      "role": "writer",
+      "slug": "patrick-stutzman"
+    },
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    }
+  ],
+  "displayTitle": "Threats of the Galaxy",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2008-05-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2008-05-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "threats-of-the-galaxy",
+  "synopsis": "This supplement gives Gamemasters an assortment of galactic denizens to populate their Star Wars Roleplaying Game adventures. Nowhere will you find a more useful hive of scum and villainy! This book presents scores of nefarious characters, fearsome creatures, and droids of various levels and across all Star Wars eras. Each character, creature, and droid entry includes game statistics, tactics, and encounter tips.",
+  "title": "Threats of the Galaxy"
+}

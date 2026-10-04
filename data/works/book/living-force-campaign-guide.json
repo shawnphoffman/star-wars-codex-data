@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Wiese",
+      "role": "writer",
+      "slug": "robert-wiese"
+    },
+    {
+      "name": "Andy Collins",
+      "role": "writer",
+      "slug": "andy-collins"
+    },
+    {
+      "name": "Brian Campbell",
+      "role": "editor",
+      "slug": "brian-campbell"
+    },
+    {
+      "name": "Ben Harper",
+      "role": "editor",
+      "slug": "ben-harper"
+    },
+    {
+      "name": "Kim Mohan",
+      "role": "editor",
+      "slug": "kim-mohan"
+    }
+  ],
+  "displayTitle": "Living Force Campaign Guide",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2001-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "living-force-campaign-guide",
+  "synopsis": "Living Force Campaign Guide is a paperback supplement to the Wizards of the Coast Star Wars Roleplaying Game. It was written by Robert Wiese and Andy Collins, published March 2001.The Guide provides an overview of the Cularin system, which was the home of the Living Force roleplaying campaign. It details the history, the planets and locations, and the movers and shakers of the system, finishing up with short descriptions of some of the system's mysterious locations.",
+  "title": "Living Force Campaign Guide"
+}

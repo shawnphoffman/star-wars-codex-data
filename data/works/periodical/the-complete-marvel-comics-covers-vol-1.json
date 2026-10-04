@@ -1,0 +1,22 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "displayTitle": "The Complete Marvel Comics Covers, Vol. 1",
+  "editions": [
+    {
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-10-08T00:00:00.000Z"
+    }
+  ],
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-complete-marvel-comics-covers-vol-1",
+  "title": "The Complete Marvel Comics Covers, Vol. 1"
+}

@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Lisa Stock",
+      "role": "editor",
+      "slug": "lisa-stock"
+    }
+  ],
+  "displayTitle": "The Ultimate Visual Guide: Updated and Expanded",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-04-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-04-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-ultimate-visual-guide-updated-and-expanded",
+  "synopsis": "The Star Wars: The Ultimate Visual Guide: Updated and Expanded is a reference book written by Ryder Windham and Daniel Wallace. Released by Dorling Kindersley on April 30, 2012, it is an expanded version of the Special Edition.Revised and expanded!Star Wars: The Ultimate Visual Guide (UVG), newly revised and expanded, reveals the story of the amazing Star Wars saga in full detail. 40 new pages help to explain every detail about Star Wars from the millennia-spanning history of George Lucas's long ago, far away galaxy to the Star Wars movies and ever-expanding range of books, novels, comics, and media. Packed full of interesting facts about the world of Star Wars merchandise and fandom, astonishing pieces of art, and full-color photographs, DK's compendium is the key to knowing ALL there is to know about the iconic brand that is Star Wars!Featuring tons of all-new content including characters, storylines, vehicles, weapons, merchandise, news, and beyond:LEGO® Star Wars™ sets and minifiguresLatest seasons of the ever-popular animated series, The Clone WarsThe Force Unleashed video gamesBlu-ray release of Episode I The Phantom MenaceUpdated galactic timeline and galaxy mapAnd much, much more!",
+  "title": "Star Wars: The Ultimate Visual Guide: Updated and Expanded"
+}

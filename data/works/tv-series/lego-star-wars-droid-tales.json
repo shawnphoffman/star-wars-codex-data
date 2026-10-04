@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Torsten Jacobson",
+      "role": "producer",
+      "slug": "torsten-jacobson"
+    },
+    {
+      "name": "Jake Blais",
+      "role": "producer",
+      "slug": "jake-blais"
+    },
+    {
+      "name": "John McCormack",
+      "role": "producer",
+      "slug": "john-mccormack"
+    }
+  ],
   "displayTitle": "LEGO Star Wars: Droid Tales",
   "format": "tvSeries",
   "releaseDate": "2015-10-05T00:00:00.000Z",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    },
+    {
+      "name": "Jake Lunt Davies",
+      "role": "artist",
+      "slug": "jake-lunt-davies"
+    }
+  ],
+  "displayTitle": "Tales from the Occlusion Zone: Out with a Bang",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-04-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-the-occlusion-zone-out-with-a-bang",
+  "title": "Tales from the Occlusion Zone: Out with a Bang"
+}

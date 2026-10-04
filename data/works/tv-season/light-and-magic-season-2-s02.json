@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Howard",
+      "role": "producer",
+      "slug": "ron-howard"
+    },
+    {
+      "name": "Joe Johnston",
+      "role": "director",
+      "slug": "joe-johnston"
+    }
+  ],
   "displayTitle": "Light & Magic Season 2",
   "format": "tvSeason",
   "parentWorkSlug": "light-and-magic",

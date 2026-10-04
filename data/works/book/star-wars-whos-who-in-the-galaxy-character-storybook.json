@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    },
+    {
+      "name": "Leigh Zieske",
+      "role": "artist",
+      "slug": "leigh-zieske"
+    }
+  ],
+  "displayTitle": "Who's Who in the Galaxy: Character Storybook",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-07-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-07-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-whos-who-in-the-galaxy-character-storybook",
+  "synopsis": "The galaxy is full of so many amazing heroes, villains, droids, aliens and creatures, it can be hard to keep them all straight! Thankfully, this delightful character storybook with simple text and illustrations guides readers through Episodes I-VIII by introducing all of the key players along the way.",
+  "title": "Star Wars: Who's Who in the Galaxy: Character Storybook"
+}

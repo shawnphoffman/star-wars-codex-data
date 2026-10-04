@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Megan Crouse",
+      "role": "writer",
+      "slug": "megan-crouse"
+    },
+    {
+      "name": "Amy Richau",
+      "role": "writer",
+      "slug": "amy-richau"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    }
+  ],
+  "displayTitle": "The High Republic Character Encyclopedia",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2023-11-09T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-11-09T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-character-encyclopedia",
+  "synopsis": "Star Wars: The High Republic Character Encyclopedia This is a Star Wars: The High Republic reference book that features over 250 High Republic characters Want to dive into The High Republic era of the Star Wars galaxy, but don't know where to start? Look no further! Centuries before the fall of Anakin Skywalker and rise of the Galactic Empire, the noble and wise Jedi Knights must face frightening new threats to themselves, the galaxy, and the Force itself! Meet the brave Jedi, ruthless Nihil marauders, cutthroat mercenaries, and evil monsters who call this era of the galaxy home. Featuring more than 250 characters from The High Republic publishing initiative, this character encyclopedia is a perfect introduction to an exciting new era of Star Wars storytelling.",
+  "title": "The High Republic Character Encyclopedia"
+}

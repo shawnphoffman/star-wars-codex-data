@@ -6,31 +6,6 @@
       "name": "Donald F. Glut",
       "role": "writer",
       "slug": "donald-f-glut"
-    },
-    {
-      "name": "Brian Daley",
-      "role": "writer",
-      "slug": "brian-daley"
-    },
-    {
-      "name": "Ken Hiller",
-      "role": "narrator",
-      "slug": "ken-hiller"
-    },
-    {
-      "name": "John Madden",
-      "role": "director",
-      "slug": "john-madden"
-    },
-    {
-      "name": "Tom Voegeli",
-      "role": "director",
-      "slug": "tom-voegeli"
-    },
-    {
-      "name": "John Bos",
-      "role": "producer",
-      "slug": "john-bos"
     }
   ],
   "displayTitle": "The Empire Strikes Back",
@@ -46,14 +21,25 @@
     {
       "type": "isbn13",
       "value": "9780307795458"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345283924"
     }
   ],
   "editions": [
     {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345283924",
+      "kind": "print",
+      "onsale": "1980-04-12T00:00:00.000Z"
+    },
+    {
       "asin": "B00513E5MU",
       "extent": 224,
       "imprint": "Random House",
-      "isPrimary": true,
+      "isPrimary": false,
       "isbn10": "0307795454",
       "isbn13": "9780307795458",
       "kind": "print",
@@ -61,6 +47,7 @@
     },
     {
       "imprint": "Random House Audio",
+      "isPrimary": false,
       "kind": "audio",
       "onsale": "2027-02-02T00:00:00.000Z"
     }
@@ -69,7 +56,7 @@
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "2011-06-28T00:00:00.000Z",
+  "releaseDate": "1980-04-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-empire-strikes-back",

@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Larry Weinberg",
+      "role": "writer",
+      "slug": "larry-weinberg"
+    }
+  ],
+  "displayTitle": "Classic Star Wars: The Empire Strikes Back",
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1983-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-star-wars-the-empire-strikes-back-1983",
+  "title": "Classic Star Wars: The Empire Strikes Back"
+}

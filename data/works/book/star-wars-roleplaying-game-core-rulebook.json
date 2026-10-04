@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    },
+    {
+      "name": "Andy Collins",
+      "role": "writer",
+      "slug": "andy-collins"
+    },
+    {
+      "name": "J.D. Wiker",
+      "role": "writer",
+      "slug": "jd-wiker"
+    }
+  ],
+  "displayTitle": "Roleplaying Game Core Rulebook",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2000-11-22T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-11-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-roleplaying-game-core-rulebook",
+  "synopsis": "No science fiction saga has influenced and sparked the imagination of more people around the world than Star Wars. From Darth Vader and the Death Star to Queen Amidala and beyond, the Star Wars roleplaying game lets players take part in events from the complete Star Wars universe as detailed in all four movies as well as every novel and comic book.Nowhere is the Force as strong as in the illustrated Star Wars hardcover rulebook. Everything a player needs can be found in this comprehensive, hardbound book: character creation, the Force and its powers, spaceship combat, advice for creating new Star Wars adventures, and much more.",
+  "title": "Star Wars Roleplaying Game Core Rulebook"
+}

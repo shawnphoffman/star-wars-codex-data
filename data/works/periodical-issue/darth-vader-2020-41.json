@@ -22,9 +22,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Raffaele Ienco",
@@ -55,6 +55,7 @@
   },
   "parentWorkSlug": "darth-vader-2020",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-12-20T00:00:00.000Z",

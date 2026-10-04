@@ -1,5 +1,5 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "creators": [
     {
       "name": "Ryan Benjamin",
@@ -47,7 +47,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-03-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "star-wars-infinities-return-of-the-jedi-2003-3",
+  "synopsis": "Han is rescued, but Luke has been captured, and Leia's determination to free him has led to a precipitous and premature attack on the Death Star! Meanwhile the Rebel ground troops on Endor have run into their own problems. It all leads up to a surprising setback for the Rebel Alliance - and for Luke Skywalker in particular! The events of Return of the Jedi have been altered from what you saw in the film! The characters are the same, but the adventure is all new! The possibilities are endless! * Now available worldwide (except UK)!",
   "title": "Star Wars Infinities: Return of the Jedi (2003) #3"
 }

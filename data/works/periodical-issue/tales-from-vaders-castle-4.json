@@ -30,6 +30,36 @@
       "name": "Francesco Francavilla",
       "role": "artist",
       "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "penciler",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Robert Hack",
+      "role": "penciler",
+      "slug": "robert-hack"
+    },
+    {
+      "name": "Derek Charm",
+      "role": "colorist",
+      "slug": "derek-charm"
+    },
+    {
+      "name": "Charlie Kirchoff",
+      "role": "colorist",
+      "slug": "charlie-kirchoff"
+    },
+    {
+      "name": "Robbie Robbins",
+      "role": "letterer",
+      "slug": "robbie-robbins"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Tales From Vader's Castle #4",

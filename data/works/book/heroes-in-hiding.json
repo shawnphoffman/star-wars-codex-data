@@ -9,12 +9,28 @@
     }
   ],
   "displayTitle": "Heroes in Hiding",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781570825682"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 5,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn13": "9781570825682",
+      "kind": "print",
+      "onsale": "1996-01-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
-  "releaseDate": "1995-06-18T00:00:00.000Z",
+  "releaseDate": "1996-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "heroes-in-hiding",

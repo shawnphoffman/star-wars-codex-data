@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lukasz Liszko",
+      "role": "artist",
+      "slug": "lukasz-liszko"
+    },
+    {
+      "name": "Yihyoung Li",
+      "role": "artist",
+      "slug": "yihyoung-li"
+    },
+    {
+      "name": "Yihyoung Li",
+      "role": "coverArtist",
+      "slug": "yihyoung-li"
+    }
+  ],
+  "displayTitle": "The High Republic: Chronicles of the Jedi",
+  "editions": [
+    {
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2023-02-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-02-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-high-republic-chronicles-of-the-jedi",
+  "synopsis": "For light and life. Immerse yourself in the thrilling world of Star Wars: The High Republic with this incredibly illustrated guide to the golden age of the Jedi! Set hundreds of years before the Skywalker Saga, this book is the ultimate in-universe guide to the Jedi Knights of Star Wars: The High Republic, providing fascinating insight into a time of valiant heroes, terrifying monsters, and daring exploration. Featuring stunning original illustrations and exclusive new revelations, this striking book is an essential collectible that will transport you to the galaxy's gilded age.THE ULTIMATE IN-UNIVERSE JEDI GUIDE: Learn about the Jedi of the High Republic, with detailed profiles of heroes such as Avar Kriss, Bell Zettifar, Stellan Gios, Keeve Trennis, Burryaga, Yoda, and more.STUNNING ILLUSTRATIONS: See fan-favorite characters, creatures, vehicles, and locations come to life through amazing illustrations and never-before-seen artwork.LEARN THE SECRETS OF THE HIGH REPUBLIC: Uncover the mysteries of the Force and learn about the technology of the Jedi Order, including its starfighters and the unique lightsaber designs of this incredible era.COMPLETE YOUR STAR WARS COLLECTION: This book joins Star Wars: The Lightsaber Collection, Star Wars: The Secrets of the Sith, and Star Wars: The Ultimate Pop-Up Galaxy in Insight Editions' library of fan-favorite Star Wars titles. Release Dates: Titan Books; UK hardcover: 28th of February 2023 Insight Editions; US hardcover: 21st of March 2023",
+  "title": "The High Republic: Chronicles of the Jedi"
+}

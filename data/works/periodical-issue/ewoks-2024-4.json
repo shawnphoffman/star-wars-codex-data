@@ -22,9 +22,9 @@
       "slug": "antonio-fabela"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Álvaro López",
@@ -55,6 +55,31 @@
       "name": "Michael Basso",
       "role": "editor",
       "slug": "michael-basso"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    },
+    {
+      "name": "Jesus Aburtov",
+      "role": "coverArtist",
+      "slug": "jesus-aburtov"
+    },
+    {
+      "name": "John Tyler Christopher",
+      "role": "coverArtist",
+      "slug": "john-tyler-christopher"
+    },
+    {
+      "name": "C.B. Cebulski",
+      "role": "editor",
+      "slug": "cb-cebulski"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
     }
   ],
   "displayTitle": "Ewoks (2024) #4",
@@ -65,6 +90,7 @@
   },
   "parentWorkSlug": "ewoks-2024-comics",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2025-01-29T00:00:00.000Z",

@@ -15,6 +15,31 @@
       "name": "Kelley Jones",
       "role": "artist",
       "slug": "kelley-jones"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "penciler",
+      "slug": "francesco-francavilla"
+    },
+    {
+      "name": "Kelley Jones",
+      "role": "penciler",
+      "slug": "kelley-jones"
+    },
+    {
+      "name": "Michelle Madsen",
+      "role": "colorist",
+      "slug": "michelle-madsen"
+    },
+    {
+      "name": "AndWorld Design",
+      "role": "letterer",
+      "slug": "andworld-design"
+    },
+    {
+      "name": "Francesco Francavilla",
+      "role": "coverArtist",
+      "slug": "francesco-francavilla"
     }
   ],
   "displayTitle": "Adventures: Return to Vader's Castle #2",

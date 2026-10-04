@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John David Scoleri",
+      "role": "writer",
+      "slug": "john-david-scoleri"
+    },
+    {
+      "name": "Stan Stice",
+      "role": "writer",
+      "slug": "stan-stice"
+    }
+  ],
+  "displayTitle": "Remembering Ralph McQuarrie: Dreamer and Visionary",
+  "editions": [
+    {
+      "imprint": "Dreams and Visions Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-08-23T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-08-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "remembering-ralph-mcquarrie-dreamer-and-visionary",
+  "synopsis": "Remembering Ralph McQuarrie: Dreamer and Visionary is a tribute book to late Star Wars conceptual artist Ralph McQuarrie, featuring previously unreleased artwork and memories from colleagues. It was written by John Scoleri and Stan Stice, and published by Dreams and Visions Press. The book was first available at The Art of Ralph McQuarrie booth at Star Wars Celebration VI, beginning August 23, 2012.\"Remembering Ralph McQuarrie: Dreamer and Visionary\" is a 48-page book of unpublished artwork, rare photographs, and loving tributes from dozens of Ralph's colleagues, friends and fans.The unseen artwork includes examples of Ralph's Apollo mission animation cels, storyboard from The Empire Strikes Back, preliminary drawings and unused concepts from The Illustrated Star Wars Universe, production paintings from Cocoon (for which he received an Academy Award), and a breathtaking selection of Ralph's concept art for Irvin Kershner's unfilmed remake of Forbidden Planet.The artwork is accompanied by many photographs of Ralph through the years, along with the personal tributes from a wide variety of artists and filmmakers including Phil Tippett, Jon Berg, Harrison Ellenshaw, Hal Barwood, Doug Chiang, Kevin J. Anderson, Tim Bradstreet, James Gurney and many more.",
+  "title": "Remembering Ralph McQuarrie: Dreamer and Visionary"
+}

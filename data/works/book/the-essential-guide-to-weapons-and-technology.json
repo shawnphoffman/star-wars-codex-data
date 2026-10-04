@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "David Nakabayashi",
+      "role": "artist",
+      "slug": "david-nakabayashi"
+    },
+    {
+      "name": "Troy Vigil",
+      "role": "artist",
+      "slug": "troy-vigil"
+    }
+  ],
+  "displayTitle": "The Essential Guide to Weapons and Technology",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-guide-to-weapons-and-technology",
+  "synopsis": "The third book in Del Rey's Essential Guide series, The Essential Guide to Weapons and Technology featured an in-depth look at one hundred different devices from works that had been published before and during 1997, ranging from thermal detonators and Wookiee bowcasters to Lobot's cyborg implant and the Empire's top-secret cloaking devices.",
+  "title": "The Essential Guide to Weapons and Technology"
+}

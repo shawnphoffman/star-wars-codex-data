@@ -1,7 +1,10 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Classic Star Wars: A New Hope",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "publicationKind": "comic"
   },

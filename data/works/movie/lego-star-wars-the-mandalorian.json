@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Chris Buckley",
+      "role": "director",
+      "slug": "chris-buckley"
+    }
+  ],
   "displayTitle": "LEGO Star Wars: The Mandalorian",
   "era": "newRepublic",
   "format": "movie",

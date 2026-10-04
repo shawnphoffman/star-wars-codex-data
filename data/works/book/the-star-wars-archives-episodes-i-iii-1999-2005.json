@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Duncan",
+      "role": "writer",
+      "slug": "paul-duncan"
+    }
+  ],
+  "displayTitle": "The Star Wars Archives: Episodes I-III, 1999-2005",
+  "editions": [
+    {
+      "imprint": "TASCHEN",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-11-08T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-11-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-archives-episodes-i-iii-1999-2005",
+  "synopsis": "The Star Wars Archives: Episodes I-III 1999-2005 is an upcoming book detailing info from the Star Wars prequel trilogy. It is planned to be released sometime in 2020",
+  "title": "The Star Wars Archives: Episodes I-III, 1999-2005"
+}

@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Rise of Skywalker: The Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-12-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-rise-of-skywalker-the-visual-dictionary",
+  "synopsis": "Star Wars: The Rise of Skywalker: The Visual Dictionary is a 200-page definitive guide to Star Wars: The Rise of Skywalker, revealing the characters, creatures, droids, locations, and technology from the new film. Packed with 500+ images and information, plus cross-sections of new vehicles, as penned by Star Wars scribe Pablo Hidalgo, it's a must-have for all fans who want to go beyond the movie experience.",
+  "title": "Star Wars: The Rise of Skywalker: The Visual Dictionary"
+}

@@ -1,0 +1,60 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    },
+    {
+      "name": "Ron Cohee",
+      "role": "artist",
+      "slug": "ron-cohee"
+    },
+    {
+      "name": "Patrick Spaziante",
+      "role": "artist",
+      "slug": "patrick-spaziante"
+    },
+    {
+      "name": "Heather Martinez",
+      "role": "artist",
+      "slug": "heather-martinez"
+    },
+    {
+      "name": "Ethen Beavers",
+      "role": "artist",
+      "slug": "ethen-beavers"
+    },
+    {
+      "name": "Tyler Kashner",
+      "role": "artist",
+      "slug": "tyler-kashner"
+    },
+    {
+      "name": "Seung Kim",
+      "role": "artist",
+      "slug": "seung-kim"
+    }
+  ],
+  "displayTitle": "Tales of the Force",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-09-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-tales-of-the-force",
+  "synopsis": "Star Wars has captivated millions worldwide for forty years. The phenomenon began with the 1977 theatrical debut of Star Wars, later retitled A New Hope, and has expanded to include seven additional major motion pictures (The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Force Awakens, and Rogue One), television programming, publishing, video games, and much more, with new films coming every year. The Last Jedi releases in theaters on December 15, 2017.",
+  "title": "Star Wars: Tales of the Force"
+}

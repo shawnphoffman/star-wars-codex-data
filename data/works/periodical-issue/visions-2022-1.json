@@ -2,9 +2,9 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Daniel Khazem",
@@ -43,7 +43,8 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2022-10-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "visions-2022-1",
   "title": "Visions (2022) #1"
 }

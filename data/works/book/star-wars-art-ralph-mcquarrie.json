@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    },
+    {
+      "name": "Brandon Alinger",
+      "role": "editor",
+      "slug": "brandon-alinger"
+    },
+    {
+      "name": "Wade Lageose",
+      "role": "editor",
+      "slug": "wade-lageose"
+    },
+    {
+      "name": "David Mandel",
+      "role": "editor",
+      "slug": "david-mandel"
+    }
+  ],
+  "displayTitle": "Art: Ralph McQuarrie",
+  "editions": [
+    {
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-09-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-09-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-art-ralph-mcquarrie",
+  "synopsis": "Star Wars Art: Ralph McQuarrie is a book showcasing the artwork of Star Wars concept artist Ralph McQuarrie. The 800-page, two-book set was published in hardcover by Abrams Books on September 27, 2016 for $250. The collection has a foreword by George Lucas and features over 2,000 illustrations rescanned and rephotographed from conceptual paintings, costume designs, storyboards, book covers, and Lucasfilm holiday cards.",
+  "title": "Star Wars Art: Ralph McQuarrie"
+}

@@ -11,6 +11,10 @@
   "displayTitle": "Empire and Rebellion: Razor's Edge",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345545249"
+    },
+    {
       "type": "isbn13",
       "value": "9780345545244"
     }
@@ -20,6 +24,7 @@
       "extent": 288,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345545249",
       "isbn13": "9780345545244",
       "kind": "print",
       "onsale": "2013-09-24T00:00:00.000Z"
@@ -34,6 +39,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "empire-and-rebellion-razors-edge",
-  "synopsis": "===Hardcover=== Back cover When Rebels clash with renegades, it's the Empire that may claim the final victory. Internal flap Times are desperate for the Rebel Alliance. Harassment by the Empire and a shortage of vital supplies are hindering completion of a new secret base on the ice planet Hoth. So when Mid Rim merchants offer much-needed materials for sale, Princess Leia Organa and Han Solo lead an Alliance delegation to negotiate a deal. But when treachery forces the rebel ship to flee into territory controlled by pirates, Leia makes a shocking discovery: the fierce marauders come from Leia'",
+  "synopsis": "When their ship is pursued by pirates, Leia Organa and Han Solo discover those behind the attack have more in common with the Alliance than they realize.",
   "title": "Empire and Rebellion: Razor's Edge"
 }

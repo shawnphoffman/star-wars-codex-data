@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Return of the Jedi Portfolio",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1983-06-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-06-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-return-of-the-jedi-portfolio",
+  "synopsis": "The Star Wars: Return of the Jedi Portfolio was a book published by Ballantine Books in June of 1983. It showcased the concept artwork created by Ralph McQuarrie for Return of the Jedi.",
+  "title": "Star Wars: Return of the Jedi Portfolio"
+}

@@ -1,9 +1,17 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    }
+  ],
   "displayTitle": "Han Solo: Hunt for the Falcon #5",
   "format": "periodicalIssue",
   "parentWorkSlug": "han-solo-hunt-for-the-falcon",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2026-03-11T00:00:00.000Z",

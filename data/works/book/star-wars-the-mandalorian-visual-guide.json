@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Mandalorian Visual Guide",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2026-04-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-mandalorian-visual-guide",
+  "synopsis": "Produced in close collaboration with Lucasfilm, this must-have guide to the Disney+ phenomenon is packed with fascinating new insights and exclusive imagery. Discover the hidden gadgets of Din Djarin's beskar armor. Learn more about the iconic child, Grogu. Discover the secrets of the Mandalorian code of honor known as the Way. Examine the functional workings of the Razor Crest. Meet the deadly Fennec Shand and the ruthless Moff Gideon, and much more. Star Wars: The Mandalorian: Visual Guide is the perfect gift for fans of all ages, and will be released in time to celebrate their next adventure in movie theaters, Star Wars: The Mandalorian and Grogu.",
+  "title": "Star Wars: The Mandalorian Visual Guide"
+}

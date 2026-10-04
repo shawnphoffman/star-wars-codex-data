@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Return of the Jedi (Disney Die-Cut Classics)",
+  "editions": [
+    {
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-05-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-return-of-the-jedi-disney-die-cut-classics",
+  "title": "Star Wars: Return of the Jedi (Disney Die-Cut Classics)"
+}

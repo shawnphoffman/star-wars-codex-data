@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steven H. Lorenz",
+      "role": "writer",
+      "slug": "steven-h-lorenz"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Gamemaster Handbook",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-gamemaster-handbook",
+  "synopsis": "The Star Wars Gamemaster Handbook is a supplement for the Second Edition of Star Wars: The Roleplaying Game published by West End Games in 1993.From the publisherBring all the excitement of the Star Wars universe to your games with the Star Wars Gamemaster Handbook. This book is a collection of inspirational and entertaining essays on all aspects of game design, from encounters, to creating gamemaster characters, to how to really start a fun campaign. A complete guidebook on how to bring the Star Wars universe to life.",
+  "title": "Star Wars Gamemaster Handbook"
+}

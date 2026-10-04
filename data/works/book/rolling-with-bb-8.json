@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Harper",
+      "role": "writer",
+      "slug": "ben-harper"
+    }
+  ],
+  "displayTitle": "Rolling with BB-8!",
+  "editions": [
+    {
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-02-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-02-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rolling-with-bb-8",
+  "title": "Rolling with BB-8!"
+}

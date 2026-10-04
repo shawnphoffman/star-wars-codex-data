@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Mark Chiarello",
+      "role": "artist",
+      "slug": "mark-chiarello"
+    },
+    {
+      "name": "Tommy Lee Edwards",
+      "role": "artist",
+      "slug": "tommy-lee-edwards"
+    },
+    {
+      "name": "John Van Fleet",
+      "role": "artist",
+      "slug": "john-van-fleet"
+    }
+  ],
+  "displayTitle": "The New Essential Chronology",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2005-10-25T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-10-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-essential-chronology",
+  "synopsis": "The New Essential Chronology is a 256-page reference book published by Del Rey, and is the eleventh book in the Essential Guide series. It was written by Daniel Wallace (expanding on the original text by him and Kevin J. Anderson) and illustrated by Mark Chiarello, John Van Fleet and Tommy Lee Edwards. Ian Fullwood created the galaxy map near the end of the book. The New Essential Chronology was released October 25, 2005.The book provides a broad history of the Star Wars saga, from pre-Republic history to after the Yuuzhan Vong invasion, drawing upon both well-known and obscure sources. This edition is updated for the prequel trilogy and the New Jedi Order book series. It is written from an in-universe perspective by Voren Na'al, Archivist Emeritus of the Historical Council, Galactic Federation of Free Alliances.At last, it's the ultimate history of the spectacular Star Wars saga, lavishly illustrated and in full color for the first time.With the completion of Episodes I, II, and III, the epic story that's captivated millions can now be told in its entirety, from the time of the primordial Knights of the Old Republic and the Clone Wars to the birth of the Empire, from the destruction of the Death Star to the adventures of the New Jedi Order.Beautifully illustrated by Mark Chiarello, Tommy Lee Edwards, and John Van Fleet, Star Wars: The New Essential Chronology offers the comprehensive and official chronicle of that extraordinary galaxy so far, far away. Herein you'll findthe most exciting and climactic events from all epochs of Star Wars - those explosive turning points in the shaping of the galaxya gripping account of the controversial Clone Wars - the treachery that fueled them and the terrifying aftermathprofiles of the key players in the history of the Star Wars galaxy, along with all the most popular heroes and villains from every movie, book, comic, TV special, game, and cartoonFollow Anakin Skywalker's perilous journey as he wrestles with the dark side; behold the black soul of each Dark Lord of the Sith, from Darth Sidious to Darth Vader; experience the fiery space battles that decided the fates of entire planets; and witness the ferocious invasion of the seemingly invincible Yuuzhon [sic] Vong.The training of Obi-Wan Kenobi, the invasion of Naboo, the capture of Princess Leia, the Battle of Yavin, the lightsaber death duel between Organa Solo and Beldorion the Hutt - all of the key events are captured and preserved for all time in this drama-filled Stars Wars chronicle.",
+  "title": "The New Essential Chronology"
+}

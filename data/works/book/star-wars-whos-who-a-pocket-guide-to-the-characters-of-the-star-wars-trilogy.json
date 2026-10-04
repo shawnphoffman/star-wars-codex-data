@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Marc Frey",
+      "role": "editor",
+      "slug": "marc-frey"
+    }
+  ],
+  "displayTitle": "Who's Who: A Pocket Guide to the Characters of the Star Wars Trilogy",
+  "editions": [
+    {
+      "imprint": "Running Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-whos-who-a-pocket-guide-to-the-characters-of-the-star-wars-trilogy",
+  "synopsis": "A long time ago in a galaxy far, far away, Luke Skywalker and a heroic group of Rebels battled Darth Vader and the evil forces of the Galactic Empire . . .Now the unforgettable characters of the Star Wars trilogy come to life again inside this pocket guide! Learn all about Han Solo, Chewbacca, Princess Leia, Yoda, and many others - from Admiral Ackbar to Zuckuss.Star Wars Who's Who is a perfect companion for all fans of the original trilogy, and a great primer for George Lucas' new series of films about the early adventures of Obi-Wan Kenobi and Anakin Skywalker!",
+  "title": "Star Wars Who's Who: A Pocket Guide to the Characters of the Star Wars Trilogy"
+}

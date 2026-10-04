@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Ian Fullwood",
+      "role": "artist",
+      "slug": "ian-fullwood"
+    }
+  ],
+  "displayTitle": "The New Essential Guide to Droids",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2006-06-27T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2006-06-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-essential-guide-to-droids",
+  "synopsis": "The New Essential Guide to Droids is the twelfth reference book in the Essential Guide series of reference books by Del Rey, and an updated edition of 1999's The Essential Guide to Droids. Published on June 27, 2006, The New Essential Guide to Droids was written by Daniel Wallace and illustrated by Ian Fullwood. At 224 pages, the guide covers 90 droids divided into the five classes of intelligence, as well as four cyborgs, a history of droids, a layperson's guide to droids, and an overview of major manufacturers.",
+  "title": "The New Essential Guide to Droids"
+}

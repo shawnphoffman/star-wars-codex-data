@@ -1,0 +1,29 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Blauvelt",
+      "role": "writer",
+      "slug": "christian-blauvelt"
+    }
+  ],
+  "displayTitle": "How Not to Get Eaten by Ewoks and Other Galactic Survival Skills",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-09-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-09-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "how-not-to-get-eaten-by-ewoks-and-other-galactic-survival-skills",
+  "title": "How Not to Get Eaten by Ewoks and Other Galactic Survival Skills"
+}

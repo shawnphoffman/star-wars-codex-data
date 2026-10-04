@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Delilah S. Dawson",
+      "role": "writer",
+      "slug": "delilah-s-dawson"
+    }
+  ],
+  "displayTitle": "The Skywalker Saga",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-skywalker-saga",
+  "synopsis": "This beautifully illustrated treasury celebrates the stories that make up the greatest saga of all time. New York Times Best-Selling Author, Delilah Dawson, retells Episodes I-VIII through Anakin, Luke, Leia, and Rey's points of view. Exquisitely bound, with artwork by Brian Rood, this special collection is the perfect gift for Star Wars fans young and old.",
+  "title": "The Skywalker Saga"
+}

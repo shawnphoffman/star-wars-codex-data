@@ -60,6 +60,9 @@
   "displayTitle": "Boba Fett: Enemy of the Empire",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -1
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -47,9 +47,9 @@
       "slug": "rafael-pimentel"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Dan Brown",
@@ -60,11 +60,6 @@
       "name": "Daniel Khazem",
       "role": "editor",
       "slug": "daniel-khazem"
-    },
-    {
-      "name": "Travis Lanham",
-      "role": "letterer",
-      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Return of the Jedi: The Rebellion #1",
@@ -74,6 +69,7 @@
     "startYear": 4
   },
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-07-19T00:00:00.000Z",

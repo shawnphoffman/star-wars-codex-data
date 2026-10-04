@@ -15,6 +15,9 @@
   "displayTitle": "Lando: Double Or Nothing",
   "era": "reignOfTheEmpire",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -11
+  },
   "periodical": {
     "publicationKind": "comic"
   },

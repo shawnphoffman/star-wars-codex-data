@@ -1,0 +1,43 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    }
+  ],
+  "displayTitle": "Dark Times: A Spark Remains",
+  "era": "fallOfTheJedi",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-07-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "dark-times-a-spark-remains",
+  "title": "Dark Times: A Spark Remains"
+}

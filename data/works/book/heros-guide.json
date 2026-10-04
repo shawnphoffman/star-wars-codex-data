@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    },
+    {
+      "name": "J.D. Wiker",
+      "role": "writer",
+      "slug": "jd-wiker"
+    },
+    {
+      "name": "Michele Carter",
+      "role": "editor",
+      "slug": "michele-carter"
+    },
+    {
+      "name": "Charles Ryan",
+      "role": "editor",
+      "slug": "charles-ryan"
+    }
+  ],
+  "displayTitle": "Hero's Guide",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2003-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2003-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heros-guide",
+  "synopsis": "Bold individuals from countless star systems aspire to greatness. But the galaxy's real heroes are the dynamic characters who blaze their own way to fame or infamy. Like them, you possess a unique combination of skills, abilities, and talents that enables you to succeed where others fail. With your vision and drive, you will leave your mark on the galaxy.This sourcebook features:Over 90 new feats, including Blasterslinger, Dark Power, and Kinetic Combat, as well as seven feats that reflect mastery of each of the lightsaber forms.Over 30 new prestige classes, such as the master duelist, sharpshooter, Bothan master spy, and berserker droid.Over a dozen factions, such as the Rebel Alliance, Bounty Hunters' Guild, and the Hutt Criminal Syndicate, along with rules for joining each one.New equipment, including weapons, military hardware, and cybernetics.",
+  "title": "Hero's Guide"
+}

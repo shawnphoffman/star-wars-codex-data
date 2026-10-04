@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jeneanne DeBois",
+      "role": "writer",
+      "slug": "jeneanne-debois"
+    },
+    {
+      "name": "Shane Clester",
+      "role": "artist",
+      "slug": "shane-clester"
+    }
+  ],
+  "displayTitle": "The Mandalorian: We Are One",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2026-04-14T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-04-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-we-are-one",
+  "synopsis": "We Are One is a children's book by Golden Books that adapts the events from the television series, Star Wars: The Mandalorian. Join Din Djarin and Grogu for a Little Golden Book adventure based on Star Wars: The Mandalorian on Disney+! As Mando and the Child cross the galaxy, they discover that the farther they travel, the closer they become. Follow their journey as they seek Jedi Masters, meet new friends, and face unexpected foes. This full-color Little Golden Book based on The Mandalorian is sure to thrill Star Wars fans of all ages!",
+  "title": "The Mandalorian: We Are One"
+}

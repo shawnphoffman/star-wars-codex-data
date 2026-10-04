@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Martin Skov",
+      "role": "director",
+      "slug": "martin-skov"
+    }
+  ],
   "displayTitle": "Return of the Kyber Saber",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-1-s01",

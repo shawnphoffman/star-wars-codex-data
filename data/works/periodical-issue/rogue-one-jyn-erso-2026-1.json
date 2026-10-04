@@ -32,23 +32,49 @@
       "slug": "guru-efx"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Ethan Sacks",
       "role": "writer",
       "slug": "ethan-sacks"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "coverArtist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "coverArtist",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Rickie Yagawa",
+      "role": "coverArtist",
+      "slug": "rickie-yagawa"
+    },
+    {
+      "name": "Tamra Bonvillain",
+      "role": "coverArtist",
+      "slug": "tamra-bonvillain"
     }
   ],
   "displayTitle": "Rogue One: Jyn Erso (2026) #1",
+  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -13
+  },
   "parentWorkSlug": "rogue-one-jyn-erso",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-06-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "rogue-one-jyn-erso-2026-1",
   "title": "Rogue One: Jyn Erso (2026) #1"
 }

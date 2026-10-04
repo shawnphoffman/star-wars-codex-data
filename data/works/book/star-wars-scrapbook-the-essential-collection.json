@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen J. Sansweet",
+      "role": "writer",
+      "slug": "stephen-j-sansweet"
+    }
+  ],
+  "displayTitle": "Scrapbook: The Essential Collection",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-04-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-scrapbook-the-essential-collection",
+  "synopsis": "Star Wars Scrapbook: The Essential Collection is an 84-page hardcover spiral book that shows off the best of Stephen J. Sansweet's Star Wars collection, containing many pictures along with several stickers and a punch-out X-wing starfighter.",
+  "title": "Star Wars Scrapbook: The Essential Collection"
+}

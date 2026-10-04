@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gary Gerani",
+      "role": "editor",
+      "slug": "gary-gerani"
+    },
+    {
+      "name": "Ken Steacy",
+      "role": "coverArtist",
+      "slug": "ken-steacy"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Galaxy",
+  "editions": [
+    {
+      "imprint": "Topps Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-galaxy",
+  "synopsis": "A one-of-a-kind, 132-page collection of diverse, contemporary art celebrating the Star Wars trilogy - the most entertaining and popular film saga of our time. A must for film buffs... art aficionados... comic fans... trading card collectors... STAR WARS enthusiasts. NEW VISIONS of the STAR WARS galaxy by today's leading comics and fantasy illustrators",
+  "title": "The Art of Star Wars Galaxy"
+}

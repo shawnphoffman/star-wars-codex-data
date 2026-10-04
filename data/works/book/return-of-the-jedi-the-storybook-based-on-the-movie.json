@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joan D. Vinge",
+      "role": "writer",
+      "slug": "joan-d-vinge"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: The Storybook Based on the Movie",
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1983-05-12T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-05-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-the-storybook-based-on-the-movie",
+  "synopsis": "In a sequel to \"The Star Wars Storybook\" and \"The Empire Strikes Back Storybook\", Luke Skywalker and his friends in the Rebel Alliance formulate a daring plan to battle with the Empire and its evil leaders, Darth Vader and the Emperor.",
+  "title": "Return of the Jedi: The Storybook Based on the Movie"
+}

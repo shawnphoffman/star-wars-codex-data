@@ -45,8 +45,12 @@
   "displayTitle": "Tales From the Nightlands #3",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 35
+  },
   "parentWorkSlug": "star-wars-tales-from-the-nightlands",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

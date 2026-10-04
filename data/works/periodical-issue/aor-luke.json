@@ -2,9 +2,9 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Grek Pak",
+      "name": "Greg Pak",
       "role": "writer",
-      "slug": "grek-pak"
+      "slug": "greg-pak"
     },
     {
       "name": "Chris Sprouse",
@@ -47,11 +47,6 @@
       "slug": "stefano-landini"
     },
     {
-      "name": "Greg Pak",
-      "role": "writer",
-      "slug": "greg-pak"
-    },
-    {
       "name": "Glenn Greenberg",
       "role": "writer",
       "slug": "glenn-greenberg"
@@ -72,9 +67,9 @@
       "slug": "tamra-bonvillain"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Age Of Rebellion: Luke Skywalker",

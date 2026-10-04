@@ -1,0 +1,40 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Barbara L. Gibson",
+      "role": "artist",
+      "slug": "barbara-l-gibson"
+    },
+    {
+      "name": "Troy Vigil",
+      "role": "artist",
+      "slug": "troy-vigil"
+    }
+  ],
+  "displayTitle": "The Galactic Empire: Ships of the Fleet",
+  "editions": [
+    {
+      "imprint": "Little, Brown and Company",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-04-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-galactic-empire-ships-of-the-fleet",
+  "synopsis": "The Galactic Empire - Ships of the Fleet is an 8-page pop-up book about the ships and fighters of the Galactic Empire.The page count is deceptive, as it contains five fold-outs. In addition to pop-up images, it contains pictures, drawn images, diagrams, technical specifications, and text.It is notable for including model numbers of several starship components which do not appear to be named in any other canonical source. It also contains a four-page fold-out of the Executor which is noticeably inaccurate by modern standards.",
+  "title": "The Galactic Empire: Ships of the Fleet"
+}

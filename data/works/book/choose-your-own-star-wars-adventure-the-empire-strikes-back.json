@@ -1,0 +1,34 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher Golden",
+      "role": "writer",
+      "slug": "christopher-golden"
+    },
+    {
+      "name": "Phil Franké",
+      "role": "artist",
+      "slug": "phil-frank"
+    }
+  ],
+  "displayTitle": "Choose Your Own Star Wars Adventure: The Empire Strikes Back",
+  "editions": [
+    {
+      "imprint": "Bantam Skylark",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-08-10T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-08-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "choose-your-own-star-wars-adventure-the-empire-strikes-back",
+  "title": "Choose Your Own Star Wars Adventure: The Empire Strikes Back"
+}

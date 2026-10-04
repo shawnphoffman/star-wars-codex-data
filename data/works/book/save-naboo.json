@@ -1,0 +1,35 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gail Herman",
+      "role": "writer",
+      "slug": "gail-herman"
+    },
+    {
+      "name": "Paul Wenzel",
+      "role": "coverArtist",
+      "slug": "paul-wenzel"
+    }
+  ],
+  "displayTitle": "Save Naboo!",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2000-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "save-naboo",
+  "synopsis": "Save Naboo! was a children's storybook published by Scholastic in January 2000 as part of the Star Wars Junior book series.",
+  "title": "Save Naboo!"
+}

@@ -27,9 +27,9 @@
       "slug": "takashi-okazaki"
     },
     {
-      "name": "Vc Ariana Maher",
+      "name": "Ariana Maher",
       "role": "letterer",
-      "slug": "vc-ariana-maher"
+      "slug": "ariana-maher"
     }
   ],
   "displayTitle": "Visions: Takashi Okazaki (2024) #1",
@@ -38,7 +38,8 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2024-03-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "visions-takashi-okazaki-2024-1",
   "title": "Visions: Takashi Okazaki (2024) #1"
 }

@@ -1,0 +1,55 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Gonzalo Flores",
+      "role": "coverArtist",
+      "slug": "gonzalo-flores"
+    },
+    {
+      "name": "Ray Vallese",
+      "role": "editor",
+      "slug": "ray-vallese"
+    },
+    {
+      "name": "Bradley Will",
+      "role": "editor",
+      "slug": "bradley-will"
+    }
+  ],
+  "displayTitle": "The Unknown Regions",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2010-04-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-04-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-unknown-regions",
+  "synopsis": "Far from the cityscape of Coruscant, beyond the fringe planets of the Outer Rim, lies a vast region of space called the Unknown Regions. The Unknown Regions are mysterious and uncharted. They are home to strange aliens, violent slavers, and the forgotten remnants of ancient civilizations that have lived in isolation for eons.This sourcebook gives players and Gamemasters everything they need to run and play in campaigns featuring scouts, exploration, and adventure in the uncharted reaches of the Star Wars galaxy. The Unknown Regions allows Gamemasters to take their existing campaigns in bold new directions, or this book can be used to jumpstart a new campaign that focuses on exploring the unknown.",
+  "title": "The Unknown Regions"
+}

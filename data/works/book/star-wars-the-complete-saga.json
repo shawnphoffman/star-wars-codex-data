@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Complete Saga",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-complete-saga",
+  "synopsis": "STAR WARS: THE COMPLETE SAGA is the ultimate guide to all six films. Readers can relive each film step by step in one amazing book. From Qui-Gon's discovery of Anakin on Tatooine to Anakin's fall to the dark side and Luke's battle to save his father - THE COMLETE SAGA is a must-have for all STAR WARS fans.",
+  "title": "Star Wars: The Complete Saga"
+}

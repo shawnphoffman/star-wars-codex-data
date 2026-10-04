@@ -22,9 +22,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Will Sliney",
@@ -45,6 +45,9 @@
   "displayTitle": "Galaxy's Edge #3",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "galaxys-edge",
   "periodical": {
     "publicationKind": "comic"

@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    },
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    }
+  ],
+  "displayTitle": "The Force Unleashed Campaign Guide",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2008-09-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2008-09-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-force-unleashed-campaign-guide",
+  "synopsis": "Unleash the Force and fight the Empire.The Emperor has swept away the last vestiges of the Old Republic. Darth Vader and his dark apprentice hunt down the surviving Jedi one by one, but a few escape capture and find refuge on backwater worlds. Fewer still reach deep into the Force, unleashing powers beyond their wildest imaginings. Meanwhile, other brave heroes rise to oppose the tyranny of the Empire, heralding the birth of the Rebellion.This campaign guide draws its inspiration from The Force Unleashed, a revolutionary new video game from Lucasfilm, Ltd. It presents a complete campaign setting during the period between Episode III: Revenge of the Sith and Episode IV: A New Hope. The guide offers exciting new character options and Force powers for players as well as adventure content, campaign seeds, and ready-to-play adversaries for Gamemasters.This supplement is designed for use with the Star Wars Roleplaying Game Saga Edition core rulebook.",
+  "title": "The Force Unleashed Campaign Guide"
+}

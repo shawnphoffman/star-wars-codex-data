@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Brandon McKinney",
+      "role": "artist",
+      "slug": "brandon-mckinney"
+    },
+    {
+      "name": "Scott Kolins",
+      "role": "artist",
+      "slug": "scott-kolins"
+    }
+  ],
+  "displayTitle": "The Essential Guide to Planets and Moons",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-guide-to-planets-and-moons",
+  "synopsis": "The fourth book in Del Rey's Essential Guide series, The Essential Guide to Planets and Moons features an in-depth look at one hundred planets, moons, and asteroids from the original trilogy and Expanded Universe, each with its own two-page spread. In 2009 an updated version, The Essential Atlas, was released.THE ULTIMATE RESOURCE TO THE WORLDS OF THE STAR WARS GALAXYFrom the sun-baked deserts of Tatooine to the frost-bitten snowscape of Hoth to the misty swamps of Dagobah, here's your expert guide to the one hundred most fascinating worlds of the extraordinary Star Wars universe. Travel from the Deep Core to the Outer Rim Territories and discover the wonders of:Kashyyyk - the treacherous, arboreal planet where the Wookiee race dwells among the branches in elevated cities...and lethal predators rule the surfaceBespin - the gas planet devoid of solid ground, in whose atmosphere hovers the formidable Cloud CityEndor - the Forest Moon: home to the peaceful but powerful Ewoks and site of a decisive battle in the galactic civil warCoruscant - center of power, law history and culture in the galaxy...and once the location of Imperial City, the seat of the dreaded EmpireEXPLORE THE TERRAIN, MEET THE INHABITANTS AND UNCOVER THE SECRETS OF THESE AND MANY, MANY MORE REMARKABLE DESTINATIONS ON A CAPTIVATING, FULLY ILLUSTRATED VOYAGE OF THE BRIGHTEST STARS OF A FANTASTIC UNIVERSE",
+  "title": "The Essential Guide to Planets and Moons"
+}

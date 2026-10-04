@@ -2,8 +2,13 @@
   "canonStatus": "non-canon",
   "collectionType": "omnibus",
   "collects": [
+    "a-new-legacy-1",
     "infinities-esb",
     "infinities-rotj",
+    "return-of-the-jedi-1-in-the-hands-of-jabba-the-hutt",
+    "return-of-the-jedi-2-the-emperor-commands",
+    "return-of-the-jedi-3-mission-to-endor",
+    "return-of-the-jedi-4-the-final-duel",
     "star-wars-infinities-a-new-hope"
   ],
   "displayTitle": "Omnibus: Infinities",

@@ -345,6 +345,9 @@
   "displayTitle": "War of the Bounty Hunters",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Genndy Tartakovsky",
+      "role": "director",
+      "slug": "genndy-tartakovsky"
+    }
+  ],
   "displayTitle": "Chapter 25",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-clone-wars-season-3-s03",

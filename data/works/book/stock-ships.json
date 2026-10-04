@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Steve Miller",
+      "role": "writer",
+      "slug": "steve-miller"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Christina Wald",
+      "role": "artist",
+      "slug": "christina-wald"
+    }
+  ],
+  "displayTitle": "Stock Ships",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "stock-ships",
+  "synopsis": "Stock Ships is a sourcebook for Star Wars: The Roleplaying Game, describing fourteen light freighters for use in campaigns set in the Galactic Civil War era. It was published by West End Games in December 1997.Most of the ships presented had appeared in other West End Games sourcebooks. However, this sourcebook also included floor plans for each ship, and descriptions and game statistics for a modified example of each vessel.Despite the prominent use of the YT-1300 light freighter on the cover, no information on that class of vessel is included.",
+  "title": "Stock Ships"
+}

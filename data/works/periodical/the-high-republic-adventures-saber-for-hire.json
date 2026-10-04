@@ -20,6 +20,9 @@
   "displayTitle": "The High Republic Adventures: Saber for Hire",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "periodical": {
     "publicationKind": "comic"
   },

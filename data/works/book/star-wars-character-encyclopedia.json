@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    }
+  ],
+  "displayTitle": "Character Encyclopedia",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-06-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-06-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-character-encyclopedia",
+  "synopsis": "The Star Wars Character Encyclopedia is the definitive illustrated guide to Luke Skywalker, Jabba the Hut, and all of your favorite characters of the Star Wars galaxy! Feel the force as you flip through pages of profiles of all your favorite characters from the Star Wars galaxy. With stat boxes, expert text, incredible movie stills, and more than 200 profiles, this is book is a must have for Star Wars fans of all ages.",
+  "title": "Star Wars Character Encyclopedia"
+}

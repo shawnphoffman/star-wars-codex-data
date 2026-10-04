@@ -1,0 +1,30 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emeli Juhlin",
+      "role": "writer",
+      "slug": "emeli-juhlin"
+    }
+  ],
+  "displayTitle": "Where I Go, He Goes",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2026-04-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-04-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "where-i-go-he-goes",
+  "synopsis": "Where I Go, He Goes is a World of Reading Level 2 book that adapts the movie The Mandalorian and Grogu.",
+  "title": "Where I Go, He Goes"
+}

@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "editor",
+      "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Scott Johnson",
+      "role": "artist",
+      "slug": "scott-johnson"
+    },
+    {
+      "name": "Robert Kulp",
+      "role": "artist",
+      "slug": "robert-kulp"
+    }
+  ],
+  "displayTitle": "Flashpoint! Brak Sector",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-04-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-04-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "flashpoint-brak-sector",
+  "synopsis": "Flashpoint! Brak Sector is a supplement for Star Wars: The Roleplaying Game written by Sterling Hershey and published by West End Games in 1995. It is a campaign book that gives locations, events and game stats and guidelines to play adventures. The time frame is some weeks after the Battle of Yavin.Flashpoint: Any situation or area with a potential for a sudden outbreak of conflict.Brak sector: A sector of space that serves as a staging area for Imperial Navy missions into the Outer Rim Territories. Rebel forces have made substantial gains in this former mining sector.Imperial Objective: Eliminate Rebel forces by any means necessary.",
+  "title": "Flashpoint! Brak Sector"
+}

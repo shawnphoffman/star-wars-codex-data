@@ -17,9 +17,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Chris Sotomayor",
@@ -40,11 +40,6 @@
       "name": "Jethro Morales",
       "role": "penciler",
       "slug": "jethro-morales"
-    },
-    {
-      "name": "Travis Lanham",
-      "role": "letterer",
-      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "The High Republic: Shadows of Starlight #3",
@@ -56,6 +51,7 @@
   },
   "parentWorkSlug": "the-high-republic-shadows-of-starlight",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-12-13T00:00:00.000Z",

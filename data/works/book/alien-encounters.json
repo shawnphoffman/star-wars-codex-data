@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Jen Seiden",
+      "role": "editor",
+      "slug": "jen-seiden"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "editor",
+      "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "Richard Hawran",
+      "role": "coverArtist",
+      "slug": "richard-hawran"
+    }
+  ],
+  "displayTitle": "Alien Encounters",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "alien-encounters",
+  "synopsis": "Alien Encounters, edited by Jen Seiden and compiled by Paul Sudlow, is a supplement to Star Wars: The Roleplaying Game published by West End Games in 1998. It is a compilation of 135 species presented in other West End Games supplements. Only a handful of the species described appeared onscreen in the original trilogy - the rest were either invented by West End Games writers for the game or were adapted from the game's adaptations of Expanded Universe fiction. Unlike its predecessors, Galaxy Guide 4: Alien Races and Galaxy Guide 12: Aliens - Enemies and Allies, no species appeared which had not already been described in previous West End Games supplements.Publisher's Summary:A staggering variety of species populate the smoky cantinas, dingy spaceports and glittering cities of the Star Wars universe. Now, the secrets of these aliens are at your fingertips!Alien Encounters features some of the most exotic, interesting and unusual aliens, culled from dozens of Star Wars novels, comic books, roleplaying adventures, sourcebooks, and the Official Star Wars Adventure Journal.Each alien entry features a concise and descriptive background on a species, as well as game stats for use with the Star Wars Roleplaying Game. With over 100 aliens between these pages, you can find the answers to questions like:What species has two mouths and can speak from both of them at the same time? (page 72)What alien does not breathe, instead obtaining all its gases and nutrients through ingestion? (page 56)What cloud-like alien can dodge blaster fire and melee weapons simply by changing shape? (p. 49)Also included in this volume is an alien-generation system, allowing you to create your own bizarre denizens of the Star Wars universe. In addition, Alien Encounters contains several indices, cataloguing aliens from this book, Galaxy Guide 4: Alien Races and Galaxy Guide 12: Aliens - Enemies and Allies.",
+  "title": "Alien Encounters"
+}

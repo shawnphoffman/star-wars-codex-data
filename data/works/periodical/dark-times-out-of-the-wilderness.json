@@ -1,0 +1,48 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "inker",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    }
+  ],
+  "displayTitle": "Dark Times: Out of the Wilderness",
+  "era": "fallOfTheJedi",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-08-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "dark-times-out-of-the-wilderness",
+  "title": "Dark Times: Out of the Wilderness"
+}

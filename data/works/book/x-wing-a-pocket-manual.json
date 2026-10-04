@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David West Reynolds",
+      "role": "writer",
+      "slug": "david-west-reynolds"
+    },
+    {
+      "name": "Brendan Cahill",
+      "role": "editor",
+      "slug": "brendan-cahill"
+    },
+    {
+      "name": "Allan Kausch",
+      "role": "editor",
+      "slug": "allan-kausch"
+    }
+  ],
+  "displayTitle": "X-wing: A Pocket Manual",
+  "editions": [
+    {
+      "imprint": "Running Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-10-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-10-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "x-wing-a-pocket-manual",
+  "synopsis": "Join the Rebel crusade against the forces of Darth Vader and the evil Empire!This pocket manual is an introduction to the T-65 X-wing, the Alliance's most advanced starfighter. Inside you'll find out all about the craft that Luke Skywalker used to destroy the Death Star - its origins and design, flight-handling and weapons systems, and unique history in battle.Inside are three pop-up tactical diagrams of the X-wing in action - including an amazing three-dimensional fold-out of the craft in flight - and more than 20 photographic stills from the Star Wars Trilogy Special Edition movies.Get ready for intergalactic adventure - and may the Force be with you?!?!",
+  "title": "X-wing: A Pocket Manual"
+}

@@ -20,6 +20,9 @@
   "displayTitle": "Galaxy's Edge",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

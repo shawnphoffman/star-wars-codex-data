@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David John",
+      "role": "editor",
+      "slug": "david-john"
+    },
+    {
+      "name": "Stefan Morris",
+      "role": "editor",
+      "slug": "stefan-morris"
+    },
+    {
+      "name": "Cathy Tincknell",
+      "role": "editor",
+      "slug": "cathy-tincknell"
+    },
+    {
+      "name": "Joanna Devereux",
+      "role": "editor",
+      "slug": "joanna-devereux"
+    }
+  ],
+  "displayTitle": "The Power of Myth",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2000-04-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-power-of-myth",
+  "synopsis": "Star Wars: The Power of Myth was published by Dorling Kindersley initially in small numbers in 1999 for a European tour of the same name and soon after given a wider release in 2000. The book explores the connections between Star Wars and ancient mythology.No amount of film theory can explain the extraordinary appeal the Star Wars saga has for millions of people all over the world. For many, it has all the force of an alternative reality. To understand Star Wars' lasting attraction we must look beyond thrilling action and special effects to a very rich and universal source: the power of myth and legend. The Star Wars universe draws on a common stream of mythic tales which are rooted deeply in our own life stories. This book is a graphic visual guide to one of the greatest mythical adventures of the modern age.",
+  "title": "Star Wars: The Power of Myth"
+}

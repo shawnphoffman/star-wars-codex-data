@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
   "displayTitle": "Episode IV: A New Hope",
   "editionIds": [
     {

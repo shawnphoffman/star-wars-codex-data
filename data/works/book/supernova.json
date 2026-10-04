@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Olmesdahl",
+      "role": "writer",
+      "slug": "bill-olmesdahl"
+    },
+    {
+      "name": "Stewart V. Werley",
+      "role": "writer",
+      "slug": "stewart-v-werley"
+    },
+    {
+      "name": "Brian Murphy",
+      "role": "writer",
+      "slug": "brian-murphy"
+    },
+    {
+      "name": "Ivan Garczynski",
+      "role": "writer",
+      "slug": "ivan-garczynski"
+    },
+    {
+      "name": "Paul Daly",
+      "role": "artist",
+      "slug": "paul-daly"
+    }
+  ],
+  "displayTitle": "Supernova",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "supernova",
+  "synopsis": "Supernova is a roleplaying game book written by Bill Olmesdahl, published by West End Games in June 1993.The inhabitants of the Demophon system face a threat far greater than that of the Empire: their sun is about to go supernova destroying all life on the worlds around it. A band of determined Rebels must act of save those the Empire deems unfit to live while solving the dark mysteries of Demophon. Encounter the bizarre Ssithers and the monstrous iagoin; struggle to survive the virus codenamed \"Mynock\"; battle your way into the heart of Imperial Security to rescue Rebel prisoners. This explosive new adventure collection features five exciting mini-adventures and an overview of the Demophon system.",
+  "title": "Supernova"
+}

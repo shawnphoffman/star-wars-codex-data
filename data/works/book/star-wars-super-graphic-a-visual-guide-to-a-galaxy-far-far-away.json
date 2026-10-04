@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tim Leong",
+      "role": "writer",
+      "slug": "tim-leong"
+    }
+  ],
+  "displayTitle": "Super Graphic: A Visual Guide to a Galaxy Far, Far Away",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-07-25T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-07-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-super-graphic-a-visual-guide-to-a-galaxy-far-far-away",
+  "synopsis": "Graphic design guru Tim Leong presents Star Wars trivia in an all-new way - through playful pie charts, bar graphs, and other data-driven infographics. From a Venn diagram of Yoda's idiosyncrasies to an organizational chart of the Empire to a line graph of Grand Moff Tarkin's management decisions, Star Wars Super Graphic shines a new light on the much-adored universe. Equal parts playful and informative, this visual love letter to the vast Star Wars universe will enchant fans of all ages.",
+  "title": "Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away"
+}

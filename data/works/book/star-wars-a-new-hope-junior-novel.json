@@ -1,0 +1,29 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "A New Hope (Junior Novel)",
+  "editions": [
+    {
+      "imprint": "Egmont",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-05-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-05-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-a-new-hope-junior-novel",
+  "title": "Star Wars: A New Hope (Junior Novel)"
+}

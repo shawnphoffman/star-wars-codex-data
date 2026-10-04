@@ -25,6 +25,9 @@
   "displayTitle": "The High Republic: Fear of the Jedi",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "periodical": {
     "publicationKind": "comic"
   },

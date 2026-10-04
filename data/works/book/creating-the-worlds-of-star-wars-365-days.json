@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Knoll",
+      "role": "writer",
+      "slug": "john-knoll"
+    }
+  ],
+  "displayTitle": "Creating the Worlds of Star Wars: 365 Days",
+  "editions": [
+    {
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2005-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "creating-the-worlds-of-star-wars-365-days",
+  "synopsis": "John Knoll was 14 years old when the first Star Wars film (Episode IV) came out in 1977, and it changed his life. By the time the first prequel, The Phantom Menace, was released in 1999, he was its visual effects supervisor - in charge of all special effects - a position he held through Episodes II (Attack of the Clones) and III (Revenge of the Sith). With Knoll as tour guide, this deluxe addition to Abrams' 365 Days series provides the single most comprehensive collection of Star Wars images, including breathtaking 360-degree panoramic shots of sets and models, as well as concept art, props, film stills, and memorabilia.",
+  "title": "Creating the Worlds of Star Wars: 365 Days"
+}

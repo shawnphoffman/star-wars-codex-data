@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Galactic Explorer's Guide",
+  "editions": [
+    {
+      "imprint": "Carlton Books Limited",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-11-14T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-galactic-explorers-guide",
+  "synopsis": "This fact-packed book-plus-app is an interactive guide to key planets from the Star Wars galaxy. It contains plenty of information, photographs, and diagrams on the page, and the latest Augmented Reality technology brings many interactive elements to enhance the reading experience.The traveler's guide to some of the key planets, places, and events from the Star Wars galaxy is a unique tool and a fun reference work. Observe, wonder, and engage with these amazing elements and immerse yourself fully into the galaxy that's far, far away.",
+  "title": "The Galactic Explorer's Guide"
+}

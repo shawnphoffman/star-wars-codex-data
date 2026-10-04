@@ -65,6 +65,9 @@
   "displayTitle": "Adventures: Return to Vader's Castle",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "imprint": "IDW Publishing",
     "publicationKind": "comic"

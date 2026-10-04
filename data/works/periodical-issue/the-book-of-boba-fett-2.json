@@ -1,5 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
+    }
+  ],
   "displayTitle": "The Book of Boba Fett #2",
   "era": "newRepublic",
   "format": "periodicalIssue",

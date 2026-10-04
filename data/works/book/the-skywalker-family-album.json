@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alice Alfonsi",
+      "role": "writer",
+      "slug": "alice-alfonsi"
+    }
+  ],
+  "displayTitle": "The Skywalker Family Album",
+  "editions": [
+    {
+      "imprint": "Random House",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-skywalker-family-album",
+  "synopsis": "The Skywalkers are one of the most important families in the galaxy.Open this book to learn all about them.",
+  "title": "The Skywalker Family Album"
+}

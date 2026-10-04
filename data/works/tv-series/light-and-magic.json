@@ -1,5 +1,32 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Howard",
+      "role": "producer",
+      "slug": "ron-howard"
+    },
+    {
+      "name": "Brian Grazer",
+      "role": "producer",
+      "slug": "brian-grazer"
+    },
+    {
+      "name": "Justin Wilkes",
+      "role": "producer",
+      "slug": "justin-wilkes"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    }
+  ],
   "displayTitle": "Light & Magic",
   "format": "tvSeries",
   "releaseDate": "2022-07-27T00:00:00.000Z",

@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Frederik Budolph-Larsen",
+      "role": "director",
+      "slug": "frederik-budolph-larsen"
+    }
+  ],
   "displayTitle": "Showdown on Hoth",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-1-s01",

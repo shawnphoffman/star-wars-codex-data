@@ -1,0 +1,22 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "displayTitle": "Episode I: The Data File",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-11-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-11-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-i-the-data-file",
+  "title": "Star Wars Episode I: The Data File"
+}

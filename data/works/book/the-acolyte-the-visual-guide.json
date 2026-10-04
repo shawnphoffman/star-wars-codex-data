@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Acolyte: The Visual Guide",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2025-06-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-06-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-acolyte-the-visual-guide",
+  "synopsis": "A reference book on the Disney Plus television series The Acolyte Decades before the birth of Darth Vader, explore the glorious High Republic era in the Star Wars galaxy. During this exciting time, the noble Jedi are protectors of peace and justice. This visual guide reveals all of the key characters, locations, vehicles, and technology from the Disney+ series and is written by Star Wars insider Pablo Hidalgo.",
+  "title": "The Acolyte: The Visual Guide"
+}

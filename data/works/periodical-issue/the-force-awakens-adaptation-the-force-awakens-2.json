@@ -20,11 +20,14 @@
   "displayTitle": "The Force Awakens #2",
   "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "the-force-awakens-adaptation",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDate": "2016-07-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-force-awakens-adaptation-the-force-awakens-2",

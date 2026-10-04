@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Dunn",
+      "role": "writer",
+      "slug": "john-dunn"
+    },
+    {
+      "name": "James M. Spahn",
+      "role": "writer",
+      "slug": "james-m-spahn"
+    },
+    {
+      "name": "Keith Kappel",
+      "role": "writer",
+      "slug": "keith-kappel"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "coverArtist",
+      "slug": "darren-tan"
+    },
+    {
+      "name": "Anna Christenson",
+      "role": "coverArtist",
+      "slug": "anna-christenson"
+    }
+  ],
+  "displayTitle": "Disciples of Harmony",
+  "editions": [
+    {
+      "imprint": "Fantasy Flight Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "disciples-of-harmony",
+  "synopsis": "Disciples of Harmony is a sourcebook for Fantasy Flight Games' Star Wars: Force and Destiny roleplaying game.The rise of the Empire has caused the Jedi Order to fade even further into obscurity, but the galaxy of Star Wars™ is immense, with new secrets always waiting to be discovered. Not all regard the Jedi as myths or frauds; some seek to continue their traditions. Disciples of Harmony, a sourcebook for Consular characters in the Star Wars™: Force and Destiny™ roleplaying game, expands the options available to Consulars in the core rulebook and gives Game Masters new opportunities to position these arbiters of balance within their campaign.Players will find everything necessary to craft a Consular character in this 96-page full-color handbook, including new Consular specializations - the Arbiter, Ascetic, and Teacher - new races, new Force powers, and extensive armor and weapon inventories. Discover new droids, vehicles, starships, and even rules for rare and damaged lightsaber crystals. The path of the Consular is one of balance, a path that may be difficult in a traditional, combat-oriented setting. As such, Disciples of Harmony features a section for Game Masters on including Consular characters and NPCs in your campaigns and how they can contribute when the lightsabers ignite and the blasters start firing.",
+  "title": "Disciples of Harmony"
+}

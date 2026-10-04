@@ -12,9 +12,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Clayton Cowles",
+      "name": "Clayton Cowles",
       "role": "letterer",
-      "slug": "vc-clayton-cowles"
+      "slug": "clayton-cowles"
     },
     {
       "name": "Jesus Aburtov",
@@ -43,12 +43,18 @@
     }
   ],
   "displayTitle": "Jedi Knights (2025) #10",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -34
+  },
   "parentWorkSlug": "jedi-knights",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-12-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "jedi-knights-2025-10",
   "title": "Jedi Knights (2025) #10"
 }

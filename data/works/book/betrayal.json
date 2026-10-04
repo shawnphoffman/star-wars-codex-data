@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Legacy of the Force: Betrayal",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780345477347"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 400,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn13": "9780345477347",
+      "kind": "print",
+      "onsale": "2006-05-30T00:00:00.000Z"
+    }
+  ],
   "era": "legacy",
   "format": "book",
   "inUniverseDate": {

@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Chris Doyle",
+      "role": "writer",
+      "slug": "chris-doyle"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "editor",
+      "slug": "paul-sudlow"
+    }
+  ],
+  "displayTitle": "Lords of the Expanse",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-08-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-08-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lords-of-the-expanse",
+  "synopsis": "Lords of the Expanse is a boxed set supplement for use with Star Wars: The Roleplaying Game. The set provides players with roleplaying adventure scenarios in the Tapani sector against the backdrop of the Galactic Civil War. It was written by Paul Sudlow and Chris Doyle, and published by West End Games on July 28, 1997.The full Lords of the Expanse Campaign Setting includes the Sector Guide, the Gamemaster Guide, the Campaign Guide, a character template booklet, a Tapani sector poster map, and twelve full-color character cards. Two additional Star Wars: The Roleplaying Game books from West End Games, Player's Guide to Tapani and Tapani Sector Instant Adventures, provide supplementary material for Lords of the Expanse.",
+  "title": "Lords of the Expanse"
+}

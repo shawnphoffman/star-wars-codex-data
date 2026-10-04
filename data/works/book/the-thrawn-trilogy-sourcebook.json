@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "The Thrawn Trilogy Sourcebook",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-thrawn-trilogy-sourcebook",
+  "synopsis": "The Thrawn Trilogy Sourcebook was a roleplaying guide published by West End Games for Star Wars: The Roleplaying Game. It was written by Bill Slavicsek and Eric S. Trautmann, with a foreword by Timothy Zahn. It was first published in 1996.The book summarizes and details the events of Zahn's Thrawn Trilogy of novels, and describes the characters, aliens, creatures, vehicles, droids, planets, and starships found therein. It integrates information from three other sourcebooks - the Heir to the Empire Sourcebook, the Dark Force Rising Sourcebook, and The Last Command Sourcebook - into one volume, updated for the Second Edition rules.",
+  "title": "The Thrawn Trilogy Sourcebook"
+}

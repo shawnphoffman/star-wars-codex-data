@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dale Schott",
+      "role": "director",
+      "slug": "dale-schott"
+    },
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    }
+  ],
   "displayTitle": "Hard Sell",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",

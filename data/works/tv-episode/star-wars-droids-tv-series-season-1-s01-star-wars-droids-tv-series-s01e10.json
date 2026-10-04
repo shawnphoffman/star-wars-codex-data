@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Stephenson",
+      "role": "director",
+      "slug": "ken-stephenson"
+    },
+    {
+      "name": "Ben Burtt",
+      "role": "writer",
+      "slug": "ben-burtt"
+    },
+    {
+      "name": "Michael Reaves",
+      "role": "writer",
+      "slug": "michael-reaves"
+    }
+  ],
   "displayTitle": "Tail of the Roon Comets",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-droids-tv-series-season-1-s01",

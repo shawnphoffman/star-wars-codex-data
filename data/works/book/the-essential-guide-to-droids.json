@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "artist",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Troy Vigil",
+      "role": "artist",
+      "slug": "troy-vigil"
+    }
+  ],
+  "displayTitle": "The Essential Guide to Droids",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-02-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-guide-to-droids",
+  "synopsis": "The fifth book in Del Rey's Essential Guide series, Star Wars: The Essential Guide to Droids features an in-depth look at one hundred astromech, Protocol, and other intelligent automatons from the original trilogy and Expanded Universe, each with its own two-page spread including detailed schematics. Links from this article will go to articles detailing the droid model, rather than a particular unit. In 2006, an updated version of the book known as The New Essential Guide to Droids was released, to accommodate the various droids from the prequel trilogy.TINKER, TAILOR, SOLDIER...DROID!They can be anything from nursemaids to surgeons, diplomats to assassins. They walk, roll and fly - and communicate in languages ranging from whistles and beeps to Standard Basic to the most obscure alien dialect. MixRMastRs make drinks in spaceport cantinas, Basilisks make war wherever they're deployed, and IT-O Interrogators make life night-marish for prisoners of the Empire.Droids are an integral and indispensable part of the Star Wars universe. And this comprehensive guide surveys all myriad models and classes - from the lowliest drones to the most sophisticated humanoid automatons.Discover the evolution of the R-series droids, whose members include lumbering technicians and skilled X-wing navigators such as R2-D2Learn the curious history of the MSE-6 \"mouse\" droids employed exclusively in the bases and on Imperial starships of the EmpireExplore the workings of the malevolent Shadow Droids: machines with living, organic brainsUncover how the Rebel's fearsome FIDO (Foreign Intruder Defense Organism) carries out its dutiesWhatever its design and wherever it may be found in the ever-expanding Star Wars universe, if the subject is droid, its definitive data on development, history, and technology is included in this essential technical guide.",
+  "title": "The Essential Guide to Droids"
+}

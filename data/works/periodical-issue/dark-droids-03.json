@@ -32,9 +32,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Romulo Fajardo Jr.",
@@ -55,6 +55,7 @@
   },
   "parentWorkSlug": "dark-droids",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-10-11T00:00:00.000Z",

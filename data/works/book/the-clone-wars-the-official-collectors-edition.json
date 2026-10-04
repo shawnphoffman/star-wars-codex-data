@@ -1,0 +1,23 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "displayTitle": "The Clone Wars: The Official Collector's Edition",
+  "editions": [
+    {
+      "imprint": "Titan Magazines",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2022-01-11T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-01-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-the-official-collectors-edition",
+  "synopsis": "An in-depth special edition covering all 7 seasons of the fan-favorite, award-winning animated program.The magazine features behind-the-scenes interviews, character profiles, a detailed episode guide, and synopses for all the episodes, all lavishly illustrated with imagery from the Lucasfilm Image Archives and final frames.",
+  "title": "The Clone Wars: The Official Collector's Edition"
+}

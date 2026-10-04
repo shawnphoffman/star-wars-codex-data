@@ -90,6 +90,9 @@
   "displayTitle": "The Screaming Citadel",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 1
+  },
   "periodical": {
     "publicationKind": "comic"
   },

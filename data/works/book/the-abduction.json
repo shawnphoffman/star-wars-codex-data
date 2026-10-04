@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Abduction",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1992-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1992-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-abduction",
+  "synopsis": "The Abduction is an adventure for Star Wars: The Roleplaying Game published in 1992 by West End Games. (The book's spine and all interior pages give the title as The Abduction of Crying Dawn Singer; only the front cover uses the truncated title.) It was reprinted in Classic Adventures, under the full title.Plot summaryIn this adventure, Rebel agents have to rescue a kidnapped Shashay celebrity, Crying Dawn Singer to avoid the Alliance being discredited in Rayter sector.",
+  "title": "The Abduction"
+}

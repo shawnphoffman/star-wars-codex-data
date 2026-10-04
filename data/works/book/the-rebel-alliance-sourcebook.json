@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jennifer A. Williams",
+      "role": "editor",
+      "slug": "jennifer-a-williams"
+    },
+    {
+      "name": "Bill Slavicsek",
+      "role": "editor",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "The Rebel Alliance Sourcebook",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1990-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1990-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-rebel-alliance-sourcebook",
+  "synopsis": "The Rebel Alliance Sourcebook was a roleplaying book published by West End Games for Star Wars: The Roleplaying Game. It was published in October of 1990. It was written by Paul Murphy, and was revised for the Second Edition by Peter M. Schweighofer in April of 1994.The book covers information on the history, organization, technology, and tactics of the Rebel Alliance.A terrible civil war burns throughout the galaxy. A rag-tag group of freedom fighters has risen from beneath the dark shadow of a tyrannical Empire: against all hope, they have dealt the oppressors a mighty blow.Throughout the vastness of space, heroic beings engage in a desperate struggle against the overwhelming might of the Empire. They are ill-equipped and pitifully few, but their courage and determination has fostered new hope for freedom in the galaxy. These are the men, women, and aliens of the Rebel Alliance.",
+  "title": "The Rebel Alliance Sourcebook"
+}

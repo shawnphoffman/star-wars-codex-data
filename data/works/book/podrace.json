@@ -1,0 +1,35 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lara Bergen",
+      "role": "writer",
+      "slug": "lara-bergen"
+    },
+    {
+      "name": "Jose Miralles",
+      "role": "coverArtist",
+      "slug": "jose-miralles"
+    }
+  ],
+  "displayTitle": "Podrace!",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "podrace",
+  "synopsis": "Podrace! was a children's storybook published by Scholastic in October 1999 as part of the Star Wars Junior book series.",
+  "title": "Podrace!"
+}

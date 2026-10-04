@@ -1,0 +1,55 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin M. MacGregor",
+      "role": "writer",
+      "slug": "kevin-m-macgregor"
+    },
+    {
+      "name": "Sandra Childress",
+      "role": "writer",
+      "slug": "sandra-childress"
+    },
+    {
+      "name": "Christopher John Parks",
+      "role": "writer",
+      "slug": "christopher-john-parks"
+    },
+    {
+      "name": "Chuck Truett",
+      "role": "writer",
+      "slug": "chuck-truett"
+    },
+    {
+      "name": "Chris Hind",
+      "role": "writer",
+      "slug": "chris-hind"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "No Disintegrations",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "no-disintegrations-1997",
+  "synopsis": "No Disintegrations is a Star Wars: The Roleplaying Game sourcebook for bounty hunter adventures. Edited by Bill Smith and released in 1997, it gets its title from the famous line spoken by Darth Vader to Boba Fett in Star Wars: Episode V The Empire Strikes Back.ATTENTION BOUNTY HUNTERS!Friendships betrayed, loves lost, belongings stolen...Those who have been wronged want justice. And they are willing to pay handsomely to get it.That's where you come in. You're a bounty hunter, ready for battle and afraid of no one. You earn your living by tracking down those who desperately do not want to be found. Cunning and dangerous, you are not to be trifled with. But are you good enough to stop these wanted criminals?Narloch of Giju.' A Herglic gambler who has defrauded noble Lord Haakon of his lands, wealth, and honor.Ort Hoogra-D'En.' A Ho'Din terrorist wanted for several bombings using fatal biological agents.Hahz Fallone.' A wealthy business leader and suspected criminal operative responsible for the destruction of a primitive alien civilization.Imperial officials and private sponsors are paying top credits for these and other bounties.",
+  "title": "No Disintegrations"
+}

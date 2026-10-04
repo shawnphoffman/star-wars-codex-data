@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    },
+    {
+      "name": "Gary Astleford",
+      "role": "writer",
+      "slug": "gary-astleford"
+    },
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    }
+  ],
+  "displayTitle": "Starships of the Galaxy (Saga Edition)",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2007-12-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starships-of-the-galaxy-saga-edition",
+  "synopsis": "This rules supplement contains advanced starship combat rules for the Star Wars Roleplaying Game Saga Edition. In addition, it provides new character options for spacefaring heroes as well as descriptions, deckplans, and statistics for starships from all eras (as featured in all six Star Wars films and the Expanded Universe). This deluxe, full-color game supplement also includes rules and guidelines for building your own starships.",
+  "title": "Starships of the Galaxy (Saga Edition)"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Bray",
+      "role": "writer",
+      "slug": "adam-bray"
+    },
+    {
+      "name": "Ruth Amos",
+      "role": "editor",
+      "slug": "ruth-amos"
+    }
+  ],
+  "displayTitle": "The Visual Encyclopedia",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-04-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-04-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-visual-encyclopedia",
+  "synopsis": "Covering more than 3,000 characters, creatures, planets, vehicles, Droids™, weapons, technology, and more from the Star Wars™ universe, this visual tour is the ultimate compendium for the epic saga and beyond.With a full history of the galactic politics, the Jedi Council, and the Empire, Star Wars: The Visual Encyclopedia walks fans through the entire timeline of Star Wars. Galleries of images and information on every page, including lightsabers, languages, clothing, and more, are showcased with fascinating facts and trivia. See the blasters of Star Wars: Episode IV A New Hope™, look at the stormtroopers of Star Wars: The Force Awakens™, and study the geography of Rogue One: A Star Wars Story™.Discover the food, architecture, transportation, and more from this galaxy far, far away. Each section of the book focuses on different topics to dedicate special attention and detail to every part of the universe, no matter how small. From the planets in the outer rim to Padmé's bridal wear, nothing is missed.A celebration of all things Star Wars, this visual museum is the perfect addition to any fan's bookshelf.",
+  "title": "Star Wars: The Visual Encyclopedia"
+}

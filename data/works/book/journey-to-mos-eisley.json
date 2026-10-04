@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jay Rudko",
+      "role": "writer",
+      "slug": "jay-rudko"
+    }
+  ],
+  "displayTitle": "Journey to Mos Eisley",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "journey-to-mos-eisley",
+  "synopsis": "Join Luke Skywalker and Obi-Wan Kenobi as they embark on a mission to a wretched hive of villains - the Mos Eisley spaceport! This classic space adventure is illustrated with actual photos from the Special Edition STAR WARS TRILOGY!",
+  "title": "Journey to Mos Eisley"
+}

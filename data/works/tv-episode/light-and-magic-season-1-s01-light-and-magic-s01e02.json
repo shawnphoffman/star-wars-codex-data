@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lawrence Kasdan",
+      "role": "director",
+      "slug": "lawrence-kasdan"
+    }
+  ],
   "displayTitle": "\"On the bucking bronco.\"",
   "format": "tvEpisode",
   "parentWorkSlug": "light-and-magic-season-1-s01",

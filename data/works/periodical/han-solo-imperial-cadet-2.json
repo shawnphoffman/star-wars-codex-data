@@ -20,6 +20,9 @@
   "displayTitle": "Han Solo: Imperial Cadet",
   "era": "reignOfTheEmpire",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -13
+  },
   "periodical": {
     "publicationKind": "comic"
   },

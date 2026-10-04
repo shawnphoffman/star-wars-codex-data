@@ -1,0 +1,23 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "displayTitle": "The Mandalorian: Guide to Season One",
+  "editions": [
+    {
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2021-05-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-05-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-mandalorian-guide-to-season-one",
+  "synopsis": "A book dedicated to the first season of the successful hit live action series The Mandalorian, streaming on Disney+, featuring character files, plots, settings, and behind-the-scenes content.An in-depth look at the making of the hit show, exploring the adventures of the Mandalorian and the Child. This title features in-depth with rare images.",
+  "title": "Star Wars: The Mandalorian: Guide to Season One"
+}

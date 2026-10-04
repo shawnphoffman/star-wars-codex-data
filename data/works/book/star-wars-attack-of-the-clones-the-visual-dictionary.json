@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David West Reynolds",
+      "role": "writer",
+      "slug": "david-west-reynolds"
+    },
+    {
+      "name": "Simon Beecroft",
+      "role": "editor",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "editor",
+      "slug": "jonathan-w-rinzler"
+    }
+  ],
+  "displayTitle": "Attack of the Clones: The Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-attack-of-the-clones-the-visual-dictionary",
+  "synopsis": "Star Wars: Attack of the Clones: The Visual Dictionary is the third book in Star Wars Visual Dictionary series. It describes and exhibits the elements of Star Wars: Episode II Attack of the Clones. It was republished as part of Star Wars: The Complete Visual Dictionary. It is written in a way that gives away no spoilers from Attack of the Clones.Super-sharp annotated photos and authoritative text reveal the world of Star Wars: Attack of the Clones including the characters, creatures, droids and equipment.",
+  "title": "Star Wars: Attack of the Clones: The Visual Dictionary"
+}

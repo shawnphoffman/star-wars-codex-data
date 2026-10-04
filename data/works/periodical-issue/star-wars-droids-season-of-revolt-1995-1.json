@@ -5,6 +5,41 @@
       "name": "Jan Strnad",
       "role": "writer",
       "slug": "jan-strnad"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "inker",
+      "slug": "keith-williams"
+    },
+    {
+      "name": "Rich Perrotta",
+      "role": "inker",
+      "slug": "rich-perrotta"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "penciler",
+      "slug": "bill-hughes"
+    },
+    {
+      "name": "Chris Chalenor",
+      "role": "colorist",
+      "slug": "chris-chalenor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Kilian Plunkett",
+      "role": "coverArtist",
+      "slug": "kilian-plunkett"
     }
   ],
   "displayTitle": "Droids: Season of Revolt #1",
@@ -21,5 +56,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-droids-season-of-revolt-1995-1",
+  "synopsis": "Some believe heroism is a result of genetics; others, that it is a result of teaching. But for Artoo, it's the result of a computer virus! Following their fateful encounter with Boonda the Hutt, Threepio and Artoo are acquired by an Ithorian on Nar Shaddaa. When the Ithorian's herd ship is attacked by alien kidnappers, Artoo is compelled to protect an apparently helpless human. Artoo's selfless act is soon revealed to exceed standard droid programming when Threepio discovers that his small friend has been overtaken by the Caretaker Virus!",
   "title": "Star Wars Droids: Season of Revolt #1"
 }

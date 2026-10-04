@@ -1,0 +1,30 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "David Fentiman",
+      "role": "writer",
+      "slug": "david-fentiman"
+    }
+  ],
+  "displayTitle": "Finn's Mission",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2016-06-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "finns-mission",
+  "synopsis": "From the desert wastelands of Jakku to the jungles of D'Qar and the frozen mountains of the Starkiller, follow Finn as he bravely battles the First Order. Meet the heroes who will help him in his mission, and face the terrifying enemies who will stand in his way.",
+  "title": "Finn's Mission"
+}

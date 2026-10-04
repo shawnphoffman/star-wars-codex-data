@@ -1,5 +1,47 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Stephanie Philips",
+      "role": "writer",
+      "slug": "stephanie-philips"
+    },
+    {
+      "name": "Sean Chen",
+      "role": "penciler",
+      "slug": "sean-chen"
+    },
+    {
+      "name": "Kieran Mckeown",
+      "role": "penciler",
+      "slug": "kieran-mckeown"
+    },
+    {
+      "name": "Sean Chen",
+      "role": "inker",
+      "slug": "sean-chen"
+    },
+    {
+      "name": "Kieran Mckeown",
+      "role": "inker",
+      "slug": "kieran-mckeown"
+    },
+    {
+      "name": "Yen Nitro",
+      "role": "colorist",
+      "slug": "yen-nitro"
+    },
+    {
+      "name": "Ariana Maher",
+      "role": "letterer",
+      "slug": "ariana-maher"
+    },
+    {
+      "name": "David Marquez",
+      "role": "coverArtist",
+      "slug": "david-marquez"
+    }
+  ],
   "displayTitle": "Rogue One: Chirrut & Baze #1",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",

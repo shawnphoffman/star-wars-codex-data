@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Per Risager",
+      "role": "director",
+      "slug": "per-risager"
+    }
+  ],
   "displayTitle": "Zander's Joyride",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-1-s01",

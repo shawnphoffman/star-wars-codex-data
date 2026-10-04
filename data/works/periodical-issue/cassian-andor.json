@@ -1,5 +1,5 @@
 {
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Benjamin Percy",
@@ -42,15 +42,35 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Clayton Cowles",
+      "name": "Clayton Cowles",
       "role": "letterer",
-      "slug": "vc-clayton-cowles"
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
+    },
+    {
+      "name": "C.B. Cebulski",
+      "role": "editor",
+      "slug": "cb-cebulski"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "Rogue One: Cassian Andor #1",
+  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -17
+  },
   "parentWorkSlug": "rogue-one-cassian-andor",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2026-05-06T00:00:00.000Z",

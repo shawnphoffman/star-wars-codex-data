@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "J.D. Wiker",
+      "role": "writer",
+      "slug": "jd-wiker"
+    },
+    {
+      "name": "Steve Miller",
+      "role": "writer",
+      "slug": "steve-miller"
+    },
+    {
+      "name": "Brian Campbell",
+      "role": "editor",
+      "slug": "brian-campbell"
+    },
+    {
+      "name": "Cory J. Herndon",
+      "role": "editor",
+      "slug": "cory-j-herndon"
+    },
+    {
+      "name": "Mike Selinker",
+      "role": "editor",
+      "slug": "mike-selinker"
+    }
+  ],
+  "displayTitle": "The New Jedi Order Sourcebook",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2002-02-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-new-jedi-order-sourcebook",
+  "synopsis": "The Yuuzhan Vong have shattered the New Republic's promise of peace throughout the galaxy. System by system, they bring death and enslavement to all they encounter. Even the Jedi have failed to slow the merciless advance of this dark tide. As this terrible threat from beyond the galaxy's edge pushes closer to Coruscant, the need for great heroes grows ever more dire.This sourcebook features:• New prestige classes, feats, species, ships, and starship combat tactics• New archetypes with statistics for play at low, medium, and high levels• Rules for the Yuuzhan Vong, including their soldiers and priests, ships, weapons, and equipment• Action-packed adventure seeds designed for mid- to high-level characters• Game statistics for characters from The New Jedi Order novels, including Vector Prime, Onslaught, Ruin, Hero's Trial, Jedi Eclipse, Balance Point, Conquest, Rebirth, and Star by StarTo use this sourcebook, you also need the Star Wars Roleplaying Game Revised Core Rulebook.",
+  "title": "The New Jedi Order Sourcebook"
+}

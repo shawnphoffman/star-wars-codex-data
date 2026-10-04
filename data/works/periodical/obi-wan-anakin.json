@@ -25,6 +25,9 @@
   "displayTitle": "Obi-Wan & Anakin",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -29
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

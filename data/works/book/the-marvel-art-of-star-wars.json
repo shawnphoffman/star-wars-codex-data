@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jess Harrold",
+      "role": "writer",
+      "slug": "jess-harrold"
+    },
+    {
+      "name": "Stuart Immonen",
+      "role": "coverArtist",
+      "slug": "stuart-immonen"
+    }
+  ],
+  "displayTitle": "The Marvel Art of Star Wars",
+  "editions": [
+    {
+      "imprint": "Marvel Comics",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-10-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-marvel-art-of-star-wars",
+  "synopsis": "The Marvel Art Of Star Wars is a book of concept art from the canonical Star Wars comic books published by Marvel Comics since 2015The Force is strong with the artists who have continued the adventures of Luke, Leia, Han and the rest since Star Wars returned to Marvel! This stunning volume celebrates the talents who have illustrated some of the finest covers and pages featuring the galaxy far, far away - including John Cassaday, Stuart Immonen, Leinil Francis Yu, Salvador Larroca and Mike Deodato Jr.! Filled with insights from many of the artists themselves, and those that have worked with them, and featuring never before seen behind-the-scenes artwork, this gorgeous HC spotlights all your favorites - including Lando, Chewbacca and, of course, Darth Vader - as well as brand new characters like Doctor Aphra, Sana Starros and the killer droids, Triple-Zero and Beetee",
+  "title": "The Marvel Art of Star Wars"
+}

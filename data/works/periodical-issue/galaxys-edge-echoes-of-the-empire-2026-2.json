@@ -7,9 +7,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Clayton Cowles",
+      "name": "Clayton Cowles",
       "role": "letterer",
-      "slug": "vc-clayton-cowles"
+      "slug": "clayton-cowles"
     },
     {
       "name": "Rachelle Rosenberg",
@@ -45,15 +45,57 @@
       "name": "Roi Mercado",
       "role": "penciler",
       "slug": "roi-mercado"
+    },
+    {
+      "name": "Arif Pianto",
+      "role": "coverArtist",
+      "slug": "arif-pianto"
+    },
+    {
+      "name": "E.M. Gist",
+      "role": "coverArtist",
+      "slug": "em-gist"
+    },
+    {
+      "name": "Leinil Francis Yu",
+      "role": "coverArtist",
+      "slug": "leinil-francis-yu"
+    },
+    {
+      "name": "Paolo Villanelli",
+      "role": "coverArtist",
+      "slug": "paolo-villanelli"
+    },
+    {
+      "name": "Pete Woods",
+      "role": "coverArtist",
+      "slug": "pete-woods"
+    },
+    {
+      "name": "Romulo Fajardo Jr.",
+      "role": "coverArtist",
+      "slug": "romulo-fajardo-jr"
+    },
+    {
+      "name": "C.B. Cebulski",
+      "role": "editor",
+      "slug": "cb-cebulski"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "Galaxy's Edge: Echoes of the Empire (2026) #2",
   "format": "periodicalIssue",
   "parentWorkSlug": "galaxys-edge-echoes-of-the-empire-2026",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2026-05-27T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "galaxys-edge-echoes-of-the-empire-2026-2",
   "title": "Galaxy's Edge: Echoes of the Empire (2026) #2"
 }

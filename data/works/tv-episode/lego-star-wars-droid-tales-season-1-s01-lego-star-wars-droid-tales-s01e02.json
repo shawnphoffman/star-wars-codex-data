@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Skov",
+      "role": "director",
+      "slug": "martin-skov"
+    },
+    {
+      "name": "Michael Price",
+      "role": "writer",
+      "slug": "michael-price"
+    }
+  ],
   "displayTitle": "Crisis on Coruscant",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-droid-tales-season-1-s01",

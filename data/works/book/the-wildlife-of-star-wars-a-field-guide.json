@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Terryl Whitlatch",
+      "role": "writer",
+      "slug": "terryl-whitlatch"
+    },
+    {
+      "name": "Bob Carrau",
+      "role": "writer",
+      "slug": "bob-carrau"
+    },
+    {
+      "name": "Terryl Whitlatch",
+      "role": "artist",
+      "slug": "terryl-whitlatch"
+    }
+  ],
+  "displayTitle": "The Wildlife of Star Wars: A Field Guide",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2001-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-wildlife-of-star-wars-a-field-guide",
+  "synopsis": "The Star Wars universe is a vast and varied place, populated with an amazing array of creatures. These fascinating fauna have been captured here in the only comprehensive annotated field journal of its kind. Many years of extensive study and on-site observation have gone into these renderings, and great risk taken to learn about the natural habitats of all of the creatures. From the ice fields of Hoth and the pastures of Naboo to the concrete jungle of Coruscant and the intense heat and wind of Tatooine, identify and learn about the mating habits, feeding patterns, herding instincts, and defense mechanisms of these incredible beings.This extraordinary field guide provides the ultimate look at the wildlife of Star Wars.",
+  "title": "The Wildlife of Star Wars: A Field Guide"
+}

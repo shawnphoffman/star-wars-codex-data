@@ -7,9 +7,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Benjamin Percy",
@@ -40,8 +40,12 @@
   "displayTitle": "Shadow of Maul (2026) #5",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -18
+  },
   "parentWorkSlug": "shadow-of-maul",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2026-07-08T00:00:00.000Z",

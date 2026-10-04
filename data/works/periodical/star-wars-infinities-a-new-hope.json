@@ -25,6 +25,41 @@
       "name": "Neil Nelson",
       "role": "artist",
       "slug": "neil-nelson"
+    },
+    {
+      "name": "Drew Johnson",
+      "role": "penciler",
+      "slug": "drew-johnson"
+    },
+    {
+      "name": "Ray Snyder",
+      "role": "inker",
+      "slug": "ray-snyder"
+    },
+    {
+      "name": "Al Rio",
+      "role": "inker",
+      "slug": "al-rio"
+    },
+    {
+      "name": "Neil Nelson",
+      "role": "inker",
+      "slug": "neil-nelson"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Tony Harris",
+      "role": "coverArtist",
+      "slug": "tony-harris"
     }
   ],
   "displayTitle": "Infinities: A New Hope",

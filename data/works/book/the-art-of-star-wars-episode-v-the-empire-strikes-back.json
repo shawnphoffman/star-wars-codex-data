@@ -1,0 +1,39 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Vic Bulluck",
+      "role": "writer",
+      "slug": "vic-bulluck"
+    },
+    {
+      "name": "Valerie Hoffman",
+      "role": "writer",
+      "slug": "valerie-hoffman"
+    },
+    {
+      "name": "Deborah Call",
+      "role": "editor",
+      "slug": "deborah-call"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars Episode V: The Empire Strikes Back",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1980-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-episode-v-the-empire-strikes-back",
+  "title": "The Art of Star Wars Episode V: The Empire Strikes Back"
+}

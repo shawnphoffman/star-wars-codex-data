@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Stephenson",
+      "role": "director",
+      "slug": "ken-stephenson"
+    },
+    {
+      "name": "Richard Beban",
+      "role": "writer",
+      "slug": "richard-beban"
+    },
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    }
+  ],
   "displayTitle": "The Trigon Unleashed",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-droids-tv-series-season-1-s01",

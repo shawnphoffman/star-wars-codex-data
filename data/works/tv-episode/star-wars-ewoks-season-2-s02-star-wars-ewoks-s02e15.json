@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dale Schott",
+      "role": "director",
+      "slug": "dale-schott"
+    },
+    {
+      "name": "Linda Woolverton",
+      "role": "writer",
+      "slug": "linda-woolverton"
+    }
+  ],
   "displayTitle": "Baga's Rival",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",

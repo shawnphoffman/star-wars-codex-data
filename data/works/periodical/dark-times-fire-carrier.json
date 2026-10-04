@@ -1,0 +1,43 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Randy Stradley",
+      "role": "writer",
+      "slug": "randy-stradley"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "inker",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Gabriel Guzman",
+      "role": "penciler",
+      "slug": "gabriel-guzman"
+    },
+    {
+      "name": "Garry Henderson",
+      "role": "colorist",
+      "slug": "garry-henderson"
+    }
+  ],
+  "displayTitle": "Dark Times: Fire Carrier",
+  "era": "fallOfTheJedi",
+  "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-02-06T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "dark-times-fire-carrier",
+  "title": "Dark Times: Fire Carrier"
+}

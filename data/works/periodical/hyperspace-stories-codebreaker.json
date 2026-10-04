@@ -45,6 +45,9 @@
   "displayTitle": "Hyperspace Stories: Codebreaker",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "periodical": {
     "publicationKind": "comic"
   },

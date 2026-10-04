@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dale Schott",
+      "role": "director",
+      "slug": "dale-schott"
+    },
+    {
+      "name": "Stephen Langford",
+      "role": "writer",
+      "slug": "stephen-langford"
+    }
+  ],
   "displayTitle": "Malani the Warrior",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",

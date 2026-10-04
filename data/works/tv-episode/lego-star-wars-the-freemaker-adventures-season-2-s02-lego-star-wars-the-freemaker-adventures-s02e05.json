@@ -1,5 +1,27 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Martin Skov",
+      "role": "director",
+      "slug": "martin-skov"
+    },
+    {
+      "name": "Ron Corcillo",
+      "role": "writer",
+      "slug": "ron-corcillo"
+    },
+    {
+      "name": "Russ Carney",
+      "role": "writer",
+      "slug": "russ-carney"
+    }
+  ],
   "displayTitle": "The Storms of Taul",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-2-s02",

@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gary Haynes",
+      "role": "writer",
+      "slug": "gary-haynes"
+    },
+    {
+      "name": "Paul Arden Lidberg",
+      "role": "writer",
+      "slug": "paul-arden-lidberg"
+    },
+    {
+      "name": "Brian J. Murphy",
+      "role": "writer",
+      "slug": "brian-j-murphy"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "The Politics of Contraband",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1992-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1992-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-politics-of-contraband",
+  "synopsis": "The Politics of Contraband is a set of adventures for Star Wars: The Roleplaying Game written by Bill Smith. It was published by West End Games in 1992 and reprinted in Classic Adventures: Volume 1.The stories are set in the New Republic era, but before the Thrawn campaign: between 5 ABY and 9 ABY.Publisher's Summary:A smuggler's life has never been easy, and with a new government, old Imperial flunkies, and gangsters all vying for power, it's more dangerous than ever to be an independent. A true smuggler wouldn't have it any other way! Travel the star-lanes of the Known Galaxy, smuggling illegal goods, clashing with infamous pirates, and trying to survive until your next pay-check.",
+  "title": "The Politics of Contraband"
+}

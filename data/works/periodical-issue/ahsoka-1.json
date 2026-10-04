@@ -37,14 +37,24 @@
       "slug": "rachelle-rosenberg"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Joe Caramagna",
       "role": "letterer",
       "slug": "joe-caramagna"
+    },
+    {
+      "name": "Juan Fernandez",
+      "role": "coverArtist",
+      "slug": "juan-fernandez"
+    },
+    {
+      "name": "Ken Lashley",
+      "role": "coverArtist",
+      "slug": "ken-lashley"
     }
   ],
   "displayTitle": "Ahsoka #1",
@@ -55,6 +65,7 @@
   },
   "parentWorkSlug": "ahsoka-comics",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2024-07-10T00:00:00.000Z",

@@ -1,0 +1,54 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Bray",
+      "role": "writer",
+      "slug": "adam-bray"
+    },
+    {
+      "name": "Cole Horton",
+      "role": "writer",
+      "slug": "cole-horton"
+    },
+    {
+      "name": "Tricia Barr",
+      "role": "writer",
+      "slug": "tricia-barr"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Matt Jones",
+      "role": "writer",
+      "slug": "matt-jones"
+    }
+  ],
+  "displayTitle": "Ultimate Star Wars, New Edition",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-10-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ultimate-star-wars-new-edition",
+  "title": "Ultimate Star Wars, New Edition"
+}

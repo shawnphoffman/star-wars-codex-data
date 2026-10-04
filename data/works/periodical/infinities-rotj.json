@@ -6,6 +6,31 @@
       "name": "Adam Gallardo",
       "role": "writer",
       "slug": "adam-gallardo"
+    },
+    {
+      "name": "Ryan Benjamin",
+      "role": "penciler",
+      "slug": "ryan-benjamin"
+    },
+    {
+      "name": "Saleem Crawford",
+      "role": "inker",
+      "slug": "saleem-crawford"
+    },
+    {
+      "name": "Joel Benjamin",
+      "role": "colorist",
+      "slug": "joel-benjamin"
+    },
+    {
+      "name": "Michael David Thomas",
+      "role": "letterer",
+      "slug": "michael-david-thomas"
+    },
+    {
+      "name": "Rodolfo Migliari",
+      "role": "coverArtist",
+      "slug": "rodolfo-migliari"
     }
   ],
   "displayTitle": "Infinities: Return of the Jedi",
@@ -15,7 +40,7 @@
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"
   },
-  "releaseDate": "2004-03-31T00:00:00.000Z",
+  "releaseDate": "2003-11-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "infinities-rotj",

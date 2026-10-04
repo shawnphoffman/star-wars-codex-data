@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Alexis Dykema",
+      "role": "writer",
+      "slug": "alexis-dykema"
+    },
+    {
+      "name": "Keith Kappel",
+      "role": "writer",
+      "slug": "keith-kappel"
+    }
+  ],
+  "displayTitle": "Gadgets and Gear",
+  "editions": [
+    {
+      "imprint": "Fantasy Flight Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-09-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "gadgets-and-gear",
+  "synopsis": "Gadgets and Gear is an era sourcebook for Fantasy Flight Games' Star Wars roleplaying game system, featuring brand-new source material compatible with each of Fantasy Flight Games' three Star Wars roleplaying lines. The book adds new pieces of equipment, along with weapons and armor of heroes and villainsAs the Galactic Civil War dominates life in the galaxy, no one is safe. From civilians and common thieves to troopers and Jedi, protection and ingenuity are paramount to survival. In the quest for victory, every tool and weapon holds the potential to tip the scales in the war for the galaxy.Discover the perfect tool for the job with Gadgets and Gear, a 142-page essential collection of weapons and equipment for Star Wars Roleplaying!With Gadgets and Gear, Game Masters and players have a huge selection of equipment right at their fingertips! This sourcebook gathers weapons, armor, attachments, and gear from all three Star Wars Roleplaying game lines including Edge of the Empire, Age of Rebellion, and Force and Destiny. It also adds new pieces of equipment, along with weapons and armor of heroic and villainous characters whose deeds are whispered about across the stars.With hundreds of gadgets and gear catalogued in an easily readable new format, finding the perfect tool for the job has never been easier.",
+  "title": "Gadgets and Gear"
+}

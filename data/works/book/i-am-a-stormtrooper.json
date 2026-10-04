@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    },
+    {
+      "name": "Chris Kennett",
+      "role": "artist",
+      "slug": "chris-kennett"
+    }
+  ],
+  "displayTitle": "I Am a Stormtrooper",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-01-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "i-am-a-stormtrooper",
+  "synopsis": "Featuring stunning retro stylized illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages. It includes epic scenes from A New Hope, The Empire Strikes Back, Return of the Jedi, Attack of the Clones, and The Force Awakens.",
+  "title": "I Am a Stormtrooper"
+}

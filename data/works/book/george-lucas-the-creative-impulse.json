@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Charles Champlin",
+      "role": "writer",
+      "slug": "charles-champlin"
+    },
+    {
+      "name": "Mark Greenberg",
+      "role": "editor",
+      "slug": "mark-greenberg"
+    },
+    {
+      "name": "Drew Struzan",
+      "role": "coverArtist",
+      "slug": "drew-struzan"
+    }
+  ],
+  "displayTitle": "George Lucas: The Creative Impulse",
+  "editions": [
+    {
+      "imprint": "Harry N. Abrams",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1992-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1992-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "george-lucas-the-creative-impulse",
+  "synopsis": "Over the past twenty years, George Lucas and his company Lucasfilm have become synonymous with movie magic. From the stark and disquieting view of the future in THX 1138 to the wry but sympathetic look back to the 1950s in American Graffiti, from the spectacular effects and resonant mythology of Star Wars to the rough and robust adventures of Indiana Jones, George Lucas has mined the rich ore of fantasy and pushed the limits of film making far beyond what we once thought possible.Lucas's imagination and his belief in the power of film are revealed not only in his spectacular success as a movie maker but also in his commitment to the art and technology of the moving image. Indeed, the gratitude of the industry was expressed by the Academy of Motion Picture Arts and Sciences when it named George Lucas the 1992 winner of the Irving Thalberg Award for Lifetime Achievement.The profits garnered by Lucas's films have gone into creating Lucasfilm and LucasArts, companies devoted to technical advances in video and sound editing, motion-picture sound and projection-quality assurance, computer games, theme-park rides, television commercials, and interactive educational systems. Industrial Light and Magic, Lucas's special-effects company, is fast becoming a \"star\" in its own right, responsible for the amazing scenes in films ranging from ET to Terminator II.George Lucas: The Creative Impulse discusses and illustrates all the films in which Lucas has been involved, as well as the many activities of Lucasfilm and LucasArts. Stills, behind-the-scenes shots, and intimate glimpses into the art of the special effect offer a rare visual lesson in how technical feats and human imagination create compelling and enduring art.",
+  "title": "George Lucas: The Creative Impulse"
+}

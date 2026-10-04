@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Phil Szostak",
+      "role": "writer",
+      "slug": "phil-szostak"
+    },
+    {
+      "name": "Christian Alzmann",
+      "role": "coverArtist",
+      "slug": "christian-alzmann"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: The Rise of Skywalker",
+  "editions": [
+    {
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-03-31T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-03-31T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-the-rise-of-skywalker",
+  "synopsis": "The official behind-the-scenes book of concept, production, and post-production art for Star Wars: The Rise of Skywalker.Go inside the creative process behind the most anticipated film of the century. The latest trilogy in the Star Wars film series brings the Skywalker Saga to a close and The Art of Star Wars: The Rise of Skywalker will take readers into the creative process behind visualizing the epic worlds, creatures, characters, costumes, weapons, and vehicles of the landmark conclusion more than 40 years in the making.",
+  "title": "The Art of Star Wars: The Rise of Skywalker"
+}

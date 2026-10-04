@@ -1,0 +1,56 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jody Houser",
+      "role": "writer",
+      "slug": "jody-houser"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "penciler",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "inker",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Tom B. Long",
+      "role": "letterer",
+      "slug": "tom-b-long"
+    },
+    {
+      "name": "Adele Matera",
+      "role": "colorist",
+      "slug": "adele-matera"
+    },
+    {
+      "name": "Arianna Florean",
+      "role": "coverArtist",
+      "slug": "arianna-florean"
+    },
+    {
+      "name": "Bobby Curnow",
+      "role": "editor",
+      "slug": "bobby-curnow"
+    },
+    {
+      "name": "Denton J. Tipton",
+      "role": "editor",
+      "slug": "denton-j-tipton"
+    }
+  ],
+  "displayTitle": "Forces of Destiny: Rey",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-01-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "forces-of-destiny-daring-adventures-volume-2-forces-of-destiny-rey",
+  "title": "Forces of Destiny: Rey"
+}

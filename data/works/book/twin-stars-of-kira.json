@@ -1,0 +1,110 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen Crane",
+      "role": "writer",
+      "slug": "stephen-crane"
+    },
+    {
+      "name": "Dave Marron",
+      "role": "writer",
+      "slug": "dave-marron"
+    },
+    {
+      "name": "John Terra",
+      "role": "writer",
+      "slug": "john-terra"
+    },
+    {
+      "name": "Richard Clark",
+      "role": "writer",
+      "slug": "richard-clark"
+    },
+    {
+      "name": "Barbara Clark",
+      "role": "writer",
+      "slug": "barbara-clark"
+    },
+    {
+      "name": "Janelle Keberle",
+      "role": "writer",
+      "slug": "janelle-keberle"
+    },
+    {
+      "name": "Michael Allen Horne",
+      "role": "writer",
+      "slug": "michael-allen-horne"
+    },
+    {
+      "name": "Todd Quigley",
+      "role": "writer",
+      "slug": "todd-quigley"
+    },
+    {
+      "name": "Ed Stark",
+      "role": "writer",
+      "slug": "ed-stark"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Stewart Warley",
+      "role": "writer",
+      "slug": "stewart-warley"
+    },
+    {
+      "name": "Greg Farshtey",
+      "role": "editor",
+      "slug": "greg-farshtey"
+    },
+    {
+      "name": "Cathleen Hunter",
+      "role": "artist",
+      "slug": "cathleen-hunter"
+    },
+    {
+      "name": "John Paul Lona",
+      "role": "artist",
+      "slug": "john-paul-lona"
+    },
+    {
+      "name": "Rob Caswell",
+      "role": "artist",
+      "slug": "rob-caswell"
+    },
+    {
+      "name": "Tim Eldred",
+      "role": "artist",
+      "slug": "tim-eldred"
+    },
+    {
+      "name": "Mike Vilardi",
+      "role": "artist",
+      "slug": "mike-vilardi"
+    }
+  ],
+  "displayTitle": "Twin Stars of Kira",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "twin-stars-of-kira",
+  "synopsis": "Twin Stars of Kira is a paperback supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Greg Farshtey and several others and published on June 19, 1993.To smugglers and free-traders, the Kira Run is a pathway to profit. But in the turbulent times following the fall of the Empire, it is much more: a hyperspace jump leading to danger, intrigue and bizarre menaces to the New Republic.Travel to the Twin Stars and encounter secret Imperial bases; lost ships carrying priceless cargo; pirates willing to make space a graveyard in pursuit of a fortune; and the threat of the Iskallons, who would enslave Humans for their own dark purposes.Scan your starmap, pack your blaster and launch into an exciting series of adventures set in the universe of Star Wars!",
+  "title": "Twin Stars of Kira"
+}

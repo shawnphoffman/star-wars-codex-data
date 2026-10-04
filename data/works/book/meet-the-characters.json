@@ -1,0 +1,23 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "Meet the Characters",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2026-01-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-01-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "meet-the-characters",
+  "synopsis": "Get to know the galaxy's greatest heroes and villains in this Star Wars board book. Princess Leia is a brave leader. Darth Vader is a sinister villain. Meet the most popular characters from the Star Wars original trilogy in this vibrant board book! Star Wars fans can introduce their tiniest younglings to their favorite characters through simple text paired with a kid-friendly illustration style.",
+  "title": "Meet the Characters"
+}

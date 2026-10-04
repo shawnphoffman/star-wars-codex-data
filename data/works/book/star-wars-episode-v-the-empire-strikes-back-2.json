@@ -11,6 +11,10 @@
   "displayTitle": "Episode V: The Empire Strikes Back",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439681243"
+    },
+    {
       "type": "isbn13",
       "value": "9780545482332"
     }
@@ -19,16 +23,22 @@
     {
       "imprint": "Scholastic",
       "isPrimary": true,
-      "isbn13": "9780545482332",
+      "isbn10": "0439681243",
       "kind": "print",
-      "onsale": "2004-01-31T00:00:00.000Z"
+      "onsale": "2004-10-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn13": "9780545482332",
+      "kind": "print"
     }
   ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
-  "releaseDate": "2004-01-31T00:00:00.000Z",
+  "releaseDate": "2004-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-episode-v-the-empire-strikes-back-2",

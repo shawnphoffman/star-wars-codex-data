@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    },
+    {
+      "name": "Curtis Smith",
+      "role": "writer",
+      "slug": "curtis-smith"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Jeffery L. Briggs",
+      "role": "editor",
+      "slug": "jeffery-l-briggs"
+    }
+  ],
+  "displayTitle": "The Star Wars Sourcebook (Second Edition)",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1994-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1994-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-sourcebook-second-edition",
+  "synopsis": "The Star Wars Sourcebook is a sourcebook written by Bill Slavicsek and Curtis Smith. It was published June 1994 by West End Games as the second edition of the original The Star Wars Sourcebook from 1987.The book covers information of various sorts regarding the Star Wars universe, including chapters on general spacecraft systems, starfighters, capital ships, space transports, droids, repulsorlift vehicles, Imperial ground assault vehicles, aliens, creatures, general equipment, lightsabers, stormtroopers, Rebel bases, Imperial garrisons, and the heroes and villains of the original trilogy of movies.",
+  "title": "The Star Wars Sourcebook (Second Edition)"
+}

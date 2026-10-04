@@ -50,6 +50,9 @@
   "displayTitle": "Crimson Empire II: Council of Blood",
   "era": "newRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 11
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,40 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jennifer Heddle",
+      "role": "writer",
+      "slug": "jennifer-heddle"
+    },
+    {
+      "name": "Brian Rood",
+      "role": "artist",
+      "slug": "brian-rood"
+    },
+    {
+      "name": "Brian Rood",
+      "role": "coverArtist",
+      "slug": "brian-rood"
+    }
+  ],
+  "displayTitle": "A Leader Named Leia",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-leader-named-leia",
+  "synopsis": "To some she's a princess, to others a general, but toeveryone Leia Organa is one of the galaxy's greatest leaders. Learn all aboutLeia's exciting adventures with A LeaderNamed Leia.",
+  "title": "A Leader Named Leia"
+}

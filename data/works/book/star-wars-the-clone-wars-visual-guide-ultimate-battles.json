@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Clone Wars Visual Guide: Ultimate Battles",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2009-08-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-08-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-clone-wars-visual-guide-ultimate-battles",
+  "synopsis": "Featuring images, illustrations, diagrams, and an inside look at the ferocious, fire-storm battles featured in The Clone Wars television series, Star Wars®: The Clone Wars: Ultimate Battles highlights the weapons, spaceships, strategies, and spies who made the Clone Wars an epic time in Star Wars history.",
+  "title": "Star Wars: The Clone Wars Visual Guide: Ultimate Battles"
+}

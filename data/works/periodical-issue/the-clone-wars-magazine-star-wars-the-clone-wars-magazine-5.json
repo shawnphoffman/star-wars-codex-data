@@ -1,0 +1,21 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Andrew James",
+      "role": "editor",
+      "slug": "andrew-james"
+    }
+  ],
+  "displayTitle": "The Clone Wars Magazine #5",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "the-clone-wars-magazine",
+  "periodical": {
+    "publicationKind": "magazine"
+  },
+  "releaseDate": "2011-06-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-magazine-star-wars-the-clone-wars-magazine-5",
+  "title": "Star Wars: The Clone Wars Magazine #5"
+}

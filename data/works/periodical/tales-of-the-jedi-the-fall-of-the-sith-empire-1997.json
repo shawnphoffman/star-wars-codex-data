@@ -65,6 +65,9 @@
   "displayTitle": "Tales of the Jedi: The Fall of the Sith Empire",
   "era": "oldRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -5000
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Johnston",
+      "role": "writer",
+      "slug": "joe-johnston"
+    },
+    {
+      "name": "Joe Johnston",
+      "role": "artist",
+      "slug": "joe-johnston"
+    },
+    {
+      "name": "Carol Titelman",
+      "role": "writer",
+      "slug": "carol-titelman"
+    }
+  ],
+  "displayTitle": "The Star Wars Sketchbook",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1977-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1977-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-star-wars-sketchbook",
+  "synopsis": "Shows how the incredible equipment was developed. Here, in their early stages are:THE DEATH STAR • THE MILLENNIUM FALCONTHE LIFE POD • THE TIE FIGHTER • THE SANDCRAWLER • THE X-WING FIGHTERTHE REBEL BLOCKADE RUNNER • THE Y-WING FIGHTERTHE IMPERIAL STAR DESTROYER\"MAY THE FORCE BE WITH YOU…\"",
+  "title": "The Star Wars Sketchbook"
+}

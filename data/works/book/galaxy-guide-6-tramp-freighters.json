@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Rein-Hagen",
+      "role": "writer",
+      "slug": "mark-rein-hagen"
+    },
+    {
+      "name": "Stewart Wieck",
+      "role": "writer",
+      "slug": "stewart-wieck"
+    },
+    {
+      "name": "Allen Nunis",
+      "role": "artist",
+      "slug": "allen-nunis"
+    }
+  ],
+  "displayTitle": "Galaxy Guide 6: Tramp Freighters",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1990-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1990-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galaxy-guide-6-tramp-freighters",
+  "synopsis": "Galaxy Guide 6: Tramp Freighters is a sourcebook published for Star Wars: The Roleplaying Game by West End Games in 1990. The authors were Mark Rein-Hagen and Stewart Wieck. A second edition (revised by Eric S. Trautmann) was published in 1994.Tramp Freighters discusses various rules for roleplaying campaigns involving independent spacer and smuggler characters, including rules for modifying freighters, dealing with loan sharks, and trading legal and illegal cargo. It also includes a description of various planets and personalities in the Minos Cluster during the Galactic Civil War era. Adventure ideas and a five-adventure mini-campaign set in the Minos Cluster are also featured.You are a free-trader... answerable to no one... hauling cargo for a tidy profit in your beloved ship, with your trusted comrades at your side... free from all danger, from all \"entanglements\" - Imperial or otherwise...Sure it's not all fun and games, There are Imperial Customs officials to outwit, space pirates to battle, loan-sharks, corrupt portmasters, mechanical failures and a thousand other things which make your life interesting.And somehow you keep getting mixed with that pesky Rebellion...Galaxy Guide 6: Tramp Freighters gives you information on Imperial regulations, ship modifications, and the Minos Cluster, an area filled with opportunity for freetraders like yourself.",
+  "title": "Galaxy Guide 6: Tramp Freighters"
+}

@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Revenge of the Sith: The Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-revenge-of-the-sith-the-visual-dictionary",
+  "synopsis": "A fascinating book with unlimited access to the Lucasfilm archives reveals the characters and creatures of the latest Star Wars movie, explaining the costumes, droids, and equipment, and featuring photos and stills from the film.",
+  "title": "Star Wars: Revenge of the Sith: The Visual Dictionary"
+}

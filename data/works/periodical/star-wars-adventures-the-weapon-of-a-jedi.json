@@ -20,7 +20,11 @@
   "displayTitle": "Adventures: The Weapon of a Jedi",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
+    "imprint": "IDW Publishing",
     "publicationKind": "comic"
   },
   "releaseDate": "2021-05-26T00:00:00.000Z",

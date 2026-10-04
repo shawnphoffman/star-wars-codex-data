@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David West Reynolds",
+      "role": "writer",
+      "slug": "david-west-reynolds"
+    },
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "The Complete Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2006-09-25T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2006-09-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-complete-visual-dictionary",
+  "synopsis": "Star Wars: The Complete Visual Dictionary is a Star Wars Legends hardcover reference title that was first released by DK Publishing on September 25, 2006. It is a compilation of the first four entries in the Star Wars Visual Dictionaries series: Star Wars: The Visual Dictionary (1998), Star Wars: Episode I The Visual Dictionary (1999), Star Wars: Attack of the Clones: The Visual Dictionary (2002), and Star Wars: Revenge of the Sith: The Visual Dictionary (2005) all combined into one book.The Complete Visual Dictionary features eighteen pages of new content, covering the planet Mustafar, the Battle of Utapau, Order 66, clone battle tanks, Imperial and Rebel personnel, patrons of Chalmun's Spaceport Cantina, and R2-D2's inner workings, as well as a cross-section diagram of the sarlacc. It also made changes to some entries on the original trilogy to reflect information from the prequels and a few minor retcons.The book was re-released in the United States with a different cover design on September 28, 2012. A third US edition was published in 2016 under the Disney brand; this version's cover features a built-in light module that readers can activate to \"ignite\" Yoda's lightsaber. Additionally, the Disney edition includes an exclusive limited-edition print of Darth Vader.",
+  "title": "Star Wars: The Complete Visual Dictionary"
+}

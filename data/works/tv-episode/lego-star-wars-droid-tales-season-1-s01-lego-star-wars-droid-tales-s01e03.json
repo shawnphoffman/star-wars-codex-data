@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Matty Smith",
+      "role": "writer",
+      "slug": "matty-smith"
+    }
+  ],
   "displayTitle": "Mission to Mos Eisley",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-droid-tales-season-1-s01",

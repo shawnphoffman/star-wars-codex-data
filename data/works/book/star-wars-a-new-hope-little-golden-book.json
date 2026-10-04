@@ -1,6 +1,6 @@
 {
   "bookType": "childrensBook",
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Geof Smith",
@@ -35,7 +35,11 @@
       "onsale": "2015-07-28T00:00:00.000Z"
     }
   ],
+  "era": "ageOfRebellion",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "publicationKind": "comic"
   },

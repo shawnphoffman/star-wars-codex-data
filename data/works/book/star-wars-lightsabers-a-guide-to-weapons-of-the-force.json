@@ -1,0 +1,39 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Delia Greve",
+      "role": "editor",
+      "slug": "delia-greve"
+    },
+    {
+      "name": "Chris Reiff",
+      "role": "artist",
+      "slug": "chris-reiff"
+    }
+  ],
+  "displayTitle": "Lightsabers: A Guide to Weapons of the Force",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2010-12-10T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-12-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-lightsabers-a-guide-to-weapons-of-the-force",
+  "title": "Star Wars: Lightsabers: A Guide to Weapons of the Force"
+}

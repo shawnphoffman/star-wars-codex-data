@@ -7,14 +7,44 @@
       "slug": "matt-owens"
     },
     {
-      "name": "Denys Owens",
+      "name": "Denys Cowan",
       "role": "artist",
-      "slug": "denys-owens"
+      "slug": "denys-cowan"
     },
     {
       "name": "Jesús Saiz",
       "role": "artist",
       "slug": "jesus-saiz"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "penciler",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Rod Reis",
+      "role": "coverArtist",
+      "slug": "rod-reis"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Heather Antos",
+      "role": "editor",
+      "slug": "heather-antos"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "inker",
+      "slug": "roberto-poggi"
     }
   ],
   "displayTitle": "Jedi of the Republic-Mace Windu, Part V",

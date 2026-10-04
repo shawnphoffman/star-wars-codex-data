@@ -2,16 +2,6 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Jody Houser",
-      "role": "writer",
-      "slug": "jody-houser"
-    },
-    {
-      "name": "Salvador Larroca",
-      "role": "artist",
-      "slug": "salvador-larroca"
-    },
-    {
       "name": "John Williams",
       "role": "composer",
       "slug": "john-williams"
@@ -20,6 +10,21 @@
       "name": "Natalie Holt",
       "role": "composer",
       "slug": "natalie-holt"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    },
+    {
+      "name": "Ewan McGregor",
+      "role": "producer",
+      "slug": "ewan-mcgregor"
     }
   ],
   "displayTitle": "Obi-Wan Kenobi",

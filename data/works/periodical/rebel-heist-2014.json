@@ -50,6 +50,9 @@
   "displayTitle": "Rebel Heist",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 2
+  },
   "periodical": {
     "publicationKind": "comic"
   },

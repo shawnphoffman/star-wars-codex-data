@@ -10,6 +10,56 @@
       "name": "Marc Laming",
       "role": "artist",
       "slug": "marc-laming"
+    },
+    {
+      "name": "Mark Paniccia",
+      "role": "editor",
+      "slug": "mark-paniccia"
+    },
+    {
+      "name": "John Tyler Christopher",
+      "role": "coverArtist",
+      "slug": "john-tyler-christopher"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "inker",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "inker",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "penciler",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Edgar Salazar",
+      "role": "penciler",
+      "slug": "edgar-salazar"
+    },
+    {
+      "name": "Jordan Boyd",
+      "role": "colorist",
+      "slug": "jordan-boyd"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Beckett",

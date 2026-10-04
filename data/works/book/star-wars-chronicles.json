@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Deborah Fine",
+      "role": "writer",
+      "slug": "deborah-fine"
+    }
+  ],
+  "displayTitle": "Chronicles",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-02-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-02-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-chronicles",
+  "synopsis": "Star Wars: Chronicles is a massive reference book published by Chronicle Books. It contains extensive Star Wars photography including a wealth of behind-the-scenes photographs. It was followed by Star Wars Chronicles: The Prequels.The book is structured according to the sequence of the Star Wars movies starting with A New Hope and ending with Ewoks: The Battle for Endor. Other Star Wars endeavors such as The Star Wars Holiday Special, Ewoks and Droids cartoons, book and comic publishing, and the Star Tours adventure ride are also included. The text includes a mixture of behind-the-scenes information and in-universe background from the Star Wars Legends continuity.Much of the content had never been published before and offers insight into the design process. There is extensive coverage of costumes, vehicles, puppets/animatronics, and behind-the-scenes images. Each chapter ending includes a timeline of real-world events for each movie from pre- to postproduction.Because this book was published before the Special Editions of the original trilogy, none of those movie additions are included.Chronicle Books republished Star Wars: Chronicles in September of 2005, prior to the November 2005 release of Star Wars Chronicles: The Prequels",
+  "title": "Star Wars Chronicles"
+}

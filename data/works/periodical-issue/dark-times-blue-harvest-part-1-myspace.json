@@ -1,0 +1,35 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mick Harrison",
+      "role": "writer",
+      "slug": "mick-harrison"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "penciler",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "coverArtist",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "David McCaig",
+      "role": "colorist",
+      "slug": "david-mccaig"
+    }
+  ],
+  "displayTitle": "Dark Times: Blue Harvest, Part 1 (MySpace)",
+  "format": "periodicalIssue",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-01-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "dark-times-blue-harvest-part-1-myspace",
+  "title": "Dark Times: Blue Harvest, Part 1 (MySpace)"
+}

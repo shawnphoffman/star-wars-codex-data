@@ -15,6 +15,36 @@
       "name": "Ken Lashley",
       "role": "coverArtist",
       "slug": "ken-lashley"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Juan Fernandez",
+      "role": "coverArtist",
+      "slug": "juan-fernandez"
+    },
+    {
+      "name": "Romulo Fajardo Jr.",
+      "role": "coverArtist",
+      "slug": "romulo-fajardo-jr"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "The Book of Boba Fett #3",

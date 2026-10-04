@@ -47,34 +47,29 @@
       "slug": "neeraj-menon"
     },
     {
-      "name": "Vc Clayton Cowles",
-      "role": "letterer",
-      "slug": "vc-clayton-cowles"
-    },
-    {
-      "name": "Marc Laming",
-      "role": "inker",
-      "slug": "marc-laming"
-    },
-    {
-      "name": "Cris Bolson",
-      "role": "inker",
-      "slug": "cris-bolson"
-    },
-    {
-      "name": "Marc Laming",
-      "role": "penciler",
-      "slug": "marc-laming"
-    },
-    {
-      "name": "Cris Bolson",
-      "role": "penciler",
-      "slug": "cris-bolson"
-    },
-    {
       "name": "Clayton Cowles",
       "role": "letterer",
       "slug": "clayton-cowles"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "inker",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Cris Bolson",
+      "role": "inker",
+      "slug": "cris-bolson"
+    },
+    {
+      "name": "Marc Laming",
+      "role": "penciler",
+      "slug": "marc-laming"
+    },
+    {
+      "name": "Cris Bolson",
+      "role": "penciler",
+      "slug": "cris-bolson"
     }
   ],
   "displayTitle": "Target Vader #1",

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Dorman",
+      "role": "writer",
+      "slug": "dave-dorman"
+    },
+    {
+      "name": "Lurene Haines",
+      "role": "editor",
+      "slug": "lurene-haines"
+    }
+  ],
+  "displayTitle": "The Art of Dave Dorman",
+  "editions": [
+    {
+      "imprint": "Friedlander Publishing Group",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-09-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-09-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-art-of-dave-dorman",
+  "synopsis": "Dave Dorman's art has graced the covers of Star Wars comic books, paperbacks, and CDs, and has appeared on trading cards and even toy packages. This book contains the most complete record of one artist's catalog of work based on his favorite subject... Star Wars!",
+  "title": "Star Wars: The Art of Dave Dorman"
+}

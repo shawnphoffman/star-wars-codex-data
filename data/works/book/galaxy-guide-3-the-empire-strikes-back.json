@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Galaxy Guide 3: The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311276"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311276",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

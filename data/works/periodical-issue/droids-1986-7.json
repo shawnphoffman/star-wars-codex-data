@@ -1,0 +1,56 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Dave Manak",
+      "role": "writer",
+      "slug": "dave-manak"
+    },
+    {
+      "name": "Ernie Colon",
+      "role": "penciler",
+      "slug": "ernie-colon"
+    },
+    {
+      "name": "Al Williamson",
+      "role": "inker",
+      "slug": "al-williamson"
+    },
+    {
+      "name": "Ed King",
+      "role": "letterer",
+      "slug": "ed-king"
+    },
+    {
+      "name": "George Roussos",
+      "role": "colorist",
+      "slug": "george-roussos"
+    },
+    {
+      "name": "Sid Jacobson",
+      "role": "editor",
+      "slug": "sid-jacobson"
+    },
+    {
+      "name": "Tom DeFalco",
+      "role": "editor",
+      "slug": "tom-defalco"
+    },
+    {
+      "name": "Jim Shooter",
+      "role": "editor",
+      "slug": "jim-shooter"
+    }
+  ],
+  "displayTitle": "Droids (1986) #7",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "droids-1986",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1987-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "droids-1986-7",
+  "title": "Droids (1986) #7"
+}

@@ -17,9 +17,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Arif Pianto",
@@ -38,12 +38,17 @@
     }
   ],
   "displayTitle": "Poe Dameron (2016) #27",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "poe-dameron",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2018-05-16T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "poe-dameron-2016-27",
   "title": "Poe Dameron (2016) #27"
 }

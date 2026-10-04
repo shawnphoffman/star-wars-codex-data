@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "showrunner",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "George Lucas",
+      "role": "producer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Miki Herman",
+      "role": "producer",
+      "slug": "miki-herman"
+    }
+  ],
   "displayTitle": "Ewoks",
   "format": "tvSeries",
   "releaseDate": "1985-09-07T00:00:00.000Z",

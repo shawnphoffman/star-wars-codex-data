@@ -1,0 +1,45 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "The Mos Eisley Cantina Pop-Up Book",
+  "editions": [
+    {
+      "imprint": "Little, Brown and Company",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-09-11T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-09-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mos-eisley-cantina-pop-up-book",
+  "synopsis": "The Mos Eisley Cantina Pop-Up Book is a young reader book published by Little Brown in 1996. The book features some of the patrons of the Mos Eisley Cantina, providing back-stories originating in Tales From the Mos Eisley Cantina. Each vignette ends with a sentence explaining the role that the cantina plays in that character's life.",
+  "title": "The Mos Eisley Cantina Pop-Up Book"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Cotta Vaz",
+      "role": "writer",
+      "slug": "mark-cotta-vaz"
+    },
+    {
+      "name": "Shinji Hata",
+      "role": "writer",
+      "slug": "shinji-hata"
+    }
+  ],
+  "displayTitle": "From Star Wars to Indiana Jones: The Best of the Lucasfilm Archives",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "from-star-wars-to-indiana-jones-the-best-of-the-lucasfilm-archives",
+  "synopsis": "George Lucas has produced some of the most popular movies ever, including the classic Star Wars and Indiana Jones trilogies. Thanks to Lucas's foresight and the dedication of Lucasfilm archivists, the artifacts used in the making of his films have been painstakingly preserved. From Star Wars to Indiana Jones presents some of the best of Lucasfilm's enduring creations, from Yoda and R2-D2 to the Ark of the Covenant and the Holy Grail. Now readers everywhere can take a tour of the marvelous world of the Lucasfilm Archives, with its incredible collection of costumes, props, puppets, models, and matte paintings used in the making of both the Star Wars and Indiana Jones movies. Veterans of the legendary first Industrial Light & Magic effects team that created Star Wars share their secrets, along with an astonishing array of behind-the-scenes production illustrations, storyboards, and prototypes - many appearing for the first time in book form - all accompanied by a lively text that tells the fascinating stories behind the art of movie-making. Lavishly illustrated with hundreds of full-color photographs and illustrations, this treasury captures the remarkable imagery, as well as the wonder, of the Lucasfilm universe in an essential acquisition for countless fans the world over.",
+  "title": "From Star Wars to Indiana Jones: The Best of the Lucasfilm Archives"
+}

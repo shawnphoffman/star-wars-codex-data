@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    },
+    {
+      "name": "Greg Gorden",
+      "role": "editor",
+      "slug": "greg-gorden"
+    }
+  ],
+  "displayTitle": "Otherspace",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1989-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1989-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "otherspace",
+  "synopsis": "Otherspace is an adventure for Star Wars: The Roleplaying Game written by Bill Slavicsek. It was published by West End Games in 1989.Otherspace included the return of non-player characters from the previous West End Games adventures Tatooine Manhunt and Strike Force: Shantipole. Otherspace itself was followed up by another adventure, Otherspace II: Invasion.Beyond realspace, past the time-bending corridors of hyperspace, another galaxy waits to be discovered. When a problem develops with the hyperdrive engine of an Alliance prisoner transport, members of both the Rebellion and the Empire are deposited into a strange, unexplored dimension between the hyperlanes and realspace.Here, abandoned ships from all over known space float beside those of unknown origin. These desolate craft orbit a giant vessel, drawn to it like moths to a flame - or a spider's web.Within the dark interior of the giant ship, the war between Rebel and Imperial finds new battlegrounds and new weapons with which to destroy each other. But they also find something else, something that just might find them first. It wants to escape otherspace, to reach realspace. And when it does, the galaxy will die!",
+  "title": "Otherspace"
+}

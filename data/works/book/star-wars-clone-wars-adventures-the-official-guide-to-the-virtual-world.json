@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Clone Wars Adventures: The Official Guide to the Virtual World",
+  "editions": [
+    {
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-09-29T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-09-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-clone-wars-adventures-the-official-guide-to-the-virtual-world",
+  "synopsis": "Star Wars: Clone Wars Adventures is an action-packed, multiplayer, online universe where you can experience the thrills and excitement of Star Wars: The Clone Wars firsthand. Become a Jedi and dive into battle with your friends alongside your favorite Clone Wars Adventures characters. This official guide will provide players all the tips and secrets they need to navigate this amazing online universe. Includes a full-color poster.",
+  "title": "Star Wars: Clone Wars Adventures: The Official Guide to the Virtual World"
+}

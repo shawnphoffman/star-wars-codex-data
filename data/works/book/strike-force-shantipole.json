@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Rolston",
+      "role": "writer",
+      "slug": "ken-rolston"
+    },
+    {
+      "name": "Steve Gilbert",
+      "role": "writer",
+      "slug": "steve-gilbert"
+    },
+    {
+      "name": "Bill Slavicsek",
+      "role": "editor",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "Strike Force: Shantipole",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1988-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1988-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "strike-force-shantipole",
+  "synopsis": "Strike Force: Shantipole is a Star Wars Legends adventure book for use with Star Wars: The Roleplaying Game. The adventure scenario tasks Rebel Alliance heroes with rescuing Commander Ackbar in the Roche asteroid field and keeping his secret project from falling into the hands of the Galactic Empire.The Strike Force: Shantipole set includes a full-color interior map of the Research Station Shantipole and a Star Warriors combat scenario. Strike Force: Shantipole was written by Ken Rolston and Steve Gilbert, and published by West End Games in 1988. It was later republished in Classic Adventures: Volume Five in 1998.\"Battle Imperial starfighters in the vastness of space, chase deadly probots through asteroid storms, and go up against a heavily-armed escort frigate in this explosive full-length Star Wars adventure.In the Roche Asteroid Field, a secret Rebel project nears completion. Headed by Commander Ackbar, the Shantipole project has developed a powerful new starfighter for the Alliance arsenal.But first, Shantipole must be safely escorted back to Alliance High Command. That's where you and your team come in. With a borrowed freighter, sealed holodisc orders, and a good blaster at your side, your ship emerges from hyperspace -- right in the middle of a TIE/LN starfighter patrol!And they told you this was going to be a routine mission...\"",
+  "title": "Strike Force: Shantipole"
+}

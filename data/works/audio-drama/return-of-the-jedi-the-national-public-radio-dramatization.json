@@ -1,0 +1,48 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Brian Daley",
+      "role": "writer",
+      "slug": "brian-daley"
+    },
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    },
+    {
+      "name": "Ken Hiller",
+      "role": "narrator",
+      "slug": "ken-hiller"
+    },
+    {
+      "name": "John Madden",
+      "role": "director",
+      "slug": "john-madden"
+    },
+    {
+      "name": "Tom Voegeli",
+      "role": "director",
+      "slug": "tom-voegeli"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: The National Public Radio Dramatization",
+  "editions": [
+    {
+      "imprint": "HighBridge Audio",
+      "isPrimary": true,
+      "kind": "audio",
+      "onsale": "1996-11-05T00:00:00.000Z"
+    }
+  ],
+  "format": "audioDrama",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-the-national-public-radio-dramatization",
+  "title": "Return of the Jedi: The National Public Radio Dramatization"
+}

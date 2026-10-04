@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Jones",
+      "role": "writer",
+      "slug": "matt-jones"
+    }
+  ],
+  "displayTitle": "The Mandalorian Handbook",
+  "editions": [
+    {
+      "imprint": "DK",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2021-11-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-11-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-mandalorian-handbook",
+  "synopsis": "Star Wars: The Mandalorian Handbook is a canon young readers reference book that ties into the television series The Mandalorian. Packed with facts from the TV series Star Wars: The Mandalorian, this book is aimed at young kids who want to join Mando, Grogu, Boba Fett, and Ahsoka Tano on their thrilling adventures. They'll meet strange aliens and droids, learn about new planets and frightening monsters, and read about the evil villains who will stop at nothing to complete their missions. Hop aboard the Razor Crest and get exploring with Star Wars: The Mandalorian Handbook!",
+  "title": "Star Wars: The Mandalorian Handbook"
+}

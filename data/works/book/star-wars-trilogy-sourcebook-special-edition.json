@@ -1,0 +1,65 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Grant S. Boucher",
+      "role": "writer",
+      "slug": "grant-s-boucher"
+    },
+    {
+      "name": "Michael Stern",
+      "role": "writer",
+      "slug": "michael-stern"
+    },
+    {
+      "name": "Drew Campbell",
+      "role": "writer",
+      "slug": "drew-campbell"
+    },
+    {
+      "name": "Steve Miller",
+      "role": "writer",
+      "slug": "steve-miller"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Jonatha Caspian",
+      "role": "writer",
+      "slug": "jonatha-caspian"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Trilogy Sourcebook, Special Edition",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-trilogy-sourcebook-special-edition",
+  "synopsis": "The Star Wars Trilogy Sourcebook, Special Edition is a supplement for Star Wars: The Roleplaying Game published by West End Games in 1997. Some of the material was reprinted and updated from the previous The Star Wars Sourcebook and The Movie Trilogy Sourcebook, while other material was newly written to reflect the Special Edition changes in the original trilogy.The locations, characters, weapons, and vehicles shown in the Special Edition of the original trilogy are described, with backstory and game statistics. The new characters appearing in the Special Edition are described, as well as Lak Sivrak, an alien whose brief appearance in the Mos Eisley Cantina was cut.The new material was written by Drew Campbell, Steve Miller, Paul Sudlow, and lead developer Eric S. Trautmann, while several West End Games writers are credited with the previously published materialA long time ago in a galaxy far, far away...Rediscover a universe of valiant heroes, nefarious villains, fantastic technology, and exotic locales. The forces of the Rebel Alliance fight a desperate battle against the evil Empire in a galaxy-spanning civil war. If the Rebellion fails, countless millions will be crushed beneath the heels of Imperial tyranny...From the glittering spires of Coruscant to the blistering Dune Sea of Tatooine, the secrets of the Star Wars universe area at your fingertips in the Star Wars Trilogy Sourcebook, Special Edition. This fully indexed volume features scores of exciting new artwork and photographs as well as detailed game statistics and background information of the characters, ships, planets, creatures and locations from the Star Wars Trilogy, Special Edition.",
+  "title": "Star Wars Trilogy Sourcebook, Special Edition"
+}

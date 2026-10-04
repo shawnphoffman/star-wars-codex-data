@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Tales of Enlightenment",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781787741713"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Titan Magazines",
+      "isPrimary": true,
+      "isbn13": "9781787741713",
+      "kind": "print",
+      "onsale": "2024-04-02T00:00:00.000Z"
+    }
+  ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {

@@ -32,6 +32,11 @@
       "slug": "mike-mayhew"
     },
     {
+      "name": "Nick Runge",
+      "role": "coverArtist",
+      "slug": "nick-runge"
+    },
+    {
       "name": "Stéphane Roux",
       "role": "artist",
       "slug": "stphane-roux"
@@ -45,11 +50,6 @@
       "name": "Brad Anderson",
       "role": "colorist",
       "slug": "brad-anderson"
-    },
-    {
-      "name": "Nick Runge",
-      "role": "coverArtist",
-      "slug": "nick-runge"
     },
     {
       "name": "Brian Wood",
@@ -79,7 +79,7 @@
     "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2013-12-04T00:00:00.000Z",
+  "releaseDate": "2013-09-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-star-wars-2013-1",

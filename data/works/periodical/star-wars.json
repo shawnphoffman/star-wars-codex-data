@@ -10,6 +10,31 @@
       "name": "Phil Noto",
       "role": "artist",
       "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "penciler",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "inker",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "colorist",
+      "slug": "phil-noto"
+    },
+    {
+      "name": "Clayton Cowles",
+      "role": "letterer",
+      "slug": "clayton-cowles"
+    },
+    {
+      "name": "Phil Noto",
+      "role": "coverArtist",
+      "slug": "phil-noto"
     }
   ],
   "displayTitle": "Star Wars (2025)",

@@ -22,9 +22,9 @@
       "slug": "stephen-segovia"
     },
     {
-      "name": "Vc Clayton Cowles",
+      "name": "Clayton Cowles",
       "role": "letterer",
-      "slug": "vc-clayton-cowles"
+      "slug": "clayton-cowles"
     },
     {
       "name": "Rachelle Rosenberg",
@@ -55,6 +55,7 @@
   },
   "parentWorkSlug": "star-wars-2020",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-11-01T00:00:00.000Z",

@@ -80,6 +80,9 @@
   "displayTitle": "Adventures: The Clone Wars - Battle Tales",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "periodical": {
     "imprint": "IDW Publishing",
     "publicationKind": "comic"

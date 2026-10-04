@@ -175,6 +175,9 @@
   "displayTitle": "Hidden Empire",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "periodical": {
     "publicationKind": "comic"
   },

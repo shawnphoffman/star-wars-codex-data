@@ -1,0 +1,60 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Greg Costikyan",
+      "role": "writer",
+      "slug": "greg-costikyan"
+    },
+    {
+      "name": "Ken Rolston",
+      "role": "writer",
+      "slug": "ken-rolston"
+    },
+    {
+      "name": "Tom Chantrell",
+      "role": "coverArtist",
+      "slug": "tom-chantrell"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    },
+    {
+      "name": "Joe Johnston",
+      "role": "artist",
+      "slug": "joe-johnston"
+    },
+    {
+      "name": "Eric Goldberg",
+      "role": "editor",
+      "slug": "eric-goldberg"
+    },
+    {
+      "name": "Bill Slavicsek",
+      "role": "editor",
+      "slug": "bill-slavicsek"
+    }
+  ],
+  "displayTitle": "The Roleplaying Game",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1987-10-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1987-10-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-roleplaying-game",
+  "synopsis": "The rulebook for the first edition of Star Wars: The Roleplaying Game was published by West End Games in October 1987. It contains rules and guidelines for gamemasters and players, character templates, tips on how to design adventures and an example adventure called \"Rebel Breakout.\"This book, alongside The Star Wars Sourcebook, was later reissued by Fantasy Flight Games as part of Star Wars: The Roleplaying Game 30th Anniversary Edition, being recreated to be an exact replica of the original bookExperience the vast scope and sweeping power of the greatest space fantasy of all time!Struggle against the awesome might of the evil galactic Empire, fly faster-than-light spacecraft, trade blaster fire with Imperial stormtroopers, fight lightsaber duels, and tap the mystic Force which binds all living things together. Explore a galaxy of a billion suns, each with wonders and dangers of its own - a universe of dire peril, where Rebels fight desperately against the eternal might of Imperial oppression.In Star Wars: The Roleplaying Game, you will face overwhelming odds, hard choices, impossible challenges - but if you meet them bravely, you will triumph, for the Force is with you always!Inside STAR WARS: The Roleplaying Game you'll find24 character templates which let you choose a role and start playing quickly.Innovative and sophisticated yet simple rules for blasters, lightsabers, combat, the Force, powers of the Jedi, starship combat and more!How to design thrilling adventures, maintain a Star Wars atmosphere, and keep players excited.An introductory solo adventure; a complete first adventure for 2 to 6 players; and many short adventure ideas that gamemasters can develop themselves.16 full-color pages with memorable pictures taken from the movies, plus many illustrations, some never before published, from Lucasfilm's archives.Get out your dice, get your friends together, get ready - and may the Force be with you, for the fate of the galaxy depends on you!",
+  "title": "Star Wars: The Roleplaying Game"
+}

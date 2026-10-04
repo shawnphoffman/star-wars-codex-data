@@ -1,0 +1,22 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "Rebels: Rebels to the Rescue!",
+  "editions": [
+    {
+      "imprint": "Phoenix International Publications",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-rebels-rebels-to-the-rescue",
+  "title": "Star Wars Rebels: Rebels to the Rescue!"
+}

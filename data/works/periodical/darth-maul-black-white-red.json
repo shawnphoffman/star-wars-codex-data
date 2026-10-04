@@ -25,6 +25,9 @@
   "displayTitle": "Darth Maul: Black, White & Red",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -33
+  },
   "periodical": {
     "publicationKind": "comic"
   },

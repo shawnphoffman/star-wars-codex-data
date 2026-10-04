@@ -30,7 +30,11 @@
       "onsale": "2022-01-04T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "releaseDate": "2022-01-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

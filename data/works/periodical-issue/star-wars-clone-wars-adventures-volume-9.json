@@ -1,5 +1,77 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Fillbach",
+      "role": "writer",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "writer",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "penciler",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "penciler",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "inker",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "inker",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Tony Akins",
+      "role": "colorist",
+      "slug": "tony-akins"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Ronda Pattison",
+      "role": "colorist",
+      "slug": "ronda-pattison"
+    },
+    {
+      "name": "Pamela Rambo",
+      "role": "colorist",
+      "slug": "pamela-rambo"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Matthew Fillbach",
+      "role": "coverArtist",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "coverArtist",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "coverArtist",
+      "slug": "dan-jackson"
+    }
+  ],
   "displayTitle": "Clone Wars Adventures Volume 9",
   "era": "fallOfTheJedi",
   "format": "periodicalIssue",

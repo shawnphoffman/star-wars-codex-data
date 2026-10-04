@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Zack Davisson",
+      "role": "writer",
+      "slug": "zack-davisson"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: Visions",
+  "editions": [
+    {
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2022-10-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-10-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-visions",
+  "synopsis": "The Art of Star Wars: Visions is a book of concept art and process pieces from the animated television series Star Wars: Visions. An expertly crafted, full-color, oversized volume showcasing the creative forces behind the hotly anticipated animated anthology series! Star Wars: Visions, an original series of animated short films, celebrates the Star Wars galaxy through the lens of the world's best Japanese anime creators. Coming in 2021 to Disney+. Dark Horse Books and Lucasfilm invite fans to enjoy the universe of Star Wars from a thrilling new point of view with The Art of Star Wars: Visions.",
+  "title": "The Art of Star Wars: Visions"
+}

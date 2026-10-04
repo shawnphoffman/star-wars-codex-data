@@ -15,6 +15,9 @@
   "displayTitle": "Thrawn",
   "era": "reignOfTheEmpire",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -14
+  },
   "periodical": {
     "publicationKind": "comic"
   },

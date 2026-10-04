@@ -1,0 +1,65 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rodney Thompson",
+      "role": "writer",
+      "slug": "rodney-thompson"
+    },
+    {
+      "name": "J.D. Wiker",
+      "role": "writer",
+      "slug": "jd-wiker"
+    },
+    {
+      "name": "Patrick Stutzman",
+      "role": "writer",
+      "slug": "patrick-stutzman"
+    },
+    {
+      "name": "Gary Astleford",
+      "role": "writer",
+      "slug": "gary-astleford"
+    },
+    {
+      "name": "T. Rob Brown",
+      "role": "writer",
+      "slug": "t-rob-brown"
+    },
+    {
+      "name": "Gonzalo Flores",
+      "role": "coverArtist",
+      "slug": "gonzalo-flores"
+    },
+    {
+      "name": "Gary M. Sarli",
+      "role": "editor",
+      "slug": "gary-m-sarli"
+    },
+    {
+      "name": "Bradley Will",
+      "role": "editor",
+      "slug": "bradley-will"
+    }
+  ],
+  "displayTitle": "The Clone Wars Campaign Guide",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2009-01-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-01-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-clone-wars-campaign-guide",
+  "synopsis": "Bring your Star Wars Roleplaying Game campaign into the epic battles of the Clone Wars.This book includes new information for heroes on both sides of the war, including new talents, feats, prestige classes, and equipment designed to tailor characters to the unique feel of the Clone Wars conflict. More than just information for players, The Clone Wars Campaign Guide provides Gamemasters with descriptions and statistics for starships, vehicles, allies, opponents, and planets and features in-depth information on material drawn from Lucasfilm's new CG animated series, The Clone Wars.",
+  "title": "The Clone Wars Campaign Guide"
+}

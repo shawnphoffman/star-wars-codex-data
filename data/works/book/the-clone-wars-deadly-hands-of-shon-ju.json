@@ -38,11 +38,15 @@
       "onsale": "2010-12-01T00:00:00.000Z"
     }
   ],
+  "era": "fallOfTheJedi",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "releaseDate": "2010-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-clone-wars-deadly-hands-of-shon-ju",
-  "synopsis": "The Clone Wars: Deadly Hands of Shon-Ju is the fifth issue in a series of digest-sized comics based on Star Wars: The Clone Wars television series and is focused on Aayla Secura. It is written by Jeremy Barlow. It was revealed to be in development in the letters section of The Clone Wars 12.",
+  "synopsis": "Behind enemy lines, Jedi Knight Aayla Secura's covert mission is threatened by an encounter with Shon-Ju, a former Padawan turned cult leader. Shon-Ju claims to be after the same Separatist warlord that Aayla was sent to capture, but he also has plenty of reasons to hate the Republic and the Jedi. The Force is with Aayla, but she may need more than her lightsaber against \"The Deadly Hands of Shon-Ju\"!",
   "title": "The Clone Wars: Deadly Hands of Shon-Ju"
 }

@@ -22,9 +22,9 @@
       "slug": "pete-woods"
     },
     {
-      "name": "Vc Joe Sabino",
+      "name": "Joe Sabino",
       "role": "letterer",
-      "slug": "vc-joe-sabino"
+      "slug": "joe-sabino"
     },
     {
       "name": "Israel Silva",
@@ -50,6 +50,7 @@
   },
   "parentWorkSlug": "dark-droids-d-squad",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-12-06T00:00:00.000Z",

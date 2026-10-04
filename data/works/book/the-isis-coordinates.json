@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christopher Kubasik",
+      "role": "writer",
+      "slug": "christopher-kubasik"
+    },
+    {
+      "name": "Jacqueline M. Evans",
+      "role": "artist",
+      "slug": "jacqueline-m-evans"
+    },
+    {
+      "name": "Tom Baxa",
+      "role": "artist",
+      "slug": "tom-baxa"
+    },
+    {
+      "name": "Jennell Jaquays",
+      "role": "coverArtist",
+      "slug": "jennell-jaquays"
+    }
+  ],
+  "displayTitle": "The Isis Coordinates",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1990-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1990-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-isis-coordinates",
+  "synopsis": "The Isis Coordinates is a 1990 roleplaying adventure for use with Star Wars: The Roleplaying Game, published by West End Games. It was written by Christopher Kubasik, the author of several Star Wars guidebooks from the same publishing company.The adventure allows players to defend the secret of a Rebel safe world.An Imperial Survey Corps vessel emerges from hyperspace above an uncharted planet. The survey team begins its sensor sweeps. The lifeforms indicator crackles to life. Habitations are scanned ... a spaceport ... power generators ... landspeeders ... an X-wing fighter ... Rebels!The survey team has stumbled upon a densely-populated Alliance factory world. If they live to reach an Imperial base and report their findings, hundreds of thousands of lives are at peril, and the Alliance will lose over 30 percent of its starfighter manufacturing capacity. Only two things stand between the Imperials and their base - half a galaxy of hyperspace, and a small band of Rebel heroes.OPENING CRAWL:The Isis CoordinatesIn its struggle against the EVIL GALACTICEMPIRE, the Rebel Alliance has establishedmany colonies on worlds far from thegalactic core, worlds which remains hidden fromthe Emperor's ever-probing eyes. As long as theirlocation is kept secret, these worlds serve as navalbases and dockyards for the Rebel fleet as well as safehomes for Rebel agents and their families.There is a branch of the Imperial bureaucracy which directlythreatens the existence of these hidden Rebel worlds. TheImperial Survey Corps (ISC) is charged with the task of traveling thegalaxy and cataloging uncharted star systems. Usually these new starsystems are devoid of life. Other times they contain civilizations ripe tobe taxed and oppressed by the Evil Empire.As yet, no Imperial scout team has stumbled across a system containing anAlliance colony. But since the ISC explores and catalogues a new world every 207minutes, it is only a matter of time before a valuable Rebel colony is discovered byagents of the Empire …",
+  "title": "The Isis Coordinates"
+}

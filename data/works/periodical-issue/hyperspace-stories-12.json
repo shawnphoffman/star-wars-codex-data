@@ -25,6 +25,31 @@
       "name": "Lucas Marangon",
       "role": "coverArtist",
       "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "penciler",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Lucas Marangon",
+      "role": "inker",
+      "slug": "lucas-marangon"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Cary Nord",
+      "role": "coverArtist",
+      "slug": "cary-nord"
     }
   ],
   "displayTitle": "Hyperspace Stories #12",
@@ -35,6 +60,7 @@
   },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "pageCount": 32,
     "publicationKind": "comic"
   },

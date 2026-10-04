@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Michnovetz",
+      "role": "writer",
+      "slug": "matt-michnovetz"
+    },
+    {
+      "name": "Saul Ruiz",
+      "role": "director",
+      "slug": "saul-ruiz"
+    }
+  ],
+  "displayTitle": "Imperial Supercommandos",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "parentWorkSlug": "rebels-season-3",
+  "releaseDate": "2016-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "imperial-supercommandos",
+  "synopsis": "After losing contact to the Protectors of Concord Dawn, Sabine, Ezra and Fenn Rau investigate. They quickly discover that Imperial Mandalorians have taken over the station.",
+  "title": "Imperial Supercommandos"
+}

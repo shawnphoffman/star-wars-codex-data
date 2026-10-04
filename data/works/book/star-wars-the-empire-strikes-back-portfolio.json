@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ralph McQuarrie",
+      "role": "artist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back Portfolio",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1980-07-10T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-07-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-empire-strikes-back-portfolio",
+  "synopsis": "The Star Wars: The Empire Strikes Back Portfolio was a book published by Ballantine Books in 1980. It showcased the concept artwork created by Ralph McQuarrie for The Empire Strikes Back.",
+  "title": "Star Wars: The Empire Strikes Back Portfolio"
+}

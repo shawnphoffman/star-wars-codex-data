@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Martin Skov",
+      "role": "director",
+      "slug": "martin-skov"
+    }
+  ],
   "displayTitle": "Crossing Paths",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-1-s01",

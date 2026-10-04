@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Slavicsek",
+      "role": "writer",
+      "slug": "bill-slavicsek"
+    },
+    {
+      "name": "Daniel Greenberg",
+      "role": "writer",
+      "slug": "daniel-greenberg"
+    },
+    {
+      "name": "Ralph McQuarrie",
+      "role": "coverArtist",
+      "slug": "ralph-mcquarrie"
+    }
+  ],
+  "displayTitle": "Tatooine Manhunt",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1988-05-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1988-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tatooine-manhunt",
+  "synopsis": "Tatooine Manhunt is a Star Wars Legends adventure book for use with Star Wars: The Roleplaying Game. The adventure scenario pits Rebel Alliance agents against bounty hunters in a desperate search for the elusive hero Adar Tallon on the desert planet Tatooine.The Tatooine Manhunt set includes a double-sided color map of the Mos Eisley Cantina and Spaceport, as well as a Star Warriors combat scenario with full-color counters. Tatooine Manhunt was written by Bill Slavicsek and Daniel Greenberg, and published by West End Games in 1988.",
+  "title": "Tatooine Manhunt"
+}

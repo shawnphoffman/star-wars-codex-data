@@ -60,6 +60,9 @@
   "displayTitle": "Adventures: The Clone Wars - Battle Tales #4",
   "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "parentWorkSlug": "star-wars-adventures-the-clone-wars-battle-tales",
   "periodical": {
     "publicationKind": "comic"

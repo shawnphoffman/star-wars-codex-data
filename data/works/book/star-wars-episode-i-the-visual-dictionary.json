@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David West Reynolds",
+      "role": "writer",
+      "slug": "david-west-reynolds"
+    }
+  ],
+  "displayTitle": "Episode I: The Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1999-05-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-episode-i-the-visual-dictionary",
+  "synopsis": "Star Wars: Episode I The Visual Dictionary is the second book in Star Wars Visual Dictionary series. It describes and exhibits the elements of Star Wars: Episode I The Phantom Menace. It was republished as part of Star Wars: The Complete Visual Dictionary",
+  "title": "Star Wars: Episode I: The Visual Dictionary"
+}

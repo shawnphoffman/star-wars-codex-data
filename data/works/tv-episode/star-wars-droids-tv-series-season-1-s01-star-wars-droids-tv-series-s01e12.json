@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Stephenson",
+      "role": "director",
+      "slug": "ken-stephenson"
+    },
+    {
+      "name": "Ben Burtt",
+      "role": "writer",
+      "slug": "ben-burtt"
+    },
+    {
+      "name": "Sharman DiVono",
+      "role": "writer",
+      "slug": "sharman-divono"
+    }
+  ],
   "displayTitle": "Across the Roon Sea",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-droids-tv-series-season-1-s01",

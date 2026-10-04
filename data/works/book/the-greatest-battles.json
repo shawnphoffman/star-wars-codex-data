@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Dana",
+      "role": "writer",
+      "slug": "michael-dana"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "artist",
+      "slug": "bill-hughes"
+    }
+  ],
+  "displayTitle": "The Greatest Battles",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-06-06T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-06-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-greatest-battles",
+  "synopsis": "The Greatest Battles was a children's book released by Golden Books in May 1998. The book included 3D artwork that readers viewed using 3D glasses that came with it. The most famous galactic battles literally pop off the pages of this exciting 3-D book. While wearing the special included 3-D glasses, kids can watch the battles of Yavin, Hoth, Endor, and more come to three-dimensional life as they read about each strategic battle.",
+  "title": "The Greatest Battles"
+}

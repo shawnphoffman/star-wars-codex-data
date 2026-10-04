@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ian Ryan",
+      "role": "writer",
+      "slug": "ian-ryan"
+    },
+    {
+      "name": "Charles Boyd",
+      "role": "writer",
+      "slug": "charles-boyd"
+    },
+    {
+      "name": "Hall Hood",
+      "role": "writer",
+      "slug": "hall-hood"
+    },
+    {
+      "name": "Zach Bush",
+      "role": "writer",
+      "slug": "zach-bush"
+    },
+    {
+      "name": "James Jones",
+      "role": "writer",
+      "slug": "james-jones"
+    }
+  ],
+  "displayTitle": "The Old Republic Encyclopedia",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-10-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-10-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-old-republic-encyclopedia",
+  "synopsis": "Since its release in 2011, the massively multiplayer online role playing game Star Wars: The Old Republic has captivated thousands of gamers and Star Wars fans alike. Now comes the ultimate in-depth guide to the turbulent and fascinating world featured in the game - The Old Republic. Created in full collaboration with LucasArts, this in-depth companion covers the spectrum of characters, weapons, vehicles, events, and planets of Star Wars : The Old Republic. More than just an encyclopedia, it is the ultimate guided tour of the dangerous and mysterious universe found in a galaxy far, far away.",
+  "title": "Star Wars: The Old Republic Encyclopedia"
+}

@@ -1,0 +1,124 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Amy Ratcliffe",
+      "role": "writer",
+      "slug": "amy-ratcliffe"
+    },
+    {
+      "name": "Jen Bartel",
+      "role": "coverArtist",
+      "slug": "jen-bartel"
+    },
+    {
+      "name": "Sara Alfageeh",
+      "role": "artist",
+      "slug": "sara-alfageeh"
+    },
+    {
+      "name": "Jen Bartel",
+      "role": "artist",
+      "slug": "jen-bartel"
+    },
+    {
+      "name": "Eliot Baum",
+      "role": "artist",
+      "slug": "eliot-baum"
+    },
+    {
+      "name": "Geneva Bowers",
+      "role": "artist",
+      "slug": "geneva-bowers"
+    },
+    {
+      "name": "Elsa Charretier",
+      "role": "artist",
+      "slug": "elsa-charretier"
+    },
+    {
+      "name": "Cryssy Cheung",
+      "role": "artist",
+      "slug": "cryssy-cheung"
+    },
+    {
+      "name": "Amy Beth Christenson",
+      "role": "artist",
+      "slug": "amy-beth-christenson"
+    },
+    {
+      "name": "Christina Chung",
+      "role": "artist",
+      "slug": "christina-chung"
+    },
+    {
+      "name": "Little Corvus",
+      "role": "artist",
+      "slug": "little-corvus"
+    },
+    {
+      "name": "Karen Hallion",
+      "role": "artist",
+      "slug": "karen-hallion"
+    },
+    {
+      "name": "Jennifer Aberin Johnson",
+      "role": "artist",
+      "slug": "jennifer-aberin-johnson"
+    },
+    {
+      "name": "Sara Kipin",
+      "role": "artist",
+      "slug": "sara-kipin"
+    },
+    {
+      "name": "Jey Parks",
+      "role": "artist",
+      "slug": "jey-parks"
+    },
+    {
+      "name": "Annie Stoll",
+      "role": "artist",
+      "slug": "annie-stoll"
+    },
+    {
+      "name": "Viv Tanner",
+      "role": "artist",
+      "slug": "viv-tanner"
+    },
+    {
+      "name": "Sarah Wilkinson",
+      "role": "artist",
+      "slug": "sarah-wilkinson"
+    },
+    {
+      "name": "Annie Wu",
+      "role": "artist",
+      "slug": "annie-wu"
+    },
+    {
+      "name": "Alice X. Zhang",
+      "role": "artist",
+      "slug": "alice-x-zhang"
+    }
+  ],
+  "displayTitle": "Women of the Galaxy",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2018-10-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-10-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-women-of-the-galaxy",
+  "title": "Star Wars: Women of the Galaxy"
+}

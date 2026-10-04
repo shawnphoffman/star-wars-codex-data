@@ -6,6 +6,31 @@
       "name": "Dave Land",
       "role": "writer",
       "slug": "dave-land"
+    },
+    {
+      "name": "Davidé Fabbri",
+      "role": "penciler",
+      "slug": "david-fabbri"
+    },
+    {
+      "name": "Christian Dalla Vecchia",
+      "role": "inker",
+      "slug": "christian-dalla-vecchia"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    },
+    {
+      "name": "Steve Dutro",
+      "role": "letterer",
+      "slug": "steve-dutro"
+    },
+    {
+      "name": "Chris Bachalo",
+      "role": "coverArtist",
+      "slug": "chris-bachalo"
     }
   ],
   "displayTitle": "Infinities: The Empire Strikes Back",
@@ -15,7 +40,7 @@
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"
   },
-  "releaseDate": "2003-04-02T00:00:00.000Z",
+  "releaseDate": "2002-07-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "infinities-esb",

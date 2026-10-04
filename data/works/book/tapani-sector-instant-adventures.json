@@ -1,0 +1,55 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "David Ackerman-Gray",
+      "role": "writer",
+      "slug": "david-ackerman-gray"
+    },
+    {
+      "name": "James L. Cambias",
+      "role": "writer",
+      "slug": "james-l-cambias"
+    },
+    {
+      "name": "Anthony P. Russo",
+      "role": "writer",
+      "slug": "anthony-p-russo"
+    },
+    {
+      "name": "Lester Smith",
+      "role": "writer",
+      "slug": "lester-smith"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "editor",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "editor",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Tapani Sector Instant Adventures",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tapani-sector-instant-adventures",
+  "synopsis": "Tapani Sector Instant Adventures is a book for Star Wars: The Roleplaying Game.Contents:IntroductionChapter One: The Mecetti FileChapter Two: The Bacta HeistChapter Three: Lost DestinyChapter Four: Blood InheritanceChapter Five: The Event of the Season",
+  "title": "Tapani Sector Instant Adventures"
+}

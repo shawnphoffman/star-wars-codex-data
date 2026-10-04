@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "role": "writer",
+      "slug": "guillermo-del-toro"
+    },
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "editor",
+      "slug": "jonathan-w-rinzler"
+    }
+  ],
+  "displayTitle": "Frames",
+  "editions": [
+    {
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-01-08T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-01-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-frames",
+  "synopsis": "\"We wanted to make it as big as possible because we really want people to see the images as if they were fine photographs, almost as if we were shifting from cinema to photography.\"―Executive Editor J. W. Rinzler[src]Star Wars: Frames is a book set featuring individual frames selected by George Lucas himself from all six Star Wars films, and was initially released as a limited edition of 1,138 copies personally signed by Lucas on January 8, 2011. It was later re-released as a more affordable, two-volume hardcover set on October 29, 2013.",
+  "title": "Star Wars: Frames"
+}

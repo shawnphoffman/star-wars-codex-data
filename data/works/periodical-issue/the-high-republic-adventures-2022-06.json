@@ -10,6 +10,31 @@
       "name": "Toni Bruno",
       "role": "artist",
       "slug": "toni-bruno"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "penciler",
+      "slug": "harvey-tolibao"
+    },
+    {
+      "name": "Michael Atiyeh",
+      "role": "colorist",
+      "slug": "michael-atiyeh"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Jimmy Betancourt",
+      "role": "letterer",
+      "slug": "jimmy-betancourt"
+    },
+    {
+      "name": "Harvey Tolibao",
+      "role": "coverArtist",
+      "slug": "harvey-tolibao"
     }
   ],
   "displayTitle": "The High Republic Adventures (2022) #06",
@@ -20,6 +45,7 @@
   },
   "parentWorkSlug": "the-high-republic-adventures-2022",
   "periodical": {
+    "imprint": "Dark Horse Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-06-28T00:00:00.000Z",

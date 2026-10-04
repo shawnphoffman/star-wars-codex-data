@@ -1,0 +1,34 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Simpson",
+      "role": "editor",
+      "slug": "robert-simpson"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "coverArtist",
+      "slug": "darren-tan"
+    }
+  ],
+  "displayTitle": "Allies and Adversaries",
+  "editions": [
+    {
+      "imprint": "Fantasy Flight Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-04-18T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-04-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "allies-and-adversaries",
+  "title": "Allies and Adversaries"
+}

@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Lucy Dowling",
+      "role": "editor",
+      "slug": "lucy-dowling"
+    }
+  ],
+  "displayTitle": "Year by Year: A Visual Chronicle",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2010-08-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-08-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-year-by-year-a-visual-chronicle",
+  "synopsis": "FROM THE MOMENT STAR WARS hit movie theaters in 1977, it marked the beginning of a worldwide phenomenon. Now, for the first time, more than three decades of Star Wars is presented in one chronological guide.Produced in collaboration with Lucasfilm and written by renowned Star Wars experts Ryder Windham, Daniel Wallace, and Pablo Hidalgo, Star Wars Year By Year provides a unique real-world timeline of everything Star Wars - from George Lucas's early inspiration to the development of Star Wars spin-offs and merchandise in the 21st century, as well as the impact of the Saga on popular culture and world events. It's the Star Wars real-life Saga like you've never seen it before - painstakingly produced and exhaustively illustrated!",
+  "title": "Star Wars Year by Year: A Visual Chronicle"
+}

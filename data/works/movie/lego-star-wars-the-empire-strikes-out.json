@@ -1,5 +1,12 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Price",
+      "role": "writer",
+      "slug": "michael-price"
+    }
+  ],
   "displayTitle": "LEGO Star Wars: The Empire Strikes Out",
   "format": "movie",
   "movie": {

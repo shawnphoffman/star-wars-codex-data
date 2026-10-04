@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Doug Chiang",
+      "role": "artist",
+      "slug": "doug-chiang"
+    },
+    {
+      "name": "Troy Vigil",
+      "role": "artist",
+      "slug": "troy-vigil"
+    },
+    {
+      "name": "Doug Chiang",
+      "role": "coverArtist",
+      "slug": "doug-chiang"
+    }
+  ],
+  "displayTitle": "The Essential Guide to Vehicles and Vessels",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-guide-to-vehicles-and-vessels",
+  "synopsis": "The second book in Del Rey's Essential Guide series, The Essential Guide to Vehicles and Vessels features an in-depth look at one hundred ships, fighters, and other vehicles from the original trilogy and Expanded Universe, each with its own two-page spread including detailed schematics. The book has a number of errors, some printings notably transposing sketches of the Imperial- and Victory-class Star Destroyers.",
+  "title": "The Essential Guide to Vehicles and Vessels"
+}

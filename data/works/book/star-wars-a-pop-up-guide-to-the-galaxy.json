@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Reinhart",
+      "role": "writer",
+      "slug": "matthew-reinhart"
+    }
+  ],
+  "displayTitle": "A Pop-Up Guide to the Galaxy",
+  "editions": [
+    {
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2007-10-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-10-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-a-pop-up-guide-to-the-galaxy",
+  "title": "Star Wars: A Pop-Up Guide to the Galaxy"
+}

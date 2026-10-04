@@ -1,0 +1,34 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Houlihan",
+      "role": "writer",
+      "slug": "brian-houlihan"
+    },
+    {
+      "name": "Veronica Wagner",
+      "role": "writer",
+      "slug": "veronica-wagner"
+    }
+  ],
+  "displayTitle": "A Sound Storybook Adventure",
+  "editions": [
+    {
+      "imprint": "Phoenix International Publications",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-11-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-11-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-sound-storybook-adventure",
+  "title": "A Sound Storybook Adventure"
+}

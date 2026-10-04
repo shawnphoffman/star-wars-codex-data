@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Murphy",
+      "role": "writer",
+      "slug": "paul-murphy"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "editor",
+      "slug": "peter-m-schweighofer"
+    }
+  ],
+  "displayTitle": "Classic Campaigns",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "classic-campaigns",
+  "synopsis": "Classic Campaigns is a supplement for Star Wars: The Roleplaying Game published by West End Games in 1994. This sourcebook provides two complete campaigns for Star Wars: The Roleplaying Game as well as general insight into running campaigns in the Star Wars universe.Publisher's Summary:\"I've got a bad feeling about this …\"\"Swell,\" you shout as blaster bolts explode around you. \"First pirates attack us, then lizards arrest us, and now we're chasing a bunch of lunatics through an abandoned Imperial garrison base under a sun about to go nova! How come we never get an easy job like blowing up a Death Star or something?\"Your smuggler friend grins slyly. \"Oh, didn't I tell ya …\"It's never been easy being a Rebel … especially when gamemasters have two exciting campaigns to throw at the players. Classic Campaigns presents two Star Wars, first edition favorites completely updated to Star Wars, Second Edition.The first campaign features the adventures of the Long Shot, a modified space yacht that's a perfect base of operations for Rebel adventurers.The second campaign chronicles the efforts of Rebels trying to halt construction on an Imperial resupply base. The fate of the distant Trax sector is at stake!Are your players up to the challenge?",
+  "title": "Classic Campaigns"
+}

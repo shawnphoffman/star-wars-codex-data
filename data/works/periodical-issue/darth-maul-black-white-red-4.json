@@ -37,9 +37,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Andres Mossa",
@@ -60,11 +60,6 @@
       "name": "E.M. Gist",
       "role": "coverArtist",
       "slug": "em-gist"
-    },
-    {
-      "name": "Joe Caramagna",
-      "role": "letterer",
-      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Darth Maul: Black, White & Red #4",
@@ -75,6 +70,7 @@
   },
   "parentWorkSlug": "darth-maul-black-white-red",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2024-07-31T00:00:00.000Z",

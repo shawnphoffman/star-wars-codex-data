@@ -1,6 +1,6 @@
 {
   "bookType": "referenceBook",
-  "canonStatus": "non-canon",
+  "canonStatus": "canon",
   "creators": [
     {
       "name": "Jenn Fujikawa",
@@ -30,6 +30,7 @@
       "onsale": "2026-10-27T00:00:00.000Z"
     }
   ],
+  "era": "newRepublic",
   "format": "book",
   "releaseDate": "2026-10-27T00:00:00.000Z",
   "releaseDisplayState": "upcoming",

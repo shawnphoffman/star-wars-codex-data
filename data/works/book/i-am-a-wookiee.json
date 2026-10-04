@@ -1,0 +1,34 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Geof Smith",
+      "role": "writer",
+      "slug": "geof-smith"
+    },
+    {
+      "name": "Victoria Ying",
+      "role": "artist",
+      "slug": "victoria-ying"
+    }
+  ],
+  "displayTitle": "I Am a Wookiee",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2018-07-24T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "i-am-a-wookiee",
+  "title": "I Am a Wookiee"
+}

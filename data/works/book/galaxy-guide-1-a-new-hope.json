@@ -9,11 +9,26 @@
     }
   ],
   "displayTitle": "Galaxy Guide 1: A New Hope",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431125X"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "087431125X",
+      "kind": "print",
+      "onsale": "1989-01-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
-  "releaseDate": "1989-04-01T00:00:00.000Z",
+  "releaseDate": "1989-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "galaxy-guide-1-a-new-hope",

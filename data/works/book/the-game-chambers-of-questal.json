@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Robert Kern",
+      "role": "writer",
+      "slug": "robert-kern"
+    },
+    {
+      "name": "David R. Deitrick",
+      "role": "artist",
+      "slug": "david-r-deitrick"
+    },
+    {
+      "name": "Jeff McElroy",
+      "role": "artist",
+      "slug": "jeff-mcelroy"
+    }
+  ],
+  "displayTitle": "The Game Chambers of Questal",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1990-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1990-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-game-chambers-of-questal",
+  "synopsis": "The Game Chambers of Questal is an adventure game for Star Wars: The Roleplaying Game written by Robert Kern and published by West End Games in 1990.The adventure background is to find, without Rebel Alliance support, a missing Rebel agent that was last seen in the planet Questal. The events lead to the characters trying to escape from a kind of killer amusement park controlled by an Imperial Moff.This adventure was later re-published in Classic Adventures: Volume Five by West End Games in 1998.Publisher's Summary:Rebel agent Tiree is missing. He never made it to the rendezvous point. Alliance command cannot spare the men to launch a full-scale search; Tiree is on his own. But one group of heroes owes Tiree more than they can ever repay - and they vow to find him.Retracing Tiree's trail, the Rebels go to the planet Questal. Tiree was on an unsanctioned mission there, hot on the trail of a rumored weapon of fearful proportions. Then he disappeared.Now something is hunting the Rebels.Can they avoid Tiree's fate, rescue their friend - and save the Rebel Alliance?",
+  "title": "The Game Chambers of Questal"
+}

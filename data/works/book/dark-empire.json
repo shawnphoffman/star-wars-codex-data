@@ -24,6 +24,10 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "endYear": 11,
+    "startYear": 10
+  },
   "releaseDate": "2005-01-01T12:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,5 +1,37 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Howard",
+      "role": "producer",
+      "slug": "ron-howard"
+    },
+    {
+      "name": "Brian Grazer",
+      "role": "producer",
+      "slug": "brian-grazer"
+    },
+    {
+      "name": "Justin Wilkes",
+      "role": "producer",
+      "slug": "justin-wilkes"
+    },
+    {
+      "name": "Kathleen Kennedy",
+      "role": "producer",
+      "slug": "kathleen-kennedy"
+    },
+    {
+      "name": "Michelle Rejwan",
+      "role": "producer",
+      "slug": "michelle-rejwan"
+    },
+    {
+      "name": "Lawrence Kasdan",
+      "role": "director",
+      "slug": "lawrence-kasdan"
+    }
+  ],
   "displayTitle": "Light & Magic Season 1",
   "format": "tvSeason",
   "parentWorkSlug": "light-and-magic",

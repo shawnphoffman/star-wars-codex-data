@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Salisbury",
+      "role": "writer",
+      "slug": "mark-salisbury"
+    }
+  ],
+  "displayTitle": "The Moviemaking Magic of Star Wars: Creatures & Aliens",
+  "editions": [
+    {
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-05-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-moviemaking-magic-of-star-wars-creatures-aliens",
+  "synopsis": "Go behind-the-scenes of the biggest movie franchise of all time in this immersive and interactive book to see how favorite characters - Chewbacca, Yoda, Jabba and more - were created from concept to screen. This collectible book includes 20 special interactive elements, including six-page booklets, accordion folds, and flaps that reveal the magic behind the movie with concept sketches, molds, digital imagery and more! Includes creatures and aliens from all 10 Star Wars films from A New Hope to Solo: A Star Wars Story",
+  "title": "The Moviemaking Magic of Star Wars: Creatures & Aliens"
+}

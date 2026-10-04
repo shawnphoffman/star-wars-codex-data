@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Peskimo",
+      "role": "artist",
+      "slug": "peskimo"
+    }
+  ],
+  "displayTitle": "Block: Over 100 Words Every Fan Should Know",
+  "editions": [
+    {
+      "imprint": "Abrams Appleseed",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2018-05-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-05-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-block-over-100-words-every-fan-should-know",
+  "synopsis": "The world of Star Wars is rich with content, from its iconic characters to its stunning locations. This sixth title in the Abrams Block Book series takes readers on a tour through Star Wars, featuring popular characters and moments from all films, up to and including Rogue One.As in previous Block Book titles, Star Wars Block includes die-cut shapes on every spread and the charming art of British design team Peskimo. Additionally, each spread features important words every Star Wars fan, from the littlest Skywalker to the most seasoned Kenobi, should know.",
+  "title": "Star Wars Block: Over 100 Words Every Fan Should Know"
+}

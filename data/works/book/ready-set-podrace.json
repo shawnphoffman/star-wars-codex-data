@@ -1,0 +1,35 @@
+{
+  "bookType": "juniorReader",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Laura Gilbert",
+      "role": "editor",
+      "slug": "laura-gilbert"
+    }
+  ],
+  "displayTitle": "Ready, Set, Podrace!",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2007-09-17T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-09-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ready-set-podrace",
+  "synopsis": "Ready, Set, Podrace! is a young readers book written by Simon Beecroft that was published by DK at reading level for beginners. The UK version was titled Podracers, Go!.",
+  "title": "Ready, Set, Podrace!"
+}

@@ -17,9 +17,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Charles Soule",
@@ -38,12 +38,17 @@
     }
   ],
   "displayTitle": "Legacy of Vader (2025) #2",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "legacy-of-vader",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2025-03-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "legacy-of-vader-2025-2",
   "title": "Legacy of Vader (2025) #2"
 }

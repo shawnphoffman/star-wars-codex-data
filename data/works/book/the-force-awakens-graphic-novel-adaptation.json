@@ -1,0 +1,59 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alessandro Ferrari",
+      "role": "writer",
+      "slug": "alessandro-ferrari"
+    },
+    {
+      "name": "Alessandro Pastrovicchio",
+      "role": "penciler",
+      "slug": "alessandro-pastrovicchio"
+    },
+    {
+      "name": "Davide Turotti",
+      "role": "penciler",
+      "slug": "davide-turotti"
+    },
+    {
+      "name": "Igor Chimisso",
+      "role": "penciler",
+      "slug": "igor-chimisso"
+    },
+    {
+      "name": "Eric Jones",
+      "role": "coverArtist",
+      "slug": "eric-jones"
+    },
+    {
+      "name": "Justin Eisinger",
+      "role": "editor",
+      "slug": "justin-eisinger"
+    },
+    {
+      "name": "Alonzo Simon",
+      "role": "editor",
+      "slug": "alonzo-simon"
+    }
+  ],
+  "displayTitle": "The Force Awakens Graphic Novel Adaptation",
+  "editions": [
+    {
+      "imprint": "IDW Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-08-29T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-force-awakens-graphic-novel-adaptation",
+  "title": "The Force Awakens Graphic Novel Adaptation"
+}

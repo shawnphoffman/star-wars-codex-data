@@ -1,5 +1,17 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Michael Price",
+      "role": "writer",
+      "slug": "michael-price"
+    }
+  ],
   "displayTitle": "Exit from Endor",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-droid-tales-season-1-s01",

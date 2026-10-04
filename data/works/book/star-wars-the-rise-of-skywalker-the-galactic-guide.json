@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Matt Jones",
+      "role": "writer",
+      "slug": "matt-jones"
+    }
+  ],
+  "displayTitle": "The Rise of Skywalker: The Galactic Guide",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2019-12-20T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-12-20T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-rise-of-skywalker-the-galactic-guide",
+  "synopsis": "Star Wars: The Rise of Skywalker: The Official Guide is a 96-page informative guide to Star Wars: The Rise of Skywalker for younger fans, revealing the characters, creatures, droids, locations, and technology from the new film. Packed with images and information, it's the perfect companion for those who want to relive the movie outside of the theater.",
+  "title": "Star Wars: The Rise of Skywalker: The Galactic Guide"
+}

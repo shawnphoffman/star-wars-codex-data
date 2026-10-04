@@ -1,5 +1,27 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ken Stephenson",
+      "role": "director",
+      "slug": "ken-stephenson"
+    },
+    {
+      "name": "Ben Burtt",
+      "role": "writer",
+      "slug": "ben-burtt"
+    },
+    {
+      "name": "Gordon Kent",
+      "role": "writer",
+      "slug": "gordon-kent"
+    },
+    {
+      "name": "Peter Sauder",
+      "role": "writer",
+      "slug": "peter-sauder"
+    }
+  ],
   "displayTitle": "The Roon Games",
   "format": "tvEpisode",
   "parentWorkSlug": "star-wars-droids-tv-series-season-1-s01",

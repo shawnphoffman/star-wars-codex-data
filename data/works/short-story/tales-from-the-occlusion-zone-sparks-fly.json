@@ -1,0 +1,25 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lydia Kang",
+      "role": "writer",
+      "slug": "lydia-kang"
+    },
+    {
+      "name": "Jake Lunt Davies",
+      "role": "artist",
+      "slug": "jake-lunt-davies"
+    }
+  ],
+  "displayTitle": "Tales from the Occlusion Zone: Sparks Fly",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2025-02-25T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-from-the-occlusion-zone-sparks-fly",
+  "title": "Tales from the Occlusion Zone: Sparks Fly"
+}

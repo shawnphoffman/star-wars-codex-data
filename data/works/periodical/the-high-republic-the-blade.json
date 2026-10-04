@@ -65,6 +65,9 @@
   "displayTitle": "The High Republic: The Blade",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -382
+  },
   "periodical": {
     "publicationKind": "comic"
   },

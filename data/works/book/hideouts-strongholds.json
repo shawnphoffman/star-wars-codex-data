@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Sterling Hershey",
+      "role": "writer",
+      "slug": "sterling-hershey"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "editor",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Hideouts & Strongholds",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1998-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hideouts-strongholds",
+  "synopsis": "Hideouts & Strongholds is a paperback supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Sterling Hershey and published in 1998.The book is a detailed look at twenty different bases; each is presented as a specific example of a general type, allowing the gamemaster to adjust them as needed for their campaign. Also included are detailed rules allowing characters to build or modify bases for their own use.",
+  "title": "Hideouts & Strongholds"
+}

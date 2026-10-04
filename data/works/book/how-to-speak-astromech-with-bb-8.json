@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "JAKe",
+      "role": "artist",
+      "slug": "jake"
+    }
+  ],
+  "displayTitle": "How to Speak Astromech with BB-8",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-04-21T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-04-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "how-to-speak-astromech-with-bb-8",
+  "title": "How to Speak Astromech with BB-8"
+}

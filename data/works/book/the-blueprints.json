@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jonathan W. Rinzler",
+      "role": "writer",
+      "slug": "jonathan-w-rinzler"
+    }
+  ],
+  "displayTitle": "The Blueprints",
+  "editions": [
+    {
+      "imprint": "Epic Ink",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-09-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-09-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-blueprints",
+  "synopsis": "Star Wars: The Blueprints gives an all-access pass into the Lucasfilm Archives to unveil the original technical drawings of the galaxy far, far away.With more than 250 blueprints, 500 photographs and illustrations, and ten stunning gatefolds, Star Wars: The Blueprints is a deluxe volume that reveals the work of the engineers, designers, and artists who dreamed up the look and feel of the Star Wars universe.",
+  "title": "The Blueprints"
+}

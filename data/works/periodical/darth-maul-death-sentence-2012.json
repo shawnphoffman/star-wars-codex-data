@@ -35,6 +35,9 @@
   "displayTitle": "Darth Maul: Death Sentence",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "periodical": {
     "publicationKind": "comic"
   },

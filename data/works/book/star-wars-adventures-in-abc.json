@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Anthony Daniels",
+      "role": "narrator",
+      "slug": "anthony-daniels"
+    },
+    {
+      "name": "Ted Kryczko",
+      "role": "producer",
+      "slug": "ted-kryczko"
+    }
+  ],
+  "displayTitle": "Adventures in ABC",
+  "editions": [
+    {
+      "imprint": "Buena Vista Records",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1984-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1984-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-in-abc",
+  "synopsis": "Star Wars: Adventures in ABC was a book and cassette tape set aimed at younger readers. Each page showed a letter of the alphabet and a character, animal or vehicle whose name starts with that letter, along with a short poem about the subject. The audio tape was co-narrated by veteran voice actor William Woodson and Anthony Daniels as C-3PO. The book's back cover called it \"A Star Wars Adventure in Learning Fun.\" Another book in this series was Star Wars Adventures in Colors and Shapes.",
+  "title": "Star Wars Adventures in ABC"
+}

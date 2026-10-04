@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Keith Megay",
+      "role": "coverArtist",
+      "slug": "keith-megay"
+    },
+    {
+      "name": "Kjersti Egerdahl",
+      "role": "editor",
+      "slug": "kjersti-egerdahl"
+    }
+  ],
+  "displayTitle": "The Ultimate Action Figure Collection",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-11-14T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-11-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-ultimate-action-figure-collection",
+  "synopsis": "Here at last is the complete and definitive collection of the more than 2,500 Star Wars® action figures produced over the last 35 years. Fans and collectors can finally trace the evolution of each character in toy form from the time of their first appearance through the designs of today, with pages of amazing and inventive variations crafted to tell the stories of Luke Skywalker, Darth Maul, and literally hundreds more. Compiled by Stephen J. Sansweet, owner of the world's largest private collection of Star Wars memorabilia, the book also showcases and details the rare, popular, forgotten, and beloved figures coveted by fans the world over, drawing figures from the feature film, video game, and cartoon realms of the vast Star Wars universe.",
+  "title": "Star Wars: The Ultimate Action Figure Collection"
+}

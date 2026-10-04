@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Daniel Erickson",
+      "role": "writer",
+      "slug": "daniel-erickson"
+    },
+    {
+      "name": "Frank Parisi",
+      "role": "writer",
+      "slug": "frank-parisi"
+    },
+    {
+      "name": "Marek Okoń",
+      "role": "coverArtist",
+      "slug": "marek-oko"
+    }
+  ],
+  "displayTitle": "The Art and Making of Star Wars: The Old Republic",
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2011-11-16T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-11-16T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-and-making-of-star-wars-the-old-republic",
+  "synopsis": "In Star Wars: The Old Republic, players must choose sides in a war like no other. Taking on the roles of Jedi, Sith, bounty hunters, and many others, players shape the course of galactic history as they battle, befriend, and betray one another. Drawn by the light or dark side of the Force, each individual in this genre-changing, massively multiplayer online game has a unique story to unfold. With new worlds to explore, characters to inhabit, and technology to experience, the possibilities are endless.Telling the story of the game's development, The Art and Making of Star Wars: The Old Republic goes behind the scenes to chronicle the road that lead to this groundbreaking step forward in online entertainment. In-depth interviews with the team behind the game - including the artists, animators, and story and sound departments - illuminate the stunning concept and final designs included within. For the first time, experience The Old Republic from the point of view of its creators with this breathtaking collection of art and design.",
+  "title": "The Art and Making of Star Wars: The Old Republic"
+}

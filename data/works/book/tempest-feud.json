@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeff Grubb",
+      "role": "writer",
+      "slug": "jeff-grubb"
+    },
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    },
+    {
+      "name": "Christopher Perkins",
+      "role": "editor",
+      "slug": "christopher-perkins"
+    },
+    {
+      "name": "Duane Manwell",
+      "role": "editor",
+      "slug": "duane-manwell"
+    }
+  ],
+  "displayTitle": "Tempest Feud",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2002-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tempest-feud",
+  "synopsis": "A virulent plague sweeps over the planet Endregaad, forcing the Corporate Sector Authority to quarantine the stricken world with a planetwide blockade. A mission of mercy and a desperate search lead heroes to the Hutt homeworld, where they discover an even greater scourge spreading throughout the galaxy.This stand-alone adventure is for 9th-level heroes.• Embroils the heroes in various dealings with the Hutts.• Explores several locations across Hutt space, including Nar Shaddaa, the Smuggler's Moon.• Introduces new Hutt droids and Hutt battle armor.• Features new starships, including one for the heroes--complete with a deckplan.To use this adventure, a Gamemaster also needs the Star Wars Roleplaying Game.",
+  "title": "Tempest Feud"
+}

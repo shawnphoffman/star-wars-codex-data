@@ -32,9 +32,9 @@
       "slug": "mark-paniccia"
     },
     {
-      "name": "Vc Joe Caramagna",
+      "name": "Joe Caramagna",
       "role": "letterer",
-      "slug": "vc-joe-caramagna"
+      "slug": "joe-caramagna"
     },
     {
       "name": "Salvador Larroca",
@@ -55,11 +55,6 @@
       "name": "Phil Noto",
       "role": "coverArtist",
       "slug": "phil-noto"
-    },
-    {
-      "name": "Joe Caramagna",
-      "role": "letterer",
-      "slug": "joe-caramagna"
     }
   ],
   "displayTitle": "Obi-Wan Kenobi #1",
@@ -70,6 +65,7 @@
   },
   "parentWorkSlug": "obi-wan-kenobi-comics",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2023-09-13T00:00:00.000Z",

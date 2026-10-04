@@ -1,7 +1,11 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Adventures (2020) #02 - The Obstacle Course part 2",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "star-wars-adventures",
   "periodical": {
     "publicationKind": "comic"

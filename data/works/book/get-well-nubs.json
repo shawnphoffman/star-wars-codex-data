@@ -1,6 +1,13 @@
 {
   "bookType": "juniorReader",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    }
+  ],
   "displayTitle": "Get Well, Nubs!",
   "editionIds": [
     {

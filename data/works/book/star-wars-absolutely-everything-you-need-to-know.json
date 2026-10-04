@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Adam Bray",
+      "role": "writer",
+      "slug": "adam-bray"
+    },
+    {
+      "name": "Kerrie Dougherty",
+      "role": "writer",
+      "slug": "kerrie-dougherty"
+    },
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Absolutely Everything You Need to Know",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-09-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-absolutely-everything-you-need-to-know",
+  "synopsis": "Star Wars: Absolutely Everything You Need to Know is a Dorling Kindersley reference title and part of the Journey to Star Wars: The Force Awakens initiative.[2] The 200-page title was published on September 4, 2015 and provides facts about the Star Wars universe such as the oldest Jedi and a list of all owners of the Millennium Falcon.While the title was written in part by one of the same writers as Ultimate Star Wars, Adam Bray, the two projects are described as being \"very different.\" Readers will find \"very little common information between the two\" as \"Absolutely Everything highlights anecdotal, quirky and obscure facts.\"[3] On October 3, 2017, the title was followed by Star Wars: Absolutely Everything You Need to Know, Updated and Expanded.Star Wars®: Absolutely Everything You Need to Know explores the world of Star Wars through lively lists, interesting facts, and questions and answers via a highly engaging infographic design. Whether it's a chart of who is the oldest Jedi, a list of all the owners of the Millennium Falcon, or a diagram showing all the Jedi Yoda has trained, this guide will excite readers of all ages and provide facts they never knew about the Star Wars Galaxy.While information from this reference is treated as canon for Holocron purposes,[4] the book also contains the following disclaimer in the back:In 2014 Lucasfilm reclassified what is considered canon in the Star Wars universe. Star Wars: Absolutely Everything You Need to Know draws mostly upon information from the Expanded Universe that Lucasfilm now considers to be \"Legends\"―that is, stories beyond the original six films and the TV shows Star Wars: The Clone Wars and Star Wars Rebels.",
+  "title": "Star Wars: Absolutely Everything You Need to Know"
+}

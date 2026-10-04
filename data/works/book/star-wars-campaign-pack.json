@@ -1,0 +1,23 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "displayTitle": "Campaign Pack",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1988-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1988-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-campaign-pack",
+  "synopsis": "The Star Wars Campaign Pack is a gamemaster accessory for use with Star Wars: The Roleplaying Game. The supplement includes adventure scenarios featuring the Rebel Alliance starship Long Shot and a Star Warriors combat scenario, as well as full-color floor plans of the Long Shot and a Gamemaster Screen. The Star Wars Campaign Pack was written by Paul Murphy and published by West End Games in 1988. Its content was later incorporated into the 1994 supplement Classic Campaigns.",
+  "title": "Star Wars Campaign Pack"
+}

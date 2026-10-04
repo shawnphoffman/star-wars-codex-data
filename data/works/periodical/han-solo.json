@@ -15,6 +15,9 @@
   "displayTitle": "Han Solo",
   "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

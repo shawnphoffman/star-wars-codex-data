@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "Fascinating Facts",
+  "editions": [
+    {
+      "imprint": "Portable Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-10-13T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-10-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fascinating-facts",
+  "synopsis": "An insider's guide to little-known facts from all nine films of the Skywalker Saga.Star Wars: Fascinating Facts is a compendium of hundreds of little-known facts about all nine episodes in the Skywalker Saga - from behind-the-scenes on-set tidbits to stories about how the tale of Star Wars was created. Profiles of important characters and early drafts of scripts show what might have been, details of how famous scenes were filmed, and other firsthand accounts from cast and crew members.",
+  "title": "Fascinating Facts"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Grace Baranowski",
+      "role": "writer",
+      "slug": "grace-baranowski"
+    },
+    {
+      "name": "TomatoFarm",
+      "role": "artist",
+      "slug": "tomatofarm"
+    }
+  ],
+  "displayTitle": "The Mandalorian: Grogu's Journey",
+  "editions": [
+    {
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2022-06-21T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-06-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-grogus-journey",
+  "synopsis": "The Mandalorian: Grogu's Journey is a children's storybook by Grace Baranowski. The book adapts the seasons one and two of the Disney+ series The Mandalorian and features sound effect buttons featuring various characters from the series. Join the Mandalorian and Grogu on their journey through the galaxy in this interactive book with four sounds from the first two seasons of the hit show The Mandalorian. This is the Way! In a galaxy far, far, away a Mandalorian bounty hunter is sent to collect a Force-wielding child. Captivated by the small being, the Mandalorian opts to protect the Child rather than return him to the mysterious Client. The unlikely pair then set off on an intergalactic adventure, running into bounty hunters, assassin droids, Imperial officers, and more on their journey to reunite the Child with his kind - the Jedi! With fan favorites including Moff Gideon, Bo-Katan, and Ahsoka Tano, Star Wars fans of all ages will enjoy reliving their adventures in this interactive book with sound buttons that play four distinct sounds from the first two seasons of the hit show The Mandalorian.",
+  "title": "The Mandalorian: Grogu's Journey"
+}

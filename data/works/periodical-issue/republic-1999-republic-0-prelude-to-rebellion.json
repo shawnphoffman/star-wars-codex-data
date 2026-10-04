@@ -1,0 +1,31 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Peet Janes",
+      "role": "writer",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "John Nadeau",
+      "role": "penciler",
+      "slug": "john-nadeau"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "inker",
+      "slug": "jordi-ensign"
+    }
+  ],
+  "displayTitle": "Republic #0: Prelude to Rebellion",
+  "format": "periodicalIssue",
+  "parentWorkSlug": "republic-1999",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-07-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "republic-1999-republic-0-prelude-to-rebellion",
+  "title": "Republic #0: Prelude to Rebellion"
+}

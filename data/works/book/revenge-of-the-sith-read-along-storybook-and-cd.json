@@ -1,0 +1,40 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    },
+    {
+      "name": "Michael D. Hanks",
+      "role": "narrator",
+      "slug": "michael-d-hanks"
+    },
+    {
+      "name": "Randy Thornton",
+      "role": "producer",
+      "slug": "randy-thornton"
+    }
+  ],
+  "displayTitle": "Revenge of the Sith Read-Along Storybook and CD",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-03-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-03-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "revenge-of-the-sith-read-along-storybook-and-cd",
+  "synopsis": "Relive all of the excitement of Star Wars: Episode III Revenge of the Sith in this illustrated storybook-and-CD set.",
+  "title": "Revenge of the Sith Read-Along Storybook and CD"
+}

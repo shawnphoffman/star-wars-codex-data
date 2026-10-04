@@ -1,0 +1,30 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Treasury: The Original Trilogy",
+  "editions": [
+    {
+      "imprint": "Egmont",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-11-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-11-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-treasury-the-original-trilogy",
+  "synopsis": "Everyone's favorite tale of good versus evil takes on a whole new look in this graphic novel! Join Luke Skywalker, Han Solo, Princess Leia, Darth Vader, and the rest of the heroes and villains from a galaxy far, far away in this graphic novel collection that retells the original three \"Star Wars\" films: \"A New Hope,\" \"The Empire Strikes Back,\" and \"Return of the Jedi.\" You'll experience the saga in a way you never have before!",
+  "title": "Star Wars Treasury: The Original Trilogy"
+}

@@ -1,0 +1,29 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Geof Smith",
+      "role": "writer",
+      "slug": "geof-smith"
+    }
+  ],
+  "displayTitle": "Revenge of the Sith (Little Golden Book)",
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-07-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-07-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-revenge-of-the-sith-little-golden-book",
+  "title": "Star Wars: Revenge of the Sith (Little Golden Book)"
+}

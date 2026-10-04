@@ -30,6 +30,9 @@
   "displayTitle": "The High Republic: Trail of Shadows",
   "era": "highRepublic",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -230
+  },
   "periodical": {
     "publicationKind": "comic"
   },

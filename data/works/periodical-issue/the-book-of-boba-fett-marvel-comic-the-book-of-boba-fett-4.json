@@ -15,6 +15,26 @@
       "name": "Felipe Massafera",
       "role": "coverArtist",
       "slug": "felipe-massafera"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "The Book of Boba Fett #4",

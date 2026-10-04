@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "The Ultimate Visual Guide: Special Edition",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2007-05-03T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2007-05-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-ultimate-visual-guide-special-edition",
+  "synopsis": "The Star Wars: The Ultimate Visual Guide: Special Edition is a reference book released by Dorling Kindersley on March 19, 2007 and written by Ryder Windham and Daniel Wallace. It is an expanded version of the first edition.The definitive companion to the entire Star Wars phenomenon, in a special updated edition: Star Wars: The Ultimate Visual Guide uncovers the full story of the amazing Star Wars saga, with more than 1,000 images from the movies, cartoons, comics, and novels, along with merchandise, behind-the-scenes photography, and much more! This Special Edition features brand-new overviews of the latest comic books, new information on merchandise, as well as a special feature on fan Celebrations.",
+  "title": "Star Wars: The Ultimate Visual Guide: Special Edition"
+}

@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Anthony Daniels",
+      "role": "narrator",
+      "slug": "anthony-daniels"
+    },
+    {
+      "name": "Ted Kryczko",
+      "role": "producer",
+      "slug": "ted-kryczko"
+    }
+  ],
+  "displayTitle": "Adventures in Colors and Shapes",
+  "editions": [
+    {
+      "imprint": "Buena Vista Records",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1984-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1984-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-adventures-in-colors-and-shapes",
+  "synopsis": "Star Wars Adventures in Colors and Shapes is a read-along book in the Star Wars Discovery Series. The story involves the Rebel Alliance droids C-3PO and R2-D2 searching for a Fulstar plate of the correct color and shape to help Han Solo complete repairs on the Millennium Falcon. The book was published by Buena Vista Records in 1984, and released in both 33 1⁄3 RPM and cassette tape formats, with narration provided by Anthony Daniels. C-3PO and R2-D2 try to help Han Solo and Chewbacca repair the Millennium Falcon for a Rebel supply run by finding a replacement Fulstar plate, but Threepio keeps getting plates in the wrong color and shape.",
+  "title": "Star Wars Adventures in Colors and Shapes"
+}

@@ -1,0 +1,65 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tim Cox",
+      "role": "writer",
+      "slug": "tim-cox"
+    },
+    {
+      "name": "Tim Huckelberry",
+      "role": "writer",
+      "slug": "tim-huckelberry"
+    },
+    {
+      "name": "Christopher Hunt",
+      "role": "writer",
+      "slug": "christopher-hunt"
+    },
+    {
+      "name": "Phil Maiewski",
+      "role": "writer",
+      "slug": "phil-maiewski"
+    },
+    {
+      "name": "Jason Marker",
+      "role": "writer",
+      "slug": "jason-marker"
+    },
+    {
+      "name": "Kevin Thomas Schluter",
+      "role": "writer",
+      "slug": "kevin-thomas-schluter"
+    },
+    {
+      "name": "Darryl Isaacs",
+      "role": "writer",
+      "slug": "darryl-isaacs"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "coverArtist",
+      "slug": "darren-tan"
+    }
+  ],
+  "displayTitle": "Starships and Speeders",
+  "editions": [
+    {
+      "imprint": "Fantasy Flight Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-02-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-02-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starships-and-speeders",
+  "synopsis": "Starships and Speeders is a sourcebook for Fantasy Flight Games' Star Wars roleplaying game system, featuring brand-new source material compatible with each of Fantasy Flight Games' three Star Wars roleplaying lines. The book adds vehicles and re-lists existing materialJump to Hyperspace with Starships and Speeders, the essential collection of vehicles for Star Wars Roleplaying!This 144-page sourcebook collects ships from all three Star Wars Roleplaying game lines and introduces a number of vehicles never before profiled. In addition to the crafts themselves, players and GMs will find advice and adventure seeds to help integrate each vehicle into their games. With more than 130 vehicles ranging from civilian speeders to mighty battleships, you'll find the perfect vessel for any challenge that may arise!",
+  "title": "Starships and Speeders"
+}

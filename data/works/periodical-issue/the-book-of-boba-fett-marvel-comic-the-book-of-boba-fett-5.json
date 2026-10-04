@@ -10,6 +10,41 @@
       "name": "Will Sliney",
       "role": "penciler",
       "slug": "will-sliney"
+    },
+    {
+      "name": "Adi Granov",
+      "role": "coverArtist",
+      "slug": "adi-granov"
+    },
+    {
+      "name": "Tamra Bonvillain",
+      "role": "coverArtist",
+      "slug": "tamra-bonvillain"
+    },
+    {
+      "name": "Rickie Yagawa",
+      "role": "coverArtist",
+      "slug": "rickie-yagawa"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Will Sliney",
+      "role": "inker",
+      "slug": "will-sliney"
+    },
+    {
+      "name": "Michael Basso",
+      "role": "editor",
+      "slug": "michael-basso"
     }
   ],
   "displayTitle": "The Book of Boba Fett #5",

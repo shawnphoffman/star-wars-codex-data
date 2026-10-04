@@ -10,6 +10,31 @@
       "name": "Paul Fry",
       "role": "artist",
       "slug": "paul-fry"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "penciler",
+      "slug": "paul-fry"
+    },
+    {
+      "name": "Paul Fry",
+      "role": "inker",
+      "slug": "paul-fry"
+    },
+    {
+      "name": "David Lopez",
+      "role": "colorist",
+      "slug": "david-lopez"
+    },
+    {
+      "name": "Travis Lanham",
+      "role": "letterer",
+      "slug": "travis-lanham"
+    },
+    {
+      "name": "Dan Brown",
+      "role": "coverArtist",
+      "slug": "dan-brown"
     }
   ],
   "displayTitle": "Return of the Jedi: Max Rebo #1",

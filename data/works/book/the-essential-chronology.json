@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    },
+    {
+      "name": "Bill Hughes",
+      "role": "artist",
+      "slug": "bill-hughes"
+    }
+  ],
+  "displayTitle": "The Essential Chronology",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2000-04-04T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-04-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-chronology",
+  "synopsis": "The Essential Chronology is a reference book published by Del Rey, the sixth book in the Essential Guide series. It was written by Kevin J. Anderson and Daniel Wallace, and illustrated by Bill Hughes. It was first published April 4, 2000.The book provides an in-universe perspective on the complete history of the Star Wars saga, from pre-Republic history to just before the Yuuzhan Vong invasion, drawing upon both well-known and obscure sources to tie together and reconcile the various Expanded Universe tales. However, due to the book's date of publication, little is mentioned about the Prequel era and the Clone Wars other than the events of the Phantom Menace.An updated book has been published, The New Essential Chronology in 2005.The story is one that began many thousands of years before the birth of Luke Skywalker...or Anakin Skywalker...or even Obi-Wan Kenobi.It spans galaxies, encompasses kingdoms and powerful dynasties, chronicles wars, and charts the rise and fall of individuals who changed the course of their times. Now, at last, the many strands of this extraordinary saga are drawn together - from the original movies, from the novels, from every verifiable source - and tied together in one, comprehensive volume.Learn about the Great Hyperspace War that divided the ancient Jedi KnightsDiscover the colorful adventures of the rogues heroes Han Solo and Lando CalrissianExperience the overthrow of the Empire, the birth of the New Republic, the founding of Skywalker's Jedi academy, the marriage of Han Solo and Princess Leia Organa, and much more!",
+  "title": "The Essential Chronology"
+}

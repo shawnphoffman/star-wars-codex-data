@@ -1,5 +1,47 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Motz",
+      "role": "showrunner",
+      "slug": "bill-motz"
+    },
+    {
+      "name": "Bob Roth",
+      "role": "showrunner",
+      "slug": "bob-roth"
+    },
+    {
+      "name": "Carrie Beck",
+      "role": "producer",
+      "slug": "carrie-beck"
+    },
+    {
+      "name": "Jake Blais",
+      "role": "producer",
+      "slug": "jake-blais"
+    },
+    {
+      "name": "Jason Cosler",
+      "role": "producer",
+      "slug": "jason-cosler"
+    },
+    {
+      "name": "Torsten Jacobson",
+      "role": "producer",
+      "slug": "torsten-jacobson"
+    },
+    {
+      "name": "John McCormack",
+      "role": "producer",
+      "slug": "john-mccormack"
+    },
+    {
+      "name": "Jill Wilfert",
+      "role": "producer",
+      "slug": "jill-wilfert"
+    }
+  ],
   "displayTitle": "LEGO Star Wars: The Freemaker Adventures",
   "format": "tvSeries",
   "releaseDate": "2016-06-20T00:00:00.000Z",

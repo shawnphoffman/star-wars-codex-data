@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Nigel D. Findley",
+      "role": "writer",
+      "slug": "nigel-d-findley"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Dan Day",
+      "role": "artist",
+      "slug": "dan-day"
+    },
+    {
+      "name": "David Day",
+      "role": "artist",
+      "slug": "david-day"
+    }
+  ],
+  "displayTitle": "Goroth: Slave of the Empire",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-01-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-01-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "goroth-slave-of-the-empire",
+  "synopsis": "Goroth: Slave of the Empire is a book for Star Wars: The Roleplaying Game written by Nigel D. Findley. It was published by West End Games in 1995.Four thousand years ago, Goroth was a beautiful trade world. Caught between two warring factions that coveted its resources, Goroth was too difficult to occupy, yet too valuable to remain free. The solution was destruction. Now the native Gorothites are beginning to rebuild their civilization, but they are caught between The Empire and The Rebel Alliance. Will they suffer the same fate again? A Star Wars Supplement. Published by West End Gamers. 1995 Lucasfilm Ltd.",
+  "title": "Goroth: Slave of the Empire"
+}

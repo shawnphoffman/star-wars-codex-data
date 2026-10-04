@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Kristin Baver",
+      "role": "writer",
+      "slug": "kristin-baver"
+    }
+  ],
+  "displayTitle": "Year By Year: A Visual History, New Edition",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2021-09-23T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-09-23T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-year-by-year-a-visual-history-new-edition",
+  "synopsis": "Discover everything you've ever wanted to know about Star Wars in this complete history of the most famous franchise in movie history.Painstakingly researched and superbly illustrated, Star Wars Year By Year: A Visual History, New Edition presents a unique Star Wars timeline-the full history of the amazing Star Wars phenomenon as you've never seen it before.This stunning visual journey features trivia and cultural cornerstones from director George Lucas' early life through to the iconic movie stills, comic books, novels, toys, video games, and theme parks that have spawned from five decades of seminal film making.Fully updated and expanded, this edition encompasses all nine episodes of the original, prequel, and sequel trilogies, along with the standalone movies Rogue One and Solo, and the acclaimed television series, The Mandalorian.Produced in full collaboration with Lucasfilm and written by renowned Star Wars experts, Star Wars Year by Year: A Visual History, New Edition is ideal for Star Wars fanatics and newbies alike.",
+  "title": "Star Wars Year By Year: A Visual History, New Edition"
+}

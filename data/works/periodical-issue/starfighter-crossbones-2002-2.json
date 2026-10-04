@@ -2,9 +2,9 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Haden Blackman",
+      "name": "W. Haden Blackman",
       "role": "writer",
-      "slug": "haden-blackman"
+      "slug": "w-haden-blackman"
     },
     {
       "name": "Brad Anderson",
@@ -15,11 +15,6 @@
       "name": "Steve Dutro",
       "role": "letterer",
       "slug": "steve-dutro"
-    },
-    {
-      "name": "W. Haden Blackman",
-      "role": "writer",
-      "slug": "w-haden-blackman"
     },
     {
       "name": "Ramón F. Bachs",

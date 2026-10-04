@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    },
+    {
+      "name": "Brian Campbell",
+      "role": "editor",
+      "slug": "brian-campbell"
+    }
+  ],
+  "displayTitle": "Starships of the Galaxy",
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2001-11-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-11-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "starships-of-the-galaxy",
+  "synopsis": "This is the ultimate guide for players and Gamemasters who wish to build custom starships for the Star Wars Roleplaying Game. In addition to newly expanded rules to enhance starship combat, this guide contains new ship types, templates, and powerful systems to add to your character's ship. Covering everything from laser cannons to defensive shields, it has what your character needs to make your ship a heavy cruiser or a nimble fighter.",
+  "title": "Starships of the Galaxy"
+}

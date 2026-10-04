@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brook Vitale",
+      "role": "writer",
+      "slug": "brook-vitale"
+    },
+    {
+      "name": "TomatoFarm",
+      "role": "artist",
+      "slug": "tomatofarm"
+    }
+  ],
+  "displayTitle": "The Mandalorian: A Clan of Two",
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-a-clan-of-two",
+  "synopsis": "A storybook that re-tells the highlights of the first season of the smash-hit Disney+ live action television series, Star Wars: The Mandalorian",
+  "title": "The Mandalorian: A Clan of Two"
+}

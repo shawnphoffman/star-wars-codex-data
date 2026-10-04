@@ -70,10 +70,13 @@
   "displayTitle": "Jedi of the Republic-Mace Windu",
   "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2017-09-27T00:00:00.000Z",
+  "releaseDate": "2017-08-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "jedi-of-the-republic-mace-windu-2",

@@ -1,0 +1,25 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Mann",
+      "role": "writer",
+      "slug": "george-mann"
+    },
+    {
+      "name": "Matt Allsopp",
+      "role": "artist",
+      "slug": "matt-allsopp"
+    }
+  ],
+  "displayTitle": "Tales of Enlightenment: A Different Perspective",
+  "format": "shortStory",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-12-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "tales-of-enlightenment-a-different-perspective",
+  "title": "Tales of Enlightenment: A Different Perspective"
+}

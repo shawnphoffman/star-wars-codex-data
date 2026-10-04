@@ -1,7 +1,11 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Adventures (2017) #27 - Ghosts Of Kashyyyk part 1",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "star-wars-adventures-2017",
   "periodical": {
     "publicationKind": "comic"

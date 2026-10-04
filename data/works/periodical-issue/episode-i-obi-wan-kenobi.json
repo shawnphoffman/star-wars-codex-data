@@ -47,6 +47,9 @@
   ],
   "displayTitle": "Episode I: Obi-Wan Kenobi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,45 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    },
+    {
+      "name": "Tricia Barr",
+      "role": "writer",
+      "slug": "tricia-barr"
+    },
+    {
+      "name": "Adam Bray",
+      "role": "writer",
+      "slug": "adam-bray"
+    },
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Ultimate Star Wars",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2015-04-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-04-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ultimate-star-wars",
+  "synopsis": "This comprehensive and wonderfully-detailed encyclopedia explores the characters, creatures, locations, vehicles, technology, and more found throughout the entire Star Wars™ galaxy.Ultimate Star Wars is an in-depth visual guide that details storylines and players from the complete Star Wars galaxy, including Star Wars: The Clone Wars™ and Star Wars Rebels™.Paste Magazine says, \"You'll want to own this masterpiece.\" It's packed full of information about key characters from Luke Skywalker to Darth Maul, popular vehicles such as the Millennium Falcon, and all the important events that make up the Star Wars universe.Ultimate Star Wars is the ideal go-to resource for fans who wish to brush up on their Star Wars knowledge, and for a new generation of children eager to start their journey into a galaxy far, far away....",
+  "title": "Ultimate Star Wars"
+}

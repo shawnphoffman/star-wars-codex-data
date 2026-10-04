@@ -17,9 +17,9 @@
       "slug": "jody-houser"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     },
     {
       "name": "Will Sliney",
@@ -38,7 +38,11 @@
     }
   ],
   "displayTitle": "The Rise of Skywalker Adaptation (2025) #2",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 35
+  },
   "parentWorkSlug": "the-rise-of-skywalker-adaptation",
   "periodical": {
     "publicationKind": "comic"

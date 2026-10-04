@@ -1,0 +1,70 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Louis J. Prosperi",
+      "role": "writer",
+      "slug": "louis-j-prosperi"
+    },
+    {
+      "name": "Stephen Crane",
+      "role": "artist",
+      "slug": "stephen-crane"
+    },
+    {
+      "name": "John Paul Lona",
+      "role": "artist",
+      "slug": "john-paul-lona"
+    },
+    {
+      "name": "Rob Caswell",
+      "role": "artist",
+      "slug": "rob-caswell"
+    },
+    {
+      "name": "Mike Jackson",
+      "role": "artist",
+      "slug": "mike-jackson"
+    },
+    {
+      "name": "Mike Vilardi",
+      "role": "artist",
+      "slug": "mike-vilardi"
+    },
+    {
+      "name": "Greg Farshtey",
+      "role": "editor",
+      "slug": "greg-farshtey"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Ed Stark",
+      "role": "editor",
+      "slug": "ed-stark"
+    }
+  ],
+  "displayTitle": "Wanted by Cracken",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1993-06-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-06-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "wanted-by-cracken",
+  "synopsis": "Wanted by Cracken is a paperback supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Louis J. Prosperi and published on February 15, 1993. Wanted by Cracken was also the title of a series of articles featured in several issues of Star Wars Adventure Journal.The book and article series were presented as an in-universe report from General Airen Cracken to New Republic operatives, around 7 ABY. It highlighted fifty individuals wanted by Cracken for various crimes. The wanted individuals included Imperial officers, assassins, smugglers, bounty hunters and rogue droids.Wanted For Crimes Against The New RepublicSome of the most despicable criminals in the galaxy are on the loose, and it is up to the soldiers of the New Republic to bring them in and pick up the reward. Inside this book are Imperial military officers, bounty hunters, smugglers, assassins and many other criminals who represent a threat to the New Republic: over 50 individuals in all!Each entry includes game statistics, a personal history of the criminal, the amount of the reward offered by the New Republic and an illustration. Many entries contain additional information on henchmen, specialized equipment and hidden bases, as well as adventure hooks and hints on using the criminal in your Star Wars adventures",
+  "title": "Wanted by Cracken"
+}

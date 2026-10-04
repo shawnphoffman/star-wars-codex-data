@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kristin Baver",
+      "role": "writer",
+      "slug": "kristin-baver"
+    },
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Amy Richau",
+      "role": "writer",
+      "slug": "amy-richau"
+    },
+    {
+      "name": "Clayton Sandell",
+      "role": "writer",
+      "slug": "clayton-sandell"
+    },
+    {
+      "name": "Mark Penfound",
+      "role": "coverArtist",
+      "slug": "mark-penfound"
+    }
+  ],
+  "displayTitle": "Timelines",
+  "editions": [
+    {
+      "imprint": "Dorling Kindersley",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2023-04-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2023-04-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-timelines",
+  "synopsis": "Star Wars: Timelines Chart the history of Star Wars in this stunning guide, from the time before the High Republic to the First Order. An indispensable companion for all Star Wars fans, this premium quality book displays visual timelines that chronologically map key events, characters, and developments, and mark their significance. Track crucial conflicts across the years that affect the galaxy in profound ways. Follow the Skywalker lightsaber as it passes through the generations and witness the evolution of the iconic TIE fighter across different eras. Trace the movement of the Death Star plans over the years and uncover multiple branching timelines that break down important battles. See essential events at a glance arranged by era and drill down into details to discover major and minor events, key dates, and fascinating insights all chronologically arranged. Pore over intricate timelines on nearly every page. Release Dates: DK; US hardcover: April 25th 2023 DK; UK hardcover: March 2nd 2023",
+  "title": "Star Wars: Timelines"
+}

@@ -1,0 +1,30 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Last Jedi: The Visual Dictionary",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-the-visual-dictionary",
+  "synopsis": "Star Wars: The Last Jedi: Visual Dictionary is the definitive guide to Star Wars: The Last Jedi, revealing the characters, creatures, droids, locations, and technology from the new film. Packed with 100+ images and information as penned by Star Wars scribe Pablo Hidalgo, it's a must-have for all fans who want to go beyond the movie experience.'",
+  "title": "The Last Jedi: The Visual Dictionary"
+}

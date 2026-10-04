@@ -1,9 +1,42 @@
 {
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Rodney Barnes",
+      "role": "writer",
+      "slug": "rodney-barnes"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "penciler",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "inker",
+      "slug": "ramon-rosanas"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Ramon Rosanas",
+      "role": "coverArtist",
+      "slug": "ramon-rosanas"
+    }
+  ],
   "displayTitle": "Han Solo: Hunt for the Falcon #4",
   "format": "periodicalIssue",
   "parentWorkSlug": "han-solo-hunt-for-the-falcon",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2026-02-04T00:00:00.000Z",

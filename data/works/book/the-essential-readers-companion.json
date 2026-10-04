@@ -1,0 +1,55 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    },
+    {
+      "name": "Jeffery Carlisle",
+      "role": "artist",
+      "slug": "jeffery-carlisle"
+    },
+    {
+      "name": "Chris Scalf",
+      "role": "artist",
+      "slug": "chris-scalf"
+    },
+    {
+      "name": "Darren Tan",
+      "role": "artist",
+      "slug": "darren-tan"
+    },
+    {
+      "name": "Joe Corroney",
+      "role": "artist",
+      "slug": "joe-corroney"
+    },
+    {
+      "name": "Paul Youll",
+      "role": "coverArtist",
+      "slug": "paul-youll"
+    }
+  ],
+  "displayTitle": "The Essential Reader's Companion",
+  "editions": [
+    {
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2012-10-02T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-10-02T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-essential-readers-companion",
+  "synopsis": "THE DEFINITIVE WORD ON STAR WARS FICTIONThe legendary motion picture Star Wars: A New Hope has spawned five big-screen sequels - and decades of bestselling fiction. From the original movie tie-in novel through the monumental Fate of the Jedi series, legions of devoted readers have helped expand science fiction's most celebrated film saga into a page-turning print sensation. Now, for the first time, a comprehensive overview of these sweeping Star Wars adventures is presented in one beautifully illustrated volume.Star Wars: The Essential Reader's Companion spans the entire galaxy of published Star Wars fiction - movie novelizations, original stand alone and series novels, short stories, eBook novellas, young adult titles, and comics - and featuresA concise synopsis of each story, including key characters and planetsExclusive behind-the-scenes facts and anecdotes about authors, plot and character development, continuity notes, and significance in the Star Wars Expanded UniverseDetails on which novels are linked to Star Wars comic books from Dark Horse and MarvelA chronological listing of titles, spanning the 25,000-year history of the Star Wars universe and placing each story in its proper contextMore than one hundred full-color original paintings throughout by some of fans' favorite artistsWhether skimming through fateful eras from the Old Republic to the New Jedi Order; delving deep into the ancient history of the Lost Tribe of the Sith or the tumultuous Clone Wars; crossing paths - and lightsabers - with Dark Lords such as Plagueis or Bane, Sidious or Vader; helming the Millennium Falcon with Han Solo; or mastering the Force with Luke Skywalker, this one-of-a-kind, one-stop reference is a must for fans looking to maximize their knowledge of the sprawling Star Wars Expanded Universe.",
+  "title": "The Essential Reader's Companion"
+}

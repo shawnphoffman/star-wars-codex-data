@@ -15,6 +15,9 @@
   "displayTitle": "The Acolyte S01E03: Destiny",
   "era": "highRepublic",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -132
+  },
   "parentWorkSlug": "the-acolyte-s1",
   "releaseDate": "2024-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",

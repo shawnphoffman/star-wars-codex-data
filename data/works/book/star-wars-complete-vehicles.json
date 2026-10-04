@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Curtis Saxton",
+      "role": "writer",
+      "slug": "curtis-saxton"
+    },
+    {
+      "name": "David West Reynolds",
+      "role": "writer",
+      "slug": "david-west-reynolds"
+    },
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Complete Vehicles",
+  "editions": [
+    {
+      "imprint": "DK Publishing",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2013-07-29T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2013-07-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-complete-vehicles",
+  "synopsis": "For any fan who wants to explore the inner workings of the spaceships and vehicles of all six Star Wars™ movies comes this fascinating expanded edition of a fan favorite, now with new cross-section artworks and a wealth of new photos.Star Wars: Complete Vehicles is packed with visual explorations of more than fifty essential Star Wars spacecraft and landcraft, including the TIE bomber, Imperial shuttle, A-wing, B-wing, and more. Full-color cross-section artwork presents in-depth examinations of each craft's weapon systems, engines, hyperdrives, cockpits, and construction secrets, providing a never-before-seen glimpse at the vehicles that drive the Star Wars universe. Star Wars: Complete Vehicles now features new and never-before-seen cross-sections!",
+  "title": "Star Wars: Complete Vehicles"
+}

@@ -1,0 +1,40 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bob Woods",
+      "role": "writer",
+      "slug": "bob-woods"
+    },
+    {
+      "name": "Greg Hildebrandt",
+      "role": "artist",
+      "slug": "greg-hildebrandt"
+    },
+    {
+      "name": "Tim Hildebrandt",
+      "role": "artist",
+      "slug": "tim-hildebrandt"
+    }
+  ],
+  "displayTitle": "The Art of the Brothers Hildebrandt",
+  "editions": [
+    {
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1997-11-11T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-11-11T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-the-art-of-the-brothers-hildebrandt",
+  "synopsis": "Two decades ago, the original Star Wars poster was painted by Greg and Tim Hildebrandt. In the high-pressure world of the film business, they had thirty-six hours to finish it--and the result was one of the most famous pieces of movie art ever created.Over the course of their careers, the Brothers Hildebrandt have portrayed the denizens of Middle Earth, of the Marvel Universe, of OZ. And now, twenty years later, Greg and Tim have returned to that galaxy far, far away, taking with them legions of fans as they portray Luke Skywalker, Leia Organa, Darth Vader, and the rest of the legendary cast.This volume gathers together, for the first time ever, their amazing Star Wars paintings. And at the same time, it takes us on amazing tour of the Hildebrandt studio, revealing the amazing process of creating masterpieces.",
+  "title": "Star Wars: The Art of the Brothers Hildebrandt"
+}

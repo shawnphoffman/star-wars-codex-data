@@ -32,9 +32,9 @@
       "slug": "federico-blee"
     },
     {
-      "name": "Vc Ariana Maher",
+      "name": "Ariana Maher",
       "role": "letterer",
-      "slug": "vc-ariana-maher"
+      "slug": "ariana-maher"
     },
     {
       "name": "Marc Bernardin",
@@ -50,6 +50,7 @@
   },
   "parentWorkSlug": "rogue-one-saw-gerrera",
   "periodical": {
+    "imprint": "Marvel Comics",
     "publicationKind": "comic"
   },
   "releaseDate": "2026-07-01T00:00:00.000Z",

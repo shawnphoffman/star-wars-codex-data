@@ -37,24 +37,39 @@
       "slug": "nick-runge"
     },
     {
-      "name": "Brian Wood",
+      "name": "Jan Strnad",
       "role": "writer",
-      "slug": "brian-wood"
+      "slug": "jan-strnad"
     },
     {
-      "name": "Carlos D'Anda",
-      "role": "artist",
-      "slug": "carlos-danda"
+      "name": "Anthony Winn",
+      "role": "penciler",
+      "slug": "anthony-winn"
     },
     {
-      "name": "Gabe Eltaeb",
+      "name": "Robert Jones",
+      "role": "inker",
+      "slug": "robert-jones"
+    },
+    {
+      "name": "Dave Nestelle",
       "role": "colorist",
-      "slug": "gabe-eltaeb"
+      "slug": "dave-nestelle"
     },
     {
-      "name": "Alex Ross",
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Ken Kelly",
       "role": "coverArtist",
-      "slug": "alex-ross"
+      "slug": "ken-kelly"
     }
   ],
   "displayTitle": "The Star Wars (2013) #2",

@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Blauvelt",
+      "role": "writer",
+      "slug": "christian-blauvelt"
+    },
+    {
+      "name": "Dan Crisp",
+      "role": "artist",
+      "slug": "dan-crisp"
+    }
+  ],
+  "displayTitle": "Use the Force!",
+  "editions": [
+    {
+      "imprint": "DK Children's",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2020-05-28T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "star-wars-use-the-force",
+  "synopsis": "Have you ever wondered how a Jedi becomes a Jedi? (Spoiler alert: It's not easy.) Charting the journey from tiny, Force-sensitive toddler to awesome Jedi Master, this book has all the answers to your questions, including: Is there a Jedi school? Can anyone be a Jedi? Where do you get a lightsaber from?This is the funniest Force-friendly guide you'll EVER read, packed with Jedi history, ancient secrets, and Master Yoda's top tips for beginners.The perfect gift for young kids, Star Wars: Use the Force! is a playful and informative guide to all things Jedi, featuring fun facts from the Star Wars movies and TV series alongside hilarious cartoons, and tips and (mind) tricks for wannabe Jedi Knights. In the Star Wars galaxy there's never a dull moment - just like in Star Wars: Use the Force!.",
+  "title": "Star Wars Use the Force!"
+}

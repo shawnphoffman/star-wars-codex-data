@@ -1,0 +1,35 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rick D. Stuart",
+      "role": "writer",
+      "slug": "rick-d-stuart"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Galladinium's Fantastic Technology",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1995-03-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-03-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "galladiniums-fantastic-technology",
+  "synopsis": "Galladinium's Fantastic Technology is a roleplaying supplement published by West End Games for Star Wars: The Roleplaying Game. It was written by Rick D. Stuart and first published in 1995. It includes several item articles that were submitted by players to The Fantastic Technology Contest, a competition sponsored by the Role Playing Game Association.The book is a guide to a wide array of \"guns and gear for any occasion\" for use by characters in the roleplaying game, featuring mainly exotic equipment. It maintains the in-universe conceit that it is, in fact, the 50th anniversary issue of Galladinium's Galactic Datalog of Fantastic Technology, a catalog purveying fine merchandise to an upscale clientele.A catalog of equipment for adventures...From an Abyssin grafting patch to the Verpine shatter gun, this catalog contains essential adventuring gear for rough-and-tumble encounters. With sections detailing weapons, micro-electronics, survival gear, droids and medical supplies, Galladinium's catalog of wares will prove to be indispensable to any group of characters!",
+  "title": "Galladinium's Fantastic Technology"
+}

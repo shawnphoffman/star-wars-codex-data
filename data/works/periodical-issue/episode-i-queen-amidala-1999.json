@@ -47,6 +47,9 @@
   ],
   "displayTitle": "Episode I: Queen Amidala",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
   "periodical": {
     "publicationKind": "comic"
   },

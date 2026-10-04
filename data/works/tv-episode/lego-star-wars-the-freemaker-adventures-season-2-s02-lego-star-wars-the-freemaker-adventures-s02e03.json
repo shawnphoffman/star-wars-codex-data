@@ -1,5 +1,22 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Michael Hegner",
+      "role": "director",
+      "slug": "michael-hegner"
+    },
+    {
+      "name": "Per Risager",
+      "role": "director",
+      "slug": "per-risager"
+    },
+    {
+      "name": "John Behnke",
+      "role": "writer",
+      "slug": "john-behnke"
+    }
+  ],
   "displayTitle": "The Tower of Alistan Nor",
   "format": "tvEpisode",
   "parentWorkSlug": "lego-star-wars-the-freemaker-adventures-season-2-s02",

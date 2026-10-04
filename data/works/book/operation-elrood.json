@@ -1,0 +1,50 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Beyer",
+      "role": "writer",
+      "slug": "john-beyer"
+    },
+    {
+      "name": "Chris Doyle",
+      "role": "writer",
+      "slug": "chris-doyle"
+    },
+    {
+      "name": "Anthony Russo",
+      "role": "writer",
+      "slug": "anthony-russo"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "editor",
+      "slug": "bill-smith"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "editor",
+      "slug": "paul-sudlow"
+    }
+  ],
+  "displayTitle": "Operation: Elrood",
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "operation-elrood",
+  "synopsis": "Operation: Elrood is a Roleplaying Game adventure written by John Beyer, Chris Doyle and Anthony Russo, published by West End Games in December 1996.The remote Elrood sector is on the brink of a major corporate war! Pirate attacks are destroying cargo fleets and a top Rebel operative has disappeared. As a brave group of rebel operatives delves into the sector's intrigues, the question becomes, \"Is the Empire the real enemy?\"Forced to ally with a crafty information broker, and hampered by assassins and terrorists, the Rebels are drawn to an Imperial stronghold world. Can they succeed in a desperate mission to cripple the forces of the Empire?",
+  "title": "Operation: Elrood"
+}

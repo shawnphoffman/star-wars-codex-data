@@ -2,9 +2,9 @@
   "canonStatus": "canon",
   "creators": [
     {
-      "name": "Grek Pak",
+      "name": "Greg Pak",
       "role": "writer",
-      "slug": "grek-pak"
+      "slug": "greg-pak"
     },
     {
       "name": "Chris Sprouse",
@@ -15,11 +15,6 @@
       "name": "Terry Dodson",
       "role": "coverArtist",
       "slug": "terry-dodson"
-    },
-    {
-      "name": "Greg Pak",
-      "role": "writer",
-      "slug": "greg-pak"
     },
     {
       "name": "Glenn Greenberg",
@@ -52,9 +47,9 @@
       "slug": "tamra-bonvillain"
     },
     {
-      "name": "Vc Travis Lanham",
+      "name": "Travis Lanham",
       "role": "letterer",
-      "slug": "vc-travis-lanham"
+      "slug": "travis-lanham"
     }
   ],
   "displayTitle": "Age Of Rebellion: Han Solo",

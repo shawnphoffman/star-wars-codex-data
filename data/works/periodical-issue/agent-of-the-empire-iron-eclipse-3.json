@@ -1,0 +1,45 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Michael Heisler",
+      "role": "letterer",
+      "slug": "michael-heisler"
+    },
+    {
+      "name": "Wes Dzioba",
+      "role": "colorist",
+      "slug": "wes-dzioba"
+    },
+    {
+      "name": "Stéphane Créty",
+      "role": "penciler",
+      "slug": "stphane-crty"
+    },
+    {
+      "name": "Julien Hugonnard-Bert",
+      "role": "inker",
+      "slug": "julien-hugonnard-bert"
+    }
+  ],
+  "displayTitle": "Agent of the Empire: Iron Eclipse #3",
+  "era": "ageOfRebellion",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -3
+  },
+  "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-02-08T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "agent-of-the-empire-iron-eclipse-3",
+  "title": "Agent of the Empire: Iron Eclipse #3"
+}
