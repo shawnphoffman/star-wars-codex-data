@@ -6,7 +6,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "1987-01-13T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "droids-1986",
   "title": "Droids (1986)"
 }

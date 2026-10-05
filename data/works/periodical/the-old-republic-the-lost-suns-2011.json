@@ -12,29 +12,24 @@
       "slug": "dave-ross"
     },
     {
-      "name": "George Freeman",
-      "role": "artist",
-      "slug": "george-freeman"
-    },
-    {
-      "name": "Mark McKenna",
-      "role": "artist",
-      "slug": "mark-mckenna"
-    },
-    {
       "name": "Dave Ross",
       "role": "penciler",
       "slug": "dave-ross"
     },
     {
       "name": "George Freeman",
+      "role": "artist",
+      "slug": "george-freeman"
+    },
+    {
+      "name": "George Freeman",
       "role": "penciler",
       "slug": "george-freeman"
     },
     {
-      "name": "David Aja",
-      "role": "penciler",
-      "slug": "david-aja"
+      "name": "Mark McKenna",
+      "role": "artist",
+      "slug": "mark-mckenna"
     },
     {
       "name": "Mark McKenna",
@@ -52,9 +47,14 @@
       "slug": "michael-heisler"
     },
     {
-      "name": "Benjamin Caron",
+      "name": "Benjamin Carré",
       "role": "coverArtist",
-      "slug": "benjamin-caron"
+      "slug": "benjamin-carre"
+    },
+    {
+      "name": "David Daza",
+      "role": "penciler",
+      "slug": "david-daza"
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns",

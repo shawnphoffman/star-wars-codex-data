@@ -6,7 +6,8 @@
     "publicationKind": "magazine"
   },
   "releaseDate": "1993-10-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-official-star-wars-technical-journal",
   "title": "The Official Star Wars Technical Journal"
 }

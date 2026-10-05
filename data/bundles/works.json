@@ -48394,7 +48394,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1987-01-13T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "droids-1986",
     "title": "Droids (1986)"
   },
@@ -78045,7 +78046,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-02-24T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "kanan-the-last-padawan-2015-11",
     "title": "Kanan 11: First Blood, Part V: The Fog of War"
   },
@@ -79000,6 +79002,11 @@
         "slug": "john-jackson-miller"
       },
       {
+        "name": "Joe Quinones",
+        "role": "coverArtist",
+        "slug": "joe-quinones"
+      },
+      {
         "name": "Ivan Rodriguez",
         "role": "artist",
         "slug": "ivan-rodriguez"
@@ -79010,24 +79017,19 @@
         "slug": "ivan-rodriguez"
       },
       {
-        "name": "Iban Coello",
-        "role": "penciler",
-        "slug": "iban-coello"
-      },
-      {
-        "name": "David Aja",
-        "role": "penciler",
-        "slug": "david-aja"
-      },
-      {
         "name": "Michael Atiyeh",
         "role": "colorist",
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Joe Quinones",
-        "role": "coverArtist",
-        "slug": "joe-quinones"
+        "name": "Iban Coello",
+        "role": "penciler",
+        "slug": "iban-coello"
+      },
+      {
+        "name": "David Daza",
+        "role": "penciler",
+        "slug": "david-daza"
       }
     ],
     "displayTitle": "Knight Errant: Deluge",
@@ -79265,6 +79267,11 @@
         "slug": "john-jackson-miller"
       },
       {
+        "name": "Joe Quinones",
+        "role": "coverArtist",
+        "slug": "joe-quinones"
+      },
+      {
         "name": "Michael Atiyeh",
         "role": "colorist",
         "slug": "michael-atiyeh"
@@ -79275,19 +79282,14 @@
         "slug": "michael-heisler"
       },
       {
-        "name": "David Aja",
-        "role": "penciler",
-        "slug": "david-aja"
-      },
-      {
         "name": "Sergio Abad",
         "role": "inker",
         "slug": "sergio-abad"
       },
       {
-        "name": "Joe Quinones",
-        "role": "coverArtist",
-        "slug": "joe-quinones"
+        "name": "David Daza",
+        "role": "penciler",
+        "slug": "david-daza"
       }
     ],
     "displayTitle": "Knight Errant: Deluge #5",
@@ -79342,9 +79344,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Knight Errant: Escape",
@@ -79389,19 +79391,14 @@
         "slug": "marco-castiello"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Mike Hawthorne",
         "role": "coverArtist",
         "slug": "mike-hawthorne"
-      },
-      {
-        "name": "Benjamin Carré",
-        "role": "coverArtist",
-        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Knight Errant: Escape #1",
@@ -79449,11 +79446,6 @@
         "name": "Marco Castiello",
         "role": "penciler",
         "slug": "marco-castiello"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -79508,11 +79500,6 @@
         "slug": "marco-castiello"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -79565,11 +79552,6 @@
         "slug": "marco-castiello"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -79620,11 +79602,6 @@
         "name": "Marco Castiello",
         "role": "penciler",
         "slug": "marco-castiello"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -79814,9 +79791,9 @@
         "slug": "daryl-mandryk"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Jim Pavelec",
@@ -82075,11 +82052,6 @@
         "slug": "ron-chan"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -82135,11 +82107,6 @@
         "name": "Bong Dazo",
         "role": "artist",
         "slug": "bong-dazo"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -82199,11 +82166,6 @@
         "slug": "bong-dazo"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -82254,11 +82216,6 @@
         "name": "Brian Ching",
         "role": "penciler",
         "slug": "brian-ching"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -82370,11 +82327,6 @@
         "slug": "brian-ching"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -82425,11 +82377,6 @@
         "name": "Brian Ching",
         "role": "penciler",
         "slug": "brian-ching"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -82484,11 +82431,6 @@
         "slug": "brian-ching"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -82539,11 +82481,6 @@
         "name": "Brian Ching",
         "role": "penciler",
         "slug": "brian-ching"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -82685,9 +82622,9 @@
         "slug": "michael-heisler"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Dave Wilkins",
@@ -82740,11 +82677,6 @@
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Dave Wilkins",
@@ -82903,11 +82835,6 @@
         "slug": "gigi-baldassini"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -82958,11 +82885,6 @@
         "name": "Gigi Baldassini",
         "role": "inker",
         "slug": "gigi-baldassini"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -153516,7 +153438,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-03-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-return-of-the-jedi-2003-4",
     "synopsis": "It's crunch time for the entire Skywalker family, and Luke and Leia's friends and allies! Luke must decide whether to submit to the Emperor or watch his sister die. Vader must decide if he can bear to have the blood of both of his children on his hands. And the final hopes of the Rebel Alliance rest on the Millennium Falcon, its pilot Lando Calrissian, and his only gunner Han Solo--who is still blind from the effects of carbon freezing! A surprising climax that is as exciting as the film on which it is based, but different from anything you have seen before!",
     "title": "Star Wars Infinities: Return of the Jedi (2003) #4"
@@ -153557,7 +153480,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2002-07-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-the-empire-strikes-back-2002-1",
     "synopsis": "With the Death Star destroyed, Luke Skywalker leaves Hoth to train as a Jedi with Yoda. Han Solo is encased in carbonite on Cloud City. Vader's dark secret is revealed. You know the story. Or do you?! In the unique Infinities universe, nothing is taken for granted. Have you ever wondered how things would play out if Han never rescued battered Luke on Hoth's frozen tundra? If Boba Fett arrived at Cloud City earlier and cut a deal with Lando? If Vader uncovered secret Rebel information hidden in C-3PO, the droid young Anakin Skywalker created? Well, start wondering! It's the miniseries that blows the cap off everything you thought you knew about The Empire Strikes Back! This series contains more twists and turns than you'd ever expect and culminates in an uncanny battle between two of the most famous -- and infamous -- living Jedi ever to pick up a lightsaber! It's all wrapped in incredible covers by Steampunk's Chris Bachalo. Don't miss the most startling take on The Empire Strikes Back you'll ever see!",
     "title": "Star Wars Infinities: The Empire Strikes Back (2002) #1"
@@ -158039,6 +157963,10 @@
     "displayTitle": "Tales of Enlightenment",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "1787741710"
+      },
+      {
         "type": "isbn13",
         "value": "9781787741713"
       }
@@ -158046,8 +157974,9 @@
     "editions": [
       {
         "extent": 96,
-        "imprint": "Titan Magazines",
+        "imprint": "Titan Comics",
         "isPrimary": true,
+        "isbn10": "1787741710",
         "isbn13": "9781787741713",
         "kind": "print",
         "onsale": "2024-04-02T00:00:00.000Z"
@@ -192083,6 +192012,11 @@
         "name": "Phil Noto",
         "role": "coverArtist",
         "slug": "phil-noto"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
       }
     ],
     "displayTitle": "The Fall of Kylo Ren #2",
@@ -192166,6 +192100,26 @@
         "name": "Phil Noto",
         "role": "coverArtist",
         "slug": "phil-noto"
+      },
+      {
+        "name": "Mark Paniccia",
+        "role": "editor",
+        "slug": "mark-paniccia"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "letterer",
+        "slug": "joe-caramagna"
+      },
+      {
+        "name": "Guru Efx",
+        "role": "colorist",
+        "slug": "guru-efx"
+      },
+      {
+        "name": "Will Sliney",
+        "role": "inker",
+        "slug": "will-sliney"
       }
     ],
     "displayTitle": "The Fall of Kylo Ren #4",
@@ -211074,7 +211028,8 @@
       "publicationKind": "magazine"
     },
     "releaseDate": "1993-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-official-star-wars-technical-journal",
     "title": "The Official Star Wars Technical Journal"
   },
@@ -211276,11 +211231,6 @@
         "slug": "alex-sanchez"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -211338,11 +211288,6 @@
         "slug": "alex-sanchez"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -211385,9 +211330,9 @@
         "slug": "mark-mckenna"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Michael Atiyeh",
@@ -211398,11 +211343,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Benjamin Carré",
-        "role": "coverArtist",
-        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "The Old Republic #4: Blood of the Empire, Part 1",
@@ -211442,9 +211382,9 @@
         "slug": "mark-mckenna"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
       },
       {
         "name": "Michael Atiyeh",
@@ -211455,11 +211395,6 @@
         "name": "Michael Heisler",
         "role": "letterer",
         "slug": "michael-heisler"
-      },
-      {
-        "name": "Benjamin Carré",
-        "role": "coverArtist",
-        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "The Old Republic #5: Blood of the Empire, Part 2",
@@ -211507,11 +211442,6 @@
         "name": "Dave Ross",
         "role": "penciler",
         "slug": "dave-ross"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -211752,29 +211682,24 @@
         "slug": "dave-ross"
       },
       {
-        "name": "George Freeman",
-        "role": "artist",
-        "slug": "george-freeman"
-      },
-      {
-        "name": "Mark McKenna",
-        "role": "artist",
-        "slug": "mark-mckenna"
-      },
-      {
         "name": "Dave Ross",
         "role": "penciler",
         "slug": "dave-ross"
       },
       {
         "name": "George Freeman",
+        "role": "artist",
+        "slug": "george-freeman"
+      },
+      {
+        "name": "George Freeman",
         "role": "penciler",
         "slug": "george-freeman"
       },
       {
-        "name": "David Aja",
-        "role": "penciler",
-        "slug": "david-aja"
+        "name": "Mark McKenna",
+        "role": "artist",
+        "slug": "mark-mckenna"
       },
       {
         "name": "Mark McKenna",
@@ -211792,9 +211717,14 @@
         "slug": "michael-heisler"
       },
       {
-        "name": "Benjamin Caron",
+        "name": "Benjamin Carré",
         "role": "coverArtist",
-        "slug": "benjamin-caron"
+        "slug": "benjamin-carre"
+      },
+      {
+        "name": "David Daza",
+        "role": "penciler",
+        "slug": "david-daza"
       }
     ],
     "displayTitle": "The Old Republic: The Lost Suns",
@@ -211842,11 +211772,6 @@
         "name": "Dave Ross",
         "role": "penciler",
         "slug": "dave-ross"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -211906,11 +211831,6 @@
         "slug": "dave-ross"
       },
       {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
@@ -211958,19 +211878,14 @@
         "slug": "michael-heisler"
       },
       {
-        "name": "David Aja",
-        "role": "penciler",
-        "slug": "david-aja"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
-      },
-      {
         "name": "Benjamin Carré",
         "role": "coverArtist",
         "slug": "benjamin-carre"
+      },
+      {
+        "name": "David Daza",
+        "role": "penciler",
+        "slug": "david-daza"
       }
     ],
     "displayTitle": "The Old Republic: The Lost Suns #3",
@@ -212023,11 +211938,6 @@
         "name": "Dave Ross",
         "role": "penciler",
         "slug": "dave-ross"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",
@@ -212085,11 +211995,6 @@
         "name": "Dave Ross",
         "role": "penciler",
         "slug": "dave-ross"
-      },
-      {
-        "name": "Benjamin Caron",
-        "role": "coverArtist",
-        "slug": "benjamin-caron"
       },
       {
         "name": "Benjamin Carré",

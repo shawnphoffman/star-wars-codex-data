@@ -11,6 +11,10 @@
   "displayTitle": "Tales of Enlightenment",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1787741710"
+    },
+    {
       "type": "isbn13",
       "value": "9781787741713"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 96,
-      "imprint": "Titan Magazines",
+      "imprint": "Titan Comics",
       "isPrimary": true,
+      "isbn10": "1787741710",
       "isbn13": "9781787741713",
       "kind": "print",
       "onsale": "2024-04-02T00:00:00.000Z"

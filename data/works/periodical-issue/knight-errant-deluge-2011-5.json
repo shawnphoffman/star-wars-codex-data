@@ -7,6 +7,11 @@
       "slug": "john-jackson-miller"
     },
     {
+      "name": "Joe Quinones",
+      "role": "coverArtist",
+      "slug": "joe-quinones"
+    },
+    {
       "name": "Michael Atiyeh",
       "role": "colorist",
       "slug": "michael-atiyeh"
@@ -17,19 +22,14 @@
       "slug": "michael-heisler"
     },
     {
-      "name": "David Aja",
-      "role": "penciler",
-      "slug": "david-aja"
-    },
-    {
       "name": "Sergio Abad",
       "role": "inker",
       "slug": "sergio-abad"
     },
     {
-      "name": "Joe Quinones",
-      "role": "coverArtist",
-      "slug": "joe-quinones"
+      "name": "David Daza",
+      "role": "penciler",
+      "slug": "david-daza"
     }
   ],
   "displayTitle": "Knight Errant: Deluge #5",
