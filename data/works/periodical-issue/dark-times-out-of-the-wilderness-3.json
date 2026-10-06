@@ -30,6 +30,16 @@
       "name": "Randy Stradley",
       "role": "writer",
       "slug": "randy-stradley"
+    },
+    {
+      "name": "Doug Wheatley",
+      "role": "artist",
+      "slug": "doug-wheatley"
+    },
+    {
+      "name": "Pablo Correa",
+      "role": "coverArtist",
+      "slug": "pablo-correa"
     }
   ],
   "displayTitle": "Dark Times: Out of the Wilderness #3",
@@ -40,12 +50,13 @@
   },
   "parentWorkSlug": "dark-times-out-of-the-wilderness",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2011-11-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "dark-times-out-of-the-wilderness-3",
-  "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+  "synopsis": "Caged fury! Desert raiders have captured Ember Chankeli, only to discover they have a tiger who can't be tamed! Worse for them: they have a Jedi on their trail! But Jedi Master Dass Jennir had better watch his back, because a mysterious assassin and Darth Vader both want his head!",
   "title": "Dark Times: Out of the Wilderness #3"
 }

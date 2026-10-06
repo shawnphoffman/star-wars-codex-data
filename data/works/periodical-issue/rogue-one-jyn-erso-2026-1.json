@@ -74,7 +74,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2026-06-03T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "rogue-one-jyn-erso-2026-1",
   "title": "Rogue One: Jyn Erso (2026) #1"
 }

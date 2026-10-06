@@ -30,6 +30,11 @@
       "name": "Davidé Fabbri",
       "role": "penciler",
       "slug": "david-fabbri"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Hard Targets #4",
@@ -40,11 +45,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-hard-targets",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-01-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-hard-targets-4",
+  "synopsis": "The Imperial Navy has arrived and Agent Cross has been officially told to stand down from his mission overseeing the election of a regent for the young Duke of Serenno. But Cross is not about to allow an innocent boy to be used as a disposable pawn, even if it serves the Empire's short-term goals.",
   "title": "Agent of the Empire: Hard Targets #4"
 }

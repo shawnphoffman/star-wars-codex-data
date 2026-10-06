@@ -3545,7 +3545,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2012-10-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets",
     "title": "Agent of the Empire: Hard Targets"
   },
@@ -3581,6 +3582,11 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Hard Targets #1",
@@ -3591,12 +3597,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-hard-targets",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-10-17T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets-1",
+    "synopsis": "Jahan Cross returns to his homeworld of Alderaan for a celebration hosted by Bail Organa in honor of the current Count Dooku. But the situation turns deadly when an assassin kills the Count, and Cross finds himself working both sides of the intrigue! Thus begins a new assignment for Cross, one that will tear at his loyalties, strain his friendships, and bring him into close contact with his own estranged father. All in a day's work for Jahan Cross, Agent of the Empire!",
     "title": "Agent of the Empire: Hard Targets #1"
   },
   {
@@ -3631,6 +3639,11 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Hard Targets #2",
@@ -3641,12 +3654,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-hard-targets",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-11-21T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets-2",
+    "synopsis": "Imperial Agent Jahan Cross doesn't like his assignment or the politicians he is forced to work with. Yet dealing with all of that is easier than coming to terms with his growing respect for a boy whose father he killed, especially when that boy is supposed to be merely a political pawn of the Empire. When attackers kidnap the boy, Cross finds himself turning his back on his mission and putting his life on the line for a \"pawn.\" No job is too dangerous for an Agent of the Empire!",
     "title": "Agent of the Empire: Hard Targets #2"
   },
   {
@@ -3681,6 +3696,11 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Hard Targets #3",
@@ -3691,12 +3711,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-hard-targets",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-12-19T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets-3",
+    "synopsis": "A young boy, the heir to the title of Count Dooku, is kidnapped, and it's Jahan Cross to the rescue! When the kidnapper turns out to be a sexy female spy with whom Cross has worked before, and when her motives turn out to have the boy's welfare at heart, Cross is faced with a decision: should he disobey his own orders from the Empire? But first there's a little matter of breaking out of a supposedly inescapable prison...",
     "title": "Agent of the Empire: Hard Targets #3"
   },
   {
@@ -3731,6 +3753,11 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Hard Targets #4",
@@ -3741,12 +3768,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-hard-targets",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-01-30T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets-4",
+    "synopsis": "The Imperial Navy has arrived and Agent Cross has been officially told to stand down from his mission overseeing the election of a regent for the young Duke of Serenno. But Cross is not about to allow an innocent boy to be used as a disposable pawn, even if it serves the Empire's short-term goals.",
     "title": "Agent of the Empire: Hard Targets #4"
   },
   {
@@ -3781,6 +3810,11 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Hard Targets #5",
@@ -3791,12 +3825,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-hard-targets",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-02-27T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-hard-targets-5",
+    "synopsis": "Everyone, including Boba Fett, is after the young Count Dooku. As Cross and the Count's loyal security guard attempt to whisk the boy to safety, they are surrounded by enemies! In the past, Cross had the power and authority of the Empire behind him. Now he has nothing but his fists!",
     "title": "Agent of the Empire: Hard Targets #5"
   },
   {
@@ -3930,6 +3966,11 @@
         "name": "Julien Hugonnard-Bert",
         "role": "inker",
         "slug": "julien-hugonnard-bert"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Iron Eclipse #2",
@@ -3940,12 +3981,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-01-11T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-iron-eclipse-2",
+    "synopsis": "Undercover as a diplomatic attaché, Imperial agent Jahan Cross continues his investigation into the stolen droid technology and the mysterious project known as \"Iron Eclipse.\" At an elegant embassy soirée in the Corporate Sector, Cross locks his sights on the Stark family. Before the evening is over, more than one player will be out of the game, and Cross will be wanted for murder!",
     "title": "Agent of the Empire: Iron Eclipse #2"
   },
   {
@@ -3975,6 +4018,11 @@
         "name": "Julien Hugonnard-Bert",
         "role": "inker",
         "slug": "julien-hugonnard-bert"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Iron Eclipse #3",
@@ -3985,12 +4033,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-02-08T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-iron-eclipse-3",
+    "synopsis": "Framed for a murder he didn't commit, Imperial Agent Jahan Cross is on the run from Corporate Sector authorities, and uncovering the secrets behind the mysterious \"Iron Eclipse\" project, all without the assistance of his missing droid, IN-GA 44. But Cross is not entirely without allies, because he knows these two smugglers with a very fast ship...",
     "title": "Agent of the Empire: Iron Eclipse #3"
   },
   {
@@ -4020,6 +4070,11 @@
         "name": "Julien Hugonnard-Bert",
         "role": "inker",
         "slug": "julien-hugonnard-bert"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Iron Eclipse #4",
@@ -4030,12 +4085,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
-    "releaseDate": "2012-04-14T00:00:00.000Z",
+    "releaseDate": "2012-03-14T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-iron-eclipse-4",
+    "synopsis": "So far tonight, Jahan Cross has been \"killed,\" has entered into a \"marriage\" of convenience with the sister of his enemy, and has had a knock-down, drag-out fight with a murderous droid. Now he's onboard the Millennium Falcon and headed for an obvious trap! All in a night's work for an agent of the Empire!",
     "title": "Agent of the Empire: Iron Eclipse #4"
   },
   {
@@ -4065,6 +4122,11 @@
         "name": "Julien Hugonnard-Bert",
         "role": "inker",
         "slug": "julien-hugonnard-bert"
+      },
+      {
+        "name": "Stéphane Roux",
+        "role": "coverArtist",
+        "slug": "stphane-roux"
       }
     ],
     "displayTitle": "Agent of the Empire: Iron Eclipse #5",
@@ -4075,12 +4137,14 @@
     },
     "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-04-11T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "agent-of-the-empire-iron-eclipse-5",
+    "synopsis": "Jahan Cross finally learns the truth about the deadly project called \"Iron Eclipse.\" Now all he has to do is defeat the crazed mastermind behind it all, keep his allies from double-crossing him, and escape the Corporate Sector with his life! All in a day's work for an Agent of the Empire!",
     "title": "Agent of the Empire: Iron Eclipse #5"
   },
   {
@@ -28363,7 +28427,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2013-07-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "dark-times-a-spark-remains",
     "title": "Dark Times: A Spark Remains"
   },
@@ -28394,6 +28459,16 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Benjamin Carré",
+        "role": "coverArtist",
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Dark Times: A Spark Remains #1",
@@ -28404,13 +28479,14 @@
     },
     "parentWorkSlug": "dark-times-a-spark-remains",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-07-17T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-a-spark-remains-1",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Reunited with the ragtag crew of the *Uhumele*, Jedi Dass Jennir is surprised to find them plotting with another Jedi to take down the iron fist of the new Galactic Empire, Darth Vader himself! Having only just found love and a reason to live, Jennir is reluctant to join, but their plan may be too good to pass up...",
     "title": "Dark Times: A Spark Remains #1"
   },
   {
@@ -28440,6 +28516,16 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Benjamin Carré",
+        "role": "coverArtist",
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Dark Times: A Spark Remains #2",
@@ -28450,13 +28536,14 @@
     },
     "parentWorkSlug": "dark-times-a-spark-remains",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-08-21T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-a-spark-remains-2",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "The crew of the *Uhumele* have a plan to strike at the heart of the newly formed Galactic Empire, Darth Vader himself! While they seek a certain Jedi to join their cause, secrets among the crew begin to form cracks in their alliance. Could their plan be over before it's begun? Elsewhere, Vader trains an assassin for Jedi hunting!",
     "title": "Dark Times: A Spark Remains #2"
   },
   {
@@ -28486,6 +28573,16 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Benjamin Carré",
+        "role": "coverArtist",
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Dark Times: A Spark Remains #3",
@@ -28496,13 +28593,14 @@
     },
     "parentWorkSlug": "dark-times-a-spark-remains",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-09-18T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-a-spark-remains-3",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Darth Vader readies an assassin for Jedi hunting while scouring the galaxy for hidden prey. Elsewhere, the *Uhumele*'s crew plots to strike down the Dark Lord himself, but the revelation of their own life-or-death secrets threatens to unravel everything!",
     "title": "Dark Times: A Spark Remains #3"
   },
   {
@@ -28532,6 +28630,16 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Benjamin Carré",
+        "role": "coverArtist",
+        "slug": "benjamin-carre"
       }
     ],
     "displayTitle": "Dark Times: A Spark Remains #4",
@@ -28542,13 +28650,14 @@
     },
     "parentWorkSlug": "dark-times-a-spark-remains",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-10-30T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-a-spark-remains-4",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Darth Vader is on the trail of one Jedi; little does he know that even more Jedi are aware of his search and his impending arrival on their planet. The Jedi and their friends are waiting with a trap to end Vader for good. But this is a dark lord of the Sith they will be battling, and nothing is certain!",
     "title": "Dark Times: A Spark Remains #4"
   },
   {
@@ -28722,7 +28831,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2013-02-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "dark-times-fire-carrier",
     "title": "Dark Times: Fire Carrier"
   },
@@ -28753,6 +28863,16 @@
         "name": "Garry Henderson",
         "role": "colorist",
         "slug": "garry-henderson"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "artist",
+        "slug": "gabriel-guzman"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "coverArtist",
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times: Fire Carrier #1",
@@ -28763,13 +28883,14 @@
     },
     "parentWorkSlug": "dark-times-fire-carrier",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-02-06T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-fire-carrier-1",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Jedi Master K'Kruhk is on the run with a group of young Padawans. In a galaxy suddenly hunting Jedi, they are forced to land on an Imperial-run planet, hiding in the refugee camp, among other beings who were displaced by the Clone Wars. But K'Kruhk senses there is something wrong!",
     "title": "Dark Times: Fire Carrier #1"
   },
   {
@@ -28799,6 +28920,16 @@
         "name": "Garry Henderson",
         "role": "colorist",
         "slug": "garry-henderson"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "artist",
+        "slug": "gabriel-guzman"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "coverArtist",
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times: Fire Carrier #2",
@@ -28809,13 +28940,14 @@
     },
     "parentWorkSlug": "dark-times-fire-carrier",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-03-06T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-fire-carrier-2",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Darth Vader grooms a new tool for the Empire, a new assassin. Meanwhile, Jedi Master K'Kruhk flees across the countryside with a group of young Padawans. His hope is to find a safe haven and prevent the impressionable younglings from experiencing any more tragedy. But tragedy is exactly what awaits them...",
     "title": "Dark Times: Fire Carrier #2"
   },
   {
@@ -28845,6 +28977,16 @@
         "name": "Garry Henderson",
         "role": "colorist",
         "slug": "garry-henderson"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "artist",
+        "slug": "gabriel-guzman"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "coverArtist",
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times: Fire Carrier #3",
@@ -28855,13 +28997,14 @@
     },
     "parentWorkSlug": "dark-times-fire-carrier",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-04-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-fire-carrier-3",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "As Jedi Master K'Kruhk and a band of Padawans distance themselves from the Empire's refugee camp, they discover a deadly secret the local militia is keeping from their Imperial masters! Now, marked for death by both factions, they must find a place of safety. But how does one escape the dark times? Into the Valley of Death!",
     "title": "Dark Times: Fire Carrier #3"
   },
   {
@@ -28891,6 +29034,16 @@
         "name": "Garry Henderson",
         "role": "colorist",
         "slug": "garry-henderson"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "artist",
+        "slug": "gabriel-guzman"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "coverArtist",
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times: Fire Carrier #4",
@@ -28901,13 +29054,14 @@
     },
     "parentWorkSlug": "dark-times-fire-carrier",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-05-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-fire-carrier-4",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Jedi Master K'Kruhk goes to war against the soldiers of a local militia in order to give the Padawans he's vowed to protect a chance to escape. But the Padawans have encountered a new, unexpected danger in the forest. What's worse is that the Empire has become suspicious of the militia's activities and is bringing in troops to investigate. The Force is a powerful ally, but even a Jedi Master can't fight a battle on three fronts!",
     "title": "Dark Times: Fire Carrier #4"
   },
   {
@@ -28937,6 +29091,16 @@
         "name": "Garry Henderson",
         "role": "colorist",
         "slug": "garry-henderson"
+      },
+      {
+        "name": "Gabriel Guzman",
+        "role": "artist",
+        "slug": "gabriel-guzman"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "coverArtist",
+        "slug": "doug-wheatley"
       }
     ],
     "displayTitle": "Dark Times: Fire Carrier #5",
@@ -28947,13 +29111,14 @@
     },
     "parentWorkSlug": "dark-times-fire-carrier",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-06-05T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-fire-carrier-5",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Jedi Master K'Kruhk's fight with militia soldiers comes to an abrupt end, with the appearance of not one, but two unexpected allies. The refuge he and his Padawans have sought may be in sight... but a shadow from within their own ranks bodes a perilous future.",
     "title": "Dark Times: Fire Carrier #5"
   },
   {
@@ -29000,7 +29165,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2011-08-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness",
     "title": "Dark Times: Out of the Wilderness"
   },
@@ -29036,6 +29202,16 @@
         "name": "Randy Stradley",
         "role": "writer",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Pablo Correa",
+        "role": "coverArtist",
+        "slug": "pablo-correa"
       }
     ],
     "displayTitle": "Dark Times: Out of the Wilderness #1",
@@ -29046,13 +29222,14 @@
     },
     "parentWorkSlug": "dark-times-out-of-the-wilderness",
     "periodical": {
+      "pageCount": 40,
       "publicationKind": "comic"
     },
     "releaseDate": "2011-08-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness-1",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Darth Vader confronts a deadly assassin... The outlaw crew of the *Uhumele* arrives at the scene of Jedi Dass Jennir's last adventure, but Jennir is already gone... And half a galaxy away, Imperial fighters are shot out of the sky by an \"unarmed\" pleasure craft. Return to the dark times, that uncharted era of Star Wars history when the Empire was new and the Jedi were hunted by Darth Vader!",
     "title": "Dark Times: Out of the Wilderness #1"
   },
   {
@@ -29087,6 +29264,16 @@
         "name": "Randy Stradley",
         "role": "writer",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Pablo Correa",
+        "role": "coverArtist",
+        "slug": "pablo-correa"
       }
     ],
     "displayTitle": "Dark Times: Out of the Wilderness #2",
@@ -29097,13 +29284,14 @@
     },
     "parentWorkSlug": "dark-times-out-of-the-wilderness",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2011-09-07T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness-2",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Everyone is after fugitive Jedi Dass Jennir. An assassin broke into an Imperial facility seeking information about Jennir's whereabouts, and the specifics of what was stolen have put Darth Vader on Jennir's trail, with the Emperor's blessing! Even the outlaw crew of the *Uhumele* are searching for their erstwhile companion.",
     "title": "Dark Times: Out of the Wilderness #2"
   },
   {
@@ -29138,6 +29326,16 @@
         "name": "Randy Stradley",
         "role": "writer",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Pablo Correa",
+        "role": "coverArtist",
+        "slug": "pablo-correa"
       }
     ],
     "displayTitle": "Dark Times: Out of the Wilderness #3",
@@ -29148,13 +29346,14 @@
     },
     "parentWorkSlug": "dark-times-out-of-the-wilderness",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2011-11-30T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness-3",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "Caged fury! Desert raiders have captured Ember Chankeli, only to discover they have a tiger who can't be tamed! Worse for them: they have a Jedi on their trail! But Jedi Master Dass Jennir had better watch his back, because a mysterious assassin and Darth Vader both want his head!",
     "title": "Dark Times: Out of the Wilderness #3"
   },
   {
@@ -29189,6 +29388,16 @@
         "name": "Randy Stradley",
         "role": "writer",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Pablo Correa",
+        "role": "coverArtist",
+        "slug": "pablo-correa"
       }
     ],
     "displayTitle": "Dark Times: Out of the Wilderness #4",
@@ -29199,13 +29408,14 @@
     },
     "parentWorkSlug": "dark-times-out-of-the-wilderness",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-02-22T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness-4",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "The mystery man is revealed! If Boba Fett is the man you call when you want someone captured, Falco Sang is the one to call when you want someone dead. Sang has been on Dass Jennir's trail for months, and now the Jedi is in his sights. But Sang isn't the only one searching for Jennir, and he should be careful that he doesn't come between Jennir and Darth Vader!",
     "title": "Dark Times: Out of the Wilderness #4"
   },
   {
@@ -29240,6 +29450,16 @@
         "name": "Randy Stradley",
         "role": "writer",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Doug Wheatley",
+        "role": "artist",
+        "slug": "doug-wheatley"
+      },
+      {
+        "name": "Pablo Correa",
+        "role": "coverArtist",
+        "slug": "pablo-correa"
       }
     ],
     "displayTitle": "Dark Times: Out of the Wilderness #5",
@@ -29250,13 +29470,14 @@
     },
     "parentWorkSlug": "dark-times-out-of-the-wilderness",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2012-04-25T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "dark-times-out-of-the-wilderness-5",
-    "synopsis": "Star Wars: Dark Times was a comic series published by Dark Horse Comics. The first issue was scheduled for release in October 2006. Similar to Star Wars: Rebellion, it is a continuation of an older series, Star Wars: Republic, and continued the numbering of Republic on the inside. It also has the same miniseries style of Rebellion, and ran in alternating arcs with it, and later the Star Wars: Invasion series.",
+    "synopsis": "In a desert wasteland, it comes to a showdown. Using Jedi Dass Jennir's friend Ember Chankeli as a pawn and his own tracking droid as a secret weapon, cold-blooded assassin Falco Sang believes he has the contest rigged. But what he hasn't counted on is not one, but three willing sacrifices. How can you win against opponents who will risk everything? And even if Sang wins, he still has one big problem: Darth Vader!",
     "title": "Dark Times: Out of the Wilderness #5"
   },
   {
@@ -49481,6 +49702,11 @@
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #9: Darklighter (Part 2 of 4)",
@@ -49546,6 +49772,11 @@
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #10: The Short, Happy Life of Roons Sewell, Part 1",
@@ -49611,6 +49842,11 @@
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #11: The Short, Happy Life of Roons Sewell, Part 2",
@@ -49671,6 +49907,11 @@
         "name": "Kilian Plunkett",
         "role": "coverArtist",
         "slug": "kilian-plunkett"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #12: Darklighter (3 of 4)",
@@ -49726,6 +49967,16 @@
         "name": "David Michael Beck",
         "role": "coverArtist",
         "slug": "david-michael-beck"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
+      },
+      {
+        "name": "Studio F",
+        "role": "colorist",
+        "slug": "studio-f"
       }
     ],
     "displayTitle": "Empire #13: What Sin Loyalty?",
@@ -49856,6 +50107,11 @@
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #15: Darklighter (4 of 4)",
@@ -49916,6 +50172,11 @@
         "name": "David Michael Beck",
         "role": "coverArtist",
         "slug": "david-michael-beck"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #16: To the Last Man (Part 1 of 3)",
@@ -49976,6 +50237,11 @@
         "name": "David Michael Beck",
         "role": "coverArtist",
         "slug": "david-michael-beck"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #17: To the Last Man (2 of 3)",
@@ -50036,6 +50302,11 @@
         "name": "David Michael Beck",
         "role": "coverArtist",
         "slug": "david-michael-beck"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "letterer",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Empire #18: To the Last Man (3 of 3)",
@@ -60944,7 +61215,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-04-22T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galaxys-edge-echoes-of-the-empire-2026-1",
     "title": "Galaxy's Edge: Echoes of the Empire (2026) #1"
   },
@@ -61045,7 +61317,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-05-27T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galaxys-edge-echoes-of-the-empire-2026-2",
     "title": "Galaxy's Edge: Echoes of the Empire (2026) #2"
   },
@@ -71571,6 +71844,11 @@
         "name": "Ramón F. Bachs",
         "role": "coverArtist",
         "slug": "ramn-f-bachs"
+      },
+      {
+        "name": "Studio F",
+        "role": "colorist",
+        "slug": "studio-f"
       }
     ],
     "displayTitle": "Jango Fett: Open Seasons #4",
@@ -74485,7 +74763,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-12-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "jedi-knights-2025-10",
     "title": "Jedi Knights (2025) #10"
   },
@@ -77990,13 +78269,15 @@
       }
     ],
     "displayTitle": "Kanan 1: The Last Padawan, Part I: Fight",
+    "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "parentWorkSlug": "kanan",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "2015-04-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "kanan-the-last-padawan-2015-1",
     "title": "Kanan 1: The Last Padawan, Part I: Fight"
   },
@@ -78040,6 +78321,7 @@
       }
     ],
     "displayTitle": "Kanan 11: First Blood, Part V: The Fog of War",
+    "era": "reignOfTheEmpire",
     "format": "periodicalIssue",
     "parentWorkSlug": "kanan",
     "periodical": {
@@ -87978,7 +88260,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-02-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-1",
     "title": "Legacy of Vader (2025) #1"
   },
@@ -88033,7 +88316,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-11-05T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-10",
     "title": "Legacy of Vader (2025) #10"
   },
@@ -88088,7 +88372,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-12-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-11",
     "title": "Legacy of Vader (2025) #11"
   },
@@ -88143,7 +88428,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-01-14T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-12",
     "title": "Legacy of Vader (2025) #12"
   },
@@ -88197,7 +88483,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-03-12T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-2",
     "title": "Legacy of Vader (2025) #2"
   },
@@ -88251,7 +88538,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-04-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-3",
     "title": "Legacy of Vader (2025) #3"
   },
@@ -88306,7 +88594,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-07-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-6",
     "title": "Legacy of Vader (2025) #6"
   },
@@ -88361,7 +88650,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-08-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-7",
     "title": "Legacy of Vader (2025) #7"
   },
@@ -88416,7 +88706,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-09-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-8",
     "title": "Legacy of Vader (2025) #8"
   },
@@ -88471,7 +88762,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-10-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-of-vader-2025-9",
     "title": "Legacy of Vader (2025) #9"
   },
@@ -96923,6 +97215,11 @@
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "colorist",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Obsession #1",
@@ -96988,6 +97285,11 @@
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "colorist",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Obsession #2",
@@ -97053,6 +97355,11 @@
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "colorist",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Obsession #3",
@@ -97118,6 +97425,11 @@
         "name": "Brad Anderson",
         "role": "coverArtist",
         "slug": "brad-anderson"
+      },
+      {
+        "name": "Sno Cone",
+        "role": "colorist",
+        "slug": "sno-cone"
       }
     ],
     "displayTitle": "Obsession #4",
@@ -99364,7 +99676,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-04-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-26",
     "title": "Poe Dameron (2016) #26"
   },
@@ -99418,7 +99731,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-27",
     "title": "Poe Dameron (2016) #27"
   },
@@ -99472,7 +99786,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-06-20T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-28",
     "title": "Poe Dameron (2016) #28"
   },
@@ -99526,7 +99841,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-07-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-29",
     "title": "Poe Dameron (2016) #29"
   },
@@ -99580,7 +99896,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-08-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-30",
     "title": "Poe Dameron (2016) #30"
   },
@@ -99634,7 +99951,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-09-26T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-2016-31",
     "title": "Poe Dameron (2016) #31"
   },
@@ -109258,6 +109576,26 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
+      },
+      {
+        "name": "Rod Pereira",
+        "role": "penciler",
+        "slug": "rod-pereira"
+      },
+      {
+        "name": "Stephen Hawthorne",
+        "role": "inker",
+        "slug": "stephen-hawthorne"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Ken Kelly",
+        "role": "coverArtist",
+        "slug": "ken-kelly"
       }
     ],
     "displayTitle": "Republic #09: Outlander, Part 3",
@@ -116650,7 +116988,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-06-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-jyn-erso",
     "title": "Rogue One: Jyn Erso"
   },
@@ -116730,7 +117069,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-06-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-jyn-erso-2026-1",
     "title": "Rogue One: Jyn Erso (2026) #1"
   },
@@ -119283,7 +119623,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-03-04T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadow-of-maul-2026-1",
     "title": "Shadow of Maul (2026) #1"
   },
@@ -119338,7 +119679,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-04-08T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadow-of-maul-2026-2",
     "title": "Shadow of Maul (2026) #2"
   },
@@ -119393,7 +119735,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-05-13T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadow-of-maul-2026-3",
     "title": "Shadow of Maul (2026) #3"
   },
@@ -119448,7 +119791,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-06-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadow-of-maul-2026-4",
     "title": "Shadow of Maul (2026) #4"
   },
@@ -134768,7 +135112,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-02-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-2025-10",
     "title": "Star Wars (2025) #10"
   },
@@ -134823,7 +135168,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2025-12-24T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-2025-8",
     "title": "Star Wars (2025) #8"
   },
@@ -134878,7 +135224,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-01-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-2025-9",
     "title": "Star Wars (2025) #9"
   },
@@ -153258,7 +153605,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2003-11-26T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-return-of-the-jedi-2003-1",
     "synopsis": "Welcome to the third installment of Infinities, the series that asks the question, \"What would happen if you changed one little thing from the story in the film?\" In this version of Return of the Jedi, an accident puts C-3PO out of commission, and he is unable to act as Jabba the Hutt's interpreter during his negotiations with Leia (disguised as the bounty hunter Boushh) for her \"prisoner\" Chewbacca. One misunderstanding leads to another, and before you know it, thermal detonators are flying and everybody's shooting! When the smoke clears, Boba Fett has reclaimed Han Solo's frozen body, Leia has commandeered Jabba's sail barge, and Luke is going to be late for an important rendezvous on Dagobah... See Return of the Jedi as it might have happened! All of the action of the film--only different!",
     "title": "Star Wars Infinities: Return of the Jedi (2003) #1"
@@ -153328,7 +153676,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-01-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-return-of-the-jedi-2003-2",
     "synopsis": "As Leia, Lando, and Chewbacca pursue Boba Fett in an effort to retrieve the frozen form of Han Solo, Luke Skywalker discovers that he has arrived too late for his rendezvous with Yoda. Worse, he has run into the waiting clutches of Darth Vader. Unaware that Luke has been captured by the Empire, Leia and the others have their own encounter with Imperials ?as well as a fateful showdown with Fett! All of the characters and situations you loved from the film, but twisted and altered by fate as can only happen in Infinities!",
     "title": "Star Wars Infinities: Return of the Jedi (2003) #2"
@@ -153383,7 +153732,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-03-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-return-of-the-jedi-2003-3",
     "synopsis": "Han is rescued, but Luke has been captured, and Leia's determination to free him has led to a precipitous and premature attack on the Death Star! Meanwhile the Rebel ground troops on Endor have run into their own problems. It all leads up to a surprising setback for the Rebel Alliance - and for Luke Skywalker in particular! The events of Return of the Jedi have been altered from what you saw in the film! The characters are the same, but the adventure is all new! The possibilities are endless! * Now available worldwide (except UK)!",
     "title": "Star Wars Infinities: Return of the Jedi (2003) #3"
@@ -153522,7 +153872,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2002-08-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-the-empire-strikes-back-2002-2",
     "synopsis": "In the bizarre Star Wars Infinities universe, nothing is set in stone, and ANYTHING can happen! Our heroes deal with the aftermath of Luke Skywalker's death and a catastrophic attack on the Rebel Alliance's Hoth base as Boba Fett arrives at Cloud City early to cut a deal with Lando. Thinking that Fett's boss is Jabba the Hutt, Han and his Rebel allies leave Cloud City behind...and you won't believe what fate has in store for the city in the clouds! Searching for a Jedi Master in the jungles of Dagobah, Han Solo thinks that he's on his way to becoming a Jedi Knight...but the Force has big plans for someone else! This mini-series blows the cap off everything you thought you knew about Star Wars: Episode V! Containing more twists and turns than you'd ever expect and culminating in an uncanny battle between two of the most famous -- and infamous -- living Jedi Knights ever to pick up a lightsaber, this series features incredible covers by Chris Bachalo (Steampunk's). Don't miss the most startling take on The Empire Strikes Back you'll ever see!",
     "title": "Star Wars Infinities: The Empire Strikes Back (2002) #2"
@@ -153563,7 +153914,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2002-10-23T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-the-empire-strikes-back-2002-3",
     "synopsis": "Han Solo is as skilled, clever, and resourceful as they come, but this time even HE may have bitten off more than he can chew. With Jabba the Hutt's bounty on his head, there doesn't seem to be a place in the known galaxies where he can hide for long. But, Han Solo is smart. That's why he comes clean and plans to pay Jabba back what's owed from a botched smuggler's run. Enter a shrewd Devronian with a taste for money that decides Solo's a prize that's too good to pass up. And since this mercenary is working for Jabba directly, it doesn't bode well for Solo and Chewie. What fate will await them in the dark, odorous prison-depths of Jabba's palace? And what infamous, uninvited guest will drop by and completely alter the chase for the last living Skywalker?",
     "title": "Star Wars Infinities: The Empire Strikes Back (2002) #3"
@@ -153609,7 +153961,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2002-11-20T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-infinities-the-empire-strikes-back-2002-4",
     "synopsis": "Dagobah is a mysterious place. Beneath the heavy canopy of ancient trees lies a strange jungle inhabited by creatures in caves and swamps not seen elsewhere. Dagobah is also home to the greatest living Jedi Master, Yoda. It's here that he has trained young Leia Skywalker to take her rightful place in the Jedi Order. Though she has quickly learned what he's taught her, she is not a Jedi yet. She has two important final tasks to complete. Yoda, too, has a final mission. His home is about to become a battleground, as he faces the fiercest soldier the dark side has ever commanded: Darth Vader! In a mortal confrontation on an astral plane, these warriors will clash for the fate of the universe!",
     "title": "Star Wars Infinities: The Empire Strikes Back (2002) #4"
@@ -168451,7 +168804,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2023-11-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-visions-peach-momoko-visions-peach-momoko-2023-1",
     "title": "Visions: Peach Momoko (2023) #1"
   },
@@ -178203,7 +178557,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2020-04-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-action-figure-variant-covers-2020-1",
     "title": "The Action Figure Variant Covers (2020) #1"
   },
@@ -184192,7 +184547,8 @@
       "publicationKind": "magazine"
     },
     "releaseDate": "2011-06-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-clone-wars-magazine",
     "title": "The Clone Wars Magazine"
   },
@@ -220975,7 +221331,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2022-10-12T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "visions-2022-1",
     "title": "Visions (2022) #1"
   },
@@ -221020,7 +221377,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2024-03-20T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "visions-takashi-okazaki-2024-1",
     "title": "Visions: Takashi Okazaki (2024) #1"
   },

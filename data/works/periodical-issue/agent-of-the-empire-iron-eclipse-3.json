@@ -25,6 +25,11 @@
       "name": "Julien Hugonnard-Bert",
       "role": "inker",
       "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse #3",
@@ -35,11 +40,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-02-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-iron-eclipse-3",
+  "synopsis": "Framed for a murder he didn't commit, Imperial Agent Jahan Cross is on the run from Corporate Sector authorities, and uncovering the secrets behind the mysterious \"Iron Eclipse\" project, all without the assistance of his missing droid, IN-GA 44. But Cross is not entirely without allies, because he knows these two smugglers with a very fast ship...",
   "title": "Agent of the Empire: Iron Eclipse #3"
 }

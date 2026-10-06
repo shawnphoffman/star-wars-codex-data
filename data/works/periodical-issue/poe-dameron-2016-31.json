@@ -48,7 +48,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2018-09-26T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "poe-dameron-2016-31",
   "title": "Poe Dameron (2016) #31"
 }

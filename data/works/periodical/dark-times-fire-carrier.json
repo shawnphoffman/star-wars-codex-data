@@ -37,7 +37,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2013-02-06T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-times-fire-carrier",
   "title": "Dark Times: Fire Carrier"
 }

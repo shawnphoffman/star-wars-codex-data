@@ -25,6 +25,11 @@
       "name": "Julien Hugonnard-Bert",
       "role": "inker",
       "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse #5",
@@ -35,11 +40,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-04-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-iron-eclipse-5",
+  "synopsis": "Jahan Cross finally learns the truth about the deadly project called \"Iron Eclipse.\" Now all he has to do is defeat the crazed mastermind behind it all, keep his allies from double-crossing him, and escape the Corporate Sector with his life! All in a day's work for an Agent of the Empire!",
   "title": "Agent of the Empire: Iron Eclipse #5"
 }

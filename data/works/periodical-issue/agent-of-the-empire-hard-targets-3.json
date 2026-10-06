@@ -30,6 +30,11 @@
       "name": "Davidé Fabbri",
       "role": "penciler",
       "slug": "david-fabbri"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Hard Targets #3",
@@ -40,11 +45,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-hard-targets",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-12-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-hard-targets-3",
+  "synopsis": "A young boy, the heir to the title of Count Dooku, is kidnapped, and it's Jahan Cross to the rescue! When the kidnapper turns out to be a sexy female spy with whom Cross has worked before, and when her motives turn out to have the boy's welfare at heart, Cross is faced with a decision: should he disobey his own orders from the Empire? But first there's a little matter of breaking out of a supposedly inescapable prison...",
   "title": "Agent of the Empire: Hard Targets #3"
 }

@@ -25,6 +25,11 @@
       "name": "Julien Hugonnard-Bert",
       "role": "inker",
       "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse #4",
@@ -35,11 +40,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
-  "releaseDate": "2012-04-14T00:00:00.000Z",
+  "releaseDate": "2012-03-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-iron-eclipse-4",
+  "synopsis": "So far tonight, Jahan Cross has been \"killed,\" has entered into a \"marriage\" of convenience with the sister of his enemy, and has had a knock-down, drag-out fight with a murderous droid. Now he's onboard the Millennium Falcon and headed for an obvious trap! All in a night's work for an agent of the Empire!",
   "title": "Agent of the Empire: Iron Eclipse #4"
 }

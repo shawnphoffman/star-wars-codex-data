@@ -42,7 +42,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2011-08-03T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "dark-times-out-of-the-wilderness",
   "title": "Dark Times: Out of the Wilderness"
 }

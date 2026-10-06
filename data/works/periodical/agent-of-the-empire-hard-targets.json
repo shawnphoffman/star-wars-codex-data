@@ -42,7 +42,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2012-10-17T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "agent-of-the-empire-hard-targets",
   "title": "Agent of the Empire: Hard Targets"
 }

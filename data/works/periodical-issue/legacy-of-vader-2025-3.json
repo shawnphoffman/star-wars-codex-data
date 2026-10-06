@@ -48,7 +48,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2025-04-16T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "legacy-of-vader-2025-3",
   "title": "Legacy of Vader (2025) #3"
 }

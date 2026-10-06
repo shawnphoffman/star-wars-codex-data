@@ -49,7 +49,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2026-05-13T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "shadow-of-maul-2026-3",
   "title": "Shadow of Maul (2026) #3"
 }

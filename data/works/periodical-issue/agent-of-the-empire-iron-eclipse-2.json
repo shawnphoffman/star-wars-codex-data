@@ -25,6 +25,11 @@
       "name": "Julien Hugonnard-Bert",
       "role": "inker",
       "slug": "julien-hugonnard-bert"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse #2",
@@ -35,11 +40,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-01-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-iron-eclipse-2",
+  "synopsis": "Undercover as a diplomatic attaché, Imperial agent Jahan Cross continues his investigation into the stolen droid technology and the mysterious project known as \"Iron Eclipse.\" At an elegant embassy soirée in the Corporate Sector, Cross locks his sights on the Stark family. Before the evening is over, more than one player will be out of the game, and Cross will be wanted for murder!",
   "title": "Agent of the Empire: Iron Eclipse #2"
 }

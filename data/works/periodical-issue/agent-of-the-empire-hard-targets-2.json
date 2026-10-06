@@ -30,6 +30,11 @@
       "name": "Davidé Fabbri",
       "role": "penciler",
       "slug": "david-fabbri"
+    },
+    {
+      "name": "Stéphane Roux",
+      "role": "coverArtist",
+      "slug": "stphane-roux"
     }
   ],
   "displayTitle": "Agent of the Empire: Hard Targets #2",
@@ -40,11 +45,13 @@
   },
   "parentWorkSlug": "agent-of-the-empire-hard-targets",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2012-11-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "agent-of-the-empire-hard-targets-2",
+  "synopsis": "Imperial Agent Jahan Cross doesn't like his assignment or the politicians he is forced to work with. Yet dealing with all of that is easier than coming to terms with his growing respect for a boy whose father he killed, especially when that boy is supposed to be merely a political pawn of the Empire. When attackers kidnap the boy, Cross finds himself turning his back on his mission and putting his life on the line for a \"pawn.\" No job is too dangerous for an Agent of the Empire!",
   "title": "Agent of the Empire: Hard Targets #2"
 }
