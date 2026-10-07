@@ -10,6 +10,21 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #01",
@@ -20,11 +35,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-03-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-1",
+  "synopsis": "Exploring the galaxy . . . Solo style! Despite her famous heritage, Ania Solo is just a girl trying to make her way in a galaxy gone bad. But it all gets worse when she comes into possession of a lightsaber and an Imperial communications droid, and discovers she has been targeted for death!",
   "title": "Legacy (Volume 2) #01"
 }

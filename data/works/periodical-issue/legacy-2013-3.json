@@ -10,6 +10,21 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #03",
@@ -20,11 +35,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-05-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-3",
+  "synopsis": "Ania Solo and her friends have been chased, blockaded, and shot at, and now they're stuck on a world of molten sulfur all because an Imperial Knight wants them dead. Just when things seem bleakest, another Imperial Knight shows up! Is he here to help them, or help destroy them?",
   "title": "Legacy (Volume 2) #03"
 }

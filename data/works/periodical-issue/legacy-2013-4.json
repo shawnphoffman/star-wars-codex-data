@@ -10,6 +10,21 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #04",
@@ -20,11 +35,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-06-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-4",
+  "synopsis": "A vanishing planet and an impostor revealed . . . a deadly trap and a dangerous escape. When Ania Solo set out in search of adventure, little did she know trouble, peril, and the Sith would be along for the ride!",
   "title": "Legacy (Volume 2) #04"
 }

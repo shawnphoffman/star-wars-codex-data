@@ -59865,7 +59865,8 @@
     "displayTitle": "Galactic Racer: The Art of Speed",
     "format": "book",
     "releaseDate": "2026-10-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galactic-racer-the-art-of-speed",
     "synopsis": "The Star Wars: Galactic Racer™ Digital Art Book showcases never-before-seen character, vehicle, and location artwork from the development of Star Wars: Galactic Race",
     "title": "Galactic Racer: The Art of Speed"
@@ -85905,6 +85906,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Dave Wilkins",
+        "role": "coverArtist",
+        "slug": "dave-wilkins"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #01",
@@ -85915,12 +85931,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-03-20T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-1",
+    "synopsis": "Exploring the galaxy . . . Solo style! Despite her famous heritage, Ania Solo is just a girl trying to make her way in a galaxy gone bad. But it all gets worse when she comes into possession of a lightsaber and an Imperial communications droid, and discovers she has been targeted for death!",
     "title": "Legacy (Volume 2) #01"
   },
   {
@@ -86214,6 +86232,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Dave Wilkins",
+        "role": "coverArtist",
+        "slug": "dave-wilkins"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #02",
@@ -86224,12 +86257,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-04-24T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-2",
+    "synopsis": "Ania Solo found a lightsaber inside a broken Imperial communications droid. Now she's being pursued by the local police, and a determined Imperial Knight who is willing to kill to get the weapon! Fortunately, as a black-market salvage dealer, Ania has made some formidable friends of her own . . .",
     "title": "Legacy (Volume 2) #02"
   },
   {
@@ -86244,6 +86279,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Dave Wilkins",
+        "role": "coverArtist",
+        "slug": "dave-wilkins"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #03",
@@ -86254,12 +86304,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-05-22T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-3",
+    "synopsis": "Ania Solo and her friends have been chased, blockaded, and shot at, and now they're stuck on a world of molten sulfur all because an Imperial Knight wants them dead. Just when things seem bleakest, another Imperial Knight shows up! Is he here to help them, or help destroy them?",
     "title": "Legacy (Volume 2) #03"
   },
   {
@@ -86274,6 +86326,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Dave Wilkins",
+        "role": "coverArtist",
+        "slug": "dave-wilkins"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #04",
@@ -86284,12 +86351,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-06-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-4",
+    "synopsis": "A vanishing planet and an impostor revealed . . . a deadly trap and a dangerous escape. When Ania Solo set out in search of adventure, little did she know trouble, peril, and the Sith would be along for the ride!",
     "title": "Legacy (Volume 2) #04"
   },
   {
@@ -86304,6 +86373,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
+      },
+      {
+        "name": "Dave Wilkins",
+        "role": "coverArtist",
+        "slug": "dave-wilkins"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #05",
@@ -86314,12 +86398,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-07-24T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-5",
+    "synopsis": "The bad news: Ania Solo and her friends are on a planetoid that's on a collision course with a huge space station. The worse news: a mad Sith warrior stands between them and escape! Imminent fiery destruction, or white-hot dismemberment by lightsaber? Some days there are just no good choices!",
     "title": "Legacy (Volume 2) #05"
   },
   {
@@ -86334,6 +86420,16 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Brian Albert Thies",
+        "role": "artist",
+        "slug": "brian-albert-thies"
+      },
+      {
+        "name": "Livio Ramondelli",
+        "role": "coverArtist",
+        "slug": "livio-ramondelli"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #06",
@@ -86344,12 +86440,14 @@
     },
     "parentWorkSlug": "legacy-2013",
     "periodical": {
+      "pageCount": 32,
       "publicationKind": "comic"
     },
     "releaseDate": "2013-08-28T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "legacy-2013-6",
+    "synopsis": "When word comes that Sith are being sought out and murdered by another Sith, Ania Solo and Imperial Knight Jao want to find out why. The only things standing in their way are the Empire, the Jedi, the Galactic Alliance, and the Imperial Knights!",
     "title": "Legacy (Volume 2) #06"
   },
   {
@@ -123832,8 +123930,8 @@
     "era": "multiEra",
     "format": "book",
     "releaseDate": "2026-10-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
-    "releaseStatus": "announced",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-pilots",
     "synopsis": "Wedge Antilles – hero, warrior, star pilot. The only rebel to face two Death Stars and live to tell the tale. Wedge confronted death countless times, in battles large and small, where split-second decisions often meant the difference between survival and a fiery demise. Now, he tells his story, and those of the brave pilots he served with and elite enemies he fought against. Aided by unsealed archives from the New Republic, and unreleased interviews of Imperial and Alliance veterans, Antilles gives the definitive account of what it was to fight the Galactic Civil War from the cockpit of a starfighter. The ships, tactics, and weapons, but also the quiet times and camaraderie, the moments of fear and despair, the thrill of victory and the aching loss of friends. This is the untold story of the galaxy’s star pilots.",
     "title": "Star Pilots"
@@ -150832,8 +150930,8 @@
     "era": "newRepublic",
     "format": "videoGame",
     "releaseDate": "2026-10-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
-    "releaseStatus": "announced",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-galactic-racer",
     "synopsis": "Star Wars: Galactic Racer is a runs-based, high-stakes reinvention of racing born in the lawless Outer Rim. With the Empire gone and the galaxy rebuilding, The Galactic League is created: an underground, unsanctioned circuit where syndicates bankroll chaos and champions are forged.",
     "title": "Star Wars: Galactic Racer"
@@ -153821,6 +153919,16 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Philip D. Amara",
+        "role": "editor",
+        "slug": "philip-d-amara"
+      },
+      {
+        "name": "Chris Bachalo",
+        "role": "coverArtist",
+        "slug": "chris-bachalo"
       }
     ],
     "displayTitle": "Infinities: The Empire Strikes Back (2002) #1",
@@ -153863,6 +153971,16 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Philip D. Amara",
+        "role": "editor",
+        "slug": "philip-d-amara"
+      },
+      {
+        "name": "Chris Bachalo",
+        "role": "coverArtist",
+        "slug": "chris-bachalo"
       }
     ],
     "displayTitle": "Infinities: The Empire Strikes Back (2002) #2",
@@ -153905,6 +154023,16 @@
         "name": "Davidé Fabbri",
         "role": "penciler",
         "slug": "david-fabbri"
+      },
+      {
+        "name": "Philip D. Amara",
+        "role": "editor",
+        "slug": "philip-d-amara"
+      },
+      {
+        "name": "Chris Bachalo",
+        "role": "coverArtist",
+        "slug": "chris-bachalo"
       }
     ],
     "displayTitle": "Infinities: The Empire Strikes Back (2002) #3",

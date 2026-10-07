@@ -10,6 +10,21 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #05",
@@ -20,11 +35,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-07-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-5",
+  "synopsis": "The bad news: Ania Solo and her friends are on a planetoid that's on a collision course with a huge space station. The worse news: a mad Sith warrior stands between them and escape! Imminent fiery destruction, or white-hot dismemberment by lightsaber? Some days there are just no good choices!",
   "title": "Legacy (Volume 2) #05"
 }

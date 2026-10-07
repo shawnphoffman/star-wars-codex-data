@@ -10,6 +10,16 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Brian Albert Thies",
+      "role": "artist",
+      "slug": "brian-albert-thies"
+    },
+    {
+      "name": "Livio Ramondelli",
+      "role": "coverArtist",
+      "slug": "livio-ramondelli"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #06",
@@ -20,11 +30,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-08-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-6",
+  "synopsis": "When word comes that Sith are being sought out and murdered by another Sith, Ania Solo and Imperial Knight Jao want to find out why. The only things standing in their way are the Empire, the Jedi, the Galactic Alliance, and the Imperial Knights!",
   "title": "Legacy (Volume 2) #06"
 }

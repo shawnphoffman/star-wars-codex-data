@@ -10,6 +10,21 @@
       "name": "Gabriel Hardman",
       "role": "writer",
       "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Gabriel Hardman",
+      "role": "artist",
+      "slug": "gabriel-hardman"
+    },
+    {
+      "name": "Rachelle Rosenberg",
+      "role": "colorist",
+      "slug": "rachelle-rosenberg"
+    },
+    {
+      "name": "Dave Wilkins",
+      "role": "coverArtist",
+      "slug": "dave-wilkins"
     }
   ],
   "displayTitle": "Legacy (Volume 2) #02",
@@ -20,11 +35,13 @@
   },
   "parentWorkSlug": "legacy-2013",
   "periodical": {
+    "pageCount": 32,
     "publicationKind": "comic"
   },
   "releaseDate": "2013-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "legacy-2013-2",
+  "synopsis": "Ania Solo found a lightsaber inside a broken Imperial communications droid. Now she's being pursued by the local police, and a determined Imperial Knight who is willing to kill to get the weapon! Fortunately, as a black-market salvage dealer, Ania has made some formidable friends of her own . . .",
   "title": "Legacy (Volume 2) #02"
 }
