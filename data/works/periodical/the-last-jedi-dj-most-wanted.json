@@ -1,12 +1,13 @@
 {
   "canonStatus": "canon",
-  "displayTitle": "The Last Jedi: Dj: Most Wanted",
+  "displayTitle": "The Last Jedi: DJ: Most Wanted",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2018-01-31T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-last-jedi-dj-most-wanted",
-  "title": "The Last Jedi: Dj: Most Wanted"
+  "title": "The Last Jedi: DJ: Most Wanted"
 }

@@ -20,6 +20,25 @@
       "name": "Dan Jackson",
       "role": "colorist",
       "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "coverArtist",
+      "slug": "mark-schultz"
     }
   ],
   "displayTitle": "Republic #13: Emissaries to Malastare, Part 1",

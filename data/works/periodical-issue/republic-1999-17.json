@@ -20,6 +20,30 @@
       "name": "Dan Jackson",
       "role": "colorist",
       "slug": "dan-jackson"
+    },
+    {
+      "name": "Michael Taylor",
+      "role": "letterer",
+      "slug": "michael-taylor"
+    },
+    {
+      "name": "Dave Land",
+      "role": "editor",
+      "slug": "dave-land"
+    },
+    {
+      "name": "Peet Janes",
+      "role": "editor",
+      "slug": "peet-janes"
+    },
+    {
+      "name": "Darin Fabrick",
+      "slug": "darin-fabrick"
+    },
+    {
+      "name": "Mark Schultz",
+      "role": "coverArtist",
+      "slug": "mark-schultz"
     }
   ],
   "displayTitle": "Republic #17: Emissaries to Malastare, Part 5",

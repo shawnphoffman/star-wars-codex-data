@@ -42,14 +42,15 @@
       "slug": "marc-deering"
     }
   ],
-  "displayTitle": "The Last Jedi: Dj: Most Wanted (2018) #1",
+  "displayTitle": "The Last Jedi: DJ: Most Wanted (2018) #1",
   "format": "periodicalIssue",
   "parentWorkSlug": "the-last-jedi-dj-most-wanted",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2018-01-31T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-last-jedi-dj-most-wanted-2018-1",
-  "title": "The Last Jedi: Dj: Most Wanted (2018) #1"
+  "title": "The Last Jedi: DJ: Most Wanted (2018) #1"
 }

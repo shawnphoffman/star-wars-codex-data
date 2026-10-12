@@ -108110,6 +108110,25 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Mark Schultz",
+        "role": "coverArtist",
+        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Republic #14: Emissaries to Malastare, Part 2",
@@ -108151,6 +108170,25 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Mark Schultz",
+        "role": "coverArtist",
+        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Republic #15: Emissaries to Malastare, Part 3",
@@ -108202,6 +108240,30 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Mark Schultz",
+        "role": "coverArtist",
+        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Republic #16: Emissaries to Malastare, Part 4",
@@ -108248,6 +108310,20 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Republic #19: Twilight, Part 1",
@@ -108442,6 +108518,25 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Mark Schultz",
+        "role": "coverArtist",
+        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Republic #13: Emissaries to Malastare, Part 1",
@@ -108483,6 +108578,30 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Michael Taylor",
+        "role": "letterer",
+        "slug": "michael-taylor"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Peet Janes",
+        "role": "editor",
+        "slug": "peet-janes"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Mark Schultz",
+        "role": "coverArtist",
+        "slug": "mark-schultz"
       }
     ],
     "displayTitle": "Republic #17: Emissaries to Malastare, Part 5",
@@ -108529,6 +108648,20 @@
         "name": "Dan Jackson",
         "role": "colorist",
         "slug": "dan-jackson"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Republic #18: Emissaries to Malastare, Part 6",
@@ -109914,6 +110047,20 @@
         "name": "David McCaig",
         "role": "colorist",
         "slug": "david-mccaig"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
+      },
+      {
+        "name": "Darin Fabrick",
+        "slug": "darin-fabrick"
+      },
+      {
+        "name": "Jan Duursema",
+        "role": "coverArtist",
+        "slug": "jan-duursema"
       }
     ],
     "displayTitle": "Republic #20: Twilight, Part 2",
@@ -207074,15 +207221,16 @@
   },
   {
     "canonStatus": "canon",
-    "displayTitle": "The Last Jedi: Dj: Most Wanted",
+    "displayTitle": "The Last Jedi: DJ: Most Wanted",
     "format": "periodical",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "2018-01-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-dj-most-wanted",
-    "title": "The Last Jedi: Dj: Most Wanted"
+    "title": "The Last Jedi: DJ: Most Wanted"
   },
   {
     "canonStatus": "canon",
@@ -207128,16 +207276,17 @@
         "slug": "marc-deering"
       }
     ],
-    "displayTitle": "The Last Jedi: Dj: Most Wanted (2018) #1",
+    "displayTitle": "The Last Jedi: DJ: Most Wanted (2018) #1",
     "format": "periodicalIssue",
     "parentWorkSlug": "the-last-jedi-dj-most-wanted",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "2018-01-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-dj-most-wanted-2018-1",
-    "title": "The Last Jedi: Dj: Most Wanted (2018) #1"
+    "title": "The Last Jedi: DJ: Most Wanted (2018) #1"
   },
   {
     "bookType": "adultNovel",
