@@ -86278,6 +86278,21 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Brian Albert Thies",
+        "role": "artist",
+        "slug": "brian-albert-thies"
+      },
+      {
+        "name": "Jordan Boyd",
+        "role": "colorist",
+        "slug": "jordan-boyd"
+      },
+      {
+        "name": "Agustin Alessio",
+        "role": "coverArtist",
+        "slug": "agustin-alessio"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #17",
@@ -86310,6 +86325,26 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "role": "artist",
+        "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Brian Albert Thies",
+        "role": "artist",
+        "slug": "brian-albert-thies"
+      },
+      {
+        "name": "Jordan Boyd",
+        "role": "colorist",
+        "slug": "jordan-boyd"
+      },
+      {
+        "name": "Agustin Alessio",
+        "role": "coverArtist",
+        "slug": "agustin-alessio"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #18",
@@ -86572,6 +86607,16 @@
         "name": "Gabriel Hardman",
         "role": "writer",
         "slug": "gabriel-hardman"
+      },
+      {
+        "name": "Brian Albert Thies",
+        "role": "artist",
+        "slug": "brian-albert-thies"
+      },
+      {
+        "name": "Livio Ramondelli",
+        "role": "coverArtist",
+        "slug": "livio-ramondelli"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #07",
@@ -167310,7 +167355,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Jess Harrold",
@@ -168256,7 +168301,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "The Skywalker Saga - The Official Collector's Edition",
     "editions": [
       {
@@ -191022,7 +191067,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Complete Marvel Comics Covers, Vol. 1",
     "editions": [
       {
