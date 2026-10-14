@@ -2,21 +2,6 @@
   "canonStatus": "non-canon",
   "creators": [
     {
-      "name": "Rob Chestney",
-      "role": "writer",
-      "slug": "rob-chestney"
-    },
-    {
-      "name": "Alex Sanchez",
-      "role": "inker",
-      "slug": "alex-sanchez"
-    },
-    {
-      "name": "Alex Sanchez",
-      "role": "penciler",
-      "slug": "alex-sanchez"
-    },
-    {
       "name": "Michael Atiyeh",
       "role": "colorist",
       "slug": "michael-atiyeh"
@@ -30,6 +15,31 @@
       "name": "Alex Sanchez",
       "role": "artist",
       "slug": "alex-sanchez"
+    },
+    {
+      "name": "Alex Sanchez",
+      "role": "inker",
+      "slug": "alex-sanchez"
+    },
+    {
+      "name": "Alex Sanchez",
+      "role": "penciler",
+      "slug": "alex-sanchez"
+    },
+    {
+      "name": "Benjamin Carré",
+      "role": "coverArtist",
+      "slug": "benjamin-carre"
+    },
+    {
+      "name": "Attik Studio",
+      "role": "coverArtist",
+      "slug": "attik-studio"
+    },
+    {
+      "name": "Rob Chestney",
+      "role": "writer",
+      "slug": "rob-chestney"
     }
   ],
   "displayTitle": "The Old Republic #1: Threat of Peace, Part 1",
