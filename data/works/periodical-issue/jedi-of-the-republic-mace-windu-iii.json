@@ -15,6 +15,36 @@
       "name": "Jesús Saiz",
       "role": "artist",
       "slug": "jesus-saiz"
+    },
+    {
+      "name": "Denys Cowan",
+      "role": "penciler",
+      "slug": "denys-cowan"
+    },
+    {
+      "name": "Joe Caramagna",
+      "role": "letterer",
+      "slug": "joe-caramagna"
+    },
+    {
+      "name": "Jordan D. White",
+      "role": "editor",
+      "slug": "jordan-d-white"
+    },
+    {
+      "name": "Guru Efx",
+      "role": "colorist",
+      "slug": "guru-efx"
+    },
+    {
+      "name": "Jesús Saiz",
+      "role": "coverArtist",
+      "slug": "jesus-saiz"
+    },
+    {
+      "name": "Roberto Poggi",
+      "role": "inker",
+      "slug": "roberto-poggi"
     }
   ],
   "displayTitle": "Jedi of the Republic-Mace Windu, Part III",

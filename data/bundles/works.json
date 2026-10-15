@@ -75146,6 +75146,41 @@
         "name": "Jesús Saiz",
         "role": "artist",
         "slug": "jesus-saiz"
+      },
+      {
+        "name": "Denys Cowan",
+        "role": "penciler",
+        "slug": "denys-cowan"
+      },
+      {
+        "name": "Keith Champagne",
+        "role": "inker",
+        "slug": "keith-champagne"
+      },
+      {
+        "name": "Roberto Poggi",
+        "role": "inker",
+        "slug": "roberto-poggi"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "letterer",
+        "slug": "joe-caramagna"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "editor",
+        "slug": "jordan-d-white"
+      },
+      {
+        "name": "Guru Efx",
+        "role": "colorist",
+        "slug": "guru-efx"
+      },
+      {
+        "name": "Jesús Saiz",
+        "role": "coverArtist",
+        "slug": "jesus-saiz"
       }
     ],
     "displayTitle": "Jedi of the Republic-Mace Windu, Part II",
@@ -75182,6 +75217,36 @@
         "name": "Jesús Saiz",
         "role": "artist",
         "slug": "jesus-saiz"
+      },
+      {
+        "name": "Denys Cowan",
+        "role": "penciler",
+        "slug": "denys-cowan"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "letterer",
+        "slug": "joe-caramagna"
+      },
+      {
+        "name": "Jordan D. White",
+        "role": "editor",
+        "slug": "jordan-d-white"
+      },
+      {
+        "name": "Guru Efx",
+        "role": "colorist",
+        "slug": "guru-efx"
+      },
+      {
+        "name": "Jesús Saiz",
+        "role": "coverArtist",
+        "slug": "jesus-saiz"
+      },
+      {
+        "name": "Roberto Poggi",
+        "role": "inker",
+        "slug": "roberto-poggi"
       }
     ],
     "displayTitle": "Jedi of the Republic-Mace Windu, Part III",
@@ -75218,6 +75283,46 @@
         "name": "Jesús Saiz",
         "role": "artist",
         "slug": "jesus-saiz"
+      },
+      {
+        "name": "Scott Hanna",
+        "role": "inker",
+        "slug": "scott-hanna"
+      },
+      {
+        "name": "Roberto Poggi",
+        "role": "inker",
+        "slug": "roberto-poggi"
+      },
+      {
+        "name": "Denys Cowan",
+        "role": "penciler",
+        "slug": "denys-cowan"
+      },
+      {
+        "name": "Edgar Salazar",
+        "role": "penciler",
+        "slug": "edgar-salazar"
+      },
+      {
+        "name": "Joe Caramagna",
+        "role": "letterer",
+        "slug": "joe-caramagna"
+      },
+      {
+        "name": "Guru Efx",
+        "role": "colorist",
+        "slug": "guru-efx"
+      },
+      {
+        "name": "Jesús Saiz",
+        "role": "coverArtist",
+        "slug": "jesus-saiz"
+      },
+      {
+        "name": "Heather Antos",
+        "role": "editor",
+        "slug": "heather-antos"
       }
     ],
     "displayTitle": "Jedi of the Republic-Mace Windu, Part IV",
@@ -86046,6 +86151,11 @@
         "name": "Randy Stradley",
         "role": "editor",
         "slug": "randy-stradley"
+      },
+      {
+        "name": "Rachelle Rosenberg",
+        "role": "colorist",
+        "slug": "rachelle-rosenberg"
       }
     ],
     "displayTitle": "Legacy (Volume 2) #11",
@@ -117337,7 +117447,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-10-14T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-chirrut-baze",
     "title": "Rogue One: Chirrut & Baze"
   },
@@ -117396,7 +117507,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-10-14T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "rogue-one-chirrut-baze-1",
     "synopsis": "Scheduled to be released in August 2026. A STRIKE AGAINST THE EMPIRE…BUT AT WHAT COST? Baze Malbus and Chirrut Îmwe attempt a covert mission to sabotage a kyber mine that has been overtaken by Imperial forces. But when something unexpected stands between them and their objective, the mission becomes far more complicated than they expected. To succeed, faith will be tested and an impossible choice must be made!",
     "title": "Rogue One: Chirrut & Baze #1"
@@ -182183,7 +182295,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-10-14T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-3",
     "title": "The Book of Boba Fett #3"
   },
