@@ -1265,7 +1265,7 @@
   },
   {
     "bookType": "other",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "A Taste of Star Wars: Snacks",
     "editions": [
       {
@@ -166447,7 +166447,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Jonathan W. Rinzler",
@@ -167327,7 +167327,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "The Mandalorian: Guide to Season One",
     "editions": [
       {
@@ -167350,7 +167350,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "The Mandalorian: Guide to Season Two",
     "editions": [
       {
@@ -167403,7 +167403,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "The Mandalorian - The Art & Imagery Collector's Edition, Volume One",
     "editions": [
       {
@@ -167426,7 +167426,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "displayTitle": "The Mandalorian - The Art & Imagery Collector's Edition, Volume Two",
     "editions": [
       {
@@ -170917,7 +170917,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Pablo Hidalgo",
@@ -170952,7 +170952,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Pablo Hidalgo",
@@ -211242,7 +211242,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Jess Harrold",
@@ -211526,7 +211526,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Mark Salisbury",
