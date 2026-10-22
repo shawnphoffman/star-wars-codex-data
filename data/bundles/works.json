@@ -58523,6 +58523,16 @@
         "name": "Bryan Evans",
         "role": "coverArtist",
         "slug": "bryan-evans"
+      },
+      {
+        "name": "Gurihiru",
+        "role": "penciler",
+        "slug": "gurihiru"
+      },
+      {
+        "name": "Gurihiru",
+        "role": "colorist",
+        "slug": "gurihiru"
       }
     ],
     "displayTitle": "Free Comic Book Day 2011 Avatar: The Last Airbender/Star Wars: The Clone Wars",
@@ -58642,6 +58652,11 @@
         "name": "Doug Wheatley",
         "role": "coverArtist",
         "slug": "doug-wheatley"
+      },
+      {
+        "name": "Ego",
+        "role": "colorist",
+        "slug": "ego"
       }
     ],
     "displayTitle": "Free Comic Book Day 2013: Star Wars/Captain Midnight/Avatar: The Last Airbender",
@@ -165046,6 +165061,11 @@
         "name": "Cam Kennedy",
         "role": "coverArtist",
         "slug": "cam-kennedy"
+      },
+      {
+        "name": "Phiz",
+        "role": "colorist",
+        "slug": "phiz"
       }
     ],
     "displayTitle": "Tales #18",
@@ -193053,7 +193073,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-10-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-fall-of-kylo-ren-3",
     "title": "The Fall of Kylo Ren #3"
   },
@@ -201058,7 +201079,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-10-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-pathfinders-6",
     "synopsis": "Jedi Master Temesh, his Padawan Anula, Pol and the rest of the Pathfinders stand face-to-face with the rogue comms team at the heart of this galactic mystery! In his mutated madness, a frightening new villain threatens to bring silence to the galaxy at any cost. Can the Pathfinders stop him before he destroys their mission . . . and them? Witness the thrilling finale in this action-packed issue!",
     "title": "The High Republic Adventures: Pathfinders #6"
