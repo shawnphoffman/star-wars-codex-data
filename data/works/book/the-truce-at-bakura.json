@@ -19,6 +19,10 @@
       "value": "0307796272"
     },
     {
+      "type": "isbn10",
+      "value": "0553095412"
+    },
+    {
       "type": "isbn13",
       "value": "9780307796271"
     },
@@ -51,6 +55,7 @@
       "extent": 320,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
+      "isbn10": "0553095412",
       "isbn13": "9780553095418",
       "kind": "print",
       "onsale": "1993-11-01T00:00:00.000Z"

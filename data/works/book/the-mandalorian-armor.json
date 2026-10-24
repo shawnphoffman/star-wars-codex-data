@@ -12,7 +12,19 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553506013"
+    },
+    {
+      "type": "isbn10",
       "value": "0553578855"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553506013"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553578850"
     }
   ],
   "editions": [
@@ -21,8 +33,16 @@
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553578855",
+      "isbn13": "9780553578850",
       "kind": "print",
       "onsale": "1998-06-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn10": "0553506013",
+      "isbn13": "9780553506013",
+      "kind": "print"
     }
   ],
   "era": "ageOfRebellion",

@@ -610,6 +610,27 @@
       }
     ],
     "displayTitle": "A New Hope: The Life of Luke Skywalker",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0545097320"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780545097321"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 224,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0545097320",
+        "isbn13": "9780545097321",
+        "kind": "print",
+        "onsale": "2009-09-01T00:00:00.000Z"
+      }
+    ],
     "era": "reignOfTheEmpire",
     "format": "book",
     "inUniverseDate": {
@@ -64352,6 +64373,10 @@
       {
         "type": "isbn10",
         "value": "055357891X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553578911"
       }
     ],
     "editions": [
@@ -64360,6 +64385,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "055357891X",
+        "isbn13": "9780553578911",
         "kind": "print",
         "onsale": "1999-07-06T00:00:00.000Z"
       }
@@ -96014,12 +96040,33 @@
       }
     ],
     "displayTitle": "Mission from Mount Yoda",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0553158902"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553158908"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 128,
+        "imprint": "Bantam Skylark",
+        "isPrimary": true,
+        "isbn10": "0553158902",
+        "isbn13": "9780553158908",
+        "kind": "print",
+        "onsale": "1993-02-01T00:00:00.000Z"
+      }
+    ],
     "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
       "startYear": 5
     },
-    "releaseDate": "1993-01-01T00:00:00.000Z",
+    "releaseDate": "1993-02-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "mission-from-mount-yoda",
@@ -102077,13 +102124,18 @@
       {
         "type": "isbn10",
         "value": "0553158929"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553158922"
       }
     ],
     "editions": [
       {
-        "imprint": "Bantam Spectra",
+        "imprint": "Bantam Skylark",
         "isPrimary": true,
         "isbn10": "0553158929",
+        "isbn13": "9780553158922",
         "kind": "print",
         "onsale": "1993-05-01T00:00:00.000Z"
       }
@@ -102471,13 +102523,18 @@
       {
         "type": "isbn10",
         "value": "0553158910"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553158915"
       }
     ],
     "editions": [
       {
-        "imprint": "Bantam Spectra",
+        "imprint": "Bantam Skylark",
         "isPrimary": true,
         "isbn10": "0553158910",
+        "isbn13": "9780553158915",
         "kind": "print",
         "onsale": "1993-03-01T00:00:00.000Z"
       }
@@ -114727,14 +114784,22 @@
         "value": "0345307674"
       },
       {
+        "type": "isbn10",
+        "value": "0345400798"
+      },
+      {
         "type": "isbn13",
         "value": "9780345307675"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345400796"
       }
     ],
     "editions": [
       {
         "extent": 192,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345307674",
         "isbn13": "9780345307675",
@@ -114745,6 +114810,13 @@
         "imprint": "Random House Audio",
         "kind": "audio",
         "onsale": "2027-02-02T00:00:00.000Z"
+      },
+      {
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0345400798",
+        "isbn13": "9780345400796",
+        "kind": "print"
       }
     ],
     "format": "book",
@@ -120970,7 +121042,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553100890"
+      },
+      {
+        "type": "isbn10",
         "value": "0553574132"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553100891"
       },
       {
         "type": "isbn13",
@@ -120982,10 +121062,19 @@
         "extent": 385,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
+        "isbn10": "0553100890",
+        "isbn13": "9780553100891",
+        "kind": "print",
+        "onsale": "1996-05-01T00:00:00.000Z"
+      },
+      {
+        "extent": 416,
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
         "isbn10": "0553574132",
         "isbn13": "9780553574135",
         "kind": "print",
-        "onsale": "1996-05-01T00:00:00.000Z"
+        "onsale": "1997-03-03T00:00:00.000Z"
       }
     ],
     "era": "ageOfRebellion",
@@ -159674,6 +159763,27 @@
       }
     ],
     "displayTitle": "Journal: Hero for Hire",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0590189018"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780590189019"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 112,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0590189018",
+        "isbn13": "9780590189019",
+        "kind": "print",
+        "onsale": "1998-07-01T00:00:00.000Z"
+      }
+    ],
     "era": "ageOfRebellion",
     "format": "book",
     "inUniverseDate": {
@@ -192115,12 +192225,20 @@
         "value": "0307795454"
       },
       {
+        "type": "isbn10",
+        "value": "034540078X"
+      },
+      {
         "type": "isbn13",
         "value": "9780307795458"
       },
       {
         "type": "isbn13",
         "value": "9780345283924"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345400789"
       }
     ],
     "editions": [
@@ -192146,6 +192264,13 @@
         "isPrimary": false,
         "kind": "audio",
         "onsale": "2027-02-02T00:00:00.000Z"
+      },
+      {
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "034540078X",
+        "isbn13": "9780345400789",
+        "kind": "print"
       }
     ],
     "format": "book",
@@ -208723,6 +208848,14 @@
       {
         "type": "isbn10",
         "value": "0545085594"
+      },
+      {
+        "type": "isbn10",
+        "value": "0545107776"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780545107778"
       }
     ],
     "editions": [
@@ -208731,6 +208864,15 @@
         "imprint": "Scholastic",
         "isPrimary": true,
         "isbn10": "0545085594",
+        "kind": "print",
+        "onsale": "2008-09-01T00:00:00.000Z"
+      },
+      {
+        "extent": 214,
+        "imprint": "Scholastic",
+        "isPrimary": false,
+        "isbn10": "0545107776",
+        "isbn13": "9780545107778",
         "kind": "print",
         "onsale": "2008-09-01T00:00:00.000Z"
       }
@@ -208881,6 +209023,10 @@
     "displayTitle": "The Lost City of the Jedi",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553158880"
+      },
+      {
         "type": "isbn13",
         "value": "9780553158885"
       }
@@ -208890,6 +209036,7 @@
         "extent": 112,
         "imprint": "Bantam Skylark",
         "isPrimary": true,
+        "isbn10": "0553158880",
         "isbn13": "9780553158885",
         "kind": "print",
         "onsale": "1992-07-01T00:00:00.000Z"
@@ -209924,7 +210071,19 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553506013"
+      },
+      {
+        "type": "isbn10",
         "value": "0553578855"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553506013"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553578850"
       }
     ],
     "editions": [
@@ -209933,8 +210092,16 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553578855",
+        "isbn13": "9780553578850",
         "kind": "print",
         "onsale": "1998-06-01T00:00:00.000Z"
+      },
+      {
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
+        "isbn10": "0553506013",
+        "isbn13": "9780553506013",
+        "kind": "print"
       }
     ],
     "era": "ageOfRebellion",
@@ -214357,6 +214524,27 @@
       }
     ],
     "displayTitle": "The Rise and Fall of Darth Vader",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0439681324"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780439681322"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 211,
+        "imprint": "Scholastic",
+        "isPrimary": true,
+        "isbn10": "0439681324",
+        "isbn13": "9780439681322",
+        "kind": "print",
+        "onsale": "2007-10-01T00:00:00.000Z"
+      }
+    ],
     "era": "fallOfTheJedi",
     "format": "book",
     "inUniverseDate": {
@@ -216961,6 +217149,10 @@
         "value": "0307796272"
       },
       {
+        "type": "isbn10",
+        "value": "0553095412"
+      },
+      {
         "type": "isbn13",
         "value": "9780307796271"
       },
@@ -216993,6 +217185,7 @@
         "extent": 320,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
+        "isbn10": "0553095412",
         "isbn13": "9780553095418",
         "kind": "print",
         "onsale": "1993-11-01T00:00:00.000Z"
@@ -232732,6 +232925,10 @@
     "displayTitle": "Zorba the Hutt's Revenge",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553158899"
+      },
+      {
         "type": "isbn13",
         "value": "9780553158892"
       }
@@ -232741,6 +232938,7 @@
         "extent": 112,
         "imprint": "Bantam Skylark",
         "isPrimary": true,
+        "isbn10": "0553158899",
         "isbn13": "9780553158892",
         "kind": "print",
         "onsale": "1992-08-01T00:00:00.000Z"

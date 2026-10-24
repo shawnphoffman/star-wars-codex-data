@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Rise and Fall of Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439681324"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439681322"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 211,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439681324",
+      "isbn13": "9780439681322",
+      "kind": "print",
+      "onsale": "2007-10-01T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

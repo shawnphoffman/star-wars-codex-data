@@ -18,13 +18,18 @@
     {
       "type": "isbn10",
       "value": "0553158929"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553158922"
     }
   ],
   "editions": [
     {
-      "imprint": "Bantam Spectra",
+      "imprint": "Bantam Skylark",
       "isPrimary": true,
       "isbn10": "0553158929",
+      "isbn13": "9780553158922",
       "kind": "print",
       "onsale": "1993-05-01T00:00:00.000Z"
     }

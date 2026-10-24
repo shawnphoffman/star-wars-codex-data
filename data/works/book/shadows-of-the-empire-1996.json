@@ -12,7 +12,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553100890"
+    },
+    {
+      "type": "isbn10",
       "value": "0553574132"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553100891"
     },
     {
       "type": "isbn13",
@@ -24,10 +32,19 @@
       "extent": 385,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
+      "isbn10": "0553100890",
+      "isbn13": "9780553100891",
+      "kind": "print",
+      "onsale": "1996-05-01T00:00:00.000Z"
+    },
+    {
+      "extent": 416,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
       "isbn10": "0553574132",
       "isbn13": "9780553574135",
       "kind": "print",
-      "onsale": "1996-05-01T00:00:00.000Z"
+      "onsale": "1997-03-03T00:00:00.000Z"
     }
   ],
   "era": "ageOfRebellion",

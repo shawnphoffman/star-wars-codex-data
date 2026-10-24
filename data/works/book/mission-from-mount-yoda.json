@@ -14,12 +14,33 @@
     }
   ],
   "displayTitle": "Mission from Mount Yoda",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553158902"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553158908"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Bantam Skylark",
+      "isPrimary": true,
+      "isbn10": "0553158902",
+      "isbn13": "9780553158908",
+      "kind": "print",
+      "onsale": "1993-02-01T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 5
   },
-  "releaseDate": "1993-01-01T00:00:00.000Z",
+  "releaseDate": "1993-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "mission-from-mount-yoda",

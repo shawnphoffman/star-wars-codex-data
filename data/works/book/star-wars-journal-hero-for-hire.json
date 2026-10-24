@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Journal: Hero for Hire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590189018"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590189019"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590189018",
+      "isbn13": "9780590189019",
+      "kind": "print",
+      "onsale": "1998-07-01T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

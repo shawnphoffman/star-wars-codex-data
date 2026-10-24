@@ -16,6 +16,10 @@
   "displayTitle": "Zorba the Hutt's Revenge",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553158899"
+    },
+    {
       "type": "isbn13",
       "value": "9780553158892"
     }
@@ -25,6 +29,7 @@
       "extent": 112,
       "imprint": "Bantam Skylark",
       "isPrimary": true,
+      "isbn10": "0553158899",
       "isbn13": "9780553158892",
       "kind": "print",
       "onsale": "1992-08-01T00:00:00.000Z"

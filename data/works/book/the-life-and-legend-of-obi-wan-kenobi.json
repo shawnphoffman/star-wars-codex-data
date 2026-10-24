@@ -13,6 +13,14 @@
     {
       "type": "isbn10",
       "value": "0545085594"
+    },
+    {
+      "type": "isbn10",
+      "value": "0545107776"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545107778"
     }
   ],
   "editions": [
@@ -21,6 +29,15 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0545085594",
+      "kind": "print",
+      "onsale": "2008-09-01T00:00:00.000Z"
+    },
+    {
+      "extent": 214,
+      "imprint": "Scholastic",
+      "isPrimary": false,
+      "isbn10": "0545107776",
+      "isbn13": "9780545107778",
       "kind": "print",
       "onsale": "2008-09-01T00:00:00.000Z"
     }

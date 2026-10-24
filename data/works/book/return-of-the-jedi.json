@@ -15,14 +15,22 @@
       "value": "0345307674"
     },
     {
+      "type": "isbn10",
+      "value": "0345400798"
+    },
+    {
       "type": "isbn13",
       "value": "9780345307675"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345400796"
     }
   ],
   "editions": [
     {
       "extent": 192,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345307674",
       "isbn13": "9780345307675",
@@ -33,6 +41,13 @@
       "imprint": "Random House Audio",
       "kind": "audio",
       "onsale": "2027-02-02T00:00:00.000Z"
+    },
+    {
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0345400798",
+      "isbn13": "9780345400796",
+      "kind": "print"
     }
   ],
   "format": "book",

@@ -19,12 +19,20 @@
       "value": "0307795454"
     },
     {
+      "type": "isbn10",
+      "value": "034540078X"
+    },
+    {
       "type": "isbn13",
       "value": "9780307795458"
     },
     {
       "type": "isbn13",
       "value": "9780345283924"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345400789"
     }
   ],
   "editions": [
@@ -50,6 +58,13 @@
       "isPrimary": false,
       "kind": "audio",
       "onsale": "2027-02-02T00:00:00.000Z"
+    },
+    {
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "034540078X",
+      "isbn13": "9780345400789",
+      "kind": "print"
     }
   ],
   "format": "book",
