@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Ewoks Join the Fight",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-08-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "ewoks-join-the-fight",
+  "synopsis": "Luke, Han, and Princess Leia make unlikely friends with the furry Ewoks of Endor. This level 1 early reader retells classic scenes from Star Wars: Return of the Jedi as the Ewoks join the rebellion against the evil Galactic Empire. Featuring beautiful full-color illustrations, this World of Reading book is perfect for little Star Wars fans who are ready to read on their own.",
+  "title": "Ewoks Join the Fight"
+}

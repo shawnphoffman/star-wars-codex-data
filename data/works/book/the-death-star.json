@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "The Death Star",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-death-star",
+  "synopsis": "Featuring a spectacular pop-up on every spread, The Death Star takes you into the secret chambers of the Empire's most devastating weapon as it hurtles through space on its mission of destruction.",
+  "title": "The Death Star"
+}

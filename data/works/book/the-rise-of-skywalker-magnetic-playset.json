@@ -1,0 +1,23 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Sally Little",
+      "role": "writer",
+      "slug": "sally-little"
+    }
+  ],
+  "displayTitle": "The Rise of Skywalker Magnetic Playset",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 35
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-rise-of-skywalker-magnetic-playset",
+  "title": "The Rise of Skywalker Magnetic Playset"
+}

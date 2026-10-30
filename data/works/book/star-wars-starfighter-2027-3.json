@@ -4,6 +4,10 @@
   "displayTitle": "Starfighter (Step 3)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0736449175"
+    },
+    {
       "type": "isbn13",
       "value": "9780736449175"
     }
@@ -13,6 +17,7 @@
       "extent": 32,
       "imprint": "Random House",
       "isPrimary": true,
+      "isbn10": "0736449175",
       "isbn13": "9780736449175",
       "kind": "print",
       "onsale": "2027-04-20T00:00:00.000Z"
@@ -26,5 +31,6 @@
   "releaseDate": "2027-04-20T00:00:00.000Z",
   "releaseDisplayState": "upcoming",
   "slug": "star-wars-starfighter-2027-3",
+  "synopsis": "This Step 3 Step into Reading leveled reader is based on Star Wars: Starfighter - in theaters May 28, 2027! Follow Kade Auberon, a rogue with a mysterious past, as he is hurled into a dangerous adventure across the galaxy that puts him on a crash course with destiny. This Step 3 Step into Reading leveled reader is sure to thrill young fans. Step 3 readers feature engaging characters in easy-to-follow plots about popular topics. They are for children who are ready to read on their own. Star Wars has captivated millions worldwide for nearly fifty years. The phenomenon began with the 1977 theatrical debut of Star Wars , later retitled A New Hope , and has expanded to include eleven additional major motion pictures ( The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Force Awakens, Rogue One: A Star Wars Story, The Last Jedi, Solo: A Star Wars Story , The Rise of Skywalker , and The Mandalorian and Grogu ), television programming, publishing, video games, and much more.",
   "title": "Star Wars: Starfighter (Step 3)"
 }

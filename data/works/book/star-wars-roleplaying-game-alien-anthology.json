@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steve Miller",
+      "role": "writer",
+      "slug": "steve-miller"
+    },
+    {
+      "name": "Owen K.C. Stephens",
+      "role": "writer",
+      "slug": "owen-kc-stephens"
+    }
+  ],
+  "displayTitle": "Roleplaying Game: Alien Anthology",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-roleplaying-game-alien-anthology",
+  "synopsis": "Alien Anthology is a paperback supplement to the Star Wars Roleplaying Game. It was written by Steve Miller and Owen Stephens and published by Wizards of the Coast in October 2001.",
+  "title": "Star Wars Roleplaying Game: Alien Anthology"
+}

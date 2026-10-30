@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emil Fortune",
+      "role": "writer",
+      "slug": "emil-fortune"
+    }
+  ],
+  "displayTitle": "Galactic Maps: An Illustrated Atlas Of The Star Wars Universe",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-12-20T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galactic-maps-an-illustrated-atlas-of-the-star-wars-universe",
+  "synopsis": "Star Wars: Galactic Atlas is a reference book with full-color illustrations by Tim McDonagh, it covers the first seven Star Wars films, as well as Star Wars Rebels, Star Wars: The Clone Wars, novels, and comics.",
+  "title": "Galactic Maps: An Illustrated Atlas Of The Star Wars Universe"
+}

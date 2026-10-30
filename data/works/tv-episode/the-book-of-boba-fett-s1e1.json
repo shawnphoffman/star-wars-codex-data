@@ -15,6 +15,9 @@
   "displayTitle": "Stranger in a Strange Land",
   "era": "newRepublic",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2021-12-29T00:00:00.000Z",
   "releaseDisplayState": "released",

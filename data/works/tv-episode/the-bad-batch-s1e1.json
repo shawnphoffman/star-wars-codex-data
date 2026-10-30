@@ -35,6 +35,9 @@
   "displayTitle": "Aftermath",
   "era": "reignOfTheEmpire",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -19
+  },
   "parentWorkSlug": "the-bad-batch-season-1",
   "releaseDate": "2021-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",

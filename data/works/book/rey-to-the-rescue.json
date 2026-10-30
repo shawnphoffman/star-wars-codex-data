@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lisa Stock",
+      "role": "writer",
+      "slug": "lisa-stock"
+    }
+  ],
+  "displayTitle": "Rey to the Rescue!",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "rey-to-the-rescue",
+  "synopsis": "Meet Rey, the brave young heroine from the latest installment of the Star Wars™ saga: The Force Awakens™, in DK Readers L2: Star Wars: Rey to the Rescue! Takes a close look at Rey's home planet of Jakku, her fighting and piloting skills, her friends Finn and BB-8, and her evil enemy Kylo Ren in this new reader from DK.",
+  "title": "Rey to the Rescue!"
+}

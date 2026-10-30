@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Trapped in the Death Star!",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "trapped-in-the-death-star",
+  "synopsis": "Han, Luke, Leia, and Chewie are trapped in the Death Star! Can C-3PO and R2-D2 save the day before Darth Vader finds them?",
+  "title": "Trapped in the Death Star!"
+}

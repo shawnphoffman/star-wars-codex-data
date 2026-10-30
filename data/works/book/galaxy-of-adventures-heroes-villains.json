@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
+  "displayTitle": "Galaxy Of Adventures: Heroes & Villains",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-09-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxy-of-adventures-heroes-villains",
+  "synopsis": "Meet the characters from the beloved Star Wars saga! Featuring easy-to-read text and colorful artwork, this illustrated primer with stickers is ideal for young fans learning to read.",
+  "title": "Galaxy Of Adventures: Heroes & Villains"
+}

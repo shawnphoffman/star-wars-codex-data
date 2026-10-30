@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "Episode IV: Star Wars (Mighty Chronicles)",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "episode-iv-star-wars-mighty-chronicles",
+  "synopsis": "Star Wars is a 1996 Mighty Chronicles illustrated adaptation of Star Wars: Episode IV A New Hope published by Chronicle Books. It contains 146 illustrations in shades of blue and black.",
+  "title": "Episode IV: Star Wars (Mighty Chronicles)"
+}

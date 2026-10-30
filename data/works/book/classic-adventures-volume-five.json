@@ -1,0 +1,41 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Jenkins",
+      "role": "writer",
+      "slug": "rob-jenkins"
+    },
+    {
+      "name": "Michael Stern",
+      "role": "writer",
+      "slug": "michael-stern"
+    },
+    {
+      "name": "Ken Rolston",
+      "role": "writer",
+      "slug": "ken-rolston"
+    },
+    {
+      "name": "Steve Gilbert",
+      "role": "writer",
+      "slug": "steve-gilbert"
+    },
+    {
+      "name": "Robert Kern",
+      "role": "writer",
+      "slug": "robert-kern"
+    }
+  ],
+  "displayTitle": "Classic Adventures: Volume Five",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-01-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "classic-adventures-volume-five",
+  "synopsis": "Classic Adventures: Volume Five is an anthology of three previously published Star Wars: The Roleplaying Game adventures. It was released by West End Games in 1998.ContentsStarfallStrike Force: ShantipoleThe Game Chambers of Questal",
+  "title": "Classic Adventures: Volume Five"
+}

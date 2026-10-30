@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Murphy",
+      "role": "writer",
+      "slug": "paul-murphy"
+    }
+  ],
   "displayTitle": "Campaign Pack",
   "editions": [
     {

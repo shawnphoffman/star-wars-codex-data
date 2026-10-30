@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "Rey Meets BB-8",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "rey-meets-bb-8",
+  "synopsis": "Rey's life is turned upside down when she meets a little droid named BB-8.",
+  "title": "Rey Meets BB-8"
+}

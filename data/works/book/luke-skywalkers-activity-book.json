@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Razzi",
+      "role": "writer",
+      "slug": "james-razzi"
+    }
+  ],
+  "displayTitle": "Luke Skywalker's Activity Book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 1
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1979-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "luke-skywalkers-activity-book",
+  "synopsis": "Some of the activities included also came from the Star Wars comic strip . For example, the activity \"Danger in the Desert\" (where the reader has to guide Luke back to his house while at the same time avoiding Sandtroopers and Tusken Raiders) was originally included with Princess Leia, Imperial Servant.",
+  "title": "Luke Skywalker's Activity Book"
+}

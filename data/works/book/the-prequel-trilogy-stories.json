@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ivan Cohen",
+      "role": "writer",
+      "slug": "ivan-cohen"
+    },
+    {
+      "name": "S.T. Bende",
+      "role": "writer",
+      "slug": "s-t-bende"
+    }
+  ],
+  "displayTitle": "The Prequel Trilogy Stories",
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-09-26T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-prequel-trilogy-stories",
+  "synopsis": "The Star Wars saga begins! Join Anakin Skywalker, Obi-Wan Kenobi, Queen Amidala and Yoda for one action-packed adventure after the next! This collection features 18 stories from the Star Wars prequel trilogy, beautifully illustrated by Star Wars artist Brian Rood. With foil on the cover, gilded pages, and over 250 pieces of both spot and full-page art, this storybook is a must-have for fans!",
+  "title": "The Prequel Trilogy Stories"
+}

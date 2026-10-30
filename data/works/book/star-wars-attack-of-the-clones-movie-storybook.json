@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jane Mason",
+      "role": "writer",
+      "slug": "jane-mason"
+    },
+    {
+      "name": "Sarah Hines Stephens",
+      "role": "writer",
+      "slug": "sarah-hines-stephens"
+    }
+  ],
+  "displayTitle": "Attack of the Clones Movie Storybook",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-04-23T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-attack-of-the-clones-movie-storybook",
+  "synopsis": "Star Wars: Attack of the Clones Movie Storybook is the official movie storybook of the movie published by Random House in 2002",
+  "title": "Star Wars: Attack of the Clones Movie Storybook"
+}

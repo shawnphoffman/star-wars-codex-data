@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Terra",
+      "role": "writer",
+      "slug": "john-terra"
+    }
+  ],
+  "displayTitle": "Planets of the Galaxy, Volume Three",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1993-09-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "planets-of-the-galaxy-volume-three",
+  "synopsis": "Planets of the Galaxy, Volume Three is a Roleplaying Game book written by John Terra, published by West End Games in 1993.",
+  "title": "Planets of the Galaxy, Volume Three"
+}

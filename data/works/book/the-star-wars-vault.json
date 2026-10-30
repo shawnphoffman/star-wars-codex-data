@@ -1,6 +1,18 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen J. Sansweet",
+      "role": "writer",
+      "slug": "stephen-j-sansweet"
+    },
+    {
+      "name": "Pete Vilmur",
+      "role": "writer",
+      "slug": "pete-vilmur"
+    }
+  ],
   "displayTitle": "The Star Wars Vault",
   "editions": [
     {

@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ben Harper",
+      "role": "writer",
+      "slug": "ben-harper"
+    }
+  ],
+  "displayTitle": "The Power of the Dark Side",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-09-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-power-of-the-dark-side",
+  "synopsis": "This full-color, interactive retelling of the Darth Vader story features Darth Vader highlights from A New Hope, The Empire Strikes Back, and Return of the Jedi. The collectible Darth Vader toy features a button-activated breathing sound that kids will be prompted to start throughout for a feature-rich story-time experience. The front cover is die-cut over the sculpted head to allow Darth Vader to appear on every spread of the book.",
+  "title": "The Power of the Dark Side"
+}

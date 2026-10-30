@@ -21,6 +21,16 @@
       "name": "Bill Smith",
       "role": "editor",
       "slug": "bill-smith"
+    },
+    {
+      "name": "John Terra",
+      "role": "writer",
+      "slug": "john-terra"
+    },
+    {
+      "name": "Chuck Truett",
+      "role": "writer",
+      "slug": "chuck-truett"
     }
   ],
   "displayTitle": "Gamemaster Handbook",

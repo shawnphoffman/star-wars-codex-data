@@ -11,6 +11,11 @@
       "name": "Bill Smith",
       "role": "editor",
       "slug": "bill-smith"
+    },
+    {
+      "name": "Chuck Truett",
+      "role": "writer",
+      "slug": "chuck-truett"
     }
   ],
   "displayTitle": "The Abduction",

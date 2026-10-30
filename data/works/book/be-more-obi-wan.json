@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Kelly Knox",
+      "role": "writer",
+      "slug": "kelly-knox"
+    }
+  ],
+  "displayTitle": "Be More Obi-Wan",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-07-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "be-more-obi-wan",
+  "synopsis": "Star Wars: Be More Obi-Wan is a book by Kelly Knox, part of the Star Wars: Be More... series and focuses on the character Obi-Wan Kenobi.",
+  "title": "Be More Obi-Wan"
+}

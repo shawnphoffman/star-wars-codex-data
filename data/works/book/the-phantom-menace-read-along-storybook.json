@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "The Phantom Menace Read-Along Storybook",
+  "era": "fallOfTheJedi",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-01-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-phantom-menace-read-along-storybook",
+  "synopsis": "Relive all of the excitement of Star Wars Episode I The Phantom Menace in this illustrated storybook-and-CD set.",
+  "title": "The Phantom Menace Read-Along Storybook"
+}

@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen J. Sansweet",
+      "role": "writer",
+      "slug": "stephen-j-sansweet"
+    }
+  ],
   "displayTitle": "The Pocket Manual of Star Wars Collectibles",
   "editions": [
     {

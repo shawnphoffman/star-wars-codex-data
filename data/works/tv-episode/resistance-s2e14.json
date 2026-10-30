@@ -15,6 +15,9 @@
   "displayTitle": "The Mutiny",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "resistance-s2",
   "releaseDate": "2020-01-05T00:00:00.000Z",
   "releaseDisplayState": "released",

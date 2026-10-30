@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Chelsea Monroe-Cassel",
+      "role": "writer",
+      "slug": "chelsea-monroe-cassel"
+    },
+    {
+      "name": "Marc Sumerak",
+      "role": "writer",
+      "slug": "marc-sumerak"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: The Official Black Spire Outpost Cookbook",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-11-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxys-edge-the-official-black-spire-outpost-cookbook",
+  "title": "Galaxy's Edge: The Official Black Spire Outpost Cookbook"
+}

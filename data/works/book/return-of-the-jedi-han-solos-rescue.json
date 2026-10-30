@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kay Carroll",
+      "role": "writer",
+      "slug": "kay-carroll"
+    }
+  ],
+  "displayTitle": "Return of the Jedi: Han Solo's Rescue",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-10-10T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "return-of-the-jedi-han-solos-rescue",
+  "synopsis": "Return of the Jedi Han Solo's Rescue Pop-Up Book is a young reader book published by Random House in 1983. This short book depicts six major scenes from the Han Solo's rescue from Star Wars: Episode VI Return of the Jedi, each scene featuring one pop-up. All takes place on Tatooine.",
+  "title": "Return of the Jedi: Han Solo's Rescue"
+}

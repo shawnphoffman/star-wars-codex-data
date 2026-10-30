@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Patricia Wynne",
+      "role": "writer",
+      "slug": "patricia-wynne"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back Pop-Up Book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1980-01-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-empire-strikes-back-pop-up-book",
+  "synopsis": "Illustrations within the book were done by the artist named Patricia Wynne. The actual paper engineering by done by Ib Penick. This book was manufactured in Singapore. The book briefly covers the major events of The Empire Strikes Back, in a vivid, pencil drawn, pop-out and interactive manner.",
+  "title": "The Empire Strikes Back Pop-Up Book"
+}

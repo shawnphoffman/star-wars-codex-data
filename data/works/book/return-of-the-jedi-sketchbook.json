@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Joe Johnston",
+      "role": "writer",
+      "slug": "joe-johnston"
+    },
+    {
+      "name": "Nilo Rodis-Jamero",
+      "role": "writer",
+      "slug": "nilo-rodis-jamero"
+    }
+  ],
+  "displayTitle": "Return of the Jedi Sketchbook",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-06-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "return-of-the-jedi-sketchbook",
+  "synopsis": "The Return of the Jedi Sketchbook is a reference book that was published by Ballantine Books in June 1983. The book collected many of the sketches created by Joe Johnston and Nilo Rodis-Jamero for the movie, Return of the Jedi. It also included material by Ralph McQuarrie and Norman Reynolds.",
+  "title": "Return of the Jedi Sketchbook"
+}

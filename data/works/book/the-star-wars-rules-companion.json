@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Greg Gorden",
+      "role": "writer",
+      "slug": "greg-gorden"
+    }
+  ],
   "displayTitle": "The Star Wars Rules Companion",
   "editions": [
     {

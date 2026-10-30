@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Blauvelt",
+      "role": "writer",
+      "slug": "christian-blauvelt"
+    }
+  ],
+  "displayTitle": "Be More Boba Fett",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-12-21T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "be-more-boba-fett",
+  "synopsis": "Star Wars: Be More Boba Fett is a book in the Star Wars: Be More... series.",
+  "title": "Be More Boba Fett"
+}

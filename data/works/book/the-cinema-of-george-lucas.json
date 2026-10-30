@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Marcus Hearn",
+      "role": "writer",
+      "slug": "marcus-hearn"
+    }
+  ],
   "displayTitle": "The Cinema of George Lucas",
   "editions": [
     {

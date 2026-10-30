@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Cole Horton",
+      "role": "writer",
+      "slug": "cole-horton"
+    },
+    {
+      "name": "Chris Kempshall",
+      "role": "writer",
+      "slug": "chris-kempshall"
+    },
+    {
+      "name": "Amy Ratcliffe",
+      "role": "writer",
+      "slug": "amy-ratcliffe"
+    }
+  ],
+  "displayTitle": "Battles that Changed the Galaxy",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-11-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-battles-that-changed-the-galaxy",
+  "synopsis": "Star Wars Battles that Changed the Galaxy is a canon reference book chronicling the many battles of the Star Wars galaxy. It is written by Jason Fry, Cole Horton, Amy Ratcliffe, and Chris Kempshall.Enter a galaxy ravaged by conflict and discover the complete story of the epic struggles that define the Star Wars movies. This ambitious book presents major galactic conflicts from an in-world \"historical\" perspective: each battle is depicted with captivating imagery, explored with newly commissioned maps, and explained through detailed analysis of tactics, famous commanders, legendary warriors, key moments, and its impact on wider galactic history.This is the perfect book for any Star Wars fan, budding military historian, or would-be rebel hero!",
+  "title": "Star Wars Battles that Changed the Galaxy"
+}

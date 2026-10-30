@@ -1,0 +1,20 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Thomas Macri",
+      "role": "writer",
+      "slug": "thomas-macri"
+    }
+  ],
+  "displayTitle": "The Big Golden Book of Aliens, Creatures, and Beasts",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-01-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-big-golden-book-of-aliens-creatures-and-beasts",
+  "title": "The Big Golden Book of Aliens, Creatures, and Beasts"
+}

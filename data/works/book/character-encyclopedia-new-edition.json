@@ -1,0 +1,31 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Elizabeth Dowsett",
+      "role": "writer",
+      "slug": "elizabeth-dowsett"
+    },
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "Character Encyclopedia: New Edition",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-09-24T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "character-encyclopedia-new-edition",
+  "synopsis": "The definitive guide to more than 200 heroes, villains, aliens, and droids of the Star Wars galaxy is now packed with new characters from Rogue One: A Star Wars Story, Star Wars: The Last Jedi, and Solo: A Star Wars Story.Want to know how tall Snoke is? Or learn where Maz Kanata is from? The Star Wars: Character Encyclopedia is full of fun facts and intriguing information that's guaranteed to enthrall fans of all ages. With plenty of lesser-known details, even die-hard fans will learn new facts about iconic characters.",
+  "title": "Character Encyclopedia: New Edition"
+}

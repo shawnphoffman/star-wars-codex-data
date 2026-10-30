@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    }
+  ],
+  "displayTitle": "Solo: A Star Wars Story: Meet The Crew",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-05-25T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "solo-a-star-wars-story-meet-the-crew",
+  "synopsis": "Meet Han, Chewie, Lando, Qi'ra, and the rest of the crew from Solo: a Star Wars story!",
+  "title": "Solo: A Star Wars Story: Meet The Crew"
+}

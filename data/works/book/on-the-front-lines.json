@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "On The Front Lines",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-07-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "on-the-front-lines",
+  "synopsis": "OFFICIAL STAR WARS IN-UNIVERSE BOOK FEATURING NOTES ON TACTICS, ARMOR, AND VALOR FROM GALACTIC CONFLICTS IN THE STAR WARS UNIVERSEFrom the Clone Wars and the Rebellion to the clashes with the First Order, the galaxy is defined by war. Star Wars: On the Front Lines chronicles the tactics, weapons, and armor used in pivotal battles along with acts of valor achieved during the campaign. By focusing on elements of the battles that occurred \"off screen,\" this collection brings the struggles faced by ground soldiers and starfighter pilots to life like never before, placing the reader on the battlelines.",
+  "title": "On The Front Lines"
+}

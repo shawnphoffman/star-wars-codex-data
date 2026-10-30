@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Gampert",
+      "role": "writer",
+      "slug": "john-gampert"
+    }
+  ],
+  "displayTitle": "Return of the Jedi pop-up book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1983-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-return-of-the-jedi-pop-up-book",
+  "synopsis": "Star Wars: Return of the Jedi is a pop-up book published by Random House.",
+  "title": "Star Wars: Return of the Jedi pop-up book"
+}

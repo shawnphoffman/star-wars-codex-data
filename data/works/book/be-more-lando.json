@@ -1,0 +1,20 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christian Blauvelt",
+      "role": "writer",
+      "slug": "christian-blauvelt"
+    }
+  ],
+  "displayTitle": "Be More Lando",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "be-more-lando",
+  "title": "Be More Lando"
+}

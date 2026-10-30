@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Daniel Wallace",
+      "role": "writer",
+      "slug": "daniel-wallace"
+    }
+  ],
+  "displayTitle": "Smuggler's Guide",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-09-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "smugglers-guide",
+  "synopsis": "Recovered from a strong box on the Millennium Falcon, The Smugglers Guide traces its own extraordinary journey through such notorious characters as Maz Kanata, Hondo Ohnaka, Dryden Vos, Lando Calrissian, and Han Solo. Explore previously unknown details about the underhanded dealings of the galaxy's underworld. What secrets will you discover in these storied pages?",
+  "title": "Smuggler's Guide"
+}

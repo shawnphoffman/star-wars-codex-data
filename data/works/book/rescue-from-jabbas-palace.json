@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Rescue from Jabba's Palace",
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-04-28T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "rescue-from-jabbas-palace",
+  "synopsis": "Luke goes head-to-head with the evil Jabba the Hutt! This fully-illustrated level 2 reader retells the classic scenes from Return of the Jedi where Luke visits Jabba's Palace and fights to rescue his friends.",
+  "title": "Rescue from Jabba's Palace"
+}

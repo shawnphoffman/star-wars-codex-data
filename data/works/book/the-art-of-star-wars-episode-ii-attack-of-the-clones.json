@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Mark Cotta Vaz",
+      "role": "writer",
+      "slug": "mark-cotta-vaz"
+    }
+  ],
   "displayTitle": "The Art of Star Wars Episode II: Attack of the Clones",
   "editions": [
     {

@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Cole Horton",
+      "role": "writer",
+      "slug": "cole-horton"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: Traveler's Guide to Batuu",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-11-19T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxys-edge-travelers-guide-to-batuu",
+  "title": "Galaxy's Edge: Traveler's Guide to Batuu"
+}

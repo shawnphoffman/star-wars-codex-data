@@ -1,0 +1,41 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Drew Campbell",
+      "role": "writer",
+      "slug": "drew-campbell"
+    },
+    {
+      "name": "Matt Hong",
+      "role": "writer",
+      "slug": "matt-hong"
+    },
+    {
+      "name": "Timothy S. O'Brien",
+      "role": "writer",
+      "slug": "timothy-s-obrien"
+    },
+    {
+      "name": "Jen Seiden",
+      "role": "writer",
+      "slug": "jen-seiden"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Cracken's Threat Dossier",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "crackens-threat-dossier",
+  "synopsis": "Cracken's Threat Dossier is a supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Drew Campbell, Matt Hong, Timothy S. O'Brien, Jen Seiden, and Eric S. Trautmann. It was first published in 1997.The book summarizes and details the events, characters, situations, and backgrounds of seven novels: The Courtship of Princess Leia, Before the Storm, Shield of Lies, Tyrant's Test, Ambush at Corellia, Assault at Selonia, and Showdown at Centerpoint. It is written from the in-universe viewpoint of being a New Republic Intelligence dossier prepared for General Airen Cracken.",
+  "title": "Cracken's Threat Dossier"
+}

@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    }
+  ],
+  "displayTitle": "Solo: A Star Wars Story- Train Heist",
+  "era": "reignOfTheEmpire",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -10
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-05-25T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "solo-a-star-wars-story-train-heist",
+  "synopsis": "Han Solo and Chewbacca the Wookiee must team-up for a daring train heist on the planet Vandor!",
+  "title": "Solo: A Star Wars Story- Train Heist"
+}

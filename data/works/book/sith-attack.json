@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Lara Bergen",
+      "role": "writer",
+      "slug": "lara-bergen"
+    }
+  ],
+  "displayTitle": "Sith Attack",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-02-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "sith-attack",
+  "synopsis": "Sith Attack was a children's storybook published by Scholastic in February 2000 as part of the Star Wars Junior book series.",
+  "title": "Sith Attack"
+}

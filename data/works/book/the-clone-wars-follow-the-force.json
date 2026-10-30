@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Rob Valois",
+      "role": "writer",
+      "slug": "rob-valois"
+    }
+  ],
+  "displayTitle": "The Clone Wars: Follow The Force",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-08-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-clone-wars-follow-the-force",
+  "synopsis": "Every child wants to be a Jedi. In the pages of this full-color storybook, Jedi Master Yoda guides the reader on a journey through some of the Jedi Order's greatest challenges. This book is perfect for any Jedi in training.",
+  "title": "The Clone Wars: Follow The Force"
+}

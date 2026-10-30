@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    }
+  ],
+  "displayTitle": "Player's Guide to Tapani",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1997-07-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "players-guide-to-tapani",
+  "synopsis": "Player's Guide to Tapani is a book for Star Wars: The Roleplaying Game written by Paul Sudlow and Eric S. Trautmann, published by West End Games in July 1997",
+  "title": "Player's Guide to Tapani"
+}

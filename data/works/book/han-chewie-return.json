@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Han & Chewie Return!",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "han-chewie-return",
+  "synopsis": "Han Solo and Chewbacca return in a heroic new adventure set in a galaxy far, far away.",
+  "title": "Han & Chewie Return!"
+}

@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "The Rebel Alliance - Ships of the Fleet",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-rebel-alliance-ships-of-the-fleet",
+  "synopsis": "The Rebel Alliance: Ships of the Fleet is an 8-page pop-up book about the ships and fighters of the Alliance to Restore the Republic. The page count is deceptive, as it has no less than five fold-outs. In addition to pop-up images, it contains pictures, drawn images, diagrams, technical specifications, and text.",
+  "title": "The Rebel Alliance - Ships of the Fleet"
+}

@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Christopher Nicholas",
+      "role": "writer",
+      "slug": "christopher-nicholas"
+    }
+  ],
+  "displayTitle": "I Am A Hero",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-07-25T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "i-am-a-hero",
+  "synopsis": "Meet Luke Skywalker, Princess Leia, Han Solo, Chewbacca, Finn, Rey, Poe Dameron, and all the brave heroes from the epic Star Wars space saga! Featuring stunning retro stylized illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages. It includes epic scenes from A New Hope, The Empire Strikes Back, Return of the Jedi, The Force Awakens, and Rogue One.",
+  "title": "I Am A Hero"
+}

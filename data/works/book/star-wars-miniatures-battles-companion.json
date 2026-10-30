@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Stephen Crane",
+      "role": "writer",
+      "slug": "stephen-crane"
+    }
+  ],
   "displayTitle": "Miniatures Battles Companion",
   "editions": [
     {

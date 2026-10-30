@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jane Mason",
+      "role": "writer",
+      "slug": "jane-mason"
+    },
+    {
+      "name": "Sarah Hines Stephens",
+      "role": "writer",
+      "slug": "sarah-hines-stephens"
+    }
+  ],
+  "displayTitle": "Obi-Wan's Foe",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "obi-wans-foe",
+  "synopsis": "As a very special extension of our acclaimed and bestselling Step into Reading line, Star Wars Jedi Readers will feature photographs from Episode III and text that is carefully designed to help children learn to read. This Step 5 Jedi Reader will focus on Obi Wan Kenobi's adventure from the movie!",
+  "title": "Obi-Wan's Foe"
+}

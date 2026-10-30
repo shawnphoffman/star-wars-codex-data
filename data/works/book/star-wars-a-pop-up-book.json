@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Douglas Barlowe",
+      "role": "writer",
+      "slug": "douglas-barlowe"
+    }
+  ],
+  "displayTitle": "A Pop-Up Book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1978-05-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-a-pop-up-book",
+  "synopsis": "Star Wars: A Pop-Up Book is a young-reader book published by Random House in May 1978.",
+  "title": "Star Wars: A Pop-Up Book"
+}

@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Brian Rood",
+      "role": "writer",
+      "slug": "brian-rood"
+    }
+  ],
+  "displayTitle": "Finn & Rey Escape!",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "finn-rey-escape",
+  "synopsis": "When Finn and Rey find themselves on the run, they must work together to escape from the evil First Order.",
+  "title": "Finn & Rey Escape!"
+}

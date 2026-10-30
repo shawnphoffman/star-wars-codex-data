@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "I Want To Be A Jedi",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-09-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "i-want-to-be-a-jedi",
+  "synopsis": "Star Wars: I Want to Be a Jedi is a canon hardcover reference title from DK Publishing that collects and reprints material originally published in Star Wars: I Want to Be a Jedi (2016 edition, written by Simon Beecroft) and Star Wars Character Encyclopedia: Updated and Expanded (2016, written by Beecroft and Pablo Hidalgo). It was published in September 2017.",
+  "title": "I Want To Be A Jedi"
+}

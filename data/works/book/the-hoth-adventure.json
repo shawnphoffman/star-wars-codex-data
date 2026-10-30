@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jay Rudko",
+      "role": "writer",
+      "slug": "jay-rudko"
+    }
+  ],
+  "displayTitle": "The Hoth Adventure",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-02-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-hoth-adventure",
+  "synopsis": "The Hoth Adventure is a children's book by Golden Books that explores the events on Hoth during Star Wars: Episode V The Empire Strikes Back. Join Luke Skywalker, Princess Leia, and Han Solo as they battle snow monsters and the evil Galactic Empire on the chilling ice planet Hoth. This classic space adventure is illustrated with actual photos from the Special Edition Star Wars Trilogy!",
+  "title": "The Hoth Adventure"
+}

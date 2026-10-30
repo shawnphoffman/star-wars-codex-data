@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Whitman",
+      "role": "writer",
+      "slug": "john-whitman"
+    }
+  ],
+  "displayTitle": "Han Solo: Rebel Hero",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1998-06-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "han-solo-rebel-hero",
+  "synopsis": "Han Solo: Rebel Hero was a children's book published by Golden Books in June 1998, with artwork by Art Ruiz",
+  "title": "Han Solo: Rebel Hero"
+}

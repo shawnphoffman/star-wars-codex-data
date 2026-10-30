@@ -1,0 +1,46 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy S. O'Brien",
+      "role": "writer",
+      "slug": "timothy-s-obrien"
+    },
+    {
+      "name": "Peter M. Schweighofer",
+      "role": "writer",
+      "slug": "peter-m-schweighofer"
+    },
+    {
+      "name": "George R. Strayton",
+      "role": "writer",
+      "slug": "george-r-strayton"
+    },
+    {
+      "name": "Paul Sudlow",
+      "role": "writer",
+      "slug": "paul-sudlow"
+    },
+    {
+      "name": "Eric S. Trautmann",
+      "role": "writer",
+      "slug": "eric-s-trautmann"
+    },
+    {
+      "name": "Floyd Wesel",
+      "role": "writer",
+      "slug": "floyd-wesel"
+    }
+  ],
+  "displayTitle": "Instant Adventures",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-12-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "instant-adventures",
+  "synopsis": "Instant Adventures is a Star Wars: The Roleplaying Game book published by West End Games in December 1996. The adventures within are described as taking place between the events of Star Wars: Episode IV A New Hope and Star Wars: Episode V The Empire Strikes Back.",
+  "title": "Instant Adventures"
+}

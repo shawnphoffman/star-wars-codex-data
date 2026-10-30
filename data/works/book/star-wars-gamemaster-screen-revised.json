@@ -26,6 +26,11 @@
       "name": "Bill Smith",
       "role": "editor",
       "slug": "bill-smith"
+    },
+    {
+      "name": "Stephen Crane",
+      "role": "writer",
+      "slug": "stephen-crane"
     }
   ],
   "displayTitle": "Gamemaster Screen, Revised",

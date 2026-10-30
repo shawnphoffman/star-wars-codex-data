@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ryder Windham",
+      "role": "writer",
+      "slug": "ryder-windham"
+    }
+  ],
+  "displayTitle": "Galactic Crisis!",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2005-04-02T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galactic-crisis",
+  "synopsis": "Galactic Crisis! is a young readers book written by Ryder Windham that was published by DK at reading level 4.",
+  "title": "Galactic Crisis!"
+}

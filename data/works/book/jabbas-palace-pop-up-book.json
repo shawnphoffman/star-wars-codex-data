@@ -1,0 +1,29 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kevin J. Anderson",
+      "role": "writer",
+      "slug": "kevin-j-anderson"
+    },
+    {
+      "name": "Rebecca Moesta",
+      "role": "writer",
+      "slug": "rebecca-moesta"
+    }
+  ],
+  "displayTitle": "Jabba's Palace Pop-up Book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-10-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jabbas-palace-pop-up-book",
+  "synopsis": "Jabba the Hutt has lost his lucky charm somewhere in the palace, and he'll be very unhappy if Jubnuk the Gamorrean guard can't find it for him. Jubnuk knows he isn't too bright, but he figures it can't be that hard to find a simple talisman ... or can it? If Jabba could just give him a little more information about his good-luck charm - after he's finished talking with that important-looking Jedi Knight, Luke Skywalker, of course....",
+  "title": "Jabba's Palace Pop-up Book"
+}

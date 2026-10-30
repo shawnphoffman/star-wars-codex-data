@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Caitlin Kennedy",
+      "role": "writer",
+      "slug": "caitlin-kennedy"
+    }
+  ],
+  "displayTitle": "The Galaxy Needs You",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-12-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-galaxy-needs-you",
+  "synopsis": "Star Wars: The Galaxy Needs You is an upcoming Star Wars young readers book. The book will be written by Caitlin Kennedy, illustrated by Eda Kaban, and published by Disney-Lucasfilm Press",
+  "title": "The Galaxy Needs You"
+}

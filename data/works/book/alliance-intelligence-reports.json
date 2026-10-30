@@ -1,0 +1,39 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Craig Carey",
+      "role": "writer",
+      "slug": "craig-carey"
+    },
+    {
+      "name": "J. P. Pietrzak",
+      "role": "writer",
+      "slug": "j-p-pietrzak"
+    },
+    {
+      "name": "Trevor J. Wilson",
+      "role": "writer",
+      "slug": "trevor-j-wilson"
+    },
+    {
+      "name": "Bill Smith",
+      "role": "writer",
+      "slug": "bill-smith"
+    }
+  ],
+  "displayTitle": "Alliance Intelligence Reports",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 2
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1995-06-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "alliance-intelligence-reports",
+  "synopsis": "Alliance Intelligence Reports is a 95-page paperback supplement to Star Wars: The Roleplaying Game published by West End Games. It was written by Bill Smith and published June 1, 1995.It was set two years after the Battle of Yavin.Alliance Intelligence Reports is presented as a compendium of \"datafiles\" about non-Imperial threats to the Alliance to Restore the Republic. It is divided in the following chapters:Introduction about how to use the book.The Task Force on Alliance Security, including information on some of the Rebel characters who had written the datafiles. They include characters from the movies and Expanded Universe characters, with a special emphasis on the Eclipse Team.",
+  "title": "Alliance Intelligence Reports"
+}

@@ -1,0 +1,26 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Anthony Russo",
+      "role": "writer",
+      "slug": "anthony-russo"
+    },
+    {
+      "name": "Scott Heinig",
+      "role": "writer",
+      "slug": "scott-heinig"
+    }
+  ],
+  "displayTitle": "Live-Action Adventures",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-08-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "live-action-adventures",
+  "synopsis": "Live-Action Adventures was a roleplaying guide rulebook published by West End Games for Star Wars: The Roleplaying Game. It was written by Anthony Russo and Scott Heinig and was first published in August 1996.It features rules for Live Action Role Playing for gamers, based on the rules of the Star Wars: The Roleplaying Game. The book also includes the adventure \"The Shard of Alderaan\".",
+  "title": "Live-Action Adventures"
+}

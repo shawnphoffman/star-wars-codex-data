@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jim Thomas",
+      "role": "writer",
+      "slug": "jim-thomas"
+    }
+  ],
+  "displayTitle": "Luke's Fate",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1996-10-15T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "lukes-fate",
+  "synopsis": "Luke Skywalker wants to be a starpilot. But his uncle needs him to help on the farm. Then one day two droids show up. One of them carries a secret message. Now Luke's life is about to take off…",
+  "title": "Luke's Fate"
+}

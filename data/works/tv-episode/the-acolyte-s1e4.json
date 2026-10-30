@@ -20,6 +20,9 @@
   "displayTitle": "Day",
   "era": "highRepublic",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": -132
+  },
   "parentWorkSlug": "the-acolyte-s1",
   "releaseDate": "2024-06-18T00:00:00.000Z",
   "releaseDisplayState": "released",

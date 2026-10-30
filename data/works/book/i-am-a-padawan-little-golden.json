@@ -1,0 +1,23 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ashley Eckstein",
+      "role": "writer",
+      "slug": "ashley-eckstein"
+    }
+  ],
+  "displayTitle": "I Am a Padawan (Little Golden)",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-04-07T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "i-am-a-padawan-little-golden",
+  "title": "I Am a Padawan (Little Golden)"
+}

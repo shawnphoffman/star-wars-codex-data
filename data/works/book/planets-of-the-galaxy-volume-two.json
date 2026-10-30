@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Terra",
+      "role": "writer",
+      "slug": "john-terra"
+    }
+  ],
+  "displayTitle": "Planets of the Galaxy, Volume Two",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1992-09-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "planets-of-the-galaxy-volume-two",
+  "synopsis": "Planets of the Galaxy, Volume Two is a Roleplaying Game book written by John Terra, published by West End Games in 1992.It was set two years after the Battle of Endor.",
+  "title": "Planets of the Galaxy, Volume Two"
+}

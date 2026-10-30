@@ -1,0 +1,20 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Ella Patrick",
+      "role": "writer",
+      "slug": "ella-patrick"
+    }
+  ],
+  "displayTitle": "Who's Who in the Galaxy: A Character Storybook",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-07-16T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "whos-who-in-the-galaxy-a-character-storybook",
+  "title": "Who's Who in the Galaxy: A Character Storybook"
+}

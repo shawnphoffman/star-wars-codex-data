@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Elizabeth Schaefer",
+      "role": "writer",
+      "slug": "elizabeth-schaefer"
+    }
+  ],
+  "displayTitle": "The Force Awakens Read-Along Storybook",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-04-05T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-force-awakens-read-along-storybook",
+  "synopsis": "An illustrated 8x8 storybook with audio CD retelling The Force Awakens.",
+  "title": "The Force Awakens Read-Along Storybook"
+}

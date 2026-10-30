@@ -1,6 +1,13 @@
 {
   "bookType": "referenceBook",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Tricia Barr",
+      "role": "writer",
+      "slug": "tricia-barr"
+    }
+  ],
   "displayTitle": "The Dark Side",
   "editions": [
     {

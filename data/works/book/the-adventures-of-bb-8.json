@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "David Fentiman",
+      "role": "writer",
+      "slug": "david-fentiman"
+    }
+  ],
+  "displayTitle": "The Adventures of BB-8",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-06-07T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-adventures-of-bb-8",
+  "synopsis": "Follow brave BB-8 as he gets caught up in the battle to save the galaxy. Learn about the heroic Resistance and the sinister First Order. Meet BB-8's new friends, and see them join together to defeat evil!",
+  "title": "The Adventures of BB-8"
+}

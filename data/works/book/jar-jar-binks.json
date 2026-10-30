@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kerry Milliron",
+      "role": "writer",
+      "slug": "kerry-milliron"
+    }
+  ],
+  "displayTitle": "Jar Jar Binks",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1999-05-03T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "jar-jar-binks",
+  "synopsis": "Jar Jar Binks was a children's book published by Random House in May 1999, written by Kerry Milliron with artwork by Ken Steacy.",
+  "title": "Jar Jar Binks"
+}

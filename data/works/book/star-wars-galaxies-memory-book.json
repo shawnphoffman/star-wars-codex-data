@@ -1,0 +1,41 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Tony Tyson",
+      "role": "writer",
+      "slug": "tony-tyson"
+    },
+    {
+      "name": "Ted Stone",
+      "role": "writer",
+      "slug": "ted-stone"
+    },
+    {
+      "name": "Tony Jones",
+      "role": "writer",
+      "slug": "tony-jones"
+    },
+    {
+      "name": "Linda Carlson",
+      "role": "writer",
+      "slug": "linda-carlson"
+    },
+    {
+      "name": "David Ladyman",
+      "role": "writer",
+      "slug": "david-ladyman"
+    }
+  ],
+  "displayTitle": "Galaxies Memory Book",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-12-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "star-wars-galaxies-memory-book",
+  "synopsis": "The Star Wars Galaxies Memory Book is an online resource published by Sony Online Entertainment to commemorate the conclusion of the MMORPG Star Wars Galaxies. It was published on the farewell page after the game was closed down. It is no longer available from Sony's website, but LucasArts has allowed it to be freely shared among fans and be reprinted for personal use.",
+  "title": "Star Wars Galaxies Memory Book"
+}

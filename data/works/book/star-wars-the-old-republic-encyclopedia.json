@@ -26,6 +26,11 @@
       "name": "James Jones",
       "role": "writer",
       "slug": "james-jones"
+    },
+    {
+      "name": "Joanne Berry",
+      "role": "writer",
+      "slug": "joanne-berry"
     }
   ],
   "displayTitle": "The Old Republic Encyclopedia",

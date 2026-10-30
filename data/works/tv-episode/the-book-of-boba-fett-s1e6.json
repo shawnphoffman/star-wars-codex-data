@@ -20,6 +20,9 @@
   "displayTitle": "From the Desert Comes a Stranger",
   "era": "newRepublic",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "parentWorkSlug": "the-book-of-boba-fett-season-1",
   "releaseDate": "2022-02-02T00:00:00.000Z",
   "releaseDisplayState": "released",

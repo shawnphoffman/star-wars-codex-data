@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Siglain",
+      "role": "writer",
+      "slug": "michael-siglain"
+    }
+  ],
+  "displayTitle": "Resistance Heroes",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-04T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "resistance-heroes",
+  "synopsis": "Meet Rey, Finn, Poe and the rest of heroes of the Resistance who are fighting to save the save the galaxy from the evil First Order.",
+  "title": "Resistance Heroes"
+}

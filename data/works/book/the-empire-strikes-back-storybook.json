@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Shep Steneman",
+      "role": "writer",
+      "slug": "shep-steneman"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back Storybook",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1982-04-12T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "the-empire-strikes-back-storybook",
+  "synopsis": "The Empire Strikes Back Storybook is a young readers adaptation of the 1980 film of the same name. The book was written by Shep Steneman and first published on April 12, 1980 by Random House. It is illustrated with full-color photographs, including stills not featured in the film. The book featured a number of additional credits including Edward McGill as a production director and Roberta Pressel as an associate designer.",
+  "title": "The Empire Strikes Back Storybook"
+}
