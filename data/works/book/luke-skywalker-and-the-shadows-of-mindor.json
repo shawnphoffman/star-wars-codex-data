@@ -11,6 +11,10 @@
   "displayTitle": "Luke Skywalker and the Shadows of Mindor",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345477448"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477446"
     }
@@ -20,6 +24,7 @@
       "extent": 311,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477448",
       "isbn13": "9780345477446",
       "kind": "print",
       "onsale": "2008-12-30T00:00:00.000Z"

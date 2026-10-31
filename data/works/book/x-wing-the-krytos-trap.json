@@ -13,6 +13,18 @@
     {
       "type": "isbn10",
       "value": "0553568035"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593497341"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553568035"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593497340"
     }
   ],
   "editions": [
@@ -21,8 +33,17 @@
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553568035",
+      "isbn13": "9780553568035",
       "kind": "print",
       "onsale": "1996-10-01T00:00:00.000Z"
+    },
+    {
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0593497341",
+      "isbn13": "9780593497340",
+      "kind": "print",
+      "onsale": "2022-08-02T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0553578979"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553578973"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553578979",
+      "isbn13": "9780553578973",
       "kind": "print",
       "onsale": "1998-07-01T00:00:00.000Z"
     }

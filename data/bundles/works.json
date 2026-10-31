@@ -2919,7 +2919,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-08-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "age-of-rebellion-cyphers-and-masks",
     "synopsis": "Cyphers and Masks is a sourcebook for Fantasy Flight Games' Star Wars: Age of Rebellion roleplaying game offering new rules, locations, gear, and adventure scenarios for the Spy class.Far from the battlefields of Hoth and the skies of Yavin, the Rebellion is waging a secret war. While it is not completely free of bloodshed, this war is fought primarily with information, deception, and lies. The spies of the Rebellion infiltrate every facet of Imperial life, working alone or in teams to accomplish feats a traditional soldier could never hope to perform. Expanding the options and opportunities for the Spy career for Star Wars: Age of Rebellion, Cyphers and Masks introduces new specializations and species perfect for starting a new campaign or integrating into existing ones. New vehicles, equipment, and droids designed to be assets and adversaries to characters engaging in clandestine operations are included, with new rules for utilizing the skills most often associated with Spies and their tradecraft.",
     "title": "Age of Rebellion: Cyphers and Masks"
@@ -2990,7 +2991,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-03-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "age-of-rebellion-fully-operational",
     "synopsis": "Fully Operational is a sourcebook for Fantasy Flight Games' Star Wars: Age of Rebellion roleplaying game offering new rules, locations, gear, and adventure scenarios for the Engineer class. Design. Build. Repair. Destroy. The struggle against the Empire isn't only for those who carry the biggest blasters or fly the fastest starfighters. No war can be carried on without the tools to wage it, and Engineers serve the Rebellion and their comrades by designing, building, and maintaining all the equipment necessary to end the Empire's reign of terror in the galaxy. Weapons, droids, vehicles, and gear of all varieties are more than just plasteel and bolts; they represent the will of the free people of the galaxy made corporeal in defiance of the Emperor.Fully Operational is a 96-page sourcebook for Engineers in the Star Wars™: Age of Rebellion Roleplaying Game™. Featuring three new specialization talent trees and new races to populate your campaigns, Fully Operational is an essential addition to your collection. It includes detailed rules for vehicle and starship construction as well as sample campaigns that emphasize the role Engineers play in the Galactic Civil War beyond being simple background support. A livery of new ships and vehicles also awaits you, ready to be included in your Age of Rebellion campaign.",
     "title": "Age of Rebellion: Fully Operational"
@@ -22759,7 +22761,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-10-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "collecting-a-galaxy-the-art-of-sideshow-collectibles",
     "synopsis": "Experience Sideshow Collectibles' astonishing collection of Star Wars sculptures in a whole new way with this deluxe book that explores the incredible artistry behind their creation.Sideshow Collectibles has been immortalizing fan-favorite Star Wars characters for over a decade with their extraordinary, one-of-a-kind sculptures. This deluxe book celebrates the artistry that goes into capturing the true essence of these iconic characters and the passion and devotion that brings them to life. Featuring never-before-seen pre-production artwork and exclusive insights from the sculpting and design teams on the creation of each piece as well as dynamic photography that illuminates the power of their work, this book is the ultimate celebration of Sideshow's ongoing journey into the Star Wars galaxy.",
     "title": "Collecting A Galaxy: The Art of Sideshow Collectibles"
@@ -27937,6 +27940,18 @@
       {
         "type": "isbn10",
         "value": "0399144528"
+      },
+      {
+        "type": "isbn10",
+        "value": "0425170519"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780399144523"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425170519"
       }
     ],
     "editions": [
@@ -27945,8 +27960,17 @@
         "imprint": "Dark Horse Comics",
         "isPrimary": true,
         "isbn10": "0399144528",
+        "isbn13": "9780399144523",
         "kind": "print",
         "onsale": "1998-10-14T00:00:00.000Z"
+      },
+      {
+        "extent": 128,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "0425170519",
+        "isbn13": "9780425170519",
+        "kind": "print"
       }
     ],
     "era": "newRepublic",
@@ -27976,6 +28000,18 @@
       {
         "type": "isbn10",
         "value": "0399143963"
+      },
+      {
+        "type": "isbn10",
+        "value": "042516862X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780399143960"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425168622"
       }
     ],
     "editions": [
@@ -27984,8 +28020,17 @@
         "imprint": "Dark Horse Comics",
         "isPrimary": true,
         "isbn10": "0399143963",
+        "isbn13": "9780399143960",
         "kind": "print",
         "onsale": "1998-03-11T00:00:00.000Z"
+      },
+      {
+        "extent": 128,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "042516862X",
+        "isbn13": "9780425168622",
+        "kind": "print"
       }
     ],
     "era": "newRepublic",
@@ -58920,7 +58965,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-06-21T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "force-and-destiny-knights-of-fate",
     "synopsis": "Knights of Fate is a sourcebook for Fantasy Flight Games' Star Wars: Force and Destiny roleplaying game.The galaxy is a dangerous place. The teachings and traditions of the Jedi have been lost to treachery and murder. A new generation of those who wield the Force alongside martial training or physical prowess stand against the corrupting darkness. Whether to protect the innocent or assault the enemies of peace, Warriors invoke unparalleled mastery of combat bolstered by the mysterious power of the Force.Knights of Fate is a sourcebook for the Force and Destiny roleplaying game, focused on the Warrior career. Included in its 96 full-color pages are a multitude of character options such as three new species and three new specialization trees that emphasize unique methods of fighting with the Force. New starships, vehicles, droids, weapons, and other equipment will help expand your campaign's richness and variety, whether it exclusively uses Force and Destiny or any of the other Star Wars Roleplaying Game line. Knights of Fate also features support and guidance for reinforcing the themes and roles of Warriors in the narrative, from suggestions on how they could approach different challenges to the ways in which other character Careers might interact with a Warrior's capabilities and limitations.",
     "title": "Force and Destiny: Knights of Fate"
@@ -59001,7 +59047,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-31T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "force-and-destiny-unlimited-power",
     "synopsis": "Unlimited Power is a sourcebook for Fantasy Flight Games' Star Wars: Force and Destiny roleplaying game. Fantasy Flight Games is excited to announce Unlimited Power, an all-new sourcebook for Mystic characters in the Star Wars™: Force and Destiny roleplaying game.The moment Luke heard his uncle call Ben Kenobi a \"wizard,\" the Star Wars galaxy became one of magic and mysticism, and the Mystic is a fundamental part of both Star Wars and the Force and Destiny roleplaying game. Unlimited Power, the new sourcebook for Mystic characters, greatly expands options for Mystic characters in your campaign. New Force powers will offer untold advantages and tie your characters even more deeply to the mysterious energy that binds the galaxy together and the ancient practice of alchemy enters your games of exploring the deeper mysteries of the Force.A Mystic's goal is to be an ally and partner to the Force, never its master. By allowing the Force to flow through them, the they are able to unlock unlimited potential and discover their destiny in the galaxy. Between the Jedi and the Sith, you already know there is no definitive Mystic realization, and Unlimited Power introduces three new specializations to join the Makashi Duelist, Advisor, and Seer options already available.More than just a sourcebook for Mystic players, Unlimited Power includes three new species tuned in to the Force, new equipment, adventure ideas to allow your Game Master to weave mysticism into your campaign, and plenty of new lore to expand your galaxy.",
     "title": "Force and Destiny: Unlimited Power"
@@ -94463,22 +94510,11 @@
   {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Matt Jones",
-        "role": "writer",
-        "slug": "matt-jones"
-      }
-    ],
     "displayTitle": "LEGO Star Wars: Secrets of the Dark Side",
     "editionIds": [
       {
         "type": "isbn13",
         "value": "9780063579675"
-      },
-      {
-        "type": "isbn13",
-        "value": "9781465463364"
       }
     ],
     "editions": [
@@ -94489,22 +94525,62 @@
         "isbn13": "9780063579675",
         "kind": "print",
         "onsale": "2026-11-03T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "releaseDate": "2026-11-03T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
+    "slug": "lego-star-wars-secrets-of-the-dark-side",
+    "title": "LEGO Star Wars: Secrets of the Dark Side"
+  },
+  {
+    "bookType": "childrensBook",
+    "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Matt Jones",
+        "role": "writer",
+        "slug": "matt-jones"
+      }
+    ],
+    "displayTitle": "LEGO Star Wars: Secrets of the Dark Side (DK Reader)",
+    "editionIds": [
+      {
+        "type": "isbn13",
+        "value": "9781465463364"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781465463371"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 24,
+        "imprint": "DK",
+        "isPrimary": true,
+        "isbn13": "9781465463364",
+        "kind": "print",
+        "onsale": "2017-10-03T00:00:00.000Z"
       },
       {
         "extent": 24,
         "imprint": "DK",
         "isPrimary": false,
-        "isbn13": "9781465463364",
+        "isbn13": "9781465463371",
         "kind": "print",
         "onsale": "2017-10-03T00:00:00.000Z"
       }
     ],
     "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2017-10-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
-    "slug": "lego-star-wars-secrets-of-the-dark-side",
-    "title": "LEGO Star Wars: Secrets of the Dark Side"
+    "slug": "lego-star-wars-secrets-of-the-dark-side-dk-reader",
+    "title": "LEGO Star Wars: Secrets of the Dark Side (DK Reader)"
   },
   {
     "canonStatus": "non-canon",
@@ -97725,6 +97801,10 @@
     "displayTitle": "Luke Skywalker and the Shadows of Mindor",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345477448"
+      },
+      {
         "type": "isbn13",
         "value": "9780345477446"
       }
@@ -97734,6 +97814,7 @@
         "extent": 311,
         "imprint": "Del Rey",
         "isPrimary": true,
+        "isbn10": "0345477448",
         "isbn13": "9780345477446",
         "kind": "print",
         "onsale": "2008-12-30T00:00:00.000Z"
@@ -101166,7 +101247,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2022-09-27T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "obi-wan-jedi-master",
     "synopsis": "Star Wars: Obi-Wan, Jedi Master Four twist-up crayons and this coloring and activity book will help bring Obi-Wan Kenobi's clashes with the dark side to life as the Clone Wars begin! Obi-Wan Kenobi faces off with Count Dooku, General Grievous, Chancellor Palpatine, and Darth Sidious in this action-packed 48-page coloring book! It comes with four twist-up crayons and includes activities such as mazes, code, word searches, and a cut-out R2-D2 frame on the back cover. Anakin arrives to fight alongside Obi-Wan. How will the battle end? Perforated pages are easy to remove and display.",
     "title": "Obi-Wan, Jedi Master"
@@ -125131,7 +125213,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-09-27T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "secrets-of-the-galaxy-deluxe-boxed-set",
     "synopsis": "Star Wars: Secrets of the Galaxy Deluxe Boxed Set is a hardcover boxed set that collects four reference titles from author Daniel Wallace: The Jedi Path, Book of Sith, The Bounty Hunter Code, and Imperial Handbook. It was published by Chronicle Books, produced by becker&mayer!,The secrets of the Star Wars galaxy have been recorded in a series of handbooks and guides created and kept hidden by the Jedi Order, the Sith, the Bounty Hunters Guild, and the Empire itself. Set in-world, richly illustrated, and annotated by characters such as Luke Skywalker, Leia Organa, Boba Fett, Yoda, and Darth Vader, each volume expands Star Wars mythology with details from the inside and deepens readers' experience of the saga. This deluxe edition boxed set collects The Jedi Path, Book of Sith, The Bounty Hunter Code, and Imperial Handbook in a handsome and accessible custom slipcase, creating a handy and invaluable library for exploring a galaxy far, far away.",
     "title": "Secrets of the Galaxy Deluxe Boxed Set"
@@ -129107,7 +129190,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-25T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "solo-a-star-wars-story-train-heist",
     "synopsis": "Han Solo and Chewbacca the Wookiee must team-up for a daring train heist on the planet Vandor!",
     "title": "Solo: A Star Wars Story- Train Heist"
@@ -165611,11 +165695,11 @@
         "isbn10": "1806184044",
         "isbn13": "9781806184040",
         "kind": "print",
-        "onsale": "2026-11-03T00:00:00.000Z"
+        "onsale": "2026-11-17T00:00:00.000Z"
       }
     ],
     "format": "book",
-    "releaseDate": "2026-11-03T00:00:00.000Z",
+    "releaseDate": "2026-11-17T00:00:00.000Z",
     "releaseDisplayState": "upcoming",
     "slug": "star-wars-insider-rebellion-the-story-of-rogue-one-and-andor",
     "synopsis": "A deluxe hardcover collection drawn from interviews and features from Star Wars Insider. Covering the making of Rogue One: A Star Wars Story and Andor , the book celebrates the 10th anniversary of the Star Wars spin-off movie and subsequent TV series. The in-depth companion to the hit 2016 feature film Rogue One: A Star Wars Story and linked Disney+ series, Andor . This deluxe collector's edition explores the making of both projects through interviews with cast members and crew, including Kathleen Kennedy, Gareth Edwards, John Knoll, John Gilroy, Felicity Jones, Ben Mendelsohn, Genevieve O'Reilly, Stellan Skarsgard, Riz Ahmed, Forest Whitaker, and more. Featuring a plot synopsis for each individual episode of Andor and for Rogue One , and illustrated with incredible photos and concept art, the book examines the characters and themes of both productions and their impact on the Star Wars galaxy.",
@@ -190066,7 +190150,8 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2026-11-11T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-5",
     "title": "The Book of Boba Fett #5"
   },
@@ -190115,7 +190200,8 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2026-11-25T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-6",
     "title": "The Book of Boba Fett #6"
   },
@@ -190139,7 +190225,8 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2026-12-09T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-7",
     "title": "The Book of Boba Fett #7"
   },
@@ -217839,7 +217926,7 @@
         "isPrimary": true,
         "isbn13": "9798337403359",
         "kind": "print",
-        "onsale": "2026-10-27T00:00:00.000Z"
+        "onsale": "2026-11-24T00:00:00.000Z"
       }
     ],
     "era": "newRepublic",
@@ -217847,9 +217934,8 @@
     "inUniverseDate": {
       "startYear": 9
     },
-    "releaseDate": "2026-10-27T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
+    "releaseDate": "2026-11-24T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "the-mandalorian-adventures-with-grogu",
     "synopsis": "Celebrate the powerful friendship between Grogu and Din Djarin in this adorable pop-up storybook! When the Mandalorian accepted the assignment to deliver an asset, he never expected that the package he'd secure would be an orphaned child. What began as a job turned into something more as Din Djarin grew closer to Grogu, an alien child strong in the Force. Experience key moments in their journey together in this engaging pop-up storybook from acclaimed paper engineer Matthew Reinhart featuring memorable scenes from all seasons of The Mandalorian and a peek into the new film The Mandalorian & Grogu recreated in engaging pop-ups. From Grogu's first meeting with Din Djarin to his studies among the Jedi and ultimately his determination to learn the Way of the Mandalore and become Din Grogu, this delightful pop-up storybook is the perfect book for the whole family to enjoy Grogu's journey together.",
     "title": "The Mandalorian: Adventures with Grogu"
@@ -217928,7 +218014,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-04-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-mandalorian-and-grogu-ultimate-sticker-collection",
     "synopsis": "The Mandalorian and Grogu Ultimate Sticker Collection is a reference and activity book published as a tie-in to the film The Mandalorian and Grogu. Get stickering a galaxy far, far away with more than 1,000 stickers from Star Wars: The Mandalorian. This complete collection contains stickers of all your favorite characters, including Grogu, Din Djarin, and Bo-Katan Kryze. Learn more about incredible vehicles, such as the Mandalorian's N-1 starfighter, and fascinating locations, like the terrifying mines of Mandalore. Fans can even create their own amazing sticker scenes!",
     "title": "The Mandalorian and Grogu Ultimate Sticker Collection"
@@ -232635,7 +232722,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-07-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "whos-who-in-the-galaxy-a-character-storybook",
     "title": "Who's Who in the Galaxy: A Character Storybook"
   },
@@ -233302,6 +233390,10 @@
       {
         "type": "isbn10",
         "value": "0553578979"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553578973"
       }
     ],
     "editions": [
@@ -233310,6 +233402,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553578979",
+        "isbn13": "9780553578973",
         "kind": "print",
         "onsale": "1998-07-01T00:00:00.000Z"
       }
@@ -236048,6 +236141,10 @@
     "displayTitle": "X-Wing: Solo Command",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553579002"
+      },
+      {
         "type": "isbn13",
         "value": "9780553579000"
       }
@@ -236057,6 +236154,7 @@
         "extent": 352,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
+        "isbn10": "0553579002",
         "isbn13": "9780553579000",
         "kind": "print",
         "onsale": "1999-02-02T00:00:00.000Z"
@@ -236133,6 +236231,10 @@
       {
         "type": "isbn10",
         "value": "0553568043"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553568042"
       }
     ],
     "editions": [
@@ -236141,6 +236243,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553568043",
+        "isbn13": "9780553568042",
         "kind": "print",
         "onsale": "1997-02-01T00:00:00.000Z"
       }
@@ -236172,6 +236275,18 @@
       {
         "type": "isbn10",
         "value": "0553568035"
+      },
+      {
+        "type": "isbn10",
+        "value": "0593497341"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553568035"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593497340"
       }
     ],
     "editions": [
@@ -236180,8 +236295,17 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553568035",
+        "isbn13": "9780553568035",
         "kind": "print",
         "onsale": "1996-10-01T00:00:00.000Z"
+      },
+      {
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0593497341",
+        "isbn13": "9780593497340",
+        "kind": "print",
+        "onsale": "2022-08-02T00:00:00.000Z"
       }
     ],
     "era": "newRepublic",
@@ -236211,6 +236335,18 @@
       {
         "type": "isbn10",
         "value": "0553568027"
+      },
+      {
+        "type": "isbn10",
+        "value": "0593497074"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553568028"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593497074"
       }
     ],
     "editions": [
@@ -236219,14 +236355,23 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553568027",
+        "isbn13": "9780553568028",
         "kind": "print",
         "onsale": "1996-05-01T00:00:00.000Z"
+      },
+      {
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0593497074",
+        "isbn13": "9780593497074",
+        "kind": "print",
+        "onsale": "2022-04-05T00:00:00.000Z"
       }
     ],
     "era": "newRepublic",
     "format": "book",
     "inUniverseDate": {
-      "startYear": 6
+      "startYear": 7
     },
     "releaseDate": "1996-05-01T00:00:00.000Z",
     "releaseDisplayState": "released",
@@ -236258,8 +236403,8 @@
     ],
     "editions": [
       {
-        "extent": 416,
-        "imprint": "Random House",
+        "extent": 432,
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553578944",
         "isbn13": "9780553578942",
@@ -237439,7 +237584,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2024-02-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "young-jedi-adventures-my-first-comic-reader-level-1",
     "synopsis": "A graphic novel short story collection scheduled to be released in June 2023 A collection of adventurous original short stories starring Kai Brightstar, Lys Solay, and Nubs featuring Master Zia, Taborr, and Yoda. Star Wars: My First Comic Readers are easy-to-read comic books that introduce young fans to graphic novels with simple text, accessible layouts, and clear storylines.",
     "title": "Young Jedi Adventures: My First Comic Reader Level 1"

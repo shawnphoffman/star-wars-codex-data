@@ -13,6 +13,18 @@
     {
       "type": "isbn10",
       "value": "0399143963"
+    },
+    {
+      "type": "isbn10",
+      "value": "042516862X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780399143960"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780425168622"
     }
   ],
   "editions": [
@@ -21,8 +33,17 @@
       "imprint": "Dark Horse Comics",
       "isPrimary": true,
       "isbn10": "0399143963",
+      "isbn13": "9780399143960",
       "kind": "print",
       "onsale": "1998-03-11T00:00:00.000Z"
+    },
+    {
+      "extent": 128,
+      "imprint": "Boulevard",
+      "isPrimary": false,
+      "isbn10": "042516862X",
+      "isbn13": "9780425168622",
+      "kind": "print"
     }
   ],
   "era": "newRepublic",
