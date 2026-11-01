@@ -2,6 +2,9 @@
   "canonStatus": "non-canon",
   "displayTitle": "Party Ewok",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",
   "releaseDate": "1986-12-13T00:00:00.000Z",
   "releaseDisplayState": "released",

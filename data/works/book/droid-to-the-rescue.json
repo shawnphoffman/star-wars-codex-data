@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Gail Herman",
+      "role": "writer",
+      "slug": "gail-herman"
+    }
+  ],
+  "displayTitle": "Droid to the Rescue",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2000-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "droid-to-the-rescue",
+  "synopsis": "R2-D2 is a helper droid who works on Queen Amidala's Royal Starship. When the Queen is suddenly in danger, R2 must save the day! R2-D2 must repair the Queen's ship and help his new friend Anakin fight the enemy. Can a little droid do such a big job?",
+  "title": "Droid to the Rescue"
+}

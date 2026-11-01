@@ -43,7 +43,8 @@
       "isPrimary": false,
       "isbn10": "0425170519",
       "isbn13": "9780425170519",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "1998-10-14T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

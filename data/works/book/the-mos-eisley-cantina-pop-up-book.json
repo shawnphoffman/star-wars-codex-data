@@ -33,6 +33,9 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "periodical": {
     "publicationKind": "comic"
   },

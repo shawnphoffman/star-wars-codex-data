@@ -28,6 +28,9 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "periodical": {
     "publicationKind": "comic"
   },

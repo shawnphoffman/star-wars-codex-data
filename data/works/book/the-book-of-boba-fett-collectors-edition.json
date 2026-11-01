@@ -10,7 +10,11 @@
       "onsale": "2023-08-01T00:00:00.000Z"
     }
   ],
+  "era": "newRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "periodical": {
     "publicationKind": "comic"
   },

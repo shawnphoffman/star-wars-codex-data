@@ -1,0 +1,20 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jeffrey Brown",
+      "role": "writer",
+      "slug": "jeffrey-brown"
+    }
+  ],
+  "displayTitle": "Darth Vader And Son",
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2012-04-18T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "darth-vader-and-son",
+  "title": "Darth Vader And Son"
+}

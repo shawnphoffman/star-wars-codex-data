@@ -43,7 +43,8 @@
       "isPrimary": false,
       "isbn10": "042516862X",
       "isbn13": "9780425168622",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "1998-03-11T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",

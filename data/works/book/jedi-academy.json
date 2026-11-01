@@ -14,7 +14,8 @@
     "publicationKind": "comic"
   },
   "releaseDate": "2013-08-27T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "jedi-academy",
   "title": "Jedi Academy"
 }

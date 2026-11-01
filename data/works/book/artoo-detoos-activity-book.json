@@ -1,0 +1,24 @@
+{
+  "bookType": "other",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Razzi",
+      "role": "writer",
+      "slug": "james-razzi"
+    }
+  ],
+  "displayTitle": "Artoo Detoo's Activity Book",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "1979-03-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "artoo-detoos-activity-book",
+  "synopsis": "Artoo Detoo's Activity Book was a children's activity book released by Random House in March of 1979.",
+  "title": "Artoo Detoo's Activity Book"
+}

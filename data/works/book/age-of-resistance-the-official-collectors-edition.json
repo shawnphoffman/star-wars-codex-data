@@ -11,6 +11,10 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "endYear": 35,
+    "startYear": 34
+  },
   "periodical": {
     "publicationKind": "comic"
   },

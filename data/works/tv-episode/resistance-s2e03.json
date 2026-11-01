@@ -20,6 +20,9 @@
   "displayTitle": "Live Fire",
   "era": "riseOfTheFirstOrder",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "resistance-s2",
   "releaseDate": "2019-10-20T00:00:00.000Z",
   "releaseDisplayState": "released",

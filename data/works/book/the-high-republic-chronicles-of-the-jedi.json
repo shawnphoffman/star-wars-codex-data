@@ -32,7 +32,11 @@
       "onsale": "2023-02-28T00:00:00.000Z"
     }
   ],
+  "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -232
+  },
   "periodical": {
     "publicationKind": "comic"
   },

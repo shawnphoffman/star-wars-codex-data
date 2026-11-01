@@ -14,6 +14,9 @@
   ],
   "displayTitle": "The Season Scepter",
   "format": "tvEpisode",
+  "inUniverseDate": {
+    "startYear": 3
+  },
   "parentWorkSlug": "star-wars-ewoks-season-2-s02",
   "releaseDate": "1986-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",

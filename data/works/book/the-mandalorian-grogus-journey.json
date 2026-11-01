@@ -22,7 +22,11 @@
       "onsale": "2022-06-21T00:00:00.000Z"
     }
   ],
+  "era": "newRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "periodical": {
     "publicationKind": "comic"
   },
