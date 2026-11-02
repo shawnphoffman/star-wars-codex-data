@@ -1,5 +1,40 @@
 [
   {
+    "bookType": "childrensBook",
+    "canonStatus": "canon",
+    "displayTitle": "10-Button Sound: Heroes",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0794444490"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780794444495"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 10,
+        "imprint": "Studio Fun International",
+        "isPrimary": true,
+        "isbn10": "0794444490",
+        "isbn13": "9780794444495",
+        "kind": "print",
+        "onsale": "2020-07-07T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2020-07-07T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "10-button-sound-heroes",
+    "title": "10-Button Sound: Heroes"
+  },
+  {
     "canonStatus": "canon",
     "creators": [
       {
@@ -246,7 +281,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1997-11-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "a-droids-tale",
     "synopsis": "Young Star Wars fans will delight in this interactive tale of two of the most famous droids in the galaxy! Featuring the authentic voice of C-3PO and still photos from the movies, kids can read, press buttons, and listen as our favorite droid describes each and every page!",
     "title": "A Droid's Tale"
@@ -304,6 +340,53 @@
     "slug": "a-forest-apart",
     "synopsis": "**Like father, like son...**\n\nGrowing up in the shadow of his heroic father, Lumpawarrump, son of Chewbacca, feels tremendous pressure to match his father's daring exploits. Chewie's life-debt to Han Solo keeps him from returning home, and without the steadying influence of his father, Lumpy is unfocused and out of control. So Chewie's wife decides that a visit to Coruscant is in order. It's the perfect opportunity for the family to bond, and for Chewbacca to teach his son some much-needed life-lessons.\n\nBut when Lumpy's eagerness to impress his father leads to direct disobedience, Chewie is forced into an extreme pursuit that will lead him into Coruscant's dangerous underlevels, and to a secret as shocking as it is deadly.",
     "title": "A Forest Apart"
+  },
+  {
+    "bookType": "childrensBook",
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Lois Evans",
+        "role": "writer",
+        "slug": "lois-evans"
+      },
+      {
+        "name": "Chris Kennett",
+        "role": "artist",
+        "slug": "chris-kennett"
+      }
+    ],
+    "displayTitle": "A Galaxy for Everyone",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0736441530"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780736441537"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 24,
+        "imprint": "Golden Books",
+        "isPrimary": true,
+        "isbn10": "0736441530",
+        "isbn13": "9780736441537",
+        "kind": "print",
+        "onsale": "2021-01-05T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2021-01-05T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "a-galaxy-for-everyone",
+    "title": "A Galaxy for Everyone"
   },
   {
     "bookType": "other",
@@ -697,7 +780,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-02-10T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "a-new-hope-read-along-storybook",
     "synopsis": "Experience Star Wars: Episode IV A New Hope like never before! Fully illustrated with gorgeous images by Star Wars artist Brian Rood, this epic storybook also includes a CD with word-for-word narration, music, and character voices. Follow along as Luke Skywalker meets Obi-Wan Kenobi, rescues Princess Leia, and faces Darth Vader for the first time.",
     "title": "A New Hope Read-Along Storybook"
@@ -1660,7 +1744,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-06-02T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "abcs-in-a-galaxy-far-far-away",
     "synopsis": "A children's book published by Disney-Lucasfilm Press",
     "title": "ABCs in a Galaxy Far, Far Away"
@@ -5242,7 +5327,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-01-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "ahsoka-rebel-jedi",
     "synopsis": "Learn how to read with Ahsoka Tano! Join Ahsoka Tano and her allies as they fight to protect the galaxy from evil. Will Ahsoka emerge victorious? Packed with fun facts, exciting color images, simple vocabulary, and a fun quiz, this Level 3 nonfiction reader will engage young fans of Star Wars and help them build confidence in reading.",
     "title": "Ahsoka Rebel Jedi"
@@ -9023,7 +9109,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1979-03-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "artoo-detoos-activity-book",
     "synopsis": "Artoo Detoo's Activity Book was a children's activity book released by Random House in March of 1979.",
     "title": "Artoo Detoo's Activity Book"
@@ -9162,7 +9249,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-11-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "at-at-attack",
     "synopsis": "Luke Skywalker does some fast flying as he protects Hoth's rebel base from the Empire. This level 1 early reader retells classic scenes from Star Wars: The Empire Strikes Back as the rebels face off against the Empires dreaded mechanical AT-ATs. Featuring beautiful full-color illustrations, this World of Reading book is perfect for little Star Wars fans who are ready to read on their own.",
     "title": "AT-AT Attack!"
@@ -9239,7 +9327,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2017-02-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "attack-of-the-clones-read-along-storybook",
     "synopsis": "Relive all of the excitement of Star Wars: Episode II Attack of the Clones in this illustrated storybook-and-CD set.",
     "title": "Attack of the Clones Read-Along Storybook"
@@ -11287,7 +11376,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2007-08-20T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "beware-the-dark-side",
     "synopsis": "Beware the Dark Side is a 48-page Level 4 DK Readers book written by Simon Beecroft that was written for proficient readers. Find out all about the dark side and the Sith who wield power over it. Learn about evil Darth Sidious, Darth Maul and, of course, Darth Vader. Discover how the conflict began between the Jedi and the Sith. Beware the Dark Side has all the Dark Side details you could want to know!.",
     "title": "Beware the Dark Side"
@@ -17725,7 +17815,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-08-02T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "chaos-at-the-castle",
     "synopsis": "This level one early reader retells a favorite scene from Star Wars: The Force Awakens. Featuring beautiful stylized illustrations, this World of Reading book is perfect for young fans ready to read on their own.",
     "title": "Chaos at the Castle"
@@ -18535,7 +18626,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1979-03-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "chewbaccas-activity-book",
     "synopsis": "Chewbacca's Activity Book was a children's activity book released by Random House in March of 1979.",
     "title": "Chewbacca's Activity Book"
@@ -23510,7 +23602,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2019-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "creatures-big-small",
     "synopsis": "Star Wars: Creatures Big & Small is a Star Wars young readers book with a focus on Star Wars creatures. It was released by Disney-Lucasfilm Press on October 1, 2019 and is written by Calliope Glass with art by Katie Cook. As with previous releases such as Star Wars: ABC-3PO, the cover bills it as being the \"Galactic Basic Edition.\"",
     "title": "Creatures Big & Small"
@@ -37765,6 +37858,41 @@
   },
   {
     "bookType": "other",
+    "canonStatus": "canon",
+    "displayTitle": "Darth Vader Activity Book",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "140528000X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781405280006"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 48,
+        "imprint": "Egmont",
+        "isPrimary": true,
+        "isbn10": "140528000X",
+        "isbn13": "9781405280006",
+        "kind": "print",
+        "onsale": "2016-06-30T00:00:00.000Z"
+      }
+    ],
+    "format": "book",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2016-06-30T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "darth-vader-activity-book",
+    "title": "Darth Vader Activity Book"
+  },
+  {
+    "bookType": "other",
     "canonStatus": "non-canon",
     "creators": [
       {
@@ -37779,7 +37907,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-04-28T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vader-and-friends",
     "title": "Darth Vader And Friends"
   },
@@ -37799,7 +37928,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2012-04-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vader-and-son",
     "title": "Darth Vader And Son"
   },
@@ -41850,7 +41980,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1979-03-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vaders-activity-book",
     "synopsis": "Join forces against the evil Darth Vader! See if you can crack his secret code, escape from his tricky mazes - and destroy the Imperial Battle Station! Blast off for hours of Star Wars fun with these and other exciting games, puzzles, and out-of-this-world activities.",
     "title": "Darth Vader's Activity Book"
@@ -41874,7 +42005,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1997-09-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "darth-vaders-mission-the-search-for-the-secret-plans",
     "synopsis": "Darth Vader's Mission: The Search for the Secret Plans is young reader Star Wars Action Toy Book published in September 1997 by Fun Works. The book featured twelve cutout pages through which a Darth Vader toy hung suspended from a cord. The Search for the Secret Plans was written by Jane Paley and produced by White Heat, Ltd., with art by Ken Steacy.",
     "title": "Darth Vader's Mission: The Search for the Secret Plans"
@@ -50399,7 +50531,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-06-30T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "droid-adventures-activity-book",
     "synopsis": "Star Wars: Droid Adventures Activity Book is a children's activity book based on the droids of Star Wars. It was written by Katrina Pallant and published by Egmont UK Ltd on June 30, 2016.A beautifully-illustrated activity book based on the lovable droids, R2-D2 and C-3PO. Relive their exciting journey from The Phantom Menace all the way through to Return of the Jedi.Plus meet BB-8 and enjoy his adventures from Star Wars: The Force Awakens.The book is packed full of exciting mazes, codewords, puzzles and many more activities, plus 3 sticker scenes to complete with 100 stickers!",
     "title": "Droid Adventures Activity Book"
@@ -50423,7 +50556,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2000-03-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "droid-to-the-rescue",
     "synopsis": "R2-D2 is a helper droid who works on Queen Amidala's Royal Starship. When the Queen is suddenly in danger, R2 must save the day! R2-D2 must repair the Queen's ship and help his new friend Anakin fight the enemy. Can a little droid do such a big job?",
     "title": "Droid to the Rescue"
@@ -51720,7 +51854,7 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -51790,7 +51924,7 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -51860,7 +51994,7 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -51925,7 +52059,7 @@
         "slug": "kilian-plunkett"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -51985,7 +52119,7 @@
         "slug": "david-michael-beck"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       },
@@ -52125,7 +52259,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -52190,7 +52324,7 @@
         "slug": "david-michael-beck"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -52255,7 +52389,7 @@
         "slug": "david-michael-beck"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -52320,7 +52454,7 @@
         "slug": "david-michael-beck"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -75883,7 +76017,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       },
@@ -102776,7 +102910,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "colorist",
         "slug": "sno-cone"
       }
@@ -102846,7 +102980,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "colorist",
         "slug": "sno-cone"
       }
@@ -102916,7 +103050,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "colorist",
         "slug": "sno-cone"
       }
@@ -102986,7 +103120,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "colorist",
         "slug": "sno-cone"
       }
@@ -116987,7 +117121,7 @@
         "slug": "joe-wayne"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -117243,7 +117377,7 @@
         "slug": "brad-anderson"
       },
       {
-        "name": "Sno Cone",
+        "name": "Sno Cone Studios",
         "role": "letterer",
         "slug": "sno-cone"
       }
@@ -220748,11 +220882,11 @@
     "title": "The Mandalorian Vol. 3 (Manga)"
   },
   {
-    "bookType": "other",
+    "bookType": "childrensBook",
     "canonStatus": "canon",
-    "displayTitle": "The Mandalorian: Volume 1(Disney Die-Cut Classics)",
+    "displayTitle": "The Mandalorian (Disney Die-Cut Classics)",
     "era": "newRepublic",
-    "format": "periodical",
+    "format": "book",
     "inUniverseDate": {
       "startYear": 9
     },
@@ -220764,7 +220898,7 @@
     "releaseStatus": "released",
     "slug": "the-mandalorian-volume-1disney-die-cut-classics",
     "synopsis": "Star Wars: The Mandalorian is a Canon children's book published by Studio Fun International, an adaptation of the first season of the television series The Mandalorian. Relive the first season of The Mandalorian as Mando, Cara Dune, Kuill, and Greef Karga attempt to save the Child from Moff Gideon and what remains of the Galactic Empire in this beautiful storybook.After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. The Mandalorian is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic. Star Wars fans of all ages will enjoy reliving the first season of The Mandalorian in this beautiful storybook.",
-    "title": "The Mandalorian: Volume 1(Disney Die-Cut Classics)"
+    "title": "Star Wars: The Mandalorian (Disney Die-Cut Classics)"
   },
   {
     "bookType": "childrensBook",

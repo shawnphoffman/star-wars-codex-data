@@ -1,0 +1,47 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Lois Evans",
+      "role": "writer",
+      "slug": "lois-evans"
+    },
+    {
+      "name": "Chris Kennett",
+      "role": "artist",
+      "slug": "chris-kennett"
+    }
+  ],
+  "displayTitle": "A Galaxy for Everyone",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736441530"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736441537"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0736441530",
+      "isbn13": "9780736441537",
+      "kind": "print",
+      "onsale": "2021-01-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2021-01-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-galaxy-for-everyone",
+  "title": "A Galaxy for Everyone"
+}

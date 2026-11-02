@@ -1,0 +1,35 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "displayTitle": "Darth Vader Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "140528000X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405280006"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Egmont",
+      "isPrimary": true,
+      "isbn10": "140528000X",
+      "isbn13": "9781405280006",
+      "kind": "print",
+      "onsale": "2016-06-30T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-06-30T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-vader-activity-book",
+  "title": "Darth Vader Activity Book"
+}

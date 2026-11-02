@@ -1,0 +1,35 @@
+{
+  "bookType": "childrensBook",
+  "canonStatus": "canon",
+  "displayTitle": "10-Button Sound: Heroes",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794444490"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794444495"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 10,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794444490",
+      "isbn13": "9780794444495",
+      "kind": "print",
+      "onsale": "2020-07-07T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-07-07T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "10-button-sound-heroes",
+  "title": "10-Button Sound: Heroes"
+}
