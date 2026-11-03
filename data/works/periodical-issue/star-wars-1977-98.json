@@ -23,11 +23,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #98: Supply and Demand",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

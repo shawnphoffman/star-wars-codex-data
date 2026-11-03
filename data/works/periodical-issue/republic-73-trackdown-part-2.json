@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Republic #73: Trackdown, Part 2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

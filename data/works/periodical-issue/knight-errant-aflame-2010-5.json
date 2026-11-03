@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Knight Errant (2010) #5",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1032
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knight-errant-aflame-2010",
   "periodical": {
     "pageCount": 40,

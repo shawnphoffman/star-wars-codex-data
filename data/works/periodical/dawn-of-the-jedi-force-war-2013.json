@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War",
-  "era": "dawnOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsBeforeTheRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

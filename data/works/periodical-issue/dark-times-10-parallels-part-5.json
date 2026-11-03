@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Dark Times #10: Parallels, Part 5",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times",
   "periodical": {
     "pageCount": 40,

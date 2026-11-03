@@ -2,8 +2,11 @@
   "bookType": "graphicNovel",
   "canonStatus": "canon",
   "displayTitle": "Episode I: The Phantom Menace Photo Comic",
+  "era": "fallOfTheJedi",
   "format": "book",
-  "releaseDisplayState": "announced",
+  "releaseDate": "2007-08-29T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "episode-i-the-phantom-menace-photo-comic",
   "synopsis": "Star Wars: Episode I — The Phantom Menace is the official comic book adaptation of the film The Phantom Menace. It was published weekly from May 5, 1999 to May 26, 1999.",
   "title": "Episode I: The Phantom Menace Photo Comic"

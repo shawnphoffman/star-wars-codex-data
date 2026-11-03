@@ -30,11 +30,11 @@
       "onsale": "1998-08-01T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 1
   },
+  "legendsEra": "legendsRebellion",
   "relatedWorkSlugs": [
     "galaxy-of-fear-1997-1",
     "galaxy-of-fear-1997-10",

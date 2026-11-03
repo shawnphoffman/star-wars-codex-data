@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Republic #45: Rite of Passage, Part 4",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -30
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Obsession #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "obsession-2004",
   "periodical": {
     "publicationKind": "comic"

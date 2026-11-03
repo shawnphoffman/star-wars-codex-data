@@ -7,7 +7,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1999-10-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "return-of-the-jedi-manga-4",
   "title": "Return of the Jedi: Manga #4"
 }

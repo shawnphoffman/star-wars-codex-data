@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Droids: Season of Revolt #3",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids-season-of-revolt-1995",
   "periodical": {
     "publicationKind": "comic"

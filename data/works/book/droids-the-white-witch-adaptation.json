@@ -27,11 +27,11 @@
       "kind": "print"
     }
   ],
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -15
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "1987-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

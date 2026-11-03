@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Jedi: Yoda",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -21
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

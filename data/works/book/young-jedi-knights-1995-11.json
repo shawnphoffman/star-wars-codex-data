@@ -29,11 +29,11 @@
       "onsale": "1998-01-01T00:00:00.000Z"
     }
   ],
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 24
   },
+  "legendsEra": "legendsNewRepublic",
   "relatedWorkSlugs": [
     "young-jedi-knights-1995-1",
     "young-jedi-knights-1995-10",

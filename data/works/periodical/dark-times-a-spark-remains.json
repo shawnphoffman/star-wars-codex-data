@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Dark Times: A Spark Remains",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

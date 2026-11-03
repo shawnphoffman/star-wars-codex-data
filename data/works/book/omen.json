@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Omen",
-  "era": "legacy",
   "format": "book",
   "inUniverseDate": {
     "startYear": 43
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2009-06-23T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

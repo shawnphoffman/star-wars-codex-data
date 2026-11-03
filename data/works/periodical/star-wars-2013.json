@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Star Wars (2013)",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #107: All Together Now",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

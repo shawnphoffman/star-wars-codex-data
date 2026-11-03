@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Star by Star",
-  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 27
   },
+  "legendsEra": "legendsNewJediOrder",
   "releaseDate": "2001-10-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

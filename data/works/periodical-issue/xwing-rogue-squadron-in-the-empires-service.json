@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron: In the Empire's Service",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

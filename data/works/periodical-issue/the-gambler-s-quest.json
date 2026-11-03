@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Gambler's Quest",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-kids-1999",
   "periodical": {
     "publicationKind": "comic"

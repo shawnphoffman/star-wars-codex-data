@@ -34,8 +34,8 @@
     }
   ],
   "displayTitle": "Infinities: Return of the Jedi",
-  "era": "multiEra",
   "format": "periodical",
+  "legendsEra": "legendsInfinities",
   "periodical": {
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"

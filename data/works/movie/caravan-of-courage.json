@@ -29,11 +29,11 @@
     }
   ],
   "displayTitle": "Caravan of Courage: An Ewok Adventure",
-  "era": "ageOfRebellion",
   "format": "movie",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "movie": {
     "movieType": "tvMovie",
     "mpaaRating": "unrated",

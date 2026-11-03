@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Agent of the Empire: Hard Targets #5",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "agent-of-the-empire-hard-targets",
   "periodical": {
     "pageCount": 32,

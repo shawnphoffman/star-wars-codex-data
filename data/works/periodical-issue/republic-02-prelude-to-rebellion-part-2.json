@@ -18,11 +18,11 @@
     }
   ],
   "displayTitle": "Republic #02: Prelude to Rebellion, Part 2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -33
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

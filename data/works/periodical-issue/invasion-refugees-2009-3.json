@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Invasion (2009) #3",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "parentWorkSlug": "invasion",
   "periodical": {
     "pageCount": 40,

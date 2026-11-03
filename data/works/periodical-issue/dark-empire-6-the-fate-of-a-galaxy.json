@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Dark Empire #6: The Fate of a Galaxy",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "dark-empire-2",
   "periodical": {
     "publicationKind": "comic"

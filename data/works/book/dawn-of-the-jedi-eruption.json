@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Dawn Of The Jedi: Eruption",
-  "era": "dawnOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -25793
   },
+  "legendsEra": "legendsBeforeTheRepublic",
   "releaseDate": "2013-04-30T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

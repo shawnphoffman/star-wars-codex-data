@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Rebellion #0: Crossroads",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "publicationKind": "comic"

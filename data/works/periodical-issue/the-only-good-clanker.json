@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Only Good Clanker",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

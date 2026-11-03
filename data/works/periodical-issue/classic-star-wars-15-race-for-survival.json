@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars #15: Race For Survival",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars",
   "periodical": {
     "publicationKind": "comic"

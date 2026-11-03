@@ -123,11 +123,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #108: Forever Crimson",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 5
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

@@ -43,7 +43,12 @@
     }
   ],
   "displayTitle": "Han Solo: Hunt for the Falcon #5",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 31
+  },
   "parentWorkSlug": "han-solo-hunt-for-the-falcon",
   "periodical": {
     "imprint": "Marvel Comics",

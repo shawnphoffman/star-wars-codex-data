@@ -53,11 +53,11 @@
     }
   ],
   "displayTitle": "Shadow Stalker",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"

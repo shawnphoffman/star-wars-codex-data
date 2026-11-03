@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Jedi: The Dark Side",
-  "era": "multiEra",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -53
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

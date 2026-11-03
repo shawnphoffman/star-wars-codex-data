@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Dark Times: Out of the Wilderness #1",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times-out-of-the-wilderness",
   "periodical": {
     "pageCount": 40,

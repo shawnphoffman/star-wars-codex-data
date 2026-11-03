@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "The Old Republic #2: Threat of Peace, Part 2",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3653
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "the-old-republic",
   "periodical": {
     "pageCount": 40,

@@ -17,7 +17,11 @@
       "onsale": "2016-02-02T00:00:00.000Z"
     }
   ],
+  "era": "riseOfTheFirstOrder",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "periodical": {
     "publicationKind": "comic"
   },

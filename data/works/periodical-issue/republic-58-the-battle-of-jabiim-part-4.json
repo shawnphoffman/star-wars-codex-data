@@ -32,11 +32,11 @@
     }
   ],
   "displayTitle": "Republic #58: The Battle of Jabiim (Part 4 of 4)",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -21
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

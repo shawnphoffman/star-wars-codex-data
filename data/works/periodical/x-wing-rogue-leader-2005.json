@@ -28,8 +28,8 @@
     }
   ],
   "displayTitle": "X-Wing: Rogue Leader",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,46 @@
+{
+  "bookType": "manga",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Yusuke Osawa",
+      "role": "writer",
+      "slug": "yusuke-osawa"
+    }
+  ],
+  "displayTitle": "The Mandalorian Vol. 4 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1974760987"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781974760985"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 228,
+      "imprint": "VIZ Media",
+      "isPrimary": true,
+      "isbn10": "1974760987",
+      "isbn13": "9781974760985",
+      "kind": "print",
+      "onsale": "2026-05-05T00:00:00.000Z"
+    }
+  ],
+  "era": "newRepublic",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 9
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2026-05-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-mandalorian-vol-4-manga",
+  "title": "The Mandalorian Vol. 4 (Manga)"
+}

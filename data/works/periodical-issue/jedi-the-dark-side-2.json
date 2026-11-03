@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Jedi: The Dark Side #2",
-  "era": "multiEra",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -53
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jedi-the-dark-side-graphic-novel",
   "periodical": {
     "pageCount": 40,

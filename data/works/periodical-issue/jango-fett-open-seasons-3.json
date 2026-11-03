@@ -33,12 +33,12 @@
     }
   ],
   "displayTitle": "Jango Fett: Open Seasons #3",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "endYear": -32,
     "startYear": -44
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jango-fett-open-seasons-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

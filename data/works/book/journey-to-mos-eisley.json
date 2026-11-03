@@ -18,6 +18,10 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

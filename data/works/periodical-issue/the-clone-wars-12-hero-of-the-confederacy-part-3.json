@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "The Clone Wars #12: Hero of the Confederacy",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
     "pageCount": 40,

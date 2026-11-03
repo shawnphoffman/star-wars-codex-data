@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Dark Times: A Spark Remains #1",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times-a-spark-remains",
   "periodical": {
     "pageCount": 32,

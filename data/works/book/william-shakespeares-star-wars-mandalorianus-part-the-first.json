@@ -2,11 +2,11 @@
   "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "displayTitle": "William Shakespeare's Star Wars Mandalorianus Part the First",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 9
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

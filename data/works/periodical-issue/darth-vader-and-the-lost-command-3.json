@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Darth Vader and the Lost Command #3",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "darth-vader-and-the-lost-command-graphic-novel",
   "periodical": {
     "pageCount": 40,

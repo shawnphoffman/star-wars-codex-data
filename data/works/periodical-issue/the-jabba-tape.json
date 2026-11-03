@@ -34,11 +34,11 @@
     }
   ],
   "displayTitle": "The Jabba Tape",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -53,8 +53,8 @@
     }
   ],
   "displayTitle": "Heir to the Empire",
-  "era": "newRepublic",
   "format": "periodical",
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,21 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Emma Carlson Berne",
+      "role": "writer",
+      "slug": "emma-carlson-berne"
+    }
+  ],
+  "displayTitle": "Forces of Destiny: Daring Adventures: Volume 1",
+  "era": "multiEra",
+  "format": "periodical",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-08-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "forces-of-destiny-daring-adventures-volume-1",
+  "title": "Forces of Destiny: Daring Adventures: Volume 1"
+}

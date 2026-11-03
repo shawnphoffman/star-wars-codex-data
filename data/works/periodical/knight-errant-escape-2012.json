@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Knight Errant: Escape",
-  "era": "multiEra",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

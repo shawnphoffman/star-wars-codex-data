@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Tilotny Throws a Shape",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

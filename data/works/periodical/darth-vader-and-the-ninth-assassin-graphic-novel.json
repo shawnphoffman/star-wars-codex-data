@@ -53,11 +53,11 @@
     }
   ],
   "displayTitle": "Darth Vader and the Ninth Assassin",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

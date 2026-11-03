@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Darth Vader and the Cry of Shadows #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "darth-vader-and-the-cry-of-shadows-graphic-novel",
   "periodical": {
     "pageCount": 32,

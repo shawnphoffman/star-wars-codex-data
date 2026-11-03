@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Union",
-  "era": "newRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 19
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

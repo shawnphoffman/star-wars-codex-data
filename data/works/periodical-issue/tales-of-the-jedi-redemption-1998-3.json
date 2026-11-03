@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: Redemption #3: Homecoming",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3986
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-redemption-1998",
   "periodical": {
     "publicationKind": "comic"

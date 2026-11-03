@@ -42,11 +42,11 @@
       "onsale": "2000-03-01T00:00:00.000Z"
     }
   ],
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -33
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "imprint": "Scholastic"
   },

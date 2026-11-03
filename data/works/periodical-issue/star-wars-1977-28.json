@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #28: What Ever Happened to Jabba the Hut?",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

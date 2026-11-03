@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #100: First Strike",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

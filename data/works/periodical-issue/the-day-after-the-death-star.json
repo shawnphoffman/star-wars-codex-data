@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Day after the Death Star!",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-marvel-uk",
   "periodical": {
     "publicationKind": "comic"

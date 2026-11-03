@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Droids: Rebellion #1",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids-rebellion-1995",
   "periodical": {
     "publicationKind": "comic"

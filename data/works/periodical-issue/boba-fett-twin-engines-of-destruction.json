@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Twin Engines of Destruction",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 5
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

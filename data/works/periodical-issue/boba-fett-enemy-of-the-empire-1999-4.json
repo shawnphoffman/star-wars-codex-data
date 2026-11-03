@@ -66,11 +66,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Enemy of the Empire #4",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "boba-fett-enemy-of-the-empire-1999",
   "periodical": {
     "publicationKind": "comic"

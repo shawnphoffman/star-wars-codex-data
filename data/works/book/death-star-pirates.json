@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Death Star Pirates",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2000-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

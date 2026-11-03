@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Legacy #08: Allies",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 130
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2006",
   "periodical": {
     "pageCount": 32,

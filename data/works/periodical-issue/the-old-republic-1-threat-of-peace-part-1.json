@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "The Old Republic #1: Threat of Peace, Part 1",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3653
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "the-old-republic",
   "periodical": {
     "pageCount": 40,

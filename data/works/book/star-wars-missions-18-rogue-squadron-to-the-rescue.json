@@ -25,11 +25,11 @@
       "onsale": "1999-02-01T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "1999-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Good Hunting",
-  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 45
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2013-06-11T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

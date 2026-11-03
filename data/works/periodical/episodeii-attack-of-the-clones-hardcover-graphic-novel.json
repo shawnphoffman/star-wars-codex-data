@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Episode II: Attack of the Clones",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

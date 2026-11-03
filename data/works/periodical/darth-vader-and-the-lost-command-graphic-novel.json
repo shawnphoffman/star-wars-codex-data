@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Darth Vader and the Lost Command",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

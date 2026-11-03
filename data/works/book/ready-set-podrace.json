@@ -23,6 +23,10 @@
     }
   ],
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Guns of Kelrodo-Ai",
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -17
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2012-03-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

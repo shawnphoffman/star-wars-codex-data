@@ -33,12 +33,12 @@
     }
   ],
   "displayTitle": "Jango Fett: Open Seasons",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "endYear": -32,
     "startYear": -58
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

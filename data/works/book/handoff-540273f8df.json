@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Handoff",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2002-04-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

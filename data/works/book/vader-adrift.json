@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Vader Adrift",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2011-11-08T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

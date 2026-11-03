@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Empire #15: Darklighter (4 of 4)",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

@@ -30,10 +30,24 @@
       "name": "Comicraft",
       "role": "letterer",
       "slug": "comicraft"
+    },
+    {
+      "name": "Tyler Smith",
+      "role": "letterer",
+      "slug": "tyler-smith"
+    },
+    {
+      "name": "Bobby Bradford",
+      "role": "letterer",
+      "slug": "bobby-bradford"
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #1",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
   "periodical": {
     "pageCount": 32,

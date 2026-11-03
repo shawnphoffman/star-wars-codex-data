@@ -173,8 +173,8 @@
     }
   ],
   "displayTitle": "Knights of the Old Republic",
-  "era": "oldRepublic",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

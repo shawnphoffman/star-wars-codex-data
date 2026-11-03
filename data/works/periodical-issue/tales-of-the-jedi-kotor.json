@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: Knights of the Old Republic",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4000
   },
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

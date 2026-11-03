@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force War #5",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -25792
   },
+  "legendsEra": "legendsBeforeTheRepublic",
   "parentWorkSlug": "dawn-of-the-jedi-force-war-2013",
   "periodical": {
     "pageCount": 32,

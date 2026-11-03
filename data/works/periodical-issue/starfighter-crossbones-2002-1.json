@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Starfighter: Crossbones #1",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -26
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "starfighter-crossbones-2002",
   "periodical": {
     "publicationKind": "comic"

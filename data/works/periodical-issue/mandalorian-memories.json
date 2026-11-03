@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Mandalorian Memories",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-the-clone-wars-comic",
   "periodical": {
     "publicationKind": "comic"

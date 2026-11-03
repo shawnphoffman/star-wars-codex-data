@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Wanderer of Worlds",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "1996-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

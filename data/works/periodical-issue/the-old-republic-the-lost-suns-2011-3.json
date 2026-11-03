@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns #3",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3643
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "the-old-republic-the-lost-suns-2011",
   "periodical": {
     "pageCount": 32,

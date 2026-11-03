@@ -1,8 +1,8 @@
 {
   "canonStatus": "non-canon",
   "displayTitle": "Clone Wars Adventures Volume 8",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",
   "periodical": {
     "publicationKind": "comic"

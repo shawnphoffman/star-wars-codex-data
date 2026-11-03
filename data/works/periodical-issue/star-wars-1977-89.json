@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #89: I'll See You in the Throne Room",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

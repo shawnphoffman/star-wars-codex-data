@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Deep Spoilers",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -31
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2001-06-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

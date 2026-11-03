@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Adventures: The Will Of Darth Vader",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2010-07-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

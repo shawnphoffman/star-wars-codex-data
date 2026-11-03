@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Underworld: The Yavin Vassilika",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

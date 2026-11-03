@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Shadows of the Empire",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

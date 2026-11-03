@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Return of the Jedi #3: Mission to Endor",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "episode-vi-return-of-the-jedi-hardcover-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

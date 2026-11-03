@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Reversal of Fortune",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2004-10-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

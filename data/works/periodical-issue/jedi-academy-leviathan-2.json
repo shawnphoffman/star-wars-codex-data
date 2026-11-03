@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Jedi Academy: Leviathan #2",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 12
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "jedi-academy-leviathan-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

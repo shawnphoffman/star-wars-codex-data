@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "End Game",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -32
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2012-01-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

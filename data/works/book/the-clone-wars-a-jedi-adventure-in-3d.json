@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Clone Wars: A Jedi Adventure in 3D",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2011-04-14T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

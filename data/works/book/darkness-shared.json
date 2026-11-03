@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Darkness Shared",
-  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -1000
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2001-07-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

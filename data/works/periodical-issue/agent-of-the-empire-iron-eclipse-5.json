@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse #5",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "agent-of-the-empire-iron-eclipse",
   "periodical": {
     "pageCount": 32,

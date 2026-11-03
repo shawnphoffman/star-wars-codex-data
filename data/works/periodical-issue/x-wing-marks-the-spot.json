@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "X-Wing Marks the Spot",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Union #2",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 19
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "union-1999",
   "periodical": {
     "publicationKind": "comic"

@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: Redemption",
-  "era": "oldRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -3986
   },
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

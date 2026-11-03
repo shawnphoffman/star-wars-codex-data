@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Dark Force Rising #3",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 9
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "dark-force-rising-6",
   "periodical": {
     "publicationKind": "comic"

@@ -30,12 +30,12 @@
       "onsale": "2012-07-24T00:00:00.000Z"
     }
   ],
-  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "endYear": -2975,
     "startYear": -5000
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2012-07-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

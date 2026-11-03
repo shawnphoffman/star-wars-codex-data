@@ -2,11 +2,11 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Wanted: Dead and Dismantled",
-  "era": "oldRepublic",
   "format": "shortStory",
   "inUniverseDate": {
     "startYear": -3637
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2014-07-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

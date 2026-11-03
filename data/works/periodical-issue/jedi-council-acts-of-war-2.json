@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Jedi Council: Acts of War #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -33
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jedi-council-acts-of-war-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

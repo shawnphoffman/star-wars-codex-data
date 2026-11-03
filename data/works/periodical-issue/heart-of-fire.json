@@ -1,0 +1,39 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Ostrander",
+      "role": "writer",
+      "slug": "john-ostrander"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "penciler",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Jan Duursema",
+      "role": "inker",
+      "slug": "jan-duursema"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "colorist",
+      "slug": "dan-jackson"
+    }
+  ],
+  "displayTitle": "Heart of Fire",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -30
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2001-05-02T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "heart-of-fire",
+  "title": "Heart of Fire"
+}

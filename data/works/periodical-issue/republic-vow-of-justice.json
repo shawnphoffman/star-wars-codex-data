@@ -9,12 +9,12 @@
     }
   ],
   "displayTitle": "Republic: Vow of Justice",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "endYear": -67,
     "startYear": -88
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

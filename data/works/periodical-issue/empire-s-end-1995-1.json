@@ -32,11 +32,11 @@
     }
   ],
   "displayTitle": "Empire's End #1: Triumph of the Empire",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "empire-s-end-1995",
   "periodical": {
     "publicationKind": "comic"

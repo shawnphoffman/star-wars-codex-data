@@ -20,6 +20,9 @@
   "displayTitle": "Kanan 1: The Last Padawan, Part I: Fight",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -19
+  },
   "parentWorkSlug": "kanan",
   "periodical": {
     "publicationKind": "comic"

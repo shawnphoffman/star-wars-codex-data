@@ -53,8 +53,8 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi",
-  "era": "oldRepublic",
   "format": "periodical",
+  "legendsEra": "legendsBeforeTheRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

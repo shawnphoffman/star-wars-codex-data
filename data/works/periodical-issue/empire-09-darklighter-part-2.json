@@ -72,11 +72,11 @@
     }
   ],
   "displayTitle": "Empire #9: Darklighter (Part 2 of 4)",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

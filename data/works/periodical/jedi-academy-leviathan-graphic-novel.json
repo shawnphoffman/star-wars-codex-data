@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Jedi Academy: Leviathan",
-  "era": "newRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 12
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

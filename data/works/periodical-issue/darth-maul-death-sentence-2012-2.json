@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Darth Maul: Death Sentence #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "darth-maul-death-sentence-2012",
   "periodical": {
     "pageCount": 32,

@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Agent of the Empire: Iron Eclipse",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

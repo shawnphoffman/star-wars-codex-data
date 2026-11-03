@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Empire's End",
-  "era": "newRepublic",
   "format": "periodical",
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

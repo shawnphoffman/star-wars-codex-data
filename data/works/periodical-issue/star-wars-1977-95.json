@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #95: No Zeltrons",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

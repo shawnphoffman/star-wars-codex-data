@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Legacy (Volume 2) #14",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 139
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2013",
   "periodical": {
     "pageCount": 32,

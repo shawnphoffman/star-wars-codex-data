@@ -25,11 +25,11 @@
       "onsale": "2005-12-27T00:00:00.000Z"
     }
   ],
-  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 36
   },
+  "legendsEra": "legendsNewJediOrder",
   "releaseDate": "2005-12-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

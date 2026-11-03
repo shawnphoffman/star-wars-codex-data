@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Hunt For Grievous",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2010-07-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

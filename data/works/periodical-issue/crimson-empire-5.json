@@ -51,11 +51,11 @@
     }
   ],
   "displayTitle": "Crimson Empire #5",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "crimson-empire-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

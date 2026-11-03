@@ -1,0 +1,37 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Phil Szostak",
+      "role": "writer",
+      "slug": "phil-szostak"
+    }
+  ],
+  "displayTitle": "The Art of Star Wars: The Mandalorian (Season One)",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781419748707"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn13": "9781419748707",
+      "kind": "print",
+      "onsale": "2020-12-01T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2020-12-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-art-of-star-wars-the-mandalorian-season-one",
+  "title": "The Art of Star Wars: The Mandalorian (Season One)"
+}

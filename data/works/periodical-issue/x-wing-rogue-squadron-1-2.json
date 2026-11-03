@@ -39,11 +39,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #½",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "x-wing-rogue-squadron-2",
   "periodical": {
     "publicationKind": "comic"

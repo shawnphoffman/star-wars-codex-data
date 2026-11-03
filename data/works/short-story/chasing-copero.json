@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Chasing Copero",
-  "era": "oldRepublic",
   "format": "shortStory",
   "inUniverseDate": {
     "startYear": -3629
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2017-11-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

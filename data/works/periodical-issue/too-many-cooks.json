@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Too Many Cooks",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -23
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-comic-2013",
   "periodical": {
     "publicationKind": "comic"

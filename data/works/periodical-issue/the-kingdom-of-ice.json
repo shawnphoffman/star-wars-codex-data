@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Kingdom of Ice",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

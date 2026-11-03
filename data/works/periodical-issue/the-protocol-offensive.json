@@ -58,11 +58,11 @@
     }
   ],
   "displayTitle": "Droids: The Protocol Offensive",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

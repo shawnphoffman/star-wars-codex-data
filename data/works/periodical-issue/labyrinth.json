@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Labyrinth",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-comic-2013",
   "periodical": {
     "publicationKind": "comic"

@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Episode VI: Return of the Jedi (Hardcover) (Remastered) (1983)",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

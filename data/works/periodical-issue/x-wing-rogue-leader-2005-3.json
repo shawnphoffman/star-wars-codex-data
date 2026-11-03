@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "X-Wing: Rogue Leader #3",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "x-wing-rogue-leader-2005",
   "periodical": {
     "publicationKind": "comic"

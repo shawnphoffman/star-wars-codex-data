@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Knights of the Old Republic #09: Flashpoint Interlude: Homecoming",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3963
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
     "publicationKind": "comic"

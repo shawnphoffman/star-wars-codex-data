@@ -40,6 +40,9 @@
   "displayTitle": "Kanan 11: First Blood, Part V: The Fog of War",
   "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "parentWorkSlug": "kanan",
   "periodical": {
     "publicationKind": "comic"

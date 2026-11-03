@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Revelation",
-  "era": "legacy",
   "format": "book",
   "inUniverseDate": {
     "startYear": 41
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2008-02-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

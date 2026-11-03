@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Jedi Quest #3: The Dangerous Games",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -27
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jedi-quest",
   "periodical": {
     "imprint": "Scholastic",

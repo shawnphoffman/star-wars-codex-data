@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "A Little Help on Hakara",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-the-clone-wars-comic",
   "periodical": {
     "publicationKind": "comic"

@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Shadows of the Empire #6",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "shadows-of-the-empire",
   "periodical": {
     "publicationKind": "comic"

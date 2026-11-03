@@ -34,11 +34,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron Special (1995) #1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

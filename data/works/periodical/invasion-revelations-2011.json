@@ -18,8 +18,8 @@
     }
   ],
   "displayTitle": "Invasion: Revelations",
-  "era": "newRepublic",
   "format": "periodical",
+  "legendsEra": "legendsNewJediOrder",
   "periodical": {
     "publicationKind": "comic"
   },

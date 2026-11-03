@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars #13: Revenge Of The Jedi",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars",
   "periodical": {
     "publicationKind": "comic"

@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Legacy #47: The Fate of Dac",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 137
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2006",
   "periodical": {
     "pageCount": 40,

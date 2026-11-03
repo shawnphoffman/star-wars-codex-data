@@ -39,11 +39,11 @@
     }
   ],
   "displayTitle": "Free Comic Book Day 2005 Special",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

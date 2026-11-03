@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Republic",
-  "era": "fallOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

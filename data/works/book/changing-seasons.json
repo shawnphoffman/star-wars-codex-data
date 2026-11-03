@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Changing Seasons",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2004-02-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -18,8 +18,8 @@
     }
   ],
   "displayTitle": "The Old Republic",
-  "era": "oldRepublic",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

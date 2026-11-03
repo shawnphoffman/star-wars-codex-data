@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Syrox Redemption",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -36
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2013-12-10T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

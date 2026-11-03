@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Dark Empire #3: The Battle for Calamari",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "dark-empire-2",
   "periodical": {
     "publicationKind": "comic"

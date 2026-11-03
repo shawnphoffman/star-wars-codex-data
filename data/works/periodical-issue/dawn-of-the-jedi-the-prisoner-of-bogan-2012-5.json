@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan #5",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -25793
   },
+  "legendsEra": "legendsBeforeTheRepublic",
   "parentWorkSlug": "dawn-of-the-jedi-the-prisoner-of-bogan-2012",
   "periodical": {
     "pageCount": 32,

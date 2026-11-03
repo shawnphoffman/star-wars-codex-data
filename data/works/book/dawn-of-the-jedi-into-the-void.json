@@ -30,12 +30,12 @@
       "onsale": "2013-05-07T00:00:00.000Z"
     }
   ],
-  "era": "dawnOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": -25793,
     "startYear": -25802
   },
+  "legendsEra": "legendsBeforeTheRepublic",
   "releaseDate": "2013-05-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

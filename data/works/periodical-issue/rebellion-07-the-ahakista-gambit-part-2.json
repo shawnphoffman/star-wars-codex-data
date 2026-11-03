@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Rebellion #7: The Ahakista Gambit pt. 2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "pageCount": 32,

@@ -14,11 +14,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron: Battleground Tatooine",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

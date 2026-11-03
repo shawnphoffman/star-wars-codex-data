@@ -13,8 +13,8 @@
     }
   ],
   "displayTitle": "Star Wars 3-D",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

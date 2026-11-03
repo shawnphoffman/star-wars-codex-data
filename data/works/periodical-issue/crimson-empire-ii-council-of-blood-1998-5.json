@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Crimson Empire II: Council of Blood #5",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "crimson-empire-ii-council-of-blood-1998",
   "periodical": {
     "publicationKind": "comic"

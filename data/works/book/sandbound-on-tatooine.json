@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Sandbound on Tatooine",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "1997-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

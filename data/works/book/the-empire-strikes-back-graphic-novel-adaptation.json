@@ -1,0 +1,41 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alessandro Ferrari",
+      "role": "writer",
+      "slug": "alessandro-ferrari"
+    }
+  ],
+  "displayTitle": "The Empire Strikes Back Graphic Novel Adaptation",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781684054084"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 72,
+      "imprint": "IDW Publishing",
+      "isPrimary": true,
+      "isbn13": "9781684054084",
+      "kind": "print",
+      "onsale": "2019-03-05T00:00:00.000Z"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-03-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-empire-strikes-back-graphic-novel-adaptation",
+  "title": "The Empire Strikes Back Graphic Novel Adaptation"
+}

@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Dark Empire III: Empire's End",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

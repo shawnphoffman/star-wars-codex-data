@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Splinter of the Mind's Eye #1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "splinter-of-the-minds-eye",
   "periodical": {
     "publicationKind": "comic"

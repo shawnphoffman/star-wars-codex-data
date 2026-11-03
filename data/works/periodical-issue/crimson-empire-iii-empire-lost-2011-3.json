@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Crimson Empire III: Empire Lost #3",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 13
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "crimson-empire-iii-empire-lost-2011",
   "periodical": {
     "pageCount": 32,

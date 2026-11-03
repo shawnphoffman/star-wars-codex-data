@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "A Mother's Hope",
-  "era": "oldRepublic",
   "format": "shortStory",
   "inUniverseDate": {
     "startYear": -3630
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2016-11-17T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

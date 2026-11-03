@@ -20,6 +20,10 @@
   "displayTitle": "Han Solo: Hunt for the Falcon",
   "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "inUniverseDate": {
+    "endYear": 34,
+    "startYear": 31
+  },
   "periodical": {
     "publicationKind": "comic"
   },

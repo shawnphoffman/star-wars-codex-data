@@ -7,7 +7,9 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2000-01-19T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "episode-i-the-phantom-menace-manga-2",
   "title": "Episode I: The Phantom Menace: Manga #2"
 }

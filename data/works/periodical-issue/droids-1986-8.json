@@ -44,6 +44,10 @@
   ],
   "displayTitle": "Droids (1986) #8",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "droids-1986",
   "periodical": {
     "publicationKind": "comic"

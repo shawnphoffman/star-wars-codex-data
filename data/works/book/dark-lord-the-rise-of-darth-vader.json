@@ -39,11 +39,11 @@
       "kind": "print"
     }
   ],
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2005-11-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

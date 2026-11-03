@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Obi-Wan",
-  "era": "fallOfTheJedi",
   "format": "videoGame",
   "inUniverseDate": {
     "startYear": -32
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2001-12-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

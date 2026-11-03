@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "The Bounty Hunters: Aurra Sing",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -27
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

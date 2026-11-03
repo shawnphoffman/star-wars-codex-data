@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #33: Mandatory Retirement, Part 2",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 5
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "x-wing-rogue-squadron-2",
   "periodical": {
     "publicationKind": "comic"

@@ -1,4 +1,5 @@
 {
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -50,6 +51,7 @@
   "inUniverseDate": {
     "startYear": -32
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

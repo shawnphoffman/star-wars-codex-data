@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Jedi Quest #1: The Way of the Apprentice",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -28
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jedi-quest",
   "periodical": {
     "imprint": "Scholastic",

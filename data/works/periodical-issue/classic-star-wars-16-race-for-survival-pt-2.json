@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars #16: Race For Survival (pt.2)",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars",
   "periodical": {
     "publicationKind": "comic"

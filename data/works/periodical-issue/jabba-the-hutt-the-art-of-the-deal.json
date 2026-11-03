@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Jabba the Hutt: The Art of the Deal",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

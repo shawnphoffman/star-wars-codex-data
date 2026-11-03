@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Dark Knight's Devilry",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

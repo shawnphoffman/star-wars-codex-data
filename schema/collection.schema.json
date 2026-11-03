@@ -33,6 +33,9 @@
     "era": {
       "type": "string"
     },
+    "legendsEra": {
+      "type": "string"
+    },
     "releaseDate": {
       "type": "string"
     },

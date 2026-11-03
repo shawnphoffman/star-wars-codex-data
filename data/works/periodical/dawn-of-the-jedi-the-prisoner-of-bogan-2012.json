@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi: The Prisoner of Bogan",
-  "era": "dawnOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsBeforeTheRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

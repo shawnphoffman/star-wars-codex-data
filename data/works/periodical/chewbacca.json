@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Chewbacca (2000)",
-  "era": "newRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "periodical": {
     "imprint": "Marvel Comics",
     "publicationKind": "comic"

@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: Dark Lords of the Sith #1: Masters and Students of the Force",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3996
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-dark-lords-of-the-sith-1994",
   "periodical": {
     "publicationKind": "comic"

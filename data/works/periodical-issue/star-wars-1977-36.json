@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #36: Red Queen Rising",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

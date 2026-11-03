@@ -43,12 +43,12 @@
     }
   ],
   "displayTitle": "Republic #37: The Stark Hyperspace War, Part 2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "endYear": -30,
     "startYear": -44
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

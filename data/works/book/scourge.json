@@ -30,11 +30,11 @@
       "onsale": "2012-04-24T00:00:00.000Z"
     }
   ],
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 19
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "2012-04-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

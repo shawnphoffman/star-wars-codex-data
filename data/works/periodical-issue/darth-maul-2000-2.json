@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Darth Maul (2000) #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -33
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "darth-maul-graphic-novel-1",
   "periodical": {
     "publicationKind": "comic"

@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Adventures: Chewbacca And The Slavers Of The Shadowlands",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2011-08-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

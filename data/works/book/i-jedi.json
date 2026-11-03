@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "I, Jedi",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "1998-05-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

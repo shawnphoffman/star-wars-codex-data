@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Legacy #13: Ready to Die",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 137
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2006",
   "periodical": {
     "pageCount": 32,

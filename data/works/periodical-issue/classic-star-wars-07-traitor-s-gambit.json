@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars #07: Traitor's Gambit",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars",
   "periodical": {
     "publicationKind": "comic"

@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: The Sith War #1: Edge of the Whirlwind",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3996
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-the-sith-war-1995",
   "periodical": {
     "publicationKind": "comic"

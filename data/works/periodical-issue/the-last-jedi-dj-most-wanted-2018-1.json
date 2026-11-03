@@ -43,7 +43,11 @@
     }
   ],
   "displayTitle": "The Last Jedi: DJ: Most Wanted (2018) #1",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "the-last-jedi-dj-most-wanted",
   "periodical": {
     "publicationKind": "comic"

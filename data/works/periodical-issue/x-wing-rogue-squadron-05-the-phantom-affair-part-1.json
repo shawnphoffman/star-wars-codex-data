@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #05: The Phantom Affair, Part 1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "x-wing-rogue-squadron-2",
   "periodical": {
     "publicationKind": "comic"

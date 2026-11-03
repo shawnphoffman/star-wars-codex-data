@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Vader's Quest",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

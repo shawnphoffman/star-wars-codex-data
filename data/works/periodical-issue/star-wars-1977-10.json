@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #10: Behemoth from the World Below",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

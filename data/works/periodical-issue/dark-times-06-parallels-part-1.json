@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Dark Times #06: Parallels pt. 1",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times",
   "periodical": {
     "pageCount": 40,

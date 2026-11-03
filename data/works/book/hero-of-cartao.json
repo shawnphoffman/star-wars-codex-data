@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Hero of Cartao",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -21
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2003-05-12T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

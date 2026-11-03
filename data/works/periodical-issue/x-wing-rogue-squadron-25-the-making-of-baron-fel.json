@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #25: The Making of Baron Fel",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "x-wing-rogue-squadron-2",
   "periodical": {
     "publicationKind": "comic"

@@ -1,0 +1,34 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ron Marz",
+      "role": "writer",
+      "slug": "ron-marz"
+    },
+    {
+      "name": "Tom Fowler",
+      "role": "penciler",
+      "slug": "tom-fowler"
+    },
+    {
+      "name": "Dan Jackson",
+      "role": "letterer",
+      "slug": "dan-jackson"
+    }
+  ],
+  "displayTitle": "Jango Fett",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -27
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-03-13T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "jango-fett",
+  "title": "Jango Fett"
+}

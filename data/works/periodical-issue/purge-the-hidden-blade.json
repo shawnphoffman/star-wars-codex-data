@@ -39,11 +39,11 @@
     }
   ],
   "displayTitle": "Purge: The Hidden Blade",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "pageCount": 40,
     "publicationKind": "comic"

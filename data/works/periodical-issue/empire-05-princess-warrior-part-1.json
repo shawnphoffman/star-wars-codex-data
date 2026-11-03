@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Empire #05: Princess... Warrior, Part 1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

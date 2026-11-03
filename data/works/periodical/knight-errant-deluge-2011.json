@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Knight Errant: Deluge",
-  "era": "oldRepublic",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

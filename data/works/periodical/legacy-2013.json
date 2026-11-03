@@ -53,8 +53,8 @@
     }
   ],
   "displayTitle": "Legacy (Volume 2)",
-  "era": "legacy",
   "format": "periodical",
+  "legendsEra": "legendsLegacy",
   "periodical": {
     "publicationKind": "comic"
   },

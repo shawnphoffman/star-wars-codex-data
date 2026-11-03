@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Knights of the Old Republic: War #2",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3962
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knights-of-the-old-republic-war-2012",
   "periodical": {
     "pageCount": 32,

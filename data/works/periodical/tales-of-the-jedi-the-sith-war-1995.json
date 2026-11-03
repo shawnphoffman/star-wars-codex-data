@@ -78,11 +78,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: The Sith War",
-  "era": "oldRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -3996
   },
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

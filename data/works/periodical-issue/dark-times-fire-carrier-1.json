@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Dark Times: Fire Carrier #1",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times-fire-carrier",
   "periodical": {
     "pageCount": 32,

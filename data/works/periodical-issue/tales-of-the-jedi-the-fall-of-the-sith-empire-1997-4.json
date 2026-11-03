@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: The Fall of the Sith Empire #4: The Dogs of War",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5000
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-the-fall-of-the-sith-empire-1997",
   "periodical": {
     "publicationKind": "comic"

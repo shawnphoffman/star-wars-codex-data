@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Rookies: No Turning Back",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2006-10-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

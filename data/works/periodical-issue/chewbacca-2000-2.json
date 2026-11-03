@@ -72,11 +72,11 @@
     }
   ],
   "displayTitle": "Chewbacca (2000) #2",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "parentWorkSlug": "chewbacca",
   "periodical": {
     "publicationKind": "comic"

@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron #22: In the Empire's Service, Part 2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "x-wing-rogue-squadron-2",
   "periodical": {
     "publicationKind": "comic"

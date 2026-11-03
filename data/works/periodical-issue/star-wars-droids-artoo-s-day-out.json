@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Droids: Artoo's Day Out",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

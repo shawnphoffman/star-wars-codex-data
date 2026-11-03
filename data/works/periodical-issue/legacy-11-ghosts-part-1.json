@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Legacy #11: Ghosts, Part 1",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 137
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2006",
   "periodical": {
     "pageCount": 32,

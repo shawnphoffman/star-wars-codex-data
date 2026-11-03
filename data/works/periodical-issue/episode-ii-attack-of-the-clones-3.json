@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Episode II: Attack of the Clones #3",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "episodeii-attack-of-the-clones-hardcover-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

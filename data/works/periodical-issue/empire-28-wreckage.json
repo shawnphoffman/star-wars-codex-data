@@ -57,11 +57,11 @@
     }
   ],
   "displayTitle": "Empire #28: Wreckage",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

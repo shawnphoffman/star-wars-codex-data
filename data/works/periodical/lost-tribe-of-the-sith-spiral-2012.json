@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral",
-  "era": "oldRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -2974
   },
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

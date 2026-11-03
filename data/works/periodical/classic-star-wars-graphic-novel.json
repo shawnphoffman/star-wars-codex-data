@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars: The Early Adventures",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"

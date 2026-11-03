@@ -1,8 +1,8 @@
 {
   "canonStatus": "non-canon",
   "displayTitle": "Star Wars (1977) Annual",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

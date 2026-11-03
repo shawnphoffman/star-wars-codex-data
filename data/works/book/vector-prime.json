@@ -25,11 +25,11 @@
       "onsale": "1999-10-05T00:00:00.000Z"
     }
   ],
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "releaseDate": "1999-10-05T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

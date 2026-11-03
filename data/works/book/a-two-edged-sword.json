@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "A Two-Edged Sword",
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -18
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2005-11-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

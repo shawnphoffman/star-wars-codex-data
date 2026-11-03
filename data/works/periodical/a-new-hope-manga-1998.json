@@ -5,10 +5,12 @@
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1998-07-15T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "a-new-hope-manga-1998",
   "title": "A New Hope: Manga (1998)"
 }

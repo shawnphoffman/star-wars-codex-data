@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Crystal",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 24
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "2001-07-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

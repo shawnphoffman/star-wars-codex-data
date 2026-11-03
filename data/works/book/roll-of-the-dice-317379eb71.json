@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Roll of the Dice",
-  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 44
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2012-07-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

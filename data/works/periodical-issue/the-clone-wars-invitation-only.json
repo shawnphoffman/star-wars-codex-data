@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Clone Wars: Invitation Only",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -21
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "the-clone-wars-webcomics",
   "periodical": {
     "publicationKind": "comic"

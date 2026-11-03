@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "The Clone Wars",
-  "era": "fallOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

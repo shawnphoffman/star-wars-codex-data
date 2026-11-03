@@ -1,8 +1,8 @@
 {
   "canonStatus": "non-canon",
   "displayTitle": "Classic Star Wars",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"

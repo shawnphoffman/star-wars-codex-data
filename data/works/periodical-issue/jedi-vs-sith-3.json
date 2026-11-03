@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Jedi vs. Sith #3",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1000
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "jedi-vs-sith-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

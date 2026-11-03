@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Scoundrel's Luck",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "1990-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

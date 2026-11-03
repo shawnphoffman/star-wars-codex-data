@@ -53,8 +53,8 @@
     }
   ],
   "displayTitle": "Starfighter: Crossbones",
-  "era": "fallOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

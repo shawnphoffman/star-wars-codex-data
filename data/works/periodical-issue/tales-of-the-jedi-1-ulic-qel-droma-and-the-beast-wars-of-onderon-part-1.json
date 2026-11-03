@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi #1: Ulic Qel-Droma and the Beast Wars of Onderon, Part 1",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4000
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-2",
   "periodical": {
     "publicationKind": "comic"

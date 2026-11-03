@@ -1,0 +1,44 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Francis Portela",
+      "role": "penciler",
+      "slug": "francis-portela"
+    },
+    {
+      "name": "Albert Xiques",
+      "role": "inker",
+      "slug": "albert-xiques"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "colorist",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "letterer",
+      "slug": "digital-chameleon"
+    }
+  ],
+  "displayTitle": "Most Precious Weapon",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-05-01T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "most-precious-weapon",
+  "title": "Most Precious Weapon"
+}

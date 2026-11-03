@@ -25,11 +25,11 @@
       "onsale": "1997-04-01T00:00:00.000Z"
     }
   ],
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 13
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "1997-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

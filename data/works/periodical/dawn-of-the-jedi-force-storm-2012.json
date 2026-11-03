@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Dawn of the Jedi: Force Storm",
-  "era": "dawnOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsBeforeTheRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -1,0 +1,41 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Riley Silverman",
+      "role": "writer",
+      "slug": "riley-silverman"
+    }
+  ],
+  "displayTitle": "Galaxy's Edge: Treasures from Batuu",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781647226404"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9781647226404",
+      "kind": "print",
+      "onsale": "2022-08-09T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2022-08-09T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "galaxys-edge-treasures-from-batuu",
+  "synopsis": "Star Wars: Galaxy's Edge: Treasures from Batuu is a canon reference book and merchandise box set and will feature information paired with replica objects related to the Star Wars: Galaxy's Edge parks. Full of treasures from Black Spire Outpost, Star Wars: Galaxy's Edge: Treasures from Batuu offers unique items inspired by Star Wars: Galaxy's Edge. Learn about Batuu's secrets and locales - from Oga's Cantina to Savi's Workshop - and gather one-of-a-kind items along the way, including high-quality stickers, keychains, and a collectible button. An essential addition to your Star Wars collection, Star Wars: Galaxy's Edge: Treasures from Batuu will transport you to the exciting world of Batuu! COLLECT A DOZEN UNIQUE ARTIFACTS: This kit will delight Star Wans fans of all ages with one-of-a-kind items such as high-quality stickers, keychains, and a collectible pin. EXPERIENCE THE IMMERSIVE WORLD OF BATUU: Journey to the planet Batuu, a remote hideout populated by Resistance heroes such as Rey and Chewbacca, as well as Kylo Ren and his First Order stormtroopers. BUILD YOUR STAR WARS COLLECTION: Star Wars: Galaxy's Edge: Treasures from Batuu joins Star Wars: Jedi Artifacts, Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook, and Star Wars: The Lightsaber Collection in Insight Editions' line of fan-favorite Star Wars books.",
+  "title": "Galaxy's Edge: Treasures from Batuu"
+}

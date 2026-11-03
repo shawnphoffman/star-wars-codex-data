@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars #02: Darth Vader Strikes",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars",
   "periodical": {
     "publicationKind": "comic"

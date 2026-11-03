@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Crisis of Faith",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 8
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "2011-09-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Murder Most Foul",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

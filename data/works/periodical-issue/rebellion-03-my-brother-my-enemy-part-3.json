@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Rebellion #03: My Brother, My Enemy, Part 3",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "publicationKind": "comic"

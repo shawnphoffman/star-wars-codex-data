@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Red Sky, Blue Flame",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 22
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "2001-10-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -34,11 +34,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Overkill",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

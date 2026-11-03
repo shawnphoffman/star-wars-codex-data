@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "River of Chaos #2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "river-of-chaos-1995",
   "periodical": {
     "publicationKind": "comic"

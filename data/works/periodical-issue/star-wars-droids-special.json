@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "Droids Special (1995) #1",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids",
   "periodical": {
     "publicationKind": "comic"

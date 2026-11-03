@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Luke Skywalker's Walkabout",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -6
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

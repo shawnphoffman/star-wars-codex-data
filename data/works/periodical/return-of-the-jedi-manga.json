@@ -1,11 +1,13 @@
 {
   "canonStatus": "canon",
   "displayTitle": "Return of the Jedi: Manga",
+  "era": "ageOfRebellion",
   "format": "periodical",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "1999-07-07T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "return-of-the-jedi-manga",
   "title": "Return of the Jedi: Manga"
 }

@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #07: New Planets, New Perils!",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

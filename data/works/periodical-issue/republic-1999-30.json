@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Republic #30: The Hunt for Aurra Sing, Part 3",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -30
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

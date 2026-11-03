@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "League of Spies",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2004-01-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -14,11 +14,11 @@
     }
   ],
   "displayTitle": "A Credit for Your Thoughts",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2001-02-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

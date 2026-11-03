@@ -42,11 +42,11 @@
     }
   ],
   "displayTitle": "Droids (1994) #4",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -15
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids",
   "periodical": {
     "publicationKind": "comic"

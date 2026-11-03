@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Droids: The Kalarba Adventures #2",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -5
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
   "periodical": {
     "publicationKind": "comic"

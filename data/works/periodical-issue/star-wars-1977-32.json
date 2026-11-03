@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #32: The Jawa Express",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

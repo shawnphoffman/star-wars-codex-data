@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Revenge of the Sith: The Movie Storybook",
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

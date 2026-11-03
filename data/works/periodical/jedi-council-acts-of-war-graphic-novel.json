@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Jedi Council: Acts of War",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -33
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

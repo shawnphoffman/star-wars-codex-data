@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Jabba the Hutt: Betrayal (1995) #1",
-  "era": "reignOfTheEmpire",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -4
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

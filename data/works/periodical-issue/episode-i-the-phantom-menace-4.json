@@ -46,11 +46,11 @@
     }
   ],
   "displayTitle": "Episode I: The Phantom Menace #4",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -32
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "episodei-the-phantom-menance-hardcover-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

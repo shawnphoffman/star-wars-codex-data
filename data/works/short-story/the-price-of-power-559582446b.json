@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Price Of Power",
-  "era": "oldRepublic",
   "format": "shortStory",
   "inUniverseDate": {
     "startYear": -3643
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2015-02-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

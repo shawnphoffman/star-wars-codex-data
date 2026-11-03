@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Empire #29: In the Shadows of Their Fathers, Part 1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

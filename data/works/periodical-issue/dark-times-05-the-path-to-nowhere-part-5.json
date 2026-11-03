@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Dark Times #05: The Path to Nowhere",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "dark-times",
   "periodical": {
     "pageCount": 32,

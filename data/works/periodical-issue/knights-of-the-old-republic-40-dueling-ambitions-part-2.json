@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Knights of the Old Republic #40: Dueling Ambitions, Part 2",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3963
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knights-of-the-old-republic",
   "periodical": {
     "pageCount": 40,

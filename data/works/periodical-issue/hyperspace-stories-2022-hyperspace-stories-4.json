@@ -38,7 +38,11 @@
     }
   ],
   "displayTitle": "Hyperspace Stories #04",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 35
+  },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
     "publicationKind": "comic"

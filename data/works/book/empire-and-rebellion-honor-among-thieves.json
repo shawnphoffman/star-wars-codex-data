@@ -25,11 +25,11 @@
       "onsale": "2014-03-04T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2014-03-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

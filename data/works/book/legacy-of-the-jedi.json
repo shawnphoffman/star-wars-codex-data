@@ -30,12 +30,12 @@
       "onsale": "2003-08-01T00:00:00.000Z"
     }
   ],
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "endYear": -22,
     "startYear": -89
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2003-08-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

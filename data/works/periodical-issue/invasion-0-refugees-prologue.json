@@ -23,11 +23,11 @@
     }
   ],
   "displayTitle": "Invasion #0 (One-Shot)",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "parentWorkSlug": "invasion",
   "periodical": {
     "pageCount": 40,

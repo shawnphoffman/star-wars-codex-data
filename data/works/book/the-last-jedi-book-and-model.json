@@ -1,0 +1,36 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Neal Manning",
+      "role": "writer",
+      "slug": "neal-manning"
+    }
+  ],
+  "displayTitle": "The Last Jedi Book and Model",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781405287883"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Egmont",
+      "isPrimary": true,
+      "isbn13": "9781405287883",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2017-12-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-last-jedi-book-and-model",
+  "title": "The Last Jedi Book and Model"
+}

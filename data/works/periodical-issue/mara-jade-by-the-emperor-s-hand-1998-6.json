@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Mara Jade: By the Emperor's Hand #6",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "mara-jade-by-the-emperor-s-hand-1998",
   "periodical": {
     "publicationKind": "comic"

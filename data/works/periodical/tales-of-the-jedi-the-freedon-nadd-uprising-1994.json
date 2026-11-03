@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: The Freedon Nadd Uprising",
-  "era": "oldRepublic",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -3998
   },
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

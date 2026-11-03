@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Third Lesson",
-  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3667
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2011-03-02T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -38,12 +38,12 @@
     }
   ],
   "displayTitle": "Blood Ties (2010) #4",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "endYear": -2,
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "blood-ties-a-tale-of-jango-and-boba-fett-2010",
   "periodical": {
     "pageCount": 40,

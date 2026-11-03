@@ -43,6 +43,10 @@
   ],
   "displayTitle": "The Bounty Hunters: Scoundrel's Wages",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

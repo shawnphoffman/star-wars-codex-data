@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Knight Errant: Deluge #2",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1032
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knight-errant-deluge-2011",
   "periodical": {
     "pageCount": 40,

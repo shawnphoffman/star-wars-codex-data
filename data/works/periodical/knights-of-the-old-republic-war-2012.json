@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Knights of the Old Republic: War",
-  "era": "multiEra",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

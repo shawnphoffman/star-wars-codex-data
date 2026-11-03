@@ -58,8 +58,8 @@
     }
   ],
   "displayTitle": "The Old Republic: The Lost Suns",
-  "era": "oldRepublic",
   "format": "periodical",
+  "legendsEra": "legendsOldRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Empire #37: The Wrong Side of the War, Part 2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

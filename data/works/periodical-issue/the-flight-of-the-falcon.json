@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Flight of the Falcon",
-  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-marvel-uk",
   "periodical": {
     "publicationKind": "comic"

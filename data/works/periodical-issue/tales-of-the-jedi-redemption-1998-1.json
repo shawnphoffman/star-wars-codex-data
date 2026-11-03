@@ -57,11 +57,11 @@
     }
   ],
   "displayTitle": "Tales of the Jedi: Redemption #1: A Gathering of Jedi",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3986
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "tales-of-the-jedi-redemption-1998",
   "periodical": {
     "publicationKind": "comic"

@@ -61,11 +61,11 @@
     }
   ],
   "displayTitle": "Shadows of the Empire: Evolution #4",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "shadows-of-the-empire-evolution-1998",
   "periodical": {
     "publicationKind": "comic"

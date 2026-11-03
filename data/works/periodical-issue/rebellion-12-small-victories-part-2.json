@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Rebellion #12: Small Victories, Part 2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "pageCount": 40,

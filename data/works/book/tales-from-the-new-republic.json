@@ -35,12 +35,12 @@
       "onsale": "1999-12-01T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": 18,
     "startYear": 0
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "1999-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

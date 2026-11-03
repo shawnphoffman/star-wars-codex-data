@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Darth Maul: Shadow Conspiracy",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2013-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

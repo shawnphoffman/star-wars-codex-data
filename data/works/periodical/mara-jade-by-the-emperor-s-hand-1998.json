@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Mara Jade: By the Emperor's Hand",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

@@ -14,11 +14,11 @@
     }
   ],
   "displayTitle": "MedStar: Intermezzo",
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2005-07-20T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

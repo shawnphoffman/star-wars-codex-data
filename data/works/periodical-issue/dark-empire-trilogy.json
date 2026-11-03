@@ -9,12 +9,12 @@
     }
   ],
   "displayTitle": "Dark Empire Trilogy",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "endYear": 11,
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

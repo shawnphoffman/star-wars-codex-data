@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "First Blood",
-  "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {
     "startYear": 41
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2011-04-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

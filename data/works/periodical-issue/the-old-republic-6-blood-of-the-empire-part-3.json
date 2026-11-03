@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "The Old Republic #6: Blood of the Empire, Part 3",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3678
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "the-old-republic",
   "periodical": {
     "pageCount": 40,

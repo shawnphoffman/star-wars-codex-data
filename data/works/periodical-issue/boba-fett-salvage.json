@@ -24,11 +24,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Salvage",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

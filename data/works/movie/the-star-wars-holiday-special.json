@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "The Star Wars Holiday Special",
-  "era": "ageOfRebellion",
   "format": "movie",
+  "legendsEra": "legendsRebellion",
   "movie": {
     "movieType": "tvMovie",
     "mpaaRating": "pg",

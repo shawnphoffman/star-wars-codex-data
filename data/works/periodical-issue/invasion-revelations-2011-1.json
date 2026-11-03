@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Invasion: Revelations #1",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "parentWorkSlug": "invasion-revelations-2011",
   "periodical": {
     "pageCount": 40,

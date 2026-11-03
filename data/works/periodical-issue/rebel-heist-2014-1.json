@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Rebel Heist #1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 2
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebel-heist-2014",
   "periodical": {
     "pageCount": 32,

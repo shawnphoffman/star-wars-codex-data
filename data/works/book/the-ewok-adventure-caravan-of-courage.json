@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Ewok Adventure (Caravan of Courage)",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "1984-11-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

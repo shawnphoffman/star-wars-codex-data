@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Blood Ties: Boba Fett is Dead #1",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "blood-ties-boba-fett-is-dead-2012",
   "periodical": {
     "pageCount": 40,

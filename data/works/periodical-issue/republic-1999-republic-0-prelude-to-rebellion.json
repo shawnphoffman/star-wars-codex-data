@@ -15,10 +15,16 @@
       "name": "Jordi Ensign",
       "role": "inker",
       "slug": "jordi-ensign"
+    },
+    {
+      "name": "Jordi Ensign",
+      "role": "letterer",
+      "slug": "jordi-ensign"
     }
   ],
   "displayTitle": "Republic #0: Prelude to Rebellion",
   "format": "periodicalIssue",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

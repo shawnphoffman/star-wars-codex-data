@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Star Wars (2013) #13",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-2013",
   "periodical": {
     "pageCount": 32,

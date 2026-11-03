@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Invasion: Rescues #2",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 25
   },
+  "legendsEra": "legendsNewJediOrder",
   "parentWorkSlug": "invasion-rescues-2010",
   "periodical": {
     "pageCount": 40,

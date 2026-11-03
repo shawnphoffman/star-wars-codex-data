@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Knight Errant: Escape #5",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1032
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "knight-errant-escape-2012",
   "periodical": {
     "pageCount": 32,

@@ -123,8 +123,8 @@
     }
   ],
   "displayTitle": "Dark Times",
-  "era": "fallOfTheJedi",
   "format": "periodical",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

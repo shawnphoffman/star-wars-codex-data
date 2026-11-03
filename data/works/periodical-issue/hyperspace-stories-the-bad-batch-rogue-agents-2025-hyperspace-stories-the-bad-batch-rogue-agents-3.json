@@ -33,7 +33,11 @@
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Rogue Agents #3",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-rogue-agents-2025",
   "periodical": {
     "imprint": "Dark Horse Comics",

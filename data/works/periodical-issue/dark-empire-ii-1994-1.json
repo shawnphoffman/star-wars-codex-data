@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Dark Empire II #1: Operation Shadow Hand",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "dark-empire-ii-1994",
   "periodical": {
     "publicationKind": "comic"

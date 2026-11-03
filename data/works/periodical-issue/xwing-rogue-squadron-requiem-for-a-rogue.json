@@ -19,11 +19,11 @@
     }
   ],
   "displayTitle": "X-Wing Rogue Squadron: Requiem for a Rogue",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

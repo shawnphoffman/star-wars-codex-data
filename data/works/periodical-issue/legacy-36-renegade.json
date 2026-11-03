@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Legacy #36: Renegade",
-  "era": "legacy",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 137
   },
+  "legendsEra": "legendsLegacy",
   "parentWorkSlug": "legacy-2006",
   "periodical": {
     "pageCount": 40,

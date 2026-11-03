@@ -28,7 +28,11 @@
     }
   ],
   "displayTitle": "Hyperspace Stories #08",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 33
+  },
   "parentWorkSlug": "hyperspace-stories-2022",
   "periodical": {
     "imprint": "Dark Horse Comics",

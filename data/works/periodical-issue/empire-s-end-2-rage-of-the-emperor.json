@@ -37,11 +37,11 @@
     }
   ],
   "displayTitle": "Empire's End #2: Rage of the Emperor",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "empire-s-end-1995",
   "periodical": {
     "publicationKind": "comic"

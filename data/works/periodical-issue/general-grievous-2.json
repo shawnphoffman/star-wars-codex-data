@@ -53,11 +53,11 @@
     }
   ],
   "displayTitle": "General Grievous #2",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "general-grievous-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

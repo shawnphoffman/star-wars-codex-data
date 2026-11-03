@@ -30,12 +30,12 @@
       "onsale": "2008-10-28T00:00:00.000Z"
     }
   ],
-  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "endYear": -990,
     "startYear": -1000
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2008-10-28T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

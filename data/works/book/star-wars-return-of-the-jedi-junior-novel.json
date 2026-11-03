@@ -17,7 +17,11 @@
       "onsale": "2017-05-04T00:00:00.000Z"
     }
   ],
+  "era": "ageOfRebellion",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
   "periodical": {
     "publicationKind": "comic"
   },

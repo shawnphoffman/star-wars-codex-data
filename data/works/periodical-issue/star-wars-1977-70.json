@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #70: The Stenax Shuffle",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

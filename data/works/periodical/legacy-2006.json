@@ -178,8 +178,8 @@
     }
   ],
   "displayTitle": "Legacy",
-  "era": "riseOfTheFirstOrder",
   "format": "periodical",
+  "legendsEra": "legendsLegacy",
   "periodical": {
     "publicationKind": "comic"
   },

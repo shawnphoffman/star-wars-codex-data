@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Battle of Cadinth",
-  "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": 6
   },
+  "legendsEra": "legendsNewRepublic",
   "releaseDate": "1995-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

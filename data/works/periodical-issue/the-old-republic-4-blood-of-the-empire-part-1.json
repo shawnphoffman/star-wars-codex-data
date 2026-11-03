@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "The Old Republic #4: Blood of the Empire, Part 1",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -3678
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "the-old-republic",
   "periodical": {
     "pageCount": 40,

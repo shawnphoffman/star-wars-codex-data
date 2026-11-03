@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #38: Riders in the Void",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

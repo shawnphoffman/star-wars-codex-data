@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Boba Fett: Agent of Doom",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 10
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

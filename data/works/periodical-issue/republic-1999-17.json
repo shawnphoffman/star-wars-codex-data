@@ -47,11 +47,11 @@
     }
   ],
   "displayTitle": "Republic #17: Emissaries to Malastare, Part 5",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -32
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "republic-1999",
   "periodical": {
     "publicationKind": "comic"

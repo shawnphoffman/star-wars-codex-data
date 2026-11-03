@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Outcast",
-  "era": "legacy",
   "format": "book",
   "inUniverseDate": {
     "startYear": 43
   },
+  "legendsEra": "legendsLegacy",
   "releaseDate": "2009-03-24T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

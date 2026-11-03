@@ -38,8 +38,8 @@
     }
   ],
   "displayTitle": "Legacy: War",
-  "era": "legacy",
   "format": "periodical",
+  "legendsEra": "legendsLegacy",
   "periodical": {
     "publicationKind": "comic"
   },

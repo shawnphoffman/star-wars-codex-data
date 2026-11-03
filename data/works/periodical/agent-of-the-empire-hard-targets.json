@@ -33,11 +33,11 @@
     }
   ],
   "displayTitle": "Agent of the Empire: Hard Targets",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -3
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

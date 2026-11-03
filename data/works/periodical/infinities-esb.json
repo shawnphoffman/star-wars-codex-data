@@ -34,8 +34,8 @@
     }
   ],
   "displayTitle": "Infinities: The Empire Strikes Back",
-  "era": "multiEra",
   "format": "periodical",
+  "legendsEra": "legendsInfinities",
   "periodical": {
     "imprint": "Dark Horse Comics",
     "publicationKind": "comic"

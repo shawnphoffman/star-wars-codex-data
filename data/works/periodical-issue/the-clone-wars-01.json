@@ -23,11 +23,11 @@
     }
   ],
   "displayTitle": "The Clone Wars #01",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "the-clone-wars-2",
   "periodical": {
     "pageCount": 40,

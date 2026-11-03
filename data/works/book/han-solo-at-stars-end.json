@@ -62,11 +62,11 @@
       "onsale": "1979-04-01T00:00:00.000Z"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "1979-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

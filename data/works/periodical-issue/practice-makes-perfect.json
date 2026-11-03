@@ -1,0 +1,44 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Manuel Garcia",
+      "role": "penciler",
+      "slug": "manuel-garcia"
+    },
+    {
+      "name": "Fernando Blanco",
+      "role": "inker",
+      "slug": "fernando-blanco"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "colorist",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "letterer",
+      "slug": "digital-chameleon"
+    }
+  ],
+  "displayTitle": "Practice Makes Perfect",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-06-01T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "practice-makes-perfect",
+  "title": "Practice Makes Perfect"
+}

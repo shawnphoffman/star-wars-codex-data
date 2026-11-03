@@ -56,11 +56,11 @@
     }
   ],
   "displayTitle": "The Last Command #5",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 9
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "the-last-command-1997",
   "periodical": {
     "publicationKind": "comic"

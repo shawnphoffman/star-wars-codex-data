@@ -57,11 +57,11 @@
     }
   ],
   "displayTitle": "Heir to the Empire #6",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 9
   },
+  "legendsEra": "legendsNewRepublic",
   "parentWorkSlug": "heir-to-the-empire-7",
   "periodical": {
     "publicationKind": "comic"

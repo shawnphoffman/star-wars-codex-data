@@ -62,11 +62,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars: The Early Adventures #7",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "classic-star-wars-graphic-novel",
   "periodical": {
     "publicationKind": "comic"

@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Ewoks #05: The Terrible Machine",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "ewoks",
   "periodical": {
     "publicationKind": "comic"

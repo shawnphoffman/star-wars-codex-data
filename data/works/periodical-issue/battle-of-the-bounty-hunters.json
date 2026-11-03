@@ -29,11 +29,11 @@
     }
   ],
   "displayTitle": "Battle of the Bounty Hunters",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

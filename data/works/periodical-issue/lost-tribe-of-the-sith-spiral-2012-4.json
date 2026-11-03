@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Lost Tribe of the Sith: Spiral #4",
-  "era": "oldRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -2974
   },
+  "legendsEra": "legendsOldRepublic",
   "parentWorkSlug": "lost-tribe-of-the-sith-spiral-2012",
   "periodical": {
     "pageCount": 32,

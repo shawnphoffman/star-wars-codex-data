@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Rebellion #08: The Ahakista Gambit, Part 3",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "pageCount": 40,

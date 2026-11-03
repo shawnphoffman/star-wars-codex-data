@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "Smuggler's Vanguard",
-  "era": "oldRepublic",
   "format": "book",
   "inUniverseDate": {
     "startYear": -3660
   },
+  "legendsEra": "legendsOldRepublic",
   "releaseDate": "2010-03-25T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

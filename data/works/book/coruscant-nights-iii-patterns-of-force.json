@@ -35,11 +35,11 @@
       "onsale": "2009-01-27T00:00:00.000Z"
     }
   ],
-  "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {
     "startYear": -18
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2009-01-27T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

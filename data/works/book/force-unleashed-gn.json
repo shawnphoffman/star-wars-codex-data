@@ -52,11 +52,11 @@
       "kind": "print"
     }
   ],
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": -2
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2008-08-18T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

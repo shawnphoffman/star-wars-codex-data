@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Shadows of the Empire: Evolution",
-  "era": "ageOfRebellion",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },

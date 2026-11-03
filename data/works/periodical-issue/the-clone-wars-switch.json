@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Clone Wars: Switch",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -22
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "the-clone-wars-webcomics",
   "periodical": {
     "publicationKind": "comic"

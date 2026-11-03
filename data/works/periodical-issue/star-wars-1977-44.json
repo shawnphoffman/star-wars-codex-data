@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #44: The Empire Strikes Back: Duel a Dark Lord",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"

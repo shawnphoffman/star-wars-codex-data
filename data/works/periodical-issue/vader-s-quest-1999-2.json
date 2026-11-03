@@ -52,11 +52,11 @@
     }
   ],
   "displayTitle": "Vader's Quest #2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "vader-s-quest-1999",
   "periodical": {
     "publicationKind": "comic"

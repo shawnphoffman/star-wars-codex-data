@@ -43,7 +43,11 @@
     }
   ],
   "displayTitle": "Forces of Destiny: Rey",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "forces-of-destiny-daring-adventures-volume-2",
   "periodical": {
     "publicationKind": "comic"

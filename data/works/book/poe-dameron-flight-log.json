@@ -1,0 +1,25 @@
+{
+  "bookType": "other",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Michael Kogge",
+      "role": "writer",
+      "slug": "michael-kogge"
+    }
+  ],
+  "displayTitle": "Poe Dameron: Flight Log",
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-11-01T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
+  "slug": "poe-dameron-flight-log",
+  "synopsis": "Like many a great epic, Star Wars is rooted in a rich history of armed conflict. Now, for the first time, the facts, figures and backstories of major clashes and combatants in the Star Wars universe have been documented in this volume. It combines action-filled narrative with encyclopedic knowledge",
+  "title": "Poe Dameron: Flight Log"
+}

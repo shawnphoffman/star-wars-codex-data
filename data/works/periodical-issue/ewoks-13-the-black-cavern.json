@@ -8,11 +8,11 @@
     }
   ],
   "displayTitle": "Ewoks #13: The Black Cavern",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "ewoks",
   "periodical": {
     "publicationKind": "comic"

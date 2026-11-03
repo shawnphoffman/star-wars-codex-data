@@ -23,8 +23,8 @@
     }
   ],
   "displayTitle": "Ewoks (1985)",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "imprint": "Star Comics",
     "publicationKind": "comic"

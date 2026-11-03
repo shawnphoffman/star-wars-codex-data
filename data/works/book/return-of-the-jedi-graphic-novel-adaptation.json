@@ -1,0 +1,41 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alessandro Ferrari",
+      "role": "writer",
+      "slug": "alessandro-ferrari"
+    }
+  ],
+  "displayTitle": "Return of the Jedi Graphic Novel Adaptation",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781684055289"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "IDW Publishing",
+      "isPrimary": true,
+      "isbn13": "9781684055289",
+      "kind": "print",
+      "onsale": "2019-10-22T00:00:00.000Z"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2019-10-22T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "return-of-the-jedi-graphic-novel-adaptation",
+  "title": "Return of the Jedi Graphic Novel Adaptation"
+}

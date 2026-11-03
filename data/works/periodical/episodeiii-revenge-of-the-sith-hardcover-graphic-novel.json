@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Episode III: Revenge of the Sith",
-  "era": "fallOfTheJedi",
   "format": "periodical",
   "inUniverseDate": {
     "startYear": -19
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "imprint": "Del Rey",
     "publicationKind": "comic"

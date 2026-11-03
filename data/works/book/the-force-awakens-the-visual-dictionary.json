@@ -1,0 +1,46 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "The Force Awakens: The Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465438165"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465438164"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465438165",
+      "isbn13": "9781465438164",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
+  "era": "riseOfTheFirstOrder",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 34
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2015-12-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-force-awakens-the-visual-dictionary",
+  "title": "The Force Awakens: The Visual Dictionary"
+}

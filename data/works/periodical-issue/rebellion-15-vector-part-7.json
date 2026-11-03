@@ -38,11 +38,11 @@
     }
   ],
   "displayTitle": "Rebellion #15: Vector, Part 7",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "pageCount": 40,

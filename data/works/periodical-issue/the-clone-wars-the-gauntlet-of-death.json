@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Gauntlet of Death",
-  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -20
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },

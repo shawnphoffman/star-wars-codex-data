@@ -43,11 +43,11 @@
     }
   ],
   "displayTitle": "Rebellion #6: The Ahakista Gambit",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "rebellion",
   "periodical": {
     "pageCount": 32,

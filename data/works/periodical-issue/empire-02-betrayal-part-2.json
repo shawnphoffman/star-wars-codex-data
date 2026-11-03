@@ -37,11 +37,11 @@
     }
   ],
   "displayTitle": "Empire #02: Betrayal, Part 2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -1
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "empire-2003",
   "periodical": {
     "publicationKind": "comic"

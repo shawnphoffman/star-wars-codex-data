@@ -1,0 +1,44 @@
+{
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Francis Portela",
+      "role": "penciler",
+      "slug": "francis-portela"
+    },
+    {
+      "name": "Albert Xiques",
+      "role": "inker",
+      "slug": "albert-xiques"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "colorist",
+      "slug": "digital-chameleon"
+    },
+    {
+      "name": "Digital Chameleon",
+      "role": "letterer",
+      "slug": "digital-chameleon"
+    }
+  ],
+  "displayTitle": "Machines of War",
+  "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2002-07-01T12:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "machines-of-war",
+  "title": "Machines of War"
+}

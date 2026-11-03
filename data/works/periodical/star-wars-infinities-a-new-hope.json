@@ -63,8 +63,8 @@
     }
   ],
   "displayTitle": "Infinities: A New Hope",
-  "era": "multiEra",
   "format": "periodical",
+  "legendsEra": "legendsInfinities",
   "periodical": {
     "publicationKind": "comic"
   },

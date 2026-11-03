@@ -9,12 +9,12 @@
     }
   ],
   "displayTitle": "The Han Solo Adventures",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "endYear": -1,
     "startYear": -2
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "1992-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

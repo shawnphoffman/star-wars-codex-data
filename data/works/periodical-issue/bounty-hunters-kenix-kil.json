@@ -48,11 +48,11 @@
     }
   ],
   "displayTitle": "The Bounty Hunters: Kenix Kil",
-  "era": "newRepublic",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 11
   },
+  "legendsEra": "legendsNewRepublic",
   "periodical": {
     "publicationKind": "comic"
   },

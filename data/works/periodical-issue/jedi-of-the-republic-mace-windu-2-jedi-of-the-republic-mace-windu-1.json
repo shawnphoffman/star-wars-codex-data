@@ -38,7 +38,11 @@
     }
   ],
   "displayTitle": "Jedi of the Republic: Mace Windu #1",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -22
+  },
   "parentWorkSlug": "jedi-of-the-republic-mace-windu-2",
   "periodical": {
     "publicationKind": "comic"

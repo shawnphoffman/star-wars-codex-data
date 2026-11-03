@@ -37,11 +37,11 @@
     }
   ],
   "displayTitle": "Classic Star Wars: Han Solo at Stars' End #2",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -2
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "classic-star-wars-han-solo-at-stars-end-1997",
   "periodical": {
     "publicationKind": "comic"

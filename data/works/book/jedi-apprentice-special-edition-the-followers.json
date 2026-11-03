@@ -39,11 +39,11 @@
       "kind": "print"
     }
   ],
-  "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {
     "startYear": -39
   },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "relatedWorkSlugs": [
     "jedi-apprentice-special-edition-deceptions"
   ],

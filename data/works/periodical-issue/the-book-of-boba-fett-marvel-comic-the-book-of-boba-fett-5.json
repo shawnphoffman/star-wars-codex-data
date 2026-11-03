@@ -48,7 +48,11 @@
     }
   ],
   "displayTitle": "The Book of Boba Fett #5",
+  "era": "newRepublic",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 9
+  },
   "parentWorkSlug": "the-book-of-boba-fett-marvel-comic",
   "periodical": {
     "publicationKind": "comic"

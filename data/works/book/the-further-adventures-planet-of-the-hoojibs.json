@@ -9,11 +9,11 @@
     }
   ],
   "displayTitle": "The Further Adventures: Planet of the Hoojibs",
-  "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {
     "startYear": 3
   },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "1983-04-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

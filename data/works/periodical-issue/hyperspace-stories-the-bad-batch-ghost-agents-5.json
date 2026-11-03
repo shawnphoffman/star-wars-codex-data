@@ -43,7 +43,11 @@
     }
   ],
   "displayTitle": "Hyperspace Stories: The Bad Batch: Ghost Agents #5",
+  "era": "fallOfTheJedi",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -20
+  },
   "parentWorkSlug": "hyperspace-stories-the-bad-batch-ghost-agents",
   "periodical": {
     "imprint": "Dark Horse Comics",

@@ -1,0 +1,41 @@
+{
+  "bookType": "graphicNovel",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Alessandro Ferrari",
+      "role": "writer",
+      "slug": "alessandro-ferrari"
+    }
+  ],
+  "displayTitle": "A New Hope Graphic Novel Adaptation",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9781684053803"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 72,
+      "imprint": "IDW Publishing",
+      "isPrimary": true,
+      "isbn13": "9781684053803",
+      "kind": "print",
+      "onsale": "2018-09-18T00:00:00.000Z"
+    }
+  ],
+  "era": "ageOfRebellion",
+  "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2018-09-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "a-new-hope-graphic-novel-adaptation",
+  "title": "A New Hope Graphic Novel Adaptation"
+}

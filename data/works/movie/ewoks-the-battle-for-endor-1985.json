@@ -43,8 +43,8 @@
     }
   ],
   "displayTitle": "Ewoks: The Battle for Endor",
-  "era": "ageOfRebellion",
   "format": "movie",
+  "legendsEra": "legendsRebellion",
   "movie": {
     "movieType": "tvMovie",
     "mpaaRating": "unrated",

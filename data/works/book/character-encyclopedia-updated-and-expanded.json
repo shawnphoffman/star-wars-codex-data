@@ -1,0 +1,47 @@
+{
+  "bookType": "referenceBook",
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Pablo Hidalgo",
+      "role": "writer",
+      "slug": "pablo-hidalgo"
+    }
+  ],
+  "displayTitle": "Character Encyclopedia: Updated and Expanded",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465448853"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465448859"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465448853",
+      "isbn13": "9781465448859",
+      "kind": "print",
+      "onsale": "2016-04-05T00:00:00.000Z"
+    }
+  ],
+  "format": "book",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2016-04-05T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "character-encyclopedia-updated-and-expanded",
+  "title": "Character Encyclopedia: Updated and Expanded"
+}

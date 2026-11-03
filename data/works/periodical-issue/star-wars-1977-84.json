@@ -28,11 +28,11 @@
     }
   ],
   "displayTitle": "Star Wars (1977) #84: Seoul Searching",
-  "era": "ageOfRebellion",
   "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 4
   },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "star-wars-1977",
   "periodical": {
     "publicationKind": "comic"
