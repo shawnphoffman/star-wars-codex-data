@@ -1,7 +1,8 @@
 {
+  "bookType": "manga",
   "canonStatus": "non-canon",
   "displayTitle": "Visions - The Manga Anthology",
-  "format": "periodicalIssue",
+  "format": "book",
   "periodical": {
     "imprint": "Viz Media",
     "publicationKind": "comic"

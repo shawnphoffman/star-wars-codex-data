@@ -1,4 +1,5 @@
 {
+  "bookType": "juniorReader",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -7,13 +8,12 @@
       "slug": "ryder-windham"
     }
   ],
-  "displayTitle": "Adventures In Hyperspace #2: Shinbone Showdown",
-  "format": "periodicalIssue",
+  "displayTitle": "Adventures in Hyperspace: Shinbone Showdown",
+  "format": "book",
   "inUniverseDate": {
     "startYear": -3
   },
   "legendsEra": "legendsRiseOfTheEmpire",
-  "parentWorkSlug": "adventures-in-hyperspace-2010",
   "periodical": {
     "publicationKind": "comic"
   },
@@ -22,5 +22,5 @@
   "releaseStatus": "released",
   "slug": "adventures-in-hyperspace-2010-2",
   "synopsis": "Star Wars: Adventures in Hyperspace is a series of Star Wars Legends young-reader novels that were written by Ryder Windham, illustrated by Robert Rath, and published by Scholastic. The series comprises two books&mdash;Fire Ring Race and Shinbone Showdown, both released on June 1, 2010&mdash;which follow the adventures of smugglers Han Solo and Chewbacca while working for Jabba the Hutt prior to the events of Star Wars: Episode IV A New Hope.",
-  "title": "Adventures In Hyperspace #2: Shinbone Showdown"
+  "title": "Adventures in Hyperspace: Shinbone Showdown"
 }

@@ -9,11 +9,14 @@
     }
   ],
   "displayTitle": "Rookies: No Turning Back",
-  "format": "book",
+  "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
   "legendsEra": "legendsRebellion",
+  "periodical": {
+    "publicationKind": "comic"
+  },
   "releaseDate": "2006-10-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

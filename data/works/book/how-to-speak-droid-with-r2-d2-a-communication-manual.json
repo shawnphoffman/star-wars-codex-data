@@ -1,6 +1,13 @@
 {
   "bookType": "other",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Urma Droid",
+      "role": "writer",
+      "slug": "urma-droid"
+    }
+  ],
   "displayTitle": "How to Speak Droid with R2-D2: A Communication Manual",
   "format": "book",
   "periodical": {

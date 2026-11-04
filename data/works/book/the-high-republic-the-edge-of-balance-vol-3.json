@@ -16,6 +16,9 @@
   "displayTitle": "The High Republic: The Edge of Balance: Vol. 3",
   "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "releaseDate": "2024-08-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

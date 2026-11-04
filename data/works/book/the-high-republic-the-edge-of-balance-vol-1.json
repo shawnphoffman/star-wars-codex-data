@@ -16,6 +16,9 @@
   "displayTitle": "The High Republic: The Edge Of Balance Vol. 1",
   "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -232
+  },
   "releaseDate": "2021-09-07T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

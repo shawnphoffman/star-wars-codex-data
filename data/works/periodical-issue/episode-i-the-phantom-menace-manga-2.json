@@ -1,8 +1,12 @@
 {
   "bookType": "childrensBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode I: The Phantom Menace: Manga #2",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "episode-i-the-phantom-menace-manga",
   "periodical": {
     "publicationKind": "comic"

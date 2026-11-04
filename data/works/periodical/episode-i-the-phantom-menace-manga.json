@@ -1,13 +1,17 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode I: The Phantom Menace: Manga",
-  "era": "fallOfTheJedi",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "1999-12-22T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "episode-i-the-phantom-menace-manga",
   "title": "Episode I: The Phantom Menace: Manga"
 }

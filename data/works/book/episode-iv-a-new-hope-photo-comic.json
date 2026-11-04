@@ -1,9 +1,12 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode IV: A New Hope Photo Comic",
-  "era": "ageOfRebellion",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2008-02-19T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

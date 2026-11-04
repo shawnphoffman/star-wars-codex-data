@@ -1,9 +1,13 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Clone Wars Photo Comic",
-  "era": "fallOfTheJedi",
   "format": "book",
+  "inUniverseDate": {
+    "endYear": -19,
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2008-05-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

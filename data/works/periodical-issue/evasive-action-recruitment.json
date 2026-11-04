@@ -9,11 +9,14 @@
     }
   ],
   "displayTitle": "Evasive Action: Recruitment",
-  "format": "book",
+  "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": -19
   },
   "legendsEra": "legendsRiseOfTheEmpire",
+  "periodical": {
+    "publicationKind": "comic"
+  },
   "releaseDate": "2005-12-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

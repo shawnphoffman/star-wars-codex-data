@@ -1,4 +1,5 @@
 {
+  "bookType": "juniorReader",
   "canonStatus": "canon",
   "creators": [
     {
@@ -9,7 +10,7 @@
   ],
   "displayTitle": "Forces of Destiny: Daring Adventures: Volume 2",
   "era": "ageOfRebellion",
-  "format": "periodical",
+  "format": "book",
   "inUniverseDate": {
     "endYear": 3,
     "startYear": -21

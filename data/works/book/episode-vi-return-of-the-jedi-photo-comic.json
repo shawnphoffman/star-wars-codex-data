@@ -1,9 +1,12 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode VI: Return of the Jedi Photo Comic",
-  "era": "ageOfRebellion",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "legendsEra": "legendsRebellion",
   "releaseDate": "2008-04-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

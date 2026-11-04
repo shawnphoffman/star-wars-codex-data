@@ -18,7 +18,11 @@
     }
   ],
   "displayTitle": "Han Solo (2016) #1",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
   "parentWorkSlug": "han-solo",
   "periodical": {
     "publicationKind": "comic"

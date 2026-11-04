@@ -43,7 +43,11 @@
     }
   ],
   "displayTitle": "Adventures: Flight of the Falcon",
+  "era": "riseOfTheFirstOrder",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 34
+  },
   "parentWorkSlug": "star-wars-adventures-2017",
   "periodical": {
     "publicationKind": "comic"

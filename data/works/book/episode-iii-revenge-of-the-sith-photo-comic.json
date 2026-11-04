@@ -1,9 +1,12 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode III: Revenge of the Sith Photo Comic",
-  "era": "fallOfTheJedi",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2007-11-21T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

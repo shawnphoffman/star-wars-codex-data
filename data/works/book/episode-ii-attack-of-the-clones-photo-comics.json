@@ -1,9 +1,12 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode II: Attack of the Clones Photo Comic",
-  "era": "fallOfTheJedi",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2007-10-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

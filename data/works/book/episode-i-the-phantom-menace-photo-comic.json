@@ -1,9 +1,12 @@
 {
   "bookType": "graphicNovel",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Episode I: The Phantom Menace Photo Comic",
-  "era": "fallOfTheJedi",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -32
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
   "releaseDate": "2007-08-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

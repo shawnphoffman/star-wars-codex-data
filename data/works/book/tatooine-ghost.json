@@ -11,6 +11,10 @@
   "displayTitle": "Tatooine Ghost",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345456688"
+    },
+    {
       "type": "isbn13",
       "value": "9780345456687"
     }
@@ -20,6 +24,7 @@
       "extent": 416,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345456688",
       "isbn13": "9780345456687",
       "kind": "print",
       "onsale": "2003-03-04T00:00:00.000Z"

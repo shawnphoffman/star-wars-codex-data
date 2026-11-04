@@ -47,6 +47,9 @@
   ],
   "era": "highRepublic",
   "format": "book",
+  "inUniverseDate": {
+    "startYear": -228
+  },
   "releaseDate": "2025-04-22T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

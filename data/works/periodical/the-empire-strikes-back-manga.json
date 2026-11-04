@@ -1,13 +1,17 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "The Empire Strikes Back: Manga",
-  "era": "ageOfRebellion",
   "format": "periodical",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "legendsEra": "legendsRebellion",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "1999-01-27T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-empire-strikes-back-manga",
   "title": "The Empire Strikes Back: Manga"
 }

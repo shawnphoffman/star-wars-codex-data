@@ -1,8 +1,12 @@
 {
   "bookType": "childrensBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "Return of the Jedi: Manga #1",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 4
+  },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "return-of-the-jedi-manga",
   "periodical": {
     "publicationKind": "comic"

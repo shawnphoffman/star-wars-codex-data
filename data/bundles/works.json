@@ -754,14 +754,19 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1998-07-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "a-new-hope-manga-1998",
     "title": "A New Hope: Manga (1998)"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "A New Hope Manga Digital Comic (1998) #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "a-new-hope-manga-1998",
     "periodical": {
       "publicationKind": "comic"
@@ -773,9 +778,13 @@
     "title": "A New Hope Manga Digital Comic (1998) #1"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "A New Hope Manga Digital Comic (1998) #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "a-new-hope-manga-1998",
     "periodical": {
       "publicationKind": "comic"
@@ -787,9 +796,13 @@
     "title": "A New Hope Manga Digital Comic (1998) #2"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "A New Hope Manga Digital Comic (1998) #3",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "a-new-hope-manga-1998",
     "periodical": {
       "publicationKind": "comic"
@@ -801,9 +814,13 @@
     "title": "A New Hope Manga Digital Comic (1998) #3"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "A New Hope Manga Digital Comic (1998) #4",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "a-new-hope-manga-1998",
     "periodical": {
       "publicationKind": "comic"
@@ -1889,37 +1906,7 @@
     "title": "Adventure in Beggar's Canyon"
   },
   {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "Robert Rath",
-        "role": "artist",
-        "slug": "robert-rath"
-      },
-      {
-        "name": "Jeffery Carlisle",
-        "role": "artist",
-        "slug": "jeffery-carlisle"
-      }
-    ],
-    "displayTitle": "Adventures In Hyperspace",
-    "format": "periodical",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2010-06-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "adventures-in-hyperspace-2010",
-    "synopsis": "Star Wars: Adventures in Hyperspace is a series of Star Wars Legends young-reader novels that were written by Ryder Windham, illustrated by Robert Rath, and published by Scholastic. The series comprises two books&mdash;Fire Ring Race and Shinbone Showdown, both released on June 1, 2010&mdash;which follow the adventures of smugglers Han Solo and Chewbacca while working for Jabba the Hutt prior to the events of Star Wars: Episode IV A New Hope.",
-    "title": "Adventures In Hyperspace"
-  },
-  {
+    "bookType": "juniorReader",
     "canonStatus": "non-canon",
     "creators": [
       {
@@ -1928,13 +1915,12 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Adventures In Hyperspace #1: Fire Ring Race",
-    "format": "periodicalIssue",
+    "displayTitle": "Adventures in Hyperspace: Fire Ring Race",
+    "format": "book",
     "inUniverseDate": {
       "startYear": -3
     },
     "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "adventures-in-hyperspace-2010",
     "periodical": {
       "publicationKind": "comic"
     },
@@ -1943,9 +1929,10 @@
     "releaseStatus": "released",
     "slug": "adventures-in-hyperspace-2010-1",
     "synopsis": "Star Wars: Adventures in Hyperspace is a series of Star Wars Legends young-reader novels that were written by Ryder Windham, illustrated by Robert Rath, and published by Scholastic. The series comprises two books&mdash;Fire Ring Race and Shinbone Showdown, both released on June 1, 2010&mdash;which follow the adventures of smugglers Han Solo and Chewbacca while working for Jabba the Hutt prior to the events of Star Wars: Episode IV A New Hope.",
-    "title": "Adventures In Hyperspace #1: Fire Ring Race"
+    "title": "Adventures in Hyperspace: Fire Ring Race"
   },
   {
+    "bookType": "juniorReader",
     "canonStatus": "non-canon",
     "creators": [
       {
@@ -1954,13 +1941,12 @@
         "slug": "ryder-windham"
       }
     ],
-    "displayTitle": "Adventures In Hyperspace #2: Shinbone Showdown",
-    "format": "periodicalIssue",
+    "displayTitle": "Adventures in Hyperspace: Shinbone Showdown",
+    "format": "book",
     "inUniverseDate": {
       "startYear": -3
     },
     "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "adventures-in-hyperspace-2010",
     "periodical": {
       "publicationKind": "comic"
     },
@@ -1969,7 +1955,7 @@
     "releaseStatus": "released",
     "slug": "adventures-in-hyperspace-2010-2",
     "synopsis": "Star Wars: Adventures in Hyperspace is a series of Star Wars Legends young-reader novels that were written by Ryder Windham, illustrated by Robert Rath, and published by Scholastic. The series comprises two books&mdash;Fire Ring Race and Shinbone Showdown, both released on June 1, 2010&mdash;which follow the adventures of smugglers Han Solo and Chewbacca while working for Jabba the Hutt prior to the events of Star Wars: Episode IV A New Hope.",
-    "title": "Adventures In Hyperspace #2: Shinbone Showdown"
+    "title": "Adventures in Hyperspace: Shinbone Showdown"
   },
   {
     "bookType": "juniorReader",
@@ -2416,7 +2402,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2017-04-11T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "adventures-in-wild-space-the-steal-book-3",
     "synopsis": "Adventures in Wild Space: The Steal The third book in the seven book Adventures in Wild Space Series Still on the hunt for their kidnapped parents, Milo and Lina Graf head to Lothal in search of an ally. But when something precious is stolen from them, they have to embark on their most dangerous mission yet. Will they succeed in THE STEAL?",
     "title": "Adventures in Wild Space: The Steal (Book 3)"
@@ -9572,7 +9559,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-11-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "backstories-princess-leia-royal-rebel",
     "synopsis": "Who is Princess Leia? How did a princess become a rebel leader? And what happened to her after the Empire was defeated? In this biography--complete with black-and-white illustrations, timelines, and character profiles--young readers will delight in learning the complete history of Star Wars' royal rebel.",
     "title": "Backstories: Princess Leia: Royal Rebel"
@@ -23231,10 +23219,14 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Clone Wars Photo Comic",
-    "era": "fallOfTheJedi",
     "format": "book",
+    "inUniverseDate": {
+      "endYear": -19,
+      "startYear": -22
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "releaseDate": "2008-05-21T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -43770,11 +43762,14 @@
       }
     ],
     "displayTitle": "Death Star Pirates",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 0
     },
     "legendsEra": "legendsRebellion",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2000-01-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -56684,23 +56679,31 @@
     "title": "Episode I: Anakin Skywalker"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode I: The Phantom Menace: Manga",
-    "era": "fallOfTheJedi",
     "format": "periodical",
+    "inUniverseDate": {
+      "startYear": -32
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "1999-12-22T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "episode-i-the-phantom-menace-manga",
     "title": "Episode I: The Phantom Menace: Manga"
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode I: The Phantom Menace: Manga #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": -32
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "episode-i-the-phantom-menace-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -56713,9 +56716,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode I: The Phantom Menace: Manga #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": -32
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "episode-i-the-phantom-menace-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -56754,10 +56761,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode I: The Phantom Menace Photo Comic",
-    "era": "fallOfTheJedi",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -32
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "releaseDate": "2007-08-29T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57053,10 +57063,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode II: Attack of the Clones Photo Comic",
-    "era": "fallOfTheJedi",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -22
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "releaseDate": "2007-10-29T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57364,10 +57377,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode III: Revenge of the Sith Photo Comic",
-    "era": "fallOfTheJedi",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -19
+    },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "releaseDate": "2007-11-21T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57377,10 +57393,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode IV: A New Hope Photo Comic",
-    "era": "ageOfRebellion",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 0
+    },
+    "legendsEra": "legendsRebellion",
     "releaseDate": "2008-02-19T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57416,10 +57435,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode V: The Empire Strikes Back Photo Comic",
-    "era": "ageOfRebellion",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "releaseDate": "2008-03-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57483,10 +57505,13 @@
   },
   {
     "bookType": "graphicNovel",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Episode VI: Return of the Jedi Photo Comic",
-    "era": "ageOfRebellion",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "releaseDate": "2008-04-16T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57914,11 +57939,14 @@
       }
     ],
     "displayTitle": "Evasive Action: End Game",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": -19
     },
     "legendsEra": "legendsRiseOfTheEmpire",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2006-11-06T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57937,11 +57965,14 @@
       }
     ],
     "displayTitle": "Evasive Action: Prey",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": -19
     },
     "legendsEra": "legendsRiseOfTheEmpire",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2006-11-07T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -57960,11 +57991,14 @@
       }
     ],
     "displayTitle": "Evasive Action: Recruitment",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": -19
     },
     "legendsEra": "legendsRiseOfTheEmpire",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2005-12-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -60345,7 +60379,7 @@
     "title": "Forces Of Destiny: Ahsoka & Padmé"
   },
   {
-    "bookType": "other",
+    "bookType": "juniorReader",
     "canonStatus": "canon",
     "creators": [
       {
@@ -60356,16 +60390,18 @@
     ],
     "displayTitle": "Forces of Destiny: Daring Adventures: Volume 1",
     "era": "multiEra",
-    "format": "periodical",
+    "format": "book",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "2017-08-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "forces-of-destiny-daring-adventures-volume-1",
     "title": "Forces of Destiny: Daring Adventures: Volume 1"
   },
   {
+    "bookType": "juniorReader",
     "canonStatus": "canon",
     "creators": [
       {
@@ -60376,7 +60412,7 @@
     ],
     "displayTitle": "Forces of Destiny: Daring Adventures: Volume 2",
     "era": "ageOfRebellion",
-    "format": "periodical",
+    "format": "book",
     "inUniverseDate": {
       "endYear": 3,
       "startYear": -21
@@ -64929,7 +64965,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2022-08-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "galaxys-edge-treasures-from-batuu",
     "synopsis": "Star Wars: Galaxy's Edge: Treasures from Batuu is a canon reference book and merchandise box set and will feature information paired with replica objects related to the Star Wars: Galaxy's Edge parks. Full of treasures from Black Spire Outpost, Star Wars: Galaxy's Edge: Treasures from Batuu offers unique items inspired by Star Wars: Galaxy's Edge. Learn about Batuu's secrets and locales - from Oga's Cantina to Savi's Workshop - and gather one-of-a-kind items along the way, including high-quality stickers, keychains, and a collectible button. An essential addition to your Star Wars collection, Star Wars: Galaxy's Edge: Treasures from Batuu will transport you to the exciting world of Batuu! COLLECT A DOZEN UNIQUE ARTIFACTS: This kit will delight Star Wans fans of all ages with one-of-a-kind items such as high-quality stickers, keychains, and a collectible pin. EXPERIENCE THE IMMERSIVE WORLD OF BATUU: Journey to the planet Batuu, a remote hideout populated by Resistance heroes such as Rey and Chewbacca, as well as Kylo Ren and his First Order stormtroopers. BUILD YOUR STAR WARS COLLECTION: Star Wars: Galaxy's Edge: Treasures from Batuu joins Star Wars: Jedi Artifacts, Star Wars: Galaxy's Edge: The Official Black Spire Outpost Cookbook, and Star Wars: The Lightsaber Collection in Insight Editions' line of fan-favorite Star Wars books.",
     "title": "Galaxy's Edge: Treasures from Batuu"
@@ -66356,7 +66393,11 @@
       }
     ],
     "displayTitle": "Han Solo (2016) #1",
+    "era": "ageOfRebellion",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 0
+    },
     "parentWorkSlug": "han-solo",
     "periodical": {
       "publicationKind": "comic"
@@ -69862,6 +69903,13 @@
   {
     "bookType": "other",
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Urma Droid",
+        "role": "writer",
+        "slug": "urma-droid"
+      }
+    ],
     "displayTitle": "How to Speak Droid with R2-D2: A Communication Manual",
     "format": "book",
     "periodical": {
@@ -71201,6 +71249,7 @@
         "onsale": "2025-03-04T00:00:00.000Z"
       }
     ],
+    "era": "fallOfTheJedi",
     "format": "book",
     "relatedWorkSlugs": [
       "hyperspace-stories-mace"
@@ -81713,7 +81762,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -81773,7 +81822,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -81833,7 +81882,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -81893,7 +81942,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -81953,7 +82002,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -82013,7 +82062,7 @@
     "inUniverseDate": {
       "startYear": -1000
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsOldRepublic",
     "parentWorkSlug": "jedi-vs-sith-graphic-novel",
     "periodical": {
       "publicationKind": "comic"
@@ -89499,7 +89548,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2008-01-02T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "legacy-0",
     "title": "Legacy (2006) #0½"
   },
@@ -95357,7 +95407,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-11-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lego-star-wars-han-solo-and-chewie-in-action",
     "title": "LEGO Star Wars: Han Solo and Chewie in Action"
   },
@@ -95722,7 +95773,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-11-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "lego-star-wars-secrets-of-the-dark-side",
     "title": "LEGO Star Wars: Secrets of the Dark Side"
   },
@@ -103055,6 +103107,7 @@
       "endYear": 22,
       "startYear": -19
     },
+    "legendsEra": "legendsRiseOfTheEmpire",
     "releaseDate": "2022-09-14T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -107476,7 +107529,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-11-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "poe-dameron-flight-log",
     "synopsis": "Like many a great epic, Star Wars is rooted in a rich history of armed conflict. Now, for the first time, the facts, figures and backstories of major clashes and combatants in the Star Wars universe have been documented in this volume. It combines action-filled narrative with encyclopedic knowledge",
     "title": "Poe Dameron: Flight Log"
@@ -121676,23 +121730,31 @@
     "title": "Return of the Jedi: Lando #1"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Return of the Jedi: Manga",
-    "era": "ageOfRebellion",
     "format": "periodical",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "1999-07-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "return-of-the-jedi-manga",
     "title": "Return of the Jedi: Manga"
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Return of the Jedi: Manga #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "return-of-the-jedi-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -121705,9 +121767,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Return of the Jedi: Manga #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "return-of-the-jedi-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -121720,9 +121786,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Return of the Jedi: Manga #3",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "return-of-the-jedi-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -121735,9 +121805,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "Return of the Jedi: Manga #4",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 4
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "return-of-the-jedi-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -121897,7 +121971,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2023-11-15T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "return-of-the-jedi-the-40th-anniversary-covers-by-chris-sprouse-1",
     "synopsis": "Return of the Jedi: The 40th Anniversary Covers by Chris Sprouse #1 This is a one-shot that reprints all forty Return of the Jedi variant covers commissioned for the film's fortieth anniversary. Celebrate four decades of Return of the Jedi by reliving the original trilogy's thrilling climax in a brand-new way! Acclaimed artist Chris Sprouse (BLACK PANTHER, THORS) retells the events of the film across forty highly sought-after variant covers. Each one tells a chapter of the familiar story: Princess Leia and the rebels make a daring bid to rescue their friend Han Solo from the ruthless Jabba the Hutt! Luke Skywalker learns another shocking family secret! With a devastating second Death Star close to completion, a thrilling battle breaks out on the nearby forest moon of Endor, home of the Ewoks! And get ready for Luke's unforgettable showdown with Darth Vader and the Emperor - as you've never seen it before!",
     "title": "Return of the Jedi: The 40th Anniversary Covers by Chris Sprouse #1"
@@ -123105,11 +123180,14 @@
       }
     ],
     "displayTitle": "Reversal of Fortune",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": -19
     },
     "legendsEra": "legendsRiseOfTheEmpire",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2004-10-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -123211,7 +123289,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2015-12-18T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "reys-survival-guide",
     "synopsis": "Complete with stories, secrets, and insights, this guide will immerse readers in the world of Star Wars: The Force Awakens. Discover what you need to survive the hostile planet, Jakku. What secrets lurk inside the ship graveyard? What do you want to salvage? What should you avoid to stay alive? Includes gatefolds with exclusive artifacts including starship schematics and more!",
     "title": "Rey's Survival Guide"
@@ -125429,11 +125508,14 @@
       }
     ],
     "displayTitle": "Rookies: No Turning Back",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 0
     },
     "legendsEra": "legendsRebellion",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2006-10-16T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -125452,11 +125534,14 @@
       }
     ],
     "displayTitle": "Rookies: Rendezvous",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 0
     },
     "legendsEra": "legendsRebellion",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2006-06-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -128341,7 +128426,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1996-01-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadows-of-the-empire-ertl",
     "synopsis": "Star Wars: Shadows of the Empire is a mini comic book distributed in certain of the Ertl Company's model kits from the Shadows of the Empire series. The comic covers the period of Fett's departure from Gall to Luke's departure from Tatooine in chapter 16 of the Shadows of the Empire novel.",
     "title": "Shadows of the Empire (Ertl)"
@@ -128775,7 +128861,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "1996-01-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "shadows-of-the-empire-galoob",
     "synopsis": "Star Wars: Shadows of the Empire is a mini comic book included in some of the Galoob Micro-Machines. For the most part it's a reprint of some parts of original comic, but includes some original scenes by Ryder Windham and illustrator Bill Hughes. Each of these three mini-issues have different covers, but the same interior story.",
     "title": "Shadows of the Empire (Galoob)"
@@ -150012,7 +150099,11 @@
       }
     ],
     "displayTitle": "Adventures: Flight of the Falcon",
+    "era": "riseOfTheFirstOrder",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 34
+    },
     "parentWorkSlug": "star-wars-adventures-2017",
     "periodical": {
       "publicationKind": "comic"
@@ -153283,7 +153374,7 @@
     "title": "Star Wars (1977) Annual #1: The Long Hunt"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "creators": [
       {
         "name": "David Michelinie",
@@ -153347,11 +153438,11 @@
       }
     ],
     "displayTitle": "Annual (1979) #2",
-    "era": "ageOfRebellion",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 3
     },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "star-wars-annual-1977",
     "periodical": {
       "publicationKind": "comic"
@@ -153364,7 +153455,7 @@
     "title": "Star Wars Annual (1979) #2"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "creators": [
       {
         "name": "Mary Jo Duffy",
@@ -153428,11 +153519,11 @@
       }
     ],
     "displayTitle": "Annual (1979) #3",
-    "era": "ageOfRebellion",
     "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": 3
     },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "star-wars-annual-1977",
     "periodical": {
       "publicationKind": "comic"
@@ -168514,7 +168605,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2006-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-manga-black",
     "synopsis": "Star Wars Manga: Black is a manga one-shot published by Tokyopop in the vein of Star Wars Tales. It is the first issue, followed by Star Wars Manga: Silver. It was published in both Japan and the United Kingdom, not the United States. Author Daniel Wallace stated definitively that the stories included in the Star Wars Manga: Black comic trade paperback are non-canon",
     "title": "Star Wars Manga: Black"
@@ -168527,7 +168619,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2006-10-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-manga-silver",
     "synopsis": "Star Wars Manga: Silver is a manga one-shot published by Tokyopop in the vein of Star Wars Tales. It is the second issue, preceeded by Star Wars Manga: Black. It was published in both Japan and the United Kingdom, not the United States. Author Daniel Wallace stated definitively that the stories included in the Star Wars Manga: Silver comic trade paperback are non-canon",
     "title": "Star Wars Manga: Silver"
@@ -176504,7 +176597,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-the-last-jedi-rose-tico-resistance-fighter",
     "title": "Star Wars The Last Jedi: Rose Tico: Resistance Fighter"
   },
@@ -179229,9 +179323,10 @@
     "title": "Star Wars: Visions - Takashi Okazaki (2024)"
   },
   {
+    "bookType": "manga",
     "canonStatus": "non-canon",
     "displayTitle": "Visions - The Manga Anthology",
-    "format": "periodicalIssue",
+    "format": "book",
     "periodical": {
       "imprint": "Viz Media",
       "publicationKind": "comic"
@@ -182172,7 +182267,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2006-04-26T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "tag-bink-revenge-of-the-clone-menace",
     "synopsis": "Behold, the long-awaited prequel to the Tag & Bink saga! Many a Star Wars fan has lain awake at night, plagued by suspense and wondering just how this infamous Rebel pair came to be. Well wonder no more, faithful readers! Your plague has ended with this tell-all issue that caps the space-opera legend, courtesy of fan-favorite Star Wars creators Kevin Rubio and Lucas Marangon.The origin story of our hapless heroes begins on their respective planets, Alderaan and Corellia. These future soldiers of the Rebel Alliance are sized up for Padawan potential, and we are treated to a rare inside look at the rigorous mental and physical training undergone by aspiring Knights in the Jedi Temple! Mace Windu, Yoda, Obi-Wan Kenobi, and the elder Fett each have a role in the miseducation of Tag and Bink, but despite all this schoolin', the two decide that spying on Padmé and \"the Chosen One\" is a pretty good idea . . .",
     "title": "Tag & Bink: Revenge of the Clone Menace"
@@ -187993,6 +188089,10 @@
     "displayTitle": "Tatooine Ghost",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345456688"
+      },
+      {
         "type": "isbn13",
         "value": "9780345456687"
       }
@@ -188002,6 +188102,7 @@
         "extent": 416,
         "imprint": "Del Rey",
         "isPrimary": true,
+        "isbn10": "0345456688",
         "isbn13": "9780345456687",
         "kind": "print",
         "onsale": "2003-03-04T00:00:00.000Z"
@@ -189750,13 +189851,14 @@
     ],
     "format": "book",
     "releaseDate": "2026-11-03T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-art-of-star-wars-the-mandalorian-and-grogu",
     "title": "The Art of Star Wars: The Mandalorian and Grogu"
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Phil Szostak",
@@ -189793,7 +189895,7 @@
   },
   {
     "bookType": "referenceBook",
-    "canonStatus": "non-canon",
+    "canonStatus": "canon",
     "creators": [
       {
         "name": "Phil Szostak",
@@ -201177,11 +201279,14 @@
       }
     ],
     "displayTitle": "The Collector",
-    "format": "book",
+    "format": "periodicalIssue",
     "inUniverseDate": {
       "startYear": -20
     },
     "legendsEra": "legendsRiseOfTheEmpire",
+    "periodical": {
+      "publicationKind": "comic"
+    },
     "releaseDate": "2013-01-10T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -201442,6 +201547,10 @@
     "displayTitle": "The Courtship of Princess Leia",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553089285"
+      },
+      {
         "type": "isbn13",
         "value": "9780553089288"
       }
@@ -201451,6 +201560,7 @@
         "extent": 336,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
+        "isbn10": "0553089285",
         "isbn13": "9780553089288",
         "kind": "print",
         "onsale": "1994-04-01T00:00:00.000Z"
@@ -202058,23 +202168,31 @@
     "title": "The Empire Strikes Back Graphic Novel Adaptation"
   },
   {
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Empire Strikes Back: Manga",
-    "era": "ageOfRebellion",
     "format": "periodical",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "periodical": {
       "publicationKind": "comic"
     },
     "releaseDate": "1999-01-27T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-empire-strikes-back-manga",
     "title": "The Empire Strikes Back: Manga"
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Empire Strikes Back: Manga #1",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "the-empire-strikes-back-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -202087,9 +202205,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Empire Strikes Back: Manga #2",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "the-empire-strikes-back-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -202102,9 +202224,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Empire Strikes Back: Manga #3",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "the-empire-strikes-back-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -202117,9 +202243,13 @@
   },
   {
     "bookType": "childrensBook",
-    "canonStatus": "canon",
+    "canonStatus": "non-canon",
     "displayTitle": "The Empire Strikes Back: Manga #4",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 3
+    },
+    "legendsEra": "legendsRebellion",
     "parentWorkSlug": "the-empire-strikes-back-manga",
     "periodical": {
       "publicationKind": "comic"
@@ -204257,7 +204387,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2016-02-16T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-force-awakens-reys-story",
     "synopsis": "Rey never thought she would leave the desert planet of Jakku, but her life is turned upside down when she meets BB-8, a small droid with a big secret. Like it or not, Rey is about to be caught up in something much larger than herself: a galactic war between the evil First Order and the fledgling Resistance. But something is awakening inside of Rey, something that might turn the tides of fortune in the galaxy...",
     "title": "The Force Awakens: Rey's Story"
@@ -204852,6 +204983,7 @@
       }
     ],
     "format": "book",
+    "legendsEra": "legendsRebellion",
     "periodical": {
       "publicationKind": "comic"
     },
@@ -211238,7 +211370,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2021-08-14T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-high-republic-adventures-free-comic-book-day-2021",
     "synopsis": "The High Republic Adventures Free Comic Book Day 2021 is a one-shot issue that will serve as a prelude to the canon comic book series Star Wars: The High Republic Adventures. The issue is written by Daniel José Older and published as a Free Comic Book Day title by IDW Publishing.Join Yoda, Buckets o'Blood, and their Padawan learners as they go on an adventure to help maintain peace during the glory days of the Republic, in a prelude to IDW's Star Wars: The High Republic Adventures series! Written by series architect Daniel José Older, this is the ideal entry into the world of the High Republic-and a can't-miss story for fans!",
     "title": "The High Republic Adventures Free Comic Book Day 2021"
@@ -215225,6 +215358,9 @@
     "displayTitle": "The High Republic: The Edge Of Balance Vol. 1",
     "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -232
+    },
     "releaseDate": "2021-09-07T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -215281,6 +215417,9 @@
     ],
     "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -231
+    },
     "releaseDate": "2022-02-22T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -215306,6 +215445,9 @@
     "displayTitle": "The High Republic: The Edge of Balance: Vol. 3",
     "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -228
+    },
     "releaseDate": "2024-08-13T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -215362,6 +215504,9 @@
     ],
     "era": "highRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": -228
+    },
     "releaseDate": "2025-04-22T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -217646,7 +217791,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-09T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-1",
     "synopsis": "The Resistance has found Luke Skywalker! But the First Order is hot on their tail...and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!",
     "title": "The Last Jedi Adaptation #1"
@@ -217663,7 +217809,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-05-23T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-2",
     "synopsis": "The Resistance has found Luke Skywalker! But the First Order is hot on their tail…and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!",
     "title": "The Last Jedi Adaptation #2"
@@ -217680,7 +217827,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-06-06T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-3",
     "synopsis": "The tyrannical First Order is hot on the Resistance's tail - Supreme Leader Snoke has discovered a way to track Leia Organa and her crew through hyperspace. Fuel and time is [sic] running out. Finn and Rose are sent on a secret mission from Poe Dameron to the casino planet of Canto Bight, where they are to find the Master Code Breaker who will help them defeat the First Order's tracker! PLUS: Never-before-seen scenes in the adaptation of the blockbuster film!",
     "title": "The Last Jedi Adaptation #3"
@@ -217697,7 +217845,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-07-04T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-4",
     "synopsis": "AS THE PAST DIES, THE FUTURE BECKONS…REY gambles everything as she heads for a confrontation with KYLO REN and SUPREME LEADER SNOKE. As the fate of the RESISTANCE hangs in the balance, will POE DAMERON risk mutiny to take matters into his own hands? And who is the mysterious visitor coming to offer counsel to LUKE SKYWALKER? (SPOILER ALERT, it's YODA!)",
     "title": "The Last Jedi Adaptation #4"
@@ -217714,7 +217863,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-08-01T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-5",
     "synopsis": "REY CONFRONTS SNOKE AS THE RESISTANCE FACES EXTINCTION! KYLO REN brings REY before the SUPREME LEADER - but who will turn? ADMIRAL HOLDO reveals a stunning plan to save the RESISTANCE! Plus! The return of CAPTAIN PHASMA as FINN and ROSE are betrayed!",
     "title": "The Last Jedi Adaptation #5"
@@ -217731,7 +217881,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2018-09-12T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-adaptation-6",
     "synopsis": "THE LATEST EPISODE OF THE STAR WARS SAGA COMES TO ITS THRILLING CONCLUSION! Trapped in a derelict rebel base, GENERAL LEIA and the last of the RESISTANCE fight for their survival! Will POE DAMERON, ROSE and FINN stop the FIRST ORDER before they destroy the last hope for the galaxy? Is hope dead, or will LUKE SKYWALKER return to confront his fallen pupil KYLO REN?",
     "title": "The Last Jedi Adaptation #6"
@@ -221451,6 +221602,9 @@
     ],
     "era": "newRepublic",
     "format": "book",
+    "inUniverseDate": {
+      "startYear": 9
+    },
     "releaseDate": "2021-03-30T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
@@ -225328,7 +225482,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2006-03-29T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-return-of-tag-bink-special-edition",
     "synopsis": "Lock up your daughters and hide the Jawas, faithful readers, because Tag and Bink are BACK! Yea, though one might be hard-pressed to develop a sequel to the popular Tag & Bink Are Dead, fan-favorite writer Kevin Rubio and Star Wars stalwart Lucas Marangon have risen to the occasion!And what an occasion it is. Fans jonesing for more side-splitting Star Wars shenanigans will thrill to the new misadventures of this hapless pair, members of the Rebel Alliance, who have somehow stumbled past the worst Imperial perils with their limbs intact. In The Return of Tag & Bink: Special Edition, the duo set out to rescue a certain smuggler trapped in carbonite - with the help of Lando Calrissian! One thing leads to another, and they manage to subdue the deadliest bounty hunter in the galaxy on their way to infiltrating the Hutt palace. Star Wars fans know what comes next, and there will be guest appearances of favorite characters on the way to the Sarlacc pit, the Death Star, and Endor! This issue will conquer the world!",
     "title": "The Return of Tag & Bink: Special Edition"
@@ -225437,7 +225592,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2017-05-30T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-rise-of-a-hero",
     "synopsis": "Blast into hyperspace and relive Luke Skywalker's exciting adventure as he goes from being a farm boy on the dusty desert planet of Tatooine to the rebel pilot and hero who destroys the Empire's most powerful weapon--the Death Star! Star Wars: The Rise of a Hero reunites legendary Star Wars comic book creators Louise Simonsson, Walter Simonsson, and Tom Palmer, along with Laura Martin, they deliver an all-new, action-packed retelling of A New Hope just in time to celebrate the fortieth anniversary of that landmark science fantasy epic. May the Force be with you!.",
     "title": "The Rise of a Hero"
@@ -228733,7 +228889,7 @@
     "inUniverseDate": {
       "startYear": -1
     },
-    "legendsEra": "legendsRiseOfTheEmpire",
+    "legendsEra": "legendsRebellion",
     "releaseDate": "1979-09-12T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",

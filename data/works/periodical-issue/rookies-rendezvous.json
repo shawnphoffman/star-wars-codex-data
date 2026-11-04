@@ -9,11 +9,14 @@
     }
   ],
   "displayTitle": "Rookies: Rendezvous",
-  "format": "book",
+  "format": "periodicalIssue",
   "inUniverseDate": {
     "startYear": 0
   },
   "legendsEra": "legendsRebellion",
+  "periodical": {
+    "publicationKind": "comic"
+  },
   "releaseDate": "2006-06-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",

@@ -1,8 +1,12 @@
 {
   "bookType": "childrensBook",
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "The Empire Strikes Back: Manga #1",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 3
+  },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "the-empire-strikes-back-manga",
   "periodical": {
     "publicationKind": "comic"

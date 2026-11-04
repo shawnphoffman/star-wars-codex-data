@@ -1,5 +1,5 @@
 {
-  "bookType": "other",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
   "creators": [
     {
@@ -10,12 +10,13 @@
   ],
   "displayTitle": "Forces of Destiny: Daring Adventures: Volume 1",
   "era": "multiEra",
-  "format": "periodical",
+  "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
   "releaseDate": "2017-08-01T00:00:00.000Z",
-  "releaseDisplayState": "upcoming",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "forces-of-destiny-daring-adventures-volume-1",
   "title": "Forces of Destiny: Daring Adventures: Volume 1"
 }

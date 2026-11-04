@@ -1,7 +1,11 @@
 {
-  "canonStatus": "canon",
+  "canonStatus": "non-canon",
   "displayTitle": "A New Hope Manga Digital Comic (1998) #2",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 0
+  },
+  "legendsEra": "legendsRebellion",
   "parentWorkSlug": "a-new-hope-manga-1998",
   "periodical": {
     "publicationKind": "comic"
