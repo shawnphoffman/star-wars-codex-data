@@ -28047,8 +28047,20 @@
     "displayTitle": "Dark Force Rising",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553085743"
+      },
+      {
+        "type": "isbn10",
+        "value": "0593358791"
+      },
+      {
         "type": "isbn13",
         "value": "9780553085747"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593358795"
       }
     ],
     "editions": [
@@ -28062,9 +28074,19 @@
         "extent": 384,
         "imprint": "Bantam Spectra",
         "isPrimary": false,
+        "isbn10": "0553085743",
         "isbn13": "9780553085747",
         "kind": "print",
         "onsale": "1992-05-01T00:00:00.000Z"
+      },
+      {
+        "extent": 480,
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0593358791",
+        "isbn13": "9780593358795",
+        "kind": "print",
+        "onsale": "2021-09-07T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -68168,12 +68190,24 @@
         "value": "0345530004"
       },
       {
+        "type": "isbn10",
+        "value": "0553073273"
+      },
+      {
+        "type": "isbn10",
+        "value": "0593358767"
+      },
+      {
         "type": "isbn13",
         "value": "9780345530004"
       },
       {
         "type": "isbn13",
         "value": "9780553073270"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593358764"
       }
     ],
     "editions": [
@@ -68197,9 +68231,19 @@
         "extent": 368,
         "imprint": "Bantam Spectra",
         "isPrimary": false,
+        "isbn10": "0553073273",
         "isbn13": "9780553073270",
         "kind": "print",
         "onsale": "1991-05-01T00:00:00.000Z"
+      },
+      {
+        "extent": 528,
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0593358767",
+        "isbn13": "9780593358764",
+        "kind": "print",
+        "onsale": "2021-06-15T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -72514,6 +72558,27 @@
       }
     ],
     "displayTitle": "I, Jedi",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0553108204"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553108200"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 480,
+        "imprint": "Bantam Spectra",
+        "isPrimary": true,
+        "isbn10": "0553108204",
+        "isbn13": "9780553108200",
+        "kind": "print",
+        "onsale": "1998-05-04T00:00:00.000Z"
+      }
+    ],
     "format": "book",
     "inUniverseDate": {
       "startYear": 11
@@ -172541,6 +172606,11 @@
         "name": "Andrew Robinson",
         "role": "coverArtist",
         "slug": "andrew-robinson"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #05",
@@ -173425,6 +173495,11 @@
         "name": "Dave Nestelle",
         "role": "colorist",
         "slug": "dave-nestelle"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #11",
@@ -174211,6 +174286,11 @@
         "name": "Ashley Wood",
         "role": "coverArtist",
         "slug": "ashley-wood"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #16",
@@ -174336,6 +174416,11 @@
         "name": "Udon",
         "role": "coverArtist",
         "slug": "udon"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #17",
@@ -174566,9 +174651,9 @@
         "slug": "michael-atiyeh"
       },
       {
-        "name": "Cam Smith",
+        "name": "Tom Smith",
         "role": "colorist",
-        "slug": "cam-smith"
+        "slug": "tom-smith"
       },
       {
         "name": "Jim Zub",
@@ -174587,7 +174672,7 @@
       },
       {
         "name": "Dave Land",
-        "role": "writer",
+        "role": "editor",
         "slug": "dave-land"
       },
       {
@@ -174606,9 +174691,9 @@
         "slug": "jeremy-barlow"
       },
       {
-        "name": "Andrew C. Robinson",
+        "name": "Andrew Robinson",
         "role": "writer",
-        "slug": "andrew-c-robinson"
+        "slug": "andrew-robinson"
       },
       {
         "name": "Ramón F. Bachs",
@@ -174662,11 +174747,33 @@
       },
       {
         "name": "Jim Pascoe",
+        "role": "writer",
         "slug": "jim-pascoe"
       },
       {
-        "name": "W. Haden Blackman",
-        "slug": "w-haden-blackman"
+        "name": "Ken Lizzl",
+        "role": "writer",
+        "slug": "ken-lizzl"
+      },
+      {
+        "name": "Núria Peris",
+        "role": "penciler",
+        "slug": "nuria-peris"
+      },
+      {
+        "name": "Scott Allie",
+        "role": "editor",
+        "slug": "scott-allie"
+      },
+      {
+        "name": "Michael Carriglitto",
+        "role": "editor",
+        "slug": "michael-carriglitto"
+      },
+      {
+        "name": "Dave Land",
+        "role": "writer",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #19",
@@ -174917,6 +175024,11 @@
         "name": "Tony Millionaire",
         "role": "coverArtist",
         "slug": "tony-millionaire"
+      },
+      {
+        "name": "Dave Land",
+        "role": "editor",
+        "slug": "dave-land"
       }
     ],
     "displayTitle": "Tales #20",
@@ -217078,7 +217190,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553091867"
+      },
+      {
+        "type": "isbn10",
         "value": "0553093258"
+      },
+      {
+        "type": "isbn10",
+        "value": "0593497031"
       },
       {
         "type": "isbn13",
@@ -217087,6 +217207,10 @@
       {
         "type": "isbn13",
         "value": "9780553093254"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593497036"
       }
     ],
     "editions": [
@@ -217094,6 +217218,7 @@
         "extent": 416,
         "imprint": "Bantam Spectra",
         "isPrimary": false,
+        "isbn10": "0553091867",
         "isbn13": "9780553091861",
         "kind": "print",
         "onsale": "1993-04-01T00:00:00.000Z"
@@ -217105,6 +217230,15 @@
         "isbn10": "0553093258",
         "isbn13": "9780553093254",
         "kind": "print"
+      },
+      {
+        "extent": 496,
+        "imprint": "Del Rey",
+        "isPrimary": false,
+        "isbn10": "0593497031",
+        "isbn13": "9780593497036",
+        "kind": "print",
+        "onsale": "2021-09-07T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -236262,7 +236396,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553506889"
+      },
+      {
+        "type": "isbn10",
         "value": "0553579037"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553506884"
       },
       {
         "type": "isbn13",
@@ -236270,6 +236412,15 @@
       }
     ],
     "editions": [
+      {
+        "extent": 352,
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
+        "isbn10": "0553506889",
+        "isbn13": "9780553506884",
+        "kind": "print",
+        "onsale": "1998-04-13T00:00:00.000Z"
+      },
       {
         "extent": 352,
         "imprint": "Random House",
@@ -236285,7 +236436,7 @@
       "startYear": 9
     },
     "legendsEra": "legendsNewRepublic",
-    "releaseDate": "1999-04-13T00:00:00.000Z",
+    "releaseDate": "1998-04-13T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "x-wing-isards-revenge",

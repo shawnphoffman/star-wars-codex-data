@@ -12,7 +12,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553506889"
+    },
+    {
+      "type": "isbn10",
       "value": "0553579037"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553506884"
     },
     {
       "type": "isbn13",
@@ -20,6 +28,15 @@
     }
   ],
   "editions": [
+    {
+      "extent": 352,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn10": "0553506889",
+      "isbn13": "9780553506884",
+      "kind": "print",
+      "onsale": "1998-04-13T00:00:00.000Z"
+    },
     {
       "extent": 352,
       "imprint": "Random House",
@@ -35,7 +52,7 @@
     "startYear": 9
   },
   "legendsEra": "legendsNewRepublic",
-  "releaseDate": "1999-04-13T00:00:00.000Z",
+  "releaseDate": "1998-04-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "x-wing-isards-revenge",

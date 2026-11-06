@@ -19,12 +19,24 @@
       "value": "0345530004"
     },
     {
+      "type": "isbn10",
+      "value": "0553073273"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593358767"
+    },
+    {
       "type": "isbn13",
       "value": "9780345530004"
     },
     {
       "type": "isbn13",
       "value": "9780553073270"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593358764"
     }
   ],
   "editions": [
@@ -48,9 +60,19 @@
       "extent": 368,
       "imprint": "Bantam Spectra",
       "isPrimary": false,
+      "isbn10": "0553073273",
       "isbn13": "9780553073270",
       "kind": "print",
       "onsale": "1991-05-01T00:00:00.000Z"
+    },
+    {
+      "extent": 528,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0593358767",
+      "isbn13": "9780593358764",
+      "kind": "print",
+      "onsale": "2021-06-15T00:00:00.000Z"
     }
   ],
   "format": "book",

@@ -52,9 +52,9 @@
       "slug": "michael-atiyeh"
     },
     {
-      "name": "Cam Smith",
+      "name": "Tom Smith",
       "role": "colorist",
-      "slug": "cam-smith"
+      "slug": "tom-smith"
     },
     {
       "name": "Jim Zub",
@@ -73,7 +73,7 @@
     },
     {
       "name": "Dave Land",
-      "role": "writer",
+      "role": "editor",
       "slug": "dave-land"
     },
     {
@@ -92,9 +92,9 @@
       "slug": "jeremy-barlow"
     },
     {
-      "name": "Andrew C. Robinson",
+      "name": "Andrew Robinson",
       "role": "writer",
-      "slug": "andrew-c-robinson"
+      "slug": "andrew-robinson"
     },
     {
       "name": "Ramón F. Bachs",
@@ -148,11 +148,33 @@
     },
     {
       "name": "Jim Pascoe",
+      "role": "writer",
       "slug": "jim-pascoe"
     },
     {
-      "name": "W. Haden Blackman",
-      "slug": "w-haden-blackman"
+      "name": "Ken Lizzl",
+      "role": "writer",
+      "slug": "ken-lizzl"
+    },
+    {
+      "name": "Núria Peris",
+      "role": "penciler",
+      "slug": "nuria-peris"
+    },
+    {
+      "name": "Scott Allie",
+      "role": "editor",
+      "slug": "scott-allie"
+    },
+    {
+      "name": "Michael Carriglitto",
+      "role": "editor",
+      "slug": "michael-carriglitto"
+    },
+    {
+      "name": "Dave Land",
+      "role": "writer",
+      "slug": "dave-land"
     }
   ],
   "displayTitle": "Tales #19",

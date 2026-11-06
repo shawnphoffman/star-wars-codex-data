@@ -11,8 +11,20 @@
   "displayTitle": "Dark Force Rising",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553085743"
+    },
+    {
+      "type": "isbn10",
+      "value": "0593358791"
+    },
+    {
       "type": "isbn13",
       "value": "9780553085747"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593358795"
     }
   ],
   "editions": [
@@ -26,9 +38,19 @@
       "extent": 384,
       "imprint": "Bantam Spectra",
       "isPrimary": false,
+      "isbn10": "0553085743",
       "isbn13": "9780553085747",
       "kind": "print",
       "onsale": "1992-05-01T00:00:00.000Z"
+    },
+    {
+      "extent": 480,
+      "imprint": "Del Rey",
+      "isPrimary": false,
+      "isbn10": "0593358791",
+      "isbn13": "9780593358795",
+      "kind": "print",
+      "onsale": "2021-09-07T00:00:00.000Z"
     }
   ],
   "format": "book",

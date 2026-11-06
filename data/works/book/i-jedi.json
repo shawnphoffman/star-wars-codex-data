@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "I, Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553108204"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553108200"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 480,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553108204",
+      "isbn13": "9780553108200",
+      "kind": "print",
+      "onsale": "1998-05-04T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 11
