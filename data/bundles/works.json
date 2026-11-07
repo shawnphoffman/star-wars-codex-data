@@ -17880,7 +17880,7 @@
     "editions": [
       {
         "extent": 336,
-        "imprint": "Random House",
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "055329802X",
         "isbn13": "9780553298024",
@@ -18922,7 +18922,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553089307"
+      },
+      {
+        "type": "isbn10",
         "value": "0553840088"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553089301"
       }
     ],
     "editions": [
@@ -18931,6 +18939,15 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553840088",
+        "kind": "print",
+        "onsale": "1995-04-01T00:00:00.000Z"
+      },
+      {
+        "extent": 345,
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
+        "isbn10": "0553089307",
+        "isbn13": "9780553089301",
         "kind": "print",
         "onsale": "1995-04-01T00:00:00.000Z"
       }
@@ -26189,7 +26206,7 @@
     "editions": [
       {
         "extent": 368,
-        "imprint": "Random House",
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553297996",
         "isbn13": "9780553297997",
@@ -81244,7 +81261,7 @@
     "editions": [
       {
         "extent": 368,
-        "imprint": "Random House",
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553297988",
         "isbn13": "9780553297980",
