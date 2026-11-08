@@ -1,0 +1,28 @@
+{
+  "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Nate Villanueva",
+      "role": "director",
+      "slug": "nate-villanueva"
+    },
+    {
+      "name": "Amanda Rose Muñoz",
+      "role": "writer",
+      "slug": "amanda-rose-munoz"
+    }
+  ],
+  "displayTitle": "The Return",
+  "era": "reignOfTheEmpire",
+  "format": "tvEpisode",
+  "parentWorkSlug": "the-bad-batch-season-three",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2024-03-06T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-bad-batch-s3e5",
+  "synopsis": "The Batch heads to an Imperial depot on Barton IV to crack a datapad, where Crosshair has unfinished business.",
+  "title": "The Return"
+}

@@ -48,7 +48,21 @@
     }
   ],
   "displayTitle": "Dooku: Jedi Lost",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9780593102817"
+    }
+  ],
   "editions": [
+    {
+      "imprint": "Random House Audio",
+      "isPrimary": true,
+      "isbn10": "0593102819",
+      "isbn13": "9780593102817",
+      "kind": "audio",
+      "onsale": "2019-04-30T00:00:00.000Z"
+    },
     {
       "extent": 480,
       "imprint": "Del Rey",

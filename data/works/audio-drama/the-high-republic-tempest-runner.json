@@ -13,9 +13,21 @@
     {
       "type": "isbn13",
       "value": "9780593358993"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593455869"
     }
   ],
   "editions": [
+    {
+      "imprint": "Random House Audio",
+      "isPrimary": true,
+      "isbn10": "059345586X",
+      "isbn13": "9780593455869",
+      "kind": "audio",
+      "onsale": "2021-08-31T00:00:00.000Z"
+    },
     {
       "extent": 592,
       "imprint": "Del Rey",
@@ -31,7 +43,7 @@
   "inUniverseDate": {
     "startYear": -231
   },
-  "releaseDate": "2022-03-15T00:00:00.000Z",
+  "releaseDate": "2021-08-31T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-tempest-runner",

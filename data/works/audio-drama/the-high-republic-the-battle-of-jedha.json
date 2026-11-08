@@ -102,9 +102,21 @@
     {
       "type": "isbn13",
       "value": "9780593597903"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593633601"
     }
   ],
   "editions": [
+    {
+      "imprint": "Random House Audio",
+      "isPrimary": true,
+      "isbn10": "0593633601",
+      "isbn13": "9780593633601",
+      "kind": "audio",
+      "onsale": "2023-01-03T00:00:00.000Z"
+    },
     {
       "extent": 304,
       "imprint": "Random House",
@@ -120,7 +132,7 @@
   "inUniverseDate": {
     "startYear": -382
   },
-  "releaseDate": "2023-02-14T00:00:00.000Z",
+  "releaseDate": "2023-01-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-the-battle-of-jedha",

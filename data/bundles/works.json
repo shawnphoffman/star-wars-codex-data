@@ -50616,7 +50616,21 @@
       }
     ],
     "displayTitle": "Dooku: Jedi Lost",
+    "editionIds": [
+      {
+        "type": "isbn13",
+        "value": "9780593102817"
+      }
+    ],
     "editions": [
+      {
+        "imprint": "Random House Audio",
+        "isPrimary": true,
+        "isbn10": "0593102819",
+        "isbn13": "9780593102817",
+        "kind": "audio",
+        "onsale": "2019-04-30T00:00:00.000Z"
+      },
       {
         "extent": 480,
         "imprint": "Del Rey",
@@ -104778,7 +104792,7 @@
       {
         "imprint": "Disney-Lucasfilm Press",
         "isPrimary": false,
-        "kind": "print",
+        "kind": "audio",
         "onsale": "2024-09-19T00:00:00.000Z"
       }
     ],
@@ -191319,6 +191333,34 @@
     "canonStatus": "canon",
     "creators": [
       {
+        "name": "Nate Villanueva",
+        "role": "director",
+        "slug": "nate-villanueva"
+      },
+      {
+        "name": "Amanda Rose Muñoz",
+        "role": "writer",
+        "slug": "amanda-rose-munoz"
+      }
+    ],
+    "displayTitle": "Point of No Return",
+    "era": "reignOfTheEmpire",
+    "format": "tvEpisode",
+    "parentWorkSlug": "the-bad-batch-season-three",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2024-04-03T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "the-bad-batch-s3e11",
+    "synopsis": "A Clone X trooper traces Phee Genoa to Pabu as the Batch prepares to leave the island.",
+    "title": "Point of No Return"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
         "name": "Steward Lee",
         "role": "director",
         "slug": "steward-lee"
@@ -191504,6 +191546,34 @@
     "slug": "the-bad-batch-s3e4",
     "synopsis": "Stranded in dangerous territory, Omega and Crosshair must work together.",
     "title": "A Different Approach"
+  },
+  {
+    "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Nate Villanueva",
+        "role": "director",
+        "slug": "nate-villanueva"
+      },
+      {
+        "name": "Amanda Rose Muñoz",
+        "role": "writer",
+        "slug": "amanda-rose-munoz"
+      }
+    ],
+    "displayTitle": "The Return",
+    "era": "reignOfTheEmpire",
+    "format": "tvEpisode",
+    "parentWorkSlug": "the-bad-batch-season-three",
+    "periodical": {
+      "publicationKind": "comic"
+    },
+    "releaseDate": "2024-03-06T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
+    "slug": "the-bad-batch-s3e5",
+    "synopsis": "The Batch heads to an Imperial depot on Barton IV to crack a datapad, where Crosshair has unfinished business.",
+    "title": "The Return"
   },
   {
     "canonStatus": "canon",
@@ -198727,16 +198797,6 @@
         "name": "Brent V. Friedman",
         "role": "writer",
         "slug": "brent-v-friedman"
-      },
-      {
-        "name": "Nate Villanueva",
-        "role": "director",
-        "slug": "nate-villanueva"
-      },
-      {
-        "name": "Amanda Rose Muñoz",
-        "role": "writer",
-        "slug": "amanda-rose-munoz"
       }
     ],
     "displayTitle": "Point of No Return",
@@ -213780,7 +213840,7 @@
       {
         "imprint": "Disney-Lucasfilm Press",
         "isPrimary": false,
-        "kind": "print",
+        "kind": "audio",
         "onsale": "2025-03-06T00:00:00.000Z"
       }
     ],
@@ -214287,7 +214347,7 @@
       {
         "imprint": "Disney-Lucasfilm Press",
         "isPrimary": false,
-        "kind": "print",
+        "kind": "audio",
         "onsale": "2024-11-14T00:00:00.000Z"
       }
     ],
@@ -214763,9 +214823,21 @@
       {
         "type": "isbn13",
         "value": "9780593723418"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593791103"
       }
     ],
     "editions": [
+      {
+        "imprint": "Random House Audio",
+        "isPrimary": true,
+        "isbn10": "059379110X",
+        "isbn13": "9780593791103",
+        "kind": "audio",
+        "onsale": "2024-12-03T00:00:00.000Z"
+      },
       {
         "extent": 528,
         "imprint": "Random House",
@@ -214781,7 +214853,7 @@
     "inUniverseDate": {
       "startYear": -228
     },
-    "releaseDate": "2025-05-13T00:00:00.000Z",
+    "releaseDate": "2024-12-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-tempest-breaker",
@@ -214803,9 +214875,21 @@
       {
         "type": "isbn13",
         "value": "9780593358993"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593455869"
       }
     ],
     "editions": [
+      {
+        "imprint": "Random House Audio",
+        "isPrimary": true,
+        "isbn10": "059345586X",
+        "isbn13": "9780593455869",
+        "kind": "audio",
+        "onsale": "2021-08-31T00:00:00.000Z"
+      },
       {
         "extent": 592,
         "imprint": "Del Rey",
@@ -214821,7 +214905,7 @@
     "inUniverseDate": {
       "startYear": -231
     },
-    "releaseDate": "2022-03-15T00:00:00.000Z",
+    "releaseDate": "2021-08-31T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-tempest-runner",
@@ -215031,9 +215115,21 @@
       {
         "type": "isbn13",
         "value": "9780593597903"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780593633601"
       }
     ],
     "editions": [
+      {
+        "imprint": "Random House Audio",
+        "isPrimary": true,
+        "isbn10": "0593633601",
+        "isbn13": "9780593633601",
+        "kind": "audio",
+        "onsale": "2023-01-03T00:00:00.000Z"
+      },
       {
         "extent": 304,
         "imprint": "Random House",
@@ -215049,7 +215145,7 @@
     "inUniverseDate": {
       "startYear": -382
     },
-    "releaseDate": "2023-02-14T00:00:00.000Z",
+    "releaseDate": "2023-01-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "the-high-republic-the-battle-of-jedha",
@@ -221708,16 +221804,6 @@
         "name": "Rick Famuyiwa",
         "role": "director",
         "slug": "rick-famuyiwa"
-      },
-      {
-        "name": "Nate Villanueva",
-        "role": "director",
-        "slug": "nate-villanueva"
-      },
-      {
-        "name": "Amanda Rose Muñoz",
-        "role": "writer",
-        "slug": "amanda-rose-munoz"
       }
     ],
     "displayTitle": "The Return",

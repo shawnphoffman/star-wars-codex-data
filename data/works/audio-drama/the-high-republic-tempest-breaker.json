@@ -38,9 +38,21 @@
     {
       "type": "isbn13",
       "value": "9780593723418"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593791103"
     }
   ],
   "editions": [
+    {
+      "imprint": "Random House Audio",
+      "isPrimary": true,
+      "isbn10": "059379110X",
+      "isbn13": "9780593791103",
+      "kind": "audio",
+      "onsale": "2024-12-03T00:00:00.000Z"
+    },
     {
       "extent": 528,
       "imprint": "Random House",
@@ -56,7 +68,7 @@
   "inUniverseDate": {
     "startYear": -228
   },
-  "releaseDate": "2025-05-13T00:00:00.000Z",
+  "releaseDate": "2024-12-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "the-high-republic-tempest-breaker",
