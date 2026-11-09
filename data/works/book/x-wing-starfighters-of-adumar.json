@@ -22,7 +22,7 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Random House",
+      "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553574183",
       "isbn13": "9780553574180",
@@ -32,7 +32,7 @@
   ],
   "format": "book",
   "inUniverseDate": {
-    "startYear": 12
+    "startYear": 13
   },
   "legendsEra": "legendsNewRepublic",
   "releaseDate": "1999-08-03T00:00:00.000Z",

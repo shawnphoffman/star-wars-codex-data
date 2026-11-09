@@ -105139,7 +105139,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553095404"
+      },
+      {
+        "type": "isbn10",
         "value": "0553575171"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553095401"
       }
     ],
     "editions": [
@@ -105148,6 +105156,15 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553575171",
+        "kind": "print",
+        "onsale": "1997-04-01T00:00:00.000Z"
+      },
+      {
+        "extent": 320,
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
+        "isbn10": "0553095404",
+        "isbn13": "9780553095401",
         "kind": "print",
         "onsale": "1997-04-01T00:00:00.000Z"
       }
@@ -201832,6 +201849,10 @@
     "displayTitle": "The Crystal Star",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553089293"
+      },
+      {
         "type": "isbn13",
         "value": "9780553089295"
       }
@@ -201841,6 +201862,7 @@
         "extent": 320,
         "imprint": "Bantam Spectra",
         "isPrimary": true,
+        "isbn10": "0553089293",
         "isbn13": "9780553089295",
         "kind": "print",
         "onsale": "1994-11-01T00:00:00.000Z"
@@ -239239,7 +239261,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553574183",
         "isbn13": "9780553574180",
@@ -239249,7 +239271,7 @@
     ],
     "format": "book",
     "inUniverseDate": {
-      "startYear": 12
+      "startYear": 13
     },
     "legendsEra": "legendsNewRepublic",
     "releaseDate": "1999-08-03T00:00:00.000Z",
