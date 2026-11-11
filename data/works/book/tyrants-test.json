@@ -12,7 +12,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553504800"
+    },
+    {
+      "type": "isbn10",
       "value": "055357275X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553504804"
     },
     {
       "type": "isbn13",
@@ -20,6 +28,15 @@
     }
   ],
   "editions": [
+    {
+      "extent": 419,
+      "imprint": "Bantam Spectra",
+      "isPrimary": false,
+      "isbn10": "0553504800",
+      "isbn13": "9780553504804",
+      "kind": "print",
+      "onsale": "1996-12-01T00:00:00.000Z"
+    },
     {
       "extent": 384,
       "imprint": "Random House",

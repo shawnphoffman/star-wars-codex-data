@@ -11432,6 +11432,27 @@
       }
     ],
     "displayTitle": "Before the Storm",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0553572733"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553572735"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 309,
+        "imprint": "Bantam Spectra",
+        "isPrimary": true,
+        "isbn10": "0553572733",
+        "isbn13": "9780553572735",
+        "kind": "print",
+        "onsale": "1996-03-01T00:00:00.000Z"
+      }
+    ],
     "format": "book",
     "inUniverseDate": {
       "startYear": 16
@@ -23428,7 +23449,7 @@
     "displayTitle": "Complete Locations",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2016-09-27T00:00:00.000Z"
@@ -23476,7 +23497,7 @@
     "displayTitle": "Complete Locations",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2005-10-17T00:00:00.000Z"
@@ -38133,7 +38154,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "isbn10": "140528000X",
         "isbn13": "9781405280006",
@@ -54787,7 +54808,7 @@
     "displayTitle": "Epic Battles",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2008-02-18T00:00:00.000Z"
@@ -59698,7 +59719,7 @@
     "displayTitle": "Finn's Mission",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2016-06-07T00:00:00.000Z"
@@ -69892,7 +69913,7 @@
     "displayTitle": "How Not to Get Eaten by Ewoks and Other Galactic Survival Skills",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2019-09-05T00:00:00.000Z"
@@ -74112,7 +74133,7 @@
     "displayTitle": "Inside the Worlds of Star Wars: Attack of the Clones",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2003-04-03T00:00:00.000Z"
@@ -74156,7 +74177,7 @@
     "displayTitle": "Inside the Worlds of Star Wars: Episode I",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2000-10-05T00:00:00.000Z"
@@ -74201,7 +74222,7 @@
     "displayTitle": "Inside the Worlds of Star Wars Trilogy",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2004-08-05T00:00:00.000Z"
@@ -109438,7 +109459,7 @@
     "displayTitle": "Ready, Set, Podrace!",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2007-09-17T00:00:00.000Z"
@@ -129499,13 +129520,13 @@
     ],
     "editions": [
       {
-        "extent": 352,
-        "imprint": "Random House",
+        "extent": 338,
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553572776",
         "isbn13": "9780553572773",
         "kind": "print",
-        "onsale": "1996-08-01T00:00:00.000Z"
+        "onsale": "1996-09-01T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -129513,7 +129534,7 @@
       "startYear": 16
     },
     "legendsEra": "legendsNewRepublic",
-    "releaseDate": "1996-08-01T00:00:00.000Z",
+    "releaseDate": "1996-09-01T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "shield-of-lies",
@@ -148556,7 +148577,7 @@
     "displayTitle": "A New Hope (Junior Novel)",
     "editions": [
       {
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-05-04T00:00:00.000Z"
@@ -148750,7 +148771,7 @@
     "displayTitle": "Absolutely Everything You Need to Know",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2015-09-04T00:00:00.000Z"
@@ -154174,7 +154195,7 @@
     "displayTitle": "Attack of the Clones: The Visual Dictionary",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2002-04-23T00:00:00.000Z"
@@ -154665,7 +154686,7 @@
     "displayTitle": "Character Encyclopedia",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2011-06-20T00:00:00.000Z"
@@ -155327,7 +155348,7 @@
     "displayTitle": "Complete Cross-Sections",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2007-03-19T00:00:00.000Z"
@@ -155371,7 +155392,7 @@
     "displayTitle": "Complete Vehicles",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2013-07-29T00:00:00.000Z"
@@ -157790,7 +157811,7 @@
     "displayTitle": "Episode I: The Data File",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "1999-11-06T00:00:00.000Z"
@@ -157941,7 +157962,7 @@
     "displayTitle": "Episode I: The Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "1999-05-01T00:00:00.000Z"
@@ -170693,7 +170714,7 @@
     "displayTitle": "Return of the Jedi (Junior Novel)",
     "editions": [
       {
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-05-04T00:00:00.000Z"
@@ -170918,7 +170939,7 @@
     "displayTitle": "Revenge of the Sith: The Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2005-04-02T00:00:00.000Z"
@@ -176082,7 +176103,7 @@
     "displayTitle": "The Blueprints: Designs and Artwork from the Skywalker Saga",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2025-10-07T00:00:00.000Z"
@@ -176169,7 +176190,7 @@
     "displayTitle": "The Clone Wars: Incredible Vehicles",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2011-08-15T00:00:00.000Z"
@@ -176234,7 +176255,7 @@
     "displayTitle": "The Clone Wars Visual Guide: Ultimate Battles",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2009-08-17T00:00:00.000Z"
@@ -176339,7 +176360,7 @@
     "displayTitle": "The Complete Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2006-09-25T00:00:00.000Z"
@@ -176362,7 +176383,7 @@
     "displayTitle": "The Dark Side Pocket Expert",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2023-04-06T00:00:00.000Z"
@@ -176449,7 +176470,7 @@
     "displayTitle": "The Empire Strikes Back (Junior Novel)",
     "editions": [
       {
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-05-04T00:00:00.000Z"
@@ -177132,7 +177153,7 @@
     "displayTitle": "The Mandalorian Visual Guide",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2026-04-02T00:00:00.000Z"
@@ -177438,7 +177459,7 @@
     "displayTitle": "The Old Republic Encyclopedia",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2012-10-15T00:00:00.000Z"
@@ -177601,7 +177622,7 @@
     "displayTitle": "The Power of Myth",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2000-04-05T00:00:00.000Z"
@@ -177714,7 +177735,7 @@
     "displayTitle": "The Rise of Skywalker: The Galactic Guide",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2019-12-20T00:00:00.000Z"
@@ -177747,7 +177768,7 @@
     "displayTitle": "The Rise of Skywalker: The Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2019-12-20T00:00:00.000Z"
@@ -177968,7 +177989,7 @@
     "displayTitle": "The Secret Life of Droids",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2012-03-19T00:00:00.000Z"
@@ -178422,7 +178443,7 @@
     "displayTitle": "The Ultimate Visual Guide",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2005-10-06T00:00:00.000Z"
@@ -178457,7 +178478,7 @@
     "displayTitle": "The Ultimate Visual Guide: Special Edition",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2007-05-03T00:00:00.000Z"
@@ -178497,7 +178518,7 @@
     "displayTitle": "The Ultimate Visual Guide: Updated and Expanded",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2012-04-30T00:00:00.000Z"
@@ -178537,7 +178558,7 @@
     "displayTitle": "The Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "1998-10-05T00:00:00.000Z"
@@ -178582,7 +178603,7 @@
     "displayTitle": "The Visual Encyclopedia",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-04-04T00:00:00.000Z"
@@ -178649,7 +178670,7 @@
     "displayTitle": "Timelines",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2023-04-07T00:00:00.000Z"
@@ -178679,7 +178700,7 @@
     "displayTitle": "Treasury: The Original Trilogy",
     "editions": [
       {
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2015-11-05T00:00:00.000Z"
@@ -180696,7 +180717,7 @@
     "displayTitle": "Year by Year: A Visual Chronicle",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2010-08-16T00:00:00.000Z"
@@ -180731,7 +180752,7 @@
     "displayTitle": "Year By Year: A Visual History, New Edition",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2021-09-23T00:00:00.000Z"
@@ -180771,7 +180792,7 @@
     "displayTitle": "Year By Year: A Visual History, Updated and Expanded Edition",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2016-09-06T00:00:00.000Z"
@@ -189002,7 +189023,7 @@
     "displayTitle": "The Acolyte: The Visual Guide",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2025-06-05T00:00:00.000Z"
@@ -189214,7 +189235,7 @@
     "displayTitle": "The Amazing Book of Star Wars",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2016-10-04T00:00:00.000Z"
@@ -194285,7 +194306,7 @@
     "displayTitle": "The Clone Wars Character Encyclopedia: Join the Battle!",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2021-04-01T00:00:00.000Z"
@@ -195440,7 +195461,7 @@
     "displayTitle": "The Clone Wars: Masters of the Force",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2012-12-17T00:00:00.000Z"
@@ -200552,7 +200573,7 @@
     "displayTitle": "The Clone Wars: Stand Aside - Bounty Hunters!",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2009-12-07T00:00:00.000Z"
@@ -201660,7 +201681,7 @@
     "displayTitle": "The Complete Visual Dictionary, New Edition",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2018-09-18T00:00:00.000Z"
@@ -204419,7 +204440,7 @@
     "displayTitle": "The Force Awakens: Graphics",
     "editions": [
       {
-        "imprint": "Egmont UK Ltd",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-05-04T00:00:00.000Z"
@@ -213183,7 +213204,7 @@
     "displayTitle": "The High Republic Character Encyclopedia",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2023-11-09T00:00:00.000Z"
@@ -218537,7 +218558,7 @@
     ],
     "editions": [
       {
-        "imprint": "Egmont",
+        "imprint": "Egmont UK",
         "isPrimary": true,
         "isbn13": "9781405287883",
         "kind": "print",
@@ -218922,7 +218943,7 @@
     "displayTitle": "The Last Jedi: The Visual Dictionary",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2017-12-15T00:00:00.000Z"
@@ -222682,7 +222703,7 @@
     "editions": [
       {
         "extent": 228,
-        "imprint": "VIZ Media",
+        "imprint": "Viz Media",
         "isPrimary": true,
         "isbn10": "1974760987",
         "isbn13": "9781974760985",
@@ -223455,6 +223476,10 @@
       {
         "type": "isbn10",
         "value": "0553100939"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553100938"
       }
     ],
     "editions": [
@@ -223463,6 +223488,7 @@
         "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553100939",
+        "isbn13": "9780553100938",
         "kind": "print",
         "onsale": "1996-12-01T00:00:00.000Z"
       }
@@ -227886,7 +227912,7 @@
     "displayTitle": "The Star Wars Book",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2020-10-01T00:00:00.000Z"
@@ -231962,7 +231988,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553504800"
+      },
+      {
+        "type": "isbn10",
         "value": "055357275X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780553504804"
       },
       {
         "type": "isbn13",
@@ -231970,6 +232004,15 @@
       }
     ],
     "editions": [
+      {
+        "extent": 419,
+        "imprint": "Bantam Spectra",
+        "isPrimary": false,
+        "isbn10": "0553504800",
+        "isbn13": "9780553504804",
+        "kind": "print",
+        "onsale": "1996-12-01T00:00:00.000Z"
+      },
       {
         "extent": 384,
         "imprint": "Random House",
@@ -232140,7 +232183,7 @@
     "displayTitle": "Ultimate Star Wars",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2015-04-28T00:00:00.000Z"
@@ -232195,7 +232238,7 @@
     "displayTitle": "Ultimate Star Wars, New Edition",
     "editions": [
       {
-        "imprint": "Dorling Kindersley",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2019-10-04T00:00:00.000Z"
@@ -235700,7 +235743,7 @@
     "displayTitle": "What Makes a Monster?",
     "editions": [
       {
-        "imprint": "DK Publishing",
+        "imprint": "DK",
         "isPrimary": true,
         "kind": "print",
         "onsale": "2014-04-21T00:00:00.000Z"

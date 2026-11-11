@@ -21,13 +21,13 @@
   ],
   "editions": [
     {
-      "extent": 352,
-      "imprint": "Random House",
+      "extent": 338,
+      "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553572776",
       "isbn13": "9780553572773",
       "kind": "print",
-      "onsale": "1996-08-01T00:00:00.000Z"
+      "onsale": "1996-09-01T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -35,7 +35,7 @@
     "startYear": 16
   },
   "legendsEra": "legendsNewRepublic",
-  "releaseDate": "1996-08-01T00:00:00.000Z",
+  "releaseDate": "1996-09-01T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "shield-of-lies",

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Before the Storm",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553572733"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553572735"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 309,
+      "imprint": "Bantam Spectra",
+      "isPrimary": true,
+      "isbn10": "0553572733",
+      "isbn13": "9780553572735",
+      "kind": "print",
+      "onsale": "1996-03-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 16
