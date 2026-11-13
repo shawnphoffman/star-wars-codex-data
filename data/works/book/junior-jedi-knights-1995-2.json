@@ -13,6 +13,14 @@
     {
       "type": "isbn10",
       "value": "0425167623"
+    },
+    {
+      "type": "isbn10",
+      "value": "1572970685"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781572970687"
     }
   ],
   "editions": [
@@ -21,6 +29,15 @@
       "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "0425167623",
+      "kind": "print",
+      "onsale": "1996-01-01T00:00:00.000Z"
+    },
+    {
+      "extent": 113,
+      "imprint": "Boulevard",
+      "isPrimary": false,
+      "isbn10": "1572970685",
+      "isbn13": "9781572970687",
       "kind": "print",
       "onsale": "1996-01-01T00:00:00.000Z"
     }

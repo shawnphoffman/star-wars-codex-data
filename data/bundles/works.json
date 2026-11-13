@@ -6645,8 +6645,8 @@
     ],
     "editions": [
       {
-        "extent": 320,
-        "imprint": "Random House",
+        "extent": 308,
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553298038",
         "isbn13": "9780553298031",
@@ -9275,7 +9275,7 @@
     "editions": [
       {
         "extent": 320,
-        "imprint": "Random House",
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553298054",
         "isbn13": "9780553298055",
@@ -82665,6 +82665,14 @@
       {
         "type": "isbn10",
         "value": "0425168255"
+      },
+      {
+        "type": "isbn10",
+        "value": "1572970359"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572970359"
       }
     ],
     "editions": [
@@ -82673,6 +82681,15 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425168255",
+        "kind": "print",
+        "onsale": "1995-10-01T00:00:00.000Z"
+      },
+      {
+        "extent": 116,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "1572970359",
+        "isbn13": "9781572970359",
         "kind": "print",
         "onsale": "1995-10-01T00:00:00.000Z"
       }
@@ -82711,6 +82728,14 @@
       {
         "type": "isbn10",
         "value": "0425167623"
+      },
+      {
+        "type": "isbn10",
+        "value": "1572970685"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572970687"
       }
     ],
     "editions": [
@@ -82719,6 +82744,15 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425167623",
+        "kind": "print",
+        "onsale": "1996-01-01T00:00:00.000Z"
+      },
+      {
+        "extent": 113,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "1572970685",
+        "isbn13": "9781572970687",
         "kind": "print",
         "onsale": "1996-01-01T00:00:00.000Z"
       }
@@ -82757,6 +82791,10 @@
       {
         "type": "isbn10",
         "value": "0425169553"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425169551"
       }
     ],
     "editions": [
@@ -82765,6 +82803,7 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425169553",
+        "isbn13": "9780425169551",
         "kind": "print",
         "onsale": "1996-04-01T00:00:00.000Z"
       }
@@ -126634,7 +126673,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345511220",
         "isbn13": "9780345511225",
@@ -129625,8 +129664,8 @@
     ],
     "editions": [
       {
-        "extent": 336,
-        "imprint": "Random House",
+        "extent": 301,
+        "imprint": "Bantam Spectra",
         "isPrimary": true,
         "isbn10": "0553298062",
         "isbn13": "9780553298062",
@@ -131705,6 +131744,10 @@
     "displayTitle": "Specter of the Past",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0553095420"
+      },
+      {
         "type": "isbn13",
         "value": "9780553095425"
       }
@@ -131720,6 +131763,7 @@
         "extent": 352,
         "imprint": "Bantam Spectra",
         "isPrimary": false,
+        "isbn10": "0553095420",
         "isbn13": "9780553095425",
         "kind": "print",
         "onsale": "1997-11-01T00:00:00.000Z"
@@ -233954,6 +233998,10 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0553100351"
+      },
+      {
+        "type": "isbn10",
         "value": "0553108506"
       },
       {
@@ -233970,6 +234018,7 @@
         "extent": 528,
         "imprint": "Bantam Spectra",
         "isPrimary": false,
+        "isbn10": "0553100351",
         "isbn13": "9780553100358",
         "kind": "print",
         "onsale": "1998-09-01T00:00:00.000Z"

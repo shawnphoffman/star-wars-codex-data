@@ -11,6 +11,10 @@
   "displayTitle": "Specter of the Past",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553095420"
+    },
+    {
       "type": "isbn13",
       "value": "9780553095425"
     }
@@ -26,6 +30,7 @@
       "extent": 352,
       "imprint": "Bantam Spectra",
       "isPrimary": false,
+      "isbn10": "0553095420",
       "isbn13": "9780553095425",
       "kind": "print",
       "onsale": "1997-11-01T00:00:00.000Z"

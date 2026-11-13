@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0553100351"
+    },
+    {
+      "type": "isbn10",
       "value": "0553108506"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 528,
       "imprint": "Bantam Spectra",
       "isPrimary": false,
+      "isbn10": "0553100351",
       "isbn13": "9780553100358",
       "kind": "print",
       "onsale": "1998-09-01T00:00:00.000Z"
