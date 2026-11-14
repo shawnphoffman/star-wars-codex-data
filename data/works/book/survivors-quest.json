@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0345459164"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345459169"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345459164",
+      "isbn13": "9780345459169",
       "kind": "print",
       "onsale": "2004-02-03T00:00:00.000Z"
     }

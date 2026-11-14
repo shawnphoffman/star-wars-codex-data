@@ -82842,6 +82842,10 @@
       {
         "type": "isbn10",
         "value": "1572971363"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572971363"
       }
     ],
     "editions": [
@@ -82850,6 +82854,7 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "1572971363",
+        "isbn13": "9781572971363",
         "kind": "print",
         "onsale": "1997-04-01T00:00:00.000Z"
       }
@@ -82886,6 +82891,10 @@
     "displayTitle": "Junior Jedi Knights: Vader's Fortress",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "1572971738"
+      },
+      {
         "type": "isbn13",
         "value": "9781572971738"
       }
@@ -82895,6 +82904,7 @@
         "extent": 128,
         "imprint": "Boulevard",
         "isPrimary": true,
+        "isbn10": "1572971738",
         "isbn13": "9781572971738",
         "kind": "print",
         "onsale": "1997-07-01T00:00:00.000Z"
@@ -82934,6 +82944,10 @@
       {
         "type": "isbn10",
         "value": "1572972084"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572972087"
       }
     ],
     "editions": [
@@ -82942,6 +82956,7 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "1572972084",
+        "isbn13": "9781572972087",
         "kind": "print",
         "onsale": "1997-09-01T00:00:00.000Z"
       }
@@ -182169,6 +182184,10 @@
       {
         "type": "isbn10",
         "value": "0345459164"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345459169"
       }
     ],
     "editions": [
@@ -182177,6 +182196,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345459164",
+        "isbn13": "9780345459169",
         "kind": "print",
         "onsale": "2004-02-03T00:00:00.000Z"
       }
