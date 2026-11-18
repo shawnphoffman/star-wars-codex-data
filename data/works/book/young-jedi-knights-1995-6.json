@@ -16,11 +16,28 @@
   "displayTitle": "Young Jedi Knights: Jedi Under Siege",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0752203754"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780752203751"
+    },
+    {
       "type": "isbn13",
       "value": "9781572971639"
     }
   ],
   "editions": [
+    {
+      "extent": 228,
+      "imprint": "Boulevard",
+      "isPrimary": false,
+      "isbn10": "0752203754",
+      "isbn13": "9780752203751",
+      "kind": "print",
+      "onsale": "1996-09-01T00:00:00.000Z"
+    },
     {
       "extent": 240,
       "imprint": "Boulevard",

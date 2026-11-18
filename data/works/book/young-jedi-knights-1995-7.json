@@ -16,6 +16,10 @@
   "displayTitle": "Young Jedi Knights: Shards of Alderaan",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1572972076"
+    },
+    {
       "type": "isbn13",
       "value": "9781572972070"
     }
@@ -25,6 +29,7 @@
       "extent": 240,
       "imprint": "Boulevard",
       "isPrimary": true,
+      "isbn10": "1572972076",
       "isbn13": "9781572972070",
       "kind": "print",
       "onsale": "1997-01-01T00:00:00.000Z"

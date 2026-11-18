@@ -130305,11 +130305,40 @@
   {
     "bookType": "graphicNovel",
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Cavan Scott",
+        "role": "writer",
+        "slug": "cavan-scott"
+      },
+      {
+        "name": "Christian Colbert",
+        "role": "penciler",
+        "slug": "christian-colbert"
+      }
+    ],
     "displayTitle": "Smugglers and Scoundrels: The Race for Jabba's Bounty",
+    "editionIds": [
+      {
+        "type": "isbn13",
+        "value": "9781545836477"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 112,
+        "imprint": "Mad Cave Studios",
+        "isPrimary": true,
+        "isbn13": "9781545836477",
+        "kind": "print",
+        "onsale": "2026-11-17T00:00:00.000Z"
+      }
+    ],
     "era": "reignOfTheEmpire",
     "format": "book",
     "releaseDate": "2026-11-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "smugglers-and-scoundrels-the-race-for-jabbas-bounty",
     "synopsis": "Smugglers and Scoundrels: The Race for Jabba's Bounty is the first entry in the Mad Cave Studios Smugglers and Scoundrels series Race to the finish line with some of the galaxy's most infamous rascals and see who will get their hands on the treasure first! Will it be Han Solo and Chewbacca aboard the trusty Millennium Falcon? Or Han's old rival, everyone's favorite fast-talking Lepi, Jaxxon T. Tumperakki, and his lucky Rabbit's Foot? Or will it be Boba Fett, Greedo, or another competitor who takes the crown? Find out in this rip-roaring ride full of risky maneuvers, double-crosses, and questionable morals as smugglers and scoundrels from across the galaxy race to recover Jabba's prize!",
     "title": "Smugglers and Scoundrels: The Race for Jabba's Bounty"
@@ -167819,7 +167848,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-11-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-insider-rebellion-the-story-of-rogue-one-and-andor",
     "synopsis": "A deluxe hardcover collection drawn from interviews and features from Star Wars Insider. Covering the making of Rogue One: A Star Wars Story and Andor , the book celebrates the 10th anniversary of the Star Wars spin-off movie and subsequent TV series. The in-depth companion to the hit 2016 feature film Rogue One: A Star Wars Story and linked Disney+ series, Andor . This deluxe collector's edition explores the making of both projects through interviews with cast members and crew, including Kathleen Kennedy, Gareth Edwards, John Knoll, John Gilroy, Felicity Jones, Ben Mendelsohn, Genevieve O'Reilly, Stellan Skarsgard, Riz Ahmed, Forest Whitaker, and more. Featuring a plot synopsis for each individual episode of Andor and for Rogue One , and illustrated with incredible photos and concept art, the book examines the characters and themes of both productions and their impact on the Star Wars galaxy.",
     "title": "Star Wars Insider: Rebellion: The Story of Rogue One and Andor"
@@ -171798,7 +171828,8 @@
     ],
     "format": "book",
     "releaseDate": "2026-11-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "star-wars-so-you-think-you-know-star-wars",
     "synopsis": "So You Think You Know Star Wars, subtitled 50 Years of Trivia and Fun Facts from a Galaxy Far, Far Away. . . ., is a trivia book Test your Star Wars knowledge with this highly entertaining, official collection of trivia and fun facts spanning from the dawn of A New Hope to its 50th anniversary and everything Star Wars in-between - the films, animation, TV series, collectibles, fandom, cultural impact, and much more. Featuring 400+ multiple-choice questions, this trivia and quiz book is a must-have for Star Wars fans of all ages. Every answer goes beyond simple fact to include fascinating context and additional trivia, making this both a fun-filled challenge and a rewarding read. HUNDREDS OF QUESTIONS: More than 400 multiple-choice questions and answers, with 10 or more in each of 36 inventive categories. ILLUMINATING ANSWERS: Much more than just single-word answers without explanation, these answers run several sentences to a paragraph. The experience of the question-and-answer pairing really feels like being shown behind the curtain and learning new things when taking the quizzes. BRAND NEW ART: Topical, newly commissioned 4-color spot art opens each quiz section. FAN EXPERT AUTHORS: The authors run a Star Wars fan network, co-host a Star Wars podcast, and have been holding Star Wars Trivia Challenges at conventions for a decade.",
     "title": "Star Wars: So You Think You Know Star Wars"
@@ -244397,6 +244428,14 @@
       {
         "type": "isbn10",
         "value": "0425169502"
+      },
+      {
+        "type": "isbn10",
+        "value": "1572971290"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572971295"
       }
     ],
     "editions": [
@@ -244404,6 +244443,15 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425169502",
+        "kind": "print",
+        "onsale": "1996-06-01T00:00:00.000Z"
+      },
+      {
+        "extent": 240,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "1572971290",
+        "isbn13": "9781572971295",
         "kind": "print",
         "onsale": "1996-06-01T00:00:00.000Z"
       }
@@ -244453,11 +244501,28 @@
     "displayTitle": "Young Jedi Knights: Jedi Under Siege",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0752203754"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780752203751"
+      },
+      {
         "type": "isbn13",
         "value": "9781572971639"
       }
     ],
     "editions": [
+      {
+        "extent": 228,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "0752203754",
+        "isbn13": "9780752203751",
+        "kind": "print",
+        "onsale": "1996-09-01T00:00:00.000Z"
+      },
       {
         "extent": 240,
         "imprint": "Boulevard",
@@ -244512,6 +244577,10 @@
     "displayTitle": "Young Jedi Knights: Shards of Alderaan",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "1572972076"
+      },
+      {
         "type": "isbn13",
         "value": "9781572972070"
       }
@@ -244521,6 +244590,7 @@
         "extent": 240,
         "imprint": "Boulevard",
         "isPrimary": true,
+        "isbn10": "1572972076",
         "isbn13": "9781572972070",
         "kind": "print",
         "onsale": "1997-01-01T00:00:00.000Z"
