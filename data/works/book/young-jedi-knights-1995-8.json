@@ -16,15 +16,20 @@
   "displayTitle": "Young Jedi Knights: Diversity Alliance",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1572972343"
+    },
+    {
       "type": "isbn13",
       "value": "9781572972346"
     }
   ],
   "editions": [
     {
-      "extent": 240,
+      "extent": 232,
       "imprint": "Boulevard",
       "isPrimary": true,
+      "isbn10": "1572972343",
       "isbn13": "9781572972346",
       "kind": "print",
       "onsale": "1997-04-01T00:00:00.000Z"
