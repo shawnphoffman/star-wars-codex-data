@@ -4723,8 +4723,8 @@
     ],
     "editions": [
       {
-        "extent": 368,
-        "imprint": "Random House",
+        "extent": 352,
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428609",
         "isbn13": "9780345428608",
@@ -4767,8 +4767,8 @@
     ],
     "editions": [
       {
-        "extent": 368,
-        "imprint": "Random House",
+        "extent": 348,
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428595",
         "isbn13": "9780345428592",
@@ -9629,6 +9629,10 @@
       {
         "type": "isbn10",
         "value": "0345428579"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428578"
       }
     ],
     "editions": [
@@ -9637,6 +9641,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428579",
+        "isbn13": "9780345428578",
         "kind": "print",
         "onsale": "2000-10-31T00:00:00.000Z"
       }
@@ -28767,6 +28772,27 @@
       }
     ],
     "displayTitle": "Dark Journey",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "0345428692"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428691"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 301,
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "isbn10": "0345428692",
+        "isbn13": "9780345428691",
+        "kind": "print",
+        "onsale": "2002-01-29T00:00:00.000Z"
+      }
+    ],
     "format": "book",
     "inUniverseDate": {
       "startYear": 27
@@ -28970,7 +28996,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428544",
         "isbn13": "9780345428547",
@@ -29014,7 +29040,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428560",
         "isbn13": "9780345428561",
@@ -43951,6 +43977,10 @@
     "displayTitle": "Destiny's Way",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345428501"
+      },
+      {
         "type": "isbn13",
         "value": "9780345428509"
       }
@@ -43960,6 +43990,7 @@
         "extent": 464,
         "imprint": "Del Rey",
         "isPrimary": true,
+        "isbn10": "0345428501",
         "isbn13": "9780345428509",
         "kind": "print",
         "onsale": "2002-10-01T00:00:00.000Z"
@@ -51552,7 +51583,7 @@
     "editions": [
       {
         "extent": 304,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428641",
         "isbn13": "9780345428646",
@@ -51587,6 +51618,10 @@
       {
         "type": "isbn10",
         "value": "0345446100"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345446107"
       }
     ],
     "editions": [
@@ -51595,6 +51630,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345446100",
+        "isbn13": "9780345446107",
         "kind": "print",
         "onsale": "2001-07-31T00:00:00.000Z"
       }
@@ -54692,6 +54728,10 @@
       {
         "type": "isbn10",
         "value": "0345428668"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428660"
       }
     ],
     "editions": [
@@ -54700,6 +54740,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428668",
+        "isbn13": "9780345428660",
         "kind": "print",
         "onsale": "2002-03-26T00:00:00.000Z"
       }
@@ -54730,7 +54771,11 @@
     "editionIds": [
       {
         "type": "isbn10",
-        "value": "0553713027"
+        "value": "0345428684"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428684"
       }
     ],
     "editions": [
@@ -54738,7 +54783,8 @@
         "extent": 366,
         "imprint": "Del Rey",
         "isPrimary": true,
-        "isbn10": "0553713027",
+        "isbn10": "0345428684",
+        "isbn13": "9780345428684",
         "kind": "print",
         "onsale": "2002-05-28T00:00:00.000Z"
       }
@@ -60107,7 +60153,7 @@
     "editions": [
       {
         "extent": 432,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428706",
         "isbn13": "9780345428707",
@@ -60147,6 +60193,10 @@
       {
         "type": "isbn10",
         "value": "0345428714"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428714"
       }
     ],
     "editions": [
@@ -60155,6 +60205,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428714",
+        "isbn13": "9780345428714",
         "kind": "print",
         "onsale": "2003-05-05T00:00:00.000Z"
       }
@@ -60191,6 +60242,10 @@
       {
         "type": "isbn10",
         "value": "0345428722"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428721"
       }
     ],
     "editions": [
@@ -60199,6 +60254,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428722",
+        "isbn13": "9780345428721",
         "kind": "print",
         "onsale": "2003-07-01T00:00:00.000Z"
       }
@@ -132292,6 +132348,27 @@
       }
     ],
     "displayTitle": "Star by Star",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "034542848X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345428486"
+      }
+    ],
+    "editions": [
+      {
+        "extent": 606,
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "isbn10": "034542848X",
+        "isbn13": "9780345428486",
+        "kind": "print",
+        "onsale": "2001-10-30T00:00:00.000Z"
+      }
+    ],
     "format": "book",
     "inUniverseDate": {
       "startYear": 27
@@ -204123,7 +204200,7 @@
     "editions": [
       {
         "extent": 320,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428757",
         "isbn13": "9780345428752",
@@ -217089,7 +217166,7 @@
     "editions": [
       {
         "extent": 544,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345463048",
         "isbn13": "9780345463043",
@@ -228461,6 +228538,10 @@
       {
         "type": "isbn10",
         "value": "0345463056"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345463050"
       }
     ],
     "editions": [
@@ -228469,6 +228550,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345463056",
+        "isbn13": "9780345463050",
         "kind": "print",
         "onsale": "2005-12-27T00:00:00.000Z"
       }
@@ -228887,6 +228969,10 @@
     "displayTitle": "The Unifying Force",
     "editionIds": [
       {
+        "type": "isbn10",
+        "value": "0345428528"
+      },
+      {
         "type": "isbn13",
         "value": "9780345428523"
       }
@@ -228896,6 +228982,7 @@
         "extent": 544,
         "imprint": "Del Rey",
         "isPrimary": true,
+        "isbn10": "0345428528",
         "isbn13": "9780345428523",
         "kind": "print",
         "onsale": "2003-11-04T00:00:00.000Z"
@@ -228983,6 +229070,10 @@
       {
         "type": "isbn10",
         "value": "034546303X"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780345463036"
       }
     ],
     "editions": [
@@ -228991,6 +229082,7 @@
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "034546303X",
+        "isbn13": "9780345463036",
         "kind": "print",
         "onsale": "2005-09-27T00:00:00.000Z"
       }
@@ -231386,7 +231478,7 @@
     "editions": [
       {
         "extent": 320,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "034542865X",
         "isbn13": "9780345428653",
@@ -244075,6 +244167,10 @@
       {
         "type": "isbn10",
         "value": "0425163628"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425163627"
       }
     ],
     "editions": [
@@ -244083,6 +244179,7 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425163628",
+        "isbn13": "9780425163627",
         "kind": "print",
         "onsale": "1998-05-01T00:00:00.000Z"
       }
@@ -244198,6 +244295,10 @@
       {
         "type": "isbn10",
         "value": "0425165191"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425165195"
       }
     ],
     "editions": [
@@ -244206,6 +244307,7 @@
         "imprint": "Boulevard",
         "isPrimary": true,
         "isbn10": "0425165191",
+        "isbn13": "9780425165195",
         "kind": "print",
         "onsale": "1998-12-01T00:00:00.000Z"
       }

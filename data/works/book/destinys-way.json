@@ -11,6 +11,10 @@
   "displayTitle": "Destiny's Way",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345428501"
+    },
+    {
       "type": "isbn13",
       "value": "9780345428509"
     }
@@ -20,6 +24,7 @@
       "extent": 464,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345428501",
       "isbn13": "9780345428509",
       "kind": "print",
       "onsale": "2002-10-01T00:00:00.000Z"

@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "0425165191"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780425165195"
     }
   ],
   "editions": [
@@ -26,6 +30,7 @@
       "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "0425165191",
+      "isbn13": "9780425165195",
       "kind": "print",
       "onsale": "1998-12-01T00:00:00.000Z"
     }

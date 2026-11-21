@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Star by Star",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034542848X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345428486"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 606,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "034542848X",
+      "isbn13": "9780345428486",
+      "kind": "print",
+      "onsale": "2001-10-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 27

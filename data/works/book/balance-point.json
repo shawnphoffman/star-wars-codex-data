@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0345428579"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345428578"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345428579",
+      "isbn13": "9780345428578",
       "kind": "print",
       "onsale": "2000-10-31T00:00:00.000Z"
     }

@@ -12,7 +12,11 @@
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0553713027"
+      "value": "0345428684"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345428684"
     }
   ],
   "editions": [
@@ -20,7 +24,8 @@
       "extent": 366,
       "imprint": "Del Rey",
       "isPrimary": true,
-      "isbn10": "0553713027",
+      "isbn10": "0345428684",
+      "isbn13": "9780345428684",
       "kind": "print",
       "onsale": "2002-05-28T00:00:00.000Z"
     }

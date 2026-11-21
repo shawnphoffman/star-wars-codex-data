@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "034546303X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345463036"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "034546303X",
+      "isbn13": "9780345463036",
       "kind": "print",
       "onsale": "2005-09-27T00:00:00.000Z"
     }
