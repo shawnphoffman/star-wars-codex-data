@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Super Graphic: A Visual Guide to a Galaxy Far, Far Away",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452161208"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452161204"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1452161208",
+      "isbn13": "9781452161204",
       "kind": "print",
       "onsale": "2017-07-25T00:00:00.000Z"
     }

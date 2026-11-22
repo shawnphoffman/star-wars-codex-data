@@ -25,6 +25,10 @@
       "value": "1368003087"
     },
     {
+      "type": "isbn10",
+      "value": "1405285486"
+    },
+    {
       "type": "isbn13",
       "value": "9781368003087"
     },
@@ -47,6 +51,7 @@
       "extent": 160,
       "imprint": "Egmont UK",
       "isPrimary": false,
+      "isbn10": "1405285486",
       "isbn13": "9781405285483",
       "kind": "print",
       "onsale": "2017-03-09T00:00:00.000Z"

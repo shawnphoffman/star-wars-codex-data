@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Ultimate Pop-Up Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683834895"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683834892"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 5,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1683834895",
+      "isbn13": "9781683834892",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

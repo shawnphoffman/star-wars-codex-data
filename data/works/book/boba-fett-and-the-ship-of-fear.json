@@ -26,6 +26,10 @@
   "displayTitle": "Adventures: Boba Fett And The Ship Of Fear",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1595824367"
+    },
+    {
       "type": "isbn13",
       "value": "9781595824363"
     }
@@ -35,6 +39,7 @@
       "extent": 80,
       "imprint": "Dark Horse Comics",
       "isPrimary": true,
+      "isbn10": "1595824367",
       "isbn13": "9781595824363",
       "kind": "print",
       "onsale": "2011-04-27T00:00:00.000Z"

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "\"I'd Just As Soon Kiss a Wookiee!\": The Quotable Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345407601"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345407603"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 103,
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "isbn10": "0345407601",
+      "isbn13": "9780345407603",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "Age of Resistance: The Official Collector's Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787735761"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787735767"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Titan Magazines",
       "isPrimary": true,
+      "isbn10": "1787735761",
+      "isbn13": "9781787735767",
       "kind": "print",
       "onsale": "2021-03-09T00:00:00.000Z"
     }

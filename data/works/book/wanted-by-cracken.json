@@ -49,10 +49,23 @@
     }
   ],
   "displayTitle": "Wanted by Cracken",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311896"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311891"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311896",
+      "isbn13": "9780874311891",
       "kind": "print",
       "onsale": "1993-06-01T00:00:00.000Z"
     }

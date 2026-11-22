@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Who's Who: A Pocket Guide to the Characters of the Star Wars Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0762403217"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780762403219"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Running Press",
       "isPrimary": true,
+      "isbn10": "0762403217",
+      "isbn13": "9780762403219",
       "kind": "print",
       "onsale": "1998-10-01T00:00:00.000Z"
     }

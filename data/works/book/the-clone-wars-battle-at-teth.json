@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Battle At Teth",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448449935"
+    },
+    {
       "type": "isbn13",
       "value": "9780448449937"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448449935",
       "isbn13": "9780448449937",
       "kind": "print",
       "onsale": "2008-07-26T00:00:00.000Z"

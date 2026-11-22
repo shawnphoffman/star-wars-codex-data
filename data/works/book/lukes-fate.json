@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Luke's Fate",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0679858555"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780679858553"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House",
+      "isPrimary": true,
+      "isbn10": "0679858555",
+      "isbn13": "9780679858553",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

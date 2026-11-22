@@ -11,6 +11,10 @@
   "displayTitle": "A New Hope Graphic Novel Adaptation",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1684053803"
+    },
+    {
       "type": "isbn13",
       "value": "9781684053803"
     }
@@ -20,6 +24,7 @@
       "extent": 72,
       "imprint": "IDW Publishing",
       "isPrimary": true,
+      "isbn10": "1684053803",
       "isbn13": "9781684053803",
       "kind": "print",
       "onsale": "2018-09-18T00:00:00.000Z"

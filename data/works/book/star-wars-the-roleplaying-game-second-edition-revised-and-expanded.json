@@ -9,10 +9,22 @@
     }
   ],
   "displayTitle": "The Roleplaying Game, Second Edition, Revised and Expanded",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431268X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312683"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "087431268X",
+      "isbn13": "9780874312683",
       "kind": "print",
       "onsale": "1996-08-01T00:00:00.000Z"
     }

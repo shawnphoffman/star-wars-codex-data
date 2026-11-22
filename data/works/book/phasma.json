@@ -17,6 +17,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "152479631X"
+    },
+    {
+      "type": "isbn10",
       "value": "1524796336"
     },
     {
@@ -33,6 +37,7 @@
       "extent": 380,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "152479631X",
       "isbn13": "9781524796310",
       "kind": "print",
       "onsale": "2017-09-01T00:00:00.000Z"

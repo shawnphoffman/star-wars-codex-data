@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Journey Through Space",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756611598"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611590"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756611598",
+      "isbn13": "9780756611590",
+      "kind": "print",
+      "onsale": "2005-05-16T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

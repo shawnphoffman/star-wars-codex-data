@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Force Awakens: New Adventures",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465438130"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465438133"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465438130",
+      "isbn13": "9781465438133",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "A Droid's Tale",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307757048"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307757043"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307757048",
+      "isbn13": "9780307757043",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

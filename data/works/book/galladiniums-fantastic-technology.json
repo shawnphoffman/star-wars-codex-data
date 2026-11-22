@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Galladinium's Fantastic Technology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312159"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312157"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312159",
+      "isbn13": "9780874312157",
       "kind": "print",
       "onsale": "1995-03-01T00:00:00.000Z"
     }

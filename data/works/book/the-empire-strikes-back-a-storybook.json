@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back: A Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590066560"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590066563"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590066560",
+      "isbn13": "9780590066563",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

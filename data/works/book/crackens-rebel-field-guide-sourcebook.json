@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Cracken's Rebel Field Guide (sourcebook)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311187"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311181"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311187",
+      "isbn13": "9780874311181",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

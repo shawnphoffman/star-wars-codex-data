@@ -13,14 +13,19 @@
     {
       "type": "isbn10",
       "value": "0375815945"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375815942"
     }
   ],
   "editions": [
     {
       "extent": 128,
-      "imprint": "Random House",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
       "isbn10": "0375815945",
+      "isbn13": "9780375815942",
       "kind": "print",
       "onsale": "2002-04-01T00:00:00.000Z"
     }

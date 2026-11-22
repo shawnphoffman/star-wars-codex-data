@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    }
+  ],
+  "displayTitle": "The Guns of Kelrodo-Ai",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -17
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2012-03-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-guns-of-kelrodo-ai",
+  "synopsis": "\"The Guns of Kelrodo-Ai\" is a short story written by Jason Fry that appeared in the magazine Star Wars Insider 132 in 2012, as a tie-in to The Essential Guide to Warfare.",
+  "title": "The Guns of Kelrodo-Ai"
+}

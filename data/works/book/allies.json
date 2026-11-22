@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Allies",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345509145"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345509147"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345509145",
+      "isbn13": "9780345509147",
+      "kind": "print",
+      "onsale": "2010-05-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 44

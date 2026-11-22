@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "Complete Vehicles, New Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744020573"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744020571"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 264,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744020573",
+      "isbn13": "9780744020571",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "releaseDate": "2020-11-05T00:00:00.000Z",
   "releaseDisplayState": "released",

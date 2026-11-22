@@ -11,6 +11,10 @@
   "displayTitle": "This is Rey",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1368057349"
+    },
+    {
       "type": "isbn13",
       "value": "9781368057349"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368057349",
       "isbn13": "9781368057349",
       "kind": "print",
       "onsale": "2023-10-17T00:00:00.000Z"

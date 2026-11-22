@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Adventures in Hyperspace: Shinbone Showdown",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545213592"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545213592"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545213592",
+      "isbn13": "9780545213592",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -3

@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "Timelines",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744060877"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744060874"
+    }
+  ],
   "editions": [
     {
+      "extent": 344,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0744060877",
+      "isbn13": "9780744060874",
       "kind": "print",
       "onsale": "2023-04-07T00:00:00.000Z"
     }

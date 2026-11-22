@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "William Shakespeare's The Merry Rise of Skywalker: Star Wars Part the Ninth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "168369189X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683691891"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Quirk Books",
       "isPrimary": true,
+      "isbn10": "168369189X",
+      "isbn13": "9781683691891",
       "kind": "print",
       "onsale": "2020-07-28T00:00:00.000Z"
     }

@@ -39,10 +39,23 @@
     }
   ],
   "displayTitle": "Ultimate Alien Anthology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786928883"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786928880"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786928883",
+      "isbn13": "9780786928880",
       "kind": "print",
       "onsale": "2003-04-19T00:00:00.000Z"
     }

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "A New Hope - The Film Novel",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "2012317065"
+    },
+    {
+      "type": "isbn13",
+      "value": "9782012317062"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Hachette Jeunesse",
       "isPrimary": true,
+      "isbn10": "2012317065",
+      "isbn13": "9782012317062",
       "kind": "print",
       "onsale": "2015-09-09T00:00:00.000Z"
     }

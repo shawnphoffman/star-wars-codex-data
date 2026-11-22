@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Wildlife of Star Wars: A Field Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811828697"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811828697"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811828697",
+      "isbn13": "9780811828697",
       "kind": "print",
       "onsale": "2001-11-01T00:00:00.000Z"
     }

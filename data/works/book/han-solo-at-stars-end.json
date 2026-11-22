@@ -32,15 +32,11 @@
   "editionIds": [
     {
       "type": "isbn10",
-      "value": "0345379802"
+      "value": "0345282515"
     },
     {
       "type": "isbn13",
       "value": "9780345282514"
-    },
-    {
-      "type": "isbn13",
-      "value": "9780345379801"
     }
   ],
   "editions": [
@@ -48,16 +44,8 @@
       "extent": 208,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345282515",
       "isbn13": "9780345282514",
-      "kind": "print",
-      "onsale": "1979-04-01T00:00:00.000Z"
-    },
-    {
-      "extent": 208,
-      "imprint": "Del Rey",
-      "isPrimary": false,
-      "isbn10": "0345379802",
-      "isbn13": "9780345379801",
       "kind": "print",
       "onsale": "1979-04-01T00:00:00.000Z"
     }

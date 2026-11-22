@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Darth Vader: A 3-D Reconstruction Log",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545312159"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545312158"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 22,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545312159",
+      "isbn13": "9780545312158",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

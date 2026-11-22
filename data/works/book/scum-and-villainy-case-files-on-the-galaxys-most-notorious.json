@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Scum and Villainy: Case Files on the Galaxy's Most Notorious",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "076036205X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780760362051"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "isPrimary": true,
+      "isbn10": "076036205X",
+      "isbn13": "9780760362051",
+      "kind": "print",
+      "onsale": "2018-10-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

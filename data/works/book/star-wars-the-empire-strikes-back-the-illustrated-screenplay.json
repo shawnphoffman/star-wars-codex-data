@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back: The Illustrated Screenplay",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345420705"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345420701"
+    }
+  ],
   "editions": [
     {
+      "extent": 136,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345420705",
+      "isbn13": "9780345420701",
       "kind": "print",
       "onsale": "1998-03-01T00:00:00.000Z"
     }

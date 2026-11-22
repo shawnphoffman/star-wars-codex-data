@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "From Star Wars to Indiana Jones: The Best of the Lucasfilm Archives",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811809722"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811809726"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811809722",
+      "isbn13": "9780811809726",
       "kind": "print",
       "onsale": "1995-01-01T00:00:00.000Z"
     }

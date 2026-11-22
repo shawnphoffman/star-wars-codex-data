@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian: Guide to Season One",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787737101"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787737105"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Titan Comics",
       "isPrimary": true,
+      "isbn10": "1787737101",
+      "isbn13": "9781787737105",
       "kind": "print",
       "onsale": "2021-05-18T00:00:00.000Z"
     }

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Attack of the Clones (Mighty Chronicles)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811834182"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811834186"
+    }
+  ],
   "editions": [
     {
+      "extent": 341,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811834182",
+      "isbn13": "9780811834186",
       "kind": "print",
       "onsale": "2002-04-23T00:00:00.000Z"
     }

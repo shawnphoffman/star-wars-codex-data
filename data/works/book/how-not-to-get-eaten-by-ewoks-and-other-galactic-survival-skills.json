@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "How Not to Get Eaten by Ewoks and Other Galactic Survival Skills",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465475524"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465475527"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465475524",
+      "isbn13": "9781465475527",
       "kind": "print",
       "onsale": "2019-09-05T00:00:00.000Z"
     }

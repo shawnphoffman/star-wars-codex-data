@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Mandalorian: The Path of the Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368075940"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368075947"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368075940",
+      "isbn13": "9781368075947",
+      "kind": "print",
+      "onsale": "2022-01-11T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

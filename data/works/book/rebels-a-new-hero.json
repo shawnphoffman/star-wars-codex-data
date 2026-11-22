@@ -11,6 +11,10 @@
   "displayTitle": "Rebels: A New Hero",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484706692"
+    },
+    {
       "type": "isbn13",
       "value": "9781484706695"
     }
@@ -20,6 +24,7 @@
       "extent": 48,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484706692",
       "isbn13": "9781484706695",
       "kind": "print",
       "onsale": "2014-08-05T00:00:00.000Z"

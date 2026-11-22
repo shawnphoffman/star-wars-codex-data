@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "Art: Illustration",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419704303"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419704307"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "1419704303",
+      "isbn13": "9781419704307",
+      "kind": "print",
+      "onsale": "2012-10-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

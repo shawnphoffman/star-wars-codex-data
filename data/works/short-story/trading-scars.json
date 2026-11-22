@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Samantha Wallschlaeger",
+      "role": "writer",
+      "slug": "samantha-wallschlaeger"
+    }
+  ],
+  "displayTitle": "Trading Scars",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -3629
+  },
+  "legendsEra": "legendsOldRepublic",
+  "releaseDate": "2016-11-17T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "trading-scars",
+  "synopsis": "\"Trading Scars\" is a short story written by Samantha Wallschlaeger and published in the developer blog for Star Wars: The Old Republic on August 17, 2017. It serves as a prelude to the Flashpoint: Crisis on Umbara.",
+  "title": "Trading Scars"
+}

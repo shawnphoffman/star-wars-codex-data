@@ -24,6 +24,25 @@
     }
   ],
   "displayTitle": "Galaxy Guide 2: Yavin and Bespin",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311268"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311266"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311268",
+      "isbn13": "9780874311266",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Jedi's Honor",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431111X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311112"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "087431111X",
+      "isbn13": "9780874311112",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Galaxy Of Adventures: Heroes & Villains",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368045561"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368045568"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368045561",
+      "isbn13": "9781368045568",
+      "kind": "print",
+      "onsale": "2019-09-17T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

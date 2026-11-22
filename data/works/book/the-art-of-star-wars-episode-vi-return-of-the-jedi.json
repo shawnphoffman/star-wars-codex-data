@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Episode VI: Return of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345912713"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345912718"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345912713",
+      "isbn13": "9780345912718",
       "kind": "print",
       "onsale": "1983-11-01T00:00:00.000Z"
     }

@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "LEGO Star Wars in 100 Scenes",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465434372"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465434371"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 216,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465434372",
+      "isbn13": "9781465434371",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

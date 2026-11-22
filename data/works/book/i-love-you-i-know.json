@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "I Love You, I Know",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744037115"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744037111"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744037115",
+      "isbn13": "9780744037111",
+      "kind": "print",
+      "onsale": "2021-01-12T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

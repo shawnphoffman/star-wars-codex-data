@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Force Awakens: Finn’s Story",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484790227"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484790229"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484790227",
+      "isbn13": "9781484790229",
+      "kind": "print",
+      "onsale": "2016-09-13T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

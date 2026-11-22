@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Insider: The Galaxy's Greatest Heroes",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787736369"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787736368"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "isbn10": "1787736369",
+      "isbn13": "9781787736368",
+      "kind": "print",
+      "onsale": "2022-02-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

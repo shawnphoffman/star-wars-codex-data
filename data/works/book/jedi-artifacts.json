@@ -2,6 +2,24 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Jedi Artifacts",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1789099447"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781789099447"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "1789099447",
+      "isbn13": "9781789099447",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

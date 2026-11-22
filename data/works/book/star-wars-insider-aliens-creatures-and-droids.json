@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Insider: Aliens, Creatures, and Droids",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1785851969"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781785851964"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "isbn10": "1785851969",
+      "isbn13": "9781785851964",
+      "kind": "print",
+      "onsale": "2019-11-12T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

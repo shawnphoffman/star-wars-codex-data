@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Bloodlines",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477510"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477514"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 380,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345477510",
+      "isbn13": "9780345477514",
+      "kind": "print",
+      "onsale": "2006-08-29T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 40

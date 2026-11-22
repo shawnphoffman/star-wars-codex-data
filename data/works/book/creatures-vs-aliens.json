@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Creatures Vs. Aliens",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0760364044"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780760364048"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "isPrimary": true,
+      "isbn10": "0760364044",
+      "isbn13": "9780760364048",
+      "kind": "print",
+      "onsale": "2019-04-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

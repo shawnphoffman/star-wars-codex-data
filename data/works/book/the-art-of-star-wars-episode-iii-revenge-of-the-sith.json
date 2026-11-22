@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Episode III: Revenge of the Sith",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345431359"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345431356"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345431359",
+      "isbn13": "9780345431356",
       "kind": "print",
       "onsale": "2005-04-02T00:00:00.000Z"
     }

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Greatest Battles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307146561"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307146564"
+    }
+  ],
   "editions": [
     {
+      "extent": 14,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0307146561",
+      "isbn13": "9780307146564",
       "kind": "print",
       "onsale": "1998-06-06T00:00:00.000Z"
     }

@@ -11,6 +11,10 @@
   "displayTitle": "The Haunted Village",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0583311644"
+    },
+    {
       "type": "isbn13",
       "value": "9780583311649"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Dragon Picture Books",
       "isPrimary": true,
+      "isbn10": "0583311644",
       "isbn13": "9780583311649",
       "kind": "print",
       "onsale": "1987-09-01T00:00:00.000Z"

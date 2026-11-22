@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Last Jedi: The Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465455515"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465455512"
+    }
+  ],
   "editions": [
     {
+      "extent": 80,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465455515",
+      "isbn13": "9781465455512",
       "kind": "print",
       "onsale": "2017-12-15T00:00:00.000Z"
     }

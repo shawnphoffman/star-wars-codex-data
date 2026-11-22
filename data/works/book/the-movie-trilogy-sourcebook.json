@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Movie Trilogy Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311985"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311983"
+    }
+  ],
   "editions": [
     {
+      "extent": 158,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311985",
+      "isbn13": "9780874311983",
       "kind": "print",
       "onsale": "1993-09-01T00:00:00.000Z"
     }

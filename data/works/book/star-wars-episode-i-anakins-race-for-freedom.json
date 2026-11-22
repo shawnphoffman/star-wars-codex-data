@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: Anakin's Race for Freedom",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375800271"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375800276"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375800271",
+      "isbn13": "9780375800276",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

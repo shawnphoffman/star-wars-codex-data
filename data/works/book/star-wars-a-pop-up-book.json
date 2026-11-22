@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "A Pop-Up Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394837541"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394837543"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 15,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394837541",
+      "isbn13": "9780394837543",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

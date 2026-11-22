@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Caitlin Sullivan Kelly",
+      "role": "writer",
+      "slug": "caitlin-sullivan-kelly"
+    }
+  ],
+  "displayTitle": "Quite A Story To Tell",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -3626
+  },
+  "legendsEra": "legendsOldRepublic",
+  "releaseDate": "2021-04-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "quite-a-story-to-tell",
+  "synopsis": "Only one thing could push Aryn Leneer to seek help from the Jedi--and that one thing just landed on her doorstep.",
+  "title": "Quite A Story To Tell"
+}

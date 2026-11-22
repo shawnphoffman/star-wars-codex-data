@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0525619399"
+    },
+    {
+      "type": "isbn10",
       "value": "1984819283"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 304,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0525619399",
       "isbn13": "9780525619390",
       "kind": "print",
       "onsale": "2018-09-04T00:00:00.000Z"

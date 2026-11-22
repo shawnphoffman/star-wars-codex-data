@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Storyboards: The Original Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419707744"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419707742"
+    }
+  ],
   "editions": [
     {
+      "extent": 352,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419707744",
+      "isbn13": "9781419707742",
       "kind": "print",
       "onsale": "2014-05-13T00:00:00.000Z"
     }

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Treasury: The Original Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405280220"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405280228"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Egmont UK",
       "isPrimary": true,
+      "isbn10": "1405280220",
+      "isbn13": "9781405280228",
       "kind": "print",
       "onsale": "2015-11-05T00:00:00.000Z"
     }

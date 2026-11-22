@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rey to the Rescue!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465455817"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465455819"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465455817",
+      "isbn13": "9781465455819",
+      "kind": "print",
+      "onsale": "2017-01-03T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

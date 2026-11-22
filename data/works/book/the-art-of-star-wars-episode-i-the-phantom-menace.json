@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Episode I: The Phantom Menace",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345431081"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345431080"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345431081",
+      "isbn13": "9780345431080",
       "kind": "print",
       "onsale": "1999-09-07T00:00:00.000Z"
     }

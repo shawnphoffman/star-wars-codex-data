@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Be More Lando",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465478981"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465478986"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465478981",
+      "isbn13": "9781465478986",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

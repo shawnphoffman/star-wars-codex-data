@@ -17,6 +17,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0099542676"
+    },
+    {
+      "type": "isbn10",
       "value": "0345511409"
     },
     {
@@ -31,15 +35,16 @@
   "editions": [
     {
       "extent": 480,
-      "imprint": "Del Rey",
+      "imprint": "Arrow",
       "isPrimary": false,
+      "isbn10": "0099542676",
       "isbn13": "9780099542674",
       "kind": "print",
       "onsale": "2013-02-26T00:00:00.000Z"
     },
     {
       "extent": 496,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345511409",
       "isbn13": "9780345511409",

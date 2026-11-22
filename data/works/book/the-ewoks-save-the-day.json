@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Ewoks Save the Day",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394861183"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394861180"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394861183",
+      "isbn13": "9780394861180",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

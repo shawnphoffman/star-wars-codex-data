@@ -16,6 +16,10 @@
   "displayTitle": "Young Jedi Knights: The Lost Ones",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1572970529"
+    },
+    {
       "type": "isbn13",
       "value": "9781572970526"
     }
@@ -25,6 +29,7 @@
       "extent": 240,
       "imprint": "Boulevard",
       "isPrimary": true,
+      "isbn10": "1572970529",
       "isbn13": "9781572970526",
       "kind": "print",
       "onsale": "1995-12-01T00:00:00.000Z"

@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Battle for the Golden Sun",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311039"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311037"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311039",
+      "isbn13": "9780874311037",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

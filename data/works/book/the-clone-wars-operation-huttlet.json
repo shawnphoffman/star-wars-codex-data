@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Operation: Huttlet",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448449951"
+    },
+    {
       "type": "isbn13",
       "value": "9780448449951"
     }
@@ -20,6 +24,7 @@
       "extent": 48,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448449951",
       "isbn13": "9780448449951",
       "kind": "print",
       "onsale": "2008-10-02T00:00:00.000Z"

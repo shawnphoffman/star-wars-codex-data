@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back Sketchbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034528836X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345288363"
+    }
+  ],
   "editions": [
     {
+      "extent": 95,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "034528836X",
+      "isbn13": "9780345288363",
       "kind": "print",
       "onsale": "1980-06-01T00:00:00.000Z"
     }

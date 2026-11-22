@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Solo: A Star Wars Story: Meet The Crew",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368016286"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368016285"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368016286",
+      "isbn13": "9781368016285",
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -10

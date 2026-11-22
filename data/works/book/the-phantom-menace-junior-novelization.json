@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Episode I The Phantom Menace (junior novelization)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590010891"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590010894"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0590010891",
+      "isbn13": "9780590010894",
       "kind": "print",
       "onsale": "1999-05-01T00:00:00.000Z"
     }

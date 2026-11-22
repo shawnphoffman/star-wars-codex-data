@@ -11,6 +11,10 @@
   "displayTitle": "Propaganda: A History of Persuasive Art in the Galaxy",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0062466828"
+    },
+    {
       "type": "isbn13",
       "value": "9780062466822"
     }
@@ -20,6 +24,7 @@
       "extent": 112,
       "imprint": "Harper Design",
       "isPrimary": true,
+      "isbn10": "0062466828",
       "isbn13": "9780062466822",
       "kind": "print",
       "onsale": "2016-10-25T00:00:00.000Z"

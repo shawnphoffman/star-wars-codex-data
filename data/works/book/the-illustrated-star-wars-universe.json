@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Illustrated Star Wars Universe",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553093029"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553093025"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
+      "isbn10": "0553093029",
+      "isbn13": "9780553093025",
       "kind": "print",
       "onsale": "1995-11-01T00:00:00.000Z"
     }

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Epic Battles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756636035"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756636036"
+    }
+  ],
   "editions": [
     {
+      "extent": 48,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756636035",
+      "isbn13": "9780756636036",
       "kind": "print",
       "onsale": "2008-02-18T00:00:00.000Z"
     }

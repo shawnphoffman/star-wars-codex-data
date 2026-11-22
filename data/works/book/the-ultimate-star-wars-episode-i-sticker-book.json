@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Ultimate Star Wars Episode I Sticker Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0789439646"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780789439642"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 8,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0789439646",
+      "isbn13": "9780789439642",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

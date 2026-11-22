@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "Ultimate Star Wars, New Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465479007"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465479006"
+    }
+  ],
   "editions": [
     {
+      "extent": 352,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465479007",
+      "isbn13": "9781465479006",
       "kind": "print",
       "onsale": "2019-10-04T00:00:00.000Z"
     }

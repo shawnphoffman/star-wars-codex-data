@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Rules of Engagement: The Rebel SpecForce Handbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315018"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315011"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874315018",
+      "isbn13": "9780874315011",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

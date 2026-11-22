@@ -20,6 +20,10 @@
       "value": "0593872789"
     },
     {
+      "type": "isbn10",
+      "value": "1984820982"
+    },
+    {
       "type": "isbn13",
       "value": "9780593872789"
     },
@@ -31,7 +35,7 @@
   "editions": [
     {
       "extent": 512,
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "0593872789",
       "isbn13": "9780593872789",
@@ -42,6 +46,7 @@
       "extent": 333,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "1984820982",
       "isbn13": "9781984820983",
       "kind": "print",
       "onsale": "2019-07-23T00:00:00.000Z"

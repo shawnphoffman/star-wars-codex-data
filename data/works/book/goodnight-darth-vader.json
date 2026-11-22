@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Goodnight Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452128308"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452128306"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1452128308",
+      "isbn13": "9781452128306",
+      "kind": "print",
+      "onsale": "2014-07-22T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

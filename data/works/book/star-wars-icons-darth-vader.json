@@ -11,6 +11,10 @@
   "displayTitle": "Icons: Darth Vader",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1647225221"
+    },
+    {
       "type": "isbn13",
       "value": "9781647225223"
     }
@@ -20,6 +24,7 @@
       "extent": 464,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647225221",
       "isbn13": "9781647225223",
       "kind": "print",
       "onsale": "2026-10-20T00:00:00.000Z"

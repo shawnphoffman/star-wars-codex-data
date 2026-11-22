@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Ackbar's Underwater Army",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1409383202"
+    },
+    {
       "type": "isbn13",
       "value": "9781409383208"
     }
@@ -20,6 +24,7 @@
       "extent": 48,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1409383202",
       "isbn13": "9781409383208",
       "kind": "print",
       "onsale": "2012-04-30T00:00:00.000Z"

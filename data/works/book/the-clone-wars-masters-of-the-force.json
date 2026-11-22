@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Clone Wars: Masters of the Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465405852"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465405852"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465405852",
+      "isbn13": "9781465405852",
       "kind": "print",
       "onsale": "2012-12-17T00:00:00.000Z"
     }

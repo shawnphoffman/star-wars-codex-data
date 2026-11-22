@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Return of the Jedi Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405278544"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405278546"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405278544",
+      "isbn13": "9781405278546",
+      "kind": "print",
+      "onsale": "2015-07-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

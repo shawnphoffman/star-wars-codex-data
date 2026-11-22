@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Han & Chewie Return!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484704789"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704783"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484704789",
+      "isbn13": "9781484704783",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

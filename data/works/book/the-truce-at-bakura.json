@@ -23,6 +23,10 @@
       "value": "0553095412"
     },
     {
+      "type": "isbn10",
+      "value": "0553568728"
+    },
+    {
       "type": "isbn13",
       "value": "9780307796271"
     },
@@ -61,8 +65,10 @@
       "onsale": "1993-11-01T00:00:00.000Z"
     },
     {
-      "imprint": "Del Rey",
+      "extent": 341,
+      "imprint": "Bantam Spectra",
       "isPrimary": false,
+      "isbn10": "0553568728",
       "isbn13": "9780553568721",
       "kind": "print",
       "onsale": "1993-01-02T00:00:00.000Z"

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Mandalorian Vol. 2 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1974746895"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781974746897"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn10": "1974746895",
+      "isbn13": "9781974746897",
+      "kind": "print",
+      "onsale": "2024-05-07T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

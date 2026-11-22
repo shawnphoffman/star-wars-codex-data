@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Cinema of George Lucas",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0810949687"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780810949683"
+    }
+  ],
   "editions": [
     {
+      "extent": 264,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "0810949687",
+      "isbn13": "9780810949683",
       "kind": "print",
       "onsale": "2005-03-01T00:00:00.000Z"
     }

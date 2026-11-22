@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Decide Your Destiny: Tethan Battle Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448453363"
+    },
+    {
       "type": "isbn13",
       "value": "9780448453361"
     }
@@ -20,6 +24,7 @@
       "extent": 192,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448453363",
       "isbn13": "9780448453361",
       "kind": "print",
       "onsale": "2010-01-07T00:00:00.000Z"

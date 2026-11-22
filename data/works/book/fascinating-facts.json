@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Fascinating Facts",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1684128951"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781684128952"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Portable Press",
       "isPrimary": true,
+      "isbn10": "1684128951",
+      "isbn13": "9781684128952",
       "kind": "print",
       "onsale": "2020-10-13T00:00:00.000Z"
     }

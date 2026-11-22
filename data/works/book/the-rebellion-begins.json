@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn10",
+      "value": "148471475X"
+    },
+    {
+      "type": "isbn10",
       "value": "1484717007"
     },
     {
@@ -32,6 +36,7 @@
       "extent": 160,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "148471475X",
       "isbn13": "9781484714751",
       "kind": "print",
       "onsale": "2014-10-21T00:00:00.000Z"

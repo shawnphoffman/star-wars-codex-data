@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "The Clone Wars Campaign Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786949996"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786949991"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786949996",
+      "isbn13": "9780786949991",
       "kind": "print",
       "onsale": "2009-01-20T00:00:00.000Z"
     }

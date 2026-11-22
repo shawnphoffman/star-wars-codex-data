@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Collecting A Galaxy: The Art of Sideshow Collectibles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "168383626X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683836261"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 348,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "168383626X",
+      "isbn13": "9781683836261",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

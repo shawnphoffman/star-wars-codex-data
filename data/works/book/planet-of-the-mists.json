@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Planet of the Mists",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311225"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311228"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311225",
+      "isbn13": "9780874311228",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

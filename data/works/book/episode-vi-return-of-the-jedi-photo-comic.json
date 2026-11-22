@@ -2,6 +2,25 @@
   "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "displayTitle": "Episode VI: Return of the Jedi Photo Comic",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593079133"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593079130"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn10": "1593079133",
+      "isbn13": "9781593079130",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

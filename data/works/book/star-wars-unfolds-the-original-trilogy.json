@@ -2,10 +2,23 @@
   "bookType": "childrensBook",
   "canonStatus": "canon",
   "displayTitle": "Unfolds: The Original Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419741225"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419741227"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419741225",
+      "isbn13": "9781419741227",
       "kind": "print",
       "onsale": "2020-03-31T00:00:00.000Z"
     }

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Hoth Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307129845"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307129840"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307129845",
+      "isbn13": "9780307129840",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

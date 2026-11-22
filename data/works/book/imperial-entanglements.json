@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Imperial Entanglements",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431271X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312713"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "087431271X",
+      "isbn13": "9780874312713",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

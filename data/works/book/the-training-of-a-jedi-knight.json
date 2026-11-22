@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "The Training of a Jedi Knight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307036383"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307036384"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 40,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307036383",
+      "isbn13": "9780307036384",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

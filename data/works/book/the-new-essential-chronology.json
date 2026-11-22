@@ -29,10 +29,23 @@
     }
   ],
   "displayTitle": "The New Essential Chronology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345490533"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345490537"
+    }
+  ],
   "editions": [
     {
+      "extent": 238,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345490533",
+      "isbn13": "9780345490537",
       "kind": "print",
       "onsale": "2005-10-25T00:00:00.000Z"
     }

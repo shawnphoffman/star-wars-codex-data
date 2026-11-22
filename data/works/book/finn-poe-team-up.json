@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Finn & Poe Team Up!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484741439"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484741436"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484741439",
+      "isbn13": "9781484741436",
+      "kind": "print",
+      "onsale": "2016-06-14T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

@@ -14,6 +14,25 @@
     }
   ],
   "displayTitle": "Galaxy Guide 9: Fragments from the Rim",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311926"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311921"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311926",
+      "isbn13": "9780874311921",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

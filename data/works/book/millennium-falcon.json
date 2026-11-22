@@ -11,6 +11,10 @@
   "displayTitle": "Millennium Falcon",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345507002"
+    },
+    {
       "type": "isbn13",
       "value": "9780345507006"
     }
@@ -20,6 +24,7 @@
       "extent": 317,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345507002",
       "isbn13": "9780345507006",
       "kind": "print",
       "onsale": "2008-10-21T00:00:00.000Z"

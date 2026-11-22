@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Cracken's Rebel Operatives",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312183"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312188"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312183",
+      "isbn13": "9780874312188",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

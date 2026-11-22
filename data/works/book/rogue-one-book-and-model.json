@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rogue One Book and Model",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405285001"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405285001"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405285001",
+      "isbn13": "9781405285001",
+      "kind": "print",
+      "onsale": "2016-12-16T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

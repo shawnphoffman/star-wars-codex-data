@@ -11,6 +11,10 @@
   "displayTitle": "Galaxy's Edge: Treasures from Batuu",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1647226406"
+    },
+    {
       "type": "isbn13",
       "value": "9781647226404"
     }
@@ -20,6 +24,7 @@
       "extent": 16,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647226406",
       "isbn13": "9781647226404",
       "kind": "print",
       "onsale": "2022-08-09T00:00:00.000Z"

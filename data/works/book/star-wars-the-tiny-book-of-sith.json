@@ -11,6 +11,10 @@
   "displayTitle": "The Tiny Book of Sith",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "168383951X"
+    },
+    {
       "type": "isbn13",
       "value": "9781683839514"
     }
@@ -20,6 +24,7 @@
       "extent": 192,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "168383951X",
       "isbn13": "9781683839514",
       "kind": "print",
       "onsale": "2021-04-27T00:00:00.000Z"

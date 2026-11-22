@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Dressing a Galaxy: The Costumes of Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0810965674"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780810965676"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 215,
+      "isPrimary": true,
+      "isbn10": "0810965674",
+      "isbn13": "9780810965676",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

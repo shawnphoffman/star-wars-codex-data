@@ -11,6 +11,10 @@
   "displayTitle": "Return of the Jedi Graphic Novel Adaptation",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1684055288"
+    },
+    {
       "type": "isbn13",
       "value": "9781684055289"
     }
@@ -20,6 +24,7 @@
       "extent": 80,
       "imprint": "IDW Publishing",
       "isPrimary": true,
+      "isbn10": "1684055288",
       "isbn13": "9781684055289",
       "kind": "print",
       "onsale": "2019-10-22T00:00:00.000Z"

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Escape from Jabba's Palace",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307129853"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307129857"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307129853",
+      "isbn13": "9780307129857",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

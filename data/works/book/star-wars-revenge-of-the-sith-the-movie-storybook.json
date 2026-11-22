@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Revenge of the Sith: The Movie Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "043996069X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439960694"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "043996069X",
+      "isbn13": "9780439960694",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -19

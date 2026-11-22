@@ -16,6 +16,10 @@
   "displayTitle": "So You Think You Know Star Wars",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1797245953"
+    },
+    {
       "type": "isbn13",
       "value": "9781797245959"
     }
@@ -25,6 +29,7 @@
       "extent": 232,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1797245953",
       "isbn13": "9781797245959",
       "kind": "print",
       "onsale": "2026-11-17T00:00:00.000Z"

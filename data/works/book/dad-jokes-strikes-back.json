@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Dad Jokes Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1797244035"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781797244037"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1797244035",
+      "isbn13": "9781797244037",
+      "kind": "print",
+      "onsale": "2026-04-28T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

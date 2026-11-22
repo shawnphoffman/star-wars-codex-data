@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Scavenger's Guide to Droids",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "078695230X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786952304"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "078695230X",
+      "isbn13": "9780786952304",
       "kind": "print",
       "onsale": "2009-11-17T00:00:00.000Z"
     }

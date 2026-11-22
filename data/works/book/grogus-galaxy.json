@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Grogu's Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "074407066X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744070668"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "074407066X",
+      "isbn13": "9780744070668",
+      "kind": "print",
+      "onsale": "2023-03-14T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

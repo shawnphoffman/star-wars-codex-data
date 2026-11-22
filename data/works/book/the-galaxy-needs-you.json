@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Galaxy Needs You",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368051820"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368051828"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368051820",
+      "isbn13": "9781368051828",
+      "kind": "print",
+      "onsale": "2019-12-17T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

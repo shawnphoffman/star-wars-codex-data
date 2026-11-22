@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian: Guide to Season Two",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787738671"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787738676"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Titan Comics",
       "isPrimary": true,
+      "isbn10": "1787738671",
+      "isbn13": "9781787738676",
       "kind": "print",
       "onsale": "2022-10-11T00:00:00.000Z"
     }

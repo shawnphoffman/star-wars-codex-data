@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Solo: A Star Wars Story The Official Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465466908"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465466907"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465466908",
+      "isbn13": "9781465466907",
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -10,

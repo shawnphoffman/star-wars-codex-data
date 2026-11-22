@@ -11,6 +11,10 @@
   "displayTitle": "William Shakespeare's The Phantom of Menace: Star Wars Part the First",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1594748063"
+    },
+    {
       "type": "isbn13",
       "value": "9781594748066"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 176,
-      "imprint": "Random House",
+      "imprint": "Quirk Books",
       "isPrimary": true,
+      "isbn10": "1594748063",
       "isbn13": "9781594748066",
       "kind": "print",
       "onsale": "2015-04-07T00:00:00.000Z"

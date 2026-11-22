@@ -14,10 +14,22 @@
     }
   ],
   "displayTitle": "The New Essential Guide to Droids",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477596"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477590"
+    }
+  ],
   "editions": [
     {
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477596",
+      "isbn13": "9780345477590",
       "kind": "print",
       "onsale": "2006-06-27T00:00:00.000Z"
     }

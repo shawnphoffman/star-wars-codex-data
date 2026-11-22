@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "Aliens and Ships of the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794435882"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794435882"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794435882",
+      "isbn13": "9780794435882",
+      "kind": "print",
+      "onsale": "2016-11-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

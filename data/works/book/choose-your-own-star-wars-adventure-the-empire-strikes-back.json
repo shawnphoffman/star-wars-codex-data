@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Choose Your Own Star Wars Adventure: The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553486527"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553486520"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Bantam Skylark",
       "isPrimary": true,
+      "isbn10": "0553486527",
+      "isbn13": "9780553486520",
       "kind": "print",
       "onsale": "1998-08-10T00:00:00.000Z"
     }

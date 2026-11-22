@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "A Leader Named Leia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "136800976X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368009768"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "136800976X",
+      "isbn13": "9781368009768",
       "kind": "print",
       "onsale": "2017-09-01T00:00:00.000Z"
     }

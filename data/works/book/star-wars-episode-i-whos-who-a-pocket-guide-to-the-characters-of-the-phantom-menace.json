@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Episode I Who's Who: A Pocket Guide to the Characters of the Phantom Menace",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0762405198"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780762405190"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "isPrimary": true,
+      "isbn10": "0762405198",
+      "isbn13": "9780762405190",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

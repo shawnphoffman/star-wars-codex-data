@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0345509080"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345509086"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345509080",
+      "isbn13": "9780345509086",
       "kind": "print",
       "onsale": "2010-03-09T00:00:00.000Z"
     }

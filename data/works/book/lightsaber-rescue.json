@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Lightsaber Rescue",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1503703231"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781503703230"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Phoenix International Publications",
+      "isPrimary": true,
+      "isbn10": "1503703231",
+      "isbn13": "9781503703230",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

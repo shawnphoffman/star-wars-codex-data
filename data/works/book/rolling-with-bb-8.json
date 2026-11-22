@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Rolling with BB-8!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794435890"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794435899"
+    }
+  ],
   "editions": [
     {
+      "extent": 10,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794435890",
+      "isbn13": "9780794435899",
       "kind": "print",
       "onsale": "2016-02-02T00:00:00.000Z"
     }

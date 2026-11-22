@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Complete Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511042"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511041"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511042",
+      "isbn13": "9780345511041",
       "kind": "print",
       "onsale": "2009-10-27T00:00:00.000Z"
     }

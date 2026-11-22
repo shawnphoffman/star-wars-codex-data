@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Scoundrel's Luck",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311128"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311129"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311128",
+      "isbn13": "9780874311129",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

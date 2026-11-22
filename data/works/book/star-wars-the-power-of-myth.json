@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Power of Myth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0789455919"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780789455918"
+    }
+  ],
   "editions": [
     {
+      "extent": 48,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0789455919",
+      "isbn13": "9780789455918",
       "kind": "print",
       "onsale": "2000-04-05T00:00:00.000Z"
     }

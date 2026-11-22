@@ -19,6 +19,25 @@
     }
   ],
   "displayTitle": "Roleplaying Game: Revised Core Rulebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "078692876X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786928767"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 384,
+      "isPrimary": true,
+      "isbn10": "078692876X",
+      "isbn13": "9780786928767",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

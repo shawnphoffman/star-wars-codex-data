@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Galaxy Guide 4: Alien Races",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311373"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311372"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311373",
+      "isbn13": "9780874311372",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Annotated Screenplays",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345409817"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345409812"
+    }
+  ],
   "editions": [
     {
+      "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345409817",
+      "isbn13": "9780345409812",
       "kind": "print",
       "onsale": "1997-09-08T00:00:00.000Z"
     }

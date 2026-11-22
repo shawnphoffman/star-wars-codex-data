@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Solo: A Star Wars Story- Han on the Run",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465466878"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465466877"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465466878",
+      "isbn13": "9781465466877",
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

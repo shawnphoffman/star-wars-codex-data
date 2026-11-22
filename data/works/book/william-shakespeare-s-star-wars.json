@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "William Shakespeare's Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1594746370"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781594746376"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Quirk Books",
+      "isPrimary": true,
+      "isbn10": "1594746370",
+      "isbn13": "9781594746376",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "releaseDate": "2013-07-02T00:00:00.000Z",
   "releaseDisplayState": "released",

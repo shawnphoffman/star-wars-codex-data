@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Episode I: The Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0789447010"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780789447012"
+    }
+  ],
   "editions": [
     {
+      "extent": 64,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0789447010",
+      "isbn13": "9780789447012",
       "kind": "print",
       "onsale": "1999-05-01T00:00:00.000Z"
     }

@@ -24,6 +24,26 @@
     }
   ],
   "displayTitle": "Battles that Changed the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "074402868X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744028683"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 256,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "074402868X",
+      "isbn13": "9780744028683",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

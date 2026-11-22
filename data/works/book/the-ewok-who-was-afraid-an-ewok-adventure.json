@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0394879783"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394879789"
     }
   ],
   "editions": [
@@ -20,6 +24,7 @@
       "imprint": "Happy House",
       "isPrimary": true,
       "isbn10": "0394879783",
+      "isbn13": "9780394879789",
       "kind": "print",
       "onsale": "1986-01-01T00:00:00.000Z"
     }

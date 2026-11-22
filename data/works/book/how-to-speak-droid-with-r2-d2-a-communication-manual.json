@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "How to Speak Droid with R2-D2: A Communication Manual",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452113939"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452113937"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1452113939",
+      "isbn13": "9781452113937",
+      "kind": "print",
+      "onsale": "2013-08-20T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

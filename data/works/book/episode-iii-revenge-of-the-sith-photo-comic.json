@@ -2,6 +2,25 @@
   "bookType": "graphicNovel",
   "canonStatus": "non-canon",
   "displayTitle": "Episode III: Revenge of the Sith Photo Comic",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593078560"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593078560"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Dark Horse Comics",
+      "isPrimary": true,
+      "isbn10": "1593078560",
+      "isbn13": "9781593078560",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -19

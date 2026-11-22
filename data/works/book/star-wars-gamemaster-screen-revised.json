@@ -34,10 +34,22 @@
     }
   ],
   "displayTitle": "Gamemaster Screen, Revised",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312884"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312881"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312884",
+      "isbn13": "9780874312881",
       "kind": "print",
       "onsale": "1996-12-01T00:00:00.000Z"
     }

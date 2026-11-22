@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Mos Eisley Cantina Pop-Up Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316535117"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316535113"
+    }
+  ],
   "editions": [
     {
+      "extent": 13,
       "imprint": "Little, Brown and Company",
       "isPrimary": true,
+      "isbn10": "0316535117",
+      "isbn13": "9780316535113",
       "kind": "print",
       "onsale": "1995-09-11T00:00:00.000Z"
     }

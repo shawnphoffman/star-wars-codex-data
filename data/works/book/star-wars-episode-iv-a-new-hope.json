@@ -11,6 +11,18 @@
   "displayTitle": "Episode IV: A New Hope",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439681235"
+    },
+    {
+      "type": "isbn10",
+      "value": "0545482321"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484717228"
+    },
+    {
       "type": "isbn13",
       "value": "9780439681230"
     },
@@ -25,8 +37,10 @@
   ],
   "editions": [
     {
+      "extent": 172,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439681235",
       "isbn13": "9780439681230",
       "kind": "print",
       "onsale": "2004-10-01T00:00:00.000Z"
@@ -34,12 +48,14 @@
     {
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "0545482321",
       "isbn13": "9780545482325",
       "kind": "print"
     },
     {
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484717228",
       "isbn13": "9781484717226",
       "kind": "ebook",
       "onsale": "2014-05-04T00:00:00.000Z"

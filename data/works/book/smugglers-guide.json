@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Smuggler's Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0760362165"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780760362167"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Epic Ink",
+      "isPrimary": true,
+      "isbn10": "0760362165",
+      "isbn13": "9780760362167",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

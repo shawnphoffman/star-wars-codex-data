@@ -15,6 +15,10 @@
       "value": "0439139392"
     },
     {
+      "type": "isbn10",
+      "value": "061350609X"
+    },
+    {
       "type": "isbn13",
       "value": "9780439139397"
     },
@@ -28,13 +32,14 @@
       "extent": 154,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439139392",
       "isbn13": "9780439139397",
       "kind": "print",
       "onsale": "2002-04-01T00:00:00.000Z"
     },
     {
       "isPrimary": false,
-      "isbn10": "0439139392",
+      "isbn10": "061350609X",
       "isbn13": "9780613506090",
       "kind": "print"
     }

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "I Am a Bounty Hunter",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375814922"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375814921"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375814922",
+      "isbn13": "9780375814921",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

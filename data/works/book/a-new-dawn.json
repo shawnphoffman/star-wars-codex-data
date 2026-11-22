@@ -25,6 +25,10 @@
       "value": "055339147X"
     },
     {
+      "type": "isbn10",
+      "value": "0553392867"
+    },
+    {
       "type": "isbn13",
       "value": "9780553391473"
     },
@@ -36,7 +40,7 @@
   "editions": [
     {
       "extent": 400,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "055339147X",
       "isbn13": "9780553391473",
@@ -47,6 +51,7 @@
       "extent": 400,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0553392867",
       "isbn13": "9780553392869",
       "kind": "print",
       "onsale": "2014-09-02T00:00:00.000Z"

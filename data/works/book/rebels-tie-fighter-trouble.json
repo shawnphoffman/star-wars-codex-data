@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Rebels: TIE Fighter Trouble",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484718240"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484718247"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484718240",
+      "isbn13": "9781484718247",
+      "kind": "print"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

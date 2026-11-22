@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "The Roleplaying Game",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874310652"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874310658"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874310652",
+      "isbn13": "9780874310658",
       "kind": "print",
       "onsale": "1987-10-01T00:00:00.000Z"
     }

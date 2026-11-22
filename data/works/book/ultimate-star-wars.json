@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Ultimate Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465436014"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465436016"
+    }
+  ],
   "editions": [
     {
+      "extent": 320,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465436014",
+      "isbn13": "9781465436016",
       "kind": "print",
       "onsale": "2015-04-28T00:00:00.000Z"
     }

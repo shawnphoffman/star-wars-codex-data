@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Essential Guide to Characters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345395352"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345395351"
+    }
+  ],
   "editions": [
     {
+      "extent": 199,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345395352",
+      "isbn13": "9780345395351",
       "kind": "print",
       "onsale": "1995-10-01T00:00:00.000Z"
     }

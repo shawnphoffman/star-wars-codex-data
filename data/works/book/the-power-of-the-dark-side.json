@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Power of the Dark Side",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794435327"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794435325"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794435327",
+      "isbn13": "9780794435325",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

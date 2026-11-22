@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Jedi Academy: The Principal Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1338188240"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781338188240"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "1338188240",
+      "isbn13": "9781338188240",
+      "kind": "print",
+      "onsale": "2018-07-31T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

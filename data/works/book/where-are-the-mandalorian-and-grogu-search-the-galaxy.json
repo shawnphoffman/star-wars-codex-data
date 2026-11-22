@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Where Are the Mandalorian and Grogu? Search the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794454577"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794454579"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794454577",
+      "isbn13": "9780794454579",
+      "kind": "print"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

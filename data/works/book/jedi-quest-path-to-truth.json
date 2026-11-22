@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0439242045"
+    },
+    {
+      "type": "isbn10",
       "value": "0439367174"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 170,
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "0439242045",
       "isbn13": "9780439242042",
       "kind": "print",
       "onsale": "2001-09-01T00:00:00.000Z"

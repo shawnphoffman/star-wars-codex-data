@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Goroth: Slave of the Empire",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312507"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312508"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312507",
+      "isbn13": "9780874312508",
       "kind": "print",
       "onsale": "1995-01-01T00:00:00.000Z"
     }

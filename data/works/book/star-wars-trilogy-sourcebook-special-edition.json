@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "Trilogy Sourcebook, Special Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315069"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315066"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874315069",
+      "isbn13": "9780874315066",
       "kind": "print",
       "onsale": "1997-10-01T00:00:00.000Z"
     }

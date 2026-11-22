@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "What is a Wookiee?",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756611571"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611576"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756611571",
+      "isbn13": "9780756611576",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

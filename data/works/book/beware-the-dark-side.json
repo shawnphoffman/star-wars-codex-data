@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Beware the Dark Side",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756631157"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756631154"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756631157",
+      "isbn13": "9780756631154",
+      "kind": "print",
+      "onsale": "2007-08-20T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

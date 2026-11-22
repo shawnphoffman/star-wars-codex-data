@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Character Encyclopedia, Updated and Expanded Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744050316"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744050318"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744050316",
+      "isbn13": "9780744050318",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

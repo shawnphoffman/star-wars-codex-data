@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Essential Atlas",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477642"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477644"
+    }
+  ],
   "editions": [
     {
+      "extent": 256,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477642",
+      "isbn13": "9780345477644",
       "kind": "print",
       "onsale": "2009-08-18T00:00:00.000Z"
     }

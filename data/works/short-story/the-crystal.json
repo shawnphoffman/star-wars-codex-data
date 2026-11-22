@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Elaine Cunningham",
+      "role": "writer",
+      "slug": "elaine-cunningham"
+    }
+  ],
+  "displayTitle": "The Crystal",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": 24
+  },
+  "legendsEra": "legendsNewRepublic",
+  "releaseDate": "2001-07-24T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-crystal",
+  "synopsis": "\"The Crystal\" was a short story written by Elaine Cunningham and published in Star Wars Gamer 5 in 2001 and later on Hyperspace.",
+  "title": "The Crystal"
+}

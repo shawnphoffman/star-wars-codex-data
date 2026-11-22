@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Classic Star Wars: A New Hope",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0679872035"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780679872030"
+    }
+  ],
   "editions": [
     {
+      "extent": 54,
       "imprint": "Random House",
       "isPrimary": true,
+      "isbn10": "0679872035",
+      "isbn13": "9780679872030",
       "kind": "print",
       "onsale": "1983-01-01T00:00:00.000Z"
     }

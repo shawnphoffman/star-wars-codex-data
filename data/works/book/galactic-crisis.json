@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Galactic Crisis!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756611636"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611637"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756611636",
+      "isbn13": "9780756611637",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

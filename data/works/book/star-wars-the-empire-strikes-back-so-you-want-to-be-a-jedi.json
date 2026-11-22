@@ -16,6 +16,10 @@
     },
     {
       "type": "isbn10",
+      "value": "1484709144"
+    },
+    {
+      "type": "isbn10",
       "value": "1484712110"
     },
     {
@@ -32,6 +36,7 @@
       "extent": 336,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484709144",
       "isbn13": "9781484709146",
       "kind": "print",
       "onsale": "2015-09-22T00:00:00.000Z"
@@ -39,7 +44,7 @@
     {
       "asin": "B00V6YWFZ2",
       "extent": 336,
-      "imprint": "Random House",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1484712110",
       "isbn13": "9781484712115",

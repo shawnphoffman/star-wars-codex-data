@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Art: Ralph McQuarrie",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419717936"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419717932"
+    }
+  ],
   "editions": [
     {
+      "extent": 800,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419717936",
+      "isbn13": "9781419717932",
       "kind": "print",
       "onsale": "2016-09-27T00:00:00.000Z"
     }

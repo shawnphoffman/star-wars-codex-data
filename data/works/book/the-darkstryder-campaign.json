@@ -64,10 +64,23 @@
     }
   ],
   "displayTitle": "The DarkStryder Campaign",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431254X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312546"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "087431254X",
+      "isbn13": "9780874312546",
       "kind": "print",
       "onsale": "1995-07-17T00:00:00.000Z"
     }

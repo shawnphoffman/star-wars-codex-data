@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "From Pencil to Pixel: The Art of Star Wars Galaxies",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0761542302"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780761542308"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Prima Games",
       "isPrimary": true,
+      "isbn10": "0761542302",
+      "isbn13": "9780761542308",
       "kind": "print",
       "onsale": "2003-06-26T00:00:00.000Z"
     }

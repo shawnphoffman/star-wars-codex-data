@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Luke Skywalker's Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394840356"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394840352"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394840356",
+      "isbn13": "9780394840352",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 1

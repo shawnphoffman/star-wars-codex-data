@@ -15,6 +15,10 @@
       "value": "0345477324"
     },
     {
+      "type": "isbn10",
+      "value": "0345477332"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477323"
     },
@@ -28,13 +32,16 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477324",
       "isbn13": "9780345477323",
       "kind": "print",
       "onsale": "2005-11-22T00:00:00.000Z"
     },
     {
+      "extent": 368,
+      "imprint": "Del Rey",
       "isPrimary": false,
-      "isbn10": "0345477324",
+      "isbn10": "0345477332",
       "isbn13": "9780345477330",
       "kind": "print"
     }

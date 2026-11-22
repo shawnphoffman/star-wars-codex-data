@@ -20,6 +20,10 @@
       "value": "0439147425"
     },
     {
+      "type": "isbn10",
+      "value": "1484799348"
+    },
+    {
       "type": "isbn13",
       "value": "9780439147422"
     },
@@ -42,6 +46,7 @@
       "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484799348",
       "isbn13": "9781484799345",
       "kind": "print",
       "onsale": "2017-05-02T00:00:00.000Z"

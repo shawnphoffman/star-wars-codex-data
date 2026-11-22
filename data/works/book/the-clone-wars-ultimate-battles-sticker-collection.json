@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Clone Wars Ultimate Battles Sticker Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756652049"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756652043"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756652049",
+      "isbn13": "9780756652043",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

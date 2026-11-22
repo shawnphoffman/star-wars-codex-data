@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0593128400"
+    },
+    {
+      "type": "isbn10",
       "value": "1984818643"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 368,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0593128400",
       "isbn13": "9780593128404",
       "kind": "print",
       "onsale": "2020-03-17T00:00:00.000Z"

@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "I Am a Padawan (Little Golden)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736440461"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736440462"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0736440461",
+      "isbn13": "9780736440462",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Be More Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465477365"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465477361"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465477365",
+      "isbn13": "9781465477361",
+      "kind": "print",
+      "onsale": "2018-10-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

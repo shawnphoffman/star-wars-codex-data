@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Encyclopedia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345402278"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345402271"
+    }
+  ],
   "editions": [
     {
+      "extent": 384,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345402278",
+      "isbn13": "9780345402271",
       "kind": "print",
       "onsale": "1998-06-30T00:00:00.000Z"
     }

@@ -11,6 +11,10 @@
   "displayTitle": "Han Solo and the Lost Legacy",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "034528710X"
+    },
+    {
       "type": "isbn13",
       "value": "9780345287106"
     }
@@ -20,6 +24,7 @@
       "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034528710X",
       "isbn13": "9780345287106",
       "kind": "print",
       "onsale": "1980-08-01T00:00:00.000Z"

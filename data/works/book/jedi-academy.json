@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Jedi Academy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545505178"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545505178"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 160,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545505178",
+      "isbn13": "9780545505178",
+      "kind": "print",
+      "onsale": "2013-08-27T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

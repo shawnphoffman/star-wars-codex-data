@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "I Am a Stormtrooper",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "073643576X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736435765"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "073643576X",
+      "isbn13": "9780736435765",
       "kind": "print",
       "onsale": "2017-01-03T00:00:00.000Z"
     }

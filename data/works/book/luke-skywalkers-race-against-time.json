@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Luke Skywalker's Race Against Time",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1570828245"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781570828249"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 10,
+      "imprint": "Fun Works",
+      "isPrimary": true,
+      "isbn10": "1570828245",
+      "isbn13": "9781570828249",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 1

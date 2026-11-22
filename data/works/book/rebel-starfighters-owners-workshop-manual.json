@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Rebel Starfighters - Owners Workshop Manual",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683839366"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683839361"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "isPrimary": true,
+      "isbn10": "1683839366",
+      "isbn13": "9781683839361",
+      "kind": "print",
+      "onsale": "2019-11-07T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

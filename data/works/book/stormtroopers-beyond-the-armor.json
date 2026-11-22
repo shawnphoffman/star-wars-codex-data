@@ -21,6 +21,10 @@
   "displayTitle": "Stormtroopers: Beyond the Armor",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0062681176"
+    },
+    {
       "type": "isbn13",
       "value": "9780062681171"
     }
@@ -30,6 +34,7 @@
       "extent": 176,
       "imprint": "Harper Design",
       "isPrimary": true,
+      "isbn10": "0062681176",
       "isbn13": "9780062681171",
       "kind": "print",
       "onsale": "2017-10-07T00:00:00.000Z"

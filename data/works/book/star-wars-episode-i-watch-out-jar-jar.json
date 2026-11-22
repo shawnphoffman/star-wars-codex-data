@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: Watch Out, Jar Jar!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "037580028X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375800283"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "037580028X",
+      "isbn13": "9780375800283",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

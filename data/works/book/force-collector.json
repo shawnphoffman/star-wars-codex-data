@@ -20,6 +20,10 @@
       "value": "1368045588"
     },
     {
+      "type": "isbn10",
+      "value": "1405295414"
+    },
+    {
       "type": "isbn13",
       "value": "9781368045582"
     },
@@ -40,8 +44,9 @@
     },
     {
       "extent": 384,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Egmont UK",
       "isPrimary": false,
+      "isbn10": "1405295414",
       "isbn13": "9781405295413",
       "kind": "print",
       "onsale": "2019-10-04T00:00:00.000Z"

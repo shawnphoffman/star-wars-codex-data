@@ -11,6 +11,10 @@
   "displayTitle": "Galactic Phrase Book & Travel Guide",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0553392883"
+    },
+    {
       "type": "isbn13",
       "value": "9780553392883"
     }
@@ -20,6 +24,7 @@
       "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0553392883",
       "isbn13": "9780553392883",
       "kind": "print",
       "onsale": "2001-08-07T00:00:00.000Z"

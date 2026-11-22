@@ -1,0 +1,44 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Steven Barnes",
+      "role": "writer",
+      "slug": "steven-barnes"
+    }
+  ],
+  "displayTitle": "The Hive",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345478681"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345478689"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345478681",
+      "isbn13": "9780345478689",
+      "kind": "print",
+      "onsale": "2004-05-18T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2004-05-18T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "the-hive",
+  "synopsis": "Dispatched as a Republic envoy to the Outer Rim world of Ord Cestus to halt the sale of deadly \"bio-droids\" to the Confederacy, Obi-Wan Kenobi finds himself drawn into the fate of the planet's native people, the X'Ting. Once masters of their world, the X'Ting have been reduced to second-class citizens by offworld interests, and in the wake of a devastating plague their benevolent rulers are dead and the tightly knit race has splintered into warring factions. Reunification can come only with the rise of new royalty, whom every X'Ting is bound by blood to serve. But the eggs that would spawn those sovereigns lie hidden and booby-trapped in a secret chamber, and reaching them will test both the divided X'Ting and the Jedi who has come to help them.",
+  "title": "The Hive"
+}

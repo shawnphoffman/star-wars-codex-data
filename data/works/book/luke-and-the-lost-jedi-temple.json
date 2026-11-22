@@ -11,6 +11,10 @@
   "displayTitle": "Luke and the Lost Jedi Temple",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "148470505X"
+    },
+    {
       "type": "isbn13",
       "value": "9781484705056"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "148470505X",
       "isbn13": "9781484705056",
       "kind": "print",
       "onsale": "2016-11-01T00:00:00.000Z"

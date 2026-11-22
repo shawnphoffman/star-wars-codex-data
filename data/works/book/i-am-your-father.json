@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "I Am Your Father",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744055202"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744055207"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744055202",
+      "isbn13": "9780744055207",
+      "kind": "print",
+      "onsale": "2022-05-31T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

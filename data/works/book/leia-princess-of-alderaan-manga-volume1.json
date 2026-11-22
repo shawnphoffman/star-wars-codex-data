@@ -21,6 +21,10 @@
   "displayTitle": "Leia, Princess of Alderaan Vol. 1 (Manga)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "197535947X"
+    },
+    {
       "type": "isbn13",
       "value": "9781975359478"
     }
@@ -30,6 +34,7 @@
       "extent": 192,
       "imprint": "Line Corporation",
       "isPrimary": true,
+      "isbn10": "197535947X",
       "isbn13": "9781975359478",
       "kind": "print",
       "onsale": "2019-12-13T00:00:00.000Z"

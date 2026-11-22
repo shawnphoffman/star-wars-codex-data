@@ -1,0 +1,43 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Paragon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034551940X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345519405"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "034551940X",
+      "isbn13": "9780345519405",
+      "kind": "print",
+      "onsale": "2010-02-10T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "legendsEra": "legendsOldRepublic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2010-02-10T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-paragon",
+  "title": "Lost Tribe of the Sith: Paragon"
+}

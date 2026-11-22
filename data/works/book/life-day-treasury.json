@@ -1,5 +1,5 @@
 {
-  "bookType": "shortStory",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
   "creators": [
     {
@@ -32,7 +32,7 @@
   "editions": [
     {
       "extent": 192,
-      "imprint": "Random House",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368070884",
       "isbn13": "9781368070881",

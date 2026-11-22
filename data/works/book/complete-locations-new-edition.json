@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Complete Locations: New Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593844211"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593844212"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0593844211",
+      "isbn13": "9780593844212",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

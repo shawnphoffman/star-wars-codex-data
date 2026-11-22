@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Storyboards: The Prequel Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419707728"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419707728"
+    }
+  ],
   "editions": [
     {
+      "extent": 352,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419707728",
+      "isbn13": "9781419707728",
       "kind": "print",
       "onsale": "2013-05-14T00:00:00.000Z"
     }

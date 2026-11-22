@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0593598601"
+    },
+    {
+      "type": "isbn10",
       "value": "0593598636"
     },
     {
@@ -26,15 +30,16 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": false,
+      "isbn10": "0593598601",
       "isbn13": "9780593598603",
       "kind": "print",
       "onsale": "2023-03-07T00:00:00.000Z"
     },
     {
       "extent": 304,
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "0593598636",
       "isbn13": "9780593598634",

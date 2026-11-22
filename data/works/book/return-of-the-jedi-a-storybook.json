@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Return of the Jedi: A Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590066595"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590066594"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590066595",
+      "isbn13": "9780590066594",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

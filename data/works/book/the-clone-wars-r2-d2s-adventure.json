@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: R2-D2's Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448452227"
+    },
+    {
       "type": "isbn13",
       "value": "9780448452227"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448452227",
       "isbn13": "9780448452227",
       "kind": "print",
       "onsale": "2009-03-05T00:00:00.000Z"

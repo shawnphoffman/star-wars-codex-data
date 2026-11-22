@@ -20,6 +20,10 @@
       "value": "0606365362"
     },
     {
+      "type": "isbn10",
+      "value": "1484704851"
+    },
+    {
       "type": "isbn13",
       "value": "9780606365369"
     },
@@ -42,6 +46,7 @@
       "extent": 176,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484704851",
       "isbn13": "9781484704851",
       "kind": "print",
       "onsale": "2014-10-21T00:00:00.000Z"

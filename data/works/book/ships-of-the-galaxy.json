@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Ships of the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794434770"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794434779"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794434770",
+      "isbn13": "9780794434779",
+      "kind": "print",
+      "onsale": "2015-09-04T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

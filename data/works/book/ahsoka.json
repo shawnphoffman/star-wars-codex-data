@@ -25,6 +25,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9781484705667"
+    },
+    {
+      "type": "isbn13",
       "value": "9781484782316"
     }
   ],
@@ -34,12 +38,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1484705661",
+      "isbn13": "9781484705667",
       "kind": "print",
       "onsale": "2016-10-11T00:00:00.000Z"
     },
     {
       "extent": 384,
-      "imprint": "Random House",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1484782313",
       "isbn13": "9781484782316",

@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0307982025"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307982025"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Golden Books",
       "isPrimary": true,
       "isbn10": "0307982025",
+      "isbn13": "9780307982025",
       "kind": "print",
       "onsale": "1998-06-02T00:00:00.000Z"
     }

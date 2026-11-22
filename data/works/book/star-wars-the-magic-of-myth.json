@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "displayTitle": "The Magic of Myth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553102060"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553102062"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
+      "isbn10": "0553102060",
+      "isbn13": "9780553102062",
       "kind": "print",
       "onsale": "1997-12-01T00:00:00.000Z"
     }

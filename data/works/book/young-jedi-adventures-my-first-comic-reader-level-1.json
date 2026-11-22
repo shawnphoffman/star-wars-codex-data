@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Young Jedi Adventures: My First Comic Reader Level 1",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "840828360X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9788408283607"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "isPrimary": true,
+      "isbn10": "840828360X",
+      "isbn13": "9788408283607",
+      "kind": "print",
+      "onsale": "2024-02-07T00:00:00.000Z"
+    }
+  ],
   "era": "highRepublic",
   "format": "book",
   "inUniverseDate": {

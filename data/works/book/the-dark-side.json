@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Dark Side",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "8416857415"
+    },
+    {
+      "type": "isbn13",
+      "value": "9788416857418"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Hachette Heroes",
       "isPrimary": true,
+      "isbn10": "8416857415",
+      "isbn13": "9788416857418",
       "kind": "print",
       "onsale": "2018-12-06T00:00:00.000Z"
     }

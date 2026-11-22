@@ -15,6 +15,10 @@
       "value": "0439458811"
     },
     {
+      "type": "isbn10",
+      "value": "0439459060"
+    },
+    {
       "type": "isbn13",
       "value": "9780439458818"
     },
@@ -28,13 +32,16 @@
       "extent": 90,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439458811",
       "isbn13": "9780439458818",
       "kind": "print",
       "onsale": "2002-12-01T00:00:00.000Z"
     },
     {
+      "extent": 84,
+      "imprint": "Scholastic",
       "isPrimary": false,
-      "isbn10": "0439458811",
+      "isbn10": "0439459060",
       "isbn13": "9780439459068",
       "kind": "print"
     }

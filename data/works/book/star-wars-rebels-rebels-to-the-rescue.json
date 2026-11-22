@@ -2,10 +2,23 @@
   "bookType": "childrensBook",
   "canonStatus": "canon",
   "displayTitle": "Rebels: Rebels to the Rescue!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1503700305"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781503700307"
+    }
+  ],
   "editions": [
     {
+      "extent": 14,
       "imprint": "Phoenix International Publications",
       "isPrimary": true,
+      "isbn10": "1503700305",
+      "isbn13": "9781503700307",
       "kind": "print",
       "onsale": "2015-01-01T00:00:00.000Z"
     }

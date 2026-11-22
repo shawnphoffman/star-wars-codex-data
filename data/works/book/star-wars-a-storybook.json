@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "A Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0590066544"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590066549"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0590066544",
+      "isbn13": "9780590066549",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

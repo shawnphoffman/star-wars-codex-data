@@ -11,6 +11,10 @@
   "displayTitle": "Backstories: Darth Vader: Sith Lord",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1338029827"
+    },
+    {
       "type": "isbn13",
       "value": "9781338029826"
     }
@@ -20,6 +24,7 @@
       "extent": 128,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "1338029827",
       "isbn13": "9781338029826",
       "kind": "print",
       "onsale": "2017-02-28T00:00:00.000Z"

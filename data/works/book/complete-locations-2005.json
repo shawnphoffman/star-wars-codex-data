@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Complete Locations",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756614198"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756614195"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756614198",
+      "isbn13": "9780756614195",
       "kind": "print",
       "onsale": "2005-10-17T00:00:00.000Z"
     }

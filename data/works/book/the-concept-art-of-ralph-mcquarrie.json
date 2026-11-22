@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Concept Art of Ralph McQuarrie",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683838076"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683838074"
+    }
+  ],
   "editions": [
     {
+      "extent": 304,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1683838076",
+      "isbn13": "9781683838074",
       "kind": "print",
       "onsale": "2019-10-08T00:00:00.000Z"
     }

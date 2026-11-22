@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Dark Side Sourcebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786918497"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786918492"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786918497",
+      "isbn13": "9780786918492",
       "kind": "print",
       "onsale": "2001-08-02T00:00:00.000Z"
     }

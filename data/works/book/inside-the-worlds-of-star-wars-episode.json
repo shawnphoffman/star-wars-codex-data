@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Inside the Worlds of Star Wars: Episode I",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0789466929"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780789466921"
+    }
+  ],
   "editions": [
     {
+      "extent": 48,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0789466929",
+      "isbn13": "9780789466921",
       "kind": "print",
       "onsale": "2000-10-05T00:00:00.000Z"
     }

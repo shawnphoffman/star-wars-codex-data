@@ -11,6 +11,18 @@
   "displayTitle": "Episode VI: Return of the Jedi",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "043968126X"
+    },
+    {
+      "type": "isbn10",
+      "value": "0545482356"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484717570"
+    },
+    {
       "type": "isbn13",
       "value": "9780439681261"
     },
@@ -25,8 +37,10 @@
   ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "043968126X",
       "isbn13": "9780439681261",
       "kind": "print",
       "onsale": "2004-10-01T00:00:00.000Z"
@@ -34,12 +48,14 @@
     {
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "0545482356",
       "isbn13": "9780545482356",
       "kind": "print"
     },
     {
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484717570",
       "isbn13": "9781484717578",
       "kind": "ebook",
       "onsale": "2014-05-04T00:00:00.000Z"

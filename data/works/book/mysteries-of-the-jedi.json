@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Mysteries of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756671973"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756671976"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756671973",
+      "isbn13": "9780756671976",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

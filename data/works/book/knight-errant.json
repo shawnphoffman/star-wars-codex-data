@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0345522648"
+    },
+    {
+      "type": "isbn10",
       "value": "0593726057"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 400,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0345522648",
       "isbn13": "9780345522641",
       "kind": "print",
       "onsale": "2011-01-25T00:00:00.000Z"

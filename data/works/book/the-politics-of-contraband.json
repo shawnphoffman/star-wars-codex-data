@@ -29,10 +29,22 @@
     }
   ],
   "displayTitle": "The Politics of Contraband",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311845"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311846"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311845",
+      "isbn13": "9780874311846",
       "kind": "print",
       "onsale": "1992-06-01T00:00:00.000Z"
     }

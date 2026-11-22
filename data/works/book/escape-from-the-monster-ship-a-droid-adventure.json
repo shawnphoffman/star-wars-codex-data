@@ -11,14 +11,20 @@
   "displayTitle": "Escape from the Monster Ship: A Droid Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394878647"
+    },
+    {
       "type": "isbn13",
       "value": "9780394878645"
     }
   ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 32,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394878647",
       "isbn13": "9780394878645",
       "kind": "print",
       "onsale": "1986-01-01T00:00:00.000Z"

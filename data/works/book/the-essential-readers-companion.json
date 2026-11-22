@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "The Essential Reader's Companion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345511190"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345511195"
+    }
+  ],
   "editions": [
     {
+      "extent": 496,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511190",
+      "isbn13": "9780345511195",
       "kind": "print",
       "onsale": "2012-10-02T00:00:00.000Z"
     }

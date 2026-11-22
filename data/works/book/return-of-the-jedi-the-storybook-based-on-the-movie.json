@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Return of the Jedi: The Storybook Based on the Movie",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394856244"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394856247"
+    }
+  ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 60,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394856244",
+      "isbn13": "9780394856247",
       "kind": "print",
       "onsale": "1983-05-12T00:00:00.000Z"
     }

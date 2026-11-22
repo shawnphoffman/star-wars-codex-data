@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Allies and Adversaries",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633443507"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633443501"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Fantasy Flight Games",
       "isPrimary": true,
+      "isbn10": "1633443507",
+      "isbn13": "9781633443501",
       "kind": "print",
       "onsale": "2019-04-18T00:00:00.000Z"
     }

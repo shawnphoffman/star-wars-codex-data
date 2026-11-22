@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Complete Vehicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465408746"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465408747"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465408746",
+      "isbn13": "9781465408747",
       "kind": "print",
       "onsale": "2013-07-29T00:00:00.000Z"
     }

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Inside the Worlds of Star Wars: Attack of the Clones",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "078949227X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780789492272"
+    }
+  ],
   "editions": [
     {
+      "extent": 40,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "078949227X",
+      "isbn13": "9780789492272",
       "kind": "print",
       "onsale": "2003-04-03T00:00:00.000Z"
     }

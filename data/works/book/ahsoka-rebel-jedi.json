@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "Ahsoka Rebel Jedi",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798217135059"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn13": "9798217135059",
+      "kind": "print",
+      "onsale": "2026-01-06T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

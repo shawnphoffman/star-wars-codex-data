@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "and History",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0470602007"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780470602003"
+    }
+  ],
   "editions": [
     {
+      "extent": 344,
       "imprint": "John Wiley & Sons",
       "isPrimary": true,
+      "isbn10": "0470602007",
+      "isbn13": "9780470602003",
       "kind": "print",
       "onsale": "2012-11-20T00:00:00.000Z"
     }

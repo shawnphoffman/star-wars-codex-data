@@ -17,6 +17,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0345260619"
+    },
+    {
+      "type": "isbn10",
       "value": "0345341465"
     },
     {
@@ -39,6 +43,7 @@
       "extent": 224,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345260619",
       "isbn13": "9780345260611",
       "kind": "print",
       "onsale": "1976-11-12T00:00:00.000Z"

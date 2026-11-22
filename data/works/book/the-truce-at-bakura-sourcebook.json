@@ -23,6 +23,10 @@
     {
       "type": "isbn10",
       "value": "0874312566"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312560"
     }
   ],
   "editions": [
@@ -31,6 +35,7 @@
       "imprint": "West End Games",
       "isPrimary": true,
       "isbn10": "0874312566",
+      "isbn13": "9780874312560",
       "kind": "print",
       "onsale": "1996-02-01T00:00:00.000Z"
     }

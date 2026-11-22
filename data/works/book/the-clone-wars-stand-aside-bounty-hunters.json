@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Clone Wars: Stand Aside - Bounty Hunters!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "075665775X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756657758"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "075665775X",
+      "isbn13": "9780756657758",
       "kind": "print",
       "onsale": "2009-12-07T00:00:00.000Z"
     }

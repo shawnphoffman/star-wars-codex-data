@@ -24,6 +24,10 @@
       "value": "0307795845"
     },
     {
+      "type": "isbn10",
+      "value": "0345477421"
+    },
+    {
       "type": "isbn13",
       "value": "9780307795847"
     },
@@ -47,6 +51,7 @@
       "extent": 384,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477421",
       "isbn13": "9780345477422",
       "kind": "print",
       "onsale": "2007-10-16T00:00:00.000Z"

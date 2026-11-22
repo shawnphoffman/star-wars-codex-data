@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780439994934"
+    },
+    {
+      "type": "isbn13",
       "value": "9780590519700"
     }
   ],
@@ -29,6 +33,7 @@
       "imprint": "Scholastic",
       "isPrimary": false,
       "isbn10": "0439994934",
+      "isbn13": "9780439994934",
       "kind": "print",
       "onsale": "2000-04-01T00:00:00.000Z"
     },

@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Inside the Worlds of Star Wars Trilogy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756603072"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756603076"
+    }
+  ],
   "editions": [
     {
+      "extent": 47,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756603072",
+      "isbn13": "9780756603076",
       "kind": "print",
       "onsale": "2004-08-05T00:00:00.000Z"
     }

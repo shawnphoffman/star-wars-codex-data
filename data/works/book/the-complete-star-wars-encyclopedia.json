@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "The Complete Star Wars Encyclopedia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477634"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477637"
+    }
+  ],
   "editions": [
     {
+      "extent": 1408,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477634",
+      "isbn13": "9780345477637",
       "kind": "print",
       "onsale": "2008-12-09T00:00:00.000Z"
     }

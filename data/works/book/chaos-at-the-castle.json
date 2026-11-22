@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Chaos at the Castle",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484774108"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484774106"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484774108",
+      "isbn13": "9781484774106",
+      "kind": "print",
+      "onsale": "2016-08-02T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

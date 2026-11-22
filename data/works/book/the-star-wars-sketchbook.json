@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Star Wars Sketchbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034527380X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345273802"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "034527380X",
+      "isbn13": "9780345273802",
       "kind": "print",
       "onsale": "1977-09-01T00:00:00.000Z"
     }

@@ -16,6 +16,10 @@
   "displayTitle": "The Force Unleashed II",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345511549"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511546"
     }
@@ -25,6 +29,7 @@
       "extent": 336,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345511549",
       "isbn13": "9780345511546",
       "kind": "print",
       "onsale": "2010-10-05T00:00:00.000Z"

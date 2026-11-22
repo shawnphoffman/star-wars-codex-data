@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "Starships and Speeders",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633443671"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633443679"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Fantasy Flight Games",
       "isPrimary": true,
+      "isbn10": "1633443671",
+      "isbn13": "9781633443679",
       "kind": "print",
       "onsale": "2020-02-28T00:00:00.000Z"
     }

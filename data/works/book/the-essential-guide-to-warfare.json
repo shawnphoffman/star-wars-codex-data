@@ -54,10 +54,23 @@
     }
   ],
   "displayTitle": "The Essential Guide to Warfare",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345477626"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477620"
+    }
+  ],
   "editions": [
     {
+      "extent": 256,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477626",
+      "isbn13": "9780345477620",
       "kind": "print",
       "onsale": "2012-04-03T00:00:00.000Z"
     }

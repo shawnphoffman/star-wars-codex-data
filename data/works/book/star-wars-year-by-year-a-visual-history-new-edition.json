@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Year By Year: A Visual History, New Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744028647"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744028645"
+    }
+  ],
   "editions": [
     {
+      "extent": 384,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0744028647",
+      "isbn13": "9780744028645",
       "kind": "print",
       "onsale": "2021-09-23T00:00:00.000Z"
     }

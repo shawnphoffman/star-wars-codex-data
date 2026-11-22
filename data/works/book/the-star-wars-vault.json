@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Star Wars Vault",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "184737106X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781847371065"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Simon & Schuster",
       "isPrimary": true,
+      "isbn10": "184737106X",
+      "isbn13": "9781847371065",
       "kind": "print",
       "onsale": "2007-10-30T00:00:00.000Z"
     }

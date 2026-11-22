@@ -4,6 +4,10 @@
   "displayTitle": "LEGO Star Wars: Han Solo and Chewie in Action",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0063579669"
+    },
+    {
       "type": "isbn13",
       "value": "9780063579668"
     }
@@ -13,6 +17,7 @@
       "extent": 40,
       "imprint": "AMEET",
       "isPrimary": true,
+      "isbn10": "0063579669",
       "isbn13": "9780063579668",
       "kind": "print",
       "onsale": "2026-11-03T00:00:00.000Z"

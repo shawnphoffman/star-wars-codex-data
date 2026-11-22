@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian and Grogu Ultimate Sticker Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0241791359"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780241791356"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 72,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0241791359",
+      "isbn13": "9780241791356",
+      "kind": "print"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

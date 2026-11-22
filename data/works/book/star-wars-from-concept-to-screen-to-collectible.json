@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "From Concept to Screen to Collectible",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811801012"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811801010"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 132,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "0811801012",
+      "isbn13": "9780811801010",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

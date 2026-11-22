@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Essential Guide to Weapons and Technology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345414136"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345414137"
+    }
+  ],
   "editions": [
     {
+      "extent": 240,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345414136",
+      "isbn13": "9780345414137",
       "kind": "print",
       "onsale": "1997-11-01T00:00:00.000Z"
     }

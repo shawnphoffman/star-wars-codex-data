@@ -11,6 +11,10 @@
   "displayTitle": "The Pirates of Tarnoonga: A Droid Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394879260"
+    },
+    {
       "type": "isbn13",
       "value": "9780394879260"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 29,
-      "imprint": "Random House",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394879260",
       "isbn13": "9780394879260",
       "kind": "print",
       "onsale": "1986-01-01T00:00:00.000Z"

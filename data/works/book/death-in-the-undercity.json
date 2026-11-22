@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Death in the Undercity",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311152"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311150"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311152",
+      "isbn13": "9780874311150",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

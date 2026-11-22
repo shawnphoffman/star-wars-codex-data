@@ -24,6 +24,27 @@
     }
   ],
   "displayTitle": "Art: Concept",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419708627"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419708626"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "1419708627",
+      "isbn13": "9781419708626",
+      "kind": "print",
+      "onsale": "2013-10-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

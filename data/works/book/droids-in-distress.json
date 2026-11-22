@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9781405275842"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704660"
     }
   ],
   "editions": [
@@ -29,12 +33,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1484704665",
+      "isbn13": "9781484704660",
       "kind": "print",
       "onsale": "2014-11-18T00:00:00.000Z"
     },
     {
       "extent": 128,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Egmont UK",
       "isPrimary": true,
       "isbn10": "1405275847",
       "isbn13": "9781405275842",

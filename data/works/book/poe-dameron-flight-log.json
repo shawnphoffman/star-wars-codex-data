@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Poe Dameron: Flight Log",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794437184"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794437183"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794437184",
+      "isbn13": "9780794437183",
+      "kind": "print",
+      "onsale": "2016-11-01T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

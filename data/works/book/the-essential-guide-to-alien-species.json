@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Essential Guide to Alien Species",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345442202"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345442208"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345442202",
+      "isbn13": "9780345442208",
       "kind": "print",
       "onsale": "2001-04-03T00:00:00.000Z"
     }

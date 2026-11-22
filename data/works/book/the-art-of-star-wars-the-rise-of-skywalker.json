@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars: The Rise of Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419740385"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419740381"
+    }
+  ],
   "editions": [
     {
+      "extent": 256,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419740385",
+      "isbn13": "9781419740381",
       "kind": "print",
       "onsale": "2020-03-31T00:00:00.000Z"
     }

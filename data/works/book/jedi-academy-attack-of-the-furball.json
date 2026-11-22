@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "Jedi Academy: Attack of the Furball",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1338295373"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781338295375"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "1338295373",
+      "isbn13": "9781338295375",
+      "kind": "print",
+      "onsale": "2019-09-03T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

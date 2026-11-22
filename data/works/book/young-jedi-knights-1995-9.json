@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "1572972726"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781572972728"
     }
   ],
   "editions": [
@@ -26,6 +30,7 @@
       "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "1572972726",
+      "isbn13": "9781572972728",
       "kind": "print",
       "onsale": "1997-07-01T00:00:00.000Z"
     }

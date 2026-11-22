@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Complete Saga",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545356318"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545356312"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0545356318",
+      "isbn13": "9780545356312",
       "kind": "print",
       "onsale": "2011-09-01T00:00:00.000Z"
     }

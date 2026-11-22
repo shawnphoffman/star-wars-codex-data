@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Chewbacca And The Wookiee Warriors",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756692458"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756692452"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756692458",
+      "isbn13": "9780756692452",
+      "kind": "print",
+      "onsale": "2012-04-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -20

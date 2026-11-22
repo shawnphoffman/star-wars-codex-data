@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Exploring Tatooine",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647225248"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647225247"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1647225248",
+      "isbn13": "9781647225247",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

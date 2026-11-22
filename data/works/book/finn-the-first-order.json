@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Finn & the First Order",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484704819"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704813"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484704819",
+      "isbn13": "9781484704813",
       "kind": "print",
       "onsale": "2015-12-18T00:00:00.000Z"
     }

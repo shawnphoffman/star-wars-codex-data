@@ -14,10 +14,22 @@
     }
   ],
   "displayTitle": "The New Essential Guide to Weapons and Technology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345449037"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345449030"
+    }
+  ],
   "editions": [
     {
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345449037",
+      "isbn13": "9780345449030",
       "kind": "print",
       "onsale": "2004-10-26T00:00:00.000Z"
     }

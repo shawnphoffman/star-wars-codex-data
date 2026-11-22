@@ -2,6 +2,26 @@
   "bookType": "graphicNovel",
   "canonStatus": "canon",
   "displayTitle": "Tales from the Outer Rim: The Legend of Beggar's Canyon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1545835314"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781545835319"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "isPrimary": true,
+      "isbn10": "1545835314",
+      "isbn13": "9781545835319",
+      "kind": "print",
+      "onsale": "2027-03-09T00:00:00.000Z"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "releaseDate": "2027-03-09T00:00:00.000Z",

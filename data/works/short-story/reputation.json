@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Ari Marmell",
+      "role": "writer",
+      "slug": "ari-marmell"
+    }
+  ],
+  "displayTitle": "Reputation",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -26
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2012-09-04T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "reputation",
+  "synopsis": "\"Reputation\" is a short story written by Ari Marmell that appeared in the magazine Star Wars Insider 136 in September 2012. The story takes place eight years after the Invasion of Naboo and features the bounty hunter Cad Bane trying to forge a reputation for himself.",
+  "title": "Reputation"
+}

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Anakin Skywalker: The Story of Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811821587"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811821582"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "0811821587",
+      "isbn13": "9780811821582",
+      "kind": "print",
+      "onsale": "1998-10-28T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

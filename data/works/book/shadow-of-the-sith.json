@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0593358600"
+    },
+    {
+      "type": "isbn10",
       "value": "0593358627"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 496,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0593358600",
       "isbn13": "9780593358603",
       "kind": "print",
       "onsale": "2022-06-28T00:00:00.000Z"

@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The New Essential Guide to Alien Species",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034547760X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345477606"
+    }
+  ],
   "editions": [
     {
+      "extent": 240,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034547760X",
+      "isbn13": "9780345477606",
       "kind": "print",
       "onsale": "2006-10-31T00:00:00.000Z"
     }

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Learn to Draw Star Wars: Volume 2",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633226824"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633226821"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "isPrimary": true,
+      "isbn10": "1633226824",
+      "isbn13": "9781633226821",
+      "kind": "print",
+      "onsale": "2018-10-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -26,14 +26,14 @@
   ],
   "editions": [
     {
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": false,
       "kind": "print",
       "onsale": "2021-01-05T00:00:00.000Z"
     },
     {
       "extent": 400,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0593157710",
       "isbn13": "9780593157718",

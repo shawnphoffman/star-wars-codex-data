@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Block: Over 100 Words Every Fan Should Know",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419728318"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419728310"
+    }
+  ],
   "editions": [
     {
+      "extent": 104,
       "imprint": "Abrams Appleseed",
       "isPrimary": true,
+      "isbn10": "1419728318",
+      "isbn13": "9781419728310",
       "kind": "print",
       "onsale": "2018-05-01T00:00:00.000Z"
     }

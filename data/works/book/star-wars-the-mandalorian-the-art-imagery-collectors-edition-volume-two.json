@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian - The Art & Imagery Collector's Edition, Volume Two",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787735753"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787735750"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Titan Comics",
       "isPrimary": true,
+      "isbn10": "1787735753",
+      "isbn13": "9781787735750",
       "kind": "print",
       "onsale": "2021-02-02T00:00:00.000Z"
     }

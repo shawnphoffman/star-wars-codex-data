@@ -11,6 +11,10 @@
   "displayTitle": "The Journal of Master Gnost-Dural",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1452107602"
+    },
+    {
       "type": "isbn13",
       "value": "9781452107608"
     }
@@ -20,6 +24,7 @@
       "extent": 111,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1452107602",
       "isbn13": "9781452107608",
       "kind": "print",
       "onsale": "2011-12-20T00:00:00.000Z"

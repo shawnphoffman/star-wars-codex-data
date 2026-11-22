@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Mandalorian Official Funko POP! Coloring Book",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337402512"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798337402512",
+      "kind": "print",
+      "onsale": "2026-05-19T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

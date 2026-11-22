@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Episode I What's What",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0762407298"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780762407293"
+    }
+  ],
   "editions": [
     {
+      "extent": 125,
       "imprint": "Running Press",
       "isPrimary": true,
+      "isbn10": "0762407298",
+      "isbn13": "9780762407293",
       "kind": "print",
       "onsale": "1999-04-21T00:00:00.000Z"
     }

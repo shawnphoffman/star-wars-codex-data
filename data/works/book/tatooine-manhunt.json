@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Tatooine Manhunt",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874310695"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874310696"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874310695",
+      "isbn13": "9780874310696",
       "kind": "print",
       "onsale": "1988-05-01T00:00:00.000Z"
     }

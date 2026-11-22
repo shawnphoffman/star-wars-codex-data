@@ -49,10 +49,23 @@
     }
   ],
   "displayTitle": "The Kathol Outback",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312701"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312706"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312701",
+      "isbn13": "9780874312706",
       "kind": "print",
       "onsale": "1996-01-15T00:00:00.000Z"
     }

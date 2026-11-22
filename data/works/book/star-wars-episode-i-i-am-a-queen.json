@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: I Am a Queen",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375805230"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375805233"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375805230",
+      "isbn13": "9780375805233",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

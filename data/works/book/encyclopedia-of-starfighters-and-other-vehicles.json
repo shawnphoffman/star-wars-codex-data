@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Encyclopedia of Starfighters and Other Vehicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465466657"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465466655"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "1465466657",
+      "isbn13": "9781465466655",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

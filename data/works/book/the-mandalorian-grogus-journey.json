@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Mandalorian: Grogu's Journey",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794446981"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794446987"
+    }
+  ],
   "editions": [
     {
+      "extent": 12,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794446981",
+      "isbn13": "9780794446987",
       "kind": "print",
       "onsale": "2022-06-21T00:00:00.000Z"
     }

@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "Return of the Jedi Sketchbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345309596"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345309594"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 95,
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "isbn10": "0345309596",
+      "isbn13": "9780345309594",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

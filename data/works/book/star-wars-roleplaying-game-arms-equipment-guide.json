@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "Roleplaying Game: Arms & Equipment Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786927828"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786927821"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Wizards of the Coast",
+      "isPrimary": true,
+      "isbn10": "0786927828",
+      "isbn13": "9780786927821",
+      "kind": "print",
+      "onsale": "2002-10-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

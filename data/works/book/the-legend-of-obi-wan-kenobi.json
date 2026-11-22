@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "The Legend of Obi-Wan Kenobi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593482840"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593482841"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0593482840",
+      "isbn13": "9780593482841",
+      "kind": "print",
+      "onsale": "2022-05-03T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

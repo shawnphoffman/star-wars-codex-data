@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Droid Adventures Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405280018"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405280013"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405280018",
+      "isbn13": "9781405280013",
+      "kind": "print",
+      "onsale": "2016-06-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

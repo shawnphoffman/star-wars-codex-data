@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Star Wars Archives: Episodes IV-VI, 1977-1983",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "3836563401"
+    },
+    {
+      "type": "isbn13",
+      "value": "9783836563406"
+    }
+  ],
   "editions": [
     {
+      "extent": 604,
       "imprint": "TASCHEN",
       "isPrimary": true,
+      "isbn10": "3836563401",
+      "isbn13": "9783836563406",
       "kind": "print",
       "onsale": "2018-11-27T00:00:00.000Z"
     }

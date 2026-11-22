@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Skywalker: A Family at War",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744027314"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744027310"
+    }
+  ],
   "editions": [
     {
+      "extent": 320,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0744027314",
+      "isbn13": "9780744027310",
       "kind": "print",
       "onsale": "2021-04-06T00:00:00.000Z"
     }

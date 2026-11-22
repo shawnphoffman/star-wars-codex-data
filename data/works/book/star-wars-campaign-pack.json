@@ -9,10 +9,22 @@
     }
   ],
   "displayTitle": "Campaign Pack",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874310687"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874310689"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874310687",
+      "isbn13": "9780874310689",
       "kind": "print",
       "onsale": "1988-01-01T00:00:00.000Z"
     }

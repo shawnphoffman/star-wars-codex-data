@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Roleplaying Game, Second Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311810"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311815"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311810",
+      "isbn13": "9780874311815",
       "kind": "print",
       "onsale": "1992-10-01T00:00:00.000Z"
     }

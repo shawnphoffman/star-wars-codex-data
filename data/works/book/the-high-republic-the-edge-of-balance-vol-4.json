@@ -31,6 +31,10 @@
   "displayTitle": "The High Republic: The Edge of Balance, Vol. 4",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1974752674"
+    },
+    {
       "type": "isbn13",
       "value": "9781974752676"
     }
@@ -40,6 +44,7 @@
       "extent": 128,
       "imprint": "Viz Media",
       "isPrimary": true,
+      "isbn10": "1974752674",
       "isbn13": "9781974752676",
       "kind": "print",
       "onsale": "2025-04-22T00:00:00.000Z"

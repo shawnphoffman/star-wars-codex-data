@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Millennium Falcon Owner's Workshop Manual",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345533046"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345533043"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345533046",
+      "isbn13": "9780345533043",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Attack of the Clones: The Illustrated Companion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0091884780"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780091884789"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Ebury Press",
       "isPrimary": true,
+      "isbn10": "0091884780",
+      "isbn13": "9780091884789",
       "kind": "print",
       "onsale": "2002-04-22T00:00:00.000Z"
     }

@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Year by Year: A Visual Chronicle",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756657644"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756657642"
+    }
+  ],
   "editions": [
     {
+      "extent": 320,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756657644",
+      "isbn13": "9780756657642",
       "kind": "print",
       "onsale": "2010-08-16T00:00:00.000Z"
     }

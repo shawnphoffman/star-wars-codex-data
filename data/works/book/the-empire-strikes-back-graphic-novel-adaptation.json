@@ -11,6 +11,10 @@
   "displayTitle": "The Empire Strikes Back Graphic Novel Adaptation",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1684054087"
+    },
+    {
       "type": "isbn13",
       "value": "9781684054084"
     }
@@ -20,6 +24,7 @@
       "extent": 72,
       "imprint": "IDW Publishing",
       "isPrimary": true,
+      "isbn10": "1684054087",
       "isbn13": "9781684054084",
       "kind": "print",
       "onsale": "2019-03-05T00:00:00.000Z"

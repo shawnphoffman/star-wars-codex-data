@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Podrace!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101581"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101585"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439101581",
+      "isbn13": "9780439101585",
       "kind": "print",
       "onsale": "1999-10-01T00:00:00.000Z"
     }

@@ -11,6 +11,10 @@
   "displayTitle": "Sacrifice",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345477405"
+    },
+    {
       "type": "isbn13",
       "value": "9780345477408"
     }
@@ -20,6 +24,7 @@
       "extent": 367,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345477405",
       "isbn13": "9780345477408",
       "kind": "print",
       "onsale": "2007-05-29T00:00:00.000Z"

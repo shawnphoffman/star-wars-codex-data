@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "087431125X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311259"
     }
   ],
   "editions": [
@@ -20,6 +24,7 @@
       "imprint": "West End Games",
       "isPrimary": true,
       "isbn10": "087431125X",
+      "isbn13": "9780874311259",
       "kind": "print",
       "onsale": "1989-01-01T00:00:00.000Z"
     }

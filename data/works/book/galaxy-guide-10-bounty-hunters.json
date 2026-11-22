@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Galaxy Guide 10: Bounty Hunters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312078"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312072"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312078",
+      "isbn13": "9780874312072",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

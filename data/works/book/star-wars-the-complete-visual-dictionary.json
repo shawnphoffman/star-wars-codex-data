@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Complete Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756622387"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756622381"
+    }
+  ],
   "editions": [
     {
+      "extent": 272,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756622387",
+      "isbn13": "9780756622381",
       "kind": "print",
       "onsale": "2006-09-25T00:00:00.000Z"
     }

@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "Stock Ships",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315093"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315097"
+    }
+  ],
   "editions": [
     {
+      "extent": 72,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874315093",
+      "isbn13": "9780874315097",
       "kind": "print",
       "onsale": "1997-06-01T00:00:00.000Z"
     }

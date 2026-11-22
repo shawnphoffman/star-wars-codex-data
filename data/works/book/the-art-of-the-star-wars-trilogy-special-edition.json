@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "displayTitle": "The Art of the Star Wars Trilogy Special Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034542557X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345425577"
+    }
+  ],
   "editions": [
     {
+      "extent": 56,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034542557X",
+      "isbn13": "9780345425577",
       "kind": "print",
       "onsale": "1997-10-26T00:00:00.000Z"
     }

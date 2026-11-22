@@ -1,5 +1,5 @@
 {
-  "bookType": "shortStory",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -13,13 +13,19 @@
     {
       "type": "isbn10",
       "value": "0553568167"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553568165"
     }
   ],
   "editions": [
     {
+      "extent": 339,
       "imprint": "Bantam Spectra",
       "isPrimary": true,
       "isbn10": "0553568167",
+      "isbn13": "9780553568165",
       "kind": "print",
       "onsale": "1996-12-01T00:00:00.000Z"
     }

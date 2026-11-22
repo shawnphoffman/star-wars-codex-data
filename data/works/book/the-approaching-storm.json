@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9780345442994"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345443007"
     }
   ],
   "editions": [
@@ -29,12 +33,13 @@
       "imprint": "Del Rey",
       "isPrimary": false,
       "isbn10": "0345443004",
+      "isbn13": "9780345443007",
       "kind": "print",
       "onsale": "2002-01-29T00:00:00.000Z"
     },
     {
       "extent": 384,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345442997",
       "isbn13": "9780345442994",

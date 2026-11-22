@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Mandalorian: The Mandalorian's Quest",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368075959"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368075954"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368075959",
+      "isbn13": "9781368075954",
+      "kind": "print",
+      "onsale": "2022-01-11T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

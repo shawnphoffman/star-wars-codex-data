@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Power of the Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484780752"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484780756"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484780752",
+      "isbn13": "9781484780756",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

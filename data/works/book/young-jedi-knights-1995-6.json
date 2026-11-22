@@ -20,6 +20,10 @@
       "value": "0752203754"
     },
     {
+      "type": "isbn10",
+      "value": "1572971630"
+    },
+    {
       "type": "isbn13",
       "value": "9780752203751"
     },
@@ -42,6 +46,7 @@
       "extent": 240,
       "imprint": "Boulevard",
       "isPrimary": true,
+      "isbn10": "1572971630",
       "isbn13": "9781572971639",
       "kind": "print",
       "onsale": "1996-09-01T00:00:00.000Z"

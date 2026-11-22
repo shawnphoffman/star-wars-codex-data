@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Adventures in Hyperspace: Fire Ring Race",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545213584"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545213585"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545213584",
+      "isbn13": "9780545213585",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -3

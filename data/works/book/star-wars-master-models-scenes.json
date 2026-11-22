@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Master Models: Scenes",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0760355037"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780760355039"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "isPrimary": true,
+      "isbn10": "0760355037",
+      "isbn13": "9780760355039",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

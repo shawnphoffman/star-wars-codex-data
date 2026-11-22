@@ -18,6 +18,10 @@
     {
       "type": "isbn10",
       "value": "157297091X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781572970915"
     }
   ],
   "editions": [
@@ -26,6 +30,7 @@
       "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "157297091X",
+      "isbn13": "9781572970915",
       "kind": "print",
       "onsale": "1996-03-01T00:00:00.000Z"
     }

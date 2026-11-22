@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Warriors of the Deep",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "044845727X"
+    },
+    {
       "type": "isbn13",
       "value": "9780448457277"
     }
@@ -20,6 +24,7 @@
       "extent": 160,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "044845727X",
       "isbn13": "9780448457277",
       "kind": "print",
       "onsale": "2011-10-27T00:00:00.000Z"

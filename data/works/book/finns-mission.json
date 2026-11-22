@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Finn's Mission",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465451315"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465451316"
+    }
+  ],
   "editions": [
     {
+      "extent": 64,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465451315",
+      "isbn13": "9781465451316",
       "kind": "print",
       "onsale": "2016-06-07T00:00:00.000Z"
     }

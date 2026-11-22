@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Adventure in Beggar's Canyon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307988791"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307988799"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 22,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307988791",
+      "isbn13": "9780307988799",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -5

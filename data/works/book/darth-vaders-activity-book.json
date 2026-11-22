@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Darth Vader's Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "039484033X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394840338"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "039484033X",
+      "isbn13": "9780394840338",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

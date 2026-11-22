@@ -21,6 +21,10 @@
   "displayTitle": "Leia, Princess of Alderaan, Vol. 2 (Manga)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "4866972149"
+    },
+    {
       "type": "isbn13",
       "value": "9784866972145"
     }
@@ -30,6 +34,7 @@
       "extent": 184,
       "imprint": "Line Corporation",
       "isPrimary": true,
+      "isbn10": "4866972149",
       "isbn13": "9784866972145",
       "kind": "print",
       "onsale": "2021-09-15T00:00:00.000Z"

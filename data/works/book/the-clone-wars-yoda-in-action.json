@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Yoda In Action",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "075664514X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756645144"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "075664514X",
+      "isbn13": "9780756645144",
+      "kind": "print",
+      "onsale": "2009-02-16T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

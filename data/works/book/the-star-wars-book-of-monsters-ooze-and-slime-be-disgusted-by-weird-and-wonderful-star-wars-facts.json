@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "The Star Wars Book of Monsters, Ooze and Slime: Be Disgusted by Weird and Wonderful Star Wars Facts!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744031273"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744031270"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744031273",
+      "isbn13": "9780744031270",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

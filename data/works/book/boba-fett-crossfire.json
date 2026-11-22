@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9780439339285"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439390026"
     }
   ],
   "editions": [
@@ -29,6 +33,7 @@
       "imprint": "Scholastic",
       "isPrimary": false,
       "isbn10": "0439390028",
+      "isbn13": "9780439390026",
       "kind": "print",
       "onsale": "2002-11-01T00:00:00.000Z"
     },

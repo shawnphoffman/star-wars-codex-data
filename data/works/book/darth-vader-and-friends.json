@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Darth Vader And Friends",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452138109"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452138107"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1452138109",
+      "isbn13": "9781452138107",
+      "kind": "print",
+      "onsale": "2015-04-28T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

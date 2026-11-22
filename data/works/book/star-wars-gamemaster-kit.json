@@ -9,10 +9,22 @@
     }
   ],
   "displayTitle": "Gamemaster Kit",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311195"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311198"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311195",
+      "isbn13": "9780874311198",
       "kind": "print",
       "onsale": "1991-09-01T00:00:00.000Z"
     }

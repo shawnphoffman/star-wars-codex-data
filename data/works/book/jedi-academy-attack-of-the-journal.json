@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Jedi Academy: Attack of the Journal",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545852781"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545852784"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 112,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0545852781",
+      "isbn13": "9780545852784",
+      "kind": "print",
+      "onsale": "2015-08-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

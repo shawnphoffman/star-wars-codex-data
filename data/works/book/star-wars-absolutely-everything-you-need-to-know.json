@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Absolutely Everything You Need to Know",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465437851"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465437853"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465437851",
+      "isbn13": "9781465437853",
       "kind": "print",
       "onsale": "2015-09-04T00:00:00.000Z"
     }

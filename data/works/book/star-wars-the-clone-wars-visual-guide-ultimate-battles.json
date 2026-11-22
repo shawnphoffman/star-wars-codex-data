@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Clone Wars Visual Guide: Ultimate Battles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756652022"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756652029"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756652022",
+      "isbn13": "9780756652029",
       "kind": "print",
       "onsale": "2009-08-17T00:00:00.000Z"
     }

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Join the Rebellion!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744028604"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744028607"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "DK Children",
+      "isPrimary": true,
+      "isbn10": "0744028604",
+      "isbn13": "9780744028607",
+      "kind": "print",
+      "onsale": "2021-06-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

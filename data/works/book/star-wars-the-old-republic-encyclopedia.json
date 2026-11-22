@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "The Old Republic Encyclopedia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756698391"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756698393"
+    }
+  ],
   "editions": [
     {
+      "extent": 352,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756698391",
+      "isbn13": "9780756698393",
       "kind": "print",
       "onsale": "2012-10-15T00:00:00.000Z"
     }

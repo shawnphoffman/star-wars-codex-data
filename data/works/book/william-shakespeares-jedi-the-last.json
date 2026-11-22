@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "William Shakespeare's Jedi the Last: Star Wars Part the Eighth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683690877"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683690870"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Quirk Books",
       "isPrimary": true,
+      "isbn10": "1683690877",
+      "isbn13": "9781683690870",
       "kind": "print",
       "onsale": "2018-07-10T00:00:00.000Z"
     }

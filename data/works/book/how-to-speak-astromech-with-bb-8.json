@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "How to Speak Astromech with BB-8",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1797201778"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781797201771"
+    }
+  ],
   "editions": [
     {
+      "extent": 12,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1797201778",
+      "isbn13": "9781797201771",
       "kind": "print",
       "onsale": "2020-04-21T00:00:00.000Z"
     }

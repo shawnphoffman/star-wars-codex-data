@@ -24,6 +24,26 @@
     }
   ],
   "displayTitle": "Classic Adventures: Volume Three",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312825"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312829"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 127,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312825",
+      "isbn13": "9780874312829",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

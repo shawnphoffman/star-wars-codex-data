@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Return of the Jedi (Mighty Chronicles)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811814947"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811814942"
+    }
+  ],
   "editions": [
     {
+      "extent": 432,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811814947",
+      "isbn13": "9780811814942",
       "kind": "print",
       "onsale": "1996-12-01T00:00:00.000Z"
     }

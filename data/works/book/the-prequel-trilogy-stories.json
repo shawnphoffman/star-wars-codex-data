@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "The Prequel Trilogy Stories",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484759079"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484759073"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 304,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484759079",
+      "isbn13": "9781484759073",
+      "kind": "print",
+      "onsale": "2017-09-26T00:00:00.000Z"
+    }
+  ],
   "era": "fallOfTheJedi",
   "format": "book",
   "inUniverseDate": {

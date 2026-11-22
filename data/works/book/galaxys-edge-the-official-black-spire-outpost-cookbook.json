@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "Galaxy's Edge: The Official Black Spire Outpost Cookbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683837983"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683837985"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1683837983",
+      "isbn13": "9781683837985",
+      "kind": "print",
+      "onsale": "2019-11-05T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

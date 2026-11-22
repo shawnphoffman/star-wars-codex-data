@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Solo: A Star Wars Story Look and Find",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1503733785"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781503733787"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "isPrimary": true,
+      "isbn10": "1503733785",
+      "isbn13": "9781503733787",
+      "kind": "print",
+      "onsale": "2018-05-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -10,

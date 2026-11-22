@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "No Disintegrations",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633443116"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633443112"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Fantasy Flight Games",
       "isPrimary": true,
+      "isbn10": "1633443116",
+      "isbn13": "9781633443112",
       "kind": "print",
       "onsale": "2017-02-02T00:00:00.000Z"
     }

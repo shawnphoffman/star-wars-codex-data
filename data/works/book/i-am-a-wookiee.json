@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "I Am a Wookiee",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736437967"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736437967"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0736437967",
+      "isbn13": "9780736437967",
       "kind": "print",
       "onsale": "2018-07-24T00:00:00.000Z"
     }

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: The Battle For Ryloth",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0448452014"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780448452012"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn10": "0448452014",
+      "isbn13": "9780448452012",
+      "kind": "print",
+      "onsale": "2009-07-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

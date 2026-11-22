@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Revenge of the Sith Ultimate Sticker Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "075661130X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611309"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "075661130X",
+      "isbn13": "9780756611309",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

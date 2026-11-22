@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Last Jedi: Rey's Journey",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "148478183X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484781838"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "148478183X",
+      "isbn13": "9781484781838",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

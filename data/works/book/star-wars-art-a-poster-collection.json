@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Art: A Poster Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "141971581X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419715815"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 42,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "141971581X",
+      "isbn13": "9781419715815",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

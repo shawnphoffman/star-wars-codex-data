@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Star Wars Planets Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312221"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312225"
+    }
+  ],
   "editions": [
     {
+      "extent": 256,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312221",
+      "isbn13": "9780874312225",
       "kind": "print",
       "onsale": "1994-10-01T00:00:00.000Z"
     }

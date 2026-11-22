@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "George Lucas: The Creative Impulse",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0810935643"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780810935648"
+    }
+  ],
   "editions": [
     {
-      "imprint": "Harry N. Abrams",
+      "extent": 208,
+      "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "0810935643",
+      "isbn13": "9780810935648",
       "kind": "print",
       "onsale": "1992-09-01T00:00:00.000Z"
     }

@@ -11,14 +11,20 @@
   "displayTitle": "The White Witch: A Droid Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394879724"
+    },
+    {
       "type": "isbn13",
       "value": "9780394879727"
     }
   ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 20,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394879724",
       "isbn13": "9780394879727",
       "kind": "print",
       "onsale": "1986-01-01T00:00:00.000Z"

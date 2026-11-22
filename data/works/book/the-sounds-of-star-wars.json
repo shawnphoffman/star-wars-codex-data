@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Sounds of Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0857200763"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780857200761"
+    }
+  ],
   "editions": [
     {
+      "extent": 304,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0857200763",
+      "isbn13": "9780857200761",
       "kind": "print",
       "onsale": "2010-08-23T00:00:00.000Z"
     }

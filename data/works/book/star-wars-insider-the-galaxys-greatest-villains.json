@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Insider: The Galaxy's Greatest Villains",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787738663"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787738669"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Titan Comics",
+      "isPrimary": true,
+      "isbn10": "1787738663",
+      "isbn13": "9781787738669",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

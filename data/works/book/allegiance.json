@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0099491974"
+    },
+    {
+      "type": "isbn10",
       "value": "0345477383"
     },
     {
@@ -26,8 +30,9 @@
   "editions": [
     {
       "extent": 336,
-      "imprint": "Del Rey",
+      "imprint": "Arrow",
       "isPrimary": false,
+      "isbn10": "0099491974",
       "isbn13": "9780099491972",
       "kind": "print",
       "onsale": "2007-01-30T00:00:00.000Z"

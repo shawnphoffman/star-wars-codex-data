@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "William Shakespeare's The Empire Striketh Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1594747156"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781594747151"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Quirk Books",
+      "isPrimary": true,
+      "isbn10": "1594747156",
+      "isbn13": "9781594747151",
+      "kind": "print",
+      "onsale": "2014-03-18T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "releaseDate": "2014-03-18T00:00:00.000Z",
   "releaseDisplayState": "released",

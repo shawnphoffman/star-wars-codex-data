@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Lightsaber Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683839781"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683839781"
+    }
+  ],
   "editions": [
     {
+      "extent": 154,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1683839781",
+      "isbn13": "9781683839781",
       "kind": "print",
       "onsale": "2020-10-20T00:00:00.000Z"
     }

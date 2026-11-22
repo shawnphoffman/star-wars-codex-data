@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Essential Chronology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345434390"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345434395"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345434390",
+      "isbn13": "9780345434395",
       "kind": "print",
       "onsale": "2000-04-04T00:00:00.000Z"
     }

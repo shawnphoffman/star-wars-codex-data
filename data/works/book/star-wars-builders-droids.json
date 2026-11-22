@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Builders: Droids",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1626867259"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781626867253"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "isPrimary": true,
+      "isbn10": "1626867259",
+      "isbn13": "9781626867253",
+      "kind": "print",
+      "onsale": "2016-11-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

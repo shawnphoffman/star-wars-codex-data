@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0345435389"
+    },
+    {
+      "type": "isbn10",
       "value": "0593974778"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 352,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0345435389",
       "isbn13": "9780345435385",
       "kind": "print",
       "onsale": "2000-05-02T00:00:00.000Z"

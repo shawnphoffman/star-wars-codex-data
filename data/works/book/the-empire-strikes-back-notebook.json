@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back Notebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345288343"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345288349"
+    }
+  ],
   "editions": [
     {
+      "extent": 127,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345288343",
+      "isbn13": "9780345288349",
       "kind": "print",
       "onsale": "1980-10-01T00:00:00.000Z"
     }

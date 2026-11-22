@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Jude Watson",
+      "role": "writer",
+      "slug": "jude-watson"
+    }
+  ],
+  "displayTitle": "Ghosts of the Sith",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -19
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2006-06-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "ghosts-of-the-sith-076940529f",
+  "synopsis": "\"Ghosts of the Sith\" is a short story appearing in Star Wars Insider 88 and Star Wars: The Official Magazine 65. It is written by Jude Watson and illustrated by Linh Ngo. It details a visit to Korriban by Ferus Olin.",
+  "title": "Ghosts of the Sith"
+}

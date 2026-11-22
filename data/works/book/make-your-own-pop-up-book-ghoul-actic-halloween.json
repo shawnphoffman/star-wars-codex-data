@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Make Your Own Pop-Up Book: Ghoul-Actic Halloween",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683839668"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683839668"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1683839668",
+      "isbn13": "9781683839668",
+      "kind": "print",
+      "onsale": "2021-07-13T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

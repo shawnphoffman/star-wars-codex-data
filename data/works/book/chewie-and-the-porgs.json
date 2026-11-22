@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "1484780760"
+    },
+    {
+      "type": "isbn10",
       "value": "1760501395"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 48,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484780760",
       "isbn13": "9781484780763",
       "kind": "print",
       "onsale": "2017-12-15T00:00:00.000Z"

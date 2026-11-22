@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Forces of Destiny: Daring Adventures: Volume 1",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368011225"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368011228"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 120,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368011225",
+      "isbn13": "9781368011228",
+      "kind": "print",
+      "onsale": "2017-08-01T00:00:00.000Z"
+    }
+  ],
   "era": "multiEra",
   "format": "book",
   "periodical": {

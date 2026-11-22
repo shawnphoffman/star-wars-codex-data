@@ -217,14 +217,14 @@
   "editions": [
     {
       "extent": 576,
-      "imprint": "Del Rey",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "kind": "print",
       "onsale": "2023-08-29T00:00:00.000Z"
     },
     {
       "extent": 576,
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": false,
       "isbn10": "0593597915",
       "isbn13": "9780593597910",

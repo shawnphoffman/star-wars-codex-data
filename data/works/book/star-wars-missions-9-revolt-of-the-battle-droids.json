@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0590188224"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590188227"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0590188224",
+      "isbn13": "9780590188227",
       "kind": "print",
       "onsale": "1998-05-01T00:00:00.000Z"
     }

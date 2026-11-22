@@ -2,6 +2,27 @@
   "bookType": "manga",
   "canonStatus": "non-canon",
   "displayTitle": "Visions - The Manga Anthology",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1974746844"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781974746842"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 232,
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn10": "1974746844",
+      "isbn13": "9781974746842",
+      "kind": "print",
+      "onsale": "2024-05-07T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "imprint": "Viz Media",

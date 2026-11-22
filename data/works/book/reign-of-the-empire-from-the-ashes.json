@@ -9,11 +9,25 @@
     }
   ],
   "displayTitle": "Reign of the Empire: From the Ashes",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593874048"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593874042"
+    }
+  ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 320,
+      "imprint": "Random House Worlds",
       "isPrimary": true,
-      "kind": "print"
+      "isbn10": "0593874048",
+      "isbn13": "9780593874042",
+      "kind": "print",
+      "onsale": "2027-08-10T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",

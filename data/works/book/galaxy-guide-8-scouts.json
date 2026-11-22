@@ -14,6 +14,25 @@
     }
   ],
   "displayTitle": "Galaxy Guide 8: Scouts",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311888"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311884"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311888",
+      "isbn13": "9780874311884",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

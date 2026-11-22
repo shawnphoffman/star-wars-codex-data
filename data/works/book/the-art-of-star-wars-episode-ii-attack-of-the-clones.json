@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Episode II: Attack of the Clones",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345431251"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345431257"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345431251",
+      "isbn13": "9780345431257",
       "kind": "print",
       "onsale": "2002-04-23T00:00:00.000Z"
     }

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars: Visions",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1506728510"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781506728513"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1506728510",
+      "isbn13": "9781506728513",
       "kind": "print",
       "onsale": "2022-10-05T00:00:00.000Z"
     }

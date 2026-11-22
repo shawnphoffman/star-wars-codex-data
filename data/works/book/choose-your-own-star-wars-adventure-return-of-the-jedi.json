@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Choose Your Own Star Wars Adventure: Return of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0553486535"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780553486537"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Bantam Skylark",
       "isPrimary": true,
+      "isbn10": "0553486535",
+      "isbn13": "9780553486537",
       "kind": "print",
       "onsale": "1998-08-10T00:00:00.000Z"
     }

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Monsters and Aliens from George Lucas",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0810936402"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780810936409"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "0810936402",
+      "isbn13": "9780810936409",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

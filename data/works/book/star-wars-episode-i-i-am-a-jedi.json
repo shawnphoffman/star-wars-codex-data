@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: I Am a Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375800263"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375800269"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375800263",
+      "isbn13": "9780375800269",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

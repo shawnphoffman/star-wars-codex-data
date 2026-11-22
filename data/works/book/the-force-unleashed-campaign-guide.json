@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Force Unleashed Campaign Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786947438"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786947430"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786947438",
+      "isbn13": "9780786947430",
       "kind": "print",
       "onsale": "2008-09-16T00:00:00.000Z"
     }

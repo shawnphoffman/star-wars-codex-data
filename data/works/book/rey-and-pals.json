@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rey and Pals",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452180431"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452180434"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1452180431",
+      "isbn13": "9781452180434",
+      "kind": "print",
+      "onsale": "2019-08-20T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

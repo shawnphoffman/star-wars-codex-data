@@ -16,6 +16,10 @@
   "displayTitle": "Young Jedi Knights: Heirs of the Force",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1572970669"
+    },
+    {
       "type": "isbn13",
       "value": "9781572970663"
     }
@@ -25,6 +29,7 @@
       "extent": 240,
       "imprint": "Boulevard",
       "isPrimary": true,
+      "isbn10": "1572970669",
       "isbn13": "9781572970663",
       "kind": "print",
       "onsale": "1995-06-01T00:00:00.000Z"

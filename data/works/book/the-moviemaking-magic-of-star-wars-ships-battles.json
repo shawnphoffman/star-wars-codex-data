@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Moviemaking Magic of Star Wars: Ships & Battles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419736337"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419736339"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419736337",
+      "isbn13": "9781419736339",
       "kind": "print",
       "onsale": "2019-12-17T00:00:00.000Z"
     }

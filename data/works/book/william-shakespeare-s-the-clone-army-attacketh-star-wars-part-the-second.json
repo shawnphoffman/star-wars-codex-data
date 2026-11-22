@@ -11,6 +11,10 @@
   "displayTitle": "William Shakespeare's The Clone Army Attacketh: Star Wars Part the Second",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1594748071"
+    },
+    {
       "type": "isbn13",
       "value": "9781594748073"
     }
@@ -20,6 +24,7 @@
       "extent": 176,
       "imprint": "Quirk Books",
       "isPrimary": true,
+      "isbn10": "1594748071",
       "isbn13": "9781594748073",
       "kind": "print",
       "onsale": "2015-07-07T00:00:00.000Z"

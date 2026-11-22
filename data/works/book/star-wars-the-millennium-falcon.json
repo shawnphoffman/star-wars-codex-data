@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Millennium Falcon",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316935913"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316935913"
+    }
+  ],
   "editions": [
     {
+      "extent": 12,
       "imprint": "Little, Brown and Company",
       "isPrimary": true,
+      "isbn10": "0316935913",
+      "isbn13": "9780316935913",
       "kind": "print",
       "onsale": "1997-09-01T00:00:00.000Z"
     }

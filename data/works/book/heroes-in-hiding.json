@@ -11,6 +11,10 @@
   "displayTitle": "Heroes in Hiding",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1570825688"
+    },
+    {
       "type": "isbn13",
       "value": "9781570825682"
     }
@@ -20,6 +24,7 @@
       "extent": 5,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "1570825688",
       "isbn13": "9781570825682",
       "kind": "print",
       "onsale": "1996-01-01T00:00:00.000Z"

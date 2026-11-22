@@ -20,6 +20,10 @@
       "value": "1405277882"
     },
     {
+      "type": "isbn10",
+      "value": "1484724984"
+    },
+    {
       "type": "isbn13",
       "value": "9781405277884"
     },
@@ -31,7 +35,7 @@
   "editions": [
     {
       "extent": 551,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Egmont UK",
       "isPrimary": true,
       "isbn10": "1405277882",
       "isbn13": "9781405277884",
@@ -42,6 +46,7 @@
       "extent": 551,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484724984",
       "isbn13": "9781484724989",
       "kind": "print",
       "onsale": "2015-09-04T00:00:00.000Z"

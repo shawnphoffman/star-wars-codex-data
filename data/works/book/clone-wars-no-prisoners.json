@@ -31,7 +31,7 @@
     {
       "extent": 257,
       "imprint": "Del Rey",
-      "isPrimary": false,
+      "isPrimary": true,
       "isbn10": "0345508998",
       "isbn13": "9780345508997",
       "kind": "print",
@@ -39,8 +39,8 @@
     },
     {
       "extent": 257,
-      "imprint": "Del Rey",
-      "isPrimary": true,
+      "imprint": "Century",
+      "isPrimary": false,
       "isbn10": "1846055652",
       "isbn13": "9781846055652",
       "kind": "print",

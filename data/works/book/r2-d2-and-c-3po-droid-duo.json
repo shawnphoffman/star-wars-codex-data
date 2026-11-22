@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "R2-D2 and C-3PO: Droid Duo",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307102122"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307102126"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307102122",
+      "isbn13": "9780307102126",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

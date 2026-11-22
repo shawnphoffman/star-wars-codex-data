@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rey's Survival Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794435696"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794435691"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794435696",
+      "isbn13": "9780794435691",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

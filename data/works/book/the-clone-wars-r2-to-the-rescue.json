@@ -11,13 +11,19 @@
   "displayTitle": "The Clone Wars: R2 To The Rescue",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "044845579X"
+    },
+    {
       "type": "isbn13",
       "value": "9780448455792"
     }
   ],
   "editions": [
     {
+      "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "044845579X",
       "isbn13": "9780448455792",
       "kind": "print"
     }

@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Tiny Book of Legendary Women",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647225744"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647225742"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647225744",
+      "isbn13": "9781647225742",
       "kind": "print",
       "onsale": "2022-04-12T00:00:00.000Z"
     }

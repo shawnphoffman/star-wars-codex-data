@@ -11,6 +11,10 @@
   "displayTitle": "The Art of Star Wars: Andor",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1419775685"
+    },
+    {
       "type": "isbn13",
       "value": "9781419775680"
     }
@@ -20,6 +24,7 @@
       "extent": 272,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419775685",
       "isbn13": "9781419775680",
       "kind": "print",
       "onsale": "2026-06-30T00:00:00.000Z"

@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The New Essential Guide to Vehicles and Vessels",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345449029"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345449023"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345449029",
+      "isbn13": "9780345449023",
       "kind": "print",
       "onsale": "2003-09-30T00:00:00.000Z"
     }

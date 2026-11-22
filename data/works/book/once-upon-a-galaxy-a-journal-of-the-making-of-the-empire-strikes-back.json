@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Once Upon a Galaxy: A Journal of the Making of The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345290755"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345290755"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 277,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345290755",
+      "isbn13": "9780345290755",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Obsessed With Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811864006"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811864008"
+    }
+  ],
   "editions": [
     {
+      "extent": 319,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811864006",
+      "isbn13": "9780811864008",
       "kind": "print",
       "onsale": "2008-07-01T00:00:00.000Z"
     }

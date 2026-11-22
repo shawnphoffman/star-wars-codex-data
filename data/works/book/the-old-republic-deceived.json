@@ -20,6 +20,10 @@
       "value": "0345511387"
     },
     {
+      "type": "isbn10",
+      "value": "034552988X"
+    },
+    {
       "type": "isbn13",
       "value": "9780345511386"
     },
@@ -41,6 +45,7 @@
     {
       "imprint": "Ballantine Books",
       "isPrimary": false,
+      "isbn10": "034552988X",
       "isbn13": "9780345529886",
       "kind": "print",
       "onsale": "2012-05-28T00:00:00.000Z"

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back (Disney Die-Cut Classics)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794446299"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794446291"
+    }
+  ],
   "editions": [
     {
+      "extent": 72,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794446299",
+      "isbn13": "9780794446291",
       "kind": "print",
       "onsale": "2020-05-05T00:00:00.000Z"
     }

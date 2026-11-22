@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Star Pilot",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "075661161X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611613"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "075661161X",
+      "isbn13": "9780756611613",
+      "kind": "print",
+      "onsale": "2005-04-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

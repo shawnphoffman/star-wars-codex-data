@@ -11,6 +11,10 @@
   "displayTitle": "Forces of Destiny: Tales of Hope & Courage",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0794440363"
+    },
+    {
       "type": "isbn13",
       "value": "9780794440367"
     }
@@ -20,6 +24,7 @@
       "extent": 96,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794440363",
       "isbn13": "9780794440367",
       "kind": "print",
       "onsale": "2017-10-17T00:00:00.000Z"

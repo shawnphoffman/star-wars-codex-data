@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Making of Star Wars: The Definitive Story Behind the Original Film",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345494768"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345494764"
+    }
+  ],
   "editions": [
     {
+      "extent": 372,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345494768",
+      "isbn13": "9780345494764",
       "kind": "print",
       "onsale": "2007-04-24T00:00:00.000Z"
     }

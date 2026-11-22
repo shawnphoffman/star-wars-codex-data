@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "LEGO Star Wars: The Power of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405281219"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405281218"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405281219",
+      "isbn13": "9781405281218",
+      "kind": "print",
+      "onsale": "2015-11-05T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

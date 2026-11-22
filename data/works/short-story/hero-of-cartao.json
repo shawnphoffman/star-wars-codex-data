@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Hero of Cartao",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -21
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2003-05-12T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "hero-of-cartao",
+  "synopsis": "\"Hero of Cartao\" was a serialized short story written by Timothy Zahn and illustrated by Douglas Chaffee that appeared in Star Wars Insider magazine. It was separated into three parts: \"Hero's Call\" (Issue 68), \"Hero's Rise\" (Issue 69), and \"Hero's End\" (Issue 70). It featured such characters as Jafer Torles and the pre-existing Zahn character of Kinman Doriana. It took place in 22 BBY and was essentially the story of how the Spaarti cloning cylinders came to Wayland.",
+  "title": "Hero of Cartao"
+}

@@ -39,10 +39,23 @@
     }
   ],
   "displayTitle": "The Force Awakens Graphic Novel Adaptation",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1684052106"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781684052103"
+    }
+  ],
   "editions": [
     {
+      "extent": 80,
       "imprint": "IDW Publishing",
       "isPrimary": true,
+      "isbn10": "1684052106",
+      "isbn13": "9781684052103",
       "kind": "print",
       "onsale": "2017-08-29T00:00:00.000Z"
     }

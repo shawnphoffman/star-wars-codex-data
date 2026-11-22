@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Pirates...And Worse!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756657733"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756657734"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0756657733",
+      "isbn13": "9780756657734",
+      "kind": "print",
+      "onsale": "2009-12-07T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

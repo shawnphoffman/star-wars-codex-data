@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Mandalorian - The Art & Imagery Collector's Edition, Volume One",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "178773420X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787734203"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Titan Comics",
       "isPrimary": true,
+      "isbn10": "178773420X",
+      "isbn13": "9781787734203",
       "kind": "print",
       "onsale": "2020-09-29T00:00:00.000Z"
     }

@@ -104,10 +104,23 @@
     }
   ],
   "displayTitle": "Women of the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1452166315"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452166315"
+    }
+  ],
   "editions": [
     {
+      "extent": 232,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1452166315",
+      "isbn13": "9781452166315",
       "kind": "print",
       "onsale": "2018-10-30T00:00:00.000Z"
     }

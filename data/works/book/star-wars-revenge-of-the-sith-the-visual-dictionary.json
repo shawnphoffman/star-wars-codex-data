@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Revenge of the Sith: The Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756611288"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756611286"
+    }
+  ],
   "editions": [
     {
+      "extent": 64,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756611288",
+      "isbn13": "9780756611286",
       "kind": "print",
       "onsale": "2005-04-02T00:00:00.000Z"
     }

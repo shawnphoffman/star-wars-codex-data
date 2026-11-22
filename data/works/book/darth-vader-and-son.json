@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Darth Vader And Son",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "145210655X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781452106557"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "145210655X",
+      "isbn13": "9781452106557",
+      "kind": "print",
+      "onsale": "2012-04-18T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

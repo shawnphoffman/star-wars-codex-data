@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Smuggler's Starship Activity Book and Model",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405282622"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405282628"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 36,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405282622",
+      "isbn13": "9781405282628",
+      "kind": "print",
+      "onsale": "2016-06-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

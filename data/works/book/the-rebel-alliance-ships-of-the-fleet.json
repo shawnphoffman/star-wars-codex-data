@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "The Rebel Alliance - Ships of the Fleet",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316535095"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316535090"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 8,
+      "isPrimary": true,
+      "isbn10": "0316535095",
+      "isbn13": "9780316535090",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

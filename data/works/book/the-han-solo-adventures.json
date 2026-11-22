@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Han Solo Adventures",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345379802"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345379801"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 576,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345379802",
+      "isbn13": "9780345379801",
+      "kind": "print",
+      "onsale": "1992-04-22T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": -1,

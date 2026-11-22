@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780345506184"
+    },
+    {
+      "type": "isbn13",
       "value": "9780345513854"
     }
   ],
@@ -29,12 +33,13 @@
       "imprint": "Del Rey",
       "isPrimary": false,
       "isbn10": "0345506189",
+      "isbn13": "9780345506184",
       "kind": "print",
       "onsale": "2008-09-16T00:00:00.000Z"
     },
     {
       "extent": 496,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345513851",
       "isbn13": "9780345513854",

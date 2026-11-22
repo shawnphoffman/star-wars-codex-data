@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Pirates & Privateers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312949"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312942"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874312949",
+      "isbn13": "9780874312942",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

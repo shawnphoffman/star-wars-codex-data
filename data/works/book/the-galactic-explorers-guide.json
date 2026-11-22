@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Galactic Explorer's Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1847961029"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781847961020"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Carlton Books Limited",
       "isPrimary": true,
+      "isbn10": "1847961029",
+      "isbn13": "9781847961020",
       "kind": "print",
       "onsale": "2019-11-14T00:00:00.000Z"
     }

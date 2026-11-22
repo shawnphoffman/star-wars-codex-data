@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Ultimate Visual Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756614201"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756614201"
+    }
+  ],
   "editions": [
     {
+      "extent": 139,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756614201",
+      "isbn13": "9780756614201",
       "kind": "print",
       "onsale": "2005-10-06T00:00:00.000Z"
     }

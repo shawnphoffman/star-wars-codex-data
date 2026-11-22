@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Learn to Draw Star Wars: Droids & Vehicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633226859"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633226852"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "isPrimary": true,
+      "isbn10": "1633226859",
+      "isbn13": "9781633226852",
+      "kind": "print",
+      "onsale": "2018-11-06T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Rebels: Transfer Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405278560"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405278560"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405278560",
+      "isbn13": "9781405278560",
+      "kind": "print",
+      "onsale": "2015-07-30T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "endYear": 0,

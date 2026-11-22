@@ -17,6 +17,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "034551162X"
+    },
+    {
+      "type": "isbn10",
       "value": "0593972694"
     },
     {
@@ -33,6 +37,7 @@
       "extent": 410,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034551162X",
       "isbn13": "9780345511621",
       "kind": "print",
       "onsale": "2015-09-04T00:00:00.000Z"

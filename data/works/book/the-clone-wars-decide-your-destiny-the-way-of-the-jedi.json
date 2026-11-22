@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Decide Your Destiny: The Way of the Jedi",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "044845002X"
+    },
+    {
       "type": "isbn13",
       "value": "9780448450025"
     }
@@ -20,6 +24,7 @@
       "extent": 144,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "044845002X",
       "isbn13": "9780448450025",
       "kind": "print",
       "onsale": "2008-10-02T00:00:00.000Z"

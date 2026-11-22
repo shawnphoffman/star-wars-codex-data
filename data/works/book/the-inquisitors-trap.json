@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "1484704681"
+    },
+    {
+      "type": "isbn10",
       "value": "148472609X"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484704681",
       "isbn13": "9781484704684",
       "kind": "print",
       "onsale": "2014-12-09T00:00:00.000Z"

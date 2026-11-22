@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Grogu Stickers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1667211080"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781667211084"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 116,
+      "imprint": "Thunder Bay Press",
+      "isPrimary": true,
+      "isbn10": "1667211080",
+      "isbn13": "9781667211084",
+      "kind": "print",
+      "onsale": "2026-04-07T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

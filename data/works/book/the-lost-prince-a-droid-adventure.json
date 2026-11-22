@@ -11,14 +11,20 @@
   "displayTitle": "The Lost Prince: A Droid Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394877357"
+    },
+    {
       "type": "isbn13",
       "value": "9780394877358"
     }
   ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 28,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394877357",
       "isbn13": "9780394877358",
       "kind": "print",
       "onsale": "1985-11-01T00:00:00.000Z"

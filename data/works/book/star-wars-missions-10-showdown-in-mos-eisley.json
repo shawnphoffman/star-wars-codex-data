@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0590565001"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590565004"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0590565001",
+      "isbn13": "9780590565004",
       "kind": "print",
       "onsale": "1998-06-01T00:00:00.000Z"
     }

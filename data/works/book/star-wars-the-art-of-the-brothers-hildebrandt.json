@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Art of the Brothers Hildebrandt",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345423011"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345423016"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345423011",
+      "isbn13": "9780345423016",
       "kind": "print",
       "onsale": "1997-11-11T00:00:00.000Z"
     }

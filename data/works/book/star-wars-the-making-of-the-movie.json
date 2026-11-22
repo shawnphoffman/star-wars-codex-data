@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Making of the Movie",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394844939"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394844930"
+    }
+  ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 72,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394844939",
+      "isbn13": "9780394844930",
       "kind": "print",
       "onsale": "1980-09-06T00:00:00.000Z"
     }

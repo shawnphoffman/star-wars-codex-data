@@ -1,0 +1,44 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    }
+  ],
+  "displayTitle": "Darth Maul: Saboteur",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345447352"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345447357"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 54,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345447352",
+      "isbn13": "9780345447357",
+      "kind": "print",
+      "onsale": "2001-02-15T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -33
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2001-02-15T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "darth-maul-saboteur",
+  "synopsis": "A dazzling new short story featuring Darth Maul, merciless apprentice of evil&hellip; On the distant planet Dorvalla, precious ore is mined by two competing companies: InterGalactic Ore and Lommite Limited. Neither rival suspects that they are central to a sinister plot masterminded by Darth Sidious, Lord of the Sith, himself. Dispatched by Sidious on his very first solo mission, Darth Maul infiltrates Lommite Limited. There, his unique gifts of deception and subterfuge will set off an explosive chain of events that could destroy both companies, leaving them ripe for takeover by the Trade Fede",
+  "title": "Darth Maul: Saboteur"
+}

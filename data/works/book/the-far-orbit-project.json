@@ -44,10 +44,23 @@
     }
   ],
   "displayTitle": "The Far Orbit Project",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315158"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315158"
+    }
+  ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874315158",
+      "isbn13": "9780874315158",
       "kind": "print",
       "onsale": "1998-04-01T00:00:00.000Z"
     }

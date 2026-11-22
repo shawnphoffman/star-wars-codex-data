@@ -2,6 +2,25 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Edge of the Empire: Suns of Fortune",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1616616857"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781616616854"
+    }
+  ],
+  "editions": [
+    {
+      "isPrimary": true,
+      "isbn10": "1616616857",
+      "isbn13": "9781616616854",
+      "kind": "print",
+      "onsale": "2014-01-24T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

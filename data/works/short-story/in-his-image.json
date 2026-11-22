@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Karen Traviss",
+      "role": "writer",
+      "slug": "karen-traviss"
+    }
+  ],
+  "displayTitle": "In His Image",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": 19
+  },
+  "legendsEra": "legendsNewRepublic",
+  "releaseDate": "2005-07-01T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "in-his-image",
+  "synopsis": "\"In His Image\" is a short story written by Karen Traviss for Vader: The Ultimate Guide. It takes place in 19 BBY and details the creation of Force-sensitive stormtroopers. This story and its sequel, A Two-Edged Sword, were both included in the paperback version of Legacy of the Force: Betrayal.",
+  "title": "In His Image"
+}

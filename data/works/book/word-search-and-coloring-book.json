@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Word Search and Coloring Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1645174077"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781645174073"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 120,
+      "imprint": "Thunder Bay Press",
+      "isPrimary": true,
+      "isbn10": "1645174077",
+      "isbn13": "9781645174073",
+      "kind": "print",
+      "onsale": "2020-10-06T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

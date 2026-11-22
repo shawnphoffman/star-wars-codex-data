@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Chewbacca Story",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794437419"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794437411"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794437419",
+      "isbn13": "9780794437411",
       "kind": "print",
       "onsale": "2016-08-23T00:00:00.000Z"
     }

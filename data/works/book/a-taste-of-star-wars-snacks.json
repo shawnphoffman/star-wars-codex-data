@@ -2,10 +2,18 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "A Taste of Star Wars: Snacks",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886638981"
+    }
+  ],
   "editions": [
     {
+      "extent": 112,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn13": "9798886638981",
       "kind": "print",
       "onsale": "2025-05-06T00:00:00.000Z"
     }

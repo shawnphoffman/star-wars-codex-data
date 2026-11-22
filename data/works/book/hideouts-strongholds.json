@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Hideouts & Strongholds",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315131"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315134"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874315131",
+      "isbn13": "9780874315134",
       "kind": "print",
       "onsale": "1998-03-01T00:00:00.000Z"
     }

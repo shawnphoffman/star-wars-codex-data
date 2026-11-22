@@ -16,6 +16,14 @@
   "displayTitle": "Heir to the Jedi",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0099594277"
+    },
+    {
+      "type": "isbn10",
+      "value": "0345544854"
+    },
+    {
       "type": "isbn13",
       "value": "9780099594277"
     },
@@ -27,8 +35,9 @@
   "editions": [
     {
       "extent": 304,
-      "imprint": "Del Rey",
+      "imprint": "Arrow",
       "isPrimary": true,
+      "isbn10": "0099594277",
       "isbn13": "9780099594277",
       "kind": "print",
       "onsale": "2015-03-03T00:00:00.000Z"
@@ -37,6 +46,7 @@
       "extent": 304,
       "imprint": "Del Rey",
       "isPrimary": false,
+      "isbn10": "0345544854",
       "isbn13": "9780345544858",
       "kind": "print",
       "onsale": "2015-03-03T00:00:00.000Z"

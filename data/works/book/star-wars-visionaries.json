@@ -68,6 +68,10 @@
     {
       "type": "isbn10",
       "value": "1593073119"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593073114"
     }
   ],
   "editions": [
@@ -76,6 +80,7 @@
       "imprint": "Dark Horse Comics",
       "isPrimary": true,
       "isbn10": "1593073119",
+      "isbn13": "9781593073114",
       "kind": "print",
       "onsale": "2005-04-02T00:00:00.000Z"
     }

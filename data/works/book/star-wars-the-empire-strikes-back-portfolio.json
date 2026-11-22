@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back Portfolio",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345288351"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345288356"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345288351",
+      "isbn13": "9780345288356",
       "kind": "print",
       "onsale": "1980-07-10T00:00:00.000Z"
     }

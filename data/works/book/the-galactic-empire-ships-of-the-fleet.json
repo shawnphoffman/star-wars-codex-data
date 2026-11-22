@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Galactic Empire: Ships of the Fleet",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316535109"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316535106"
+    }
+  ],
   "editions": [
     {
+      "extent": 8,
       "imprint": "Little, Brown and Company",
       "isPrimary": true,
+      "isbn10": "0316535109",
+      "isbn13": "9780316535106",
       "kind": "print",
       "onsale": "1996-04-01T00:00:00.000Z"
     }

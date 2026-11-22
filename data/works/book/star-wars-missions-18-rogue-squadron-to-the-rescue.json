@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "059084430X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590844307"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "059084430X",
+      "isbn13": "9780590844307",
       "kind": "print",
       "onsale": "1999-02-01T00:00:00.000Z"
     }

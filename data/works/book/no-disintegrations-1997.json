@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "No Disintegrations",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312965"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312966"
+    }
+  ],
   "editions": [
     {
+      "extent": 95,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312965",
+      "isbn13": "9780874312966",
       "kind": "print",
       "onsale": "1997-03-01T00:00:00.000Z"
     }

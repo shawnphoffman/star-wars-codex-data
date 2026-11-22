@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "On The Front Lines",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1785652141"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781785652141"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "isPrimary": true,
+      "isbn10": "1785652141",
+      "isbn13": "9781785652141",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

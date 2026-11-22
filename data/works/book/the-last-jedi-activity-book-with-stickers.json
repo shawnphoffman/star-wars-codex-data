@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "The Last Jedi Activity Book with Stickers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405286792"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405286794"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405286792",
+      "isbn13": "9781405286794",
+      "kind": "print",
+      "onsale": "2017-12-15T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

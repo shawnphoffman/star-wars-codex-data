@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Fight in the Forest",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705114"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705117"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705114",
+      "isbn13": "9781484705117",
+      "kind": "print",
+      "onsale": "2017-01-17T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

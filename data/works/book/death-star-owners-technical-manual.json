@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Death Star Owner's Technical Manual",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0804176612"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780804176613"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0804176612",
+      "isbn13": "9780804176613",
+      "kind": "print",
+      "onsale": "2013-11-05T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

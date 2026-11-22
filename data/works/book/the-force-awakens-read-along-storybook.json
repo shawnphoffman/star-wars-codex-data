@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Force Awakens Read-Along Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484731492"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484731499"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484731492",
+      "isbn13": "9781484731499",
+      "kind": "print",
+      "onsale": "2016-04-05T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "A Sound Storybook Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1503700283"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781503700284"
+    }
+  ],
   "editions": [
     {
+      "extent": 21,
       "imprint": "Phoenix International Publications",
       "isPrimary": true,
+      "isbn10": "1503700283",
+      "isbn13": "9781503700284",
       "kind": "print",
       "onsale": "2015-11-01T00:00:00.000Z"
     }

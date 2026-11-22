@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back: Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405278536"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405278539"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405278536",
+      "isbn13": "9781405278539",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

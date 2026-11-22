@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Return of the Jedi Portfolio",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345309618"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345309617"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345309618",
+      "isbn13": "9780345309617",
       "kind": "print",
       "onsale": "1983-06-16T00:00:00.000Z"
     }

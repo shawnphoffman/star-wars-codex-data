@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Return of the Jedi: A Collector's Classic Board Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419767879"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419767876"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 30,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "1419767879",
+      "isbn13": "9781419767876",
+      "kind": "print",
+      "onsale": "2023-04-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

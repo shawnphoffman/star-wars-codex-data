@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Galaxy Guide 7: Mos Eisley",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431187X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311877"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 94,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "087431187X",
+      "isbn13": "9780874311877",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

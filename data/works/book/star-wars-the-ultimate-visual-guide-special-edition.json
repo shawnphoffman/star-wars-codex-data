@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Ultimate Visual Guide: Special Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756630525"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756630522"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756630525",
+      "isbn13": "9780756630522",
       "kind": "print",
       "onsale": "2007-05-03T00:00:00.000Z"
     }

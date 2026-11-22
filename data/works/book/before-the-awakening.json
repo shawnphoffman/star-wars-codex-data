@@ -25,6 +25,14 @@
       "value": "1368108210"
     },
     {
+      "type": "isbn10",
+      "value": "148472822X"
+    },
+    {
+      "type": "isbn10",
+      "value": "1484735501"
+    },
+    {
       "type": "isbn13",
       "value": "9781368108218"
     },
@@ -40,7 +48,7 @@
   "editions": [
     {
       "extent": 224,
-      "imprint": "Random House",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
       "isbn10": "1368108210",
       "isbn13": "9781368108218",
@@ -51,13 +59,15 @@
       "extent": 240,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "148472822X",
       "isbn13": "9781484728222",
       "kind": "print",
       "onsale": "2015-12-18T00:00:00.000Z"
     },
     {
-      "imprint": "Disney Publishing Worldwide",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1484735501",
       "isbn13": "9781484735503",
       "kind": "print"
     }

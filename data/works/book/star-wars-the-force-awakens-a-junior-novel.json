@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Force Awakens: A Junior Novel",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484704886"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704882"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484704886",
+      "isbn13": "9781484704882",
       "kind": "print",
       "onsale": "2015-12-18T00:00:00.000Z"
     }

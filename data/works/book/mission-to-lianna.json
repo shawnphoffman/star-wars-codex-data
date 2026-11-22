@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Mission to Lianna",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311233"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311235"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311233",
+      "isbn13": "9780874311235",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

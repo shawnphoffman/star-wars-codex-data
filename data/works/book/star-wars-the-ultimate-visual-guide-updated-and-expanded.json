@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Ultimate Visual Guide: Updated and Expanded",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756692482"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756692483"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756692482",
+      "isbn13": "9780756692483",
       "kind": "print",
       "onsale": "2012-04-30T00:00:00.000Z"
     }

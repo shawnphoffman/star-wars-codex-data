@@ -11,6 +11,10 @@
   "displayTitle": "The Adventures of Teebo: A Tale of Magic and Suspense",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394865685"
+    },
+    {
       "type": "isbn13",
       "value": "9780394865683"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 44,
-      "imprint": "Random House",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394865685",
       "isbn13": "9780394865683",
       "kind": "print",
       "onsale": "1984-05-01T00:00:00.000Z"

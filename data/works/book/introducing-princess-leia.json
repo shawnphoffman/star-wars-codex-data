@@ -2,6 +2,25 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Introducing Princess Leia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0749731974"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780749731977"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "isPrimary": true,
+      "isbn10": "0749731974",
+      "isbn13": "9780749731977",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

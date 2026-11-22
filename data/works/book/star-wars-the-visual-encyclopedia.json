@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Visual Encyclopedia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465459626"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465459626"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465459626",
+      "isbn13": "9781465459626",
       "kind": "print",
       "onsale": "2017-04-04T00:00:00.000Z"
     }

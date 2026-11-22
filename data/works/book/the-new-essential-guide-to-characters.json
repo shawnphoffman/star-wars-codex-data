@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The New Essential Guide to Characters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345449002"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345449009"
+    }
+  ],
   "editions": [
     {
+      "extent": 221,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345449002",
+      "isbn13": "9780345449009",
       "kind": "print",
       "onsale": "2002-04-23T00:00:00.000Z"
     }

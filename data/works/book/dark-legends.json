@@ -1,5 +1,5 @@
 {
-  "bookType": "shortStory",
+  "bookType": "juniorReader",
   "canonStatus": "canon",
   "creators": [
     {
@@ -16,6 +16,10 @@
   "displayTitle": "Dark Legends",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1368057330"
+    },
+    {
       "type": "isbn13",
       "value": "9781368057332"
     }
@@ -25,6 +29,7 @@
       "extent": 224,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368057330",
       "isbn13": "9781368057332",
       "kind": "print",
       "onsale": "2020-07-28T00:00:00.000Z"

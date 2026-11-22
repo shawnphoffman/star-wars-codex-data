@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Mandalorian Vol. 3 (Manga)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1974760979"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781974760978"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Viz Media",
+      "isPrimary": true,
+      "isbn10": "1974760979",
+      "isbn13": "9781974760978",
+      "kind": "print",
+      "onsale": "2026-01-13T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rebel Hero Journal",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794445225"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794445225"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 80,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794445225",
+      "isbn13": "9780794445225",
+      "kind": "print",
+      "onsale": "2021-09-14T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

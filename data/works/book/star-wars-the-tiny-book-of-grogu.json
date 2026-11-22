@@ -11,6 +11,10 @@
   "displayTitle": "The Tiny Book of Grogu",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1647223814"
+    },
+    {
       "type": "isbn13",
       "value": "9781647223816"
     }
@@ -20,6 +24,7 @@
       "extent": 192,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647223814",
       "isbn13": "9781647223816",
       "kind": "print",
       "onsale": "2021-11-09T00:00:00.000Z"

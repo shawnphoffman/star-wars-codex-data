@@ -14,10 +14,22 @@
     }
   ],
   "displayTitle": "Enter the Unknown",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1616616830"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781616616830"
+    }
+  ],
   "editions": [
     {
       "imprint": "Fantasy Flight Games",
       "isPrimary": true,
+      "isbn10": "1616616830",
+      "isbn13": "9781616616830",
       "kind": "print",
       "onsale": "2013-12-06T00:00:00.000Z"
     }

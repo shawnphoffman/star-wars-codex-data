@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "Dawn of Rebellion The Visual Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744087341"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744087345"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744087341",
+      "isbn13": "9780744087345",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

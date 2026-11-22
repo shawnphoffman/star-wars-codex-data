@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "1852838086"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781852838089"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Boxtree",
       "isPrimary": true,
       "isbn10": "1852838086",
+      "isbn13": "9781852838089",
       "kind": "print",
       "onsale": "1993-09-30T00:00:00.000Z"
     }

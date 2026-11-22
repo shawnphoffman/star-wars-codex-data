@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Book of Lists",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0760365636"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780760365632"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "becker&mayer!",
+      "isPrimary": true,
+      "isbn10": "0760365636",
+      "isbn13": "9780760365632",
+      "kind": "print",
+      "onsale": "2020-06-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

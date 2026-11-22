@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Journey to Mos Eisley",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307129837"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307129833"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "0307129837",
+      "isbn13": "9780307129833",
       "kind": "print",
       "onsale": "1998-03-01T00:00:00.000Z"
     }

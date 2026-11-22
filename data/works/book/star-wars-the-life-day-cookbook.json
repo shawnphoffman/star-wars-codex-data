@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Life Day Cookbook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647224772"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647224776"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647224772",
+      "isbn13": "9781647224776",
       "kind": "print",
       "onsale": "2021-11-09T00:00:00.000Z"
     }

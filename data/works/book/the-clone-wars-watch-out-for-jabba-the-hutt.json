@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Watch Out for Jabba the Hutt!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0756640849"
+    },
+    {
       "type": "isbn13",
       "value": "9780756640842"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756640849",
       "isbn13": "9780756640842",
       "kind": "print",
       "onsale": "2008-07-26T00:00:00.000Z"

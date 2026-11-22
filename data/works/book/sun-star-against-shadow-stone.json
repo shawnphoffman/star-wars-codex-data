@@ -6,6 +6,10 @@
     {
       "type": "isbn10",
       "value": "0583311652"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780583311656"
     }
   ],
   "editions": [
@@ -14,6 +18,7 @@
       "imprint": "Dragon Picture Books",
       "isPrimary": true,
       "isbn10": "0583311652",
+      "isbn13": "9780583311656",
       "kind": "print",
       "onsale": "1987-09-01T00:00:00.000Z"
     }

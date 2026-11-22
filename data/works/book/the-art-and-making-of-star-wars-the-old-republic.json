@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Art and Making of Star Wars: The Old Republic",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811875008"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811875004"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811875008",
+      "isbn13": "9780811875004",
       "kind": "print",
       "onsale": "2011-11-16T00:00:00.000Z"
     }

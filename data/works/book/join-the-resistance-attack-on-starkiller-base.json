@@ -31,6 +31,10 @@
     },
     {
       "type": "isbn10",
+      "value": "1368021417"
+    },
+    {
+      "type": "isbn10",
       "value": "1368026877"
     },
     {
@@ -47,6 +51,7 @@
       "extent": 224,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1368021417",
       "isbn13": "9781368021418",
       "kind": "print",
       "onsale": "2018-07-31T00:00:00.000Z"

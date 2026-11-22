@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Aaron Allston",
+      "role": "writer",
+      "slug": "aaron-allston"
+    }
+  ],
+  "displayTitle": "League of Spies",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -22
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2004-01-13T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "league-of-spies",
+  "synopsis": "\"The League of Spies,\" its title also presented as \"The Clone Wars: League of Spies,\" is a short story written by Aaron Allston that was originally published in Star Wars Insider 73. In March 2008, it was archived on Hyperspace. It was also included in a Czech-language anthology Setkání v mlze.",
+  "title": "League of Spies"
+}

@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Kathy Tyers",
+      "role": "writer",
+      "slug": "kathy-tyers"
+    }
+  ],
+  "displayTitle": "Rebel Bass",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": -2
+  },
+  "legendsEra": "legendsRiseOfTheEmpire",
+  "releaseDate": "2001-08-14T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "rebel-bass",
+  "synopsis": "\"Rebel Bass\" is a short story by Kathy Tyers. It was originally published in Star Wars Gamer 6 in 2001.",
+  "title": "Rebel Bass"
+}

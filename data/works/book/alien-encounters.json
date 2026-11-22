@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Alien Encounters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431514X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315141"
+    }
+  ],
   "editions": [
     {
+      "extent": 184,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "087431514X",
+      "isbn13": "9780874315141",
       "kind": "print",
       "onsale": "1998-06-01T00:00:00.000Z"
     }

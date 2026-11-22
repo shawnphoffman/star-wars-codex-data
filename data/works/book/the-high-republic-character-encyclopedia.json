@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The High Republic Character Encyclopedia",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744084687"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744084689"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0744084687",
+      "isbn13": "9780744084689",
       "kind": "print",
       "onsale": "2023-11-09T00:00:00.000Z"
     }

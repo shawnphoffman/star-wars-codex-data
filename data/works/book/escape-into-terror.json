@@ -11,14 +11,20 @@
   "displayTitle": "Escape Into Terror",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0583311709"
+    },
+    {
       "type": "isbn13",
       "value": "9780583311700"
     }
   ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Dragon Picture Books",
       "isPrimary": true,
+      "isbn10": "0583311709",
       "isbn13": "9780583311700",
       "kind": "print",
       "onsale": "1987-12-01T00:00:00.000Z"

@@ -13,13 +13,19 @@
     {
       "type": "isbn10",
       "value": "0874311993"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311990"
     }
   ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "West End Games",
       "isPrimary": true,
       "isbn10": "0874311993",
+      "isbn13": "9780874311990",
       "kind": "print",
       "onsale": "1993-11-01T00:00:00.000Z"
     }

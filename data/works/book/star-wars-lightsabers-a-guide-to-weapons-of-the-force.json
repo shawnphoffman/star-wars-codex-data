@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "Lightsabers: A Guide to Weapons of the Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0545271770"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780545271776"
+    }
+  ],
   "editions": [
     {
+      "extent": 64,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0545271770",
+      "isbn13": "9780545271776",
       "kind": "print",
       "onsale": "2010-12-10T00:00:00.000Z"
     }

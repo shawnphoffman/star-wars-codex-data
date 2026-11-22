@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Save Naboo!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101611"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101615"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439101611",
+      "isbn13": "9780439101615",
       "kind": "print",
       "onsale": "2000-01-01T00:00:00.000Z"
     }

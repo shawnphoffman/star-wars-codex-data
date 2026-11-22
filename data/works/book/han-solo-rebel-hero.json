@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Han Solo: Rebel Hero",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0307103463"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780307103468"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0307103463",
+      "isbn13": "9780307103468",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

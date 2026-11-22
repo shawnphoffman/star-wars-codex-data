@@ -16,7 +16,7 @@
   "editions": [
     {
       "imprint": "Disney-Lucasfilm Press",
-      "isPrimary": false,
+      "isPrimary": true,
       "kind": "audio",
       "onsale": "2024-09-19T00:00:00.000Z"
     }

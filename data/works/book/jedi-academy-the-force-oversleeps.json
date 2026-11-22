@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Jedi Academy: The Force Oversleeps",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1407188399"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781407188393"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "1407188399",
+      "isbn13": "9781407188393",
+      "kind": "print",
+      "onsale": "2017-07-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

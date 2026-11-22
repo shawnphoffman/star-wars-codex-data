@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars: Galaxy's Edge",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419750127"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419750120"
+    }
+  ],
   "editions": [
     {
+      "extent": 256,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419750127",
+      "isbn13": "9781419750120",
       "kind": "print",
       "onsale": "2021-04-27T00:00:00.000Z"
     }

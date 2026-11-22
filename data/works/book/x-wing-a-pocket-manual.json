@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "X-wing: A Pocket Manual",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0762403209"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780762403202"
+    }
+  ],
   "editions": [
     {
+      "extent": 38,
       "imprint": "Running Press",
       "isPrimary": true,
+      "isbn10": "0762403209",
+      "isbn13": "9780762403202",
       "kind": "print",
       "onsale": "1998-10-07T00:00:00.000Z"
     }

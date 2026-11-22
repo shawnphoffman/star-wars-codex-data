@@ -9,10 +9,22 @@
     }
   ],
   "displayTitle": "A Pop-Up Guide to the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439882826"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439882828"
+    }
+  ],
   "editions": [
     {
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439882826",
+      "isbn13": "9780439882828",
       "kind": "print",
       "onsale": "2007-10-15T00:00:00.000Z"
     }

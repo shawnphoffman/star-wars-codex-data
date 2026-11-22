@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Gadgets and Gear",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633443280"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633443280"
+    }
+  ],
   "editions": [
     {
+      "extent": 142,
       "imprint": "Fantasy Flight Games",
       "isPrimary": true,
+      "isbn10": "1633443280",
+      "isbn13": "9781633443280",
       "kind": "print",
       "onsale": "2019-09-13T00:00:00.000Z"
     }

@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Rise of Skywalker: The Galactic Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465479066"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465479068"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465479066",
+      "isbn13": "9781465479068",
       "kind": "print",
       "onsale": "2019-12-20T00:00:00.000Z"
     }

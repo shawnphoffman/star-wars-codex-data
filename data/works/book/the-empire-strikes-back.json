@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn10",
+      "value": "0345283929"
+    },
+    {
+      "type": "isbn10",
       "value": "034540078X"
     },
     {
@@ -37,8 +41,10 @@
   ],
   "editions": [
     {
+      "extent": 217,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345283929",
       "isbn13": "9780345283924",
       "kind": "print",
       "onsale": "1980-04-12T00:00:00.000Z"
@@ -60,6 +66,7 @@
       "onsale": "2027-02-02T00:00:00.000Z"
     },
     {
+      "extent": 216,
       "imprint": "Del Rey",
       "isPrimary": false,
       "isbn10": "034540078X",

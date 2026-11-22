@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "The Clone Wars: The Official Collector's Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787737160"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787737167"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Titan Magazines",
       "isPrimary": true,
+      "isbn10": "1787737160",
+      "isbn13": "9781787737167",
       "kind": "print",
       "onsale": "2022-01-11T00:00:00.000Z"
     }

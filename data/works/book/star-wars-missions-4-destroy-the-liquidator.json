@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0590127969"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590127967"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0590127969",
+      "isbn13": "9780590127967",
       "kind": "print",
       "onsale": "1997-12-01T00:00:00.000Z"
     }

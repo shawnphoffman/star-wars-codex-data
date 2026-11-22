@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780545085595"
+    },
+    {
+      "type": "isbn13",
       "value": "9780545107778"
     }
   ],
@@ -29,6 +33,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0545085594",
+      "isbn13": "9780545085595",
       "kind": "print",
       "onsale": "2008-09-01T00:00:00.000Z"
     },

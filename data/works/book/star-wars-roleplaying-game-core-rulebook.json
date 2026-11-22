@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "Roleplaying Game Core Rulebook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786917938"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786917938"
+    }
+  ],
   "editions": [
     {
+      "extent": 288,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786917938",
+      "isbn13": "9780786917938",
       "kind": "print",
       "onsale": "2000-11-22T00:00:00.000Z"
     }

@@ -11,6 +11,10 @@
   "displayTitle": "The Clone Wars: Meet Ahsoka Tano",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0448450348"
+    },
+    {
       "type": "isbn13",
       "value": "9780448450346"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
+      "isbn10": "0448450348",
       "isbn13": "9780448450346",
       "kind": "print",
       "onsale": "2008-10-02T00:00:00.000Z"

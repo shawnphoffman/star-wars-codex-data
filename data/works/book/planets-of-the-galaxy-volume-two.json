@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Planets of the Galaxy, Volume Two",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311802"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311808"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311802",
+      "isbn13": "9780874311808",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

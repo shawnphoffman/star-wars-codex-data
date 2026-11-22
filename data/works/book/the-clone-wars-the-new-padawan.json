@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: The New Padawan",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0448449943"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780448449944"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn10": "0448449943",
+      "isbn13": "9780448449944",
+      "kind": "print",
+      "onsale": "2008-07-26T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

@@ -2,6 +2,25 @@
   "bookType": "other",
   "canonStatus": "non-canon",
   "displayTitle": "Introducing Luke Skywalker",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0749731958"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780749731953"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "isPrimary": true,
+      "isbn10": "0749731958",
+      "isbn13": "9780749731953",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

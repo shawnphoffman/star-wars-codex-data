@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Return of the Jedi: Han Solo's Rescue",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394861124"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394861128"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 10,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394861124",
+      "isbn13": "9780394861128",
+      "kind": "print",
+      "onsale": "1983-10-10T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 4

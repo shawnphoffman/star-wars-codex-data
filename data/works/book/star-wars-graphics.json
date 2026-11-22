@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "non-canon",
   "displayTitle": "Graphics",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "140528286X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405282864"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Egmont UK",
       "isPrimary": true,
+      "isbn10": "140528286X",
+      "isbn13": "9781405282864",
       "kind": "print",
       "onsale": "2016-05-05T00:00:00.000Z"
     }

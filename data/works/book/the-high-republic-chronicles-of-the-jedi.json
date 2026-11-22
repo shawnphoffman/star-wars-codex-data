@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The High Republic: Chronicles of the Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647226449"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647226442"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647226449",
+      "isbn13": "9781647226442",
       "kind": "print",
       "onsale": "2023-02-28T00:00:00.000Z"
     }

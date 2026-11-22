@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Adventures of BB-8",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "146545103X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465451033"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "146545103X",
+      "isbn13": "9781465451033",
+      "kind": "print",
+      "onsale": "2016-06-07T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Mandalorian: A Clan of Two",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368070728"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368070720"
+    }
+  ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368070728",
+      "isbn13": "9781368070720",
       "kind": "print",
       "onsale": "2020-12-01T00:00:00.000Z"
     }

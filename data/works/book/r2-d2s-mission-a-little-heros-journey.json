@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "R2-D2's Mission: A Little Hero's Journey",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1570826129"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781570826122"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Fun Works",
+      "isPrimary": true,
+      "isbn10": "1570826129",
+      "isbn13": "9781570826122",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

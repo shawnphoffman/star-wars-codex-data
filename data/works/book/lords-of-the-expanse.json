@@ -19,10 +19,22 @@
     }
   ],
   "displayTitle": "Lords of the Expanse",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312973"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312973"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312973",
+      "isbn13": "9780874312973",
       "kind": "print",
       "onsale": "1997-08-28T00:00:00.000Z"
     }

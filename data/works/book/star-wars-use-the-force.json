@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "Use the Force!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0241409187"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780241409183"
+    }
+  ],
   "editions": [
     {
-      "imprint": "DK Children's",
+      "extent": 128,
+      "imprint": "DK Children",
       "isPrimary": true,
+      "isbn10": "0241409187",
+      "isbn13": "9780241409183",
       "kind": "print",
       "onsale": "2020-05-28T00:00:00.000Z"
     }

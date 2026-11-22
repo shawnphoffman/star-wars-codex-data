@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780425168257"
+    },
+    {
+      "type": "isbn13",
       "value": "9781572970359"
     }
   ],
@@ -29,6 +33,7 @@
       "imprint": "Boulevard",
       "isPrimary": true,
       "isbn10": "0425168255",
+      "isbn13": "9780425168257",
       "kind": "print",
       "onsale": "1995-10-01T00:00:00.000Z"
     },

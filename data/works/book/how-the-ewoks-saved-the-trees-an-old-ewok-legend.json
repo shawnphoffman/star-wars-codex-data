@@ -13,13 +13,19 @@
     {
       "type": "isbn10",
       "value": "0394861299"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394861296"
     }
   ],
   "editions": [
     {
-      "imprint": "Random House",
+      "extent": 44,
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
       "isbn10": "0394861299",
+      "isbn13": "9780394861296",
       "kind": "print",
       "onsale": "1984-05-01T00:00:00.000Z"
     }

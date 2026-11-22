@@ -19,10 +19,18 @@
     }
   ],
   "displayTitle": "The High Republic: The Lightsaber Collection",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886630848"
+    }
+  ],
   "editions": [
     {
+      "extent": 156,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn13": "9798886630848",
       "kind": "print",
       "onsale": "2024-10-29T00:00:00.000Z"
     }

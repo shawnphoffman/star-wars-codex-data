@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "The Comics Companion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593073127"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593073121"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "imprint": "Dark Horse Books",
+      "isPrimary": true,
+      "isbn10": "1593073127",
+      "isbn13": "9781593073121",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "releaseDate": "2006-01-01T00:00:00.000Z",
   "releaseDisplayState": "released",

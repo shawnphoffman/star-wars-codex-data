@@ -39,6 +39,26 @@
     }
   ],
   "displayTitle": "Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "074409884X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744098846"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 448,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "074409884X",
+      "isbn13": "9780744098846",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

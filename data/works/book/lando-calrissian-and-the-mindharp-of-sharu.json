@@ -11,12 +11,12 @@
   "displayTitle": "Lando Calrissian and the Mindharp of Sharu",
   "editionIds": [
     {
-      "type": "isbn13",
-      "value": "9780345311580"
+      "type": "isbn10",
+      "value": "0345311582"
     },
     {
       "type": "isbn13",
-      "value": "9780345391100"
+      "value": "9780345311580"
     }
   ],
   "editions": [
@@ -24,15 +24,8 @@
       "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345311582",
       "isbn13": "9780345311580",
-      "kind": "print",
-      "onsale": "1983-06-12T00:00:00.000Z"
-    },
-    {
-      "extent": 192,
-      "imprint": "Del Rey",
-      "isPrimary": false,
-      "isbn13": "9780345391100",
       "kind": "print",
       "onsale": "1983-06-12T00:00:00.000Z"
     }

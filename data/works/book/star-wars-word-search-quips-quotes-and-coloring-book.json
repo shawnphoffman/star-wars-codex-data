@@ -4,6 +4,10 @@
   "displayTitle": "Word Search, Quips, Quotes and Coloring Book",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1667214470"
+    },
+    {
       "type": "isbn13",
       "value": "9781667214474"
     }
@@ -13,6 +17,7 @@
       "extent": 192,
       "imprint": "Thunder Bay Press",
       "isPrimary": true,
+      "isbn10": "1667214470",
       "isbn13": "9781667214474",
       "kind": "print",
       "onsale": "2027-04-06T00:00:00.000Z"

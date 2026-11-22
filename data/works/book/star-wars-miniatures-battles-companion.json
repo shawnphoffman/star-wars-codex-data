@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Miniatures Battles Companion",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312167"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312164"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312167",
+      "isbn13": "9780874312164",
       "kind": "print",
       "onsale": "1994-06-01T00:00:00.000Z"
     }

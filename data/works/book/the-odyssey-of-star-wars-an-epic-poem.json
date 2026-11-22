@@ -11,6 +11,10 @@
   "displayTitle": "The Odyssey of Star Wars: An Epic Poem",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1419756281"
+    },
+    {
       "type": "isbn13",
       "value": "9781419756283"
     }
@@ -20,6 +24,7 @@
       "extent": 224,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419756281",
       "isbn13": "9781419756283",
       "kind": "print",
       "onsale": "2021-09-28T00:00:00.000Z"

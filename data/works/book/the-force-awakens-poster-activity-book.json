@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Force Awakens Poster Activity Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1405280484"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781405280488"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Egmont UK",
+      "isPrimary": true,
+      "isbn10": "1405280484",
+      "isbn13": "9781405280488",
+      "kind": "print",
+      "onsale": "2015-12-18T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

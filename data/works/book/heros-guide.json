@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "Hero's Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786928832"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786928835"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786928832",
+      "isbn13": "9780786928835",
       "kind": "print",
       "onsale": "2003-06-01T00:00:00.000Z"
     }

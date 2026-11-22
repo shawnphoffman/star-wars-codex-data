@@ -19,6 +19,27 @@
     }
   ],
   "displayTitle": "Art: Comics",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419700766"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419700767"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 180,
+      "imprint": "Abrams Books",
+      "isPrimary": true,
+      "isbn10": "1419700766",
+      "isbn13": "9781419700767",
+      "kind": "print",
+      "onsale": "2011-10-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

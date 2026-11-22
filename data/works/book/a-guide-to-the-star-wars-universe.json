@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "A Guide to the Star Wars Universe",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345319206"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345319203"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 215,
+      "imprint": "Ballantine Books",
+      "isPrimary": true,
+      "isbn10": "0345319206",
+      "isbn13": "9780345319203",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Mini Book of Lightsabers",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647225736"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647225735"
+    }
+  ],
   "editions": [
     {
+      "extent": 304,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1647225736",
+      "isbn13": "9781647225735",
       "kind": "print",
       "onsale": "2022-05-24T00:00:00.000Z"
     }

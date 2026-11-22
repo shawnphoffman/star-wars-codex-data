@@ -11,6 +11,10 @@
   "displayTitle": "Anakin to the Rescue",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0375800018"
+    },
+    {
       "type": "isbn13",
       "value": "9780375800016"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 47,
-      "imprint": "LucasBooks",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0375800018",
       "isbn13": "9780375800016",
       "kind": "print",
       "onsale": "1999-04-01T00:00:00.000Z"

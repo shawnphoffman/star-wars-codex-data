@@ -1,0 +1,43 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Precipice",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345519388"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345519382"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 30,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345519388",
+      "isbn13": "9780345519382",
+      "kind": "print",
+      "onsale": "2009-05-28T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "legendsEra": "legendsOldRepublic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2009-05-28T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-precipice",
+  "title": "Lost Tribe of the Sith: Precipice"
+}

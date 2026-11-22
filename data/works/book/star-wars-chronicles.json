@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Chronicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "081181498X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811814980"
+    }
+  ],
   "editions": [
     {
+      "extent": 315,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "081181498X",
+      "isbn13": "9780811814980",
       "kind": "print",
       "onsale": "1997-02-01T00:00:00.000Z"
     }

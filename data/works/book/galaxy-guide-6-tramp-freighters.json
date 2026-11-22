@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "Galaxy Guide 6: Tramp Freighters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311462"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311464"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874311462",
+      "isbn13": "9780874311464",
       "kind": "print",
       "onsale": "1990-06-01T00:00:00.000Z"
     }

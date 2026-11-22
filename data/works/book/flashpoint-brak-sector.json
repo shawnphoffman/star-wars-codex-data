@@ -29,10 +29,22 @@
     }
   ],
   "displayTitle": "Flashpoint! Brak Sector",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312531"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312539"
+    }
+  ],
   "editions": [
     {
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312531",
+      "isbn13": "9780874312539",
       "kind": "print",
       "onsale": "1995-04-01T00:00:00.000Z"
     }

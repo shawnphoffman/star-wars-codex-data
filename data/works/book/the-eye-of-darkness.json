@@ -15,6 +15,10 @@
       "value": "0593597931"
     },
     {
+      "type": "isbn10",
+      "value": "059359794X"
+    },
+    {
       "type": "isbn13",
       "value": "9780593597934"
     },
@@ -26,7 +30,7 @@
   "editions": [
     {
       "extent": 416,
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": true,
       "isbn10": "0593597931",
       "isbn13": "9780593597934",
@@ -34,8 +38,9 @@
       "onsale": "2023-11-14T00:00:00.000Z"
     },
     {
-      "imprint": "Random House",
+      "imprint": "Random House Worlds",
       "isPrimary": false,
+      "isbn10": "059359794X",
       "isbn13": "9780593597941",
       "kind": "print",
       "onsale": "2023-11-14T00:00:00.000Z"

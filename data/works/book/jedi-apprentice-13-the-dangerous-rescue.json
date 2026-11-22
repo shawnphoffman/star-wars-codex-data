@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9780439139328"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780613357142"
     }
   ],
   "editions": [
@@ -28,6 +32,7 @@
       "imprint": "Scholastic",
       "isPrimary": false,
       "isbn10": "0613357140",
+      "isbn13": "9780613357142",
       "kind": "print",
       "onsale": "2001-04-01T00:00:00.000Z"
     },

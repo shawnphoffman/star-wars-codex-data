@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Rebels: Ezra's Wookiee Rescue",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705041"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705049"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705041",
+      "isbn13": "9781484705049",
+      "kind": "print"
+    }
+  ],
   "era": "reignOfTheEmpire",
   "format": "book",
   "inUniverseDate": {

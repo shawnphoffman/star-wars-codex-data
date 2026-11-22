@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Domain of Evil",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874311489"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874311488"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874311489",
+      "isbn13": "9780874311488",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

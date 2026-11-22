@@ -25,6 +25,14 @@
       "value": "1368003168"
     },
     {
+      "type": "isbn10",
+      "value": "1368008933"
+    },
+    {
+      "type": "isbn10",
+      "value": "140527994X"
+    },
+    {
       "type": "isbn13",
       "value": "9781368003162"
     },
@@ -48,16 +56,18 @@
       "onsale": "2017-01-03T00:00:00.000Z"
     },
     {
-      "imprint": "Disney Book Group",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "1368008933",
       "isbn13": "9781368008938",
       "kind": "print",
       "onsale": "2017-01-03T00:00:00.000Z"
     },
     {
       "extent": 160,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Egmont UK",
       "isPrimary": false,
+      "isbn10": "140527994X",
       "isbn13": "9781405279949",
       "kind": "print",
       "onsale": "2016-02-25T00:00:00.000Z"

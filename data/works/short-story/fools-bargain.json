@@ -1,0 +1,31 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Timothy Zahn",
+      "role": "writer",
+      "slug": "timothy-zahn"
+    }
+  ],
+  "displayTitle": "Fool's Bargain",
+  "editions": [
+    {
+      "extent": 43,
+      "isPrimary": true,
+      "kind": "print",
+      "onsale": "2004-02-03T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": 21
+  },
+  "legendsEra": "legendsNewRepublic",
+  "releaseDate": "2004-02-03T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "fools-bargain",
+  "synopsis": "The history of the planet Kariek has been one of seemingly endless violence, thanks to the constantly erupting revolutions among the many divided tribes of the native Eickarie race battling for dominance. For fifty years a mysterious Warlord and his legion of alien mercenaries have held power in a reign of terror. Now the leaders of the warring Eickarie factions have forged an alliance strong enough to corner the Warlord in his fortress, and the post-Palpatine Empire of the Hand lends its support by deploying the Imperial 501st Legion of stormtroopers, tasked with capturing the Warlord alive.\n\nAurek Company prepares to storm the stronghold. As Unit Aurek-Seven moves into position, an Eickarie named Su-mil emerges and strikes a bargain: the troopers help free the Eickarie prisoners *before* they capture the Warlord, in exchange for a secret way into the fortress. Using an underground passage, the stormtroopers and Eickaries fight their way to the prison block, free the captives, and split into two parties. After surviving an ambush, the second party secures the fortress and takes the Warlord alive. Impressed, the trooper Twister invites Su-mil to join the Empire of the Hand, and Su-mil accepts a place in Aurek-Seven.",
+  "title": "Fool's Bargain"
+}

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Obi-Wan's Bongo Adventure",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "043910159X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101592"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "043910159X",
+      "isbn13": "9780439101592",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

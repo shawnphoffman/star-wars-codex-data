@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Inner Jedi",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1647225256"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781647225254"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 224,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1647225256",
+      "isbn13": "9781647225254",
+      "kind": "print",
+      "onsale": "2022-02-08T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

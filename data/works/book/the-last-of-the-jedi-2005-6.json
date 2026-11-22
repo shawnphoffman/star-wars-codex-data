@@ -11,6 +11,10 @@
   "displayTitle": "The Last of the Jedi: Return of the Dark Side",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439681391"
+    },
+    {
       "type": "isbn13",
       "value": "9780439681391"
     }
@@ -20,6 +24,7 @@
       "extent": 135,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439681391",
       "isbn13": "9780439681391",
       "kind": "print",
       "onsale": "2006-12-01T00:00:00.000Z"

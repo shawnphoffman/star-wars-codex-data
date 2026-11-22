@@ -9,10 +9,18 @@
     }
   ],
   "displayTitle": "The Official Crochet Pattern Book",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886637915"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn13": "9798886637915",
       "kind": "print",
       "onsale": "2025-10-21T00:00:00.000Z"
     }

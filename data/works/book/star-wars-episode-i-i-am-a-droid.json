@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: I Am a Droid",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375800255"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375800252"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375800255",
+      "isbn13": "9780375800252",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

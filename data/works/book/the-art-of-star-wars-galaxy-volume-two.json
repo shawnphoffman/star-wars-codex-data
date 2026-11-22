@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Galaxy: Volume Two",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1883313031"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781883313036"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Topps Publishing",
       "isPrimary": true,
+      "isbn10": "1883313031",
+      "isbn13": "9781883313036",
       "kind": "print",
       "onsale": "1994-11-01T00:00:00.000Z"
     }

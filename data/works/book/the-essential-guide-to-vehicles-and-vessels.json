@@ -24,10 +24,23 @@
     }
   ],
   "displayTitle": "The Essential Guide to Vehicles and Vessels",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "034539299X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345392992"
+    }
+  ],
   "editions": [
     {
+      "extent": 202,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034539299X",
+      "isbn13": "9780345392992",
       "kind": "print",
       "onsale": "1996-03-01T00:00:00.000Z"
     }

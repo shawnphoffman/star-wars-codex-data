@@ -11,6 +11,10 @@
   "displayTitle": "Poe and the Missing Ship",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1484705068"
+    },
+    {
       "type": "isbn13",
       "value": "9781484705063"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1484705068",
       "isbn13": "9781484705063",
       "kind": "print",
       "onsale": "2017-01-17T00:00:00.000Z"

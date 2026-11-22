@@ -9,6 +9,21 @@
     }
   ],
   "displayTitle": "Bestiary, Vol. 1: Creatures of the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886630985"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 208,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798886630985",
+      "kind": "print"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

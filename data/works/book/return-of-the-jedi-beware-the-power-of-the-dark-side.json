@@ -15,6 +15,10 @@
       "value": "1484709136"
     },
     {
+      "type": "isbn10",
+      "value": "148471220X"
+    },
+    {
       "type": "isbn13",
       "value": "9781484709139"
     },
@@ -34,8 +38,9 @@
       "onsale": "2015-09-22T00:00:00.000Z"
     },
     {
-      "imprint": "Disney Publishing Worldwide",
+      "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "148471220X",
       "isbn13": "9781484712207",
       "kind": "print"
     }

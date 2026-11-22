@@ -1,0 +1,43 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "John Jackson Miller",
+      "role": "writer",
+      "slug": "john-jackson-miller"
+    }
+  ],
+  "displayTitle": "Lost Tribe of the Sith: Sentinel",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345519434"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345519436"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 29,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345519434",
+      "isbn13": "9780345519436",
+      "kind": "print",
+      "onsale": "2011-02-21T00:00:00.000Z"
+    }
+  ],
+  "format": "shortStory",
+  "legendsEra": "legendsOldRepublic",
+  "periodical": {
+    "publicationKind": "comic"
+  },
+  "releaseDate": "2011-02-21T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "lost-tribe-of-the-sith-sentinel",
+  "title": "Lost Tribe of the Sith: Sentinel"
+}

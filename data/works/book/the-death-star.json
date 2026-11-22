@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Death Star",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316935921"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316935920"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Little, Brown and Company",
+      "isPrimary": true,
+      "isbn10": "0316935921",
+      "isbn13": "9780316935920",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 0

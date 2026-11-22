@@ -15,21 +15,32 @@
       "value": "0439681243"
     },
     {
+      "type": "isbn10",
+      "value": "054548233X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439681247"
+    },
+    {
       "type": "isbn13",
       "value": "9780545482332"
     }
   ],
   "editions": [
     {
+      "extent": 240,
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0439681243",
+      "isbn13": "9780439681247",
       "kind": "print",
       "onsale": "2004-10-01T00:00:00.000Z"
     },
     {
       "imprint": "Scholastic",
       "isPrimary": false,
+      "isbn10": "054548233X",
       "isbn13": "9780545482332",
       "kind": "print"
     }

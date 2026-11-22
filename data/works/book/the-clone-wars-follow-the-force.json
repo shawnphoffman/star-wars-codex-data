@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Follow The Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0448456141"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780448456140"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn10": "0448456141",
+      "isbn13": "9780448456140",
+      "kind": "print",
+      "onsale": "2011-08-04T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

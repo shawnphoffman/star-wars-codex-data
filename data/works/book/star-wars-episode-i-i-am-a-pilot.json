@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Episode I: I Am a Pilot",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375805249"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375805240"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375805249",
+      "isbn13": "9780375805240",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

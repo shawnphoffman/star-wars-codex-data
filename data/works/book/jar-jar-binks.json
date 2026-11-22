@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Jar Jar Binks",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375800115"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375800115"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 12,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375800115",
+      "isbn13": "9780375800115",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

@@ -11,6 +11,10 @@
   "displayTitle": "Vortex",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "034550920X"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509208"
     }
@@ -20,6 +24,7 @@
       "extent": 375,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "034550920X",
       "isbn13": "9780345509208",
       "kind": "print",
       "onsale": "2010-11-30T00:00:00.000Z"

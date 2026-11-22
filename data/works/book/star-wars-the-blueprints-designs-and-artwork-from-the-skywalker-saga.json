@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Blueprints: Designs and Artwork from the Skywalker Saga",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593969332"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593969335"
+    }
+  ],
   "editions": [
     {
+      "extent": 336,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0593969332",
+      "isbn13": "9780593969335",
       "kind": "print",
       "onsale": "2025-10-07T00:00:00.000Z"
     }

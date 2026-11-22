@@ -25,6 +25,10 @@
       "value": "0345428811"
     },
     {
+      "type": "isbn10",
+      "value": "1302900757"
+    },
+    {
       "type": "isbn13",
       "value": "9780345428813"
     },
@@ -47,6 +51,7 @@
       "extent": 152,
       "imprint": "Marvel Comics",
       "isPrimary": false,
+      "isbn10": "1302900757",
       "isbn13": "9781302900755",
       "kind": "print",
       "onsale": "2016-09-07T00:00:00.000Z"

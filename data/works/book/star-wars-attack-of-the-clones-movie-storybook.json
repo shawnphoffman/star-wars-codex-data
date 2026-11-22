@@ -14,6 +14,27 @@
     }
   ],
   "displayTitle": "Attack of the Clones Movie Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0375815341"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780375815348"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0375815341",
+      "isbn13": "9780375815348",
+      "kind": "print",
+      "onsale": "2002-04-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

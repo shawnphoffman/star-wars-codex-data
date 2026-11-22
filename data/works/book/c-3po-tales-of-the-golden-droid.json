@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "C-3PO: Tales of the Golden Droid",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "081182487X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811824873"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "081182487X",
+      "isbn13": "9780811824873",
       "kind": "print",
       "onsale": "1999-09-01T00:00:00.000Z"
     }

@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Platt's Smugglers Guide",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315085"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315080"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 104,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874315085",
+      "isbn13": "9780874315080",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

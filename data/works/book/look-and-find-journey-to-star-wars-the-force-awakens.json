@@ -9,6 +9,25 @@
     }
   ],
   "displayTitle": "Look and Find (Journey to Star Wars: The Force Awakens)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1503701956"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781503701953"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Phoenix International Publications",
+      "isPrimary": true,
+      "isbn10": "1503701956",
+      "isbn13": "9781503701953",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 34

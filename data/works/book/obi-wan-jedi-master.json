@@ -2,6 +2,26 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Obi-Wan, Jedi Master",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1645886492"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781645886495"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 96,
+      "isPrimary": true,
+      "isbn10": "1645886492",
+      "isbn13": "9781645886495",
+      "kind": "print",
+      "onsale": "2022-09-27T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

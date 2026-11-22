@@ -26,6 +26,10 @@
   "displayTitle": "Lost Stars: Vol. 2 (Manga)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1975327543"
+    },
+    {
       "type": "isbn13",
       "value": "9781975327545"
     }
@@ -35,6 +39,7 @@
       "extent": 192,
       "imprint": "Line Corporation",
       "isPrimary": true,
+      "isbn10": "1975327543",
       "isbn13": "9781975327545",
       "kind": "print",
       "onsale": "2019-04-20T00:00:00.000Z"

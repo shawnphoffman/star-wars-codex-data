@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0448450399"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780448450391"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Grosset & Dunlap",
       "isPrimary": true,
       "isbn10": "0448450399",
+      "isbn13": "9780448450391",
       "kind": "print",
       "onsale": "2009-02-05T00:00:00.000Z"
     }

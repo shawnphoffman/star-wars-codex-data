@@ -11,6 +11,10 @@
   "displayTitle": "A Queen's Diary",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0756632692"
+    },
+    {
       "type": "isbn13",
       "value": "9780756632694"
     }
@@ -20,6 +24,7 @@
       "extent": 32,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756632692",
       "isbn13": "9780756632694",
       "kind": "print",
       "onsale": "2007-09-17T00:00:00.000Z"

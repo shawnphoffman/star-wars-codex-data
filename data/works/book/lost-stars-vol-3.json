@@ -36,6 +36,10 @@
   "displayTitle": "Lost Stars: Vol. 3 (Manga)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1975358678"
+    },
+    {
       "type": "isbn13",
       "value": "9781975358679"
     }
@@ -45,6 +49,7 @@
       "extent": 200,
       "imprint": "Line Corporation",
       "isPrimary": true,
+      "isbn10": "1975358678",
       "isbn13": "9781975358679",
       "kind": "print",
       "onsale": "2019-04-20T00:00:00.000Z"

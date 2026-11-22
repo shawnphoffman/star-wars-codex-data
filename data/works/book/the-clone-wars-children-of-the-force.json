@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Clone Wars: Children Of The Force",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "044845338X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780448453385"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Grosset & Dunlap",
+      "isPrimary": true,
+      "isbn10": "044845338X",
+      "isbn13": "9780448453385",
+      "kind": "print",
+      "onsale": "2010-04-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -22

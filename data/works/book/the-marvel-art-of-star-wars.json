@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Marvel Art of Star Wars",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1302917684"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781302917685"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Marvel Comics",
       "isPrimary": true,
+      "isbn10": "1302917684",
+      "isbn13": "9781302917685",
       "kind": "print",
       "onsale": "2019-10-02T00:00:00.000Z"
     }

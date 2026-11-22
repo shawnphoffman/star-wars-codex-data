@@ -11,6 +11,10 @@
   "displayTitle": "The Art of Star Wars: The Mandalorian (Season Two)",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1419756516"
+    },
+    {
       "type": "isbn13",
       "value": "9781419756511"
     }
@@ -20,6 +24,7 @@
       "extent": 256,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419756516",
       "isbn13": "9781419756511",
       "kind": "print",
       "onsale": "2022-02-15T00:00:00.000Z"

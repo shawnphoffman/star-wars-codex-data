@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "Frames",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419704702"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419704703"
+    }
+  ],
   "editions": [
     {
+      "extent": 1416,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn10": "1419704702",
+      "isbn13": "9781419704703",
       "kind": "print",
       "onsale": "2011-01-08T00:00:00.000Z"
     }

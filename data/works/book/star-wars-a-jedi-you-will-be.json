@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "A Jedi, You Will Be",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368057241"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368057240"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1368057241",
+      "isbn13": "9781368057240",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

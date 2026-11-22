@@ -11,6 +11,10 @@
   "displayTitle": "Gungan Trouble!",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0439101662"
+    },
+    {
       "type": "isbn13",
       "value": "9780439101660"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Scholastic",
       "isPrimary": true,
+      "isbn10": "0439101662",
       "isbn13": "9780439101660",
       "kind": "print",
       "onsale": "2000-06-01T00:00:00.000Z"

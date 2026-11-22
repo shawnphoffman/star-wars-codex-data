@@ -13,14 +13,19 @@
     {
       "type": "isbn10",
       "value": "0394878671"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394878676"
     }
   ],
   "editions": [
     {
       "extent": 12,
-      "imprint": "Random House",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
       "isbn10": "0394878671",
+      "isbn13": "9780394878676",
       "kind": "print",
       "onsale": "1986-04-08T00:00:00.000Z"
     }

@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Life Size",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0593969243"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780593969243"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 42,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0593969243",
+      "isbn13": "9780593969243",
+      "kind": "print",
+      "onsale": "2025-06-10T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -59,10 +59,23 @@
     }
   ],
   "displayTitle": "Wretched Hives of Scum & Villainy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "087431500X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315004"
+    }
+  ],
   "editions": [
     {
+      "extent": 120,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "087431500X",
+      "isbn13": "9780874315004",
       "kind": "print",
       "onsale": "1997-05-12T00:00:00.000Z"
     }

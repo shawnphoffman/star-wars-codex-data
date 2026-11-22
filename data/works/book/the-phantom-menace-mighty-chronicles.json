@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Phantom Menace (Mighty Chronicles)",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0811823156"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780811823159"
+    }
+  ],
   "editions": [
     {
+      "extent": 320,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "0811823156",
+      "isbn13": "9780811823159",
       "kind": "print",
       "onsale": "1999-05-03T00:00:00.000Z"
     }

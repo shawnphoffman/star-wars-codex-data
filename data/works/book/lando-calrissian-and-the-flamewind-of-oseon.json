@@ -12,6 +12,10 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0345311639"
+    },
+    {
+      "type": "isbn10",
       "value": "059372609X"
     },
     {
@@ -28,6 +32,7 @@
       "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345311639",
       "isbn13": "9780345311634",
       "kind": "print",
       "onsale": "1983-09-12T00:00:00.000Z"

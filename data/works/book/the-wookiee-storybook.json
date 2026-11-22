@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Wookiee Storybook",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394842561"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394842561"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 40,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394842561",
+      "isbn13": "9780394842561",
+      "kind": "print",
+      "onsale": "1979-09-12T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -1

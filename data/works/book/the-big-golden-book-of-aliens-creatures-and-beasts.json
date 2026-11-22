@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Big Golden Book of Aliens, Creatures, and Beasts",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "073643691X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736436915"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "073643691X",
+      "isbn13": "9780736436915",
+      "kind": "print",
+      "onsale": "2018-01-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

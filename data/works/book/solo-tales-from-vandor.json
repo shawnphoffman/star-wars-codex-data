@@ -11,6 +11,10 @@
   "displayTitle": "Solo: Tales From Vandor",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0794441025"
+    },
+    {
       "type": "isbn13",
       "value": "9780794441029"
     }
@@ -20,6 +24,7 @@
       "extent": 128,
       "imprint": "Studio Fun International",
       "isPrimary": true,
+      "isbn10": "0794441025",
       "isbn13": "9780794441029",
       "kind": "print",
       "onsale": "2018-09-11T00:00:00.000Z"

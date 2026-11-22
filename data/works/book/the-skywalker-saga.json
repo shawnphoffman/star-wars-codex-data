@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Skywalker Saga",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368041531"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368041539"
+    }
+  ],
   "editions": [
     {
+      "extent": 400,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368041531",
+      "isbn13": "9781368041539",
       "kind": "print",
       "onsale": "2019-10-01T00:00:00.000Z"
     }

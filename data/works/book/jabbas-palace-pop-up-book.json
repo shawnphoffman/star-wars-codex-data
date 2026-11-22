@@ -14,6 +14,26 @@
     }
   ],
   "displayTitle": "Jabba's Palace Pop-up Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0316535133"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780316535137"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 1,
+      "imprint": "Little, Brown and Company",
+      "isPrimary": true,
+      "isbn10": "0316535133",
+      "isbn13": "9780316535137",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

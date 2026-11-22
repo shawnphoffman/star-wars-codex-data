@@ -29,6 +29,26 @@
     }
   ],
   "displayTitle": "Classic Adventures: Volume Five",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874315115"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874315110"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 125,
+      "imprint": "West End Games",
+      "isPrimary": true,
+      "isbn10": "0874315115",
+      "isbn13": "9780874315110",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

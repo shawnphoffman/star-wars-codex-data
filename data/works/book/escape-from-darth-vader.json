@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Escape from Darth Vader",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705009"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705001"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705009",
+      "isbn13": "9781484705001",
+      "kind": "print",
+      "onsale": "2014-09-16T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

@@ -16,6 +16,10 @@
   "displayTitle": "The Art of Star Wars: The Acolyte",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1419777343"
+    },
+    {
       "type": "isbn13",
       "value": "9781419777349"
     }
@@ -25,6 +29,7 @@
       "extent": 224,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419777343",
       "isbn13": "9781419777349",
       "kind": "print",
       "onsale": "2026-02-03T00:00:00.000Z"

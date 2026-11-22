@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Empire Strikes Back Pop-Up Book",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0394844130"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780394844138"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 16,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0394844130",
+      "isbn13": "9780394844138",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 3

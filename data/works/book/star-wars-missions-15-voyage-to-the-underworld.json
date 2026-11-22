@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0590763342"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590763349"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0590763342",
+      "isbn13": "9780590763349",
       "kind": "print",
       "onsale": "1998-11-01T00:00:00.000Z"
     }

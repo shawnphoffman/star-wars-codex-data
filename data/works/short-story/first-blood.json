@@ -1,0 +1,23 @@
+{
+  "bookType": "shortStory",
+  "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Christie Golden",
+      "role": "writer",
+      "slug": "christie-golden"
+    }
+  ],
+  "displayTitle": "First Blood",
+  "format": "shortStory",
+  "inUniverseDate": {
+    "startYear": 41
+  },
+  "legendsEra": "legendsLegacy",
+  "releaseDate": "2011-04-26T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
+  "slug": "first-blood",
+  "synopsis": "\"First Blood\" is a short story written by Christie Golden. It appeared in Star Wars Insider 125 and featured the Sith apprentice Vestara Khai. It was later reprinted in Star Wars Insider Special Edition 2013.",
+  "title": "First Blood"
+}

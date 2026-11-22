@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Race Across the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736449078"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736449076"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Random House Books for Young Readers",
+      "isPrimary": true,
+      "isbn10": "0736449078",
+      "isbn13": "9780736449076",
+      "kind": "print",
+      "onsale": "2028-01-04T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "periodical": {

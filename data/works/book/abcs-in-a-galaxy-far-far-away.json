@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "ABCs in a Galaxy Far, Far Away",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "136811797X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368117975"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 28,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "136811797X",
+      "isbn13": "9781368117975",
+      "kind": "print",
+      "onsale": "2026-06-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

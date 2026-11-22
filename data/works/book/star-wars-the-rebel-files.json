@@ -11,6 +11,10 @@
   "displayTitle": "The Rebel Files",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0760355452"
+    },
+    {
       "type": "isbn13",
       "value": "9780760355459"
     }
@@ -20,6 +24,7 @@
       "extent": 176,
       "imprint": "becker&mayer!",
       "isPrimary": true,
+      "isbn10": "0760355452",
       "isbn13": "9780760355459",
       "kind": "print",
       "onsale": "2017-11-21T00:00:00.000Z"

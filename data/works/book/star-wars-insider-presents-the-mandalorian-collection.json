@@ -2,10 +2,23 @@
   "bookType": "referenceBook",
   "canonStatus": "canon",
   "displayTitle": "Insider Presents: The Mandalorian Collection",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1787739996"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781787739994"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Titan Magazines",
       "isPrimary": true,
+      "isbn10": "1787739996",
+      "isbn13": "9781787739994",
       "kind": "print",
       "onsale": "2024-03-05T00:00:00.000Z"
     }

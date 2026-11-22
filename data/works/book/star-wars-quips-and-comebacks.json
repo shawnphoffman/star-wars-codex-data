@@ -4,6 +4,10 @@
   "displayTitle": "Quips and Comebacks",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1797240110"
+    },
+    {
       "type": "isbn13",
       "value": "9781797240114"
     }
@@ -13,6 +17,7 @@
       "extent": 114,
       "imprint": "Chronicle Books",
       "isPrimary": true,
+      "isbn10": "1797240110",
       "isbn13": "9781797240114",
       "kind": "print",
       "onsale": "2026-09-22T00:00:00.000Z"

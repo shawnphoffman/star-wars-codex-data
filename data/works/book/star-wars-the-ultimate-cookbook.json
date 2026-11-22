@@ -14,10 +14,18 @@
     }
   ],
   "displayTitle": "The Ultimate Cookbook",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798886630565"
+    }
+  ],
   "editions": [
     {
+      "extent": 208,
       "imprint": "Insight Editions",
       "isPrimary": true,
+      "isbn13": "9798886630565",
       "kind": "print",
       "onsale": "2023-10-10T00:00:00.000Z"
     }

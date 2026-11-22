@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "Return of the Jedi: The Battle of Endor",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368093477"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368093477"
+    }
+  ],
   "editions": [
     {
+      "extent": 32,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368093477",
+      "isbn13": "9781368093477",
       "kind": "print",
       "onsale": "2023-03-07T00:00:00.000Z"
     }

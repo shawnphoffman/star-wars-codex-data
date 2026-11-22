@@ -14,10 +14,23 @@
     }
   ],
   "displayTitle": "The Complete Visual Dictionary, New Edition",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465475478"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465475473"
+    }
+  ],
   "editions": [
     {
+      "extent": 352,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465475478",
+      "isbn13": "9781465475473",
       "kind": "print",
       "onsale": "2018-09-18T00:00:00.000Z"
     }

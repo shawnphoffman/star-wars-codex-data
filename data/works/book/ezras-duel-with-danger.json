@@ -21,6 +21,10 @@
     {
       "type": "isbn13",
       "value": "9781405276313"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484704691"
     }
   ],
   "editions": [
@@ -29,12 +33,13 @@
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "148470469X",
+      "isbn13": "9781484704691",
       "kind": "print",
       "onsale": "2015-03-17T00:00:00.000Z"
     },
     {
       "extent": 128,
-      "imprint": "Disney-Lucasfilm Press",
+      "imprint": "Egmont UK",
       "isPrimary": true,
       "isbn10": "1405276312",
       "isbn13": "9781405276313",

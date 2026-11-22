@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Star Wars Album",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345275918"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345275912"
+    }
+  ],
   "editions": [
     {
+      "extent": 80,
       "imprint": "Ballantine Books",
       "isPrimary": true,
+      "isbn10": "0345275918",
+      "isbn13": "9780345275912",
       "kind": "print",
       "onsale": "1977-11-01T00:00:00.000Z"
     }

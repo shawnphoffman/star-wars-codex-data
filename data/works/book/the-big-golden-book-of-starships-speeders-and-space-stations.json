@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Big Golden Book of Starships, Speeders, and Space Stations",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0736436936"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736436939"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Golden Books",
+      "isPrimary": true,
+      "isbn10": "0736436936",
+      "isbn13": "9780736436939",
+      "kind": "print",
+      "onsale": "2017-07-25T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

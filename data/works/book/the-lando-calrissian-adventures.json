@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0345391101"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345391100"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345391101",
+      "isbn13": "9780345391100",
       "kind": "print",
       "onsale": "1994-06-01T00:00:00.000Z"
     }

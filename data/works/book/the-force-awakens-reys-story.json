@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "The Force Awakens: Rey's Story",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484774094"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484774090"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 128,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484774094",
+      "isbn13": "9781484774090",
+      "kind": "print",
+      "onsale": "2016-02-16T00:00:00.000Z"
+    }
+  ],
   "era": "riseOfTheFirstOrder",
   "format": "book",
   "inUniverseDate": {

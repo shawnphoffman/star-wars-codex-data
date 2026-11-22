@@ -11,6 +11,10 @@
   "displayTitle": "Conviction",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0345509102"
+    },
+    {
       "type": "isbn13",
       "value": "9780345509109"
     }
@@ -20,6 +24,7 @@
       "extent": 380,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345509102",
       "isbn13": "9780345509109",
       "kind": "print",
       "onsale": "2011-05-24T00:00:00.000Z"

@@ -2,6 +2,27 @@
   "bookType": "other",
   "canonStatus": "canon",
   "displayTitle": "Yoda One for Me",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1797205951"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781797205953"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Chronicle Books",
+      "isPrimary": true,
+      "isbn10": "1797205951",
+      "isbn13": "9781797205953",
+      "kind": "print",
+      "onsale": "2022-01-11T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

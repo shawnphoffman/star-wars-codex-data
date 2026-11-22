@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "William Shakespeare's The Jedi Doth Return",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "159474713X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781594747137"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 176,
+      "imprint": "Quirk Books",
+      "isPrimary": true,
+      "isbn10": "159474713X",
+      "isbn13": "9781594747137",
+      "kind": "print",
+      "onsale": "2014-07-01T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "releaseDate": "2014-07-01T00:00:00.000Z",
   "releaseDisplayState": "released",

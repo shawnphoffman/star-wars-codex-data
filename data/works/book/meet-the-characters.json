@@ -2,10 +2,23 @@
   "bookType": "childrensBook",
   "canonStatus": "canon",
   "displayTitle": "Meet the Characters",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1368117376"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781368117371"
+    }
+  ],
   "editions": [
     {
+      "extent": 30,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368117376",
+      "isbn13": "9781368117371",
       "kind": "print",
       "onsale": "2026-01-06T00:00:00.000Z"
     }

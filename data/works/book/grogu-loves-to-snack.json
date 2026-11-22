@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Grogu Loves to Snack!",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794454704"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794454708"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 48,
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794454704",
+      "isbn13": "9780794454708",
+      "kind": "print",
+      "onsale": "2026-04-07T00:00:00.000Z"
+    }
+  ],
   "era": "newRepublic",
   "format": "book",
   "inUniverseDate": {

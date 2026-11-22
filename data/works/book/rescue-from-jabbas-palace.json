@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Rescue from Jabba's Palace",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705017"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705018"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705017",
+      "isbn13": "9781484705018",
+      "kind": "print",
+      "onsale": "2015-04-28T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

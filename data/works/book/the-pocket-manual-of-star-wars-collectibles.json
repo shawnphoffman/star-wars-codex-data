@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Pocket Manual of Star Wars Collectibles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0762403225"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780762403226"
+    }
+  ],
   "editions": [
     {
+      "extent": 128,
       "imprint": "Running Press",
       "isPrimary": true,
+      "isbn10": "0762403225",
+      "isbn13": "9780762403226",
       "kind": "print",
       "onsale": "1998-08-09T00:00:00.000Z"
     }

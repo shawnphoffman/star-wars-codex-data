@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Jedi Pocket Expert",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0744057035"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780744057034"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 288,
+      "imprint": "DK",
+      "isPrimary": true,
+      "isbn10": "0744057035",
+      "isbn13": "9780744057034",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

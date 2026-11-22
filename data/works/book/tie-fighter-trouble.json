@@ -11,6 +11,10 @@
   "displayTitle": "TIE Fighter Trouble",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "8184775571"
+    },
+    {
       "type": "isbn13",
       "value": "9788184775570"
     }
@@ -27,6 +31,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
+      "isbn10": "8184775571",
       "isbn13": "9788184775570",
       "kind": "print",
       "onsale": "2015-11-01T00:00:00.000Z"

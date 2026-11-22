@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Sith Attack",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "043910162X"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101622"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "043910162X",
+      "isbn13": "9780439101622",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

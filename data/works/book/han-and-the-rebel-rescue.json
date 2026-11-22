@@ -11,6 +11,10 @@
   "displayTitle": "Han and the Rebel Rescue",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1368003524"
+    },
+    {
       "type": "isbn13",
       "value": "9781368003520"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368003524",
       "isbn13": "9781368003520",
       "kind": "print",
       "onsale": "2017-05-02T00:00:00.000Z"

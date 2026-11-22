@@ -39,10 +39,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars: The High Republic: Volume I",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419756559"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419756559"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419756559",
+      "isbn13": "9781419756559",
       "kind": "print",
       "onsale": "2022-11-08T00:00:00.000Z"
     }

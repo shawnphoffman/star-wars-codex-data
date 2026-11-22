@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "The Rise of Skywalker Magnetic Playset",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0794444512"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780794444518"
+    }
+  ],
+  "editions": [
+    {
+      "imprint": "Studio Fun International",
+      "isPrimary": true,
+      "isbn10": "0794444512",
+      "isbn13": "9780794444518",
+      "kind": "print",
+      "onsale": "2019-10-04T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": 35

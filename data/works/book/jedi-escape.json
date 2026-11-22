@@ -9,6 +9,26 @@
     }
   ],
   "displayTitle": "Jedi Escape",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0439101646"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780439101646"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 24,
+      "imprint": "Scholastic",
+      "isPrimary": true,
+      "isbn10": "0439101646",
+      "isbn13": "9780439101646",
+      "kind": "print"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -32

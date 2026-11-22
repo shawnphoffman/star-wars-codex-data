@@ -13,6 +13,10 @@
     {
       "type": "isbn10",
       "value": "0590127934"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780590127936"
     }
   ],
   "editions": [
@@ -21,6 +25,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0590127934",
+      "isbn13": "9780590127936",
       "kind": "print",
       "onsale": "1997-09-01T00:00:00.000Z"
     }

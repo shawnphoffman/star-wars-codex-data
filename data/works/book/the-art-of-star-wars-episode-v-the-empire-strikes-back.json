@@ -19,10 +19,23 @@
     }
   ],
   "displayTitle": "The Art of Star Wars Episode V: The Empire Strikes Back",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0345410882"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780345410887"
+    }
+  ],
   "editions": [
     {
+      "extent": 192,
       "imprint": "Del Rey",
       "isPrimary": true,
+      "isbn10": "0345410882",
+      "isbn13": "9780345410887",
       "kind": "print",
       "onsale": "1980-10-01T00:00:00.000Z"
     }

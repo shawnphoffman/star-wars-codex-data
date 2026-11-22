@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Ewoks Join the Fight",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1484705483"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484705483"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 32,
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": true,
+      "isbn10": "1484705483",
+      "isbn13": "9781484705483",
+      "kind": "print",
+      "onsale": "2015-08-04T00:00:00.000Z"
+    }
+  ],
   "era": "ageOfRebellion",
   "format": "book",
   "inUniverseDate": {

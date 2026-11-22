@@ -9,6 +9,22 @@
     }
   ],
   "displayTitle": "The Official Funko POP! Coloring Book",
+  "editionIds": [
+    {
+      "type": "isbn13",
+      "value": "9798337400792"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 64,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn13": "9798337400792",
+      "kind": "print",
+      "onsale": "2025-12-23T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

@@ -9,6 +9,27 @@
     }
   ],
   "displayTitle": "Icons: Han Solo",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1683834968"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781683834960"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 240,
+      "imprint": "Insight Editions",
+      "isPrimary": true,
+      "isbn10": "1683834968",
+      "isbn13": "9781683834960",
+      "kind": "print",
+      "onsale": "2019-04-02T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "inUniverseDate": {
     "startYear": -10

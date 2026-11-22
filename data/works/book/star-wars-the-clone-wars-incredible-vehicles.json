@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Clone Wars: Incredible Vehicles",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0756686911"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780756686918"
+    }
+  ],
   "editions": [
     {
+      "extent": 127,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "0756686911",
+      "isbn13": "9780756686918",
       "kind": "print",
       "onsale": "2011-08-15T00:00:00.000Z"
     }

@@ -11,6 +11,10 @@
   "displayTitle": "The Ring, the Witch, and the Crystal: An Ewok Adventure",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "0394880579"
+    },
+    {
       "type": "isbn13",
       "value": "9780394880570"
     }
@@ -18,8 +22,9 @@
   "editions": [
     {
       "extent": 32,
-      "imprint": "Random House",
+      "imprint": "Random House Books for Young Readers",
       "isPrimary": true,
+      "isbn10": "0394880579",
       "isbn13": "9780394880570",
       "kind": "print",
       "onsale": "1986-05-01T00:00:00.000Z"

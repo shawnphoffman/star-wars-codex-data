@@ -39,10 +39,23 @@
     }
   ],
   "displayTitle": "Scum and Villainy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786950358"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786950355"
+    }
+  ],
   "editions": [
     {
+      "extent": 224,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786950358",
+      "isbn13": "9780786950355",
       "kind": "print",
       "onsale": "2008-11-18T00:00:00.000Z"
     }

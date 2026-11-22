@@ -39,6 +39,26 @@
     }
   ],
   "displayTitle": "Rise of the Separatists",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1633443434"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781633443433"
+    }
+  ],
+  "editions": [
+    {
+      "extent": 144,
+      "isPrimary": true,
+      "isbn10": "1633443434",
+      "isbn13": "9781633443433",
+      "kind": "print",
+      "onsale": "2019-05-09T00:00:00.000Z"
+    }
+  ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"

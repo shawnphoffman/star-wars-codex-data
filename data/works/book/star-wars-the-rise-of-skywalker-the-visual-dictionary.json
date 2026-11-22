@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Rise of Skywalker: The Visual Dictionary",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1465479031"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781465479037"
+    }
+  ],
   "editions": [
     {
+      "extent": 200,
       "imprint": "DK",
       "isPrimary": true,
+      "isbn10": "1465479031",
+      "isbn13": "9781465479037",
       "kind": "print",
       "onsale": "2019-12-20T00:00:00.000Z"
     }

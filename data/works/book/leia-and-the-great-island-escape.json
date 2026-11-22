@@ -11,6 +11,10 @@
   "displayTitle": "Leia and the Great Island Escape",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1368002404"
+    },
+    {
       "type": "isbn13",
       "value": "9781368002400"
     }
@@ -20,6 +24,7 @@
       "extent": 24,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": true,
+      "isbn10": "1368002404",
       "isbn13": "9781368002400",
       "kind": "print",
       "onsale": "2016-12-06T00:00:00.000Z"

@@ -41,6 +41,10 @@
   "displayTitle": "Ewoks: Shadows of Endor",
   "editionIds": [
     {
+      "type": "isbn10",
+      "value": "1616551747"
+    },
+    {
       "type": "isbn13",
       "value": "9781616551742"
     }
@@ -50,6 +54,7 @@
       "extent": 80,
       "imprint": "Dark Horse Books",
       "isPrimary": true,
+      "isbn10": "1616551747",
       "isbn13": "9781616551742",
       "kind": "print",
       "onsale": "2013-10-09T00:00:00.000Z"

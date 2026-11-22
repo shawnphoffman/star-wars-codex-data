@@ -34,10 +34,23 @@
     }
   ],
   "displayTitle": "Threats of the Galaxy",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0786947810"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780786947812"
+    }
+  ],
   "editions": [
     {
+      "extent": 160,
       "imprint": "Wizards of the Coast",
       "isPrimary": true,
+      "isbn10": "0786947810",
+      "isbn13": "9780786947812",
       "kind": "print",
       "onsale": "2008-05-20T00:00:00.000Z"
     }

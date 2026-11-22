@@ -20,6 +20,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780439101448"
+    },
+    {
+      "type": "isbn13",
       "value": "9780439129909"
     }
   ],
@@ -29,6 +33,7 @@
       "imprint": "Scholastic",
       "isPrimary": true,
       "isbn10": "0439101441",
+      "isbn13": "9780439101448",
       "kind": "print",
       "onsale": "2000-03-01T00:00:00.000Z"
     },

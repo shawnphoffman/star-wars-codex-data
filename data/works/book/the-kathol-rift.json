@@ -39,10 +39,23 @@
     }
   ],
   "displayTitle": "The Kathol Rift",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "0874312736"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780874312737"
+    }
+  ],
   "editions": [
     {
+      "extent": 96,
       "imprint": "West End Games",
       "isPrimary": true,
+      "isbn10": "0874312736",
+      "isbn13": "9780874312737",
       "kind": "print",
       "onsale": "1996-05-01T00:00:00.000Z"
     }

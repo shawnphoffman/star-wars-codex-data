@@ -9,10 +9,23 @@
     }
   ],
   "displayTitle": "The Moviemaking Magic of Star Wars: Creatures & Aliens",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1419728199"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781419728198"
+    }
+  ],
   "editions": [
     {
+      "extent": 144,
       "imprint": "Abrams Books",
       "isPrimary": true,
+      "isbn10": "1419728199",
+      "isbn13": "9781419728198",
       "kind": "print",
       "onsale": "2018-05-25T00:00:00.000Z"
     }
