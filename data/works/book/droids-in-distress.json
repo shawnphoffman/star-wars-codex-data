@@ -31,7 +31,7 @@
     {
       "extent": 128,
       "imprint": "Disney-Lucasfilm Press",
-      "isPrimary": false,
+      "isPrimary": true,
       "isbn10": "1484704665",
       "isbn13": "9781484704660",
       "kind": "print",
@@ -40,7 +40,7 @@
     {
       "extent": 128,
       "imprint": "Egmont UK",
-      "isPrimary": true,
+      "isPrimary": false,
       "isbn10": "1405275847",
       "isbn13": "9781405275842",
       "kind": "print",

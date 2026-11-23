@@ -21,11 +21,13 @@
   ],
   "editions": [
     {
+      "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
       "isbn10": "0736434879",
       "isbn13": "9780736434874",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2016-01-05T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -36,5 +38,6 @@
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "i-am-a-jedi-little-golden",
+  "synopsis": "Meet Luke Skywalker, Obi-Wan Kenobi, Yoda, and all the brave Jedi from the epic Star Wars space saga! Featuring stunning retro illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages.",
   "title": "I Am a Jedi (Little Golden)"
 }

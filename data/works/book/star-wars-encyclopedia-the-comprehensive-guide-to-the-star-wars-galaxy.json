@@ -56,7 +56,8 @@
       "isPrimary": true,
       "isbn10": "074409884X",
       "isbn13": "9780744098846",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2024-11-19T00:00:00.000Z"
     }
   ],
   "format": "book",

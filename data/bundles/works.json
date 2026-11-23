@@ -52808,7 +52808,7 @@
       {
         "extent": 128,
         "imprint": "Disney-Lucasfilm Press",
-        "isPrimary": false,
+        "isPrimary": true,
         "isbn10": "1484704665",
         "isbn13": "9781484704660",
         "kind": "print",
@@ -52817,7 +52817,7 @@
       {
         "extent": 128,
         "imprint": "Egmont UK",
-        "isPrimary": true,
+        "isPrimary": false,
         "isbn10": "1405275847",
         "isbn13": "9781405275842",
         "kind": "print",
@@ -61450,7 +61450,7 @@
       {
         "extent": 128,
         "imprint": "Disney-Lucasfilm Press",
-        "isPrimary": false,
+        "isPrimary": true,
         "isbn10": "148470469X",
         "isbn13": "9781484704691",
         "kind": "print",
@@ -61459,11 +61459,11 @@
       {
         "extent": 128,
         "imprint": "Egmont UK",
-        "isPrimary": true,
+        "isPrimary": false,
         "isbn10": "1405276312",
         "isbn13": "9781405276313",
         "kind": "print",
-        "onsale": "2015-03-17T00:00:00.000Z"
+        "onsale": "2015-08-26T00:00:00.000Z"
       }
     ],
     "era": "reignOfTheEmpire",
@@ -75282,11 +75282,13 @@
     ],
     "editions": [
       {
+        "extent": 24,
         "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736434879",
         "isbn13": "9780736434874",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2016-01-05T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -75297,6 +75299,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "i-am-a-jedi-little-golden",
+    "synopsis": "Meet Luke Skywalker, Obi-Wan Kenobi, Yoda, and all the brave Jedi from the epic Star Wars space saga! Featuring stunning retro illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages.",
     "title": "I Am a Jedi (Little Golden)"
   },
   {
@@ -75365,11 +75368,13 @@
     ],
     "editions": [
       {
+        "extent": 24,
         "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736436219",
         "isbn13": "9780736436212",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2016-01-05T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -75380,6 +75385,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "i-am-a-pilot-little-golden",
+    "synopsis": "Meet Han Solo, Luke Skywalker, and all the daring pilots from the epic Star Wars space saga! Featuring stunning retro illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages.",
     "title": "I Am a Pilot (Little Golden)"
   },
   {
@@ -75429,11 +75435,13 @@
     ],
     "editions": [
       {
+        "extent": 24,
         "imprint": "Golden Books",
         "isPrimary": true,
         "isbn10": "0736436073",
         "isbn13": "9780736436076",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2016-07-12T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -75444,6 +75452,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "i-am-a-sith-little-golden",
+    "synopsis": "Meet Darth Vader, Darth Maul, Darth Sidious, and all of the villainous Sith from the epic Star Wars space saga! Featuring stunning retro illustrations, this book is perfect for Star Wars - and Little Golden Book - fans of all ages.",
     "title": "I Am a Sith (Little Golden)"
   },
   {
@@ -116247,98 +116256,6 @@
     "title": "Rebels: A New Hero"
   },
   {
-    "bookType": "childrensBook",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Meredith L. Rusu",
-        "role": "writer",
-        "slug": "meredith-l-rusu"
-      }
-    ],
-    "displayTitle": "Rebels: Always Bet on Chopper",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -4
-    },
-    "releaseDate": "2015-05-05T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-always-bet-on-chopper",
-    "synopsis": "Meet Chopper--the rebels' grumpy old astromech droid. He may have a bit of an attitude, but there's no droid the team would rather have with them in a tight spot. This Level 1 early reader retells one of Chopper's exciting adventures with his rebel friends.",
-    "title": "Rebels: Always Bet on Chopper"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Michael Kogge",
-        "role": "writer",
-        "slug": "michael-kogge"
-      }
-    ],
-    "displayTitle": "Rebels: Battle to the End",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -4
-    },
-    "releaseDate": "2015-06-04T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-battle-to-the-end",
-    "synopsis": "This action-packed chapter book retells the exciting final arc of Star Wars Rebels' first season. As the stakes rise higher than ever before, the Rebels must work together to thwart the Empire. If they fail, the consequences are unthinkable.",
-    "title": "Rebels: Battle to the End"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Michael Kogge",
-        "role": "writer",
-        "slug": "michael-kogge"
-      }
-    ],
-    "displayTitle": "Rebels: Droids in Distress",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "releaseDate": "2014-11-06T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-droids-in-distress",
-    "synopsis": "The heroes of Star Wars Rebels are back with more action-packed adventures! Follow them on their journey to save Wookiees as they narrowly escape a terrible Imperial trap. They also meet beloved droids R2-D2 and C-3PO, who are on a mysterious mission to help the Empire! Chopper proves that even a clunky old droid can play a big role in saving the galaxy. But one mission leads to the next for our rebel heroes, and they must ultimately face their biggest enemy yet, the Inquisitor!",
-    "title": "Rebels: Droids in Distress"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Michael Kogge",
-        "role": "writer",
-        "slug": "michael-kogge"
-      }
-    ],
-    "displayTitle": "Rebels: Ezra's Duel with Danger",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -4
-    },
-    "releaseDate": "2015-03-17T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-ezras-duel-with-danger",
-    "synopsis": "When Ezra Bridger runs in to an old friend from his past, secrets about Ezra’s missing parents are finally brought to light. Can Ezra unravel the mystery of their disappearance while still helping the rebels fight the Empire? The stakes are higher than ever as Imperial Agent Kallus and the fearsome Inquisitor join forces to stop the rebels. With such dangerous enemies, the team is in for the fight of their lives!",
-    "title": "Rebels: Ezra's Duel with Danger"
-  },
-  {
     "bookType": "juniorReader",
     "canonStatus": "canon",
     "creators": [
@@ -116446,29 +116363,6 @@
     "slug": "rebels-heras-phantom-flight",
     "synopsis": "Rebel pilot Hera stars in another exciting Star Wars adventure! Featuring exciting full-color art from the show, this World of Reading early reader is perfect for fans who are ready to read on their own.",
     "title": "Rebels: Hera's Phantom Flight"
-  },
-  {
-    "bookType": "childrensBook",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Elizabeth Schaefer",
-        "role": "writer",
-        "slug": "elizabeth-schaefer"
-      }
-    ],
-    "displayTitle": "Rebels: Kanan's Jedi Training",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -4
-    },
-    "releaseDate": "2015-08-04T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-kanans-jedi-training",
-    "synopsis": "Meet Kanan--the rebels' leader and a skilled Jedi. Kanan has never taught anyone else in the ways of the Force. But after meeting a promising young boy named Ezra, Kanan decides to train him as a new Jedi. This Level 2 early reader follows Kanan and Ezra as they learn what it means to be a Jedi, together.",
-    "title": "Rebels: Kanan's Jedi Training"
   },
   {
     "canonStatus": "canon",
@@ -118988,52 +118882,6 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Meredith L. Rusu",
-        "role": "writer",
-        "slug": "meredith-l-rusu"
-      }
-    ],
-    "displayTitle": "Rebels: The Inquisitor's Trap",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "releaseDate": "2014-12-09T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-the-inquisitors-trap",
-    "synopsis": "When the rebels receive a secret broadcast, they discover that one of the great Jedi Masters is still alive-and a captive of the Empire! To save her, Kanan, Ezra, and their friends must break into her heavily guarded prison. Can they find the lost Jedi? Or will the Inquisitor find them first?",
-    "title": "Rebels: The Inquisitor's Trap"
-  },
-  {
-    "bookType": "juniorReader",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Michael Kogge",
-        "role": "writer",
-        "slug": "michael-kogge"
-      }
-    ],
-    "displayTitle": "Rebels: The Rebellion Begins",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "releaseDate": "2014-10-21T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-the-rebellion-begins",
-    "synopsis": "Every amazing story has a humble beginning, and Star Wars Rebels is no exception. The Rebellion Begins is a retelling of Ezra’s first run-in with the Ghost Crew and the ultimate decision to join their cause. Revisit this first step into one of the greatest stories ever told in a way you’ve never experienced it before: In the form of a novelization written by Michael Kogge.",
-    "title": "Rebels: The Rebellion Begins"
-  },
-  {
-    "bookType": "childrensBook",
-    "canonStatus": "canon",
-    "creators": [
-      {
         "name": "Brook Vitale",
         "role": "writer",
         "slug": "brook-vitale"
@@ -119155,29 +119003,6 @@
     "slug": "rebels-volume-3-manga",
     "synopsis": "Is the third trade paperback compilation of the Star Wars Rebels (Manga) Series, which adapts events of the Star Wars Rebels television series. The title was released in Japan on September 15, 2021 by Line Corporation.\nThe popular 3DCG TV anime series' long-awaited 3rd comic volume!\nA long time ago, in a galaxy far, far away...\nEzra, the boy of the planet Lothal, is with his friends from the spaceship the Ghost. To join the battle against the Imperial Army, they decided to travel together.\nKanan, who is not confident in his maturity as a Jedi, swears to take Ezra on as his Padawan, and to teach him how to use the Force.",
     "title": "Rebels, Volume 3 (Manga)"
-  },
-  {
-    "bookType": "childrensBook",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Michael Siglain",
-        "role": "writer",
-        "slug": "michael-siglain"
-      }
-    ],
-    "displayTitle": "Rebels: Zeb to the Rescue",
-    "era": "reignOfTheEmpire",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "releaseDate": "2014-08-05T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "rebels-zeb-to-the-rescue",
-    "synopsis": "Zeb to the Rescue is a World of Reading Level 1 young-readers book in the Star Wars Rebels series that was released on August 5, 2014. The story was adapted by Michael Siglain based on the Star Wars Rebels prelude short \"Entanglement,\" written by Henry Gilroy and series executive producer Simon Kinberg.",
-    "title": "Rebels: Zeb to the Rescue"
   },
   {
     "canonStatus": "non-canon",
@@ -164109,7 +163934,8 @@
         "isPrimary": true,
         "isbn10": "074409884X",
         "isbn13": "9780744098846",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2024-11-19T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -231564,29 +231390,6 @@
     "title": "The Mandalorian Junior Novel"
   },
   {
-    "bookType": "juniorReader",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Joe Schreiber",
-        "role": "writer",
-        "slug": "joe-schreiber"
-      }
-    ],
-    "displayTitle": "The Mandalorian (junior novelization)",
-    "era": "newRepublic",
-    "format": "book",
-    "inUniverseDate": {
-      "startYear": 9
-    },
-    "releaseDate": "2021-01-05T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "the-mandalorian-junior-novelization",
-    "synopsis": "The Mandalorian: Junior Novelization is an upcoming junior novelization of The Mandalorian television series. It will be authored by Joe Schreiber.",
-    "title": "The Mandalorian (junior novelization)"
-  },
-  {
     "bookType": "other",
     "canonStatus": "canon",
     "displayTitle": "The Mandalorian Magnetic",
@@ -247337,27 +247140,6 @@
     "slug": "wheres-the-wookiee-the-search-continues",
     "synopsis": "Re-join the hunt for the galaxy's most-wanted Wookiee in this third book in the popular Where's the Wookiee search-and-find series.Chewbacca is the Millennium Falcon's furry copilot--but what else do you know about the beloved Wookiee? Follow Chewie's journey throughout the Star Wars saga in ten detailed illustrated search-and-find scenes...from Kashyyyk to Ahch-To.",
     "title": "Where's the Wookiee? the Search Continues..."
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "canon",
-    "creators": [
-      {
-        "name": "Ella Patrick",
-        "role": "writer",
-        "slug": "ella-patrick"
-      }
-    ],
-    "displayTitle": "Who's Who in the Galaxy: A Character Storybook",
-    "format": "book",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2019-07-16T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "whos-who-in-the-galaxy-a-character-storybook",
-    "title": "Who's Who in the Galaxy: A Character Storybook"
   },
   {
     "bookType": "childrensBook",

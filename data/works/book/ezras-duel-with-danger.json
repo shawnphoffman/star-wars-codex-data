@@ -31,7 +31,7 @@
     {
       "extent": 128,
       "imprint": "Disney-Lucasfilm Press",
-      "isPrimary": false,
+      "isPrimary": true,
       "isbn10": "148470469X",
       "isbn13": "9781484704691",
       "kind": "print",
@@ -40,11 +40,11 @@
     {
       "extent": 128,
       "imprint": "Egmont UK",
-      "isPrimary": true,
+      "isPrimary": false,
       "isbn10": "1405276312",
       "isbn13": "9781405276313",
       "kind": "print",
-      "onsale": "2015-03-17T00:00:00.000Z"
+      "onsale": "2015-08-26T00:00:00.000Z"
     }
   ],
   "era": "reignOfTheEmpire",
