@@ -41,18 +41,15 @@
   ],
   "editions": [
     {
-      "extent": 217,
-      "imprint": "Del Rey",
-      "isPrimary": true,
-      "isbn10": "0345283929",
-      "isbn13": "9780345283924",
-      "kind": "print",
-      "onsale": "1980-04-12T00:00:00.000Z"
+      "imprint": "Random House Audio",
+      "isPrimary": false,
+      "kind": "audio",
+      "onsale": "2027-02-02T00:00:00.000Z"
     },
     {
       "asin": "B00513E5MU",
       "extent": 224,
-      "imprint": "Random House",
+      "imprint": "Del Rey",
       "isPrimary": false,
       "isbn10": "0307795454",
       "isbn13": "9780307795458",
@@ -60,10 +57,13 @@
       "onsale": "2011-06-28T00:00:00.000Z"
     },
     {
-      "imprint": "Random House Audio",
-      "isPrimary": false,
-      "kind": "audio",
-      "onsale": "2027-02-02T00:00:00.000Z"
+      "extent": 217,
+      "imprint": "Del Rey",
+      "isPrimary": true,
+      "isbn10": "0345283929",
+      "isbn13": "9780345283924",
+      "kind": "print",
+      "onsale": "1980-04-12T00:00:00.000Z"
     },
     {
       "extent": 216,

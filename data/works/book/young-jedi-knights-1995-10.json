@@ -20,8 +20,16 @@
       "value": "0425173135"
     },
     {
+      "type": "isbn10",
+      "value": "1572972971"
+    },
+    {
       "type": "isbn13",
       "value": "9780425173138"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781572972971"
     }
   ],
   "editions": [
@@ -31,6 +39,15 @@
       "isPrimary": true,
       "isbn10": "0425173135",
       "isbn13": "9780425173138",
+      "kind": "print",
+      "onsale": "1997-10-01T00:00:00.000Z"
+    },
+    {
+      "extent": 240,
+      "imprint": "Boulevard",
+      "isPrimary": false,
+      "isbn10": "1572972971",
+      "isbn13": "9781572972971",
       "kind": "print",
       "onsale": "1997-10-01T00:00:00.000Z"
     }

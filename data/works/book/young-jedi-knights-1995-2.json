@@ -17,7 +17,15 @@
   "editionIds": [
     {
       "type": "isbn10",
+      "value": "0425171531"
+    },
+    {
+      "type": "isbn10",
       "value": "1572970251"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780425171530"
     },
     {
       "type": "isbn13",
@@ -25,6 +33,15 @@
     }
   ],
   "editions": [
+    {
+      "extent": 240,
+      "imprint": "Boulevard",
+      "isPrimary": false,
+      "isbn10": "0425171531",
+      "isbn13": "9780425171530",
+      "kind": "print",
+      "onsale": "1999-03-15T00:00:00.000Z"
+    },
     {
       "extent": 240,
       "imprint": "Boulevard",

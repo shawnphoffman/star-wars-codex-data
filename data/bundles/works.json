@@ -186814,7 +186814,7 @@
     ],
     "editions": [
       {
-        "extent": 384,
+        "extent": 288,
         "imprint": "Random House Worlds",
         "isPrimary": true,
         "isbn10": "052547885X",
@@ -211441,18 +211441,15 @@
     ],
     "editions": [
       {
-        "extent": 217,
-        "imprint": "Del Rey",
-        "isPrimary": true,
-        "isbn10": "0345283929",
-        "isbn13": "9780345283924",
-        "kind": "print",
-        "onsale": "1980-04-12T00:00:00.000Z"
+        "imprint": "Random House Audio",
+        "isPrimary": false,
+        "kind": "audio",
+        "onsale": "2027-02-02T00:00:00.000Z"
       },
       {
         "asin": "B00513E5MU",
         "extent": 224,
-        "imprint": "Random House",
+        "imprint": "Del Rey",
         "isPrimary": false,
         "isbn10": "0307795454",
         "isbn13": "9780307795458",
@@ -211460,10 +211457,13 @@
         "onsale": "2011-06-28T00:00:00.000Z"
       },
       {
-        "imprint": "Random House Audio",
-        "isPrimary": false,
-        "kind": "audio",
-        "onsale": "2027-02-02T00:00:00.000Z"
+        "extent": 217,
+        "imprint": "Del Rey",
+        "isPrimary": true,
+        "isbn10": "0345283929",
+        "isbn13": "9780345283924",
+        "kind": "print",
+        "onsale": "1980-04-12T00:00:00.000Z"
       },
       {
         "extent": 216,
@@ -255373,8 +255373,16 @@
         "value": "0425173135"
       },
       {
+        "type": "isbn10",
+        "value": "1572972971"
+      },
+      {
         "type": "isbn13",
         "value": "9780425173138"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781572972971"
       }
     ],
     "editions": [
@@ -255384,6 +255392,15 @@
         "isPrimary": true,
         "isbn10": "0425173135",
         "isbn13": "9780425173138",
+        "kind": "print",
+        "onsale": "1997-10-01T00:00:00.000Z"
+      },
+      {
+        "extent": 240,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "1572972971",
+        "isbn13": "9781572972971",
         "kind": "print",
         "onsale": "1997-10-01T00:00:00.000Z"
       }
@@ -255690,7 +255707,15 @@
     "editionIds": [
       {
         "type": "isbn10",
+        "value": "0425171531"
+      },
+      {
+        "type": "isbn10",
         "value": "1572970251"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780425171530"
       },
       {
         "type": "isbn13",
@@ -255698,6 +255723,15 @@
       }
     ],
     "editions": [
+      {
+        "extent": 240,
+        "imprint": "Boulevard",
+        "isPrimary": false,
+        "isbn10": "0425171531",
+        "isbn13": "9780425171530",
+        "kind": "print",
+        "onsale": "1999-03-15T00:00:00.000Z"
+      },
       {
         "extent": 240,
         "imprint": "Boulevard",
