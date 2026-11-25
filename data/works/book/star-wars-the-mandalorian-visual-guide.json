@@ -11,18 +11,23 @@
   "displayTitle": "The Mandalorian Visual Guide",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0FJW2HYY1"
+    },
+    {
       "type": "isbn13",
       "value": "9798217136667"
     }
   ],
   "editions": [
     {
+      "asin": "B0FJW2HYY1",
       "extent": 232,
       "imprint": "DK",
       "isPrimary": true,
       "isbn13": "9798217136667",
       "kind": "print",
-      "onsale": "2026-04-02T00:00:00.000Z"
+      "onsale": "2026-05-26T00:00:00.000Z"
     }
   ],
   "era": "newRepublic",
@@ -33,7 +38,7 @@
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2026-04-02T00:00:00.000Z",
+  "releaseDate": "2026-05-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-the-mandalorian-visual-guide",
