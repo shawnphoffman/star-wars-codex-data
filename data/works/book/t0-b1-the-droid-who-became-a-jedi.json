@@ -4,8 +4,20 @@
   "displayTitle": "T0-B1: The Droid Who Became a Jedi",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B09RMR7R4Y"
+    },
+    {
+      "type": "isbn10",
+      "value": "073644324X"
+    },
+    {
       "type": "isbn10",
       "value": "0736443258"
+    },
+    {
+      "type": "isbn13",
+      "value": "9780736443241"
     },
     {
       "type": "isbn13",
@@ -17,9 +29,19 @@
       "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,
+      "isbn10": "073644324X",
+      "isbn13": "9780736443241",
+      "kind": "print",
+      "onsale": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "asin": "B09RMR7R4Y",
+      "extent": 24,
+      "imprint": "Golden Books",
+      "isPrimary": false,
       "isbn10": "0736443258",
       "isbn13": "9780736443258",
-      "kind": "print",
+      "kind": "ebook",
       "onsale": "2022-09-20T00:00:00.000Z"
     }
   ],

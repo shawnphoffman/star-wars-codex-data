@@ -2,7 +2,18 @@
   "canonStatus": "canon",
   "collectionType": "omnibus",
   "collects": [
-    "kanan-first-blood-epilogue"
+    "kanan-first-blood-epilogue",
+    "kanan-first-blood-part",
+    "kanan-first-blood-part-ii",
+    "kanan-first-blood-part-iii",
+    "kanan-first-blood-part-iv",
+    "kanan-the-last-padawan-2015-1",
+    "kanan-the-last-padawan-2015-11",
+    "kanan-the-last-padawan-part",
+    "kanan-the-last-padawan-part-ii",
+    "kanan-the-last-padawan-part-iii",
+    "kanan-the-last-padawan-part-iv",
+    "kanan-the-last-padawan-part-vi"
   ],
   "displayTitle": "Kanan Omnibus",
   "releaseDate": "2016-12-20T00:00:00.000Z",

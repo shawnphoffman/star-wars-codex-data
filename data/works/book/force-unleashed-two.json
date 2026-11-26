@@ -36,11 +36,13 @@
   ],
   "editions": [
     {
+      "extent": 88,
       "imprint": "Dark Horse Comics",
       "isPrimary": true,
       "isbn10": "1595825533",
       "isbn13": "9781595825537",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2010-09-29T00:00:00.000Z"
     }
   ],
   "format": "book",

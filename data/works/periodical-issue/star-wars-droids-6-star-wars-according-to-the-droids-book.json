@@ -44,9 +44,9 @@
   "displayTitle": "Droids (1994) #6",
   "format": "periodicalIssue",
   "inUniverseDate": {
-    "startYear": 0
+    "startYear": -5
   },
-  "legendsEra": "legendsRebellion",
+  "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "star-wars-droids",
   "periodical": {
     "publicationKind": "comic"

@@ -15,8 +15,16 @@
       "value": "1405275766"
     },
     {
+      "type": "isbn10",
+      "value": "1484702727"
+    },
+    {
       "type": "isbn13",
       "value": "9781405275767"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781484702727"
     }
   ],
   "editions": [
@@ -26,6 +34,14 @@
       "isPrimary": true,
       "isbn10": "1405275766",
       "isbn13": "9781405275767",
+      "kind": "print",
+      "onsale": "2014-08-05T00:00:00.000Z"
+    },
+    {
+      "imprint": "Disney-Lucasfilm Press",
+      "isPrimary": false,
+      "isbn10": "1484702727",
+      "isbn13": "9781484702727",
       "kind": "print",
       "onsale": "2014-08-05T00:00:00.000Z"
     }

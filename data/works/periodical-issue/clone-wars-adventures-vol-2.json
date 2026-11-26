@@ -1,14 +1,47 @@
 {
   "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    },
+    {
+      "name": "Welles Hartley",
+      "role": "writer",
+      "slug": "welles-hartley"
+    },
+    {
+      "name": "The Fillbach Brothers",
+      "role": "writer",
+      "slug": "the-fillbach-brothers"
+    },
+    {
+      "name": "George Lucas",
+      "role": "writer",
+      "slug": "george-lucas"
+    }
+  ],
   "displayTitle": "Clone Wars Adventures Volume 2",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593072716"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593072711"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2004-11-17T00:00:00.000Z",
+  "releaseDisplayState": "upcoming",
   "slug": "clone-wars-adventures-vol-2",
   "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
   "title": "Clone Wars Adventures Volume 2"

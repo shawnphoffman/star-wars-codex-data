@@ -2,10 +2,15 @@
   "canonStatus": "non-canon",
   "collectionType": "tradePaperback",
   "collects": [
-    "xwing-rogue-squadron-requiem-for-a-rogue"
+    "x-wing-rogue-squadron-17-requiem-for-a-rogue-part-1",
+    "x-wing-rogue-squadron-18-requiem-for-a-rogue-part-2",
+    "x-wing-rogue-squadron-19-requiem-for-a-rogue-part-3",
+    "x-wing-rogue-squadron-20-requiem-for-a-rogue-part-4"
   ],
   "displayTitle": "X-Wing Rogue Squadron: Requiem for a Rogue",
   "legendsEra": "legendsRebellion",
+  "releaseDate": "1999-02-03T00:00:00.000Z",
   "slug": "c_x-wing-rogue-squadron-requiem-for-a-rogue_971",
+  "synopsis": "It should be an easy mission for Rogue Squadron -- a simple search-and-rescue of a group of castaways forced down to Malrev IV. But when they reach the backwater planet, the Rogues find themselves attacked by the bestial Irrukiine and then by the Bothans themselves. There's something strange going down on Malrev 4.",
   "title": "X-Wing Rogue Squadron: Requiem for a Rogue"
 }

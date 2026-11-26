@@ -21,6 +21,10 @@
   "displayTitle": "Before the Awakening",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B00XJKK8FK"
+    },
+    {
       "type": "isbn10",
       "value": "1368108210"
     },
@@ -65,11 +69,14 @@
       "onsale": "2015-12-18T00:00:00.000Z"
     },
     {
+      "asin": "B00XJKK8FK",
+      "extent": 224,
       "imprint": "Disney-Lucasfilm Press",
       "isPrimary": false,
       "isbn10": "1484735501",
       "isbn13": "9781484735503",
-      "kind": "print"
+      "kind": "ebook",
+      "onsale": "2015-12-18T00:00:00.000Z"
     }
   ],
   "era": "riseOfTheFirstOrder",

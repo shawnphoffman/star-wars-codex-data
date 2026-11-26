@@ -1,6 +1,68 @@
 {
   "bookType": "other",
   "canonStatus": "canon",
+  "creators": [
+    {
+      "name": "Jason Fry",
+      "role": "writer",
+      "slug": "jason-fry"
+    },
+    {
+      "name": "Emily Shkoukani",
+      "role": "writer",
+      "slug": "emily-shkoukani"
+    },
+    {
+      "name": "Kristin Lund",
+      "role": "writer",
+      "slug": "kristin-lund"
+    },
+    {
+      "name": "Simon Beecroft",
+      "role": "writer",
+      "slug": "simon-beecroft"
+    },
+    {
+      "name": "Kerrie Dougherty",
+      "role": "writer",
+      "slug": "kerrie-dougherty"
+    },
+    {
+      "name": "James Luceno",
+      "role": "writer",
+      "slug": "james-luceno"
+    },
+    {
+      "name": "Richard Chasemore",
+      "role": "artist",
+      "slug": "richard-chasemore"
+    },
+    {
+      "name": "Maxim Degtyarev",
+      "role": "artist",
+      "slug": "maxim-degtyarev"
+    },
+    {
+      "name": "Hans Jenssen",
+      "role": "artist",
+      "slug": "hans-jenssen"
+    },
+    {
+      "name": "Sofian Moumene",
+      "role": "artist",
+      "slug": "sofian-moumene"
+    },
+    {
+      "name": "John Mullaney",
+      "role": "artist",
+      "slug": "john-mullaney"
+    },
+    {
+      "name": "Kemp Remillard",
+      "role": "artist",
+      "slug": "kemp-remillard"
+    }
+  ],
   "displayTitle": "Complete Locations: New Edition",
   "editionIds": [
     {
@@ -19,7 +81,8 @@
       "isPrimary": true,
       "isbn10": "0593844211",
       "isbn13": "9780593844212",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2025-03-11T00:00:00.000Z"
     }
   ],
   "format": "book",

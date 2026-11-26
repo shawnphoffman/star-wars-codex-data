@@ -19,14 +19,15 @@
       "isPrimary": true,
       "isbn10": "1787738663",
       "isbn13": "9781787738669",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2022-09-13T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2022-05-31T00:00:00.000Z",
+  "releaseDate": "2022-09-13T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-insider-the-galaxys-greatest-villains",

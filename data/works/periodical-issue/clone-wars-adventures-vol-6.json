@@ -1,14 +1,41 @@
 {
   "bookType": "childrensBook",
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "The Fillbach Brothers",
+      "role": "writer",
+      "slug": "the-fillbach-brothers"
+    },
+    {
+      "name": "Mike Kennedy",
+      "role": "writer",
+      "slug": "mike-kennedy"
+    },
+    {
+      "name": "W. Haden Blackman",
+      "role": "writer",
+      "slug": "w-haden-blackman"
+    }
+  ],
   "displayTitle": "Clone Wars Adventures Volume 6",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593075677"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593075675"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2006-01-01T00:00:00.000Z",
+  "releaseDate": "2006-08-16T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "clone-wars-adventures-vol-6",

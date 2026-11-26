@@ -26,13 +26,13 @@
   ],
   "editions": [
     {
-      "extent": 432,
+      "extent": 416,
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345428714",
       "isbn13": "9780345428714",
       "kind": "print",
-      "onsale": "2003-05-05T00:00:00.000Z"
+      "onsale": "2003-04-29T00:00:00.000Z"
     }
   ],
   "format": "book",
@@ -40,7 +40,7 @@
     "startYear": 28
   },
   "legendsEra": "legendsNewJediOrder",
-  "releaseDate": "2003-05-05T00:00:00.000Z",
+  "releaseDate": "2003-04-29T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "force-heretic-ii-refugee",

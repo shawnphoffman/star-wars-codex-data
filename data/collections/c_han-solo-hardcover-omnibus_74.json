@@ -2,10 +2,16 @@
   "canonStatus": "canon",
   "collectionType": "omnibus",
   "collects": [
+    "han-solo-2016-1",
     "han-solo-part",
     "han-solo-part-ii",
     "han-solo-part-iii",
-    "han-solo-part-iv"
+    "han-solo-part-iv",
+    "star-wars-8-1",
+    "star-wars-8-2",
+    "star-wars-8-3",
+    "star-wars-8-4",
+    "star-wars-8-5"
   ],
   "displayTitle": "Han Solo (Hardcover Omnibus)",
   "era": "ageOfRebellion",

@@ -1,5 +1,5 @@
 {
-  "bookType": "referenceBook",
+  "bookType": "adultNovel",
   "canonStatus": "non-canon",
   "creators": [
     {
@@ -21,7 +21,7 @@
   ],
   "editions": [
     {
-      "extent": 409,
+      "extent": 416,
       "imprint": "Del Rey",
       "isPrimary": true,
       "isbn10": "0345391101",

@@ -31,11 +31,12 @@
       "isPrimary": true,
       "isbn10": "0744020573",
       "isbn13": "9780744020571",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-11-03T00:00:00.000Z"
     }
   ],
   "format": "book",
-  "releaseDate": "2020-11-05T00:00:00.000Z",
+  "releaseDate": "2020-11-03T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "complete-vehicles",

@@ -43,12 +43,18 @@
     }
   ],
   "displayTitle": "The Last Jedi: The Storms of Crait (2017) #1",
+  "era": "ageOfRebellion",
   "format": "periodicalIssue",
+  "inUniverseDate": {
+    "startYear": 1
+  },
   "parentWorkSlug": "the-last-jedi-the-storms-of-crait-2017",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDisplayState": "announced",
+  "releaseDate": "2017-12-27T00:00:00.000Z",
+  "releaseDisplayState": "released",
+  "releaseStatus": "released",
   "slug": "the-last-jedi-the-storms-of-crait-2017-1-2",
   "title": "The Last Jedi: The Storms of Crait (2017) #1"
 }

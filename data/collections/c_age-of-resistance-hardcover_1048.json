@@ -1,6 +1,17 @@
 {
   "canonStatus": "canon",
   "collectionType": "hardcover",
+  "collects": [
+    "age-of-resistance-general-hux",
+    "age-of-resistance-kylo-ren",
+    "age-of-resistance-rey-2019-1",
+    "age-of-resistance-rose-tico-2",
+    "age-of-resistance-special",
+    "age-of-resistance-supreme-leader-snoke",
+    "aor-finn",
+    "aor-phasma",
+    "aor-poe"
+  ],
   "displayTitle": "Age of Resistance (Hardcover)",
   "releaseDate": "2020-09-08T00:00:00.000Z",
   "slug": "c_age-of-resistance-hardcover_1048",

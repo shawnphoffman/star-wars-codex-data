@@ -26,14 +26,15 @@
       "isPrimary": true,
       "isbn10": "1368057241",
       "isbn13": "9781368057240",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2020-10-06T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2020-10-20T00:00:00.000Z",
+  "releaseDate": "2020-10-06T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "star-wars-a-jedi-you-will-be",

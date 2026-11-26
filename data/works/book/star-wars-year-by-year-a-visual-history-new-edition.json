@@ -21,6 +21,10 @@
     },
     {
       "type": "isbn13",
+      "value": "9780241469408"
+    },
+    {
+      "type": "isbn13",
       "value": "9780744028645"
     }
   ],
@@ -31,6 +35,13 @@
       "isPrimary": true,
       "isbn10": "0744028647",
       "isbn13": "9780744028645",
+      "kind": "print",
+      "onsale": "2021-11-02T00:00:00.000Z"
+    },
+    {
+      "imprint": "DK",
+      "isPrimary": false,
+      "isbn13": "9780241469408",
       "kind": "print",
       "onsale": "2021-09-23T00:00:00.000Z"
     }

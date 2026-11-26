@@ -2,14 +2,17 @@
   "canonStatus": "non-canon",
   "collectionType": "tradePaperback",
   "collects": [
+    "jedi-aayla-secura",
+    "jedi-count-dooku",
+    "jedi-mace-windu",
+    "jedi-shaak-ti",
+    "jedi-yoda",
     "republic-1999-50",
     "republic-1999-52",
     "republic-49-sacrifice",
     "republic-51-the-new-face-of-war-part-1",
     "republic-53-blast-radius",
-    "republic-54-double-blind",
-    "the-clone-wars-01",
-    "the-clone-wars-04"
+    "republic-54-double-blind"
   ],
   "displayTitle": "Legends Epic Collection: The Clone Wars Vol. 1",
   "legendsEra": "legendsRiseOfTheEmpire",

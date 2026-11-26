@@ -1,6 +1,20 @@
 {
   "canonStatus": "canon",
   "collectionType": "omnibus",
+  "collects": [
+    "star-wars-adventur",
+    "star-wars-adventures-1",
+    "star-wars-adventures-11",
+    "star-wars-adventures-2",
+    "star-wars-adventures-2017-04-the-trouble-at-tibrin-part-1",
+    "star-wars-adventures-2017-06",
+    "star-wars-adventures-2017-10-powered-down-part-1",
+    "star-wars-adventures-3",
+    "star-wars-adventures-5",
+    "star-wars-adventures-7",
+    "star-wars-adventures-8",
+    "star-wars-adventures-annual-2018-mind-your-manners"
+  ],
   "displayTitle": "Adventures Omnibus Vol. 1",
   "releaseDate": "2020-01-28T00:00:00.000Z",
   "slug": "c_star-wars-adventures-omnibus-vol-1_1041",

@@ -16,12 +16,17 @@
   "displayTitle": "The Mandalorian: We Are One",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0FHJY2MKF"
+    },
+    {
       "type": "isbn13",
       "value": "9798217025336"
     }
   ],
   "editions": [
     {
+      "asin": "B0FHJY2MKF",
       "extent": 24,
       "imprint": "Golden Books",
       "isPrimary": true,

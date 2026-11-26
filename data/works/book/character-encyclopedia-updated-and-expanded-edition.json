@@ -9,24 +9,37 @@
     },
     {
       "type": "isbn13",
+      "value": "9780241531624"
+    },
+    {
+      "type": "isbn13",
       "value": "9780744050318"
     }
   ],
   "editions": [
     {
       "extent": 288,
-      "imprint": "DK",
+      "imprint": "DK Children",
       "isPrimary": true,
       "isbn10": "0744050316",
       "isbn13": "9780744050318",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2021-11-30T00:00:00.000Z"
+    },
+    {
+      "extent": 288,
+      "imprint": "DK",
+      "isPrimary": false,
+      "isbn13": "9780241531624",
+      "kind": "print",
+      "onsale": "2021-11-04T00:00:00.000Z"
     }
   ],
   "format": "book",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2021-11-23T00:00:00.000Z",
+  "releaseDate": "2021-11-04T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "character-encyclopedia-updated-and-expanded-edition",

@@ -1,6 +1,38 @@
 {
   "canonStatus": "non-canon",
+  "creators": [
+    {
+      "name": "Matthew Fillbach",
+      "role": "writer",
+      "slug": "matthew-fillbach"
+    },
+    {
+      "name": "Shawn Fillbach",
+      "role": "writer",
+      "slug": "shawn-fillbach"
+    },
+    {
+      "name": "Jason Hall",
+      "role": "writer",
+      "slug": "jason-hall"
+    },
+    {
+      "name": "Jeremy Barlow",
+      "role": "writer",
+      "slug": "jeremy-barlow"
+    }
+  ],
   "displayTitle": "Clone Wars Adventures Volume 8",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593076800"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593076801"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",

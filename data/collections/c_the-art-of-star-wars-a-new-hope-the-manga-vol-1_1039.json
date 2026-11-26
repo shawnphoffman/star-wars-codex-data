@@ -1,6 +1,10 @@
 {
   "canonStatus": "non-canon",
   "collectionType": "hardcover",
+  "collects": [
+    "a-new-hope-manga-digital-comic-1998-1",
+    "a-new-hope-manga-digital-comic-1998-2"
+  ],
   "displayTitle": "The Art of Star Wars: A New Hope - The Manga Vol. 1",
   "releaseDate": "2026-06-16T00:00:00.000Z",
   "slug": "c_the-art-of-star-wars-a-new-hope-the-manga-vol-1_1039",

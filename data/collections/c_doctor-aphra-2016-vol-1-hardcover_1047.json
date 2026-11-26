@@ -1,6 +1,19 @@
 {
   "canonStatus": "canon",
   "collectionType": "hardcover",
+  "collects": [
+    "doctor-aphra-1-aphra-part",
+    "doctor-aphra-2-aphra-part-ii",
+    "doctor-aphra-3-aphra-part-iii",
+    "doctor-aphra-4-aphra-part-iv",
+    "doctor-aphra-5-aphra-part",
+    "doctor-aphra-6-aphra-part-vi",
+    "doctor-aphra-7-the-screaming-citadel-part-iii",
+    "doctor-aphra-8-the-screaming-citadel-part",
+    "screaming-citadel-1",
+    "screaming-citadel-2",
+    "screaming-citadel-4"
+  ],
   "displayTitle": "Doctor Aphra (2016) Vol. 1 (Hardcover)",
   "releaseDate": "2018-09-18T00:00:00.000Z",
   "slug": "c_doctor-aphra-2016-vol-1-hardcover_1047",

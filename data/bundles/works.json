@@ -5673,14 +5673,19 @@
     "displayTitle": "Ahsoka Rebel Jedi",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B0F78X2JT1"
+      },
+      {
         "type": "isbn13",
         "value": "9798217135059"
       }
     ],
     "editions": [
       {
+        "asin": "B0F78X2JT1",
         "extent": 48,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn13": "9798217135059",
         "kind": "print",
@@ -11891,6 +11896,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "be-more-yoda",
+    "synopsis": "Pursue a more mindful life with words of wisdom from esteemed Star Wars™ mentors Yoda, Obi-Wan Kenobi, and Luke Skywalker. A balanced mind. Inner calm. A positive influence on the world. A Jedi must embody all of these qualities in order to master the Force. But these same self-enlightenment skills can also help you to master a chaotic life in a galaxy much closer to home. The heroes of the Star Wars galaxy have faced many trials and tribulations during their adventures. Learn from their experiences-and in many cases mistakes-to discover new mindfulness techniques to deal with stressful situations. Whether it be coping with relationship struggles, managing workplace stress, or trying the save the galaxy from your overbearing father, Star Wars: Be More Yoda not only provides tips for mindful thinking, but will bring a moment of joy to your day. The perfect gift for Star Wars fans, Star Wars: Be More Yoda is an entertaining guide to mindfulness, featuring iconic moments and famous sayings from the Star Wars movies alongside light-hearted life lessons. © & TM 2018 LUCASFILM LTD. Used Under Authorization.",
     "title": "Be More Yoda"
   },
   {
@@ -12058,6 +12064,10 @@
     "displayTitle": "Before the Awakening",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B00XJKK8FK"
+      },
+      {
         "type": "isbn10",
         "value": "1368108210"
       },
@@ -12102,11 +12112,14 @@
         "onsale": "2015-12-18T00:00:00.000Z"
       },
       {
+        "asin": "B00XJKK8FK",
+        "extent": 224,
         "imprint": "Disney-Lucasfilm Press",
         "isPrimary": false,
         "isbn10": "1484735501",
         "isbn13": "9781484735503",
-        "kind": "print"
+        "kind": "ebook",
+        "onsale": "2015-12-18T00:00:00.000Z"
       }
     ],
     "era": "riseOfTheFirstOrder",
@@ -13052,7 +13065,7 @@
     ],
     "editions": [
       {
-        "extent": 380,
+        "extent": 416,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345477510",
@@ -18919,24 +18932,37 @@
       },
       {
         "type": "isbn13",
+        "value": "9780241531624"
+      },
+      {
+        "type": "isbn13",
         "value": "9780744050318"
       }
     ],
     "editions": [
       {
         "extent": 288,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0744050316",
         "isbn13": "9780744050318",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2021-11-30T00:00:00.000Z"
+      },
+      {
+        "extent": 288,
+        "imprint": "DK",
+        "isPrimary": false,
+        "isbn13": "9780241531624",
+        "kind": "print",
+        "onsale": "2021-11-04T00:00:00.000Z"
       }
     ],
     "format": "book",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2021-11-23T00:00:00.000Z",
+    "releaseDate": "2021-11-04T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "character-encyclopedia-updated-and-expanded-edition",
@@ -24003,7 +24029,7 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2005-10-19T00:00:00.000Z",
+    "releaseDate": "2004-07-07T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "clone-wars-adventures",
@@ -24012,14 +24038,32 @@
   {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "W. Haden Blackman",
+        "role": "writer",
+        "slug": "w-haden-blackman"
+      }
+    ],
     "displayTitle": "Clone Wars Adventures Volume 1",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593072430"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593072438"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2004-07-07T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "clone-wars-adventures-vol-1",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 1"
@@ -24042,14 +24086,47 @@
   {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "W. Haden Blackman",
+        "role": "writer",
+        "slug": "w-haden-blackman"
+      },
+      {
+        "name": "Welles Hartley",
+        "role": "writer",
+        "slug": "welles-hartley"
+      },
+      {
+        "name": "The Fillbach Brothers",
+        "role": "writer",
+        "slug": "the-fillbach-brothers"
+      },
+      {
+        "name": "George Lucas",
+        "role": "writer",
+        "slug": "george-lucas"
+      }
+    ],
     "displayTitle": "Clone Wars Adventures Volume 2",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593072716"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593072711"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2004-11-17T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "clone-wars-adventures-vol-2",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 2"
@@ -24057,14 +24134,47 @@
   {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "W. Haden Blackman",
+        "role": "writer",
+        "slug": "w-haden-blackman"
+      },
+      {
+        "name": "Ryan Kaufman",
+        "role": "writer",
+        "slug": "ryan-kaufman"
+      },
+      {
+        "name": "The Fillbach Brothers",
+        "role": "writer",
+        "slug": "the-fillbach-brothers"
+      },
+      {
+        "name": "Tim Mucci",
+        "role": "writer",
+        "slug": "tim-mucci"
+      }
+    ],
     "displayTitle": "Clone Wars Adventures Volume 3",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593073070"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593073077"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2005-03-02T00:00:00.000Z",
+    "releaseDisplayState": "upcoming",
     "slug": "clone-wars-adventures-vol-3",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 3"
@@ -24073,13 +24183,23 @@
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
     "displayTitle": "Clone Wars Adventures Volume 4",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593074026"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593074029"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2005-10-19T00:00:00.000Z",
+    "releaseDate": "2005-10-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-4",
@@ -24090,13 +24210,23 @@
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
     "displayTitle": "Clone Wars Adventures Volume 5",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593074832"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593074838"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2006-04-12T00:00:00.000Z",
+    "releaseDate": "2006-04-26T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-5",
@@ -24106,14 +24236,41 @@
   {
     "bookType": "childrensBook",
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "The Fillbach Brothers",
+        "role": "writer",
+        "slug": "the-fillbach-brothers"
+      },
+      {
+        "name": "Mike Kennedy",
+        "role": "writer",
+        "slug": "mike-kennedy"
+      },
+      {
+        "name": "W. Haden Blackman",
+        "role": "writer",
+        "slug": "w-haden-blackman"
+      }
+    ],
     "displayTitle": "Clone Wars Adventures Volume 6",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593075677"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593075675"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2006-01-01T00:00:00.000Z",
+    "releaseDate": "2006-08-16T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-6",
@@ -24129,7 +24286,7 @@
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2007-01-10T00:00:00.000Z",
+    "releaseDate": "2007-01-31T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-7",
@@ -24617,6 +24774,68 @@
   {
     "bookType": "other",
     "canonStatus": "canon",
+    "creators": [
+      {
+        "name": "Jason Fry",
+        "role": "writer",
+        "slug": "jason-fry"
+      },
+      {
+        "name": "Emily Shkoukani",
+        "role": "writer",
+        "slug": "emily-shkoukani"
+      },
+      {
+        "name": "Kristin Lund",
+        "role": "writer",
+        "slug": "kristin-lund"
+      },
+      {
+        "name": "Simon Beecroft",
+        "role": "writer",
+        "slug": "simon-beecroft"
+      },
+      {
+        "name": "Kerrie Dougherty",
+        "role": "writer",
+        "slug": "kerrie-dougherty"
+      },
+      {
+        "name": "James Luceno",
+        "role": "writer",
+        "slug": "james-luceno"
+      },
+      {
+        "name": "Richard Chasemore",
+        "role": "artist",
+        "slug": "richard-chasemore"
+      },
+      {
+        "name": "Maxim Degtyarev",
+        "role": "artist",
+        "slug": "maxim-degtyarev"
+      },
+      {
+        "name": "Hans Jenssen",
+        "role": "artist",
+        "slug": "hans-jenssen"
+      },
+      {
+        "name": "Sofian Moumene",
+        "role": "artist",
+        "slug": "sofian-moumene"
+      },
+      {
+        "name": "John Mullaney",
+        "role": "artist",
+        "slug": "john-mullaney"
+      },
+      {
+        "name": "Kemp Remillard",
+        "role": "artist",
+        "slug": "kemp-remillard"
+      }
+    ],
     "displayTitle": "Complete Locations: New Edition",
     "editionIds": [
       {
@@ -24635,7 +24854,8 @@
         "isPrimary": true,
         "isbn10": "0593844211",
         "isbn13": "9780593844212",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2025-03-11T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -24682,11 +24902,12 @@
         "isPrimary": true,
         "isbn10": "0744020573",
         "isbn13": "9780744020571",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2020-11-03T00:00:00.000Z"
       }
     ],
     "format": "book",
-    "releaseDate": "2020-11-05T00:00:00.000Z",
+    "releaseDate": "2020-11-03T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "complete-vehicles",
@@ -25724,7 +25945,7 @@
         "slug": "randy-stradley"
       }
     ],
-    "displayTitle": "Crimson Empire Saga",
+    "displayTitle": "Crimson Empire",
     "format": "periodical",
     "inUniverseDate": {
       "startYear": 11
@@ -25737,8 +25958,8 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "crimson-empire-graphic-novel",
-    "synopsis": "The blood-soaked tale of the last surviving member of Emperor Palpatine's Royal Guard is now complete in one dust-jacketed hardcover edition! From revenge to redemption, the story of Kir Kanos takes him from the deserts of Yinchorr, to the halls of Imperial power, and to the inner circle of the New Republic. Included are encounters with Darth Vader, Boba Fett, Luke Skywalker, and Leia Organa Solo. An epic tale in one epic tome!",
-    "title": "Crimson Empire Saga"
+    "synopsis": "After the fall of the Empire, Kir Kanos is the last of Palpatine's Royal Guard. He hunts Carnor Jax, the fellow guardsman who betrayed their order, while the New Republic tries to learn which side he is on.",
+    "title": "Crimson Empire"
   },
   {
     "canonStatus": "non-canon",
@@ -29384,33 +29605,6 @@
     "slug": "dark-empire-sourcebook",
     "synopsis": "The Dark Empire Sourcebook is a supplement published by West End Games for their version of Star Wars: The Roleplaying Game. It was written by Michael Allen Horne and first published in June 1993. The book summarizes and details the events of the Star Wars: Dark Empire comic books and gives stats for the roleplaying game of the characters, starships, vehicles, droids and weapons seen in the comics. It also includes new information that helps tie the events of those comics to the rest of the Expanded Universe.",
     "title": "Dark Empire Sourcebook"
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Tom Veitch",
-        "role": "writer",
-        "slug": "tom-veitch"
-      }
-    ],
-    "displayTitle": "Dark Empire Trilogy",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "endYear": 11,
-      "startYear": 10
-    },
-    "legendsEra": "legendsNewRepublic",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2010-11-15T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "dark-empire-trilogy",
-    "synopsis": "thumb|left|300px|Luke Skywalker in his father's armor with World Devastators and Star Destroyers in the background Six years after the Battle of Endor, the fight for freedom rages on. Darth Vader is dead, but a reborn Empire&mdash;under a mysterious new leader&mdash;strikes back at the struggling Rebel Alliance. Massive World Devastators, more powerful and unstoppable than the Death Star, ravage entire planets, while the ruthless heirs of Jabba the Hutt place a monumental price on the heads of Princess Leia and her husband, Han Solo. Along with Lando, Chewbacca, Artoo, Threepio, and other old ",
-    "title": "Dark Empire Trilogy"
   },
   {
     "bookType": "adultNovel",
@@ -34607,6 +34801,7 @@
     ],
     "editions": [
       {
+        "extent": 46,
         "imprint": "Random House Books for Young Readers",
         "isPrimary": true,
         "isbn10": "0375804323",
@@ -56607,7 +56802,7 @@
     "editions": [
       {
         "extent": 48,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0756636035",
         "isbn13": "9780756636036",
@@ -62271,13 +62466,13 @@
     ],
     "editions": [
       {
-        "extent": 432,
+        "extent": 416,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428714",
         "isbn13": "9780345428714",
         "kind": "print",
-        "onsale": "2003-05-05T00:00:00.000Z"
+        "onsale": "2003-04-29T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -62285,7 +62480,7 @@
       "startYear": 28
     },
     "legendsEra": "legendsNewJediOrder",
-    "releaseDate": "2003-05-05T00:00:00.000Z",
+    "releaseDate": "2003-04-29T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "force-heretic-ii-refugee",
@@ -62389,11 +62584,13 @@
     ],
     "editions": [
       {
+        "extent": 104,
         "imprint": "Dark Horse Comics",
         "isPrimary": true,
         "isbn10": "1593078919",
         "isbn13": "9781593078911",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2008-08-18T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -62446,11 +62643,13 @@
     ],
     "editions": [
       {
+        "extent": 88,
         "imprint": "Dark Horse Comics",
         "isPrimary": true,
         "isbn10": "1595825533",
         "isbn13": "9781595825537",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2010-09-29T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -65065,7 +65264,7 @@
     ],
     "editions": [
       {
-        "extent": 368,
+        "extent": 384,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345477561",
@@ -72713,7 +72912,7 @@
         "isbn10": "1465475524",
         "isbn13": "9781465475527",
         "kind": "print",
-        "onsale": "2019-09-05T00:00:00.000Z"
+        "onsale": "2019-09-24T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -72724,6 +72923,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "how-not-to-get-eaten-by-ewoks-and-other-galactic-survival-skills",
+    "synopsis": "A humorous guide on how to survive the Star Wars galaxy's many dangers The Star Wars galaxy is a dangerous place. From ruthless bounty hunters, ferocious beasts, and extreme weather, to hostile landscapes, social minefields, and backstabbing allies-perils and hazards are never far away! How do you flee an exploding Death Star? What's the best way to source a starship at a spaceport? How would you escape kidnap by Tusken Raiders on Tatooine? Survival means keeping your wits about you. This fun, practical Star Wars book will teach you how to recognise threats and learn what to do to stay alive in a galaxy far, far away. Explore the methods used by your favorite Star Wars movie characters to escape sticky situations, with this handy manual. DK's How Not to Get Eaten by Ewoks will help you to navigate galactic pitfalls, whether you're learning how to avoid offending aliens of other species, or trying to find food and shelter in emergency situations. From survival kits and disguises, to tips on diplomacy and etiquette, this book's step-by-step instructions, illuminating graphics, and beautiful illustrations will ensure your survival in a galaxy where anything can happen! © & TM 2019 LUCASFILM LTD.",
     "title": "How Not to Get Eaten by Ewoks and Other Galactic Survival Skills"
   },
   {
@@ -74196,6 +74396,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "hyperspace-stories-qui-gon",
+    "synopsis": "A new line of original graphic novels published by Dark Horse Comics under the Hyperspace Stories banner featuring Qui-Gon Jinn.\nQui-Gon Jinn is one of the most revered Jedi of all time. From his youth as a gifted Padawan under Count Dooku, to his years as a skilled Jedi Master and one of the most respected Force wielders in the history of the Jedi Order, his story is truly remarkable. This particular tale looks at a series of recurring events from across his life, slowly bringing together clues over the years to help Qui-Gon complete the puzzle of some of the Force's many mysterious followers: The Brotherhood of the Ninth Door. Secret Force abilities could make them a great ally to the Jedi, or a powerful enemy. Master Qui-Gon and his eager young Padawan learner, Obi-Wan Kenobi, must uncover their secrets before they fall into the wrong hands!",
     "title": "Hyperspace Stories: Qui-Gon"
   },
   {
@@ -75549,6 +75750,7 @@
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "i-am-a-wookiee",
+    "synopsis": "Meet Chewbacca the Wookiee from the Star Wars saga in this Little Golden Book! Meet Chewbacca, the brave and lovable Wookiee from the epic Star Wars space saga! Featuring stunning retro stylized illustrations, this book is perfect for Star Wars --and Little Golden Book--fans of all ages. It includes epic scenes from Revenge of the Sith , A New Hope , The Empire Strikes Back , Return of the Jedi , The Force Awakens , The Last Jedi , and Solo . And it stars Han Solo, Luke Skywalker, Princess Leia, Yoda, Rey, Finn, R2-D2, C-3PO, and everyone's favorite Star Wars characters. Star Wars has captivated millions worldwide for almost forty years. The phenomenon began with the 1977 theatrical debut of Star Wars , later retitled A New Hope , and has expanded to include eight additional major motion pictures ( The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Force Awakens, Rogue One, and The Last Jedi ), television programming, publishing, video games, and much more, with new films coming every year. Created by visionary writer/director George Lucas, Star Wars is an epic \"space opera\" and an ever-deepening, timeless, mythological tale of good versus evil, set in a galaxy far, far away. Filled with noble Jedi Knights, fearsome creatures, and cruel villains, Star Wars introduced \"the Force\" into the global vocabulary, along with characters such as evil Darth Vader, wise old Yoda, idealistic Luke Skywalker, and lovable Chewbacca. The saga continues to grow and expand, delighting new generations with its exotic worlds, iconic themes, and unforgettable stories.",
     "title": "I Am a Wookiee"
   },
   {
@@ -78891,31 +79093,6 @@
     "slug": "jabba-the-hutt-betrayal",
     "synopsis": "Everyone hopes to get a big break someday, move up to the top seat in their line of work. But when that line of work is intergalactic crime, you've got to make your own breaks. Bib Fortuna, Jabba's loyal lieutenant, has plotted a slave revolt against the Hutt. We've seen how Jabba handles negotiations -- now we'll see how he handles Betrayal.",
     "title": "Jabba the Hutt: Betrayal (1995) #1"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Jim Woodring",
-        "role": "writer",
-        "slug": "jim-woodring"
-      }
-    ],
-    "displayTitle": "Jabba the Hutt: The Art of the Deal",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -4
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1998-06-03T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "jabba-the-hutt-the-art-of-the-deal",
-    "synopsis": "Jabba the Hutt lives to negotiate, and the art of the deal is his only discipline. But the goods he trades are the lives of others, and in that line of business you can't lose your head. These stories hold a valuable lesson: In a deal with the devil, you can always refuse. In a deal with Jabba, it's not advised. Follow his adventures into the seediest corners of the galaxy as he encounters vile gangsters, hungry princesses, and back-stabbing opportunists. You've seen how Jabba handles negotiations&mdash;but how will he handle betrayal?",
-    "title": "Jabba the Hutt: The Art of the Deal"
   },
   {
     "bookType": "other",
@@ -115147,6 +115324,7 @@
     "editions": [
       {
         "extent": 128,
+        "imprint": "Insight Editions",
         "isPrimary": true,
         "isbn10": "1683839366",
         "isbn13": "9781683839361",
@@ -116273,8 +116451,16 @@
         "value": "1405275766"
       },
       {
+        "type": "isbn10",
+        "value": "1484702727"
+      },
+      {
         "type": "isbn13",
         "value": "9781405275767"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781484702727"
       }
     ],
     "editions": [
@@ -116284,6 +116470,14 @@
         "isPrimary": true,
         "isbn10": "1405275766",
         "isbn13": "9781405275767",
+        "kind": "print",
+        "onsale": "2014-08-05T00:00:00.000Z"
+      },
+      {
+        "imprint": "Disney-Lucasfilm Press",
+        "isPrimary": false,
+        "isbn10": "1484702727",
+        "isbn13": "9781484702727",
         "kind": "print",
         "onsale": "2014-08-05T00:00:00.000Z"
       }
@@ -154306,14 +154500,15 @@
         "isPrimary": true,
         "isbn10": "1368057241",
         "isbn13": "9781368057240",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2020-10-06T00:00:00.000Z"
       }
     ],
     "format": "book",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2020-10-20T00:00:00.000Z",
+    "releaseDate": "2020-10-06T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-a-jedi-you-will-be",
@@ -161054,7 +161249,39 @@
   },
   {
     "canonStatus": "non-canon",
+    "creators": [
+      {
+        "name": "Matthew Fillbach",
+        "role": "writer",
+        "slug": "matthew-fillbach"
+      },
+      {
+        "name": "Shawn Fillbach",
+        "role": "writer",
+        "slug": "shawn-fillbach"
+      },
+      {
+        "name": "Jason Hall",
+        "role": "writer",
+        "slug": "jason-hall"
+      },
+      {
+        "name": "Jeremy Barlow",
+        "role": "writer",
+        "slug": "jeremy-barlow"
+      }
+    ],
     "displayTitle": "Clone Wars Adventures Volume 8",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593076800"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593076801"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
@@ -161142,6 +161369,16 @@
       }
     ],
     "displayTitle": "Clone Wars Adventures Volume 9",
+    "editionIds": [
+      {
+        "type": "isbn10",
+        "value": "1593078323"
+      },
+      {
+        "type": "isbn13",
+        "value": "9781593078324"
+      }
+    ],
     "format": "periodicalIssue",
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "clone-wars-adventures",
@@ -161828,7 +162065,8 @@
         "isPrimary": true,
         "isbn10": "0744087341",
         "isbn13": "9780744087345",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2023-12-05T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -162089,7 +162327,7 @@
     "displayTitle": "Droids (1994) #1",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": -15
+      "startYear": -5
     },
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
@@ -162161,7 +162399,7 @@
     "displayTitle": "Droids (1994) #2",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": -15
+      "startYear": -5
     },
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
@@ -162226,7 +162464,7 @@
     "displayTitle": "Droids (1994) #3",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": -15
+      "startYear": -5
     },
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
@@ -162286,7 +162524,7 @@
     "displayTitle": "Droids (1994) #4",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": -15
+      "startYear": -5
     },
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
@@ -162346,7 +162584,7 @@
     "displayTitle": "Droids (1994) #5",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": -15
+      "startYear": -5
     },
     "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
@@ -162406,9 +162644,9 @@
     "displayTitle": "Droids (1994) #6",
     "format": "periodicalIssue",
     "inUniverseDate": {
-      "startYear": 0
+      "startYear": -5
     },
-    "legendsEra": "legendsRebellion",
+    "legendsEra": "legendsRiseOfTheEmpire",
     "parentWorkSlug": "star-wars-droids",
     "periodical": {
       "publicationKind": "comic"
@@ -163112,205 +163350,6 @@
   },
   {
     "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      },
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      },
-      {
-        "name": "Ian Gibson",
-        "role": "artist",
-        "slug": "ian-gibson"
-      },
-      {
-        "name": "Bill Hughes",
-        "role": "artist",
-        "slug": "bill-hughes"
-      },
-      {
-        "name": "Andy Mushynsky",
-        "role": "artist",
-        "slug": "andy-mushynsky"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures",
-    "format": "periodical",
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "periodical": {
-      "imprint": "Dark Horse Comics",
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-04-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994",
-    "synopsis": "Star Wars: Droids: The Kalarba Adventures is a trade paperback published by Dark Horse Comics in June 1995. With an introduction by Anthony Daniels, The Kalarba Adventures collects the Droids Special, the six issues of Star Wars: Droids (1994), the short comic issue \"Artoo's Day Out\", and production sketches from Droids.",
-    "title": "Star Wars Droids: The Kalarba Adventures"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #1",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-04-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-1",
-    "synopsis": "In the Star Wars galaxy, automatons are so much necessary property, but even first-degree droids are considered expendable! Set before the events of Star Wars: A New Hope and the formation of the Empire, Droids features the adventures of protocol droid See-Threepio and astromech droid Artoo-Detoo in the Kalarba system (as seen in DHC #17, 18, and 19). Despite their differences, See-Threepio and Artoo-Detoo know that the best way to survive is to stick together. Thank the maker!",
-    "title": "Star Wars Droids: The Kalarba Adventures #1"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #2",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-05-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-2",
-    "synopsis": "A gang of interplanetary thieves steal See-Threepio and Artoo-Detoo from the Pitareeze family, and take the droids to Kalarba's moon, Indobok. The droids meet a nefarious character from their past, and realize that their troubles have just begun!",
-    "title": "Star Wars Droids: The Kalarba Adventures #2"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #3",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-06-21T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-3",
-    "synopsis": "In a deadly case of mistaken identity, See-Threepio and Artoo-Detoo become entangled in an illegal operation on the Hosk moon, and are forced to enter a droid battle arena.",
-    "title": "Star Wars Droids: The Kalarba Adventures #3"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #4",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-07-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-4",
-    "synopsis": "When Star Wars hit the big screen in 1977, the world fell in love with R2-D2 and C-3PO. Now the events that led them to their fateful meeting with Luke Skywalker are revealed for the first time! In this issue, Corellian rogue Jace Forno leases the dysfunctional duo for a deadly mission to the moon Indobok!",
-    "title": "Star Wars Droids: The Kalarba Adventures #4"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Ryder Windham",
-        "role": "writer",
-        "slug": "ryder-windham"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #5",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-08-16T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-5",
-    "synopsis": "In the droid trade the only use for old units is as spare parts and scrap. So even See-Threepio is impressed when he and Artoo meet veritable antiques Q-E and 2-E, two diminutive Model Es who have operated a nursery for several generations of Kalarbans. But despite their longevity, Q-E and 2-E carry a horrific secret that could spell the end for all droids!",
-    "title": "Star Wars Droids: The Kalarba Adventures #5"
-  },
-  {
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Dan Thorsland",
-        "role": "writer",
-        "slug": "dan-thorsland"
-      }
-    ],
-    "displayTitle": "Droids: The Kalarba Adventures #6",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -5
-    },
-    "legendsEra": "legendsRiseOfTheEmpire",
-    "parentWorkSlug": "star-wars-droids-the-kalarba-adventures-1994",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-09-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "star-wars-droids-the-kalarba-adventures-1994-6",
-    "synopsis": "In the conclusion to the adventures of R2-D2 and C-3PO in the Kalarba system, a power core rupture on Hosk forces all life forms to be evacuated, but life forms doesn't include droids! As Olag Greck makes his final stand, R2-D2 and C-3PO race against time to save the industrial moon&hellip; but first they'll have to survive Greck's droid armada!",
-    "title": "Star Wars Droids: The Kalarba Adventures #6"
-  },
-  {
-    "canonStatus": "non-canon",
     "displayTitle": "Droids",
     "format": "tvSeries",
     "releaseDate": "1985-09-07T00:00:00.000Z",
@@ -163853,17 +163892,23 @@
     "displayTitle": "Encyclopedia of Starfighters and Other Vehicles",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B0DQNCZB4L"
+      },
+      {
         "type": "isbn13",
         "value": "9798217126064"
       }
     ],
     "editions": [
       {
+        "asin": "B0DQNCZB4L",
         "extent": 256,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn13": "9798217126064",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2025-09-16T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -164532,6 +164577,7 @@
     "editions": [
       {
         "extent": 128,
+        "imprint": "Running Press",
         "isPrimary": true,
         "isbn10": "0762405198",
         "isbn13": "9780762405190",
@@ -174598,14 +174644,15 @@
         "isPrimary": true,
         "isbn10": "1787738663",
         "isbn13": "9781787738669",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2022-09-13T00:00:00.000Z"
       }
     ],
     "format": "book",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDate": "2022-05-31T00:00:00.000Z",
+    "releaseDate": "2022-09-13T00:00:00.000Z",
     "releaseDisplayState": "released",
     "releaseStatus": "released",
     "slug": "star-wars-insider-the-galaxys-greatest-villains",
@@ -175430,8 +175477,8 @@
     ],
     "editions": [
       {
-        "extent": 42,
-        "imprint": "DK",
+        "extent": 48,
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0593969243",
         "isbn13": "9780593969243",
@@ -176175,6 +176222,7 @@
     ],
     "editions": [
       {
+        "extent": 70,
         "imprint": "Scholastic",
         "isPrimary": true,
         "isbn10": "0590764136",
@@ -186634,7 +186682,7 @@
         "isbn10": "0744060877",
         "isbn13": "9780744060874",
         "kind": "print",
-        "onsale": "2023-04-07T00:00:00.000Z"
+        "onsale": "2023-04-25T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -186820,7 +186868,7 @@
     ],
     "editions": [
       {
-        "extent": 288,
+        "extent": 384,
         "imprint": "Random House Worlds",
         "isPrimary": true,
         "isbn10": "052547885X",
@@ -186875,11 +186923,12 @@
     "editions": [
       {
         "extent": 16,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0756607647",
         "isbn13": "9780756607647",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2004-08-16T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -188886,6 +188935,10 @@
       },
       {
         "type": "isbn13",
+        "value": "9780241469408"
+      },
+      {
+        "type": "isbn13",
         "value": "9780744028645"
       }
     ],
@@ -188896,6 +188949,13 @@
         "isPrimary": true,
         "isbn10": "0744028647",
         "isbn13": "9780744028645",
+        "kind": "print",
+        "onsale": "2021-11-02T00:00:00.000Z"
+      },
+      {
+        "imprint": "DK",
+        "isPrimary": false,
+        "isbn13": "9780241469408",
         "kind": "print",
         "onsale": "2021-09-23T00:00:00.000Z"
       }
@@ -190377,8 +190437,20 @@
     "displayTitle": "T0-B1: The Droid Who Became a Jedi",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B09RMR7R4Y"
+      },
+      {
+        "type": "isbn10",
+        "value": "073644324X"
+      },
+      {
         "type": "isbn10",
         "value": "0736443258"
+      },
+      {
+        "type": "isbn13",
+        "value": "9780736443241"
       },
       {
         "type": "isbn13",
@@ -190390,9 +190462,19 @@
         "extent": 24,
         "imprint": "Golden Books",
         "isPrimary": true,
+        "isbn10": "073644324X",
+        "isbn13": "9780736443241",
+        "kind": "print",
+        "onsale": "2022-09-20T00:00:00.000Z"
+      },
+      {
+        "asin": "B09RMR7R4Y",
+        "extent": 24,
+        "imprint": "Golden Books",
+        "isPrimary": false,
         "isbn10": "0736443258",
         "isbn13": "9780736443258",
-        "kind": "print",
+        "kind": "ebook",
         "onsale": "2022-09-20T00:00:00.000Z"
       }
     ],
@@ -190584,6 +190666,7 @@
     ],
     "displayTitle": "Tag & Bink II (2006) #1",
     "format": "periodicalIssue",
+    "legendsEra": "legendsInfinities",
     "parentWorkSlug": "tag-bink-ii",
     "periodical": {
       "publicationKind": "comic"
@@ -190649,20 +190732,6 @@
     "title": "Tag & Bink II (2006) #2"
   },
   {
-    "canonStatus": "non-canon",
-    "displayTitle": "Tag & Bink: Revenge of the Clone Menace",
-    "format": "periodicalIssue",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2006-04-26T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "tag-bink-revenge-of-the-clone-menace",
-    "synopsis": "Behold, the long-awaited prequel to the Tag & Bink saga! Many a Star Wars fan has lain awake at night, plagued by suspense and wondering just how this infamous Rebel pair came to be. Well wonder no more, faithful readers! Your plague has ended with this tell-all issue that caps the space-opera legend, courtesy of fan-favorite Star Wars creators Kevin Rubio and Lucas Marangon.The origin story of our hapless heroes begins on their respective planets, Alderaan and Corellia. These future soldiers of the Rebel Alliance are sized up for Padawan potential, and we are treated to a rare inside look at the rigorous mental and physical training undergone by aspiring Knights in the Jedi Temple! Mace Windu, Yoda, Obi-Wan Kenobi, and the elder Fett each have a role in the miseducation of Tag and Bink, but despite all this schoolin', the two decide that spying on Padmé and \"the Chosen One\" is a pretty good idea . . .",
-    "title": "Tag & Bink: Revenge of the Clone Menace"
-  },
-  {
     "bookType": "juniorReader",
     "canonStatus": "canon",
     "creators": [
@@ -190685,11 +190754,13 @@
     ],
     "editions": [
       {
+        "extent": 352,
         "imprint": "Disney-Lucasfilm Press",
         "isPrimary": true,
         "isbn10": "1484741412",
         "isbn13": "9781484741412",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2016-04-05T00:00:00.000Z"
       }
     ],
     "era": "riseOfTheFirstOrder",
@@ -193268,32 +193339,6 @@
     "slug": "tales-of-the-jedi-dark-lords-of-the-sith-6-jedi-assault",
     "synopsis": "In the final, climactic issue of this landmark series, two renegade Jedi, Ulic Qel-Droma and Exar Kun, clash in mortal combat. One will be awarded the title of Dark Lord of the Sith, the most feared and powerful force in the galaxy; the other may be awarded a shallow grave. The fate of the entire universe rests on the outcome!",
     "title": "Tales of the Jedi: Dark Lords of the Sith #6: Jedi Assault"
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Tom Veitch",
-        "role": "writer",
-        "slug": "tom-veitch"
-      }
-    ],
-    "displayTitle": "Tales of the Jedi: Knights of the Old Republic",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": -4000
-    },
-    "legendsEra": "legendsOldRepublic",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1994-08-30T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "tales-of-the-jedi-kotor",
-    "synopsis": "Four thousand years before Luke Skywalker stood as the final Jedi, his predecessors wandered the universe, each playing his own role in keeping the peace and holding back the forces of the dark side. This 136-page collection focuses on Ulic Qel-Droma and Nomi Sunrider, two young novices training to become Jedi warriors. Their training, however, turns into a trial by fire when they prematurely have to face off against reigning crimelord Great Bogga, a Hutt who has killed one of the universe's most powerful Jedi Knights.",
-    "title": "Tales of the Jedi: Knights of the Old Republic"
   },
   {
     "canonStatus": "non-canon",
@@ -197319,7 +197364,7 @@
         "isbn10": "0593958608",
         "isbn13": "9780593958605",
         "kind": "print",
-        "onsale": "2025-06-05T00:00:00.000Z"
+        "onsale": "2025-06-17T00:00:00.000Z"
       }
     ],
     "era": "highRepublic",
@@ -201269,7 +201314,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2026-11-25T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-book-of-boba-fett-marvel-comic-the-book-of-boba-fett-6",
     "title": "The Book of Boba Fett #6"
   },
@@ -203031,12 +203077,12 @@
     "editions": [
       {
         "extent": 176,
-        "imprint": "DK",
+        "imprint": "DK Children",
         "isPrimary": true,
         "isbn10": "0744037158",
         "isbn13": "9780744037159",
         "kind": "print",
-        "onsale": "2021-04-01T00:00:00.000Z"
+        "onsale": "2021-04-27T00:00:00.000Z"
       }
     ],
     "era": "fallOfTheJedi",
@@ -210776,7 +210822,7 @@
     ],
     "editions": [
       {
-        "extent": 1408,
+        "extent": 1224,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345477634",
@@ -211459,7 +211505,7 @@
         "isPrimary": false,
         "isbn10": "0307795454",
         "isbn13": "9780307795458",
-        "kind": "print",
+        "kind": "ebook",
         "onsale": "2011-06-28T00:00:00.000Z"
       },
       {
@@ -227257,7 +227303,7 @@
     "title": "The Kingdom of Ice"
   },
   {
-    "bookType": "referenceBook",
+    "bookType": "adultNovel",
     "canonStatus": "non-canon",
     "creators": [
       {
@@ -227279,7 +227325,7 @@
     ],
     "editions": [
       {
-        "extent": 409,
+        "extent": 416,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345391101",
@@ -228934,32 +228980,6 @@
     "canonStatus": "canon",
     "creators": [
       {
-        "name": "Ben Acker",
-        "role": "writer",
-        "slug": "ben-acker"
-      }
-    ],
-    "displayTitle": "The Storms Of Crait",
-    "era": "ageOfRebellion",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 2
-    },
-    "parentWorkSlug": "the-last-jedi-the-storms-of-crait-2017",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2017-12-27T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "the-last-jedi-the-storms-of-crait-2017-1",
-    "synopsis": "Storms Of Crait is a great tie in comic to The Last Jedi. It gives the reader some more background on Leia's family life and the planet of Crait itself.",
-    "title": "The Storms Of Crait"
-  },
-  {
-    "canonStatus": "canon",
-    "creators": [
-      {
         "name": "Mike Mayhew",
         "role": "colorist",
         "slug": "mike-mayhew"
@@ -229001,12 +229021,18 @@
       }
     ],
     "displayTitle": "The Last Jedi: The Storms of Crait (2017) #1",
+    "era": "ageOfRebellion",
     "format": "periodicalIssue",
+    "inUniverseDate": {
+      "startYear": 1
+    },
     "parentWorkSlug": "the-last-jedi-the-storms-of-crait-2017",
     "periodical": {
       "publicationKind": "comic"
     },
-    "releaseDisplayState": "announced",
+    "releaseDate": "2017-12-27T00:00:00.000Z",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-last-jedi-the-storms-of-crait-2017-1-2",
     "title": "The Last Jedi: The Storms of Crait (2017) #1"
   },
@@ -231071,7 +231097,8 @@
       "startYear": 9
     },
     "releaseDate": "2026-11-24T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "the-mandalorian-adventures-with-grogu",
     "synopsis": "Celebrate the powerful friendship between Grogu and Din Djarin in this adorable pop-up storybook! When the Mandalorian accepted the assignment to deliver an asset, he never expected that the package he'd secure would be an orphaned child. What began as a job turned into something more as Din Djarin grew closer to Grogu, an alien child strong in the Force. Experience key moments in their journey together in this engaging pop-up storybook from acclaimed paper engineer Matthew Reinhart featuring memorable scenes from all seasons of The Mandalorian and a peek into the new film The Mandalorian & Grogu recreated in engaging pop-ups. From Grogu's first meeting with Din Djarin to his studies among the Jedi and ultimately his determination to learn the Way of the Mandalore and become Din Grogu, this delightful pop-up storybook is the perfect book for the whole family to enjoy Grogu's journey together.",
     "title": "The Mandalorian: Adventures with Grogu"
@@ -233068,12 +233095,17 @@
     "displayTitle": "The Mandalorian: We Are One",
     "editionIds": [
       {
+        "type": "asin",
+        "value": "B0FHJY2MKF"
+      },
+      {
         "type": "isbn13",
         "value": "9798217025336"
       }
     ],
     "editions": [
       {
+        "asin": "B0FHJY2MKF",
         "extent": 24,
         "imprint": "Golden Books",
         "isPrimary": true,
@@ -233757,6 +233789,7 @@
     ],
     "editions": [
       {
+        "extent": 200,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345477596",
@@ -236426,24 +236459,6 @@
     "slug": "the-red-ghost-an-ewok-adventure",
     "synopsis": "The Red Ghost: An Ewok Adventure is a 1986 children's book adaptation of the thirteenth episode of the Ewoks TV series, entitled \"Asha.\"",
     "title": "The Red Ghost: An Ewok Adventure"
-  },
-  {
-    "canonStatus": "non-canon",
-    "displayTitle": "The Return of Tag & Bink: Special Edition",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 4
-    },
-    "legendsEra": "legendsRebellion",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "2006-03-29T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "the-return-of-tag-bink-special-edition",
-    "synopsis": "Lock up your daughters and hide the Jawas, faithful readers, because Tag and Bink are BACK! Yea, though one might be hard-pressed to develop a sequel to the popular Tag & Bink Are Dead, fan-favorite writer Kevin Rubio and Star Wars stalwart Lucas Marangon have risen to the occasion!And what an occasion it is. Fans jonesing for more side-splitting Star Wars shenanigans will thrill to the new misadventures of this hapless pair, members of the Rebel Alliance, who have somehow stumbled past the worst Imperial perils with their limbs intact. In The Return of Tag & Bink: Special Edition, the duo set out to rescue a certain smuggler trapped in carbonite - with the help of Lando Calrissian! One thing leads to another, and they manage to subdue the deadliest bounty hunter in the galaxy on their way to infiltrating the Hutt palace. Star Wars fans know what comes next, and there will be guest appearances of favorite characters on the way to the Sarlacc pit, the Death Star, and Endor! This issue will conquer the world!",
-    "title": "The Return of Tag & Bink: Special Edition"
   },
   {
     "bookType": "childrensBook",
@@ -245086,32 +245101,6 @@
     "title": "Vader's Little Princess"
   },
   {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Darko Macan",
-        "role": "writer",
-        "slug": "darko-macan"
-      }
-    ],
-    "displayTitle": "Vader's Quest (1999)",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 0
-    },
-    "legendsEra": "legendsRebellion",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1999-12-15T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "vaders-quest",
-    "synopsis": "After Darth Vader's narrow escape from the destruction of the Death Star, the Dark Lord is consumed with a desire to find the Force-strong young pilot who fired the fatal shot. For Luke Skywalker represents the heart and soul of the Alliance, and perhaps, for Vader, he represents much, much more. The book's first printing features a foil-stamped logo and special bonus fold-out poster by Gibbons and Angus McKie.",
-    "title": "Vader's Quest (1999)"
-  },
-  {
     "bookType": "adultNovel",
     "canonStatus": "non-canon",
     "creators": [
@@ -247373,11 +247362,13 @@
     ],
     "editions": [
       {
+        "extent": 176,
         "imprint": "Quirk Books",
         "isPrimary": true,
         "isbn10": "1594746370",
         "isbn13": "9781594746376",
-        "kind": "print"
+        "kind": "print",
+        "onsale": "2013-07-02T00:00:00.000Z"
       }
     ],
     "format": "book",
@@ -251021,99 +251012,6 @@
     "slug": "x-wing-wraith-squadron",
     "synopsis": "As the battle against the Empire rages, a new crew of X-wing fighters risk life and machine on a daring undercover mission and emerge as the Rebel Alliance's elite strike force. It is Wedge Antilles's boldest creation: a covert-action unit of X-wing fighters, its pilots drawn from the dregs of other units, castoffs and rejects being given one last chance. But before the new pilots can complete their training, the squadron's base is attacked by former Imperial admiral Trigit and Wraith Squadron is forced to swing into action - taking over an Imperial warship and impersonating its crew. The mission: to gain vital intelligence about Trigit's secret weapons, to sabotage the admiral's plans, and to lure him into an Alliance trap. However, the high-stakes gamble pits Wraith Squadron's ragtag renegades against the Empire's most brilliant master of guile and deception. Are they up to the challenge? If not, the penalty is instant death.",
     "title": "X-Wing: Wraith Squadron"
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Michael A. Stackpole",
-        "role": "writer",
-        "slug": "michael-a-stackpole"
-      },
-      {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      }
-    ],
-    "displayTitle": "X-Wing Rogue Squadron: Battleground Tatooine",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 4
-    },
-    "legendsEra": "legendsRebellion",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1998-04-01T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "xwing-rogue-squadron-battleground-tatooine",
-    "synopsis": "Star Wars: X-Wing Rogue Squadron: Battleground: Tatooine was the third story-arc in the Star Wars: X-Wing Rogue Squadron comics. It ran from July 1 to September 1, 1996.",
-    "title": "X-Wing Rogue Squadron: Battleground Tatooine"
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Michael A. Stackpole",
-        "role": "writer",
-        "slug": "michael-a-stackpole"
-      }
-    ],
-    "displayTitle": "X-Wing Rogue Squadron: In the Empire's Service",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 4
-    },
-    "legendsEra": "legendsRebellion",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1999-05-05T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "xwing-rogue-squadron-in-the-empires-service",
-    "synopsis": "Star Wars: X-Wing Rogue Squadron: In the Empire's Service was the sixth story arc in the Star Wars: X-Wing Rogue Squadron comics, and the first of the \"Rise of Isard\" arc. It ran from August 6 to November 5, 1997.",
-    "title": "X-Wing Rogue Squadron: In the Empire's Service"
-  },
-  {
-    "bookType": "other",
-    "canonStatus": "non-canon",
-    "creators": [
-      {
-        "name": "Michael A. Stackpole",
-        "role": "writer",
-        "slug": "michael-a-stackpole"
-      },
-      {
-        "name": "Jan Strnad",
-        "role": "writer",
-        "slug": "jan-strnad"
-      },
-      {
-        "name": "Mike W. Barr",
-        "role": "writer",
-        "slug": "mike-w-barr"
-      }
-    ],
-    "displayTitle": "X-Wing Rogue Squadron: Requiem for a Rogue",
-    "format": "periodicalIssue",
-    "inUniverseDate": {
-      "startYear": 4
-    },
-    "legendsEra": "legendsRebellion",
-    "periodical": {
-      "publicationKind": "comic"
-    },
-    "releaseDate": "1999-02-03T00:00:00.000Z",
-    "releaseDisplayState": "released",
-    "releaseStatus": "released",
-    "slug": "xwing-rogue-squadron-requiem-for-a-rogue",
-    "synopsis": "It should be an easy mission for Rogue Squadron -- a simple search-and-rescue of a group of castaways forced down to Malrev IV. But when they reach the backwater planet, the Rogues find themselves attacked by the bestial Irrukiine and then by the Bothans themselves. There's something strange going down on Malrev 4.",
-    "title": "X-Wing Rogue Squadron: Requiem for a Rogue"
   },
   {
     "bookType": "adultNovel",

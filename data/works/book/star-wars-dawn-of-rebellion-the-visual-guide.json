@@ -31,7 +31,8 @@
       "isPrimary": true,
       "isbn10": "0744087341",
       "isbn13": "9780744087345",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2023-12-05T00:00:00.000Z"
     }
   ],
   "format": "book",

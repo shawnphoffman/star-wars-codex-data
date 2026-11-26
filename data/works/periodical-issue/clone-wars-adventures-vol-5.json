@@ -2,13 +2,23 @@
   "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "displayTitle": "Clone Wars Adventures Volume 5",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593074832"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593074838"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2006-04-12T00:00:00.000Z",
+  "releaseDate": "2006-04-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "clone-wars-adventures-vol-5",

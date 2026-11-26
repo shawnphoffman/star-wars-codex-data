@@ -2,6 +2,14 @@
   "canonStatus": "non-canon",
   "collectionType": "omnibus",
   "collects": [
+    "a-new-hope-the-special-edition-1",
+    "a-new-hope-the-special-edition-2",
+    "a-new-hope-the-special-edition-3",
+    "a-new-hope-the-special-edition-4",
+    "classic-star-wars-return-of-the-jedi-1",
+    "classic-star-wars-return-of-the-jedi-2",
+    "classic-star-wars-the-empire-strikes-back-1",
+    "classic-star-wars-the-empire-strikes-back-2",
     "episode-i-the-phantom-menace-1",
     "episode-i-the-phantom-menace-2",
     "episode-i-the-phantom-menace-3",
@@ -13,11 +21,7 @@
     "episode-iii-revenge-of-the-sith-1",
     "episode-iii-revenge-of-the-sith-2",
     "episode-iii-revenge-of-the-sith-3",
-    "episode-iii-revenge-of-the-sith-4",
-    "return-of-the-jedi-1-in-the-hands-of-jabba-the-hutt",
-    "return-of-the-jedi-2-the-emperor-commands",
-    "return-of-the-jedi-3-mission-to-endor",
-    "return-of-the-jedi-4-the-final-duel"
+    "episode-iii-revenge-of-the-sith-4"
   ],
   "displayTitle": "Omnibus: The Complete Saga",
   "releaseDate": "2011-09-21T00:00:00.000Z",

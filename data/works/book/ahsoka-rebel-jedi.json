@@ -11,14 +11,19 @@
   "displayTitle": "Ahsoka Rebel Jedi",
   "editionIds": [
     {
+      "type": "asin",
+      "value": "B0F78X2JT1"
+    },
+    {
       "type": "isbn13",
       "value": "9798217135059"
     }
   ],
   "editions": [
     {
+      "asin": "B0F78X2JT1",
       "extent": 48,
-      "imprint": "DK",
+      "imprint": "DK Children",
       "isPrimary": true,
       "isbn13": "9798217135059",
       "kind": "print",

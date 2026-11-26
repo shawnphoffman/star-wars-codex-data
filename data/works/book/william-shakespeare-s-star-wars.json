@@ -21,11 +21,13 @@
   ],
   "editions": [
     {
+      "extent": 176,
       "imprint": "Quirk Books",
       "isPrimary": true,
       "isbn10": "1594746370",
       "isbn13": "9781594746376",
-      "kind": "print"
+      "kind": "print",
+      "onsale": "2013-07-02T00:00:00.000Z"
     }
   ],
   "format": "book",

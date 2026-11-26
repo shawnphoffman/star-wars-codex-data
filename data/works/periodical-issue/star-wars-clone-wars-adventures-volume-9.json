@@ -73,6 +73,16 @@
     }
   ],
   "displayTitle": "Clone Wars Adventures Volume 9",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593078323"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593078324"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",

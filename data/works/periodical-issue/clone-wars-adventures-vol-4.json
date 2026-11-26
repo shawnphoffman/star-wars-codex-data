@@ -2,13 +2,23 @@
   "bookType": "childrensBook",
   "canonStatus": "non-canon",
   "displayTitle": "Clone Wars Adventures Volume 4",
+  "editionIds": [
+    {
+      "type": "isbn10",
+      "value": "1593074026"
+    },
+    {
+      "type": "isbn13",
+      "value": "9781593074029"
+    }
+  ],
   "format": "periodicalIssue",
   "legendsEra": "legendsRiseOfTheEmpire",
   "parentWorkSlug": "clone-wars-adventures",
   "periodical": {
     "publicationKind": "comic"
   },
-  "releaseDate": "2005-10-19T00:00:00.000Z",
+  "releaseDate": "2005-10-26T00:00:00.000Z",
   "releaseDisplayState": "released",
   "releaseStatus": "released",
   "slug": "clone-wars-adventures-vol-4",
