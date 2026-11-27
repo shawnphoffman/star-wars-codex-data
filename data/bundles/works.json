@@ -24063,7 +24063,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-07-07T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-1",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 1"
@@ -24126,7 +24127,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2004-11-17T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-2",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 2"
@@ -24174,7 +24176,8 @@
       "publicationKind": "comic"
     },
     "releaseDate": "2005-03-02T00:00:00.000Z",
-    "releaseDisplayState": "upcoming",
+    "releaseDisplayState": "released",
+    "releaseStatus": "released",
     "slug": "clone-wars-adventures-vol-3",
     "synopsis": "Star Wars: Clone Wars Adventures is a series of digest-sized graphic novels published by Dark Horse, set in the Clone Wars. They have an art style, pacing, and highly over-the-top storylines similar to the Star Wars: Clone Wars cartoon series. Each volume is 96 pages, with three to four stories each.",
     "title": "Clone Wars Adventures Volume 3"
@@ -62466,7 +62469,7 @@
     ],
     "editions": [
       {
-        "extent": 416,
+        "extent": 432,
         "imprint": "Del Rey",
         "isPrimary": true,
         "isbn10": "0345428714",
